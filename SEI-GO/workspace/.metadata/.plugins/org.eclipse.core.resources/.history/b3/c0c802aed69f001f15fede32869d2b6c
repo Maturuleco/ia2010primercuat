@@ -1,0 +1,15 @@
+import java.util.List;
+
+
+public class EmptyWordManager {
+
+	private List<String> dictionary;
+
+	public EmptyWordManager(String path) {
+		
+		
+	}
+	
+	
+	
+}

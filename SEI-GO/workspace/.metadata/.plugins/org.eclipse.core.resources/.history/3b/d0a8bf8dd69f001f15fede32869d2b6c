@@ -1,0 +1,8 @@
+
+public class EmptyWordManager {
+
+	private List<String> dictionary;
+	
+	
+	
+}

@@ -1,0 +1,30 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.util.List;
+
+
+public class EmptyWordManager {
+
+	private List<String> dictionary;
+
+	public EmptyWordManager(String path) {
+		File source = new File(path);
+		
+		try {
+			BufferedReader buffer = new BufferedReader( new FileReader( source ) );
+			String line;
+			while ( (line = buffer.readLine())!=null) {
+				
+			}
+		} catch (Exception e) {
+			System.out.println("No se pudo encontrar el path: " + path);
+			e.printStackTrace();
+		}
+		
+	}
+	
+	
+	
+}
