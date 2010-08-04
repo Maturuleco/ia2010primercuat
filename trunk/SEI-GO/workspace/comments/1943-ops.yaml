@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un lugar para no volver: El cartel anuncia men\xFA ejecutivo a $26, que consta s\xF3lo de un plato (no hay elecci\xF3n posible)+ chop de cervez o vaso de gaseosa. Si la gaseosa es light, $ 7 m\xE1s a pagar. Sin postre y encima cobran aparte el servicio de mesa ($6). Conclusi\xF3n: Por $35 comimos un plato de pastas medio fr\xEDo, de paquete de $3. La atenci\xF3n es mala, no se puede pedir juntar mesas y todas son para 4 personas. Un fiasco total."
+    date: 17-07-2009
+    user: http://mi.guiaoleo.com/members/40086
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida es normal, los precios demasiado caros por lo que ofrecen. No vuelvo
+    date: 13-08-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: la comida muy buena , el servicio bueno , el precio un poco caro ideal para ir con amigos
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/46465
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Fuimos 15 personas por un evento puntual y realmente salimos todos muy decepcionados. La comida es ridiculamente cara y deja mucho que desear.
+      Sinceramente para no volver.
+    date: 27-03-2008
+    user: http://mi.guiaoleo.com/members/42423
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lindo lugar, agradable. La comida normal guarda relaci\xF3n calidad precio.-"
+    date: 26-11-2007
+    user: http://mi.guiaoleo.com/members/5952
+    ambiente_rank: muy bueno

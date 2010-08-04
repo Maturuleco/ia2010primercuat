@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "A favor:hotel boutique, hermoso,ambiente super agradable y tranquilo para una velada rom\xE1ntica.La carta de vinos es destacable, con etiquetas interesantes, aunque algo elevados de precio. \r\n\
+      En contra:a pesar de que asisitimos con reserva, y que lamentablemente seg\xFAn nos dijeron hab\xEDa faltado la \"\xFAnica\" camarera que tiene el hotel, nos atendi\xF3 el conserje, ins\xF3lito!!!, que a pesar de la buena voluntad,y buena onda, no ten\xEDa idea de nada, ni de los vinos, ni de los platos, bah!, ni hacer caf\xE9. Los platos no est\xE1n a la altura del lugar y son caros, al final nos trajeron la cuenta sin pedirla."
+    date: 07-09-2009
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente lugar nuevo en San Telmo. Cene con amigas y nos gusto mucho a todas, buen servicio, muy rica comida, y una carta de vinos increible. El ambiente te da una paz que te invita a quedarte y seguir disfrutando del lugar.
+    date: 19-07-2009
+    user: http://mi.guiaoleo.com/members/44985
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Festejamos el cumplea\xF1os de mi marido con amigos. La atenci\xF3n es personalizada. La presentaci\xF3n y el gusto de los platos es deliciosa. El ambiente es muy c\xE1lido. Te sentis como en tu casa. Cuidan todos los detalles. Volveremos."
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/66743
+    ambiente_rank: excelente

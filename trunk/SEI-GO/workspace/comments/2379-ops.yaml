@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La relaci\xF3n precio-calidad no cierra en ningun momento. Est\xE1 orientado a turistas me parece. No lo recomendar\xEDa."
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/75853
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena comida, rica y abundante, aunque nada del otro mundo. Algo caro para la zona y la ambientaci\xF3n que tiene."
+    date: 11-08-2009
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: he comido en varias oportunidades,es comida sencilla,nada pretenciosa,las porciones son generosas y la materia prima es de buen nivel.Comida sencilla y segura a un precio razonable.Volvere
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/28774
+    ambiente_rank: muy bueno

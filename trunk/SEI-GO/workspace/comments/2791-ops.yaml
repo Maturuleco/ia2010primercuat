@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "L a comida bien, aunque los platos llegaron a destiempo y uno de ellos fr\xEDo."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/77109
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Muuucho ruido en el primer piso. Imposible mantener una conversacion.
+      
+      La comida bien hasta ahi.
+      
+      Lo mejor es el descuento del diario
+    date: 05-01-2010
+    user: http://mi.guiaoleo.com/members/14188
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "En la subsidiaria de la Goleada,se come bien y barato(sobre todo si se va con el descuento del diario).La mayor\xEDa de los platos son para compartir.Los cortes sabrosos:entra\xF1a,bife de chorizo y Lomo(el asado lo tuvimos que devolver porque estaba duro,el cual lo cambiaron sin inconvenientes,bien ahi Jorgito el encargado).Las mesas del piso de arriba,tienen mejor vista y mas espacio entre ellas,pero las mozas tardan un poco en pasar a levantar los pedidos y entregar los platos.Ojo,las fotos que se ven arriba, no son las del restaurant actual."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Vamos frecuentemente, la comida es muy buena, especialmente las pastas. La atenci\xF3n es buena, no me pareci\xF3 lenta, pero suelo ir en horarios no pico. El precio se hace muy bueno con las promociones del Club la Naci\xF3n. El encargado del local es muy amable."
+    date: 08-12-2009
+    user: http://mi.guiaoleo.com/members/35719
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fuimos con el descuento de La Nacion
+    date: 02-12-2009
+    user: http://mi.guiaoleo.com/members/73319
+    ambiente_rank: bueno

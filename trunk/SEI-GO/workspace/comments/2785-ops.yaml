@@ -1,0 +1,221 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Todo muy bien, comida, especialmente los postres, el servicio y el lugar
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/79504
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy rico todo, en especial las medialinas
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/78135
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy buenos postres, torta de maracuya INCREIBLE!!!!!!!!!
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/78078
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Simple, sin lujos. Muy agradable. Muy buena comida y excelente atenci\xF3n. Volver\xEDa sin duda."
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/12643
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fuimos por una promoci\xF3n de AMEX. La atenci\xF3n cuando llamamos para reservar fue EXCELENTE igual que la atenci\xF3n brindada por la camarera. La comida muy rica y abundante."
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/22460
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Estubo todo muy bueno
+    date: 10-11-2009
+    user: http://mi.guiaoleo.com/members/52998
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lindo lugar, buena comida pero algunos precios me parecen desubicados, $9 una coca-cola me parece un abuso grosero. Hay restaurantes que en lugar de tratar de llenar sus locales tratan de aprovechar descuidos para ganar unos pesos mas en ese momento a costa que los clientes no deseen volver.
+    date: 16-10-2009
+    user: http://mi.guiaoleo.com/members/52307
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar nos pareci\xF3 bueno, no se destaca por su ambientaci\xF3n, si no por sus porciones abundantes y por la variedad que poseen de platos. Yo recomiendo los cr\xEApes de pollo y champignon, que la verdad por la cantidad, qued\xE9 pip\xF3n y no pod\xEDa terminarlos. Los postres tambi\xE9n puedo dar fe que son abundantes. En definitiva, el lugar vale el precio que se paga."
+    date: 10-01-2009
+    user: http://mi.guiaoleo.com/members/57029
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena comida, la ensalada c\xE9sar estaba perfecta, y el tiramis\xFA exquisito, el ambiente no es tan acogedor y el servicio puede mejorar, no obstante vamn a comer bien."
+    date: 08-01-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui por una promoci\xF3n de American Express y por lo tanto no puedo opinar por los precios. Si debo decir que la calidad de la comida fue muy buena as\xED tambi\xE9n como la atenci\xF3n. Si bien el lugar es chico est\xE1 bien decorado. Es para volver"
+    date: 12-10-2008
+    user: http://mi.guiaoleo.com/members/10204
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos a desayunar un domingo a la ma\xF1ana, todo lo que pedimos riquisimo pero los precios son imposibles de pagar de caros, dos personas gastamos 63.00 pesos mirando cada precio de la carta fijamente. Para peor no respetaron la promoci\xF3n de tarjetas citi o jumbo como est\xE1 indicado.Una l\xE1stima. No creo que volvamos..."
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/10498
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Tres comensales insatisfechos. Una camarera nos asegur\xF3 que los hongos a la provenzal eran hongos secos, pero resultaron ser champi\xF1ones en conserva. Las rabas no estuvieron mal. El punto del risotto estaba demasiado duro, y el plato estaba muy salado. El comensal que pidi\xF3 br\xF3tola not\xF3 que se trataba de una merluza disfrazada, y el que pidi\xF3 cordero patag\xF3nico no qued\xF3 muy satisfecho con el sabor de su plato tampoco. No volveremos."
+    date: 24-07-2008
+    user: http://mi.guiaoleo.com/members/48251
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La ambientaci\xF3n no est\xE1 mal. La atenci\xF3n es buena. La comida no es gran cosa, ped\xED un salm\xF3n con salsa de almendras y la verdad es que estaba lleno de almendras pero tampoco dec\xEDa demasiado si bien no era feo. El tiramis\xFA de postre muy rico la verdad, lo mejor creo (con verdadero mascarpone). Un tanto caro la verdad."
+    date: 06-07-2008
+    user: http://mi.guiaoleo.com/members/25950
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un verdadero desastre!! La decoraci\xF3n de terror igual que el servicio, la comida fria y cara no vale el lugar lo que ofrece!!!! No lo recomiendooo"
+    date: 14-06-2008
+    user: http://mi.guiaoleo.com/members/37587
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es agradable, nos reservaron la mesa y apesar de llegar unos 15' despu\xE9s mantuvieron la reserva, pero la moza que nos atendio un desastre. No nos ofrecio bebida, no nos puso servilleta, no nos ven\xEDa a tomar el pedido. Me parece que era un problema de ella por que despu\xE9s cambio la moza y mejor\xF3 la atenci\xF3n. Probaremos otra vez para darle otra chanze."
+    date: 08-06-2008
+    user: http://mi.guiaoleo.com/members/45627
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Excelente lugar , en realidad fui por una promocion de american express y volvi una vez mas .
+      La atencion es muy calida , los precios razonables y la calida de la comida muy buena.
+    date: 28-05-2008
+    user: http://mi.guiaoleo.com/members/31242
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un ambiente c\xE1lido con un personal siempre dispuesto. Por consiguiente las se\xF1oritas que atienden son muy atentas. De la comida lo \xFAnico que se puede decir que es excelente. En un a\xF1o y medio es la tercera vez que voy, as\xED que pueden sacar sus conclusiones. Pienso volver a ir dentro de alg\xFAn tiempo. Si hay un lugar que el ambiente es my bueno, el servicio y la comida son excelentes, \xBFpor qu\xE9 no ir de nuevo?"
+    date: 27-05-2008
+    user: http://mi.guiaoleo.com/members/7721
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "me encant\xF3 la comida la atenci\xF3n todo!!Un poco saldos los precios para mi bolsillo pero igual lo recomiendo. Volveria sin dudas"
+    date: 23-05-2008
+    user: http://mi.guiaoleo.com/members/45346
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: me guto mucho la comida, me parecio excelente el servicio tambien fue muy bueno, lo recomiendo y tambien volvere a ir pronto.
+    date: 10-05-2008
+    user: http://mi.guiaoleo.com/members/33266
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es excelente! Todo muy rico y bien servido. El ambiente es chico y calido, y los mozos muy buena onda. Los precios estaban muy bien, incluso mas barato que otros de menor categor\xEDa."
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/29956
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "comimos muy bien. la atenci\xF3n regular. el plato que pedimos pollo al wok tenia trozos generosos de pechugas cocidas en su punto como as\xED tambi\xE9n el resto de los vegetales. Es mas le pedimos una mofificacion al plato y qued\xF3 genial. los platos son abundantes se puede compartir. compramos una mermelada de ciruela para llevar y resulto exquisita la peque\xF1a critica seria que si bien la piel de la fruta resulta rica en fibras no le va bien a una mermelada tan bien preparada. todo muy recomedable supera a sus competidores de la zona con exquisita modestia."
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/44755
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui a la tarde, para estudiar. El caf\xE9 es delicioso, lo mismo que toda la patisserie. Es una mezcla de lugar de campo con cierto charme urbano. El ambiente es c\xE1lido y la gente, relajada."
+    date: 12-04-2008
+    user: http://mi.guiaoleo.com/members/44043
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Nos gusto mucho el lugar aunque nos sorprendimos de que el menu no era el mismo que de la sucursal de Charcas. La comida muy buena y los mozos con una onda excelente inclusive con los ninos. Ideal para una cena en familia
+    date: 27-03-2008
+    user: http://mi.guiaoleo.com/members/5774
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El salm\xF3n con vegetales estaba muy fresco y en su justo punto. Muy buena la atenci\xF3n de la \xFAnica e hiperkin\xE9tica camarera. Se nos hizo tarde como para probar los postres que parecen ser la especialidad de la casa. Volveremos."
+    date: 07-02-2008
+    user: http://mi.guiaoleo.com/members/12667
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy agradable ambiente (chico pero lindo) La comida excelente, todo muy bien preparado y en su punto justo. Atenci\xF3n buena y los postres muy ricos. Altamente recomendable, sobre todo por el precio en una zona donde todo es muy caro."
+    date: 28-12-2007
+    user: http://mi.guiaoleo.com/members/11291
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      El lugar es chiquito y muy tranquilo, al mediodia parece una confiteria dado que mucha gente se encontraba desayunando. Los platos estuvieron exquisitos en especial el risotto, aunque critico la poca variedad.
+      No probamos lo dulce pero, lo exibido en las heladeras era realmente atractivo.
+      Por el tipo de lugar, lo recomiendo para ir con alguna amiga a charlar.
+    date: 23-12-2007
+    user: http://mi.guiaoleo.com/members/15685
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se trata de un restaurant de dimensiones peque\xF1as, muy bien ambientado y climatizado. La atencion fue esmerada. Los platos muy bien presentados a temperatura y sabrosos. Un lugar ideal para una cena intima. Para los golosos muy recomendables las tortas a la hora del postre. "
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/13437
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy calido, la atencion muy buena, y los platos muy sabrosos.\r\n\
+      Los precios bastante accesibles considerando la zona. "
+    date: 09-10-2007
+    user: http://mi.guiaoleo.com/members/33392
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena comida, muy bien atendido, muy simpatica la ni\xF1a y un buen ambiente. Precios razonables y eso que comimos de todo."
+    date: 14-09-2007
+    user: http://mi.guiaoleo.com/members/32016
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy agradable ambiente, muy buena disposici\xF3n de la camarera, precios razonables y comida de primera. Para recomendar."
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/7629
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Si bien, ten\xEDa la experiencia de ir al local que esta sobre la calle Charcas, en el cual se come muy bien y el ambiente es super agradable, me llev\xE9 gran decepci\xF3n en \xE9ste que se encuentra en la calle B\xE1ez......  la atenci\xF3n muy lenta, tardaron como 15 minutos en traernos la carta, luego la entrada otros 15 o 20 minutos m\xE1s y el plato principal tard\xF3 mucho m\xE1s, es decir, para comenzar a comer, tuvimos aprox mas de 1 hora. \r\n\
+      Y cuando la comida lleg\xF3, estaba fr\xEDa..... y con much\xEDsimo ajo, ya que hab\xEDamos pedido variedad de platos, y todos tuvimos la misma impresi\xF3n. \r\n\
+      \r\n\
+      As\xED que bueno, quiz\xE1s deber\xEDan mejorar varias cosas para poder dar una buena atenci\xF3n y brindar un buen servicio, ya que por los precios que tienen es lo m\xEDnimo que uno puede esperar.\r\n\
+      Saludos y gracias"
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/13585
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Elegimos el restaurante porque las crticas eran buenas en todos los aspectos. Una vez ah\xED nos dimos cuenta que lo \xFAnico rescatable era el lugar, pero con relaci\xF3n a la comida y a la atenci\xF3n fue una decepci\xF3n total, ya que la moza tard\xF3 m\xE1s de 15 minutos en traernos la carta, mas de media hora en traerenos la entrada, y desde que terminamos de comer la entrada hasta que nos trajeron el plato principal una hora, adem\xE1s todos los platos principales que se pidieron en la mesa estaban tibios y algunos inclusive frios (como por ejemplo unas batatas fritas que acompa\xF1an como guarnici\xF3n a unas pechuguitas)."
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/23286
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fui con amigos y el chico que nos recibi\xF3 no nos trato bien. Tampoco nos avisaron que los platos eran claramente para compartir, por lo que sobro mucha comida, pero realmente era buenisima y economica."
+    date: 25-06-2007
+    user: http://mi.guiaoleo.com/members/23311
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Pase por el lugar y la verdad me tento ver la mesa con medialunas y sandwich, la verdad muy rico todo, salvo las bebidas, el cafe re quemado, el jugo de naranja muy rebajado, lo peor de todo fue esperar que la moza termine de hablar por telefono y luego de hablar con el cajero para que nos atienda a pesar de que varias veces trate de llamar su atencion. volveria solamente si tuviera mejor atencion o pediria delivery.
+    date: 20-06-2007
+    user: http://mi.guiaoleo.com/members/11496
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es muy bueno y se come muy rico. "
+    date: 14-06-2007
+    user: http://mi.guiaoleo.com/members/24540
+    ambiente_rank: excelente

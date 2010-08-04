@@ -1,0 +1,72 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un sal\xF3n enorme,que sirve m\xE1s para tragosEst\xE1 dividido en dos,cuando entramos nos quisieron sentar en la parte delantera en sillones y mesa ratona.Despu\xE9s de decirle que iba ser inc\xF3modo comer en esa mesita,nos mandaron a la parte de atr\xE1s.Hab\xEDa muy poca luz, parec\xEDa iluminado con velas,no se pod\xEDa ver casi nada y menos la comida. El bife fu\xE9 min\xFAsculo y las papas tipo espa\xF1ola, transparentes.Eramos los \xFAnicos"
+    date: 01-07-2008
+    user: http://mi.guiaoleo.com/members/7721
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      El servicio fue muy malo, mi esposa se descompuso con la comida, y ademas no habia nadie en el lugar.
+      Lamentable experiencia
+    date: 16-05-2008
+    user: http://mi.guiaoleo.com/members/45031
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lamentablemente tuvimos muy mala experiencia en SUM. Demora en el servicio, reiterar al mozo los pedidos, el vino que elegimos no estaba en la carta, el plato: lamentable. Lleg\xF3 frio o sea, me arruino el plato. A la hora de postre solo habia 2 opciones, de la cual el Crumble vino quemado y con helado de frutilla, pues no tenian de vainilla. Realmente la reclacion costo-calidad p\xE9sima. Pagamos 75 pesos cada uno por NADA. Una cena para el olvido, NO VUELVO NUNCA MAS Y NI SE ME OCURRE RECOMENDAR EL LUGAR considerando que hay opciones mejores a 50 mts. "
+    date: 22-02-2008
+    user: http://mi.guiaoleo.com/members/40909
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno el lugar, el nivel de la comida y de la gente.
+    date: 20-09-2007
+    user: http://mi.guiaoleo.com/members/32569
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar es muy lindo y la carta promete... pero no cumple. \r\n\
+      Es una l\xE1stima que el domingo a la noche se queden con menos de la mitad de los platos porque seg\xFAn te informan se elaboran los lunes y ya los domingos queda poco... y encima te lo dicen!!. El postre -volc\xE1n de chocolate- hizo erupci\xF3n y se quem\xF3, del ganache no tuvimos ni noticias. "
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/27878
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Picamos una entradas del Mar (Marizcos, calamaretis, etc marinacdos) muy rica.\r\n\
+      Excelente Barra (todos los tragos y bien servidos).\r\n\
+      Buena atenci\xF3n, aunque cuando se lleno el lugar no descuidaron un poco... \r\n\
+      Igualmente es para volver. "
+    date: 11-07-2007
+    user: http://mi.guiaoleo.com/members/30331
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es excelente, una ambientaci\xF3n moderna pero c\xE1lida con muchas posibilidades por la variedad de espacios que hay. Tiene mesas, bar, livings, vinoteca, un VIP. Muy bueno. Y el men\xFA ejecutivo estuvo b\xE1rbaro y a buen precio. Voy a volver de noche porque me dijeron que hay muy buen ambiente. Algunos problemas de atenci\xF3n, pero pasa en la mayor\xEDa de los lugares que reci\xE9n empiezan. Ni mejor ni peor que en muchos otros lugares de Las Ca\xF1itas o Palermo Hollywood. "
+    date: 10-06-2007
+    user: http://mi.guiaoleo.com/members/25159
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      El lugar muy lindo, muy bien ambientado. Hasta ahi todo perecto,pero cuando llego el momento de pedir la cena fue una desorganizacion total.
+      Los platos de los 8 comenzales que eramos llegaron todos a destiempo,lo mismo paso con el plato pincipal.
+       Cuando pedimos el postre,Supuestamnete en la carta tienen,como minimo diez postres de los cuales habia  para elegir solamente dos y eran,frutillas con crema o bochitas de helado.
+      Esto no termina ahi, el broche de oro fue cuando llego elmomento de pagar,se le abono con tarjeta de credito y cuando terminan de hacer el pago se les extravio la tarjeta, con la que habiamos pagado,por suerte la encontro una persona en el piso y fue devuelta. No vuelvo nunca mas.
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/10879
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar distinto, muy bien ambientado, con un servicio y unos cocktails espectaculares. "
+    date: 11-04-2007
+    user: http://mi.guiaoleo.com/members/21593
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la atenci\xF3n. Hac\xEDa tiempo que no visitaba un lugar as\xED en Ca\xF1itas. \r\n\
+      El lugar es agradable y con mucho espacio para estar c\xF3modo."
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/19478
+    ambiente_rank: excelente

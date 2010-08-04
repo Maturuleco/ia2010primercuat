@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un lugar que no se destaca. La atenci\xF3n muchas veces deja bastante que desear y la comida no tiene nada de especial, ni en la preparaci\xF3n ni en el gusto. Tiene platos tradicionales y algunos platos del d\xEDa. Recomendaci\xF3n: ir \xFAnicamente si est\xE1s por el centro y quer\xE9s algo un \"poco\" m\xE1s tranquilo por ese precio."
+    date: 09-04-2007
+    user: http://mi.guiaoleo.com/members/20471
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente comida, recomendar\xEDa mejorar el servicio."
+    date: 24-05-2006
+    user: http://mi.guiaoleo.com/members/8768
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me gust\xF3 la ambientaci\xF3n, similar a restaurantes de Mil\xE1n."
+    date: 25-08-2005
+    user: http://mi.guiaoleo.com/members/3504
+    ambiente_rank: excelente

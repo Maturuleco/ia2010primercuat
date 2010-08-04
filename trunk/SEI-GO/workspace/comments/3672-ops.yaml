@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar, muy acogedor. La m\xFAsica,la comida, y la atenci\xF3n excelentes!"
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/81753
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: la comida estuvo excelente!!!! muy buen servicio las chicas son muy atentas!!!!! es muy recomendable voy todos los dias a almorzar me encanta
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/80614
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente una pasta casera excelente, el flan casero igual al que me hacia mi madre, las camareras sobresalientes principalmente Juliana, una ni\xF1a colombiana muy instruida que supo recomendarme un excelente malbec, el ambiente hermoso, un lugar ALTAMENTE RECOMENDABLE, yo y mi grupo de trabajo vamos parcticamente todos los dias."
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/80490
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: es bueno, todo en la linea de aceptable, nada para criticar.
+    date: 09-04-2010
+    user: http://mi.guiaoleo.com/members/76522
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Buena relaci\xF2n precio/calidad, lindo ambiente."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/72780
+    ambiente_rank: muy bueno

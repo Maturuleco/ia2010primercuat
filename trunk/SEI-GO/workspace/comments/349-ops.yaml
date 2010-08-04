@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Carisimo todo, la ensalada de $18 llego en un plato chico, malisimo el servicio.  Nada para recomendar.
+    date: 16-12-2008
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comida sencilla pero bien elaborada a precios m\xE1s que razonables. \r\n\
+      Es uno de esos lugarcitos sin lujos a donde uno puede ir todos los d\xEDas y se siente como si comiera en casa."
+    date: 11-08-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un restaurante chiquito, que vale la pena visitar cuando uno est\xE1 por el centro. La carta es variada y los due\xF1os son muy amables, se sientan a charlar con cada comensal."
+    date: 10-01-2006
+    user: http://mi.guiaoleo.com/members/13042
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Com\xEDda excelente y buen precio."
+    date: 04-10-2002
+    user: http://mi.guiaoleo.com/members/4180
+    ambiente_rank: muy bueno

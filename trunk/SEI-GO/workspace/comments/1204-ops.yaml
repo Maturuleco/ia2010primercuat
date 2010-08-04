@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Restaurant sencillo de barrio, con buena atenci\xF3n y excelente carne"
+    date: 24-06-2010
+    user: http://mi.guiaoleo.com/members/84360
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena comida y buen servicio. Su intento de traduccion del menu al ingles es merecedor de mi premio personal a la mayores barbaridades. Que lastima.
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/74072
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Muy buena atencion. El resto no tanto.
+    date: 21-11-2007
+    user: http://mi.guiaoleo.com/members/29353
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una muye buena opci\xF3n sin grandes pretenciones con muy buena comida y excelente atenci\xF3n."
+    date: 30-09-2007
+    user: http://mi.guiaoleo.com/members/33195
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "\xA1Muy buena carne! "
+    date: 11-11-2006
+    user: http://mi.guiaoleo.com/members/13431
+    ambiente_rank: muy bueno

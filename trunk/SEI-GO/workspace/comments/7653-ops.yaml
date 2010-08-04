@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: el lugar es muy lindo y la comida excelente muy buen sabor y presentacion, muy recomendable
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/83413
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Recomendable un 100%!! Ambiente muy c\xE1lido, agradable, comida de muy buena calidad y el servicio es excelente!!\r\n\
+      Les sugiero que pidan los ravioles de conejo!son deliciosos!!!"
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/83912
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar para recomendar.  En el coraz\xF3n de Recoleta, un ambiente tranquilo con un muy buen servicio y una comida deliciosa!!!"
+    date: 09-05-2010
+    user: http://mi.guiaoleo.com/members/73268
+    ambiente_rank: muy bueno

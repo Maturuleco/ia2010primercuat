@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un opcion coherente para los mediodias del microcentro, el menu ejecutivo es abundante y de buena calidad. es preferible ir despues de las 14 hs sino hay demasiado ruido.
+    date: 01-07-2010
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida es abundante, es el tipico plato grande con salsas raras. Comi milanesa de soja, la pedi al horno me la dieron frita. El ruido es terrible. Lleno de hombres por la comida abundante y las chicas en pollera.
+    date: 28-06-2010
+    user: http://mi.guiaoleo.com/members/69927
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El cambio de look si bien mas moderno, le quito el encanto del bodegon. Comida nada del otro mundo. Ahora la identidad del lugar se la puede definir de bizarra: las camareras, de mini short y musculosas escotadas, lejos lo mejor del lugar. Para almuerzo de d\xEDa laboral, cumple. Saquen sus propias conclusiones."
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/54531
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena comida, aunque un poco ruidoso
+    date: 07-12-2009
+    user: http://mi.guiaoleo.com/members/12219
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "el lugar es de muy mala atenci\xF3n, fui un s\xE1bado al medioa dia y despu\xE9s de esperar 2 horas los platos (\xE9ramos 11 personas) llegaron frios; tras devolverlos todos me los llevaron a la mesa nuevamente frios\r\n\
+      cuando habl\xE9 con el encargado parecio no importarle lo sucedido y nos tuvimos que ir del lugar sin poder probar bocado.\r\n\
+      NO LO RECOMIENDO!!!"
+    date: 30-09-2009
+    user: http://mi.guiaoleo.com/members/69610
+    ambiente_rank: bueno

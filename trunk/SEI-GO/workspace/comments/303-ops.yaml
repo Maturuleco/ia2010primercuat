@@ -1,0 +1,97 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un cl\xE1sico de Belgrano que lamentablemente pierde adeptos al tener huecos en su carta. Tres de los vinos indicados no estaban en la carta y algunos platos no son bien descriptos."
+    date: 21-03-2010
+    user: http://mi.guiaoleo.com/members/65580
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos muy bien atendidos. Excelente la comida. Bien ubicados (reservamos mesa con anterioridad. Muy buen aconsejada la bebida. Postres de grandes porciones y riqu\xECsimos. Fue un placer haber ido. COMO SIEMPRE.-"
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/65520
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buen servicio y buena relaci\xF3n precio/calidad de la comida."
+    date: 16-03-2009
+    user: http://mi.guiaoleo.com/members/59915
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es muy buena, hay bastante variedad. Los mozos te atienden enseguida. El lugar es medio frio con respecto a lo que es ambientacion, no esta muy bueno pero tambien hay que entender que es una cafeteria al mismo tiempo. Lo recomiendo y recomiendo el delivery
+    date: 15-10-2008
+    user: http://mi.guiaoleo.com/members/35572
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Si bien la comida era pasable, no me parece apropiado para el mediod\xEDa ya que los platos son \xEDnfimos. Fuimos varios y hasta las mujeres se quedaron con hambre. Y no es para nada barato. Eso s\xED, la atenci\xF3n fue buena."
+    date: 04-04-2008
+    user: http://mi.guiaoleo.com/members/42881
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      La carta es muy variada con comida muy elaborada y para todos los gustos.
+      El precio esta muy acorde al lugar.
+    date: 27-03-2008
+    user: http://mi.guiaoleo.com/members/42423
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: En general muy bueno. Precios de acorde a los servicios.
+    date: 13-11-2007
+    user: http://mi.guiaoleo.com/members/35484
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buen calidad de la comida.Recomendable el muslo relleno, el sabay\xF3n con nueces y el panqueque a la italiana. El servicio es de primera,los mozos son siempre los mismos.Lo \xFAnico de este bodeg\xF3n,es el mal gusto en la decoraci\xF3n y Las mesas est\xE1n muy pegadas.\r\n\
+      Los precios est\xE1n acorde."
+    date: 01-07-2007
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar para ir en familia, la mesa redonda facilita el di\xE1logo, la comida ok. "
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/16166
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo este restaurante, lo que no me agrad\xF3 tanto es el ambiente, muy chico y decorado con mal gusto. \r\n\
+      Un lugar para pasar un buen rato en familia o con amigos."
+    date: 04-07-2006
+    user: http://mi.guiaoleo.com/members/9970
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Primera vez que iba; buena atenci\xF3n; carta bastante completa; conformidad general en la mesa."
+    date: 30-04-2006
+    user: http://mi.guiaoleo.com/members/8131
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Bodeg\xF3n con buena atenci\xF3n y excelente calidad."
+    date: 23-03-2006
+    user: http://mi.guiaoleo.com/members/6323
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n y la comida de primera calidad."
+    date: 19-08-2005
+    user: http://mi.guiaoleo.com/members/3395
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un cl\xE1sico de Belgrano. Buena atenci\xF3n y buena comida. \r\n\
+      Local no demasiado grande, con las mesas bien juntas y por lo general, lleno. \r\n\
+      Hay que probarlo."
+    date: 01-08-2005
+    user: http://mi.guiaoleo.com/members/6887
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Bueno, se llena mucho, conviene reservar
+    date: 09-03-2005
+    user: http://mi.guiaoleo.com/members/203
+    ambiente_rank: muy bueno

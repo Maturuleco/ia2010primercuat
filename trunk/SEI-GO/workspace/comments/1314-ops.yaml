@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Pedimos una botella de champagne. Pasados 20 minutos nos dijeron que no quedaba esa marca. Pedimos otra que demoraron otros 20 minutos m\xE1s en servirnos. La comida lleg\xF3 pasados 40 minutos y sin disculpas por la demora de ning\xFAn tipo. Los platos fueron respetables pero la porci\xF3n era excesivamente peque\xF1a. No se condicen los precios eleveados con la calidad de la comida y ni que hablar con la atenci\xF3n. Lo \xFAnico que vale del lugar es la decoraci\xF3n."
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/20615
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Te para cuatro con 1 agua importada de Italia: cincuenta pesos. Valet parking por 2 horas, doce pesos. \xA1Excesivo! Sesenta y dos pesos para recibir un servicio deficiente: luego de solicitar la cuenta y aguardar treinta minutos sin servicio tuve que acercarme a la caja para pagar. Son precios del primer mundo por un servicio t\xEDpico del tercero. Tourists beware!"
+    date: 25-02-2007
+    user: http://mi.guiaoleo.com/members/18909
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es incre\xEDble, digno de conocer en una ciudad como Buenos Aires pero la atenci\xF3n de los camareros es mala y los tragos muy mal preparados."
+    date: 15-12-2006
+    user: http://mi.guiaoleo.com/members/14199
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Realmente, es una pena que un lugar tan lindo est\xE9 mal atendido y con esa lamentable y pobre variedad de comidas.\r\n\
+      \xA1Qu\xE9 l\xE1stima!"
+    date: 02-01-2006
+    user: http://mi.guiaoleo.com/members/5354
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Por favor que contraten a alguien que tenga idea... Un desastre.
+    date: 20-12-2004
+    user: http://mi.guiaoleo.com/members/99
+    ambiente_rank: excelente

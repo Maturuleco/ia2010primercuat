@@ -1,0 +1,138 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Sigue siendo una buena opci\xF3n como comida libre.\r\n\
+      Totalmente recomendable."
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "fui para el cumplea\xF1os de mi mama, comimos muy bien, de entrada el mozo nos trajo todo muy rapido y la atencion fue excelente, lo bueno de este tenedot libre es que te sirven todo a la mesa\r\n\
+      muy recomendable"
+    date: 07-05-2010
+    user: http://mi.guiaoleo.com/members/22493
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Excelente calidad y precios acordes.
+      Un lugar que nunca defrauda.
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/78947
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La comida muy buena y echa en el momento, los mozos estan al tanto de las necesidades del cliente , el ambiente agradable es un lugar para recomendar.
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/78942
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un restaurant de barrio cl\xE1sico donde cuidan al cliente pero con la modalidad de tenedor libre atendido sin tener que levantarse de la mesa. Los mozos serviciales y atentos, la comida aceptablemente buena y con el plus de la bebida sin alcohol libre. El lugar agradable pero un poco ruidoso cuando hay mucha gente, deber\xEDan mejorar este detalle. Es sin duda un lugar para volver cuando en casa la cocina esta cerrada....."
+    date: 02-02-2010
+    user: http://mi.guiaoleo.com/members/71399
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buen restaurant, todo incluido, bebidas y comida de muy buena calidad, platos preparados, el mozo muy atento y el lugar muy lindo, fui varias veces y voy a volver a ir.
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/74973
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Cuando una persona desea comer hasta explotar y ademas desgustar buenas comidas, no se duda en que el lugar ideal es este. Desde las pastas hasta la parrilla, todo exelente. Ademas con una atenci\xF3n escepcional de los mozos del restaurant. Un ambiente elegante que deslumbra y va de la mano de los platos que sirven, sin hablar de la variedad de estos mismos ! Ojo, hablo as\xED porque com\xED de todo, y como para no hacerlo, je !"
+    date: 01-09-2009
+    user: http://mi.guiaoleo.com/members/77956
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un come libre at\xEDpico, con bebidas y postres incluidos en el precio fijo y con la atenci\xF3n de los mozos a la mesa y con la elecci\xF3n a la carta como en cualquier restaurante com\xFAn, todo por $ 43.- por persona, la comida es buena, la atenci\xF3n tambi\xE9n, y el lugar muy agradable y tranquilo. Un lugar para volver."
+    date: 11-08-2009
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buen tenedor libre segun mi experiencia, fui dos veces, en julio y agosto, realmente la comida muy rica y la atencion mejor, lo unico que la semana pasada vi que el precio mas caro por la noche es de $48. Tenemos la idea con mi familia de ir este 31. Lo unico a tener en cuenta es que va mucha gente cualquier dia de la semana asi que lo mas conveniente es reservar.
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/71899
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Siempre vamos con mi Flia a este restaurant, la comida es muy rica y la bebida sin alcohol Libre!!!! Para recomendar "acelga con salsa blanca" y papas a la crema. Excelente el sabor. La entradita de achuras  (incluye molleja) excelente... la verdad es un restaurante libre, pero es el mozo quien te acerca a la mesa el plato elegido a la carta. No tenes que estar parandote para servirte. Hambiente familiar, excelente para pasar un rato agradable y buena comida.
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/39113
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos a festejar un cumplea\xF1os, me lo hab\xEDan recomendado y yo a su vez a mi amigo que cumplia a\xF1os, y no hice caso a algunos comentarios en este guia, mal!, La comida re re re recalentada,nada fresca, el asado del cumplea\xF1ero duro, las pastas tienen salsa 4 quesos que es salsa blanca con 4 gramos de un solo queso...en fin lo unico bueno las bebidas sin alcohol libre. Trist\xEDsimo!"
+    date: 11-06-2009
+    user: http://mi.guiaoleo.com/members/63810
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui a festejar un cumplea\xF1os, es una lastima lo que cambio este restaurante, antes era muy bueno hasta lo elegi por precio calidad para mi casamiento por civil...hoy nada que ver la comida re calentada,nada fresca, el asado duro, las pastas tienen salsa 4 quesos que es salsa blanca con un poquito de queso...en fin lo unico bueno las bebidas sin alcohol libre."
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/33089
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Bueno , por ser un tenedor libre.
+    date: 02-04-2009
+    user: http://mi.guiaoleo.com/members/12375
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "He ido en varias oportunidades, y jam\xE1s me ha decepcionado. El hecho que tenga bebida sin alcohol libre, provee un aditivo bastante interesante.\r\n\
+      \r\n\
+      En cu\xE1nto a la comida, las pastas y experimentales no son su fuerte. Una buena opci\xF3n, es degustar las carnes con diversas guarniciones.\r\n\
+      \r\n\
+      Los fines de semana est\xE1 bastante lleno, y sin reservas, es pr\xE1cticamente imposible entrar luego de las 21:00 hs., adentro, hay bastante bullicio y por momentos, los camareros est\xE1n en un frenes\xED que denota tensi\xF3n.\r\n\
+      \r\n\
+      \xBFExcelente? no, pero una buena alternativa a los tenedores libre cl\xE1sicos en el barrio de Flores."
+    date: 27-12-2008
+    user: http://mi.guiaoleo.com/members/56256
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Los precios que figuran ac\xE1, ya fueron aumentados: s\xE1bado al mediod\xEDa cuesta $37.\r\n\
+      La lengua a la vinagreta estaba m\xE1s o menos. La \"cazuela de pescado\" eran unos trozos de pescado nadando en un tuco de lata, con unas arvejas y rodeado de papas espa\xF1olas... \r\n\
+      No entiendo por qu\xE9 se llena tanto de gente...\r\n\
+      Eso s\xED: llamativamente para un libre, la gaseosa es libre tambi\xE9n."
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/17085
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La verdad....un desastre!!!! Parece que la comida estuviera precocinada, se entiende que las porciones fueran minimas, ya que al ser un tenedor libre, lo hacen para no desperdiciar. El mozo no tuvo la delicadeza de preguntarnos el condimento de las ensaladas, los puntos de coccion de la carne, un verdadero desproposito...NO VUELVO!!!
+    date: 26-04-2008
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Muy bueno la verdad, el bife de chorizo y el matambrito a la pizza son brillantes, al igual que los sorrentinos.
+      la entrada muy rica tambien, variada. recomiendo la lengua a la vinagreta y el vitel thone.
+      buena relacion precio-calidad.
+      no tome vino, aproveche la canilla libre de bebidas sin alcohol.
+    date: 18-03-2008
+    user: http://mi.guiaoleo.com/members/41954
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Hace tiempo cuando comenzo a funcionar este restaurante la atencion era mucho mejor.Actualmente la misma deja mucho que desear.Nos acercamos para pedir una mesa y el maitre(que no sabia como manejarse con tanta gente) poco menos que nos derribo al suelo,razon por la cual resolvimos no volver NUNCA MAS.Una lastima porque daba para ser un buen lugar para comer, pero los supero la demanda.Supongo que el delivery termino de desbordarlos. Debieran reveerlo porque por abarcar tanto fue en perjuicio de la calidad de las comidas y la cordialidad hacia el cliente.
+    date: 13-12-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: esta bueno lo de la bebida libre, pero la comida era mas o menos acorde al precio, la carne no era dura o el pollo seco, estaba bien, el tema es que ponen tantas mesas que estas comindo pegado a gente que ni conoces, mucho ruido y eso que fuimos en dia de semana, no es recomendable para ir con chicos porque no hay lugar para que se desplacen tranquilos.
+    date: 04-12-2007
+    user: http://mi.guiaoleo.com/members/36665
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un lugar para comer de a cantidades y comida que uno come en casa: asado, milanesas, pollos en salsas varias, matambrito, etc. La comida es buena, pero la atenci\xF3n deja que desear. Cuando uno va a pedir la entrada no te dejan elegir, te \"sugieren\" (mas bien imponen)un surtido de todas las entradas de la carta, lo cual no fue de mi agrado, siendo un resto libre porque no puedo pedir solo lo que yo quiero?? un desperdicio de comida... la comida es buena, la atenci\xF3n no tanto... encima, cuando haces reserva de grupos grandes te exigen reserva de dinero y en mi caso se olvidaron de descontarmelo al final y tuve que volver otro dia para que me lo reembolsaran, cosa que hicieron de muy mala gana... buen precio, buena comida, malisima atenci\xF3n!!! algo que mejorar..."
+    date: 28-10-2007
+    user: http://mi.guiaoleo.com/members/8978
+    ambiente_rank: bueno

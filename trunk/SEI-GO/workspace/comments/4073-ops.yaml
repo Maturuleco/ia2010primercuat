@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es acogedor y bien ambientado, no se destaca mucho por la comida, el menu es muy reducido, no hay variedades. En cuanto al servicio, la persona que pareciera ser el due\xF1o se la pasaba mirando su notebook navegando por internet."
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/34800
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La comida es excelente y los que atienden muy amables. Sin embargo, hubo demoras inaceptables en los platos y hasta se quedaron sin sushi. Era un s\xE1bado a la noche, el lugar estaba lleno en un 40% y no ten\xEDan m\xE1s comida... Con lo buena que es la comida, tienen que mejorar los tiempos y cantidades para ser un excelente restaurant."
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/22869
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar recomendable en todos los aspectos. La comida muy apetecible, la atenci\xF3n muy servicial, atenta y eficiente. Ambientes variados. Los precios son razonables. Excelente calidad."
+    date: 26-04-2009
+    user: http://mi.guiaoleo.com/members/61816
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena ambientaci\xF3n,excelente atenci\xF3n y buenos precios. Los platos son abundantes y sabrosos. Recomiendo la terraza para ir en pareja y disfrutar de una velada tranquila. El lugar es muy lindo y la m\xFAsica de fondo acompa\xF1a a la velada."
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/61584
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy rico (aunque el sushi -$30 8p- podr\xEDa ser mejor), sobre todo el yaki-soba. La atenci\xF3n es amable y el lugar lindo. Eso s\xED, dos aires prendidos para un ambiente chico es mucho muchachos... \xA1hac\xEDa mucho frio!. \xA1A repetir!"
+    date: 19-12-2008
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: bueno

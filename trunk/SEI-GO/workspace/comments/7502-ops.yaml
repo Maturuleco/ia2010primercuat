@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La relaci\xF3n precio-calidad est\xE1 bien. Por $45 ten\xE9s un men\xFA completo: chorizo y morcilla, un plato de carne a la parrilla, bebida y postre. El chorizo y la morcilla eran malos, la bondiola bastante bien, el ojo de bife regular a malo, las fritas regulares a malas (no estaban frescas como reci\xE9n hechas) y el pan aceptable. El bomb\xF3n suizo bien. El ambiente tranquilo, con ni\xF1os, es un lugar chico de unas 15 mesas. Por el precio es aceptable."
+    date: 20-06-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Ultimamente notamos que desmejor\xF3 el servicio, los pasos de men\xFA son a destiempo, algo que era de admirar como asi tambi\xE9n los puntos de cocci\xF3n de sus carnes.Es una pena ya que conservan buenos productos entre los que permanecen buenas ensaladas.Recuperen la memoria que volveremos."
+    date: 13-06-2010
+    user: http://mi.guiaoleo.com/members/65943
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Interesante opcion economica para comer parrilla. Cuenta con un meno con entrada, plato, bebida y postre que es economico y muy bien servidor. El ojo de bife estaba en su punto justo. El atencion es amena y el lugar bien arreglado. Muy recomendable.
+    date: 16-04-2010
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: bueno

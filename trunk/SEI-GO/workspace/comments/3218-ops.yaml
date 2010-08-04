@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buen restaurante de barrio, con precio razonables y porciones muy abundantes. Gran variedad de platos. Muy recomendable
+    date: 06-06-2010
+    user: http://mi.guiaoleo.com/members/77518
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un local de pocas mesas, bien ambientado, cuando aumenta la cantidad de gente, es ruidoso (falta aislaci\xF3n ac\xFAstica). Atenci\xF3n de los mozos muy profesional, sin ser pesados. Las pastas es la especialidad, bien servidas en su punto y muy sabrosas. Aunque los platos recomendados (como el lomo relleno con salsa roqueford)son de muy buena elaboraci\xF3n.\r\n\
+      Los platos llegan a tiempo y bien servidos.\r\n\
+      Un lugar recomendable, voy a volver."
+    date: 09-04-2010
+    user: http://mi.guiaoleo.com/members/32208
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Eramos 6 personas. De entrada te ponen unas albondigas muy ricas y el mozo es muy atento,sin ser pesado. Casi todos pedimos pasta, aunque la carta es muy variada y se veian pasar bandejas super abundantes de otras cosas. En mi caso pedi media porcion de capeletis de pollo riquisimos que no pude terminar, la porcion es definitivamente para 2 personas. Tomamos un vino, 2 sodas y 4 gaseosas y de postre 2 almendrados con charlote y una copa claudina espectacular (para 2 o 3 personas). El precio super favorable $275.- Sin duda alguna lo recomiendo y volvere.
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/64454
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Exceletne opci\xF3n en Villa Crespo.\r\n\
+      Comida Casera, de muy buena calidad, muy buena atenci\xF3n de los mosos y muy buen precio.\r\n\
+      Vivo a 2 cuadras y seguramente voy a volver."
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/55002
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "T\xEDpico restaurante de barrio que no defrauda, comida casera y platos abundantes para compartir o pedir 1/2 porci\xF3n.Muy buenas las pastas y minutas. La atenci\xF3n depende de la cantidad de mesas ocupadas. Lugar para tener en cuenta si se quiere comer bien y no pagar de m\xE1s."
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy buenas pastas, y esmerada atencion por parte de los mozos. habitualmente es un lugar tranquilo, pero seguramente por fin de a\xF1o el fin de semana habia demasiada espera"
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/46572
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es la segunda vez que me clavo por seguir los comentarios de Oleo, la primera fur con Refill de av. C\xF3rdoba y anoche con \xE9ste.  Saludos y felices fiestas!"
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/73939
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente comida bien casera y abundante.Es recomendable
+    date: 09-12-2009
+    user: http://mi.guiaoleo.com/members/73423
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida y atenci\xF3n como siempre (antes se llamaba La Scopa)."
+    date: 08-11-2009
+    user: http://mi.guiaoleo.com/members/70212
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Recdomendable restaurant de barrio con muy buena atencion la comida muy casera y riqu\xEDsima"
+    date: 08-11-2009
+    user: http://mi.guiaoleo.com/members/70535
+    ambiente_rank: muy bueno

@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es la segunda vez que hemos comido aqui al medio d\xEDa. La comida es regular y no m\xE1s. El servicio adentro fue adecuado, pero afuera, fue deficil consegir la atenci\xF3n del mozo - quien tuvo poco inter\xE9s en todo caso. Parece buen lugar para tomar cafe y leer el periodico tranquilamente sin molestia.  "
+    date: 13-03-2007
+    user: http://mi.guiaoleo.com/members/6524
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Delicioso.
+    date: 23-07-2006
+    user: http://mi.guiaoleo.com/members/10462
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n y comida. Para recomendar."
+    date: 20-07-2006
+    user: http://mi.guiaoleo.com/members/10349
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar muy tranquilo para comer algo rico o tomar un caf\xE9 sin apuro."
+    date: 23-04-2006
+    user: http://mi.guiaoleo.com/members/7935
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los \xF1oquis eran caseros y de verdura, muy ricos. La salsa, espectacular."
+    date: 11-04-2006
+    user: http://mi.guiaoleo.com/members/7708
+    ambiente_rank: excelente

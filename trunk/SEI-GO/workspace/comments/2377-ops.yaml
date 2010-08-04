@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fui a la sucursal que esta en Cabello y Scalabrini Ortiz. Si bien la comida es relativamente buena y abundante, la atencion fue realmente pesima. El lugar estaba casi vacio y entre que me sente y un mozo se acerco pasaron 20 minutos. La comida tardo 40 minutos y en traerme la cuenta tardaron 15. Se olvidaron que lo que ellos venden es un SERVICIO. No vuelvo mas.
+    date: 14-05-2010
+    user: http://mi.guiaoleo.com/members/77203
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Para un plato del dia tardaron 40 minutos... atenci\xF3n p\xE9sima, no te atienden ni siquiera cuando quer\xE9s pedir la cuenta.  Los mozos se pasaron un buen rato entreteniendose con una chica que entr\xF3 a vender lapiceras, y ni miraban a los comensales. El ba\xF1o con mal olor y sin jab\xF3n. No vuelvo."
+    date: 13-03-2009
+    user: http://mi.guiaoleo.com/members/19604
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos a cenar un mi\xE9rcoles lluvioso, lo elegimos porque el lugar nos parecio muy agradable y tranquilo. La carta carta result\xF3 ser muy variada, las porciones muy abundantes y sabrosas, la atencion muy buena y el precio acorde. Suficiente para sugerirlo como una buena opcion."
+    date: 11-03-2009
+    user: http://mi.guiaoleo.com/members/36382
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena opci\xF3n para solucionar el mediod\xEDa porte\xF1o: ricos platos cotidianos (muy buena calidad de bife y excelente cocci\xF3n), atenci\xF3n r\xE1pida y ambiente agradable y amplio. Recomendable para almuerzos al paso cuando uno necesita hacer un alto y refugiarse del calor de Buenos Aires."
+    date: 26-11-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buen lugar. Pasable, si estas en la zona podes visitarlo y encontrar algo alguno que otro plato atractivo. Las pastas en la carta suenan pretenciosas, en la realidad son pastas normales, no salen de la media, tienen salsas comerciales pero son bastante safables. El lugar no tiene una ambientacion destacable, el servicio es bueno, la relacion precio calidad podria ser un poco mejor.
+    date: 10-11-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El ambiente es ruidoso y poco acogedor y no concuerda con el precio del lugar, el precio un poco alto y la carta de postres demasiado poco elaborada. No me gusto. "
+    date: 19-07-2007
+    user: http://mi.guiaoleo.com/members/27505
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Hay una gran cantidad de  buenos rest\xF3s que sirven porciones MIN\xDASCULAS. Scuzi es el caso opuesto. Muy generoso en sus cantidades, con dishes decorados por el propio chef, abundante en todo sentido, y con platos realmente muy bien elaborados. La comida es IMPECABLE. El servicio no es de lo mejor. Es MUY molesto tener que perder horas buscando la mirada de un mesero para llamarlo; que NUNCA mira al sal\xF3n, sino que mira a la barra, conversa con el adicionista o con el barman, y desatiende las mesas QUE SE SUPONE DEBER\xCDA ATENDER. Un comportamiento cl\xE1sico dentro de la gastronom\xEDa porte\xF1a. La ambientaci\xF3n no vale gran cosa. Un rest\xF3 para recomendar si se tiene apetito, y si se anda por el centro, y si cuando lo \xFAnico que importe sea COMER MUY BIEN. Porque en Scuzi se come REALMENTE MUY BIEN. S\xF3lo eso."
+    date: 29-01-2007
+    user: http://mi.guiaoleo.com/members/12215
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la comida, para visitar. "
+    date: 17-10-2006
+    user: http://mi.guiaoleo.com/members/12903
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Lo sigo siempre, ya que cada vez que voy hay una agradable sorpresa.
+    date: 24-08-2006
+    user: http://mi.guiaoleo.com/members/7295
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buena comida, bien servida en un ambiente confortable.
+    date: 24-01-2006
+    user: http://mi.guiaoleo.com/members/6072
+    ambiente_rank: muy bueno

@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El men\xFA de mediod\xEDa era aceptable y el lugar es agradable dentro de lo modernoso. No est\xE1 tan mal para salir del paso"
+    date: 21-10-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La picada est\xE1 buena para el lugar y la atenci\xF3n a\xFAn con velocidad es cordial. Est\xE1 claro que no es lugar para quedarse demasiado tiempo, pero no defrauda"
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/65580
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Los nachos y las fajitas estaban muy ricas, en cantidades para compartir, sabroso y bien presentado. Era miercoles y para ser d\xEDa de after me llamo la atencion que solo tuvieran una marca de cerveza.  Tomamos luego margarita, mojito, caipirinha y cuba libre. La barra de tragos deber\xEDa mejorarse considerablemente, salen un poco aguachentos, la caipirinha hecha con limon comun y el margarita servida en copa de martini.  Un tiron de orejas a los barman.  Podr\xEDan agregar en el interior un sector para fumar, almenos una pecerita donde poder ir sin tener que salir a la calle."
+    date: 05-08-2009
+    user: http://mi.guiaoleo.com/members/67008
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Tiene una ambientacion muy buena pero no es mucho mas que eso. Para destacar el sector del subsuelo con sillones, pero tener en cuenta que solo lo habilitan si arriba hay bastante gente.
+    date: 30-07-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Fui en el horario de happy hour y aunque reconquista es peatonal y esta la opcion de poder estar afura en las mesas, mi opinion es la misma que para el Deep Blue de Puerto madero, la comida no es nada del "otro mundo", nunca tuve una picada tan insulsa y cara para el valor de la comida.
+    date: 30-03-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: bueno

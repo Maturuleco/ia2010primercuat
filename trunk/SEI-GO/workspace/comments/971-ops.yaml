@@ -1,0 +1,206 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno el show, tanto como la atencion y la comida exquisita.
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/12375
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Al hacer la reserva por tel fuimos atendidos amablemente por una Srita, y llegados al lugar nos reciben de igual modo. El lugar es perfecto (peque\xF1o, bien decorado y con detalles que hay que descubrir en cada pared o cuadro). La comida muy rica (una paella que no escatim\xF3 la cantidad de mariscos, la trucha muy bien cocinada.) La atenci\xF3n tuvo toques que completaron la ambientaci\xF3n del lugar: \"Pa"
+    date: 23-01-2010
+    user: http://mi.guiaoleo.com/members/55800
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Pedimos la opcion principal. La comida regular, pasable, pero lo que es muy lindo es el show. Vale la pena ir y pasar una noche distinta.
+      Si uno conjuga el show y la comida, nos vamos conformes.
+    date: 10-12-2009
+    user: http://mi.guiaoleo.com/members/49531
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Un lugar para pasar un rato ameno en flia. o con amigos (no muchos xq el local es chico). Hay 2 menues con dif. precios y varias entradas/platos y postres para eligir en c/menu. La comida es tipo casera y agradable al paladar. El show es muy entretenido y de buena calidad.
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/19189
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 la comida, sobretodo la natilla... una de las mejores que he probado. Los platos son abundantes, la atenci\xF3n es buen\xEDsima. El lugar es un poco chico, las mesas est\xE1n muy juntas, pero est\xE1 bueno. El show es muy bueno. Para recomendar!"
+    date: 08-10-2009
+    user: http://mi.guiaoleo.com/members/66161
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente y me quedo corto!!!!! Un lugar inolvidable, desde que uno entra ya se siente en situaci\xF3n, la comida riqu\xEDsima, la atenci\xF3n sobresaliente y el show muestra tal cual la tradici\xF3n flamenca. Altamente recomendable."
+    date: 15-08-2009
+    user: http://mi.guiaoleo.com/members/63498
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Excelente lugar.. fuimos el sabado a la noche,, por la gripe habia solo cuatro mesas ocupadas,, la atencion de primera, la comida deliciosa..el ambiente acogedor,. un lugar para volver y recomendar..
+      Exquisito la pesca del dia y la paella..el show Excelente..el resto tambien!!
+    date: 04-07-2009
+    user: http://mi.guiaoleo.com/members/20973
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar, el show fue buenisimo y la comida espectacular, se nota que el chef es Espa\xF1ol, pasamos una velada fantastica."
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/62471
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Te ofrecen un men\xFA fijo bien abundante, donde se destacan las tapas de entrada. \r\n\
+      Muy bueno el show. El precio es alto por lo que ofrece pero compensa con el show."
+    date: 07-04-2009
+    user: http://mi.guiaoleo.com/members/45278
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La atenci\xF3n es buena, el ambiente que se logra es realmente alentador, aunque el espacio es lamentablemente chico y no se tiene intimidad.  Las mesas est\xE1n pegadas unas con otras.  La comida, no es nada del otro mundo y de hecho le falta identidad (algo que uno busca en dichos lugares).  El precio es caro por la comida que un recibe, aunque se compensa por el espect\xE1culo brindado por las bailaoras y los m\xFAsicos.  Al que canta no se le entiende nada..."
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/7723
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "El lugar si bien es chico esta muy bien ambientado, cuando empieza el show terminamos bailando todos juntos, parec\xEDa una fiesta. Los mozos son excelentes! super amigables y eficientes, un lugar muy divertido, para ir con amigos."
+    date: 20-08-2008
+    user: http://mi.guiaoleo.com/members/47061
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: El show muy bueno, la comida dejo mucho que desear.
+    date: 22-10-2007
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Una lastima esa paella hecha con arroz blanco, el lugar y el espectaculo muy bien, hay que darle una vuelta de tuerca a la cocina.
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/29904
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida p\xE9sima, la paella era apenas un rissoto de pollo y para aquellos que conocimos otros lugares, si bien fue divertido, el show dista de ser un verdadero tablao flamenco.\r\n\
+      No lo recomiendo."
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/35117
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Con motivo de festejar el cumplea\xF1os de mi madre elegimos \xE9ste lugar y fue una maravilla. Comimos muy bien, el show fue excelente y mi madre fue feliz.\r\n\
+      Recomendable, un lugar familiar."
+    date: 15-02-2007
+    user: http://mi.guiaoleo.com/members/19169
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El men\xFA sale $60 sin bebida ni caf\xE9 e incluye una ronda de tapas de entrada, la elecci\xF3n de un plato principal y un postre. Es para elegir, siempre y cuando no todos los comensales de esa noche opten por lo mismo. \r\n\
+      El show es bueno, pero la comida es un desastre y de espa\xF1ola no tiene nada; por lo tanto resulta caro por lo poco que ofrecen."
+    date: 20-08-2006
+    user: http://mi.guiaoleo.com/members/1162
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Un desastre la comida. Las tapas eran mayonesa en un pote, porotos en otro y un pan de mesa con queso arriba. Incre\xEDble.\r\n\
+      Lo que segu\xEDa malo tambi\xE9n.\r\n\
+      El show no pudo levantar lo malo de la comida y terminamos pagando $130 por persona, s\xF3lo con dos vinos intermedios. Conclusi\xF3n: no vaya, su bolsillo y su estomago se lo agradeceran. "
+    date: 05-06-2006
+    user: http://mi.guiaoleo.com/members/9118
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Muy malo.\r\n\
+      La comida sobre todo.\r\n\
+      La entrada de terror, no hay relaci\xF3n entre el precio y la calidad de la comida.\r\n\
+      El lugar es bastante feo.\r\n\
+      El ba\xF1o sucio, la atenci\xF3n pobre, no vale la pena bajo ning\xFAn punto de vista.\r\n\
+      Me extra\xF1a que un lugar as\xED tenga votos favorables."
+    date: 03-06-2006
+    user: http://mi.guiaoleo.com/members/9119
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Demasiado caro por lo que nos trajeron. Las tapas que nos vendieron para nueve personas personas incluyeron:\r\n\
+      10 tostaditas alargadas con ajo, 10 pedacitos de tortilla de papa, 4 cazuelas de porotos, 2 de tomate picado,  platillo de berenjenas al escabeche (apenas) y dos cazuelitas de calamares que ten\xEDan m\xE1s papas que calamares.\r\n\
+      Cuando ped\xED pan para poder acompa\xF1ar el tomate, nos levantaron la mesa. \r\n\
+      Por esto nos cobraron $40 por cabeza. \xA1Es un abuso!"
+    date: 30-03-2006
+    user: http://mi.guiaoleo.com/members/7393
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No me gust\xF3, no lo recomiendo."
+    date: 08-03-2006
+    user: http://mi.guiaoleo.com/members/6874
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buen lugar para quien le gusta el flamenco puro.
+    date: 26-01-2006
+    user: http://mi.guiaoleo.com/members/6060
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Atenci\xF3n excelente. Del servicio m\xE1s no se puede pedir. Un lugar para recomendar."
+    date: 25-01-2006
+    user: http://mi.guiaoleo.com/members/6061
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me encant\xF3, sobre todo la atenci\xF3n y la ambientaci\xF3n. El show, imperdible."
+    date: 19-01-2006
+    user: http://mi.guiaoleo.com/members/1853
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui a una reuni\xF3n con amigos. \r\n\
+      Llev\xE9 a mis dos hijas de 9 y 11 a\xF1os las cuales se quedaron sin comer porque hab\xEDa s\xF3lo tres platos para elegir. \r\n\
+      Sin perjuicio de ello, me cobraron por los tres. \r\n\
+      La vajilla es toda distinta y no est\xE1 muy limpia. \r\n\
+      El ba\xF1o es sucio y deplorable. \r\n\
+      Lo \xFAnico bueno fue el show. \r\n\
+      Si a usted le gusta el flamenco y no le importa estar en un lugar caro, mal atendido y con p\xE9sima comida ha encontrado su lugar."
+    date: 14-12-2005
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3.\r\n\
+      Volver\xEDa sin dudarlo."
+    date: 10-10-2005
+    user: http://mi.guiaoleo.com/members/6197
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy lindo lugar, la comida estuvo bien pero lejos el show es excelente.
+    date: 02-04-2005
+    user: http://mi.guiaoleo.com/members/1912
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El show muy bueno! hace que te olvides de la mala atenci\xF3n y de la muy pobre calidad de comida (espa\xF1ola?)."
+    date: 27-03-2005
+    user: http://mi.guiaoleo.com/members/1985
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es la esperada para los lugares con show en vivo. El show muy bueno.
+    date: 05-03-2005
+    user: http://mi.guiaoleo.com/members/1070
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es excelente a todo nivel .Muy buena atencion al cliente, la comida es espectacular y tambien los shows....lo recomiendooo!!!!
+    date: 29-10-2004
+    user: http://mi.guiaoleo.com/members/326
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buenos shows.-
+    date: 29-10-2004
+    user: http://mi.guiaoleo.com/members/323
+    ambiente_rank: excelente

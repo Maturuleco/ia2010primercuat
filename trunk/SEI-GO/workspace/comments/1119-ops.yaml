@@ -1,0 +1,133 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "restaurant correcto, con platos abundantes y con precio justo. Ideal para la salida del cine o teatro. No para los que busquen algo m\xE1s, Tipico restaurant, de hace 40 a\xF1os."
+    date: 21-02-2010
+    user: http://mi.guiaoleo.com/members/38513
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Restaurante de los antiguos, grande, con barullo, tipo bodeg\xF3n. Comida nada especial. Para ir cuando hay apuro por entrar a la funci\xF3n y no hay tiempo para buscar otra opci\xF3n."
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/42601
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hace m\xE1s de 40 a\xF1os que lo frecuento y es uno de los pocos antiguos restaurantes de Bs.As. que sigue manteniendo su calidad, esmero y excelente y muy profesional atenci\xF3n, cosa que no se da frecuentemente, sobre todo en Restaurantes de Puerto Madero y Palermo Hollywood....cualquiera lleva una bandeja....."
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/76487
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy bueno, super r\xE1pido. Ten\xEDamos poco tiempo porque \xEDbamos a ir al teatro y comimos bien en poco tiempo. Recomendable."
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/76062
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Como siempre excelente. El servicio correcto, el ambiente realmente cuidado. La estrella es la comida, y el tama\xF1o de las porciones, realmente increible, muy buen valor por su precio."
+    date: 13-01-2010
+    user: http://mi.guiaoleo.com/members/15118
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un rest\xF3 de los de antes, muy prolijo y limpio, sin m\xFAsica, se puede conversar amenamente. La comida es muy buena, el pollo a la naranja estaba escelente, pero lo acompa\xF1\xE9 con un pur\xE9 de manzanas al que le faltaba acidez, quizas era de manzanas rojas y no verdes. La carta de postres es acotada, no as\xED la de vinos. Para ir en familia."
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/39663
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar que tiene por objetivo captar turistas,ya que la comida es solo buena pero los precios son exajerados.Regular relaci\xF3n precio-producto."
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/19407
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atencion perfecta, el mozo muy atento. mantel y servilletas de tela muy limpios. Con una porcion de asado de tira, de carne muy tierna(sin grasa) , comen dos y a $40.- la porcion para compartir. La ensalada abundante con mercaderia muy fresca. Lo recomiendo. Ba\xF1os limpios. Volveria."
+    date: 30-05-2009
+    user: http://mi.guiaoleo.com/members/34788
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Anoche estuve en pepito  comi excelente  me atendio un mozo que le dicen tortuga espero volver pronto por que es excelente el lugar .
+    date: 13-12-2008
+    user: http://mi.guiaoleo.com/members/56133
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Nada del otro mundo, un lugar lindo con comida que est\xE1 bi\xE9n, atenci\xF3n un poco floja y nada m\xE1s."
+    date: 27-11-2008
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Un lugar para ir sin demasiadas pretensiones. Mi muy muy ni tan tan. Porciones muy abundantes.
+      Las frituras muy grasosas. Los precios razonables
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/8815
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida estuvo bien pero nada del otro mundo, la atenci\xF3n un poco lenta, el lugar es pasable. Lo mejor que tiene es que es muy grande y casi siempre hay lugar. El precio acorde."
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/35928
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Es la segunda vez que voy y el lomo al champignon con papas a la crema de esta vez fue realmente un manjar. El tema\xF1o de la porcion es grande, no hay manera de quedarse con hambre. El precio es razonable, diria barato comparandolo con otros restaurants. Al 13/6 $39. Los mozos son de oficio y conocen bien su tarea. Salvo su mal humor caracteristico cumplen bien su funcion."
+    date: 13-06-2008
+    user: http://mi.guiaoleo.com/members/15118
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Fui al mediodia para el cumple de mi papa.
+      los precios estan un poco elevados...
+      la comida esta rica. Volveria pero como dije... precio elevado para mi gusto.
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/8758
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Comimos milanesa a la napolitana y chivito, la verdad que todo fue regular, la entrada, tortilla de alcauciles mediocre, los postres un simple flan y budin ricos\r\n\
+      El lugar normal, bien cuidado, la atencion de los mozos correcta. "
+    date: 21-08-2007
+    user: http://mi.guiaoleo.com/members/25918
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "muy buena calidad probe el matambrito de cerdo con un chimi, espectacular porcion abundante para recomendar "
+    date: 30-07-2007
+    user: http://mi.guiaoleo.com/members/4772
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El 10 de mayo nos reencontramos despu\xE9s de 46 a\xF1os ex alumnos de escuela Industrial.\r\n\
+      Fue todo un acontecimiento, emocionante encontrarnos nuevamente despu\xE9s de tanto tiempo, amigos que hab\xEDamos convivido los mejores a\xF1os de nuestra juventud.\r\n\
+      Y no nos equivocamos en elegir el lugar Pepito, quiero agradecer a los due\xF1os, el servicio prestado, a la persona que nos atendi\xF3, en ning\xFAn momento nos presion\xF3 y nos prest\xF3 una asistencia perfecta. \r\n\
+      Esperamos volver a repetirla, porque cuatro horas no nos alcanzaron.\r\n"
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/22994
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo eleg\xED para festejar mi cumplea\xF1os con amigos y me decepcion\xF3. Para asegurarme que hubiera lugar, el d\xEDa anterior hice la reserva. Al llegar, nadie nos pregunt\xF3 si ten\xEDamos reserva, elegimos la mesa que se nos ocurri\xF3: Mal. \r\n\
+      El mozo era viejo, de los de antes pero me parece que estaba un poco piantado. Mi trucha rellena de verdura, m\xE1s que trucha parec\xEDa un cornalito por su tama\xF1o. El relleno era bastante vulgar y la guarnici\xF3n -respecto de la cual el mozo me asegur\xF3 que era suficiente- era casi inexistente: dos o tres m\xEDseros tomates cherry con algunas hojas de lechuga alrededor. \r\n\
+      Teniendo en cuenta que ese plato costaba m\xE1s de treinta pesos: Mal. \r\n\
+      Por \xFAltimo: sab\xEDan que era mi cumplea\xF1os y no ofrecieron ni una copa de champagne barato. Esos detalles hay que cuidarlos. Bueno, no voy m\xE1s y listo."
+    date: 06-04-2007
+    user: http://mi.guiaoleo.com/members/5179
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Posee variedad en la carta, los platos son abundantes. Es un restaurante tradicional, familiar. Lo recomiendo 100 para ir en familia, con amigos o en pareja.
+    date: 25-01-2007
+    user: http://mi.guiaoleo.com/members/16913
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La tienen re-clara. Un lugar donde sabes que le van a traer lo que pidi\xF3 y de la manera en la que lo pidi\xF3. Profesionales. No esperar camareras bonitas o de polleras cortas ni camareros estudiantes de dise\xF1o. Mozos y cocineros PRO."
+    date: 10-12-2006
+    user: http://mi.guiaoleo.com/members/14579
+    ambiente_rank: muy bueno

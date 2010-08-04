@@ -1,0 +1,225 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Com\xED un wrap de salm\xF3n el que casi ni se ve\xEDa. Adem\xE1s en su web dec\xEDa que el costo era de $ 25 cuando en realidad era de $ 29. Me desilusion\xF3"
+    date: 23-06-2010
+    user: http://mi.guiaoleo.com/members/6268
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Mejor licuados en buenos aires! Muy buen servicios. Aparte de la excelente comida y tragos, es obvio que entienden como tratar los clientes. Precios resonables y una carta bien planiada con la onda nueva de "health food" en buenos aires. Una onda que Pura Vida entiende mejor que todos.
+    date: 21-05-2010
+    user: http://mi.guiaoleo.com/members/82827
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy bueno lo que respecta a licuados y s\xE1ndwiches, todo muy natural. Muy rico."
+    date: 03-05-2010
+    user: http://mi.guiaoleo.com/members/76219
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Para jugo de maracuya lo mejor es pura vida!!!!
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/80626
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Para los residentes del microcentro que pretenden comer bien, sano, rico y a buen precio puravida es un lugar a tener muy en cuenta. Los jugos y licuados con productos frescos y combinaciones originales y sin azucar son su fuerte. Las ensaladas y sandwichs (especialmente los wraps, bien abundantes) son de primera calidad, y hasta para compartir. En invierno: las sopas. No dejen de visitarlo."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/77679
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente sitio para comer sano, natural, diferente y MUY rico!!!!! Buena atencio, no es ruidoso se puede disfrutar de una charla y hay mesas sobre reconquisa. SUPER recomendable!!!!
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/3919
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena alternativa para comer en el centro algo sano y a precio accesible aunque no barato. Interesante variedad de ensaladas, sandwichs y wraps (el pollo latino es bueno). Recomendable probar los diferentes aderezos que est\xE1n sobre las mesas. Jugos y licuados \"divertidos\" y no convencionales. \r\n\
+      Lugar limpio y ordenado, buena iluminaci\xF3n y ambiente agradable fuera de las horas pico."
+    date: 22-02-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Me encanto el licuado , se notaba cada uno de los ingredientes, en verano voy a volver para seguir sedustando las diferentes variedades.
+      El sandwich sin embargo me parecio un poco seco.
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy muy bueno, comida sano y rico tambien!
+    date: 12-10-2009
+    user: http://mi.guiaoleo.com/members/70234
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excellente! La segunda edici\xF3n de Pura Vida es un puro exito. La calidad de los ingredientes es realmente buena y, el servicio es muy buena y simpatica. Pura Vida esta generando tendencias en Buenos Aires para mejorar calidad de vida, donde todav\xEDa el concepto de comida saludable es poco desarrollado (o sea, antes de abrir Pura Vida, la tendencia en Buenos Aires era natureba = horrible). i drop in weekly and always meet somebody. Highly recommended!"
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/68983
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La oferta es buena, pero la comida no lo es. Los wraps dejan bastante que desear.
+    date: 14-09-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor opcion del pais para:veganos, vegetarianos,naturistas y amantes de la comida sana y nutritiva.ampliamente recomendable por la calidad de sus productos,las sabrosas opciones que ofrecen,la agilidad en la atenci\xF3n y la relaci\xF3n calidad-precio.\r\n\
+      bravo,diez puntos para  pura-vida!!!!!!!!!"
+    date: 08-06-2009
+    user: http://mi.guiaoleo.com/members/64355
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Este restaurante es mi favorito.  Todos de los ingredientes son frescos y deliciosos!  Voy a Pura Vida tres veces cada semana porque es el unico lugar que he encontrado en la ciudad que tiene tanto opciones por salud y vegetarianos tambien.  no soy una vegetariana pero prefiero comidas saludas sin carne a menudo.
+    date: 15-05-2009
+    user: http://mi.guiaoleo.com/members/62385
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Tienen productos originales y sabrosos !!
+      Se puede encontrar wheatgrass, muy bueno producto contra la grippe.  Ademas, la comida es una alternativa interesante para los vegetarianos.
+    date: 13-05-2009
+    user: http://mi.guiaoleo.com/members/62532
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La propuesta y la frescura de los ingrdientesson excelentes. La comida tiene un solo problema, el aceite de oliva que usan apesta, es de pesima calidad. El gran problema es que gran parte del menu esta rociado con ese aceite y los aderezos contienen ese gusto del aceite. Almuerzo muy seguido  pidiendo por telefono. Otro detalle que deberian cambiar YA es el servicio de delivery. Venden comida rapida, por lo que el deliveryno puede tardar de promedio 1 hora estando a 4 cuadras de distancia. Los chicos le ponen voluntad pero los due\xF1os deberian tomar mas personal."
+    date: 12-05-2009
+    user: http://mi.guiaoleo.com/members/5383
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los ingredientes son frescos y sabrosos !!\r\n\
+      Todo esta hecho al momento.\r\n\
+      Para los sandwiches, se puede elegir salsa al gusto (la de palta o de s\xE9samo son deliciosas). El wrap viene con chips de trigo muy ricos !! Adem\xE1s, las porciones son generosas !\r\n\
+      Los licuados vienen sin az\xFAcar y hay muchos frutos adentro !\r\n\
+      Un regalo !!"
+    date: 11-05-2009
+    user: http://mi.guiaoleo.com/members/62192
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Delicious! Everything was fresh and clean!
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/62149
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encanta todo!! eh probado casi todos los licuados , me apasionan. Pero desde el a\xF1o pasado not\xE9 que bajo la calidad de algunos productos.  Sin embargo lo sigo recomendando"
+    date: 06-05-2009
+    user: http://mi.guiaoleo.com/members/36192
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelentes los wraps y las ensaladas. Tardan un poco en llevar la comida a la mesa, y el ambiente es un tanto peque\xF1o, pero la comida vale el estar un poco apretados."
+    date: 30-03-2009
+    user: http://mi.guiaoleo.com/members/9987
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: hay tres menues muy interesantes y economicos al mediodia q ofrecen licuados o jugos de la casa + ensalada, wrap o 1 sandwich. yo comi un wrap veggie (los wraps son enormes!) mas un licuado chico de la casa (banana+frutilla y naranja) x 22$. excelente opcion rapida, natural y rica en el microcentro!
+    date: 20-03-2009
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Riquisimos wraps para almorzar. Los preparan en el momento. Muy buen tama\xF1o para el precio que se paga. Los jugos son todos excelentes. Esta vez probe el de maracuya, banana, anana y naranja.\r\n\
+      Vamos a seguir repitiendo muchas veces mas."
+    date: 26-01-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La comida y el lugar son excelentes. Los wraps son muy ricos y me llenaron. Las porciones de las ensaladas son bastante pobres. Los licuados est\xE1n buenisimos. Me parece que es ligeramente caro. He pedido delivery dos veces ya. La primera vez se equivocaron de direcci\xF3n. La segunda tardaron una hora (estoy a 5 cuadras y eran las 15.30hs). La atenci\xF3n en el local no es buena. Denota cierta falta de organizaci\xF3n. Pero los productos son ricos."
+    date: 16-01-2009
+    user: http://mi.guiaoleo.com/members/3524
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Cada tanto paso y tomo unos licuados, al salir del gimnasio. Y relamente son muy ricos... ayer probe el Pura Energia, y recoemiendo el Saca Resaca. Muy buen lugar para tomar o comer algo rico! Recomendable 100%
+    date: 16-12-2008
+    user: http://mi.guiaoleo.com/members/13585
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: riquisimo! los jugos super fresco, hecho a la vista, y con una sonrisa. los muffins son mi nuevo antojo. y todo super sano, que mas podes querer. la onda del lugar es muy calido y hay un trato muy personal de los chicos que trabajan ahi. no la podes perder!
+    date: 19-11-2008
+    user: http://mi.guiaoleo.com/members/54752
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La verdad q una opci\xF3n interesante, por la ubicaci\xF3n y por la propuesta, ya que en esta \xE9poca del a\xF1o uno quiere comidas livianas y muy ricas.\r\n\
+      las ensaladas muy ricas, mala la proporci\xF3n de algunos de los adicionales, ej: ped\xED palta, me dieron la mitad de una palta enorme, me pareci\xF3 excelente, pero desp agregu\xE9 tomates y me pusieron 4 rodajas finas, entonces como un poco dispar, habr\xEDa que ajustar esto de las porciones y el tema de la velocidad de la preparaci\xF3n, un poco nada m\xE1s. Sugerencia: vayan antes de las 13 o desp de las 14 porque el lugar se llena."
+    date: 14-11-2008
+    user: http://mi.guiaoleo.com/members/15993
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un propuesta genial y diferente en pleno centro donde es dificl conseguir comidas naturales. Jugos 10 puntos. Como sugerencia deber\xEDan agregar alguna opci\xF3n de wraps sin lechuga para los que no pueden consumir verdura cruda. Adem\xE1s el delivery es muy lento hay que llamar con 1 hora de anticipaci\xF3n. Pero vale la pena. Relaci\xF3n precio calidad muy adecuada."
+    date: 22-09-2008
+    user: http://mi.guiaoleo.com/members/50080
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: es una opcion novedosa, rica y saludable para almorzar, ya fui varias veces y comi wraps, tome sopas y jugos tambien, son la verdad buenisimos. Super recomendable.
+    date: 27-08-2008
+    user: http://mi.guiaoleo.com/members/24720
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "S\xED al muffin con jugo para empezar el d\xEDa! La comida es sabrosa y nutritiva. El lugar no es muy acogedor y al mediod\xEDa hay un barullo tremendo, pero bueno, es microcentro. Te atienden s\xFAper r\xE1pido y bien. Para los que comemos solos: hay alguna revista y buena onda. Con certeza, una excelente opci\xF3n para alimentarse, para abrir la mente y el paladar a una vida con m\xE1s colores y vitaminas. Hummus, frutas, tabule de quinoa... buen\xEDsimo."
+    date: 26-08-2008
+    user: http://mi.guiaoleo.com/members/46927
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Una opci\xF3n para comer natural al mediod\xEDa, los licuados y jugos son excelentes, las sopas y los wraps muy originales, gustosos y nutritivos, obviamente no comercializan bebidas alcoh\xF3licas, la ensalada de frutas es excelente."
+    date: 22-08-2008
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: los licuados son excelentes, diria q son la especialidad de la casa. los wraps son muy ricos. no hay postres. la atencion es muy buena.
+    date: 19-08-2008
+    user: http://mi.guiaoleo.com/members/7232
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 esta propuesta para el almuerzo del mediod\xEDa en el trabajo! Lo sproductos son super frescos, las combinaciones de sabores muy buenas, qu\xE9 rico wrap com\xED! Y todo sano, liviano, natural! La relaci\xF3n precio/calidad me pareci\xF3 adecuada. Seguramente voyu a comer all\xED muy seguido."
+    date: 30-07-2008
+    user: http://mi.guiaoleo.com/members/47960
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buen lugar para comer sano. Todo es de excelente calidad y preparado en el momento.
+    date: 25-07-2008
+    user: http://mi.guiaoleo.com/members/45495
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hac\xEDa mucho que quer\xEDa encontrar un lugar como este. Los jugos y los licuados son deliciosos, las ensaladas y los wraps muy sabrosos con combinaciones poco habituales y unas salsas riqu\xEDsimas (recomiendo la 'Oriental' si les gusta lo picante) y la sopa del d\xEDa tambi\xE9n es muy recomendable. La atenci\xF3n es muy amable pero... el lugar es peque\xF1o, preparado para atenci\xF3n 'al paso' (mesas y sillas altas) estilo americano y no invita a quedarse. No importa, me llevo a casa todas las propuestas tan ricas aunque preferir\xEDa poder sentirme c\xF3moda all\xED!"
+    date: 02-07-2008
+    user: http://mi.guiaoleo.com/members/13934
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      uno de los mas excelentes puntos en Bs As. comida sana, fresca y saludable, cuando vuelva a Bs As definitivamente regreso a Puravida, me quede con las ganas de el licuado antiresfrio, pero con lo que comi quede mas que satisfecho, gracias a unas amistades locales, llegue a este sitio lleno de comida natural, sana, fresca y con una atencion mas que personalizada, deberian tener mas puravidas en otros sectores de Bs As ya que nos tomo tiempo llegar (valio la pena)
+      Felicitaciones y volveremos a visitarlos
+    date: 28-06-2008
+    user: http://mi.guiaoleo.com/members/47124
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es increibile. Las comidas y los licuados, que estan hechos de una mezcla exotica de verdeos y frutas respectivamente, ademas de eso, el ambiente y sus colores, la musica, la gente que trabaja, todos muy agradables. Transmite optima energia, lo que es bueno para llevar amigos, etc.
+    date: 23-06-2008
+    user: http://mi.guiaoleo.com/members/46599
+    ambiente_rank: excelente

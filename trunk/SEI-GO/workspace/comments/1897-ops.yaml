@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "P\xE9sima calidad de la comida, se pidi\xF3 tagliatelle con tinta de calamar, acompa\xF1ados de camarones y alguna otra cosa m\xE1s. Lleg\xF3 una masa grumosa, de aspecto pegajoso y p\xE1lido. Los tagliatelle \"freezados\" eran grupos compactos que al cortarlos con cuchillo se descubr\xEDa que estaban crudos.\r\n\
+      El sandwich de pollo con tomates secos y queso crema, promocionado en el frente, ten\xEDa una pechuga que cubr\xEDa el cincuenta del interior del sandwich. Ante el reclamo por los tagliatelle, nos ofrecieron para el nene, ravioles con salsa cuatro quesos. \xA1Oh sorpresa! no hab\xEDa m\xE1s ravioles. Consecuencia, uno de los comensales, el menor, no pudo almorzar. Lamentable todo, no entiendo como sigue abierto."
+    date: 12-11-2006
+    user: http://mi.guiaoleo.com/members/13564
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente ambientaci\xF3n. Servicio bueno, comida excelente."
+    date: 29-09-2006
+    user: http://mi.guiaoleo.com/members/12435
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me parece un lugar muy c\xE1lido, con excelente gusto y decoraci\xF3n. La comida es riqu\xEDsima y con precios totalmente accesibles. La manteler\xEDa y la vajilla es impecable. Adem\xE1s, al tener tres diferentes ambientes hay para todos los gustos. Lo recomiendo."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/12028
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Con la idea de comer una picada llegamos a este lugar. \r\n\
+      Ordenamos cerveza: el envase se hallaba fresco y el contenido intomable. \r\n\
+      Nos las cambiaron y las trajeron en un balde que s\xF3lo pose\xEDa dos tristes rolitos y el resto lleno de agua.\r\n\
+      Ordenamos la carta de vino y s\xF3lo hab\xEDa cinco marcas y los dos varietales t\xEDpicos (merlot-cabernet) con el precio m\xE1s bajo de $22. \r\n\
+      Al no poseer ning\xFAn tipo de comida para picar nos sugieren ordenar unas entradas y compartirlas. \r\n\
+      Ordenamos un pat\xE9 de no se qu\xE9. Consistia en cuatro tostaditas de baguette (literalmente 4 tostadas de baguete cortadas en el sentido transversal osea redondas m\xEDnimas) cada una con su correspondiente trozo de pat\xE9 y una monta\xF1a de hojas verdes en el medio para decorar. \r\n\
+      Luego ordenamos un plato que ni la moza sab\xEDa describir que era una torta con champignones, salm\xF3n y palmitos gratinada. \xBFSuena bien no? Bueno la torta era como una lasagna de galletitas de harina integral con queso de m\xE1quina gratinado, una monta\xF1a de hojas verdes aceitadas incomibles, dos fibras de palmitos, ocho champignones y salm\xF3n (de consistencia babosa). Nos vino a hablar el chef y nos dio una explicaci\xF3n de que el salm\xF3n que usa estaba \"arriba\" que podr\xEDa ir a buscar \"abajo\" y \"tengo unas cazuelitas congeladas para sacarte ya, que esas si est\xE1n bien, no hay nada que armar\".\r\n\
+      Realmente todo parec\xEDa una c\xE1mara oculta de muy mal gusto. "
+    date: 11-04-2006
+    user: http://mi.guiaoleo.com/members/7717
+    ambiente_rank: bueno

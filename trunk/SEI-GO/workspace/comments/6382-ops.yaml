@@ -1,0 +1,101 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Todo muy rico y bien servido, hermosa vajilla y lindo ambiente. Ideal para almorzar algo liviano y para merendar, con precios razonables. La due\xF1a, algo densa, no para de hablar y dar indicaciones, y atonta a los chicos y chicas que atienden. Pero es muy recomendable!"
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/9342
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Agradable lugar para desayunar o merendar un d\xEDa de sol, leer el diario y relajarse. Buena oferta de desayuno, con ricas medialunas, pan tostado y mermeladas. La vajilla es realmente algo para destacar debido a su belleza y elegancia. Tienen buenos y variados productos de reposter\xEDa. La atenci\xF3n de los mozos es buena pero la due\xF1a podr\xEDa relajarse un poco (no transmite mucha tranquilidad). Una buena opci\xF3n para la zona de Colegiales."
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui con amigos a merendar y realmente todo estuvo excelente. El tema es que no est\xE1 en Belgrano sino en Colegiales lo que confunde bastante a los que no conocen la zona."
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/5952
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy lindo lugar, una casita reciclada en una esquina tranquila, muy bien puesta.\r\n\
+      Nos atendieron r\xE1pido, pedimos ensalada de pollo riqu\xEDsima.\r\n\
+      Excelente para almorzar en la terrada un d\xEDa de sol. Los precios acordes.\r\n\
+      Volveremos!"
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/77565
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es muy lindo y la merienda es com\xFAn tirando a buena. El servicio un poco lento y la que parec\xEDa ser la due\xF1a criticaba a la camarera varias veces, por lo que los encargados de servicio ten\xEDan caras de poca felicidad.\r\n\
+      Mas all\xE1 de eso un lindo lugar para pasar a tomar un caf\xE9."
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/66092
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      fuimos a merendar. El lugar es muy ameno, la atencion es muy buena. Los precios de algunos cosas son algo elevados. Todo muy bien presentado.
+      Lo recomiendo para un almuerzo de fin de semana.
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/48268
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Decidi comer en este lugar por las referencias positivas que daba guia oleo, la ambientacion del lugar es muy linda y la pasteleria esta muy bien lograda ya que rompe con los gustos clasicos que se encuentran en todos lados, ideal para la hora del te.
+    date: 22-11-2009
+    user: http://mi.guiaoleo.com/members/5125
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Todo muy bien salvo que cuando ped\xED que me cambiaran un caf\xE9 con leche que estaba aguado se negaron. Eso no es buena atenci\xF3n al cliente."
+    date: 07-10-2009
+    user: http://mi.guiaoleo.com/members/24036
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      El lugar es muy bonito y el ambiente intimo pero informal. La comida viene en porciones abundantes y es de muy buena calidad, con una presentacion que ayuda. El servicio atento y efectivo.
+      No probamos las tortas ni los dulces, los dejamos para un dia ir a tomar el te.
+    date: 16-09-2009
+    user: http://mi.guiaoleo.com/members/49817
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      EXCELENTE!!!!!! genial.. me encanto todo.. lo que comi y lo que no comi!!! se ve muuuyyy tentador!! la verdad los felicito.. da gusto ir a un lugar asi!
+      gracias!
+    date: 15-07-2009
+    user: http://mi.guiaoleo.com/members/65669
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: esta bien el lugar para el almuerzo, buenos productos y lindas presentaciones en los sandwich, la atencion es simpatica
+    date: 13-07-2009
+    user: http://mi.guiaoleo.com/members/65048
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Interesante combinaci\xF3n de casa de dulces con restaurante de men\xFA variado dentro de la propuesta deliberadamente acotada: sopas, sandwiches, tartas y ensaladas. Esta es nuestra segunda visita y solo opinamos sobre el almuerzo ya que no probamos los dulces que parecen tentadores. Muy buena propuesta en comida y ambiente. La atenci\xF3n es buena, sin embargo ganar\xEDa con mayor profesionalidad en su gesti\xF3n. Confiamos aportar algo de equilibrio a la evidente sobrevaloraci\xF3n de los comentarios publicados."
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente el Te de Lim\xF3n, es como un mousse de lim\xF3n, realmente delicioso. La ambientaci\xF3n es re chik, divine"
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/65420
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La comida es EXCELENTE, y me atendieron y trajeron todo en el instante. El ambiente es excelente, la vajilla hermosa y super agradable todo!!!! Volvere muy seguido
+    date: 09-07-2009
+    user: http://mi.guiaoleo.com/members/65385
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Todo excelente. Riquisimooooo!!!!
+    date: 09-07-2009
+    user: http://mi.guiaoleo.com/members/16882
+    ambiente_rank: excelente

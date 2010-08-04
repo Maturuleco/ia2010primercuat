@@ -1,0 +1,414 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy rico y muy fresco, la atenci\xF3n es muy agradable y el luagr hermoso!"
+    date: 28-06-2010
+    user: http://mi.guiaoleo.com/members/66929
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente atenci\xF3n, de los mozos y del sommelier. La comida est\xE1 muy bien; no es el MEJOR sushi de la ciudad pero es muy bueno. El lugar es para ir en pareja, no con amigos."
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/22869
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: sabrozo, rico y fresco, recomendable. he probado mejores de todos modos.
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/77555
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es una casa antigua espectacularmente decorada. Lugar muy romantico e ideal para una salida especial. El Sushi estuvo muy rico y la atencion fue muy buena.
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/83357
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "De entrada un arroz o una sopa de miso. para comer una tabla con rolls, niguiris de salmon rosado y generoso sashimi. Postre: ensalada de fruta, helado y alguna otra opci\xF3n. Gaseosa. Te o caf\xE9. Todo por menos de U$S 12. CONTUNDENTE."
+    date: 29-04-2010
+    user: http://mi.guiaoleo.com/members/63704
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buen sushi, fresco, con gusto y porciones grandes. Vale la pena el gasto...
+    date: 24-04-2010
+    user: http://mi.guiaoleo.com/members/81231
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "hermoso lugar donde se come intimamente, entre amigas o en pareja. es verdad que el buen recuerdo de una cena depende de 3 factores: comida, ambiente y compania, little rose tuvo los 3!"
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/82291
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buen sushi.. lugar lindismo y buena atencion . Ideal para el romanticismo, hablar bajito y disfrutar.
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/27291
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente! El sushi m\xE1s fresco que he comido en BsAs. La atenci\xF3n es un placer, el lugar h\xEDper agradable y original. Ideal para una cena rom\xE1ntica o una charla \xEDntima de amigos/as. Tambien tienen una sala para grupos grandes! Ya voy yendo 2 veces y no pasa este mes que vuelvo!"
+    date: 09-04-2010
+    user: http://mi.guiaoleo.com/members/26391
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El sushi es realmente fresco; lo preparan en buen tiempo y el sabor permanece intacto en cada pieza. Los rolls apanados sorprendieron por su versatilidad, sobre todo para principiantes. Es la cuarta o quinta vez que vamos; nunca nos decepciona.
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/13402
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: buenoi
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/78600
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Little rose es sin duda EL lugar con mejor sushi de Buenos Aires. He tenido la suerte de probar sushi en varios lugares del mundo incluido Japon y puedo comprobar que este restaurant sin duda es de muy buena calidad. Ellos logran crear rolls creativos y bueno a pesar de la poca variedad de pescados que hay en Buenos Aires, uno se imagina lo que podrian hacer con mas ingredientes.
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/30068
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: ENCANTADOR! Este es uno de esos restaurantes que comer se transforma en una experiencia, la comida, el ambiente y el servicio, forman una trilogia buenisima! El sushi es uno de los mejores de BA y para aquellas que preferimos cenar con cocktails, tienen una barra excelente! No se lo pierdan!
+    date: 08-01-2010
+    user: http://mi.guiaoleo.com/members/13206
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui con tres amigas y si bien el lugar da mas para una onda rom\xE1ntica (es oscurito, velas, etc), la comida y el servicio nos impresionaron muy bien. Tomamos unos tragos, muy buenos. Los mozos todo el tiempo asesor\xE1ndonos y ayud\xE1ndonos a elegir. Definitivamente quiero volver."
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/25301
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sinceramente el mejor sushi de Buenos Aires, fui varias veces y siempre com\xED de manera excelente. Los tragos son increibles. La atenci\xF3n, como siempre, super dedicada. La ambientaci\xF3n es poco com\xFAn pero muy llamativa. Ideal para una cena tranquila. Recomendable."
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/2126
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Est\xE1 en una casona antigua toda pintada de negro y con detalles que logran una ambientaci\xF3n perfecta para una velada romantica. Los rolls especiales son novedosos e inolvildables. Muy buena la atenci\xF3n."
+    date: 23-10-2009
+    user: http://mi.guiaoleo.com/members/42568
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "EXCELENTE!! Muy lindo lugar, atenci\xF3n muy buena, mejores sushi de Buenos Aires, la verdad no hay nada, ni una sola cosa que no este bien. Todo perfecto! Volvere sin duda!"
+    date: 14-08-2009
+    user: http://mi.guiaoleo.com/members/68643
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Fui unas cuantas veces y comi muy bien, muy bien atendidos.
+      El lugar demasiado lugubre pero me gusta.
+      Me un poco pero vale la pena
+    date: 14-08-2009
+    user: http://mi.guiaoleo.com/members/68967
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fue una gratisima sorpresa. La atencion mas que esmerada, \"destacada\". Los platos superaron las expectativas, las caipiroskas con maracuya deliciosas pero saben a poco, el vaso es minimo. Un poquitin m\xE1s grande aportaria mucho y darian ganas de repetir algunas mas. \r\n\
+      El lugar esteticamente bello y muy super pulcro. Voy a volver, sin dudas."
+    date: 05-08-2009
+    user: http://mi.guiaoleo.com/members/67067
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: el lugar es hermoso, bien para ir en pareja, la atencion del somelier muy dedicada y la camarera tmb, es mas cada vez que pasaba te llenaba el vaso con mas bebida, el servicio medio lento pero esta bueno pq se nota que es todo preparado en el momento, la barra de tragos muy buena, la caipi de maracuya muy fresca! y el postre que era un sable de maracuya no me gusto mucho, medio duro y muy escaso, pero la entrada de langostinos tempura muuy rica y abundante, como el plato de salmon que es muy recomendable, y el sushi, es uno de los mejores, sin duda volveremos.
+    date: 14-05-2009
+    user: http://mi.guiaoleo.com/members/63654
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sin dudas, el mejor sushi de Buenos Aires. No me canso de volver. La atenci\xF3n, junto con el ambiente y la comida, hacen que uno se sumerga en una experiencia inolvidable. \r\n\
+      Sin dudas, EL lugar para una cena rom\xE1ntica. Tambi\xE9n tienen un sal\xF3n separado del resto, para unas 8-10 personas muy \xEDntimo, hermoso. \r\n\
+      Los mediodias suelen tener menues a muy buen precio!"
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/424
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La tabla de sushi rica pero muyyyyyy b\xE1sica. Nada sorprendente. Esperaba un men\xFA mas sofisticado por el precio y por el d\xEDa que se trataba. Exceso de amabilidad y atenci\xF3n que torna, el trato, \"pesado\". No creo que vuelva."
+    date: 28-03-2009
+    user: http://mi.guiaoleo.com/members/57142
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "No me gust\xF3,muy lugubre el lugar.\r\n\
+      La comida mas o menos,ensalada de algas mediocre.\r\n\
+      El servicio lento"
+    date: 21-03-2009
+    user: http://mi.guiaoleo.com/members/60217
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Lugar ideal para una cena intima. El servicio es dedicado, al punto que te atienden dos mozos a la vez. El sushi es de los mejores, muy bien preparado. La principal contra es que permite pagar solo en efectivo, y teniendo en cuenta que no es barato...no es muy comodo. Recomendable
+    date: 12-03-2009
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Como sushi desde hace muchos a\xF1os y por suerte he podido comer en varios pa\xEDses, Little Rose sin duda alguna por calidad, tragos, buen ambiente es el mejor lugar de ARgentina para comer sushi."
+    date: 06-02-2009
+    user: http://mi.guiaoleo.com/members/26706
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Siempre es un placer comer alli, la atencion es muy buena, la comida deliciosa y el lugar es muy bonito.
+    date: 30-01-2009
+    user: http://mi.guiaoleo.com/members/47439
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n para comer sushi, las recomendaciones estuvieron muy bien. Un solo detalles las mesas estan muy encimadas."
+    date: 11-12-2008
+    user: http://mi.guiaoleo.com/members/40174
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Vale la pena aprovechar el men\xFA de mediod\xEDa, con una buena miso soup y rico suhi (pero el mejor sigue siendo el de sushi club), m\xE1s una peque\xF1a pero deliciosa mousse de chocolate. El ambiente de paredes negras con fotos en b/n con los detalles rojos coloreados la hacen una opci\xF3n para disfrutar no solo desde lo gourmet."
+    date: 10-12-2008
+    user: http://mi.guiaoleo.com/members/6903
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "no tengo palabras para describir la comida de este lugar: \"incre\xECblemente deliciosa\" es lo m\xE0s cercano a lo que sent\xEC. El tempura de langostinos es imperdible y habla de la frescura y calidad con la que trabajan en little rose. La atenci\xF2n es excelente y el ambiente muy bueno. Es caro, pero imperdible."
+    date: 12-10-2008
+    user: http://mi.guiaoleo.com/members/17988
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Una muy buena opcion el menu de $35. Pense que me quedaria con hambre pero no. Tanto la entrada, el sushi y el postre fueron excelentes. la atencion muy correcta tambien. Volvere,
+    date: 07-10-2008
+    user: http://mi.guiaoleo.com/members/47670
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo ambiente para ir al mediod\xEDa, y adem\xE1s poder aprovechar el men\xFA del mediod\xEDa: muy bien sushi, caf\xE9 y postre (recomendable el helado de frutilla) por menos de 50$. Hace mucho que no iba, es para volver, se come muy bien, muy buena atenci\xF3n y el lugar es tan agradable de d\xEDa como de noche."
+    date: 27-09-2008
+    user: http://mi.guiaoleo.com/members/13399
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida me pareci\xF3 riqu\xEDsima, el tempura de langostinos para destacar. El ambiente es super c\xE1lido, y la atenci\xF3n es execelente. Voy a volver seguro."
+    date: 18-09-2008
+    user: http://mi.guiaoleo.com/members/18628
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "La decoracion del lugar es divina, la musica muy buena y la atencion es para destacar. El sushi es bueno pero he probado mejores. La relacion precio calidad no me pareci\xF3 equilibrada."
+    date: 12-09-2008
+    user: http://mi.guiaoleo.com/members/13183
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Normalmente lo que mas cuesta a los restaurants es tener un buen servicio permanente, Little Rose lo ha logrado a trav\xE9s del tiempo. Siempre me atienden de una manera maravillosa, el sommelier es sumamente esmerado, todos son amables y bien predispuestos, se mantiene el mismo equipo desde hace tiempo... esto habla de la calidad humana de sus due\xF1os. La excelente musica y el sushi siempre muy fresco cierran el combo para una salida feliz. Excelente."
+    date: 27-08-2008
+    user: http://mi.guiaoleo.com/members/690
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente sushi de mango
+    date: 31-07-2008
+    user: http://mi.guiaoleo.com/members/3276
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El sushi estaba delicioso, el men\xFA del mediod\xEDa es muy conveniente. La atenci\xF3n estuvo esmerada y eficaz. El lugar es agradable y bien decorado. Volver\xE9."
+    date: 16-07-2008
+    user: http://mi.guiaoleo.com/members/38583
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ideal para ir en pareja. Espectacular el sushi. Es evidente que el esmero no est\xE1 puesto en los postres. Ni siquiera ten\xEDan una carta. Pero el helado casero que com\xED, aunque era diminuto, estaba excelente. La atenci\xF3n, sin falla alguna. Para volver."
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/18656
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar me pareci\xF3 muy bien ambientado, la atenci\xF3n es excelente. Muy buena la sugerencias del somelier y de los mozos. El sushi es espectacular , al igual que la entrada de langostinos.\r\n\
+      Te explican todo sobre las comidas y los vinos, aprend\xE9s mucho .\r\n\
+      La verdad es que es maravilloso!"
+    date: 31-05-2008
+    user: http://mi.guiaoleo.com/members/45656
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es excelente. Lo conoc\xED con mi novio hace m\xE1s de 6 meses y vamos todos los s\xE1bados al mediod\xEDa. La comida es buen\xEDsima. Las mozas atienden con el mayor esmero. La comida sale r\xE1pido. Todo muy limpio y bonito. Voy a seguir yendo. Recomendable el men\xFA del mediod\xEDa de $35/40 (incluye bebida, entrada, plato principal, postre y caf\xE9!!!). Recomiendo a todos. Imperdible tambi\xE9n la mesa para varios comensales que est\xE1 en un sal\xF3n separado: para ir con amigos y disfrutar! Todos tienen la mejor onda."
+    date: 17-05-2008
+    user: http://mi.guiaoleo.com/members/45298
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Mala experiencia.\r\n\
+      LLegu\xE9 y tuve que esperar parado. No te invitan con ning\xFAn trago para amenizar la espera. Te tiran la carta de tragos para que te pidas algo mientras la gente se va.\r\n\
+      El lugar es bastante oscuro (todo pintado de negro), no se puede leer la carta.\r\n\
+      Los rolls nada originales, ninguna lista de sushi especial de la casa.\r\n\
+      Y al final bastante caro.\r\n\
+      No volver\xEDa"
+    date: 01-05-2008
+    user: http://mi.guiaoleo.com/members/44328
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Hoy fue la mi segunda vez en este lugar, si bien despues de la primera me prometi no reinicidir, lo hice porque vivo al lado..., es importante mencionar   que la experiencia de medio dia fue completamente diferente a la nocturna, en aquella ocacion tuve que esperar para conseguir mesa (ni agua me ofrecieron) una vez sentado me dicen \xA8 le aconsejo pedir algun entrada porque tenemos demora con el suchi,espere una hora mi pedido, a base de tragos (gastamos $380, eramos dos) y cuando voy a pagar con tarjeta: me dicen que no aceptan, busque plata en casa y pague. hoy fue mejor, y barato."
+    date: 11-04-2008
+    user: http://mi.guiaoleo.com/members/33598
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Un lugar muy romantico y agradable que lamentablemente se complica en su propuesta. La cocina, que de por si no es nada del otro mundo, tarda mucho. El sushi es imposible de pedir. Los mosos son muy lindos y modernos pero es muy malo su servicio. No es recomendable a pesar de ambiente.
+    date: 11-03-2008
+    user: http://mi.guiaoleo.com/members/12702
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar muy particular por su decoraci\xF3n y aspecto l\xFAgubre; pero sin embargo resulta ser muy agradable. Es ideal para ir en pareja.\r\n\
+      El sushi es de muy buena calidad. \r\n\
+      Los precios un poco elevados, pero para mi, vali\xF2 la pena."
+    date: 05-03-2008
+    user: http://mi.guiaoleo.com/members/19129
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: El sushi es muy bueno, el salmon fresco, los cortes optimos pero la variedad muy escasa. El ambiente que puede parecer un poco oscuro al principio es muy agradable y original. La atencion es mala, los mozos toman el pedido y desaparecen. Carisimo.
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/12826
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Linda ambientacion pero bastante oscuro. Recomendable para una comida intima. Los spring rolls estaban excelentes, el sushi bueno y los postres mas o menos. Los mozos gentiles pero falto un poco de atencion.
+    date: 13-02-2008
+    user: http://mi.guiaoleo.com/members/25520
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un lugar no solo recomendable, sino que te deja ganas de volver.
+    date: 12-02-2008
+    user: http://mi.guiaoleo.com/members/11072
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encanto el caipisake y la calidad del corte del pescado mejor\xF3 notablemente desde la ultima vez que fui- Los langostinos son deliciosos.\r\n\
+      Los ba\xF1os son un chiche."
+    date: 21-01-2008
+    user: http://mi.guiaoleo.com/members/25626
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Decidi ir por los comentarios de la Guia. No volver\xEDa: el menu es cr\xEDptico, cuando pedi que me lo explicaran para saber que pedir y cuanto me salia, me miraron mal como diciendo \"que es lo que no entendes si es clarisimo\" (!), y tampoco me dio una explicacion concluyente.  El sushi es muy bueno, pero me parece que el precio est\xE1 muy sobredimensionado, quiz\xE1 por el barrio donde est\xE1 emplazado, la cocina, desprolija, el ba\xF1o lo mismo.  No volver\xEDa ni lo recomendar\xEDa, francamente."
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/19604
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Buena ambientacion,la atencion es desorganizadamente voluntariosa....el sushi nomal y los precios desproporcionados para lo que se ofrece. "
+    date: 03-01-2008
+    user: http://mi.guiaoleo.com/members/971
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es incre\xEDble, contrariamente a lo que opinan varios usuarios NO me gustaron las fotos. La atenci\xF3n es sobria y terriblemente eficiente, el sushi es excelente, la ambientaci\xF3n es muy buena. Es caro pero creo que lo vale. La \xFAnica contra creo que es la carta de vinos, si bien no es mala la selecci\xF3n es cierto que arrancan de muy arriba en precio, creo que en esta ciudad se pueden disfrutar buenos vinos a un precio no tan alto."
+    date: 02-12-2007
+    user: http://mi.guiaoleo.com/members/7154
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Imperdible el men\xFA del mediod\xEDa: entrada, 10 piezas de sushi, postre, bebida y caf\xE9 por $35.-, en un lugar muy bien ambientado, con servicio cuidado y sobre todo tranquilo...lo que es mucho decir para los restaurantes de Palermo. Ideal para ir en pareja, con amigos o en familia."
+    date: 26-11-2007
+    user: http://mi.guiaoleo.com/members/11142
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "muy lindo lugar, decoracion impactante, sobria pero con buen gusto (para destacar las fotografias que se resaltan sobre lo negro), para llevar a la chica de tus sue\xF1os. atencion excelante, los meseros estan muy pendientes. el sushi muy rico y de tama\xF1o considerable. Para volver en ocasiones especiales porque la billetera lo sufre."
+    date: 23-11-2007
+    user: http://mi.guiaoleo.com/members/21631
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos cuatro. Es divina la ambientaci\xF3n, pero terrible el sushi, de muy mal nivel. Y encima, car\xEDsimo."
+    date: 23-11-2007
+    user: http://mi.guiaoleo.com/members/1356
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El mejor sushi de Bs. As. y lo dice un verdadero fanatico del sushi. Al mediodia tienen un menu muy bueno donde no tenes que empe\xF1ar la casa pero a la noche se complica...es muy caro, pero el mejor."
+    date: 21-11-2007
+    user: http://mi.guiaoleo.com/members/36323
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es excelente, un lugar diferente con mucha onda.. es todo negro. El sushi es para paladares de les gusta el buen comer. Eso si: carito! Vale ir al menos una vez"
+    date: 09-11-2007
+    user: http://mi.guiaoleo.com/members/23262
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Aceptable nivel de sushi en un ambiente excelente con buen servicio.  Recomendable para una cita donde hay que "definir".
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Little Rose sorprende por su original decoraci\xF3n, algo que los amantes del sushi no estamos acostumbrados a encontrar. Un ambiente \xFAnico, rom\xE1ntico, incre\xEDble. Especial para ir en pareja o en grupos peque\xF1os. El sushi es excelente. Los lunes s\xF3lo hay salm\xF3n generalmente ya que es el d\xEDa en que no se reparte pescado.\r\n\
+      100 Recomendable"
+    date: 23-10-2007
+    user: http://mi.guiaoleo.com/members/12527
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es muy original el ambiente y la decoraci\xF3n son excelentes, uno tiene la sensaci\xF3n de estar comiendo en una casa. La atenci\xF3n y la comida es muy buena , la \xFAnica critica es la carta de vinos , tiene muy poca variedad y los precios son exesivamente altos la carta arranca con vinos desde $67 en adelante."
+    date: 13-10-2007
+    user: http://mi.guiaoleo.com/members/34111
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar esta muy bien ambientado y con onda. \r\n\
+      El sushi realmente es uno de los mejores que prob\xE9 y el servicio es bueno. Mas all\xE1 de lo dicho hasta ac\xE1, podr\xEDa ser un poco menos caro ya que est\xE1 por arriba de otros buenos lugares de sushi. Para tener en cuenta: unicamente aceptan efectivo."
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/11766
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Si te gusta realmente el sushi no podes dejar de conocerlo. La calidad es excelente, desde los rellenos de las piezas (abundante) hasta la presentaci\xF3n. La atenci\xF3n es muy buena, como tambi\xE9n la caipirinha que hacen. Los postres (prob\xE9 casi todos) son exquisitos y realmente muy creativos a la hora de mezclar sabores no habituales. Altamente recomendable. "
+    date: 28-09-2007
+    user: http://mi.guiaoleo.com/members/2126
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente. El mejor sushi de Buenos Aires.
+    date: 28-09-2007
+    user: http://mi.guiaoleo.com/members/632
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente! el ambiente es optimo y como sushiman, recomiendo este restaurante. Felicitaciones.
+    date: 11-09-2007
+    user: http://mi.guiaoleo.com/members/15366
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una casona decorada con glamour y luz tenue en el coraz\xF3n del SoHo, le dan a este resto un ambiente ideal para ir en pareja.  El sushi es muy bueno al igual que la atenci\xF3n.  La parte que no me termina de cerrar, es que cuando uno se inclina por la comida japonesa tenga que dejar una buena porci\xF3n de su salario..."
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/2996
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen sushi (excelente proporci\xF3n de arroz en las piezas) y muy linda ambientaci\xF3n, ideal para una cena rom\xE1ntica.\r\n\
+      La opci\xF3n del lugar d\xF3nde se puede fumar es ideal para cuando se reune un grupo, pero calculo que habr\xE1 que reservar con tiempo ya que el s\xE1bado estaba ocupado.\r\n\
+      La \xFAnica cr\xEDtica es que la carta de vinos arranca con precios altos y no tiene otras opciones, m\xE1s all\xE1 de eso lo recomiendo."
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar que faltaba en buenos aires.\r\n\
+      Hay que sentarse y sumergirse en ese clima tan especial. Vale la pena ivertir en este tipo de restos. "
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/6929
+    ambiente_rank: excelente

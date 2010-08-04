@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un c\xE1lido ambiente y te atienden como si fueras de la familia. La comida tiene una excelente relaci\xF3n precio calidad. Para tenerlo como punto de visita. "
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/25670
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen lugar, super recomendable por la comida casera, por la atenci\xF3n de Mary y los precios muy accesibles. \r\n\
+      En el coraz\xF3n de San Telmo este lugar es imposible no conocerlo."
+    date: 17-11-2006
+    user: http://mi.guiaoleo.com/members/13585
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar, c\xE1lido, pintoresco y aut\xE9ntico. Al entrar, uno puede sentir la magia de los viejos bodegones porte\xF1os."
+    date: 13-10-2006
+    user: http://mi.guiaoleo.com/members/12800
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ambiente agradable y precios accesibles.
+    date: 03-01-2006
+    user: http://mi.guiaoleo.com/members/5676
+    ambiente_rank: muy bueno

@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Una l\xE1stima! Es la 2a. vez que voy y no pienso volver. Los mozos no tienen ni idea de nada..Ped\xED el men\xFA que era el especial del d\xEDa viernes, y la chica ni sab\xEDa que exist\xEDa!..Los vinos no tienen precio en la lista. Hay que preguntar uno por uno. Cuando toca el grupo musical, no se puede hablar m\xE1s! El volumen aturde en un lugar tan chico. En fin..una l\xE1stima! Me encanta la comida peruana."
+    date: 11-07-2008
+    user: http://mi.guiaoleo.com/members/47903
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar un poco escondido y muy frio. La comida y la atenci\xF3n muy buenas. Un lugar recomendable pero para ir abrigado."
+    date: 20-06-2008
+    user: http://mi.guiaoleo.com/members/46819
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: exelente lugar, exelente comida un ambiente muy agradable
+    date: 27-05-2008
+    user: http://mi.guiaoleo.com/members/45483
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es riquisima, el lugar es muy agradable y bien ambientado. Las porciones son abundantes. Es muy recomendable.
+    date: 22-05-2008
+    user: http://mi.guiaoleo.com/members/37605
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      malo el ruido porque la musica es mul alta para restaurant con un ambiente chico la atencion se enredan un poco cuando se llena
+      la comida excelente
+    date: 26-04-2008
+    user: http://mi.guiaoleo.com/members/44045
+    ambiente_rank: malo/regular

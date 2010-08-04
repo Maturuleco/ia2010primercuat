@@ -1,0 +1,439 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la comida, y buena la atenci\xF3n, pese a ser 25 de mayo (el local estaba complet\xEDsimo).\r\n\
+      \r\n\
+      No te pod\xE9s perder el locro."
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/30197
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy original y sabrosa la comida. Muy buen servicio y ambiente. Lo \xFAnico que tengo para criticar es la falta de caf\xE9 (ten\xEDan el aparato fuera de servicio) y de algunos postres. Lindo lugar para comer comida t\xEDpica, las empanadas riqu\xEDsimas. Volver\xE9!!"
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lindo lugar para ir a comer, aunque muy pero muy ruidoso. Por suerte el sector fumador estaba vac\xEDo y  ah\xED adentro se pierden los ruidos de los chicos gritando y jugando abajo. El servicio es correcto. La comida es muy muy rica. La a\xFAstica le juega en contra."
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: me encanto el lugar precioso muy bien decorado la comida exquisita y a un precio muy considerable con la calidad el servicio muy atento y agradable recomendable volvere
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/76452
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Ideal para compartir con amigos una comida regional. Servicio  aceptable, precios mas q accesibles y la comida excelente. Recomendables los postres (la ambrosia exquisita)
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/75873
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La peor atenci\xF3n que he recibido en un restaurante, la comida fr\xEDa, el servicio lento y las mozas muy distraidas. La comida es regular y el tama\xF1o de los platos y empanadas peque\xF1os. No hay variedad. Mucho por mejorar!!!"
+    date: 09-10-2009
+    user: http://mi.guiaoleo.com/members/69666
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy ricas empanadas y comidas regionales a precios accesibles. Tanto el lugar como la atenci\xF3n son correctos pero sin nada para destacar"
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "excelente opcion para un buen guiso, pastel de carne o humitas.\r\n\
+      las empanadas tucumanas tambi\xE9n se destacan\r\n\
+      bastante econ\xF3mico y m\xE1s para la calidad de la comida.\r\n\
+      faltar\xEDa mejorar un poco la atenci\xF3n y el servicio que no fue malo pero un poco lento"
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/30279
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Tipica casona de Palermo. En una esquina interesante y con un ambiente cordial.Las empanadas son buenas ; de tama\xF1o normal. Las que m\xE1s me gustaron son las de jam\xF3n del norte."
+    date: 26-07-2009
+    user: http://mi.guiaoleo.com/members/10517
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Las empanadas de humita una delicia! no son baratas por el tama\xF1o pero valen la pena probarlas. Las lentejas muy ricas. Volveremos!"
+    date: 23-07-2009
+    user: http://mi.guiaoleo.com/members/48442
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy rica comida, se nota la buena cocina.
+    date: 19-07-2009
+    user: http://mi.guiaoleo.com/members/65915
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Volv\xED luego de que el a\xF1o pasado fu\xED unas cuantas veces y honestamente voy a comer principalmente \"mondongo\". Lo preparan muy bien y adicion\xE1ndole la salsita picante que viene con los panes a\xFAn mejor. Todo lo que he pedido result\xF3 muy sabroso. El servicio es bueno, no te apuran, incluso habiendo llegado casi al cierre como me pas\xF3 \xE9sta \xFAltima vez. El ambiente suele ser ruidoso, pero no se puede todo. Las empanadas son un cap\xEDtulo aparte, llegan bien calientes y cualquiera que pidan son muy buenas. Encima todo con precios razonables, dificil de encontrar."
+    date: 15-06-2009
+    user: http://mi.guiaoleo.com/members/62936
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Me pareci\xF3 mejor la atenci\xF3n en este local (ser\xE1 cuesti\xF3n del mesero?). La comida me gust\xF3 en el local de Belgrano. Comimos empanadas de entrada, humita, carbonada, dulce de cayote, arroz con leche y vino. El arroz con leche del local de Belg tb me pareci\xF3 mejor hecho."
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/38124
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida y el ambiente, me gust\xF3 el de Belgrano, pero el de Palermo me pareci\xF3 m\xE1s acogedor y me encant\xF3 el clima que creaba la m\xFAsica folkl\xF3rica al volumen ideal, se escuchaba, pero no molestsaba. Nada mejor que comer las empanadas escuchando una buena chacarera. Los precios son m\xE1s convenientes, sobre todo, teniendo en cuenta la calidad de la comida. Quiero volver para probar el pastel de papas!"
+    date: 22-04-2009
+    user: http://mi.guiaoleo.com/members/38404
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un lindo bodeg\xF3n para comer unas buenas empanadas, peque\xF1as, y comidas t\xEDpicas, con una carta acotada.La decoraci\xF3n esta acorde a un lugar de comida regional, es sencilla, de ladrillo a la vista, campestre.La atenci\xF3n dejo mucho que desear, a pesar de estar el salon semi vacio. Buena relacion precio/calidad. Da para volver!!!"
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelentes empanadas horneadas, tienen los t\xEDpicos sabores y algunos innovadores, como el de \"jam\xF3n del norte\" con ricota y jam\xF3n, cubierta con az\xFAcar. Tambi\xE9n tienen empanadas redondas con mucho relleno. El ambiente es correcto, limpio sin demasiada decoraci\xF3n, y los mozos est\xE1n con atuendo campestre (bombachas, camisa y faja), lo que resulta simp\xE1tico. Las tortas de postre son muy buenas, y de buen tama\xF1o como para compartir. Volver\xEDa (o pedir\xEDa delivery) en cualquier ocasi\xF3n."
+    date: 14-02-2009
+    user: http://mi.guiaoleo.com/members/59497
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Buen lugar para mediodias, hace mas de 1 a\xF1o que voy seguido y disfruto de cualquier variedad de empanadas. - Pido una adicional por que a mi parecer son infimamente mas chicas que lo tradicional. - Servicio de mozos es rotativo, no ponen mucho esmero en capacitar al personal, pero es muy bueno en el conglomerado entero del local. - Los postres son todos excelentes !"
+    date: 07-12-2008
+    user: http://mi.guiaoleo.com/members/44721
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar ideal para comer comidas caseras tradicionales. Muy recomendable, sobre todo el locro y las lentejas.
+    date: 25-11-2008
+    user: http://mi.guiaoleo.com/members/50963
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar me encanto. La decoracion es acorde a un lugar de comida regional: sencillo, de ladrillo a la vista, impecable. Las empanadas son insuperables, pero tambien tienen muy buenos platos regionales como locro, carbonara, y tamales. El servicio es muy amable, si bien por supuesto es mas informal que en un hotel internacional, por llevarlo al extremo. El precio es super accesible. Seguire yendo."
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/50005
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui a comer con un grupo de amigos, el lugar es recomendable para amistades o familias, no lo recomiendo como salida rom\xE1ntica. Los platos estaban ricos (he probado empanadas mejores), recomiendo el locro y la humita en chala. No me gust\xF3 la ambrosia. La presentaci\xF3n estuvo muuuy floja y no nos trajeron pan hasta el plato principal. Si bien los grupos son dif\xEDciles, la atenci\xF3n no fue esmerada. Los precios son super accesibles."
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/46134
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Muy Buena comida, linda ambientacion campestre, el servicio de mesa normal prueben el menjunge medio picante con un pancito que es una delicia.
+      La entrega a domicilio es bastante eficiente.
+    date: 28-08-2008
+    user: http://mi.guiaoleo.com/members/50625
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar sencillo pero las empanadas son muy ricas, sobre todo las tucumanas. Las de roquefort y cebolla tambi\xE9n est\xE1n bien si uno quiere salir de las de carne. Vale la pena probar postres regionales como la \"Ambros\xEDa\" y los \"Huevos Quimbos\", aunque es mejor compartirlos porque son muy dulces y empalagan. Suele no haber mucha gente por lo que no es dif\xEDcil conseguir mesa."
+    date: 21-08-2008
+    user: http://mi.guiaoleo.com/members/64770
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buenas empanadas. Se nota que el relleno es de calidad y preparado con dedicaci\xF3n. Tambien el delivery es eficiente."
+    date: 14-08-2008
+    user: http://mi.guiaoleo.com/members/10495
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hace 2 a\xF1os que vamos con los amigos a comer por el dia del amigo, y no defrauda, las empanadas son medianas pero sabrosas. el ambiente es simple pero agradable y la atencion muy buena, los pedidos vinieron en tiempo teniendo en cuanta que el resto estaba lleno. no es para una salida amorosa, pero si para amigos."
+    date: 30-07-2008
+    user: http://mi.guiaoleo.com/members/41184
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buenas empanadas y el tamal estaba hecho muy a la norte\xF1a.  Recomendable.  Muy buena tambi\xE9n la atenci\xF3n"
+    date: 28-06-2008
+    user: http://mi.guiaoleo.com/members/15752
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buenas las empanadas, comimos variadas y muy ricas todas. La atenci\xF3n fue muy buena. Recomendable  para comer comida regional, especialmente empanadas."
+    date: 08-06-2008
+    user: http://mi.guiaoleo.com/members/46055
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Por los comentarios esperaba una p\xE9sima atenci\xF3n y por el contrario nos atendieron muy bien, la mesera simp\xE1tica y bien predispuesta. El ambiente es prolijo, simple y bien logrado (ba\xF1os chiquitos pero limpios). La carta algo limitada pero platos bien elegidos. La relaci\xF3n precio/calidad mejor imposible. Imprescindible probar las empanadas! Volver\xE9 con gusto."
+    date: 08-06-2008
+    user: http://mi.guiaoleo.com/members/46020
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Con ganas de probar las empanadas de la sque hab\xEDa le\xEDdo comentarios, fu\xED a 1810. Las empanadas estaban  bien, pero nada m\xE1s. Ahora la atenci\xF3n, un desastre. \xBFEs tan dif\xEDcil atender bien?"
+    date: 15-04-2008
+    user: http://mi.guiaoleo.com/members/42728
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Hola: me parece excelente la comida, la verdad mejor, imposible. Estoy de acuerdo con los cometarios alrespecto de los otros clientes cuando dicen lo de las camareras. Es una lastima que un lugar tan lindo tenga una pesima atencion en lo q respecta al sevicio de camareras. Anoche por suerte nos atendio un camarero que nunca habia visto y fue realmente muy amable pero las mujeres dejan mucho que desear."
+    date: 12-03-2008
+    user: http://mi.guiaoleo.com/members/41683
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: La comida es muy rica. Especialmente las empanadas. Lo que si el servicio es muy MALO. El pan nunca te lo sirven, tenes que pedirselo porque sino te lo traen cuando te dan la comida. Para colmo la comida tarda un monton en salir.
+    date: 17-02-2008
+    user: http://mi.guiaoleo.com/members/38776
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: mala la atencion , meseras mal educadas, lo demas pasable, no volvere , no reconocieron los voucher del banco santander teniendo reserva confirmada
+    date: 30-12-2007
+    user: http://mi.guiaoleo.com/members/37550
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Realmente uno de los mejores lugares para comer comida regional, los precios excelente la relacion calidad/precio.  volvere seguro.
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/5476
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Las empanadas del lugar son muy ricas. \r\n\
+      El ambiente es pasable, el problema son las meseras. \r\n\
+      Tienen mal humor y se equivocan. No s\xF3lo traen mal el pedido sino que no reconocen sus errores y te cobran de todos modos lo que trajeron sin querer. La mejor opci\xF3n es el delivery, ya que ir a comer ah\xED no tiene onda."
+    date: 01-11-2007
+    user: http://mi.guiaoleo.com/members/15436
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Nada fuera de lo normal... La carta es muy limitada y no me pareci\xF3 tan economico como algunos dicen. Comimos dos empanadas y compartimos el pastel. Un agua y una gaseosa. Por el mismo precio he comido mas y mejor."
+    date: 31-10-2007
+    user: http://mi.guiaoleo.com/members/18842
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena opci\xF3n para comer algo t\xEDpico argentino, casero y bien de precio. Adelante chicos, que sigan asi!"
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/9918
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy buena la comida, se incrementaron los precios casi un 50, sin embargo los tamales son m\xE1s chicos que antes."
+    date: 19-09-2007
+    user: http://mi.guiaoleo.com/members/6725
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un tranquilo y excelente lugar para disfrutar la comida autoctona. Platos del tamano justo (no para compartir). Zona de Juegos para ninos pequena y solo para mayores de 3 a\xF1os. "
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/24815
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida aut\xF3ctona es GENIAL! uno de los locros que com\xED en los \xFAltimos tiempos (ac\xE1 en Capital)... y de postre un quesillo de cabra con cayote para recordar los tiempos en el norte. El servicio es lento, pero el que bien sabe comer, bien sabe esperar. Recomendable!"
+    date: 01-08-2007
+    user: http://mi.guiaoleo.com/members/17174
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida muy sabrosa y muy lindo ambiente y buen precio; la atenci\xF3n un poco lenta. pero vale la pena la espera. Recomendable. "
+    date: 10-07-2007
+    user: http://mi.guiaoleo.com/members/26693
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La decoraci\xF3n es mejor y mas amplio que su \"hermano\" de la calle Mendoza.El servicio es regular,tardan.Recomendable las empanadas \"Jam\xF3n del Norte\" con azucar, y el pastel de la granja."
+    date: 09-07-2007
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Comida normal, lento pero seguro que llega. Conviene pedir todo junto sino tarda mucho.  "
+    date: 04-07-2007
+    user: http://mi.guiaoleo.com/members/7875
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "eramos dos, y pedimos dos empanadas de entrada y dos pastles y terminamos llevandonos a casa un pastel entero.\r\n\
+      La comida muy buena. Y abundante. "
+    date: 02-07-2007
+    user: http://mi.guiaoleo.com/members/24319
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Descubrimos este lugar una noche que diluviaba. La comida es muy sabrosa y bien casera, el ambiente es tranquilo, ideal para conversar y la atenci\xF3n es buena. Los platos pueden demorar un poco pero indica que son preparados en el momento y permite conversar con los otros comensales. Comida ideal para el invierno. Excelente relaci\xF3n precio-calidad. Tambi\xE9n aceptan tickets."
+    date: 02-07-2007
+    user: http://mi.guiaoleo.com/members/28594
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La verdad, me encant\xF3. La comida es sabros\xEDsima y muy bien servida. \r\n\
+      La empanada de jam\xF3n del norte me result\xF3 exquisita. A eso se suma que el ambiente es s\xFAper tranquilo y los precios inmejorables: promedio $20 por persona, sin vino pero con entrada y postre. 100 recomendable."
+    date: 23-06-2007
+    user: http://mi.guiaoleo.com/members/10186
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "las empanadas y los guisos son muy sabrosos. la atenci\xF3n es p\xE9sima, los platos llegaron fr\xEDos y muy tarde. los precios son accesibles. "
+    date: 26-05-2007
+    user: http://mi.guiaoleo.com/members/13644
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenas las empanadas ( el unico defecto es que son un poco peque\xF1as), siempre pedimos con el delivery."
+    date: 07-05-2007
+    user: http://mi.guiaoleo.com/members/42995
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida dentro de todo no estuvo nada mal, aunque tampoco es nada del otro mundo. A la hora de los postres no quedaba casi nada de lo que dec\xEDa en la carta, ni siquiera caf\xE9. El lugar tampoco se destaca mucho, bastante tranquilo. Pero el servicio en mi caso fue bastante malo, tardaron m\xE1s de media hora en traer la comida, tuvimos que pedir la carta varias veces y gracias a la poca memoria que ten\xEDa la chica al final ni nos cobraron los postres."
+    date: 01-05-2007
+    user: http://mi.guiaoleo.com/members/22508
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La verdad es que es un restaurante muy bueno. Mantiene la m\xEDstica de los restaurantes de otras \xE9pocas. Todo excelente, la comida, el servicio, los juegos para chicos, etc. 100 recomendable."
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/22271
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es muy sencillo pero agradable y la comida regional es MUY buena. La atenci\xF3n deja un poquito que desear pero la rica comida y el buen precio compensan."
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/22694
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Excelente lugar para comer empanadas, locro, lentejas, humitas en chala, pastel de calabaza con pollo y postres regionales bien t\xEDpicos. Recomendable."
+    date: 02-04-2007
+    user: http://mi.guiaoleo.com/members/19932
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar regular en todo sentido. Lo \xFAnico rescatable es que el precio es acorde al servicio. Cualquiera que haya ido a un comedor con un poco de nivel se sentir\xE1 la falta de calidad. Faltantes de carta, poca variedad en vinos. \r\n\
+      Solo volver\xEDa si viviera a dos cuadras y vivo bastante lejos."
+    date: 17-02-2007
+    user: http://mi.guiaoleo.com/members/18569
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 muy bien ambientado, las empanadas son deliciosas, pero muy peque\xF1as (a razon de $1.70 c/u, podr\xEDan elaborarlas un poco mas grandes). El rinc\xF3n para el juego de chicos est\xE1 bien, pero es muy peque\xF1o, ya que cuenta con una pizarra con tizas, mesita con cuatro sillas y cuentos."
+    date: 19-01-2007
+    user: http://mi.guiaoleo.com/members/16690
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Las mejores empanadas de carne picante que prob\xE9. "
+    date: 28-12-2006
+    user: http://mi.guiaoleo.com/members/14839
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "L\xE1stima que no cuenta con aire acondicionado."
+    date: 20-12-2006
+    user: http://mi.guiaoleo.com/members/14924
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Estaba muy rica la comida. La carbonada fue perfecta y las empanadas b\xE1rbaras. El servicio era malo. La moza nunca despej\xF3 la mesa para servir los postres. El lugar para chicos es muy lindo, con juguetes, una pizarra y una mesita de chicos."
+    date: 15-11-2006
+    user: http://mi.guiaoleo.com/members/13131
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen lugar y servicio, comida muy rica. Bien aut\xF3ctona, para repetir."
+    date: 14-10-2006
+    user: http://mi.guiaoleo.com/members/12870
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar y comida exquisita. Bien aut\xF3ctona."
+    date: 30-09-2006
+    user: http://mi.guiaoleo.com/members/12569
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un excelente restaurante, adem\xE1s de econ\xF3mico. Una salida diferente.  No dejar de probar las empanadas. En mi mesa se pidi\xF3 carbonada y locro y quedaron muy contentos."
+    date: 18-09-2006
+    user: http://mi.guiaoleo.com/members/11425
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es de primera y los precios son bajos: las empanadas estaban mortales ($1,60), la carbonada riqu\xEDsima ($7) y hasta la salsita que trajeron de entrada era un espect\xE1culo. \r\n\
+      Super recomendable, aunque al lugar le falte onda (pongan m\xFAsica t\xEDpica, no los top 40) y las bebidas estaban a temperatura natural. \r\n\
+      Vayan, no se lo pierdan."
+    date: 07-09-2006
+    user: http://mi.guiaoleo.com/members/11409
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Lindo bodeg\xF2n para comer tranqui una buenas empanadas y comidas t\xECpicas.\r\n\
+      Buena relaci\xF3n precio-calidad.\r\n\
+      Ambiente familiar."
+    date: 02-09-2006
+    user: http://mi.guiaoleo.com/members/10483
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Para quienes gustan de comida aut\xF3ctona es un lujo. La variedad es escasa, pero todos los platos salen bien hechos. Un buen restaurante norte\xF1o con una muy buena ambientaci\xF3n para los de su tipo."
+    date: 24-08-2006
+    user: http://mi.guiaoleo.com/members/11293
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo descubr\xED hace dos a\xF1os por lo menos y hacen las mejores empanadas. El resto de las comidas tambi\xE9n son buen\xEDsimas, es muy recomendable."
+    date: 11-07-2006
+    user: http://mi.guiaoleo.com/members/10013
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Riqu\xEDsima la comida t\xEDpica y el lugar muy tranquilo, para disfrutar."
+    date: 09-06-2006
+    user: http://mi.guiaoleo.com/members/9174
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar espacioso, buena atenci\xF3n. \r\n\
+      El locro y la carbonada estaban espectaculares y las empanadas son de las m\xE1s ricas que prob\xE9."
+    date: 20-05-2006
+    user: http://mi.guiaoleo.com/members/8730
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Realmente la atenci\xF3n es m\xE1s que decadente. La comida es muy buena y el lugar c\xF3modo, pero la atenci\xF3n realmente hizo que no vuelva nunca m\xE1s. \r\n\
+      Cuarenta minutos para un caf\xE9 y tener que ir a la caja a pedirlo me pareci\xF3 demasiado."
+    date: 20-05-2006
+    user: http://mi.guiaoleo.com/members/8023
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Verdaderamente es un lugar para recomendar. Me encant\xF3. Muy buenos precios y la comida deliciosa. El ambiente es muy c\xE1lido."
+    date: 11-04-2006
+    user: http://mi.guiaoleo.com/members/7719
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy bueno, para recomendar.
+    date: 23-02-2006
+    user: http://mi.guiaoleo.com/members/6725
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Se come muy bien. El servicio de mesa debe mejorar (para nuestro caso fue una mesa grande) pues no fue muy satisfactorio, pero el saldo es muy positivo. Especialmente por quien dirige la sucursal, que se preocup\xF3 por mantenernos dentro de presupuesto y cumpli\xF3."
+    date: 24-08-2005
+    user: http://mi.guiaoleo.com/members/3476
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Comparto los comentarios anteriores, es un lugar agradable, la comida muy rica y se ve que se han esmerado ya que lleg\xF3 todo a punto y caliente. Es un lugar para recomendar."
+    date: 16-06-2005
+    user: http://mi.guiaoleo.com/members/2497
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nos gust\xF3 mucho la comida y el lugar. Faltan algunos platos de la lista, algunos estaban fr\xEDos y tuvieron que volver a calentarlos. Pero el clima es tan acogedor, que pensamos regresar otras veces."
+    date: 07-05-2005
+    user: http://mi.guiaoleo.com/members/1756
+    ambiente_rank: excelente

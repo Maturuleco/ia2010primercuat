@@ -1,0 +1,15 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lindo lugar para ir a tomar y picar algo. El sandwich de jam\xF3n crudo, queso y r\xFAcula muy bueno! La atenci\xF3n de regular a buena. El ambiente igual, le falta renovar la decoraci\xF3n. Si bien tocan unas bandas, el lugar no est\xE1 acondicionado para eso."
+    date: 16-04-2010
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Excelente bar para ir a tomar. Un ambiente muy cuidado, con shows en vivo.
+      Muy recomendable para ir con amigos.
+    date: 04-04-2010
+    user: http://mi.guiaoleo.com/members/82927
+    ambiente_rank: excelente

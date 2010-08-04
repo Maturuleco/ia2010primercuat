@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 mucho el ambiente del lugar y la comida estuvo muy bien. Lo \xFAnico que no me pareci\xF3 bien es la relaci\xF3n precio/calidad: un almuerzo de una minuta (suprema con pur\xE9) y un agua me sali\xF3 casi $60."
+    date: 01-07-2010
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Este lugar es un hermano menor de la parrilla Rio Alba. Como hermano menor, tiene algunas ventajas. Una buena puesta, buenas copas, mejores guarniciones y tambien, como en Rio Alba, buenos mozos. La carne es buena pero le falta brio a la parrilla (una coccion mas rapida) y es alli donde gana Rio Alba. Seguiremos yendo, entonces, con el hermano mayor.
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/3367
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es para recomendar
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/68558
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la comida bastante buena buena relacion precio calidad, para ir seguido
+    date: 06-07-2009
+    user: http://mi.guiaoleo.com/members/6591
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "excelente por donde se lo mire, sobre todo en tranquilidad, para compartir una buena cena con amigos o en pareja, el ambiente es adecuado, solo algunos vinos faltar\xECan en la carta a la vera de ser degustados, pero el ambiente lo puede todo con su buena copita de jerez en la entrada y compita de espumante en la salida, sigan as\xEC"
+    date: 26-06-2009
+    user: http://mi.guiaoleo.com/members/19175
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realizamos una cena con nuestras familias para festejar nuestro casamiento. La comida estuvo impecable y la atenci\xF3n inmejorable. Nos ofrecieron 3 men\xFAes para los comensales y destinaron una zona para nuestra comodidad. De postre hicieron una torta riquisima. Les agradecemos enormemente todo el trabajo y colaboraci\xF3n para llevar acabo esta ocasi\xF3n tan especial para nosotros. MIL GRACIAS!!"
+    date: 12-12-2008
+    user: http://mi.guiaoleo.com/members/63936
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Desde que conocimos Marshall es nuestro lugar para alguna de las comidas del fin de semana. En atencion , limpieza y calidad de la mercaderia, se distinguen de los dem\xE1s. Realmente un gusto."
+    date: 07-12-2008
+    user: http://mi.guiaoleo.com/members/55900
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Vamos todos los sabados a Marshall a almorzar en familia. Es un lugar muy agradable, honesto y sin pretenciones. Los mozos son como los de antes, la comida muy rica, con platos abundantes para compartir. Se come una de las mejores tiras de asado del barrio, lejos. Te reciben con copa de champan y despiden con lemoncello. Es un lugar ideal para ir con chicos porque es muy amplio y nadie se molesta si hacen l\xEDo."
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/47647
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno como siempre
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/10135
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ambiente agradable y tranquilo. Buen servicio, cuidado.  Comida muy buena. Diria que todo muy normal.
+    date: 07-07-2008
+    user: http://mi.guiaoleo.com/members/2878
+    ambiente_rank: muy bueno

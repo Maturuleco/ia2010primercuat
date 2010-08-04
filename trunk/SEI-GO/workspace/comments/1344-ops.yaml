@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Parrilla sin muchas pretensiones. Precios accesibles y razonables.
+    date: 18-01-2010
+    user: http://mi.guiaoleo.com/members/9369
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es una parrilla bien atendida con precios accesibles. Las porciones son normales y tiene distintas promociones.El lugar no es grande pero los fines de semana se puede reservar por telefono hasta las 13hs. Tiene delivery.Muy recomendable para cuando se quiere gastar poco, comer bien, sin grandes pretenciones pero en un lugar prolijo.
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/69736
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Siempre voy a San Cayetano porque queda cerca de casa, y la relaci\xF3n precio-calidad es muy buena. La carne siempre viene al punto que la solicitamos y las papas fritas son muy ricas. Lo unico malo (no para los due\xF1os, claro) del lugar, es que siempre esta lleno y muchas veces hay que esperar, y hay algunas mesas que no son muy lindas o comodas. El resto, bien para una parrilla de barrio."
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/16880
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es una parrilla para ir con amigos, es una opci\xF3n muy buena para comer un poco de carne a precios mucho mas baratos que cualquier lugar de la zona."
+    date: 31-01-2009
+    user: http://mi.guiaoleo.com/members/21631
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es peque\xF1o y un poco ruidoso, es una parrilla ideal para ir con amigos un viernes a la noche y cenar mirando el partido de futbol, no es recomendable para una cena romantica o familiar. La comida esta bien, lo normal para una parrilla de barrio, la atencion es rapida y el precio accesible. Seguramente vuelva"
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/34771
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Clasica parrilla de barrio en la zona ne quedaron pocas asi que por comer un poco de carne sin gastar fortuna es una buena opcion.Se te pega mucho el olor a parrilla no recomendable por cena romantica.jaja.
+    date: 04-02-2008
+    user: http://mi.guiaoleo.com/members/36418
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Linda parrilla de barrio, se come muy bien la carne excelente y la atencion es esmerada. somos del barrio y nos gusta, llevamos a visitas extranjeras a comer carne asada y siempre les gusta.
+    date: 02-12-2007
+    user: http://mi.guiaoleo.com/members/4776
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es una parrillita de barrio y muy familiar. Se come buena carne y a muy buen precio. Por supuesto no es el lugar indicado para ir con una cita ya que no se destaca el ambiente y la intimidad, pero s\xED lo recomiendo para esos d\xEDas en que uno tiene ganas de \"comer un asado\" y no gastar mucho."
+    date: 27-05-2007
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es una tipica parrilla "comedero", la calidad de la carne es floja, la atencion lo mismo. Salis con un olor asado importante ya que la extraccion es precaria.Una opcion para los que privilegian gastar poco a comer bien.
+    date: 16-05-2007
+    user: http://mi.guiaoleo.com/members/971
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente parrilla. La carne es espectacular. Lo unico: es para ir con amigos. El ambiente es muy familiar y faltaria un poco mas de ventilaci\xF3n ya que uno sali de ahi con un olor a carne....Sin perjuicio de ello, LO RECOMIENDO."
+    date: 04-03-2007
+    user: http://mi.guiaoleo.com/members/23491
+    ambiente_rank: malo/regular

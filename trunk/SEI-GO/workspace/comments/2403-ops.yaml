@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Excelente propuesta para el mediod\xEDa en el coraz\xF3n de microcentro. Siempre ofrecen un par de men\xFA ejecutivos, con platos abundantes y precios razonables."
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/69568
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un muy lindo lugar para almorzar en microcentro, la comida es muy buena y cambia todos los dias.
+    date: 21-07-2008
+    user: http://mi.guiaoleo.com/members/47811
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El cocinero es divino.
+    date: 18-04-2006
+    user: http://mi.guiaoleo.com/members/7829
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un oasis en el microcentro para quien gusta de la cocina gourmet.\r\n\
+      Dos men\xFAes distintos para elegir cada d\xEDa, por lo general ensaladas y alg\xFAn plato con carne. Suelo ir a encontrarme al mediod\xEDa con amigos a almorzar. Recomendable."
+    date: 03-01-2006
+    user: http://mi.guiaoleo.com/members/5668
+    ambiente_rank: bueno

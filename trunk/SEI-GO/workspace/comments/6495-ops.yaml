@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy rico... plato de cordero como recomendacion del dueno, quien amablemente nos atendio. Un deleite al paladar. Lo trecomiendo!
+    date: 18-08-2009
+    user: http://mi.guiaoleo.com/members/67808
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelete comida, sabores muy bien logrados, excelente atenci\xF3n y ambientaci\xF3n. Justamente com\xED lo que otro usuario opin\xF3 que era malo ... son gustos claro, ... pero .. para el que entiende de comida de oriente, es un lugar para recomendar, EXCELENTE !! El cordero sin desperdicios, sin duda volver\xE9 !!!!"
+    date: 07-08-2009
+    user: http://mi.guiaoleo.com/members/8091
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "La verdad una desiluci\xF3n:Comimos un plato de arroz con frutos secos (que traia pasas,almendras y supuestamente pollo)que no ten\xEDa gusto a nada,le faltaba sabor en serio (nunca me lo habria imaginado en un lugar asi),una entrada compartida,dos cocas y SIN postre y gastamos 89$!!! carisimo y sin gusto.La verdad no lo recomiendo para nada.\r\n\
+      Eso si,el servicio fue muy cordial y el ambiente muy cuidado."
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/27505
+    ambiente_rank: muy bueno

@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Ambiente bueno, tranquilo. Comida rica, aunque pedimos una picada y parec\xEDa de pobre: verduritas, mayonesa, un par de fiambres y unos panes sueltos. El servicio p\xE9simo: la misma chica que te recib\xEDa era la que tomaba los pedidos y cobraba a casi todas las mesas; buena voluntad pero no sab\xEDa nada de atenci\xF3n. Servicio lento y deficiente. No volver\xE9."
+    date: 01-09-2009
+    user: http://mi.guiaoleo.com/members/27164
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es buen\xEDsimo, tienen un happy hour que realmente vale la pena. No tienen postres, pero es un lugar que da para ir a tomar algo con amigos y comerse unas ricas pizzas por muy poca plata."
+    date: 24-06-2009
+    user: http://mi.guiaoleo.com/members/52272
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Nos gusto mucho. Comimos nachos y alitas, que estaban muy ricos (sobretodo las alitas, no estaban para nada grasosas). El happy hour es muy bueno enserio (y dura hasta las 23 hs lo cual es clave). Lo unico malo es que solo tenian vinos a precios 'altos' (arriba de $80), estaria bueno un poco mas de variedad. Ideal para ir en pareja o con amigos a aprovechar el happy hour y picar algo mientras tanto.
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/35138
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy Bueno, un ambiente muy copado, las tapas estan barbaras, y el happy hour es excelente, una barra completisima!!!!
+    date: 29-04-2009
+    user: http://mi.guiaoleo.com/members/43628
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: un happy hour de primera, un ambientes muy bueno, para escaparle un poco al Shamrock, este bar esta bueno.
+    date: 26-04-2009
+    user: http://mi.guiaoleo.com/members/61415
+    ambiente_rank: excelente

@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Es caro, la comida es regular y la atencion no es mala (cuando aparece alguna camarera) pero es lentisima. Sigan de largo y coman en cualquier otro lado. Carisimo, pero carisimo para lo que ofrecen.
+      El unico punto a favor que tienen es que hay mesas en la vereda a donde da el sol.
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: No es un restaurante es un bar. La ambientacion agradable la comida muy mala. el precio caro.NO VUELVO
+    date: 09-07-2009
+    user: http://mi.guiaoleo.com/members/62891
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "M\xE1s que restaurant es un bar que sirve comidas, con platos sin elaboraci\xF3n y algo desabridos y la atenci\xF3n es insoportable salvo que uno tenga todo el tiempo del mundo para esperar. Los platos o cualquier otra cosa que se pide tardan a\xF1os en llegar y \"en general\" las mozas no le ponen mucha onda a su trabajo. Adem\xE1s siempre se acaban temprano algunas de las sugerencias de la carta. Lo mejor del lugar son las mesitas de la vereda en los d\xEDas de sol por lo tanto solo es  recomendable si se quiere disfrutar una charla distendida con amigos o leer el diario mientras se espera sin ning\xFAn apuro."
+    date: 16-11-2008
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La atencion de las mozas es malisima, no vale lo q sale, el lomito es duro y chica la porcion. el helado es normalito sin lujos y caro!!! No volvere jamas!
+    date: 10-08-2008
+    user: http://mi.guiaoleo.com/members/46859
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Ideal mediodia/tarde, almuerzo o cafe con el solcito de honduras, linda ambientacion de noche tambien, lastima el servicio un poco deficiente y distraido, la comida normal, algun nombre gracioso en el menu pero pasa desapercibido. 
+      Esta bueno para ir a estudiar o el te de las 5.
+    date: 05-12-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es riquisima, las porciones abundantes y el ambiente muy lindo. La atenci\xF3n es buena, aunque la comida tard\xF3 bastante. Es una buena opci\xF3n."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/28202
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es la segunda vez que lo visito. El lugar es buen\xEDsimo, muy lindo y muy bien decorado, agradable. El servicio es bueno, las chicas son muy simp\xE1ticas. \r\n\
+      Lo que no est\xE1 bueno para nada es la poqu\xEDsima variedad de pizzas y la hamburguesa que no ten\xEDa gusto a nada y viene acompa\xF1ada por papas fritas de cart\xF3n y no fritas y caseras."
+    date: 11-10-2007
+    user: http://mi.guiaoleo.com/members/15993
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Pesimamente mal atendido. Pedimos pollo con ensalada, mass facil imposible. Se olvido de traer el pollo. Pedimos repeticion de bebida, se olvid\xF3 de traerla. NO RECOMENDABLE."
+    date: 29-09-2007
+    user: http://mi.guiaoleo.com/members/33174
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Nos trajeron la pizza quemada. Creo que funciona por la esquina, que es b\xE1rbara, la atenci\xF3n es regular. Tardan, no se acuerdan y encima ni traen un ticket. Te dicen cuanto es y lo ten\xE9s que pedir."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/4114
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: El lugar muy bueno, bien ambientado. La comida es buena, generalmente. El servicio es un desastre, siempre.
+    date: 15-04-2006
+    user: http://mi.guiaoleo.com/members/37328
+    ambiente_rank: muy bueno

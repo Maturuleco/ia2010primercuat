@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena la parrillada. Lugar tranqui.
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/33889
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "De primera. Abundante, un poco de grasa pero nada grave. Clima bien porte\xF1o."
+    date: 10-05-2006
+    user: http://mi.guiaoleo.com/members/8372
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Es un lugar lindo, paqueto y muy familiar.
+    date: 05-05-2006
+    user: http://mi.guiaoleo.com/members/8378
+    ambiente_rank: muy bueno

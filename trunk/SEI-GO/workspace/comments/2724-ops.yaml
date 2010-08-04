@@ -1,0 +1,223 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente, comida muy fresca (el pescado, una delicia!) y presentacion muy linda.
+    date: 05-04-2010
+    user: http://mi.guiaoleo.com/members/76776
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Sinceramente sal\xED muy decepcionado, la atenci\xF3n fue muy mala. Se hab\xEDan olvidado los cubiertos y panes, cerveza sin frio, los platos poco abundantes, y a pesar de toda esta desatenci\xF3n cobran un cubierto de $8!! As\xED que no lo recomiendo."
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/77563
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Fuimos a festejar el dia del amigo, nos recibieron con pisco sour de cortesia para que  brindemos. la atencion de la moza fue exelente nos oriento en todo, el pan es riquisimo recien hecho...es un lugar muy recomendable para salir y disfrutar con amigos.
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/66077
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: no es la primera vez q vamos y hemos vuelto porq siempre comimos muy sabroso,pero esta ultima vez fue sorprendemente mala, no se si han cambiado al chef pero las presentaciones y los sabores son diferentes, un detalle la entrada nos la sirvieron despues q el principal(igualmente no la cobraron )el postre  fue un desastre pedi una mousse de maracuya y me trajeron un helado ademas venia con salsa de chocolate y la carta decia coulis de frutos rojos, muy desilusionada porq era una de las mejores opciones q teniamos en cocina peruana, ojala solucionen este inconveniente sino perderan clientes
+    date: 13-06-2009
+    user: http://mi.guiaoleo.com/members/63877
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fuimos un jueves a la noche, eramos pocos comensales la atencion fue buena aunque no ilustrativas, como estuvimos en abril en Peru pudimos comparar, la comida estuvo muy bien, las porciones justas, el pisco sour dejo que desear ni por asomo la consistencia de lo que tomamos alla. la panera pobre demasiado dos tipos de panes o mejor dicho un pancito y una galletita salada, deberian mejorar ya que lo cobran.
+    date: 05-05-2009
+    user: http://mi.guiaoleo.com/members/61739
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Esta es mi primera experiencia con la comida peruana y la verdad es que no sal\xED defraudada. Muy buena atenci\xF3n con un ambiente muy tranquilo. Creo que lo recomendable es tratar de compartir platos para poder probar de todo (por ej. los ceviches y las causas). Recomiendo pedir el pisco de maracuya que es una exquisitez. La comida es muy buena y volver\xE9 para probar otras cosas."
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/20381
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 muy bien puesto con una decoraci\xF3n muy acertada.  Nos atendieron muy bien, hay que tener en cuenta que era mi\xE9rcoles y no hab\xEDa mucha gente.  Com\xED arroz con mariscos y estaba muy gustoso, los condimentos un poco picantes, pero rico.  En conjunto la pasamos muy bien."
+    date: 19-11-2008
+    user: http://mi.guiaoleo.com/members/46398
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar me encant\xF3. Es una fusi\xF3n de comida peruana con un detalle o acento propio (del cocinero).No es 100% peruana me refiero pero me gust\xF3 much\xEDsimo. EN 20 a\xF1os VIVIENDO en Argentina \r\n\
+      no hab\xEDa probado un tamal tan rico como el que degust\xE9 el pasado 31/10. Quiz\xE1 falta alg\xFAn caj\xF3n y guitarra para amenizar algunas noches. No, no es econ\xF3mico pero aceptan tarjetas que ya es bastante. En general en lugares vern\xE1culos hay que ir con el efectivo en el bolsillo."
+    date: 31-10-2008
+    user: http://mi.guiaoleo.com/members/54436
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la atenci\xF3n la ambientaci\xF3n y los platos muy sabrosos y frescos. Recomiendo especialmente el ceviche mixto. Eso s\xED, luego sugiero compartir el plato principal. Recomiendo tambi\xE9n como postre el semifreddo de chicha morada.\r\n\
+      Vale mencionar que llegamos tarde (tipo 11:30) e igualmente nos atendieron de excelente manera. Definitavamente una buena opci\xF3n, volver\xEDa."
+    date: 22-09-2008
+    user: http://mi.guiaoleo.com/members/13696
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un poco caro por los ingredientes.  No fue buena la recomendaci\xF3 ln de la moza de pedir entrada, no pod\xEDamos terminar el plato principal.  Fuimos a repetir lo que hab\xEDamos comido en Pinamar en el Paseo de las Artes y nada de eso ten\xEDan.  Una l\xE1stima.  Si es que cambi\xF3 el chef les veo poca vida."
+    date: 30-07-2008
+    user: http://mi.guiaoleo.com/members/48682
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: la verdad no lo podia creer, no es la primera vez que voy pero si la ultima, comimos muy mal y por amigos me vengo a enterar que quien era el chef , ya no esta mas, mucha demora en los platos, y perdio todo ese sabor del peru que lo caracterizaba.Sres moche paso aser uno mas de once.
+    date: 21-05-2008
+    user: http://mi.guiaoleo.com/members/45432
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "muy buena la atenci\xF3n, el mozo recomend\xF3 con mucho criterio. es la segunda vez que voy y ambas muy agradables. la comida es excelente."
+    date: 15-12-2007
+    user: http://mi.guiaoleo.com/members/37025
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No convence. El lugar, peque\xF1o y prolijo, pocas mesas pero no amontonadas. Los platos correctos en presentacion, y sabor. Bastante escasos en relacion a su precio. El menu con muy pocas opciones y encima algunas faltantes. La carta de vinos casi nula, aunque para hacer honor a la comida se recomienda el pisco. No me arrepiento de haber ido a probar, pero no vuelvo. "
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/34885
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen servicio, con sugerencias apropiadas, amabilidad y eficiencia. Excelente pisco sour. La comida llego a tiempo, bien elaborada. Una excelente presentacion actualizada de platos tradicionales. "
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/10494
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: muy bueno
+    date: 13-08-2007
+    user: http://mi.guiaoleo.com/members/29572
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la comida. La atenci\xF3n fue espectacular, el mozo se encarg\xF3 de recomendarnos unos platos, todo estuvo en su punto justo. Muy bueno. "
+    date: 05-07-2007
+    user: http://mi.guiaoleo.com/members/6025
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: es buena la comida, pero tienen muchos faltantes de la carta, una verdadera lastima. Lo mismo paso con la carta de vinos, al final terminas comiendo lo que ellos quieren.
+    date: 28-04-2007
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Riquisimo. Tercera vez que visito este restaurante y siempre ha sido una agradable sorpresa pasear por los distintos platos de su men\xFA, tanto en las entradas como en los platos principales. Para el postre, lo mejor es la mousse de maracuya. Todo acompa\xF1ado por in pisco sour. "
+    date: 08-04-2007
+    user: http://mi.guiaoleo.com/members/21295
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es bueno, aceptable.\r\n\
+      Tiene errores, pero el servicio , la comida y la ambientaci\xF3n es lo mejor, aunque fuimos un domingo al mediodia, estaba tranqui. Me parecio algo caro y que le faltaban algun detallecito como Piscos de Per\xFA."
+    date: 07-04-2007
+    user: http://mi.guiaoleo.com/members/21163
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es muy bonito, tranquilo y agradable, lamentablemente a la hora de cenar no puedo darle ninguna calificaci\xF3n positiva!! , para quienes nunca probaron la comida peruana TE QUEDAS CON MUCHAS GANAS:\r\n\
+      1- La carta es muy peque\xF1a y poco clara, lleva a no saber que pedir.\r\n\
+      2- Los mozos no conocen la carta. Terrible!\r\n\
+      3- Los platos son extremadamente peque\xF1os. \r\n\
+      4- Los platos son carisimos, si tenemos en cuenta los puntos anteriores ( y aunque no los tuvieras en cuenta tambien es caro)\r\n\
+      5- El lugar invita a la conversaci\xF3n y a una sobre mesa distendida, L\xC1STIMA !!! a las 24 hs comenzaron a cerrar, el mozo nos apur\xF3 para cerrar la mesa y finalmente 1:30 am el chef nos inform\xF3 que quer\xEDan cerrar.\r\n\
+      PARA MI ES UN LUGAR AL QUE NO VOLVERIA. AL LUGAR FUIMOS UN GRUPO DE 6 PERSONAS ENTRE ELLAS 2 ARGENTINOS Y 4 EXTRANJEROS QUIENES QUERIAN ENF\xC1TICAMENTE CENAR EN PALERMO. UNA PENA VERDAD?"
+    date: 07-04-2007
+    user: http://mi.guiaoleo.com/members/21289
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es muy lindo y la atenci\xF3n super atenta. Fuimos con una pareja de amigos, con los que decidimos \"probar\" y compartir entradas y postre. \r\n\
+      Las entradas estaban muy sabrosa y definidas, recomiendo el tiradito. En los principales decidi ir con una ensalada para dejar lugar a los postres y comet\xED un error: las ensaladas si bien eran abundantes en verdes y frescas, les faltaba \"gracias\". Los camarones era contados. El plato de mi acompa\xF1ante era un lomo en cresta de queso y estaba exquisito!! Por suerte me comparti\xF3 su plato y me fui satisfecha. Los postres era excelentes, recomiendo el cheesecake de maracuy\xE1."
+    date: 24-03-2007
+    user: http://mi.guiaoleo.com/members/7694
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La atenci\xF3n del lugar es p\xE9sima. Fu\xED una vez al lugar, y la comida me gust\xF3 mucho. Intent\xE9 ir por segunda vez, por que me hab\xEDa gustado y recib\xED muy mal trato, ya que ped\xED una tarjeta del lugar para reservar en otra oportunidad, y nos dijeron que no. Realmente mi conclusi\xF3n es que el personal est\xE1 muy mal elegido, es una l\xE1stima por que la comida es muy rica. Si fuera la due\xF1a del lugar no dudar\xEDa en reemplazar a todo el personal, menos al chef. "
+    date: 21-03-2007
+    user: http://mi.guiaoleo.com/members/20357
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La atenci\xF3n de la camarera muy buena. El ambiente tranquilo.  "
+    date: 09-02-2007
+    user: http://mi.guiaoleo.com/members/17795
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "EL mozo demor\xF3 mucho en atendernos cuando hab\xEDan pocas mesas. El trago que pedimos primero, lleg\xF3 junto a la comida y cuando le pregunt\xE9 que era el amuse, dijo que no sab\xEDa."
+    date: 01-02-2007
+    user: http://mi.guiaoleo.com/members/16066
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El pisco sauer es excelente. Marco es un grande, s\xF3lo le falta tener mejor equipo adelante. "
+    date: 25-01-2007
+    user: http://mi.guiaoleo.com/members/17509
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Si bien algunos platos son excelentes y muy cuidados, las porciones son escasas, la atencion no es buena y las camareras no conocen bien los platos.\r\n\
+      Muchas cosas del men\xFA no las ten\xEDan, se quedaron sin Pisco y sin hielo. La bebida estaba caliente. Son muy caros los tragos y la Inca Cola."
+    date: 21-01-2007
+    user: http://mi.guiaoleo.com/members/12751
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente. La atenci\xF3n de la camarera impecable. Era la primera vez que iba, pero seguramente voy a ser asiduo cliente. Muy recomendable."
+    date: 06-01-2007
+    user: http://mi.guiaoleo.com/members/15857
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Primero la ac\xFAstica del lugar es un desastre. Hab\xEDa una mesa de siete mujeres hablando pero, tuvimos que esperar que se vayan para poder hablar entre nosotros. Segundo, los platos son escasos. Y tercero, el servicio es p\xE9simo, las mozas no sab\xEDan en que consist\xEDan los platos. Mucho menos reconocer qu\xE9 plato era cada uno."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/13341
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "De los platos que tienen, no pod\xEDan ofrecer casi ninguno, ya que se hab\xEDan quedado sin lomo (hay tres platos), sin lenguado y sin salm\xF3n blanco. De todos los postres dos no los ten\xEDan. Se equivocaron al traer la entrada y tardaro en atendernos m\xE1s de lo habital.\r\n\
+      No tuvieron niguna deferencia ni atenci\xF3n por la falta de platos, ni por las demoras."
+    date: 02-11-2006
+    user: http://mi.guiaoleo.com/members/13282
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es chico, acogedor, con pocas mesas y bien separadas. Decoraci\xF3n agradable y con cuidado de los detalles. La carta es de pocos platos, pero con una variedad interesante. Comida rica. Los mozos son atentos, pero no pesados. En fin, un buen lugar."
+    date: 26-10-2006
+    user: http://mi.guiaoleo.com/members/13137
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar no est\xE1 mal y ofrece una alternativa a Contigo Per\xFA, un poco m\xE1s refinada. Pero el servcio fue p\xE9simo: pasamos m\xE1s de treinta y cinco minutos sentados con la mesa vac\xEDa (sin pan, sin las entradas que pedimos, sin nada para picar). La camarera nos ignor\xF3 durante toda la noche. Una pena, con mejor management el restaurante podr\xEDa ofrecer una experiencia diferente."
+    date: 22-10-2006
+    user: http://mi.guiaoleo.com/members/12959
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy caro. Hay peruanos mejores. La chicha es horrible.
+    date: 18-10-2006
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es exquisita, considerando q se esta fuera de Peru, esta barbara. El servicio tendrian que mejorarlo ya que solo cuentan con un mozo y no es muy rapido. Pero mis felicitaciones al Chef. "
+    date: 15-10-2006
+    user: http://mi.guiaoleo.com/members/13319
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida est\xE1 hecha igual que en Per\xFA."
+    date: 07-10-2006
+    user: http://mi.guiaoleo.com/members/12949
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy buena, para recomendar. "
+    date: 03-10-2006
+    user: http://mi.guiaoleo.com/members/12619
+    ambiente_rank: muy bueno

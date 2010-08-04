@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El pollo aceptable. El pur\xE9 muy escaso. Ambiente nada agradable y ruidoso y servicio muy poco eficiente. No recomiendo para nada este lugar."
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "En mi opini\xF2n muy malo, pedimos matambre, yo a la pizza y mi acompa\xF1ante al verdeo y un desastre. la carne con mal gusto y las papas fritas aceitosas.\r\n\
+      en cuanto a la atenci\xF2n de los mozos regular.\r\n\
+      no lo recomiendo."
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/68299
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "He ido en varias oportunidades y tanto el lomo como el pollo salen  ricos y la porci\xF3n es abundante en relaci\xF3n al precio est\xE1 muy bueno, siempre nos atiende el mismo mozo y se esmera en su atenci\xF3n, el servicio es  bueno!!"
+    date: 26-10-2008
+    user: http://mi.guiaoleo.com/members/25570
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Carne muy mala , pedi ojo de bife y habia que pedir los dientes al perro para comerlo, servicio lento 40 min para traer la comida , ambiente ruidoso , en sintesis nada recomendable.
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/9756
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La carne es muy buena. Tiene buena relaci\xF3n precio calidad."
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno

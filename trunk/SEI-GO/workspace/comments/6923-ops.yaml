@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "espectacular la comida, la onda, la atenci\xF3n! muy bien decorado. se genera un clima muy calido que se presta a distenderse, a pasarla bien. \r\n\
+      muy recomendable!"
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/83007
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: En un excelente lugar para ir con amigos y disfrutar de una linda noche en la terraza. Hay movidas culturales, y los fines de semana se pone bueno
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/79370
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy lindo el lugar, muy calido, linda gente
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/79340
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Son uno de los pocos lugares que quedan en palermo con terraza y ese no es un dato menor a la hs de pasarla bien y divertirte con amigos, recomiendo las pizzas y disfrutar sin apuros de la musica y vista qe ofrece el lugar..
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/78418
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Muy buena la terraza, nos atendieron bien y la pizza estaba espectacular. Muy tranquilo para ir a comer algo a la noche y despues va gente a toamr algo mas tarde ya que los tragos son muy buenos.
+      Salud!
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/75357
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente ambiente, festivo, muy joven, pero que permite que las personas maduras que acudimos nos sintieramos comodas. La picada, muy buena, abundante y variada, pero lo mejor fueron los mojitos y las capirinhas, de las mejores que he probado en Buenos Aires. La terraza es muy recomendable en noches de verano. La atencion de los mozos es amable y simpatica.
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/17128
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Fantastica la propuesta de este bar... !!!! Increible la buena onda que trasmite.... te invita a pasar un momento agradable con buena musica, buena comida y muy bien atendido.. lo recomiendo 100%
+    date: 01-01-2010
+    user: http://mi.guiaoleo.com/members/74387
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar para ir a comer una picada con amigos y sentirse como en el living de casa. Muy buena terraza para noches de calor. Una linda alternativa para distenderse en palermo. Fui un viernes, habr\xE1 que probar como es un dia de semana."
+    date: 11-12-2009
+    user: http://mi.guiaoleo.com/members/10443
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es una mezcla de estilos, ondas, decorados...etc. Muy desprolijo. Muy mala la atenci\xF3n. Y olvidense de poder hablar!"
+    date: 10-12-2009
+    user: http://mi.guiaoleo.com/members/73487
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy buen lugar para ir a relajarse y estar con amigos, tambien es muy bueno para conocer gente nueva. Muy recomendable las picadas y los tragos de la barra
+    date: 08-12-2009
+    user: http://mi.guiaoleo.com/members/48594
+    ambiente_rank: muy bueno

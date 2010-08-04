@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: Exquisita la pizza, buenos porductos, como estaba lleno tuvimos q esperar bastante para que nos traigan la comida, unico detalle.
+    date: 26-05-2010
+    user: http://mi.guiaoleo.com/members/76045
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una pizzer\xEDa que busca salir de lo tradicional y proponer sabores nuevos, combinando productos cl\xE1sicos. \r\n\
+      El lugar es chico y ruidoso, pero \xBFqu\xE9 pizzer\xEDa no lo es?\r\n\
+      Empanadas de pollo a la barbacoa, muy bien para la entrada."
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/1357
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Contra todo pron\xF3stico, fuimos y realmente comimos muy bien, atendidos sin drama y con ganas de volver"
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/79983
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Vamos siempre. Es una de las mejores pizzas, si es que a uno le gusta el estilo. Se nota que utilizan ingredientes de calidad. El servicio y la ambientaci\xF3n son buenos, aunque el local es peque\xF1o y se llena r\xE1pido."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/78065
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La pizza es excelente. El lugar sin embargo muy limitado, y poco personal.  Si ped\xEDs por tel\xE9fono est\xE1 bien aunque la pizza en s\xED est\xE9 claramente peor porque tardan casi siempre m\xE1s de una hora en traerla, y no siempre llega bien caliente."
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/57149
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Luego de esperar mucho, pedimos una pizza grande mitad hongos y mitad jam\xF3n crudo y trajeron cualquier cosa.Al rato de hacer el reclamo vuelve la pizza con fetas de jam\xF3n crudo tiradas encima de la que hab\xEDan tra\xEDdo, todo convenientemente fr\xEDo, como el ambiente. Como nos sobr\xF3, pedimos que nos pusieran las porciones en una caja y al llegar a casa vemos que las revolearon dentro de la caja de cualquier modo. Un espanto. Poco personal y cero onda."
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/76756
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Las pizzas son excelentes, la atenci\xF3n a veces no llega a ser satisfactoria por la cantidad de gente. Se disfruta mucho m\xE1s pidi\xE9ndola por tel\xE9fono."
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/68741
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "A veces pedimos delivery porque nos gusta la pizza finita. La primera ves que pedimos nos asombramos del tama\xF1o: muy muy grande. Si estas con gente en casa te ped\xEDs 2 pizzas y comen 8 o 10 personas."
+    date: 13-10-2008
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy Recomendable. Entre los lugares para degustar una buena pizza a la piedra este lugar se destaca como moderno, limpio, peque\xF1o pero oferente de una muy buena calidad y relacion precio calidad. Muy buena la empanada de pollo a la barbacoa, no es tan seca como me imagine. La muzarella que utilizan es muy sabrosa. Lugar para ir en pareja, no con amigos! es mas bien calmo, no para estar descontracturado hablando fuerte como en reunion informal."
+    date: 01-10-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: muy recomendable, buen ambiente familiar, excelente relacion calidad/precio
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/21056
+    ambiente_rank: excelente

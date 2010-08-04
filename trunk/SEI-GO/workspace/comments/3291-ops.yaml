@@ -1,0 +1,67 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Muy buena pizza, del tipo de masa fina. Excelente la fugazetta (cuando el cheff esta inspirado) la faina y las empandas muy mejorables.
+      Fui varias veces y creo que para salir contento hay que SOLO PEDIR PIZZAS y TENER LA SUERTE de que el COCINERO este INSPIRADO. Es muy irregular el tema cocina.
+      La atencion es dificil de calificar porque la pobre moza hace lo que puede. La ambientacion es la de una pizzeria de barrio pedirle mas es no asumir donde se entro a comer.
+      Recomendable con RESTRICCIONES.
+    date: 08-11-2009
+    user: http://mi.guiaoleo.com/members/15501
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Nos gusto mucho la Pizza, masa fina y crocante. La atencion es buena sin grandes detalles y pretenciones. Esta dentro de nuestras pizzas favoritas.
+    date: 26-12-2008
+    user: http://mi.guiaoleo.com/members/37396
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: una experiencia olvidable.... la pizza incomible y la atencion patetica
+    date: 08-07-2008
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: EL lugar no es limpio. Esta desorganizado. La moza hace q el servicio sea lento y las pizzas no son ricas. No es un lugar para repetir la salida.
+    date: 03-06-2008
+    user: http://mi.guiaoleo.com/members/45743
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Nos gustaron mucho las empanadas de tipo casero, especialmente las de carne criolla y las de pollo. La pizza a la piedra de prosciuto y rucula nos dejo con ganas de volver a ir, muy rica.
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/45321
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar es uno de estos bares que sirven pizza y minutas y parece relativamente decente en cuanto a ambientaci\xF3n, pero la atenci\xF3n y la cocina no merecen recibir la misma calificaci\xF3n. No s\xE9 c\xF3mo un lugar en donde no saben hacer ni una simple tortilla puede llamarse restaurante y la moza solo est\xE1 de adorno para desatender las mesas..."
+    date: 18-04-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      La pizza light es mala, sin queso. las empanadas son buenas. Las ensaladas son horribles (las pedi 3 veces pensando que era un error pero son incomibles), el queso viene duro (las 3 veces), la lechuga con arena 1 vez y sucia otra vez, verduras amargas, viejas.
+      tardan 1 hora en traerlo.
+    date: 20-01-2008
+    user: http://mi.guiaoleo.com/members/24230
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: las Pastas resultaron muy buenas, la pizza muy fina y a la piedra exquisita
+    date: 19-12-2007
+    user: http://mi.guiaoleo.com/members/37396
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Nos sorprendi\xF3. Excelente pizza a la piedra."
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/32673
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La pizza es rica, el lugar no es nada del otro mundo es una pizzeria de barrio
+    date: 20-12-2006
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno

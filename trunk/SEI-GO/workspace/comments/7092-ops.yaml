@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un lugar recomendable para un almuerzo en la pausa laboral. La comida sabrosa, y cantidad ideal.
+    date: 03-06-2010
+    user: http://mi.guiaoleo.com/members/26361
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Fui a merendar. La atencion es deficiente y cobran lo que quieren.
+    date: 08-04-2010
+    user: http://mi.guiaoleo.com/members/79755
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Recomendable! muy rico y buen precio.
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/79125
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es lindo acogedor, la comida es buena y abundante. si no vas a comer vas a tomar algo es muy rico lo que te traen para acompa\xF1ar, el servicio de meseras es bueno"
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/75643
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Recomendable para tener una buena cena y disfrutar de videos con buena musica
+    date: 09-12-2009
+    user: http://mi.guiaoleo.com/members/78480
+    ambiente_rank: excelente

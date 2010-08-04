@@ -1,0 +1,129 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Lugar chico con mucha onda pero pesima atencion, pesima cocina, y apenas rescatable cockteleria!
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/80673
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Almuerzo muy seguido en el restaurant \"El \xDAnico\" de Palermo y hoy me entero nuevo aumento de precios y cambio de modalidad de postre   caf\xE9 opcional ya no es opcional y va con el men\xFA. Les dijimos que nos ten\xEDan que haber avisado antes por ser clientes habitu\xE9 y nos dijo un se\xF1or calvo que no se pueden acordar de todos los que van. Mucha gente pidiendo libro de quejas. Aparte quitaron la pizarra con los precios. Me pareci\xF3 una actitud desleal con los clientes que vamos siempre. Como conclusi\xF3n no voy a ir m\xE1s, me defraudaron y a todos los que pueda les voy a comentar para difundirlo."
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/78412
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos a comer la noche, pero la atenci\xF3n fue p\xE9sima. Los platos llegaron 50 min. tarde y adem\xE1s fr\xEDos. Incluso pedimos al horno y lo trajeron frito. Decidimos no dejar propina y al retirarnos una moza se acerc\xF3 de mala forma a exig\xEDrnosla!!... Ins\xF3lito."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/76721
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 mucho la onda del lugar y me sorprendi\xF3 gratamente la calidad de las tapas (milanesitas en cuadraditos, salchichitas al vino blanco, alb\xF3ndiguitas, croquetas de papa): criollas, caseras y ricas. Para pasar un lindo rato de brindis y charla porte\xF1a con amigos"
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos a tomar un trago y el postre despu\xE9s de la cena en otro lado. Esta es una de las grandes esquinas de Buenos Aires, el lugar tiene mucha onda y es sin dudas un meeting point. Muy visitado por extranjeros y gente con onda."
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Es una buena opcion para ir a tomar algo con amigos porque tiene bastante movida. Ademas, algo para tener en cuenta, es que fui un martes y estaba lleno, cosa que no pasa en otros bares de la zona que a la 1 ya estan cerrando. 
+      En si se destaca su ambientacion, adentro es todo bastante oscuro con velas en la mesa y afuera las mesitas estan muy bien puestas.
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Voy seguido a comer al mediodia. Tienen varios menus, todos al mismo precio, economicos pero buenos. Recomendable si no queres gastar mucho y hacer un breack al mediodia en un lugar con buena onda.
+    date: 15-06-2009
+    user: http://mi.guiaoleo.com/members/64271
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Simplemente un muy buen lugar como punto de encuentro con amigos, mucha gente alrededor, tanto en la calle como en el bar. Considerenlo para tomar buenos tragos antes o despues de ir a cenar.
+    date: 14-03-2009
+    user: http://mi.guiaoleo.com/members/31176
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar llena un espacio en el cual pasar un rato cuando uno no se siente muy exigente y puede reunirse con amigos. buen ambiente, atencion basica y la comida es satisfactoria.
+    date: 05-03-2009
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad que, por lo hermosa que es la esquina, deja bastante que desear la atencion y la calidad... no hablar de la CANTIDAD. La camarera no es que nos atendi\xF3 mal, sino que ni nos atendi\xF3... muy mal. El lomo borgo\xF1a estaba rico, pero no como para ser una de las especialidades de la casa. Igual era de esperarse, PURA IMAGEN!"
+    date: 12-02-2009
+    user: http://mi.guiaoleo.com/members/1487
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Excelente esquina y muy colorida, especial para tomar una cerveza helada en verano, cuando oscurece se pone mas intimo y ponen velitas en las mesas.
+      la atencion no es del todo buena, le hicimos el pedido 2 veces y la cuenta tambien se la solicitamos 2 veces, por el resto, recomendable.
+    date: 07-12-2008
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida fu\xE9 muy buena. El servicio es bueno pero deja un poco que desear. Los platos especiales son recomendables, no asi los platos comunes, que no tienen nada de especial. Buena presentaci\xF3n y no es caro para la zona."
+    date: 23-08-2008
+    user: http://mi.guiaoleo.com/members/50785
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Ambiente con onda da como para sentarse y disfrutar por lo bohemio que es, pero la atencion ES PESIMA!!fuimos un domingo en la noche y la camarera que nos toco fue cortante, mal humorada, antipatica, se hacia la q no escuchaba y cuando por fin se acercaba era como si nos estuviera haciendo un favor, pero con la mesa de a lado(llena de hombres)era muy simpatica e insinuante, la verdad creo q deberian cambiar de personal o capacitarlos en atencion al cliente, la gente extranjera tambien puede NO recomendar ese bar, tenganlo en cuenta.
+    date: 03-07-2008
+    user: http://mi.guiaoleo.com/members/23324
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Por ser Palermo no me parecio caro. COmida aceptable, con un toque de distincion a clasicos platos.
+      Muy buena variedad de bebidas y tragos.
+    date: 17-04-2008
+    user: http://mi.guiaoleo.com/members/31931
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "Los tragos muy buenos, la comida mala pero barata. las rabas estaban buenas, los \xF1oquis INCOMIBLES, la atencion y la ambientacion muy buenas.Vino tinto por copa solo carcassone, blanco Los arboles (sin comentarios)"
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/12751
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: para relajarse un rato, ver gente pasar y escuchar musica. Divertido, con onda. Muchos extranjeros (y eras). Mozas serviciales.
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/6359
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es incre\xEDble, la comida esta al nivel de los mejores restaurantes bistro del mundo, la barra cuenta, me arriesgo a decirlo con los mejores barmans que hay actualmente en buenos aires, pero lo mejor es la onda!!, siempre te encontras con alguien, siempre esta abierto y siempre hay gente, este bar es \xFAnico. "
+    date: 09-08-2007
+    user: http://mi.guiaoleo.com/members/29201
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar no es lo que pretende ser. La atenci\xF3n es p\xE9sima, la comida no es de primera calidad, el servicio es muy lento. No todos los tragos son de la misma calidad."
+    date: 06-01-2007
+    user: http://mi.guiaoleo.com/members/15866
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Los ingredientes que utilizan no me parecen de gran calidad, por eso los platos quedan a medio camino. \r\n\
+      La barra es regular, pero lo m\xE1s valorable es el ambiente de la peque\xF1a pero gran esquina."
+    date: 29-08-2006
+    user: http://mi.guiaoleo.com/members/14199
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un rest\xF3 con muy buen ambiente, excelente m\xFAsica, quiz\xE1 algo fuerte para la charla. \r\n\
+      Carta variada, platos exquisitos y excelente relaci\xF3n precio/calidad."
+    date: 03-08-2006
+    user: http://mi.guiaoleo.com/members/5207
+    ambiente_rank: excelente

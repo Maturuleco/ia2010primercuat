@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "No me gusta mucho la comida vegetariana, solo como las milanesas de soja de este lugar que son excelentes. Pero todos sus platos parecen buenos, buena calidad de los ingredientes y el m\xE9todo de preparaci\xF3n. La tarta de manzana se describe con 3 palabras: EX-CE-LENTE. El servicio es regular...le ponen nombres raros a las cosas y no le ponen mucho inter\xE9s en explicar que tiene cada plato. Es lugar es diminuto, tiene 4 mesas."
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/40318
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Restaurant macrobi\xF3tico. Comida muy saludable, no compatible totalmente con carn\xEDvoros de mi especie, pero es justo decir que todos sus platos me resultaron de primera y est\xE1n hechos de manera casera. Tuve un fuerte recuerdo de mi ni\xF1ez, cuando era objeto de persecuciones con repollitos de bruselas, coliflor y verduras varias. El pan negro es exquisito. El lugar es diminuto y para nada c\xF3modo. Adem\xE1s, el d\xEDa que fuimos hac\xEDa un calor terrible. El servicio es malo. Chicos sin la menor onda. Recomiendo delivery. Relaci\xF3n precio/calidad insuperable. No volveremos, pero si pediremos nuevamente!."
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/19152
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es realmente muy deliciosa y natural. El lugar es muy peque\xF1o, al igual que las mesas donde comes, eso es lo negativo."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/56052
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "A favor: una buena opcion de mediod\xEDa, comida sabrosa, y de preparaciones \xE1giles, ideal para quienes est\xE1n apresurados, o salen del trabajo a almorzar con poco tiempo, rico y barato\r\n\
+      En contra: el servicio es trist\xEDsimo, contrastando con el lugar, que adem\xE1s es s\xFAper peque\xF1o.\r\n\
+      Se vuelve a almorzar"
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n y sobretodo excelente menu para delivery. Muy recomendable!"
+    date: 23-06-2009
+    user: http://mi.guiaoleo.com/members/26870
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un muy grato hallazgo este lugar que ofrece 3 diferentes opciones todos los d\xEDas, rompiendo con la chateza de las ofertas de delivery generales de la zona. Platos con condimentos super ricos, sanos y a precios acordes a lo ofrecido. Ya probamos varios platos y no defrauda. Seguiremos explorando las opciones todas las semanas. Imperdible para los que estan cerca y aplica el area del delivery."
+    date: 20-05-2009
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "En un ambiente muy peque\xF1o se disponen solo 7 mesas chicas (para 2 o 3 personas), la antencion es rapida y la carta es distinta todos los dia! salvo 5 platos."
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/10504
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente comida naturista, muy sabrosa.\r\n\
+      Los panes con semillas riqu\xEDsimos.\r\n\
+      Aumentaron los precios del men\xFA diario y pas\xF3 a ser una opci\xF3n de delivery para la oficina un tanto inaccesible...para darse un gusto al mes"
+    date: 23-04-2008
+    user: http://mi.guiaoleo.com/members/31973
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy rica la comida , ademas tienen delivery que muchas veces me salva. "
+    date: 07-08-2007
+    user: http://mi.guiaoleo.com/members/13510
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente los panes. La comida es muy buena y sana.
+    date: 29-08-2006
+    user: http://mi.guiaoleo.com/members/11577
+    ambiente_rank: muy bueno

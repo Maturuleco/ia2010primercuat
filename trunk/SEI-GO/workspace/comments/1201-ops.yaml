@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Lugar agradable y ricas minutas
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/12375
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Falta de ventilaci\xF3n y de aire acondicionado. Muy inc\xF3modo en \xE9pocas de verano."
+    date: 05-03-2006
+    user: http://mi.guiaoleo.com/members/6801
+    ambiente_rank: bueno

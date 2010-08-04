@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es una muy buena opcion como restaurante de barrio. Muy buenas las pastas. La atencion y el servicio son correctos. El ambiente y su decoracion se han quedado un poco en el tiempo, pero la calidad de la comida lo compensa.
+    date: 12-07-2009
+    user: http://mi.guiaoleo.com/members/11110
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La parrillada era abundante con mollejas , morcilla y chorizo riquisimos, pero la carne estaba abombada y no era fresca. En verano eso es altamenete peligroso. No s\xE9 c\xF3mo ser\xE1n los platos caseros, tal vez ah\xED la cosa mejore, pero la parrillada no la recomiendo."
+    date: 14-02-2009
+    user: http://mi.guiaoleo.com/members/9440
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Soy del barrio y es la mejor opci\xF3n para una cena en familiar en d\xEDa de semana. Voy seguido y pese a que la atenci\xF3n no es el punto fuerte al la larga se les toma cari\xF1o a las mozas, son pocas y hacen lo que pueden, la comida es excelente. Muy recomendable sin grandes pretensiones"
+    date: 30-05-2008
+    user: http://mi.guiaoleo.com/members/15825
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "En t\xE9rminos generales la comida es buena y bastante abundante. Eso si, el 98 de los platos basados en carne-guarnici\xF3n tienen crema de leche en su preparaci\xF3n. Existen otras formas de preparar un bife de chorizo! Lamentablemente la atenci\xF3n es p\xE9sima. No s\xF3lo demoran much\xEDsimo sino que se olvidan de lo que pedis (hielo, pimienta, etc) teniendo que insistir varias veces. Aparentemente el problema radica en que faltan camareras y a su vez, \xE9stas hacen de bacheras, etc. Los precios no son altos pero estan aumentando seguido."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/19236
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es excelente, de muy buena calidad. Soy cliente frecuente de Camminetto y observo que \xFAltimamente est\xE1n aumentando las tarifas, lo cu\xE1l est\xE1 alejando a la clientela barrial. Una l\xE1stima."
+    date: 06-02-2007
+    user: http://mi.guiaoleo.com/members/17638
+    ambiente_rank: bueno

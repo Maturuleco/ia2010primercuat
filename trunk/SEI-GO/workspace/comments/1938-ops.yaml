@@ -1,0 +1,164 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor pizza que prob\xE9 en todo Capital Federal y alrededores!!!La pizzer\xEDa es vieja, su decorado tambi\xE9n, parece estar otra vez en los a\xF1os 70... pero que mas da!!! Dios que buena pizza..."
+    date: 22-01-2010
+    user: http://mi.guiaoleo.com/members/75403
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza tiene fama, rica pero no le ponen una misera aceituna. La bebida es un ASALTO A MANO ARMADA una cerveza 20 pesos es demasiado, los azulejos deben tener 50 a\xF1os minimo y la iluminacion es deplorable. Se come rico pero conviene mucho mas llevarla porque sentarse ahi no vale la pena. SOLO PARA DELIVERY"
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/37840
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Las empanadas estaban absolutamente vac\xEDas... la atenci\xF3n deja mucho que desear. No lo salva ni la pizza."
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/50080
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Si quer\xE9s comer una muy buena pizza a la piedra, este lugar es super recomendable. T\xEDpica pizzer\xEDa porte\xF1a de donde siempre salgo satisfecha"
+    date: 10-09-2008
+    user: http://mi.guiaoleo.com/members/8815
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Da pena ver al pobre mozo rezongando de aca para alla, sin dar a vasto. La pizza solo cumple; 25 pesos la grande de mozzarella sin aceitunas me parece un poco cara. La faina es muy mala. Una pena por que estos lugares son tipicos de la ciudad.
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/22134
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es una t\xEDpica pizzer\xEDa de barrio donde se come bien y barato."
+    date: 06-04-2008
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Incre\xEDble pizza a la piedra, de bordes irregulares y rica masa crocante. Las de provolone, napolitana y roquefort son superiores. Las empanadas no valen ni la prueba, pero la pizza es lo m\xE1ximo. En plan familiar o con barra de amigos nada pacatos, este bodeg\xF3n con platos durax toda la vida es una de las mejores opciones."
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/38841
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena redonda de muzzarela, algo aceitosa, pero est\xE1 bien. La cerveza no te la traen muy fr\xEDa y la atenci\xF3n es la de una pizzer\xEDa de barrio sin pretensiones de ser mas que eso. El lugar es el mismo desde hace mil a\xF1os y este es el tiempo que hace que conozco a este lugar y siempre la pizza fue id\xE9ntica. Muy barato por cierto. Recomendable si and\xE1s cerca y te quer\xE9s comer una rica pizza sin gastar mucho."
+    date: 28-12-2007
+    user: http://mi.guiaoleo.com/members/19152
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La pizza es muy buena, el lugar es un bodegon al que no se le puede pedir mas...y la atencion es rapida y esmerada sobre todo porque es un solo mozo para todo el local.Igualmente volveremos vale la pena.
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/21985
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El ambiente no es muy bueno. La pizza es muy rica aunque un poco cara.
+    date: 25-11-2007
+    user: http://mi.guiaoleo.com/members/19
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La Pizza es rica, pero, nada del otro mundo. La empanada de carne no me gusto porque era muy seca. \r\n\
+      Los precios me parecieron un poco elevados.\r\n\
+      Es una tipica pizzeria de barrio, bien porte\xF1a; sin mantel, vajilla durex, servilletas de papel,etc.\r\n\
+      Es una rica pizza para salir del paso, nada mas."
+    date: 25-11-2007
+    user: http://mi.guiaoleo.com/members/6584
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una t\xEDpica pizzeria de barrio como pocas quedan, es justamente lo que es, \"una fonda de barrio\", las mesas no tienen manteles, loa platos son de vidrio rallado y los cubiertos comunes, est\xE1 perfecto as\xED, no tiene sentido compararla con lugares de Palermo Hollywood y Las Ca\xF1itas, no porque no sea \"fashion\" significa que no sea buena."
+    date: 19-11-2007
+    user: http://mi.guiaoleo.com/members/15003
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy rica pizza, cara pero vale la pena. El lugar es bastante deprimente y el mozo hace lo posible en su atenci\xF3n pero est\xE1 solo en la atenci\xF3n completa del sal\xF3n asi que a veces no logran brindar un buen servicio."
+    date: 13-11-2007
+    user: http://mi.guiaoleo.com/members/13872
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Tienen una pizza a la piedra que indiscutiblemente es muy rica, solo eso puede explicar que siempre tienen gente y que est\xE1n hace tantos a\xF1os en esa esquina.\r\n\
+      Mi opini\xF3n, es que  ambiente es demasiado deprimente y descuidado, poca luz, mesa sin mantel , muy fonda de barrio.-\r\n\
+      La pizza 10 puntos, pero el lugar es caro, para la pobre ambientaci\xF3n que tiene, al que no le importa eso, que vaya que la pizza es de primera. "
+    date: 26-10-2007
+    user: http://mi.guiaoleo.com/members/4439
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Si uno pasa por la puera de Ferreiro y ve para adentro ver\xE1 una t\xEDpica fonda de hace a\xF1os... Cuando entra y prueba las pizzas le dan ganas de no irse... Excelente pizza a la piedra.. pero al ser tan finita no podes pedir menos de 2 grandes. La atencion del mozo fue muy buena, super amable"
+    date: 13-10-2007
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Lejos rankeando las mejores pizzas a la piedra de capital.\r\n\
+      la masa es lo m\xE0s de lo m\xE0s, eso si , te tenes que pedir varias `porque te quedas con hambre sino."
+    date: 18-08-2007
+    user: http://mi.guiaoleo.com/members/28172
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "una pizza ordinaria . sin calidad y cara. "
+    date: 24-06-2007
+    user: http://mi.guiaoleo.com/members/4772
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Excelente pizza. Vieja pizzeria tipica de barrio con excelente maestro pizzero. Atencion deficitaria. Empanadas grasosas incomibles.
+    date: 10-04-2007
+    user: http://mi.guiaoleo.com/members/19430
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es una pizzer\xEDa de barrio super tradicional. La pizza es excelente y se mantiene con los a\xF1os. El que quiera vajilla fina y mozos sin vocaci\xF3n, que vaya a Palermo. El que quiera una excelente pizza a la piedra, que venga a Ferreiro. "
+    date: 15-12-2006
+    user: http://mi.guiaoleo.com/members/5657
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es de primera, pero el lugar y sobre todo la atenci\xF3n, dejan mucho que desear."
+    date: 03-09-2006
+    user: http://mi.guiaoleo.com/members/11713
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es simp\xE1tico, con las paredes llenas de cuadros de equipos de futbol del ayer. \r\n\
+      El ba\xF1o chico, pero bien mantenido y con los sanitarios en buen estado. \r\n\
+      La pizza es buena, sin demasiadas pretensiones, pero se puede disfrutar."
+    date: 04-07-2006
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Realmente nos decepcion\xF3 mucho todo. \r\n\
+      La atenci\xF3n es deprimente al igual que el servicio de mesa. \r\n\
+      Platos sucios y de vidrio rayado, sin mantel. \r\n\
+      La pizza no vale nada y la cobran mucho por lo que es. \r\n\
+      Se nota la falta de calidad de los ingredientes y tambi\xE9n que la misma est\xE1 \"marcada\" y la sirven recalentada.\r\n\
+      Un desastre."
+    date: 03-06-2006
+    user: http://mi.guiaoleo.com/members/8396
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena calidad.
+    date: 09-05-2006
+    user: http://mi.guiaoleo.com/members/8334
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Imperdible.
+    date: 08-04-2006
+    user: http://mi.guiaoleo.com/members/7593
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Antes la pizza era un espect\xE1culo, la \xFAltima vez que fui, parec\xEDa pizza de Uggis."
+    date: 25-03-2006
+    user: http://mi.guiaoleo.com/members/7251
+    ambiente_rank: bueno

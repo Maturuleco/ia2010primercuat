@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n y excelentemente ambientado. La atenci\xF3n 20 puntos. Recomendable!"
+    date: 08-06-2010
+    user: http://mi.guiaoleo.com/members/18335
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Con una decoraci\xF3n al m\xE1s estilo yankie, es un restaurante que invita a entrar. \r\n\
+      La carta, si bien ofrece algunas opciones de hotdogs, sandwichs y ensaladas, pone \xE9nfasis en las hamburguesas, con distintos tama\xF1os (peso) y variedad de ingredientes. \r\n\
+      Las porciones son abundantes, aunque no para compartir. Los precios son elevados pero aceptables dado que se encuentra en pleno Palermo. Tanto para almorazar como para merendar parece ser una opci\xF3n interesante en este estilo de comida."
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: me encantaba ir a cenar merendar o comer el porstre pero las 2 ultimas veces nos hicieron mal la cuenta a favor de ellos, ademas por ser 2 nos asignaron mesa que no queriamos y luego vimos que habina 2 en las mesas de 4 la verdad no la pasamos muy bien ese dia, es muy lindo y todo le lugar pero desidimos no volver...
+    date: 02-06-2010
+    user: http://mi.guiaoleo.com/members/82747
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar que te invita a entrar, es c\xF3modo y la ambientaci\xF3n est\xE1 muy buena, atienden muy bien, los mozos siempre est\xE1n atentos. En Muu sirven el mejor capuccino de Buenos Aires!, la chocotorta no sobresale, pero igual me gust\xF3, es una porci\xF3n grande, a $14. Para volver y visitar seguido."
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/46631
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muu es una propuesta bastante original para lo que nos tiene acostumbrado Palermo. El ambiente es muy agradable e informal (cabe destacar el area para fumadores, abierta y calefaccionada). En cuanto a la comida, deja bastante que desear el punto de cocci\xF2n de las hamburguesas, pero en gral el men\xFA es correcto para comensales no muy exigentes. Los tan promocionados milkshakes son ricos, pero he probado mejores y m\xE1s abundantes en BsAs. En conclusion: un lindo lugar para hacer una parada de descanso no programada cuando uno pasea por la zona."
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/69568
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muu es una mezcla de los clasicos dinner de EEUU como se ven en muchas peliculas como volver al futuro. La ambientacion esta bien lograda y el menu se corresponde en su mayoria con el concepto, excepto por algunos platos que sirven para abarcar a los clasicos palermitanos. Hay cosas por mejorar: las hamburguesas no pueden servirse quemadas, las papas fritas salen semi crudas y ajustar otros detalles de la cocina. En sintesis, tienen que prestarle mas atencion a la comida. Felicitaciones por la apuesta a hacer algo distinto y brindar otras opciones por Palermo."
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es muy simpatico y original, es lindo ver una propuesta ligeramente diferente en Palermo. La persona que nos atendio le puso muy buena onda, y la comida es simple, estilo estadounidense, pero muy rica.\r\n\
+      Eso si, la relaci\xF3n precio/calidad deja mucho que desear. Muchachos moderense un poco por favor, un cupacake a $14 es una de las cosas m\xE1s fuera de la realidad que vi, aun teniendo en cuenta que es Palermo."
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muu es espectacular !!!!! el lugar es hermoso, donde esta muy bien lograda la ambientacion , es una lecheria de los a\xF1os 50 increible!!! la comida es excelente y la atencion muy buenaaaatotalmente recomendableeee"
+    date: 26-05-2010
+    user: http://mi.guiaoleo.com/members/82559
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: genial! y lo mejor es que es pet friendly!
+    date: 26-05-2010
+    user: http://mi.guiaoleo.com/members/35984
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente opci\xF3n, diferente a lo que se encuentra en la zona"
+    date: 26-05-2010
+    user: http://mi.guiaoleo.com/members/82572
+    ambiente_rank: excelente

@@ -1,0 +1,95 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me cextra\xF1a que un lugar tan calido y alegre este descuidado espero que lo solucionen lo digo de verdad porque nos gustaba mucho ir"
+    date: 28-01-2010
+    user: http://mi.guiaoleo.com/members/7973
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "En esta nueva visita a Murillo,encontr\xE9 una atenci\xF3n sumamente descuidada.Los mozos son pocos para todo el sal\xF3n y por m\xE1s esfuerzo que pongan ,no pueden cumplir con todo.Desde el comienzo tardan en tomar el pedido,en traer los platos y hasta en traer la cuenta.La comida sigue siendo buena y abundante pero el servicio desmejor\xF3 mucho."
+    date: 28-06-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Las buenas referencias le quedaron algo grandes a Murillo. La carta incluye minutas, carnes, pastas, pollo y pizzas, pero ninguno de ellos estuvo a la altura de las expectativas (la pizza fue la que sali\xF3 m\xE1s airosa). Los ravioles llegaron casi fr\xEDos y la salsa del lomo a la francesa ten\xEDa gusto a quemado. El oficio del mozo apenas pudo paliar grotescos como el jerez de invitaci\xF3n rebajad\xEDsimo y la cantidad de empanaditas (una menos que el n\xFAmero de comensales). La decoraci\xF3n no se destaca, y a la temperatura del ba\xF1o tiene 20 grados de m\xE1s. Bastante caro para el resultado! Dudo que vuelva."
+    date: 26-01-2009
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: es un ambiemte familiar con muy buena comida muy abundante muy bueno el pan de pizza yo siempre llamo por su delivery, el revuelto gramajo es para uno de los mejores...
+    date: 09-11-2008
+    user: http://mi.guiaoleo.com/members/42458
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: he ido muchas veces a este resto, y la verdad es muy bueno, un ambiente familiar y la atencion es muy buena, los platos son para compartir, la suprema al roqueford estaba muy buena
+    date: 03-01-2008
+    user: http://mi.guiaoleo.com/members/43117
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un lugar familiar,tal vez demasiado iluminado, donde se puede comer abundatemente ya que los platos son generalmente para compartir .Los mozos lo hacen saber anticipadamente ,o sea que se puede comer bien sin gastar mucho.Es una opcion para salir a comer sin demasiadas ostentaciones
+    date: 24-10-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un plato m\xE1s que rico, recomiendo a cualquiera que vaya a probarlo o que lo pida al delivery porque esa salsa al gruyere es exquisita! El lomo es muy tierno y no tengo dudas de que les va a gustar.... otro consejo, si les gusta el lomo como a m\xED, el lomo a la marsalla :)\r\n\
+      \r\n\
+      El ambiente no parece un quir\xF3fano para nada, es muy familiar y los mozos de mucha experiencia atienden muy bien.\r\n\
+      El precio me pareci\xF3 razonable ya que es un plato muy abundante y quedamos m\xE1s que satisfechos."
+    date: 12-10-2007
+    user: http://mi.guiaoleo.com/members/33834
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: En general muy buena la atencion. Calidad precio y servicio. Bastante bien. Lo unico para mejorar que los mozos deberia se un poco mas rapidos o atentos. Cuando uno ingreso y/o en el momento para pedir la cuenta.
+    date: 08-10-2007
+    user: http://mi.guiaoleo.com/members/22617
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Rica la piza, los mosos atienden esmeradamente, coincido con la mayor\xEDa con el tema de la luz."
+    date: 17-09-2007
+    user: http://mi.guiaoleo.com/members/30166
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy rica y abundante; pero no recomiendo la carne para quienes les gusta cocida. Siempre que he pedido carne aclar\xE9 que la quiero bien cocida, pero viene cruda (a\xFAn roja). "
+    date: 19-08-2007
+    user: http://mi.guiaoleo.com/members/29997
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Sin caer en la redundancia de los comentarios, comidas abundantes, atenci\xF3n servicial; suma el hecho de que nos sirvieron pan de pizza y una empanada a modo de entrada, la cual sabia bastante bien. El ambiente es c\xF3modo, lo suficiente como para pasar una noche hablando, no intimo.\r\n\
+      Vale destacar el buen sabor de las salsas con el escasisimo tiempo en traerlas. Una buena opci\xF3n para salir del paso."
+    date: 20-01-2007
+    user: http://mi.guiaoleo.com/members/16850
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy lindo lugar para tomar un buen cafe y charlar un rato.
+    date: 12-01-2007
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pizzer\xEDa. Todo lo dem\xE1s, est\xE1 de relleno. Fuentes enormes, con poco productos y mucha papa frita (aceitosa). No hablar de la decoraci\xF3n es ser ben\xE9volo."
+    date: 27-11-2006
+    user: http://mi.guiaoleo.com/members/13869
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida excelente, el servicio bueno, el ambiente agradable. Eso si, mucha luz.
+    date: 08-09-2006
+    user: http://mi.guiaoleo.com/members/10877
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Porciones abundantes, comida muy buena, precio m\xE1s que razonable. Excelente."
+    date: 30-07-2006
+    user: http://mi.guiaoleo.com/members/9724
+    ambiente_rank: muy bueno

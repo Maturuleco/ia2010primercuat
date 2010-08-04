@@ -1,0 +1,131 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida no es alemana, es una carta completa pero no destacan lo aleman. Muy antiguo el lugar y el mozo nos atendi\xF3 a las apuradas y no nos supo recomendar ningun plato. No volver\xEDa."
+    date: 20-06-2010
+    user: http://mi.guiaoleo.com/members/44399
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Fuimos por los comentarios que leimos en esta guia.  No comimos mal pero tampoco fue excelente. No es muy barato y el ambiente bastante ruidoso y oloroso. La atencion del mozo muy buena. No creo que vuelva.
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/6894
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy recomendables la enasalda de papas alemanas con las costillas de cerdo ahumadas. El lugar es muy cl\xE1sico, sin ninguna pretensi\xF3n, un poco ruidosa la planta alta ."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Un viaje en el tiempo, comida ochentosa simple, pero rica y abundante y atencion como la de antes. No hay que esperar para que te atiendan y tenes estacionamiento gratuito a media cuadra. La relacion precio-calidad es excelente, realmente es un restaurante tematico... ambientado en los ochenta, hasta me encontre a Calabro comiendo
+    date: 15-06-2009
+    user: http://mi.guiaoleo.com/members/63949
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es rica y tiene gran variedad en el men\xFA, los platos son abundantes, la atenci\xF3n es por mozos \"de los de antes\". un lugar tradicional."
+    date: 29-05-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "Es un viaje a los a\xF1os setenta sin escalas!\r\n\
+      Lo que es excelente: Los mozos. Un placer verlos trabajar, ser atendidos es un lujo. Edad m\xEDnima \xA160 a\xF1os!!! Muy profesionales, de los que no quedan casi. Una perlita total!\r\n\
+      Ahora la comida:\r\n\
+      La paella parec\xEDa un arroz con mariscos que no es lo mismo. No dir\xE9 que no era rica, pero bajo ningun punto de vista era paella. Un horror.\r\n\
+      La tortilla, simil lengua de loro.\r\n\
+      El flan muy rico, pero con el caramelo demasiado quemado (amargo)\r\n\
+      No vuelvo ni por los mozos."
+    date: 26-05-2009
+    user: http://mi.guiaoleo.com/members/16053
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Sin el glamour de Puerto Madero, sin ser fashion como Palermo Soho, sin la juventud que se ve en Las Ca\xF1itas. Pero nunca falla: todo sale r\xE1pido, a punto y sabroso. Los mozos son excelentes. Sin ruidos molestos. Las mesas tienen la separaci\xF3n justa: se puede conversar sin inconveniente. El extenso men\xFA permite una selecci\xF3n a gusto de cada uno. Los precios son absolutamente acomodados y accesibles para la \xE9poca. A media cuadra estacionamiento sin cargo. Qu\xE9 m\xE1s se puede pedir? Un cl\xE1sico de barrio siempre vigente."
+    date: 24-05-2009
+    user: http://mi.guiaoleo.com/members/25256
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Como siempre mantiene la calidad tanto en el servicio de comida como en la sobresaliente atenci\xF3n de sus tradicionales mozos entre los cuales se destaca en simp\xE1tico y atento ANDRES. En un marco del tradicional restaurant de \"antes\" podes comer de todo confiando en su calidad. Me extra\xF1a que cataloguen al lugar como comida Alemana pues en ella no se especializa. RECOMENDABLE."
+    date: 15-05-2009
+    user: http://mi.guiaoleo.com/members/8240
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy recomendable las costillas de cerdo ahumadas con la ensalada de papas al estilo alem\xE1n. El lugar es tradicional como la atenci\xF3n de sus mozos."
+    date: 05-03-2009
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La comida riquisima, coincido en que no deber\xEDa llamarse restaurant aleman ya que la carta es muy variada y solo hay 2 o 3 platos alemanes. La atencion no fue de lo mejor. Pero vale la pena ir. Muy buen precio y muy buena comida."
+    date: 11-05-2008
+    user: http://mi.guiaoleo.com/members/44878
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: excelente comida me senti muy a gusto
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/10125
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Abundante comida, buena la atencion de los mozos,  y el lugar es muy lindo y se conserva en impecable estado.
+      Recomiendo la cazuela de mariscos para comer de a 2.
+    date: 06-03-2008
+    user: http://mi.guiaoleo.com/members/30308
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Una vez m\xE1s comimos en familia, tranquilos, bien atendidos y con una muy buena comida y variada en sus especialidades. El restaurant es catalog\xE1do erroneamente como Alem\xE1n pero tiene una excelente comida variada y para todos los gustos."
+    date: 22-02-2008
+    user: http://mi.guiaoleo.com/members/8240
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Era la primera vez q iba y creo que no volver\xE9. Pedimos sopa crema de arvejas, salchichas (que las llaman chorizo por la similitud en tama\xF1o)con pur\xE9 y un omelette de champignon.\r\n\
+      El omelette era realmente insulso. Lo dem\xE1s estuvo bien y la atenci\xF3n fue muy buena.\r\n\
+      Pero estando a una cuadra del maravilloso Hermann original, no vale la pena el cambio por \xE9ste 'nuevo'."
+    date: 07-02-2008
+    user: http://mi.guiaoleo.com/members/24319
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Lugar tradicional, agradable y familiar. Destaca favorablemente la atenci\xF3n de los mozos, en cordialidad y calidad de servicio. Poseen platos variados de cocina tradicional porte\xF1a, algunos pocos platos alemanes. Cuentan con una oportuna variedad de platos de men\xFA fijo que incluye: entrada, plato principal y postre, con bebida gaseosa inclu\xEDda. Muy recomendable, para regresar. "
+    date: 02-12-2007
+    user: http://mi.guiaoleo.com/members/6647
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy agradable el lugar, la atenci\xF3n de primera y la comida abundante y de muy buena calidad. Excelente!!!"
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/31585
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Amplio salon en el primer piso,al que se accede por ascensor...excelente la comida y porciones abundantes...muy abundantes...el servicio atento, agil y profesional...quizas deberia haber un sector fumadores,ya que las dimensiones del salon lo permitirian...
+    date: 06-05-2007
+    user: http://mi.guiaoleo.com/members/6234
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es muy familiar y los mozos son muy atentos. La comida es de buena calidad y gustosa; las porciones son abundantes. Para conocer. "
+    date: 01-02-2007
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comida internacional de primera con una destacada atenci\xF3n de Andres en el primer piso. Hemos pasado nuevamente un muy grato momento."
+    date: 22-10-2006
+    user: http://mi.guiaoleo.com/members/8240
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buen restaurante.
+    date: 19-08-2006
+    user: http://mi.guiaoleo.com/members/11297
+    ambiente_rank: excelente

@@ -1,0 +1,21 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida es muy grasosa, no parece muy china ni son productos de calidad, ped\xED delivery para probar y nunca mas.. el local es muy chico."
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Pido aca a la noche, la comida es muy sabrosa y muy fresca, los arrolladitos son los mejores !
+      Lo recomiendo !
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/7368
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Tengo la sensacion de que los locales de comida china son cada vez menos chinos. Hace rato que no como un buen chau mien. Este es el que tengo mas cerca, siempre uso delivery, lo que te conviene es pedir chaw fan y empanaditas, lo basico. Y el "pollo a la antigua" es riquisimo, pero super indigesto.
+    date: 14-06-2007
+    user: http://mi.guiaoleo.com/members/20802
+    ambiente_rank: bueno

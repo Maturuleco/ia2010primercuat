@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es el mismo que con sus due\xF1os anteriores, pero la comida se distuinge. Las tapas de mar con langostinos y salmon imperdible, tanto que la repetimos en lugar de plato principal, el ceviche de mero y salmon muy bueno. Le han agregado valor a lo anterior y es muy bueno"
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Muy buen lugar para comer una picada
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen ambiente para conversar, el volumen y tipo de m\xFAsica son apropiados, acompa\xF1an la noche.  La comida adem\xE1s de estar bien presentada tiene la mezcla justa de sabores.  Muy recomedable.  Es un lugar perfecto para empezar la noche."
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/79526
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy rica comida y excelente relaci\xF3n precio-calidad. La cerveza artesanal una delicia y el ambiente muy tranquilo. Recomendable."
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/79487
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida es excelente, la cerveza muy rica (artesanal) y tome un margarita muy bien preparado. El ambiente es muy ameno.
+    date: 29-08-2009
+    user: http://mi.guiaoleo.com/members/68426
+    ambiente_rank: muy bueno

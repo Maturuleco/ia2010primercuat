@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La pizza y las empanadas no son nada del otro mundo, pero estan bien.\r\n\
+      Para el lugar en donde est\xE1 la verdad es que es un poco caro.\r\n\
+      Los canelones, si bien eran grandes, caseros y tenian masa de panqueque, dejaban mucho que desear en el sabor.\r\n\
+      Es irrisorio que te cobren servicio de mesa y te traigan las figacitas de la panader\xEDa de la vuelta, pero el mozo fue muy profesional y atento."
+    date: 07-08-2009
+    user: http://mi.guiaoleo.com/members/5592
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: bien la comida y abundante,sobresale el servicio,excelente...lo insolito y negativo es pretender cobrar $ 16 una medida de whisky...se les va la mano...pero volvere y el whisky lo tomo en otro lado.
+    date: 31-05-2009
+    user: http://mi.guiaoleo.com/members/6234
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comida abundante y sabrosa, buen ambiente y atenci\xF3n. Un lugar para ir a comer rico y en cantidad."
+    date: 20-12-2007
+    user: http://mi.guiaoleo.com/members/38283
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Transito mucho este restaurante, es uno de mis preferidos, la carta es muy variada y los platos son muy buenos y a la vez tupidos, nunca te quedas con hambre y no es caro.
+    date: 12-12-2007
+    user: http://mi.guiaoleo.com/members/35924
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente ambiente familiar, platos abundantes y mucha variedad. Recomiendo la pizza y las pastas.\r\n\
+      Muy recomendable y excelente la atenci\xF3n."
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/34330
+    ambiente_rank: muy bueno

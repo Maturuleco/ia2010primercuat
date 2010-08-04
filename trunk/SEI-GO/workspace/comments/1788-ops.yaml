@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Festej\xE9 mi cumplea\xF1os ese d\xEDa y \xE9ramos 12 personas, excelente lugar para disfrutar y pasar un buen rato. Recomiendo el restaurante."
+    date: 25-04-2008
+    user: http://mi.guiaoleo.com/members/43976
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida no es mala, pero la relaci\xF3n precio - calidad no es la mejor, hemos comido mejor por menos dinero, La provoleta especial de $10! es un chiste... y los sorrentinos estaban un poco duros. No volver\xEDamos pero no porque es malo, sino porque hay lugares mejores. Destacamos la atenci\xF3n: la moza nos atendi\xF3 amablemente."
+    date: 08-06-2007
+    user: http://mi.guiaoleo.com/members/17675
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Del barrio lo mejor. Buena atenci\xF3n, muy c\xE1lida.\r\n\
+      La carne muy rica y las pastas sabros\xEDsimas.\r\n\
+      Ideal para escaparse de casa una noche o el mediod\xEDa de domingo. \r\n\
+      Buenos precios."
+    date: 21-02-2007
+    user: http://mi.guiaoleo.com/members/18772
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fui dos veces. La ambientaci\xF3n es muy linda. La atenci\xF3n es esmerada y la comida tambi\xE9n es rica. \r\n\
+      La \xFAltima vez que pedimos parrillada la carne era un poco grasosa, pero por lo dem\xE1s, muy bien. Para recomendar. \r\n\
+      Tal vez es m\xE1s rica la comida de la carta que la parrilla libre."
+    date: 27-12-2006
+    user: http://mi.guiaoleo.com/members/14925
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida, atenci\xF3n y buena ambientaci\xF3n. Recomendable. "
+    date: 14-10-2006
+    user: http://mi.guiaoleo.com/members/12828
+    ambiente_rank: excelente

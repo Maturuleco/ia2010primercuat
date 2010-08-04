@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Simplemente, muy buena pizza, recomendable. Tienen otra sucursal en Vte Lopez que es sumamente recomendable, alli esta el due\xF1o y la atencion es maravillosa."
+    date: 03-04-2009
+    user: http://mi.guiaoleo.com/members/49212
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Siempre pedimos delivery y jam\xE1s fallaron. Las pizzas son de las mejores que se pueden conseguir y las empanadas de alt\xEDsima calidad."
+    date: 28-04-2006
+    user: http://mi.guiaoleo.com/members/8045
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Tendr\xEDan que capacitar al personal el cual no esta apto para tratar clientes."
+    date: 12-06-2005
+    user: http://mi.guiaoleo.com/members/2404
+    ambiente_rank: muy bueno

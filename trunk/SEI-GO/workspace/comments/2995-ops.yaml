@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La atencion es bastante buena. El ambiente es acogedor.
+    date: 23-08-2009
+    user: http://mi.guiaoleo.com/members/68004
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un muy interesnte lugar. Peque\xF1o pero no muy ruidoso, la carne y las achuras en el punto justo, excelente las mozas, ambientaci\xF3n sin demasiadas pretensiones pero agradable. Volver\xE9 pronto y lo recomiendo"
+    date: 07-06-2008
+    user: http://mi.guiaoleo.com/members/15825
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Bueno, bonito y barato...
+    date: 09-10-2007
+    user: http://mi.guiaoleo.com/members/33667
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena y la atenci\xF2n tambi\xE9n. Y el precio es muy econ\xF3mico."
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/35920
+    ambiente_rank: muy bueno

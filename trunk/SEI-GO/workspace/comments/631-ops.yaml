@@ -1,0 +1,100 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Las mejores pizzas a la piedra. Siempre mantiene la calidad
+    date: 01-02-2010
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Si bien la masa de esta pizza no es de las mejores, la calidad y cantidad de los ingredientes hacen que la pizza de Romario sea rica. La vedette es sin dudas la Fugazzeta. En Arenales sugiero comer en la terraza o la vereda, ya que el interior es algo bullicioso y caluroso.
+    date: 31-01-2010
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: |-
+      En solo traerme la carta tardaron 25 minutos, imaginen el resto....la atencion es un DESASTRE....ir con paciencia ya que la pizza es rica.El ambiente de gente es muy bueno pero el ambiente fisico parece un boliche....es muy ruioso.
+      Si quieren ir a comer un pizza tranquilos...OLVIDENSE....
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/72393
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lugar muy ruidoso y pizzas un poco quemadas...
+    date: 13-08-2009
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Lo \xFAnico bueno es la calidad de las pizzas. Por lo dem\xE1s, todos los Romario han standarizado sus defectos: ambiente muy ruidoso, atenci\xF3n totalmente descuidada, poca variedad en las cervezas, solo tienen Brahma, etc. Si uno se banca todo esto, las pizzas valen la pena"
+    date: 22-01-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No vuelvo m\xE1s. La atenci\xF3n fue p\xE9sima. Muy pocas mozas y sin preparaci\xF3n para la demanda del lugar. No limpiaron la mesa apesar de mi pedido. Y la pizza, servida en una bandeja demasiado chica, fue apoyada en parte sobre \xE9sta. La pizza de anan\xE1 bastante escasa en esa fruta y el tomate seco era de mala calidad."
+    date: 17-12-2008
+    user: http://mi.guiaoleo.com/members/56357
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Ideal para reunirse con amigos, nada m\xE1s. La piza era muy buena. La atenci\xF3n fue bastante mala, quiz\xE1s por estar sentado en la terraza de arriba."
+    date: 31-10-2008
+    user: http://mi.guiaoleo.com/members/52250
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La pizza de ESTE LOCAL, es riquisima, porbe d otros dos locales y no es igual, pero este esta bueno. Las camareras tienen unas nalgas y se dejan... yo me fui con una ahi a la vuelta. Los precios son carisimos, pero siempre vuelvo, porque vale la pena.
+    date: 13-07-2008
+    user: http://mi.guiaoleo.com/members/39882
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Lo m\xE1s destacado del lugar es la cocina: a pesar de que cen\xE9 gustos de pizza de lo m\xE1s tradicional, realmente no sab\xEDa por cu\xE1l continuar. Me parecieron todas deliciosas, y eso es una gran carta de presentaci\xF3n para cualquier restaurante. La atenci\xF3n no destacaba particularmente, las mozas tomaban pedidos en piloto autom\xE1tico, y no le pon\xEDan onda. \xC9ramos todos personas j\xF3venes, pero no pareci\xF3 notarlo. El ambiente es un poco demasiado oscuro, pero es mucho m\xE1s amplio que otros locales de este tipo, y adem\xE1s pasan buena m\xFAsica de fondo."
+    date: 08-06-2008
+    user: http://mi.guiaoleo.com/members/47188
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      un poco caro para lo que es la pizza
+      de cualquier modo etsba muy rico en mi caso las camareras no venian 
+      el lugar es comodo y un buen punto de reunion con amigos, con familia no me veo ahi
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/40134
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "\xBFMe estar\xE9 volviendo viejo o este local de Romario es realmente muy ruidoso? La pizza es excelente, sabrosa, con una buena cantidad de queso. La faina es muy buena. El local es un poco oscuro, pero agradable. Las camareras, muy j\xF3venes, lindas y voluntariosas. Pero insisto: la m\xFAsica est\xE1 muy fuerte. Si uno busca la combinaci\xF3n \"buena pizza + charla\", no es el lugar adecuado. Si uno busca s\xF3lo buena pizza... s\xED."
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/38047
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Un lugar agradable y joven, ideal para ir con amigos.
+      Bien ambientado y las camareras con la mejor onda.
+    date: 01-02-2008
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La mejor pizza del pa\xEDs. Ni muy fina, ni muy gruesa, buena calidad de masa, de queso. No recomiendo pedir delivery, llega muy gomosa. La de provolone se pasa de buena, al igual que la de panceta y albahaca. Le falta un poco de variedad en las cervezas, solo tiene brahma y capaz alguna otra. Las empanadas tambien son excelentes. "
+    date: 28-01-2008
+    user: http://mi.guiaoleo.com/members/41106
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "De todos los Romarios este es el que mas me gusta de todos, por ubicaci\xF3n, y por la forma de atenci\xF3n. Creo que en comparaci\xF3n al que esta en Guemes es mucho menos ruidoso el ambienta y mas cuidado."
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/7816
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      La pizza esta bastante buena y hay mucha variedad.
+      Las mozas tienen muy buena onda a la hora de atender. Un lugar para ir con amigos.
+    date: 19-10-2007
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno

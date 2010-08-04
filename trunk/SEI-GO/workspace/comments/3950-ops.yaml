@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Pizza a la piedra muy buena. La atenci\xF3n es correcta. Ambientaci\xF3n: onda pub... desentona un poco la bola espejada y las luces titilantes verdes; por momentos la m\xFAsica est\xE1 demasiado fuerte, no obstante eso no priva de disfrutar de la cena. Punto MUY negativo: los cubiertos no cortan ni pinchan bien, con lo cual uno por momentos debe pelearse con el plato para poder ganarle. Los precios son razonables."
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/75519
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar es simple, sin una gran decoraci\xF3n, con una buena ambientaci\xF3n musical. Las pizzas son deliciosas y hay mucha variedad de donde elegir. Nos pareci\xF3 excesivo el precio de la cerveza y ni hablar del servicio de mesa. No obstante, nos atendieron muy bien y la comida es excelente."
+    date: 26-03-2010
+    user: http://mi.guiaoleo.com/members/55711
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza muy rica, pero tienen que coordinar mejor la salida de la comida. Pedimos 4 pizzas entre 5 personas y hab\xEDa que esperar como 30 minutos desde la primera hasta la \xFAltima. Quer\xEDamos ir a comer juntos no separados, una pizzer\xEDa de este tama\xF1o debe servir 4 pizzas al mismo tiempo. El ambiente muy simple nada especial."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/10599
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy buen lugar, pero muyy caro. La cuenta fue de $68. Una chica de napo($33), dos empanadas($7),una cerveza ($20) y por ultimo, para ponerle mo\xF1o, $8 de servicio de mesa!La pasamos muy bien, pero no vamos a volver. El servicio de mesa en una pizzeria es un crimen!Saludos a todos!"
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/47805
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buen ambiente, agradable y buena musica y la pizza acompa\xF1a, solo la cerveza 20 pesos me parecio excesivo...muy recomendable..."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/55931
+    ambiente_rank: excelente

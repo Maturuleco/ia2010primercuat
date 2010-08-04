@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La experiencia fue malisima. Pesima la atencion. El encargado permite que pasen cosas inauditas. Habia tenido experiencias tan buenas en la otras sucursales que nunca me imagine semejante chasco. Horrible experiencia. No vayan.
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/84314
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El lugar es muy chico y si no van temprano se espera mas de media hora seguro los viernes y sabados.Sacando eso las milanesas son gigantes, muy ricas las papas rejilla y las variedades estan muy buenas. precios promedio a otros lugares de igual calidad.
+    date: 19-06-2010
+    user: http://mi.guiaoleo.com/members/37840
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Una hora para sentarnos, el aceite donde frien las milanesas y las papas debe ser el q le sacan a las motos del delivery, desastroso. no vale nada. la moza diez puntos pero con eso no alcanza, buena atencion pero comida desastrosa, solo hacen milanesas, cambien el aceite mas seguido.
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/15601
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "me encant\xF3!! La comida riqu\xEDsima, fresca y muy abundante! La sucursal de las heras es un toque chica y te puede quedar un poco de olor. Pero el resto genial. Comimos muy bien y el servicio fue excelente desde que llegamos hasta que nos fuimos! Lo recomiendo 100% para todo tipo de grupo (amigos, pareja, flia..)"
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/19661
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pedimos una tabla que sabemos que tiene rabas y no las trajeron ... preguntamos el motivo y era que no ten\xEDan. Chicos ... a ponerse las pilas si quieren sobrevivir, por mas que ya tengan un nombre en el mercado van a tener que mejorar la calidad y el servicio. Yo por las dudas no vuelvo."
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/8091
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente atenci\xF3n la del mozo. No tardaron nada en la llegada de la comida y llego bien caliente. La verdad que es muy recomdable, por lo que volveremos en cualquier momento."
+    date: 25-04-2010
+    user: http://mi.guiaoleo.com/members/13726
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos a la semana q inaugur\xF3, la comida y el servicio fue excelente; volvimos este fin de semana y es increible lo que cambi\xF3, para mal, la comida un desastre, sin gusto y las porciones muuucho mas chicas q antes. en cualquier rotiseria se consigue comida mejor. El precio totalmente desproporcionado con la calidad, no conviene ni siquiera teniendo descuento. Para no volver nunca mas."
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/37790
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Frustrante. \r\n\
+      La milanesa frita, muy poca carne y mucho aceite. La salsa, escasa y poco elaborada. Parec\xEDa de un amateur. \r\n\
+      La guarnici\xF3n, es la gota que rebalsa el vaso: aproximadamente 20 unidades de papa frita, o un peque\xF1o bowl de lechuga de mala calidad y tomate, acompa\xF1ando a la porci\xF3n \"large\" de milanesa que promocionan a 60 pesos. Nunca m\xE1s vuelvo."
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/80154
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Decepcion. El ambiente excesivamente ruidoso, teniamos una reserva para 8 y pusieron la mesa(larga) pegada a la puerta. Nos empujaba todo el mundo que pasaba. La moza tardo 15min en atendernos, la tuvimos que llamar. La panera tambien la tuvimos que pedir porque no la trajeron. Cuando por fin pedimos la comida, tardaron 1 hora en traerla! Tanto tardan en hacer simples milanesas? Lo peor, es que estaban pasadas y secas, y el sabor no era nada del orto mundo. Lo peor, las papas espa\xF1olas, eran un cascote, re quedamas (igual que la panceta) y duras. No merecen llamarse el \"Club de la Milanesa\". $"
+    date: 30-03-2010
+    user: http://mi.guiaoleo.com/members/68331
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "es un desastre. nos trajeron el menu, pedimos un par de platos y mas tarde pedimos las bebidas. cuando voy al ba\xF1o me doy cuenta que hay menu de mediodia y que nuestros platos eran una de las opciones del menu con lo cual supuse que nos iban a cobrar el menu de mediodia. no fue asi, nos cobraron todo por separado porque \"no avisamos que queriamos menu\" cuando el mozo no nos trajo el menu.\r\n\
+      al margen, la ensalada era diminuta y las papas a la crema gratinadas, estaban frias, obviamente sin gratinar...en fin, un desastre!"
+    date: 29-03-2010
+    user: http://mi.guiaoleo.com/members/79228
+    ambiente_rank: bueno

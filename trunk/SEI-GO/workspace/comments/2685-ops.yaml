@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy ricas la pizza de la casa y la de provolone. las pastas aceptables. la atencion correcta y el lugar tipo pizzeria pero un poco modernizado. "
+    date: 10-12-2007
+    user: http://mi.guiaoleo.com/members/36667
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Todas las veces que fui con mis amigos y familia  la atenci\xF3n siempre fue excelente y la comida tambi\xE9n. \r\n\
+      Los que se quejan lo hacen porque el aire es gratis o bien porque tienen problemas psicol\xF3gicos que deber\xEDan atender urgentemente."
+    date: 09-11-2007
+    user: http://mi.guiaoleo.com/members/16699
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buenas picadas y pizzas. La comida llego a tiempo y bien caliente. Los platos son abundantes y a buen precio.
+    date: 08-10-2007
+    user: http://mi.guiaoleo.com/members/33626
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bueno, cambiaron toda la decoraci\xF3n, el servicio mejoro a\xFAn m\xE1s. Muy buena opci\xF3n, precios accesibles y comida de buena calidad. "
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/23642
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Mal\xEDsimo. La suprema primero fue hervida y luego puesta a la plancha. Las papas fritas, muy aceitosas, el mozo en las nubes. Un desastre."
+    date: 16-01-2007
+    user: http://mi.guiaoleo.com/members/16344
+    ambiente_rank: bueno

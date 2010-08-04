@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Me pareci\xF3 terrible el servicio, demasiado lento y poca vocaci\xF3n de parte del mozo. Las porciones son muy chicas y parece que cuando uno les hace m\xE1s de dos preguntas juntas, siente que molesta.\r\n\
+      No es para nada recomendable."
+    date: 18-06-2009
+    user: http://mi.guiaoleo.com/members/5311
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n es lenta, si bien la comida cuando llega es lo que un pidio la forma de servirla y la demora hace que uno desista de repetir, siendo que es un tenedor libre es irrisoria la demora."
+    date: 23-10-2007
+    user: http://mi.guiaoleo.com/members/34957
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Teniendo como opci\xF3n tenedor libre, es lamentable la demora en servir los distintos platos, y tambien es lamentable la respuesta de uno de los mozos, ante la pregunta de por que la demora \"no se estan haciendo huevos fritos\" jajaja. \r\n\
+      De terror. Creo que si no les rinde trabajar los lunes. ni abran."
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/562
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La verdad que hace a\xF1os que voy a los leones y la comida no solo es muy buena, sino que la atencion es muy cordial y realmente da gusto comer alli... \r\n\
+      es un ambiente tranquilo y familiar en el que se puede disfrutar tanto al a noche como al mediodia!\r\n\
+      La verdad no tengo quejas, no es caro, la comida buena y siempre lo fue... yo voy hace a\xF1os y me parece que los comentarios que veo aca estan un poco erroneos...\r\n\
+      Saludos!"
+    date: 16-06-2007
+    user: http://mi.guiaoleo.com/members/24714
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Hace a\xF1os era un excelente tenedor libre, luego cambi\xF3 de due\xF1o y lamentablemente no tuve buenas experiencias. Las comidas que aparecen en el men\xFA, cuando las ped\xEDs, se explayan diciendo que ese plato no lo tienen. Pero te lo avisan, despu\xE9s que tardaste unos cuantos minutos en decidirte. Es poco serio el asunto. Lamentablemente no puedo recomendarlo, ya que tampoco es barato. "
+    date: 09-01-2007
+    user: http://mi.guiaoleo.com/members/15863
+    ambiente_rank: bueno

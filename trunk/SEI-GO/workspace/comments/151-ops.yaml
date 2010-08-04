@@ -1,0 +1,130 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: SONOMAN!  que puedo decir...! paso mis mejores horas ahi! el patio tiene buena barra! aunque la mejor es en la que estaba juan! decoracion sencilla! muy buena onda la de todos los empleados...! nunca me colgaron con ningun pedido! y esta bueno que se llene, habla muy bien del lugar! vallan que tiene toda la onda...!!! saludos a los chicos!
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/62117
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La palabra exacta ser\xEDa deplorable. No qued\xF3 absolutamente nada de lo que era este lugar. De la ya escueta carta de vinos, tuve que recurrir a una tercera elecci\xF3n (no ten\xEDan ni el primero ni el segundo que seleccion\xE9). Atenci\xF3n p\xE9sima, tuve que reclamar el pan y la sal, a mitad de comida retiraron el salero para llevarlo a otra mesa. Por ultimo tuve que aguantar a un encargado (o due\xF1o) reprimiendo fuertemente a un empleado delante de todos los que concurrimos pensando en pasar un momento agradable. No vuelvo m\xE1s."
+    date: 10-05-2008
+    user: http://mi.guiaoleo.com/members/44792
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Eramos una mesa de m\xE1s o menos 8 personas, los dos camareros que hab\xEDa para todo el sector de patio no alcanzaban ni para nuestra propia mesa. El servicio fue lento, se olvidaron platos y para cada pedido hab\xEDa que esperar siglos. El patio est\xE1 bueno, pero la verdad que el mal servicio y la baja calidad de la comida arruinan el promedio."
+    date: 26-12-2007
+    user: http://mi.guiaoleo.com/members/25303
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Sonoman es ele ejemplo de lo que fue y lo que es. Fue un excelente bar donde se pod\xEDan incluso comer bastante bien dentro de su categor\xEDa(bar), pero ahora es un lugar donde se come bastante mal(la comida fr\xEDa o no en su punto es casi una costumbre, a diferencia de antes), el servicio a pasado a ser bastanre regular, y s\xF3lo queda algo de concistencia en sus tragos. El lugar siempre muy lleno, cosa que para comer muchas veces torna el servicio m\xE1s lento a\xFAn, y peor. Para tomar algo; esta bien, para comer; elegir otro lugar y despu\xE9s pasa a tomarte algo en un lugar repleto de gente. "
+    date: 06-08-2007
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      No me gusto para nada, el lugar era un tempano de hielo, ni un poco de calefaccion. 
+      Despues de comer la entrada, no nos querian cambiar los cubiertos, llenos de salsa, un desastre. Compartimos un plato, y nos pusieron platos de postreee, de terror.Encima, pedimos un punto de coccion para el lomo, a punto, y estaba crudo, con lo cual tuvimos q devolverlo, cuando lo trajeron devuelta, las papas estaban congeladas. Muy mala la atencion, para no ir.
+    date: 04-08-2007
+    user: http://mi.guiaoleo.com/members/26883
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy buen lugar para juntarse con amigos (temprano si van a comer porque se llena muy rapido y ponen musica fuerte temprano) a comer y tomar algo. Precios y comida acordes al lugar.
+    date: 10-04-2007
+    user: http://mi.guiaoleo.com/members/11766
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me fui muy contento, he viajado por todo el mundo y no hab\xEDa encontrado un lugar con tanta energ\xEDa y tan intenso."
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/12403
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me agrado el lugar pero no me parecio \"la gran cosa\". Un bar bonito, dentro de todo con onda, buena m\xFAsica (por momentos demasiado fuerte) y una carta de tragos apropiada. La carta de comida es un poco pobretona en la oferta (cantidad), aceptable de todas formas ya que no es un restaurante. La moza del sal\xF3n deber\xEDa mejorar en actitud (o quiz\xE1s el d\xEDa que fui ten\xEDa una mala noche, no lo s\xE9) para evitar tratar mal a los clientes."
+    date: 11-01-2007
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 la onda del lugar y me sorprendi\xF3 positivamente la comida. Bien."
+    date: 23-09-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente.
+    date: 25-08-2006
+    user: http://mi.guiaoleo.com/members/11472
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un diez la m\xFAsica, la comida es muy rica y son platos abundantes. Se llena bastante los viernes y s\xE1bados, pero una vez entradas las dos, los tragos son muy buenos, todos en vaso de vidrio y a precios accesibles."
+    date: 21-06-2006
+    user: http://mi.guiaoleo.com/members/9619
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar en s\xED es aceptable y la comida bastante buena, pero no es para sorprenderse.\r\n\
+      El ambiente en general es bastante bueno, pero despues de cierta hora empieza a llenarse en exceso."
+    date: 20-05-2006
+    user: http://mi.guiaoleo.com/members/8505
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida y la atenci\xF3n son buenas, aunque las carnes son caras en relaci\xF3n con el resto de la carta. \r\n\
+      El lugar no est\xE1 parejo en cuanto a las ambientaciones: el patio est\xE1 muy ca\xEDdo y es impecable el sal\xF3n central. \r\n\
+      Despu\xE9s de la medianoche se llena de gente y de ruido. \r\n\
+      Si mejoran, vale la pena."
+    date: 04-04-2006
+    user: http://mi.guiaoleo.com/members/6236
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui dos veces a este lugar, la verdad que me encant\xF3. La comida es muy buena, hay platos que son para compartir por lo grande que son (es una buena manera de salir a un buen lugar, comer bien, y no gastar tanto). Temprano es tranquilo, ya llegando las doce de la noche el lugar se llena de gente, por lo que ya no es tan c\xF3modo quedarse a cenar. \r\n\
+      La atenci\xF3n, un poco lenta para mi gusto. Pero de todos modos, volver\xEDa a elegir Sonoman. \r\n\
+      La entrada de papas con mollejitas es espectacular."
+    date: 24-03-2006
+    user: http://mi.guiaoleo.com/members/7226
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es excelente, la m\xFAsica tambi\xE9n, el p\xFAblico no tanto."
+    date: 18-03-2006
+    user: http://mi.guiaoleo.com/members/344
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comida, ambiente, atenci\xF3n y m\xFAsica diez puntos. Muy buena onda."
+    date: 27-01-2006
+    user: http://mi.guiaoleo.com/members/6069
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El ambiente es muy copado, la atenci\xF3n es muy buena y la comida es adecuada. \r\n\
+      El mix de los tres conceptos es positivo."
+    date: 27-01-2006
+    user: http://mi.guiaoleo.com/members/6162
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida y el servicio. El ambiente y la m\xFAsica son lo mejor de todo."
+    date: 28-12-2005
+    user: http://mi.guiaoleo.com/members/5572
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comida excelente con atenci\xF3n informal tipo bar de copas."
+    date: 20-12-2005
+    user: http://mi.guiaoleo.com/members/5438
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena onda.
+    date: 05-12-2005
+    user: http://mi.guiaoleo.com/members/5167
+    ambiente_rank: excelente

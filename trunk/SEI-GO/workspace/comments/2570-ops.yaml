@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Parrilla de barrio con buenos precios, atenci\xF3n normal y comida bien servida. La parrillada libre incluye provoleta, mollejas y lech\xF3n adem\xE1s de todo lo tradicional. Venden gaseosa grande."
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/69324
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui a comer a este restaurante seducida por los comentarios que le\xED, pero lamentablemente mi experiencia fue p\xE9sima: mala atenci\xF3n, comida fr\xEDa, un sujeto en la puerta que m\xE1s que dar la bienvenida parece querer ladrarte... El precio, m\xF3dico. Pero si por comer a buen precio hay que dejarse maltratar... Yo NO lo recomiendo."
+    date: 17-11-2007
+    user: http://mi.guiaoleo.com/members/35728
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "A pesar que vivo cerca fue la primera vez que fui, la comida muy buena, la atenci\xF3n del mozo excelente en cuanto al ambiente no puedo decir mucho porque estuve comiendo afuera que es para fumadores lo cual no me molesto. En definitiva es muy recomendable, fundamentalmente por la relacion precio calidad, de hecho ya me lo dejo agendado."
+    date: 04-11-2007
+    user: http://mi.guiaoleo.com/members/35119
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Bueno y cl\xE1sico restaurant de barrio, atendido por sus due\xF1os. No es caro y los pastas para compartir. "
+    date: 09-10-2007
+    user: http://mi.guiaoleo.com/members/33669
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Tipica parrilla bien de barrio donde se come muy bien y barato. La atencion es muy buena y no tenes que esperar mucho tiempo para que te traigan la comida. 
+      Lo recomiendo, voy siempre.
+    date: 15-07-2007
+    user: http://mi.guiaoleo.com/members/28219
+    ambiente_rank: excelente

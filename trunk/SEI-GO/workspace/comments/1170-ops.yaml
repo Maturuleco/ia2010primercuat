@@ -1,0 +1,125 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: El ambiente del lugar es agradable, modernozo, pantalla gigante, le falta un sector fumador!!. Todo lo demas es pesimo, caro, mala calidad en la comida.  Mala calidad en sus tragos. Para no volver!
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/74150
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es un lugar que no aporta nada mas que sacarte el hambre de apuro. No se especializa en nada pero tiene variedad. Es un lugar muy de cadena, sin mucho valor agregado. Un 6.
+    date: 18-01-2010
+    user: http://mi.guiaoleo.com/members/75165
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo mejor que tiene este lugar es la practicidad, por su ubicaci\xF3n privilegiada. Todo lo dem\xE1s, deber\xEDa mejorarlo. La comida est\xE1 bien pero nada m\xE1s, y los precios son muy altos para ofrcer algo tan gen\xE9rico y poco especial. Lo peor, para m\xED, es el ambiente: la ac\xFAstica hace que siempre haya ruido, incluso cuando no est\xE1 tan lleno. Es imposible hablar sin elevar el tono de voz.\r\n\
+      S\xF3lo volver\xEDa con amigos, para tomar algo r\xE1pido."
+    date: 04-01-2010
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Le dejo un voto solo por las papas fritas EXCELENTES  que nos sirvieron. Estoy cansada de pedir papas y que me traigan 5 papas locas y me las cobren como un bife. Ac\xE1 nos sirvieron una bandeja tan grande que hasta sobraron algunas, buen\xEDsimas y a precio normal. Tomamos un fernet y una fanta tambi\xE9n."
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/72436
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "A ver... si sos pizzer\xEDa vende pizzas hermano. El otro quise ir a La Cholita y como hab\xEDa mucha gente y hac\xEDa frio fui a este lugar... ped\xED unos \xF1oquis capresse que cuando me los trajeron no lo pod\xEDa creer, eran literalmente \xF1oquis hervidos, apelotonados, pasados y sin nada m\xE1s. Como gran cosa el mozo me ofreci\xF3 aceite de oliva y eso me sali\xF3 $40 jajaja, imaginate si iba un sabado, los iba a pagar el doble porque hay que fumarse a los \"comicos\" que amenizan la velada... com\xED mejor en Peter\xB4s Hot Dog"
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/66723
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar zafa para ir con amigos, para ver el futbol codificado o para ver los shows, muy bien ubicado...
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/49212
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la atenci\xF3n del mozo  y la comida muy buena y fresca. Abundante para dos personas. Altamente recomendable como un lugar informal."
+    date: 29-11-2008
+    user: http://mi.guiaoleo.com/members/21642
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Los domingos a la noche tienen otro sabor disfrutando del show de Mart\xEDn Pastor y los \xFAltimos de la fila en el Cinema de Santa Fe y Callao. Imperdible y para todas las edades!"
+    date: 03-08-2008
+    user: http://mi.guiaoleo.com/members/33364
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar esta bien ubicado, la atenci\xF3n no es mala pero la comida tarda demasiado en venir, 20 minutos por una ensalada capresse lo dice todo, en el precio te estan cobrando la zona, porque lo demas no lo vale. No creo volver"
+    date: 02-03-2008
+    user: http://mi.guiaoleo.com/members/39927
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9sima atenci\xF3n. Muy caro para lo que ofrecen. Comida regular."
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/38043
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: fui varias veces porque el lugar esta muy bueno y cerca.la comida es rica pero es medio caro por lo que venden. podrian ser un poco mas baratos, pero bueno.. esta justo en cabildo y juramento.. que se puede esperar...! igual se recomienda!
+    date: 12-02-2008
+    user: http://mi.guiaoleo.com/members/39998
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Realmente la comida fue horrible y el servicio bastante ausente.
+    date: 23-10-2007
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Lo mejor del lugar es la ubicaci\xF3n, como punto de encuentro; el resto deja bastante que desear...  "
+    date: 05-08-2007
+    user: http://mi.guiaoleo.com/members/27307
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lo comida, aunque rica, es cara. Buena la predisposici\xF3n del mozo y a pesar de la decoraci\xF3n el resto es sobrio. La ubicaci\xF3n es su \xFAnico atractivo digno de llamar as\xED."
+    date: 03-05-2007
+    user: http://mi.guiaoleo.com/members/14801
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es un poco caro. Hay poco para elegir y tardan bastante. La comida es normal como para salir del paso.
+    date: 02-05-2007
+    user: http://mi.guiaoleo.com/members/22081
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente ubicaci\xF3n y calidad de comidas. La atenci\xF3n OK."
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19020
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La picada es abundante, abundaban las papas sobre los calamaretti que hay que buscarlos con lupa. De todos modos est\xE1 bien, pero el ambiente es muy ruidoso.\r\n\
+      La atenci\xF3n del mozo es muy eficiente pero brusca.\r\n\
+      Si vuelvo es sin mayores pretenciones."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/5399
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Si bien la comida no estaba muy buena, y no hab\xEDa demasiado variedad, el servicio fue muy bueno. Me hab\xEDan dado equivocadamente una carta del mediod\xEDa y, como ya hab\xEDa elegido, me lo hicieron sin dudar. "
+    date: 22-11-2006
+    user: http://mi.guiaoleo.com/members/9424
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy lindo el ambiente y como esta todo ambientado. \r\n\
+      La comida es buena, s\xF3lo que para traerla tardaron m\xE1s de la cuenta y para colmo el lugar no estaba colmado como para justificarlos."
+    date: 16-11-2006
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es buena, el lugar agradable, el precio caro y la atenci\xF3n p\xE9sima (poco personal)."
+    date: 11-03-2006
+    user: http://mi.guiaoleo.com/members/203
+    ambiente_rank: muy bueno

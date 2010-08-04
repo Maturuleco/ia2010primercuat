@@ -1,0 +1,95 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Increible el menu del medio dia. Ya fui a la noche y la calidad de la comida siempre ha sido superior y el menu del dia es realmente bueno por un precio muy accesible.
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/79901
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      ESPECTACULAR!!!! Se come muy muy bien y el precio es muy accesible.
+      
+      Muy recomendable!
+    date: 27-04-2010
+    user: http://mi.guiaoleo.com/members/80908
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Impecable, una grata sorpesa
+    date: 27-04-2010
+    user: http://mi.guiaoleo.com/members/2219
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar agradable, con espacio entre mesa y mesa, buena m\xFAsica de fondo. Eficaz atenci\xF3n pese a tener una moza, la comida es muy buena; las tapas excelentes lo mismo que los panes (hechos en el lugar y tibios). El bife muy bien hecho y jugoso y las papas crocantes reci\xE9n cocinadas.El crumble no result\xF3 tan bueno, ten\xEDa demasiado gusto a harina.Para volver."
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/78029
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El sitio est\xE1 muy bien: sencillo pero con buena ambientaci\xF3n; la atenci\xF3n correcta, pero lenta si el sitio est\xE1 lleno, ya que solo hay una moza; opiniones variadas en nuestra mesa respecto a la calidad de la comida, el salm\xF3n blanco envuelto en jam\xF3n crudo un plato sabrosos y novedoso, el bife de chorizo dej\xF3 bastante que desear en cuanto a cocci\xF3n y sabor. Carta de vinos no muy amplia pero con buenas elecciones a precios promedios del mercado. En resumen, un buen restaurante en el \xE1rea de San Telmo que merece, despu\xE9s de unos meses, una segunda oportunidad para visitarlo."
+    date: 09-12-2009
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Conocimos al cocinero quien nos guio y aconsejo muy bien. Esmerada atencion y productos de primera clase muy originales
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/72225
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida muy rica y bien presentada, con buenos ingredientes. El lugar es c\xE1lido con las mesas separadas."
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy recomendable, excelente la comida, muy buena disposicion de las camareras y del chef, los 2 pedimos cambios en el plato original y nos los hicieron sin problemas. La pasta que yo comi estaba impecable, fresca y con una salsa muy creativa, hacia mucho tiempo que no saboreaba un plato nuevo y casero como este. No se lo pierdan!
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/13206
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Todo muy rico y buenisimo. Ambiente agradable y trato familiar a muy buen precio.
+    date: 30-08-2009
+    user: http://mi.guiaoleo.com/members/68349
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui recomendada por amigos y la verdad nos encant\xF3. La comida estaba exquisita y los camareros fueron muy amables.\r\n\
+      Repetiremos sin duda."
+    date: 28-08-2009
+    user: http://mi.guiaoleo.com/members/68338
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pocos platos, pero todos elaborados, satisfacen tanto a turistas, como a porte\xF1os. Comenc\xE9 con unas empanadas de cordero, muy gustosas por cierto. Continu\xE9 con la bondiola caramelizada con peras asadas y pur\xE9 de calabaza y jengibre: las peras no vinieron, y el pur\xE9 result\xF3 algo aguachento y r\xFAstico, pero la carne estuvo realmente deliciosa. Por \xFAltimo, me anim\xE9 a los Sorrentinos de almendra, mozzarella y jam\xF3n: bien de textura, pero el relleno, tan solo un picadillo de los 4 ingredientes, sin gracia y con poco sabor. Conclusi\xF3n: volver\xEDa por la bondiola, que adem\xE1s de exquisita, es accesible."
+    date: 28-08-2009
+    user: http://mi.guiaoleo.com/members/2647
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: estuvo todo muy bien,los platos bien abundante y la atencion de primer nivel.
+    date: 18-08-2009
+    user: http://mi.guiaoleo.com/members/67727
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos a festejar un cumplea\xF1os con un grupo de amigas y comimos a reventar, un lujo, los platos super abundantes, despu\xE9s nos quedamos tomando unos tragos en el sub-suelo, la verdad re cool."
+    date: 16-08-2009
+    user: http://mi.guiaoleo.com/members/67659
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Una propuesta de menu ejecutivo muy acertada y con opciones sabrosas. La presentacion aceptable, platos de buen sabor y ambiente relajado. Precio-calidad excelente.
+    date: 28-07-2009
+    user: http://mi.guiaoleo.com/members/37537
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es una buena alternativa en la zona de San Telmo, buena comida en un ambiente intimo y relajado. Recomiendo preguntar por Juan, el cocinero, para que recomiende la especialidad del dia. Muy buena relacion calidad/precio y buena carta de vinos.
+    date: 24-07-2009
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: bueno

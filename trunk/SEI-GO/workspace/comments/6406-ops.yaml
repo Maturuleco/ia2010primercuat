@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenos los platos, aunque a veces tardan o llegan a destiempo. Buena la calidad de la carne. Muy bueno el ambiente de cantina. Relaci\xF3n calidad/precio inmejorable. Un cl\xE1sico."
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/59766
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hasta ahora, la mejor relaci\xF3n precio/calidad de Buenos Aires."
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/25313
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "es una clasica cantina o mas bien bodegon con menu acotado a parrilla, pastas y pescado pero el due\xF1o, pedro, esta abierto a pedidos especiales, por lo que hemos comido ostras, gambas al ajillo, almejas gratinada, cochinillos, ni\xF1os envueltos en repollo, etc. etc. a precios humanos y excelente atencion en familia. muy recomendable."
+    date: 06-12-2009
+    user: http://mi.guiaoleo.com/members/478
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Bodeg\xF3n con precios muy convenientes y atenci\xF3n de primera. Decoraci\xF3n ecl\xE9ctica y plagada de detalles farandulescos. Muy recomendable!"
+    date: 01-11-2009
+    user: http://mi.guiaoleo.com/members/19129
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente ambientaci\xF3n, como los restaurantes de barrio de hace a\xF1os, atendido por Pedro, el due\xF1o, lo que le da un toque familiar especial."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/69742
+    ambiente_rank: muy bueno

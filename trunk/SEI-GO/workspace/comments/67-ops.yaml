@@ -1,0 +1,92 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Habia ido al Garbis de Monroe donde comi rico, pero este Garbis no tiene nada que ver, supongo que sera una concesion. La comida regularona, la atencion igual. No vuelvo..
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/81414
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Al lugar evidentemente le intentaron dar una vuelta de tuerca. Ahora no solo es el tradicional Garbis sino que tambi\xE9n ofrecen comida criolla, y evidentemente la ambientaci\xF3n tambi\xE9n cambi\xF3.\r\n\
+      Comimos comida oriental y occidental ambas bien hechas y muy adecuadas en la relaci\xF3n calidad precio."
+    date: 06-05-2010
+    user: http://mi.guiaoleo.com/members/37315
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida muy rica, el lugar es bastante com\xFAn, no es nada caro."
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Realmente me sorprendi\xF3 la baja calidad de la comida. Hab\xEDamos ido en un par de oportunidades pero esta vez salimos realmente decepcionados y no volveremos. No hablo de la cantidad, pues al ser libre uno puede comer cuantas veces quiera, pero no hicimos uso de esta opci\xF3n ya que lo que nos serv\xEDan era francamente malo. El ambiente super depresivo."
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/44899
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "He ido a varias veces al Garbis de Palermo, pero dejo mi opinion porque fue la primera vez en Belgrano. Hubo un malentendido con la promocion de cumplea\xF1os, que no fue clara. El resto, bordeo lo excelente, en cuanto a abundancia y buen sabor de los platos. El Keppe Crudo y el Hummus, excelentes!"
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/16880
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "He ido con anterioridad a este local y a otros locales de esta cadena, pero es la primera vez que pongo mi opinion en la Guia Oleo, simplemente para exponer que el nivel, en cuanto a calidad de comidas y limpieza ha caido a un nivel PAUPERRIMO. Los platos calientes, o vinieron HELADOS o, con suerte, QUEMADOS. La limpieza en gral y los ba\xF1os en particular, deja mucho que desear. El precio no justifica la comida y hasta han eliminado las \"islas\", por lo que servirse las entradas y los postres, tampoco es tarea facil, ya que la moza se toma sus laaargos minutos para entregar lo pedido."
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/6396
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Razonable delivery que cumple con la propuesta.
+    date: 04-02-2008
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena opcion a la hora de solicitar un delivery por la zona de Belgrano, llegan r\xE0pido, con la comida caliente y como siempre, muy rica. "
+    date: 09-11-2007
+    user: http://mi.guiaoleo.com/members/24805
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Nada del otro mundo: la comida se podria mejorar, demasiado pesada. Los ba\xF1os necesitan atenci\xF3n urgente! El local algo fr\xEDo, desangelado. "
+    date: 05-11-2007
+    user: http://mi.guiaoleo.com/members/34780
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy buen resto, la comida excelente y tambien la atencion. Ideal para animarse a una nueva experiencia
+    date: 14-10-2007
+    user: http://mi.guiaoleo.com/members/34065
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Servicio muy lento, faltar\xEDa m\xE1s personal. Estaba apurada y quer\xEDa pagar, ped\xED la cuenta al pedir el postre y me la trajeron 20 minutos despu\xE9s. La comida est\xE1 muy bien en el men\xFA ejecutivo, platos abundantes. Pero tardaron tanto en atenderme y cobrarme que no volver\xEDa, al menos si tengo regresar al trabajo despu\xE9s. "
+    date: 22-08-2007
+    user: http://mi.guiaoleo.com/members/15020
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es una buena opci\xF3n de mediod\xEDa para comer r\xE1pido y rico. La comida es de buena calidad, aunque un poco salada para mi gusto. Hay muchas opciones, a\xFAn por fuera de lo que ser\xEDa la especialidad del lugar. La ambientaci\xF3n, agradable sin grandes pretensiones. "
+    date: 13-07-2007
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida tiene demasiada sal y demasiada grasa. No me gusto. "
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/25703
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Muy buena opcion para delivery, servicio eficiente y entrega rapida.  Buena comida, carta variada y correcta relacion precio calidad.  Recomendable.
+    date: 26-05-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "L\xE1stima que para ir al ba\xF1o hay que subir por escalera dos pisos. Lo dem\xE1s, excelente."
+    date: 10-01-2007
+    user: http://mi.guiaoleo.com/members/15626
+    ambiente_rank: excelente

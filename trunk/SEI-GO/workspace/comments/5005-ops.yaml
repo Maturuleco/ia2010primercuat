@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Restaurant tradicional sin lujos no nada especial para destacar en una carta extensa. Buena atenci\xF3n de parte de los mozos pero algo lenta en la preparaci\xF3n. Ambiente sencillo y tranquilo."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Realmente una p\xE9sima atenci\xF3n. No hab\xEDa nadie en el lugar y tardaron 50 minutos por reloj para traernos la comida. Cuando por fin lleg\xF3 la sorpresa fue terrible, a los dos Arrollados de Filet acompa\xF1ados con papas les faltaba cocci\xF3n. Las papas estaban duras y parec\xEDan recalentadas. \r\n\
+      Cuando planteamos el problema fueron solo excusas y ni siquiera nos dieron una disculpa. Realmente muy muy malo. Sin duda no volveremos m\xE1s y sugiero que tampoco lo hagan."
+    date: 13-09-2009
+    user: http://mi.guiaoleo.com/members/68951
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Un verdadero desastre: mala calidad de las carnes y achuras, mala cocci\xF3n (dudo que sea al carb\xF3n). ni adrede se puede preparar tan mal.no tienen ni idea o no les importa servir un plato decente. es buen lugar para los que estan a dieta, no com\xE9s nada porque todo es incomible."
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/63721
+    ambiente_rank: bueno

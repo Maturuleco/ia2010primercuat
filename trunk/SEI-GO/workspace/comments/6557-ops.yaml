@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: comida muyy buena y se pasa genial. Las tres b Bueno bonito y barato
+    date: 21-05-2010
+    user: http://mi.guiaoleo.com/members/82383
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Suelo ir muy a menudo y los distintos platosque ofrecen son muy bien elaborados y presentados. La atencion de primera .Muy recomendable y ademas para tener en cuenta:no cobran cubierto.
+    date: 06-05-2010
+    user: http://mi.guiaoleo.com/members/81503
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Todo muy rico y la atencion es excelente, me gusta porque tiene un aire "de barrio" en la atencion calida de los mozos. Es un pizza-cafe, no pretende mucho mas que eso, pero tiene varias cosas para elegir y todo es de muy buena calidad. Recomendable.
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/73931
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Muy buen lugar, una carta variada, y su especialidad, las pizzas que son muy buenas.
+      Exelente para ir a la noche, o a desayunar o merendar, un restaurant de cabesera para quienes viven serca.
+    date: 02-02-2010
+    user: http://mi.guiaoleo.com/members/76419
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida y atenci\xF3n, el lugar un poco ruidoso. La carta es muy variada."
+    date: 16-10-2009
+    user: http://mi.guiaoleo.com/members/70546
+    ambiente_rank: bueno

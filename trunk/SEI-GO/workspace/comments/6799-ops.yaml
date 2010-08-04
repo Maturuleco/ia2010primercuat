@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos con unos amigos un mi\xE9rcoles por la noche... 3 mesas ocupadas. La opci\xF3n de parrilla libre tiene un costo adicional si quer\xE9s mollejas (que de todas formas no hab\xEDa). El ambiente malo en el l\xEDmite de la falta de higiene. La parrilla es aceptable pero tarda una hora. Los postres incluidos son 2 b\xE1sicos.\r\n\
+      Para m\xED no califica ni para una reuni\xF3n de amigos, salvo que no sepas donde encontrar lugar :)"
+    date: 26-05-2010
+    user: http://mi.guiaoleo.com/members/77168
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos con mi familia un domingo al mediodia. Debo destacar la atenci\xF3n y buena predisposici\xF3n de la camarera que no sab\xEDa como pedir disculpas cada vez que le ped\xEDamos comida que supuestamente estaba incluida como libre y ni siquiera ten\xEDan.Poca higiene, comida p\xE9sima comimos dos bocados y nos fuimos.Es de destacar la falta de respeto hacia el cliente apelando alrecurso de tardar mil horas para traer un pedazo de carne que nunca llega y te ganan por cansancio. Un mediodia nefasto."
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/82052
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui dos veces al lugar: la primera, un domingo al mediod\xEDa sin muchas pretensiones, zaf\xF3 la comida...\r\n\
+      \r\n\
+      La segunda vez, no me gust\xF3 nada!!! En primer lugar ya no te permiten elegir a la carta; o tom\xE1s una opci\xF3n de comida libre o andate... \r\n\
+      La calidad de comida, regular tirando a mala, me trajeron unas mollejas que eran mal\xEDsimas, el chorizo idem, y la carne, floja. En fin, no creo que vuelva."
+    date: 25-04-2010
+    user: http://mi.guiaoleo.com/members/81526
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La \xFAnica opci\xF3n razonable es la de comida libre.  Dentro de \xE9sta opci\xF3n se puede elegir entre parrilla o pastas  (queda mas que claro que el lugar es una parrilla).  Entonces, la parrilla es aceptable.  Nada es de primer\xEDsima, pero no escatiman en traerte lo que quieras, y hay variedad (salvo en los postres, que son casi nulos).  En otra oportunidad prob\xE9 la opci\xF3n de pastas y fu\xE9 muy mala.  Digamos que no es para recomendar, pero tampoco para horrorizarse."
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/3412
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Para comentar sobre este lugar primero es necesario saber que es un lugar barato en d\xF3nde se come mucha carne. Olv\xEDdense de la ambientaci\xF3n o la atenci\xF3n (cuando hay mucha gente tardan mucho en atenderte o traerte la ronda de carne) pero si lo que quieren es ir a comer con amigos, no gastar mucho y comer mucho y relajados... es el lugar."
+    date: 21-01-2010
+    user: http://mi.guiaoleo.com/members/29820
+    ambiente_rank: bueno

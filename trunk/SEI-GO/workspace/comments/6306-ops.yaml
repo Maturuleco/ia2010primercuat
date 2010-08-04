@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Los waffles est\xE1n bien, nada del otro mundo. Sorprende la variaci\xF3n de precios entre salados y dulces, porque los salados vienen dos unidades y salen m\xE1s baratos que los dulces, donde s\xF3lo viene uno. A la ambientaci\xF3n le falta bastante: pretende ser moderna pero no le sale."
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/6781
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comida muy rica, excelente la atenci\xF3n del mozo, sencillo pero muy amable. Vale la pena ir a un lugar no muy transitado pero bonito. Los waffles, crocantes por fuera y soufl\xE9 por dentro, ingredientes frescos y sabrosos. Para compartir un lindo rato con hijos adolescentes."
+    date: 03-01-2010
+    user: http://mi.guiaoleo.com/members/48263
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida muy rica, mucha variedad en waffles salados y dulces. La atenci\xF3n muy buena y r\xE1pida. El lugar estaba bueno. El ambiente deca\xEDa por tener una pantalla gigante donde estaban pasando videomatch."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/56706
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Un lugar muy copado para ir con amigos, los wafles dulces estan muy buenos y los tragos tambien, recomendable.
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/60189
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: nos sentamos en un sillon muy comodo y disfrutamos de unos videos en pantalla gigante de los 80...el ambiente muy tranquilo ideal para charlar...la atencion EXCELENTEEE, como pocas veces vista y la comida muy buena sobretodo el milkshake de choco blanco, galletitas oreo y salsa caramelo...recomendable !!!
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/22965
+    ambiente_rank: bueno

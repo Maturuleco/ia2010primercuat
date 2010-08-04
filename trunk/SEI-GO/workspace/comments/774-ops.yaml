@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El buffet frio muy variado y rico. Solo dos platos calientes con poca elaboraci\xF3n. Los postres muy buenos."
+    date: 18-06-2010
+    user: http://mi.guiaoleo.com/members/45457
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El buffet es de buena calidad pero de limitada variedad. Deber\xEDan ampliar la cantidad de platos fr\xEDos."
+    date: 07-03-2007
+    user: http://mi.guiaoleo.com/members/17572
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Bueno el bufette, tanto el fr\xEDo como el caliente, pero sin mayores novedades. Los postres muy ricos y variados. \r\n\
+      Tanto el maitre como los camareros muy atentos a los tiempos del comensal sin invadir. No vi el toque de Ennio que critica siempre buscando la perfecci\xF3n. La \xFAnica critica es que me parece excesivo que cobren $7 la botella de agua com\xFAn."
+    date: 30-12-2006
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La propuesta del buffet no est\xE1 mal, pero tampoco es deslumbrante. Se destaca el ambiente c\xF3modo, tranquilo y agradable."
+    date: 29-12-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida y la atenci\xF3n. Realmente se nota el toque de un cheff como Ennio Carotta."
+    date: 23-11-2006
+    user: http://mi.guiaoleo.com/members/14443
+    ambiente_rank: excelente

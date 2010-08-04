@@ -1,0 +1,249 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Fui por recomendacion, pero no quede muy conforme. La carne estaba pasada y no conseguimos cambiarla. De todas formas volvere para darle otra chance. Quizas es un poco caro, pero esta en zona de turistas.
+    date: 04-06-2010
+    user: http://mi.guiaoleo.com/members/83357
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La carne es muy buena a pesar de que los chinchulines estaban un poco secos a mi gusto. La atenci\xF3n demora, siempre le dan prioridad a los turistas. Todo estuvo a punto y al tiempo que lo fui pidiendo con porciones generosas. De cortesia me ofrecieron al final limoncello, pero no quise. Recomendable"
+    date: 19-11-2009
+    user: http://mi.guiaoleo.com/members/72194
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente parrilla. Si bien es un lugar tur\xEDstico, la atenci\xF3n es muy profesional y las porciones generosas al gusto porte\xF1o. Muy pintoresco, tipo bodeg\xF3n de antes con gente comiendo en la barra y jamones colgando. Altamente recomendable."
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/23812
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      En realidad nos decepcionamos mucho.
+      El ambiente es muy regular y los precios parecen muy excesivos, tal vez porque quieren explotar al turista. Una botella de Bianchi Don Valentin 3/8 salio 30 pesos, que es un robo.
+      La carne tambien era cara, pero buena.
+      Lo mas avergonzoso fue cuando pedimos la cuenta (167 pesos) y el mozo nos trajo el vuelto (3 pesos) advirtiendonos que el servicio no estaba incluido. Despues pusimos unos pesos mas de propina mientras que observamos la mirada avida del mozo mirando a nuestra mes. Para mi, una falta total de caracter y profesionalismo. No volvemos mas.
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/69673
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena parrilla, pero no dejen de probar el rabo de toro, impresionante.
+    date: 03-02-2009
+    user: http://mi.guiaoleo.com/members/13262
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui a almorzar con turistas que visitaban Bs. As. De otras visitas recordaba buena parrilla con porciones abundantes y precios razonables. La parrilla sigue siendo relativamente buena, lo que se perdi\xF3 es lo otro: Ahora es caro y por lo menos en mi caso que ped\xED una simple tira de asado fue tambi\xE9n escaso, todo preparado para exprimir a los turistas lo m\xE1ximo posible. En conclusi\xF3n, ya no es recomendable."
+    date: 30-12-2008
+    user: http://mi.guiaoleo.com/members/47985
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "excelente...la mejor carne de buenos aires pagas con gusto lo que comes asi vale la pena , el ambiente un poco ruidoso pero agradable lleno de turistas tienen bastantes salones donde pasar un agradable rato entre a migos  o familia. Excelente variedad de vinos. Muy buena la comida espa\xF1ola, fabada, pulpo riquisimo... lo recomiendo"
+    date: 22-11-2008
+    user: http://mi.guiaoleo.com/members/38400
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Buen sitio.. mucho mejor que los restaurantes de puerto Madero.. por ejemplo la caballeriza que estuvo muy malo. La atenci\xF3n muy buena. El sitio est\xE1 en el centro de Bs Aires pero es bastante bonito.. el ambiente muy agradable... lo recomiendo totalmente.. un poco caro pero vale la pena"
+    date: 01-10-2008
+    user: http://mi.guiaoleo.com/members/52488
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: la parrilla es muy buena en gral, la tortilla un afano. mala relacion precio calidad. El servicio puede ser amable, agrio o cargozo dependiendo de quien te toque.
+    date: 01-10-2008
+    user: http://mi.guiaoleo.com/members/4956
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Mas de 15 a\xF1os que conozco este resto, he visto los cambios a\xF1o tras a\xF1os.\r\n\
+      He pasado navidades y recibidos a\xF1os nuevos con mi flia.\r\n\
+      Mis hijos tienen un afecto especial.\r\n\
+      Saben que pedir sin ver la carta, la parrilla es extraordinaria, entra a los ojos con facilidad.\r\n\
+      Todo es exquisito y bien preparado a gusto del comensal.\r\n\
+      La atenci\xF2n es MB quizas resulta un poco nosivo los ruidos que provienen de la cocina si su mesa esta cerca de ella.\r\n\
+      Recomiendo este lugar para que UD. y los suyos pasen un buen momento."
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/47299
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: La pasta no es fresca salvo los canelones. Las costillas de cordero realmente muy escasas para su elevado valor. El servicio de mesa y la bebida son caros en comparacion con otros servicios. Quizas nuestro presupuesto para el almuerzo no es el indicado para comer bien en este lugar preparado al por mayor para los turistas de la zona.
+    date: 05-05-2008
+    user: http://mi.guiaoleo.com/members/44519
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Exelente , mantiene la buena comida en platos simples da placer comer , platos como canelos o milanesas , muy ricas y preparadas con muy buena materia prima , el servicio es bueno pero no exelente , el lugar a veces esta demaciado lleno y no esta de lo mejor ambientado
+    date: 23-04-2008
+    user: http://mi.guiaoleo.com/members/43785
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Comida no fresca, mal\xEDsima relaci\xF3n precio/calidad, 15 minutos esperando la cuenta para pagar. "
+    date: 14-01-2008
+    user: http://mi.guiaoleo.com/members/20513
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "A comida \xE9 muito boa e os pre\xE7os tamb\xE9m s\xE3o razo\xE1veis, pois um prato d\xE1 para duas pessoas, desde quando se pe\xE7a uma entrada.\r\n\
+      O ambiente \xE9 simples por\xE9m agrad\xE1vel.\r\n\
+      O atendimento \xE9 cort\xEAs e alegre.\r\n\
+      Todas as vezes que vou a Buenos Aires procuro este restaurante e o recomendo aos amigos.\r\n\
+      Adilson F. Costa - Brasil"
+    date: 14-12-2007
+    user: http://mi.guiaoleo.com/members/37065
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Como siempre, garantizada la buena carne a un precio razonable y con eficiente servicio por mozos de xxxxxxx anios.
+      EL ambiente no lo cambiaria por nada. Tiene caracter.
+    date: 28-08-2007
+    user: http://mi.guiaoleo.com/members/30665
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la atenci\xF3n y la carne de primera, bastante caro "
+    date: 02-07-2007
+    user: http://mi.guiaoleo.com/members/25787
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fuimos a almorzar ya que todos los viernes preparan puchero; es abundante y de excelente calidad; lo recomiendo! La atencion fue de primera, pero encontramos los precios algo excedidos.
+    date: 18-05-2007
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buen ambiente y la comida es buena. El bife de chorizo y las empanadas son de los mejores de Buenos Aires. Revise su cuenta, pero disfrute el ambiente, pues es tranquilo y profesional. "
+    date: 10-04-2007
+    user: http://mi.guiaoleo.com/members/20764
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena parrilla. Los mozos te atienden bien. Es un bodeg\xF3n con ambientaci\xF3n regular y ruidoso (lleno de turistas). Recomiendo la natilla como postre, tambi\xE9n el cordero patag\xF3nico como plato principal. Chequ\xE9en la cuenta antes de pagar, por si encuentran items que no pidieron (me pas\xF3 dos veces). Los precios subieron, a mi criterio, m\xE1s de la cuenta en los \xFAltimos meses, hasta hace poco la relaci\xF3n costo-beneficio era \xF3ptima, ahora creo que es excesiva  (tal vez, por la importante presencia de turistas). No s\xE9 si volver\xEDa.  "
+    date: 07-03-2007
+    user: http://mi.guiaoleo.com/members/7438
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bueno en general todo. Com\xED chivito deshuesado para dos. Voy seguido y la comida es rica y fresca. La atenci\xF3n es esmerada y hecha por se\xF1ores que conocen su oficio. Es un lugar caro con mucho turista, pero lo vale. Recomendable."
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/10003
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "He comido tres veces y siempre la carne la han puesto como la he pedido, vuelta y vuelta. \r\n\
+      Un \xFAltimo invitado que llev\xE9 comento lo que ya sab\xEDamos, que por fin, pod\xEDa comer carne excelente con el punto que nos gusta a muchos espa\xF1oles y que nos deja apreciar su calidad. \r\n\
+      Sin duda el mejor restaurante de mi estancia."
+    date: 09-12-2006
+    user: http://mi.guiaoleo.com/members/14339
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "De las mejores carnes que he comido en mi vida. Se deshac\xEDa en la boca. \r\n\
+      El servicio es r\xE1pido y eficiente. Volver\xEDa si tuviese de nuevo la ocasi\xF3n de hacerlo."
+    date: 03-12-2006
+    user: http://mi.guiaoleo.com/members/14341
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "\xDAnico restaurante de la zona con salones separados para fumadores y no fumadores. Los platos son para compartir. \r\n\
+      Muy buen ambiente. Comida de primera sin rebusques."
+    date: 02-12-2006
+    user: http://mi.guiaoleo.com/members/14136
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "entramos casi a medianoche, huyendo de las opciones entre tur\xEDsticas, adolescentes y snobs del bajo. El resultado es que no nos decepcionamos, porque la carne sali\xF3 como ten\xEDa que salir: una porci\xF3n abundante, en el punto que pedimos. Las papas fritas deber\xEDan mejorar, pero nada grave. Es uno de esos lugares donde hay que aprender a pedir para no gastar de m\xE1s ni llevarse un chasco. En s\xEDntesis: para entrar \"faut de mieux\" (sobre todo para los fumadores, que tienen sal\xF3n aparte). Si uno la emboca, quedar\xE1 contento. Si uno la pifia, podr\xE1 echarle la culpa al mozo..."
+    date: 24-11-2006
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos por recomendaci\xF3n y, lamentablemente, comprob\xE9 que todo lo que han escrito antes es cierto. La comida y la carne, no es nada del otro mundo, se demoraron en servirnos y la carne estaba dura. El mozo aparec\xEDa, cuando quer\xEDa, y te atend\xEDa apurado (eso que somos turistas)."
+    date: 09-10-2006
+    user: http://mi.guiaoleo.com/members/13370
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El mozo es un grosero, no sirve sino que arroja la comida sobre los platos, mal trata a los clientes y hace comentarios fuera de lugar. Si el lugar propone \"pizza\" en su men\xFA debe hacerse cargo y no excusarse que es exclusivo para turistas donde se espera que cada comensal gaste m\xE1s de setenta pesos. Cenar en El Establo fue la experiencia m\xE1s desagradable que nos sucedi\xF3.\r\n\
+      \xA1No vayan!"
+    date: 10-09-2006
+    user: http://mi.guiaoleo.com/members/11902
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "No nos gust\xF3. Depende el servicio del mozo que te toque. El ambiente es una mezcla de distintas especialidades, lo que molesta cuando por ejemplo est\xE1n haciendo el caf\xE9. El sabor de la carne es exquisito, sin embargo nos toc\xF3 un pedazo duro. \r\n\
+      Hay muchos lugares mejores que este."
+    date: 31-07-2006
+    user: http://mi.guiaoleo.com/members/10729
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ya hab\xEDa ido en otras ocasiones. \r\n\
+      El servicio es apenas bueno, depende del mozo que toque. \r\n\
+      La comida bien: El matambre estaba perfecto, no as\xED el asado. \r\n\
+      La tortilla es una delicia. \r\n\
+      Tema postre: ped\xED batatitas en almibar y me trajeron higos. Estaban ricos igual."
+    date: 02-07-2006
+    user: http://mi.guiaoleo.com/members/686
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Al medio bife de lomo le faltaba un punto de cocci\xF3n. Se solicit\xF3 salsa Tabasco en varias oportunidades y no fue tra\xEDda pese a las bromas del mozo. \r\n\
+      Las papas fritas estaban marcadas. El mozo no aconsej\xF3 solicitar colita de cuadril, porque se \x93marca\x94. Es un lugar para turistas. Caro para lo que ofrece."
+    date: 07-05-2006
+    user: http://mi.guiaoleo.com/members/8284
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n es excelente y la calidad de la comida mejor aun."
+    date: 27-04-2006
+    user: http://mi.guiaoleo.com/members/8079
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fu\xED varias veces. \r\n\
+      El lugar no es la gran cosa, pero la comida es simplemente excelente. \r\n\
+      Pidan lo que pidan, sea pastas, pizzas, carne, son todos recomendables. \r\n\
+      Platos abundantes y algunos de los mozos brindan una maravillosa atenci\xF3n, aunque otros no tanto.\r\n\
+      Si se busca disfrutar de una buena comida onda \"casera\", El Establo no defrauda a nadie."
+    date: 18-04-2006
+    user: http://mi.guiaoleo.com/members/7831
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Buen lugar para comer asados. 
+      En general muy recomendable. Carne excelente.
+    date: 11-03-2006
+    user: http://mi.guiaoleo.com/members/4687
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La elaboraci\xF3n es notable. \r\n\
+      Much\xEDsimo esmero en la calidad de las materias primas tambi\xE9n. \r\n\
+      Est\xE1 abierto las 24 horas lo que es una gran ventaja. \r\n\
+      Los dos puntos en contra son algunos de los precios y el lugar no es del nivel que merecen sus platos.\r\n\
+      La parrilla es espectacular, pero no se puede dejar de probar la cocina espa\xF1ola."
+    date: 27-01-2006
+    user: http://mi.guiaoleo.com/members/6098
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor carne que he comido, el bife de lomo se derrite.\r\n\
+      El servicio no est\xE1 a nivel de la carne."
+    date: 08-12-2005
+    user: http://mi.guiaoleo.com/members/5292
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente.
+    date: 29-11-2005
+    user: http://mi.guiaoleo.com/members/5098
+    ambiente_rank: muy bueno

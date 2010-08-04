@@ -1,0 +1,41 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      La comida fue toda muy rica y abundante. El lugar es grande, es un ambiente bien familiar, cuenta con sector fumadores y un balcon para comer afuera. Cuenta con televisores para ver partidos de futbol.
+      El mozo que nos toco no era muy simpatico pero nos trato bien.
+      En caso de que te sobre comida te la envuelven para llevar.
+      muy recomendable
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/80913
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      La comida estaba muy bien, el ambiente es lindo, lo unico flojo fue el mozo que si bien habia pocas personas estaba desatento y eso que habia varios mozos para la cantidad de gente presente.
+      Precios razonables!
+    date: 22-01-2010
+    user: http://mi.guiaoleo.com/members/24247
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es uno de los bares tipicos de Buenos Aires que se fundaron a principios de los 90
+    date: 29-10-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Comida regular, con mucho por mejorar y ofrecer comida decente.
+      Realmente mala la torta de frutillas, vieja y con mal aspecto. No recomiendo pedir postres !
+      El servicio correcto. 
+      Ambiente acorde a confiteria masiva. Para no volver.
+    date: 06-10-2009
+    user: http://mi.guiaoleo.com/members/65573
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Para un bife con una caf\xE9 me pareci\xF3 caro; pero la atenci\xF3n es excelente y la ocmida muy buena."
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/66700
+    ambiente_rank: muy bueno

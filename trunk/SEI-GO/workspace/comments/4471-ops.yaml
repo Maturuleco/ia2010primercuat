@@ -1,0 +1,384 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos a cenar con amigas. El ambiente es muy bueno, acogedor. La entrada, con provoleta con morron asado y hongos y bastones de mozzarella, estuvieron muy bien. Como plato principal elegimos una parrillada del campo que realmente nos desilusion\xF3, el asado de cordero estaba muy seco y duro, al igual que el asado vacuno, la bondiola fue lo \xFAnico aceptable. La verdad qeu siendo una parrilla tendr\xEDan que mejorar esos puntos. Para destacar las papas fritas, bastones reci\xE9n hechos! muy buenas!!Los postres, panqueque de manzana y volc\xE1n estuvieron correctos. El precio nos pareci\xF3 algo elevado."
+    date: 15-06-2010
+    user: http://mi.guiaoleo.com/members/68771
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      CARISIMO y no tiene sentido.
+      Es una parrilla 100% normal.
+    date: 14-06-2010
+    user: http://mi.guiaoleo.com/members/83668
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy ameno el lugar. Se puede ir a pasar un momento agradable y tranquilo. Es bueno el servicio y la atencion en un lugar peque\xF1o y lindo."
+    date: 09-06-2010
+    user: http://mi.guiaoleo.com/members/18335
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buena carne, aunque no espectacular. Las ensaladas no son increibles pero son grandes, para compartir. Esta bueno para aprovechar el descuento de CLN, aunque si usas el descuento no te cubren el estacionamiento. El mozo que nos toco era muy bueno.
+    date: 27-05-2010
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 bien ambientado. El camarero fue muy atento, nos supo indicar bien qu\xE9 comer sin excedernos. La parrillada carranzita, completa y de muy buena calidad fue suficiente para compartir entre 4 personas sumando batatas y ensalada. La recomiendo para una salida grupal."
+    date: 07-05-2010
+    user: http://mi.guiaoleo.com/members/69255
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hab\xEDa dejado de ir por qu\xE9 habia bajado la calidad de la mercader\xEDa y habian sacado las tarjetas de cr\xE9dito... ayer volvi para darle otra oportunidad y se ve que han mejorado. Pedimos una parrillada especial La Carranzita y estaba perfecta, abundante y con todos sus cortes en perfecta cocci\xF3n,. Creo que lo \xFAnico para mejorar es la atenci\xF3n de los mozos ya que a m\xED parecer eran pocos para atender tantas mesas. Adem\xE1s con los descuentos hay una buena relaci\xF3n precio/calidad..."
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/10109
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Nada para destacar. Fuimos a comer, comimos mas o menos bien pero se notaba que la carne no era de primer\xEDsima calidad, un dato llamativo en la zona de Palermo. La carta de vinos es muy corta. El servicio estuvo bien y las porciones tambi\xE9n pero me qued\xF3 la sensaci\xF3n como que al lugar le falta una vuelta de rosca como para querer volver. Exponen algunas obras de arte interesantes."
+    date: 13-04-2010
+    user: http://mi.guiaoleo.com/members/11229
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Evidentemente las situaciones son din\xE1micas y pueden cambiar, he le\xEDdo las opiniones anteriores y mencionaban a este rest\xF3 como un lugar tranquilo. Viernes de noche estaba lleno desde temprano (21.30 hs), tardaron exactamente una hora para traernos el pedido y s\xF3lo ten\xEDamos la panera y una PEQUE\xD1A porci\xF3n de berenjenas para cuatro personas. El Lugar es agradable aunque un poco chico. La carne era muy buena y lleg\xF3 en su punto justo y el plato de pescados muy bien logrado acompa\xF1ado de verduras al wok. Volver\xEDa, aunque deber\xEDan mejorar la capacidad de la cocina."
+    date: 26-03-2010
+    user: http://mi.guiaoleo.com/members/71399
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Exelente lugar, \xEDntimo. Las parrilladas muy buenas, la carne al punto que se pidieron. Recomendamos la Terraza, muy buena ambientaci\xF3n.\r\n\
+      Volveremos para los pr\xF3ximos cumples."
+    date: 17-03-2010
+    user: http://mi.guiaoleo.com/members/78511
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar tranquilo y agradable, atenci\xF3n cordial y expeditiva, una comida de buena calidad y bien hecha. Muy recomendable!"
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/29312
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui con mi pareja por la noche con la intenci\xF3n de comer una buena parrillada; ya que es la especialidad de la casa y la fue una muy mala elecci\xF3n. La carne es malis\xEDma! El asado es falda y toda la parrillada era pura grasa imposible de comer. No lo recomiendo en absoluto."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/45378
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      malisima la atencion, no funciona el aire acondicionado en el piso de arriba, en la parrillada te traen cosas crudas y luego que las devolves te las recalientan y te las traen hechas carbon.
+      Deja mucho que desear.
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/76664
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Ambiente sin aire aondicionado, lo cual torna muy inc\xF3modo comer en dias calurosos en extremo como sucedi\xF3 el 11/02, mesera que desconoc\xEDa el servicio, escasa ensalada, en resumen servicio no acorde con lo prometido"
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/77211
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La parrilla para dos le faltaban cosas y ya parece ser que en pocos lugares te traen la parrillita a la mesa.....te llenas de humo pero la carne se mantiene perfecta....el asodo que nos trajeron estaba crudo...y lo peor a la hora de pagar no tenian la maquinita para pagar con tarjeta de credito con chip en un lugar donde el 80 % de los que estaban eran extranjeros.....si apuntan al turismo ...van por mal camino ya que las tarjetas extranjeras poseen casi todas chip ahora....horrible momento pase al no poder invitar a mis amigos esa noche.
+    date: 02-02-2010
+    user: http://mi.guiaoleo.com/members/76463
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Mollejas, chorizos y asado recalentados y con olor fuerte las mollejas... No voy a regresar
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/75832
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Con el descuento Oleo nos salio $42 por persona (comimos un plato cada uno y un postre, tomamos gaseosa)\r\n\
+      La verdad es lindo pero por lo menos los ribs de cerdo son una decepcion. Imposible encontrarle carne a las costillas, las papas muy ricas pero te cansas de buscarle la carne. \r\n\
+      Volver\xEDa pero pedir\xEDa otra cosa. El salm\xF3n que comi\xF3 mi novio estaba bien. El brownie con helado normal, nada del otro mundo."
+    date: 06-01-2010
+    user: http://mi.guiaoleo.com/members/66606
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La tabla de achuras realmente fue muy mala ya que al estar sobre la mesa mi hijo de 12 a\xF1os, que como \xFAnica expreci\xF3n dijo, que olor a ba\xF1o. La carne a parte de no ser blanda, ya ven\xEDa marcada. Y los tallarines estaban hechos un pasticho de pegote, con muy escasa salsa. Y los postres no tienen calificativos, una pena todo lo ah\xED comido. Capaz que fue un mal d\xEDa del cocinero..."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/72112
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena parrillita de Palermo, el asado muy tierno y las empanadas de carne cortada a cuchillo muy ricas. Me sorprendi\xF3 la carta de postres, con cl\xE1sicos de anta\xF1o, hace a\xF1os que no leo en el men\xFA de un restaurante la palabra \"charlotte\", que dicho sea de paso estaba muy bueno. Destacable la atenci\xF3n de Dar\xEDo, un mozo super atento y correcto. En cuanto al ambiente es mas recomendable el patio que el interior, ya que est\xE1 mejor ambientado, es menos ruidoso y posee mas intimidad."
+    date: 09-12-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar en general nos agrado, aunque la atencion pas\xF3 de atenta a molesta. Retiraron las copas de bienvenida antes de terminarla, y la camarera resulto excesivamente insistente con la propuesta.\r\n\
+      Los platos si son para mujeres dan para compartir, ya que nadie comio postre por no poder dar un bocado mas. Gracias a oleo por el descuento."
+    date: 07-12-2009
+    user: http://mi.guiaoleo.com/members/73484
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida mala, la carne de cerdo seca y la entra\xF1a cruda; la ensalada era literalmente una planta de lechuga entera. La atenci\xF3n fue buena, el ambiente muy lindo. Una mala, no funcionaban las tarjetas.Lamento no haberle hecho caso a los comentarios anteriores."
+    date: 26-11-2009
+    user: http://mi.guiaoleo.com/members/67968
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: El precio es con servicio de mesa y bebidas aparte,la comida tuvo el 50% de descuento,$ 33 por persona,todo muy bueno,volveremos.La parrillada especial es completa y tiene abundante carne.
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/69902
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: fuimo con DECI, pago el!!!! asi que eso mejora mucho la cosa. la verdad que la comida estaba muy buena, la parrillada especial alcanzo perfecto para 4 personas sin entrada y con solo una porcion de papas. si Deci lo dice, volveremos!!!
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/36058
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es la segunda vez que asistimos y est\xE1 siempre todo correcto. En esta \xFAltima ocasi\xF3n la demora de la comida fue excesiva (alrededor de 40 min) y cuando llego uno de los platos lleg\xF3 fr\xEDo. Comimos parrillada y cerdo a la miel y cerveza. El patio de arriba es para destacar."
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/61160
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Una parrilla buena pero nada de otro mundo. Lo \xFAnico que estuvo excelente fue el panqueque de manzana al rhum con helado, que ya cada vez son menos los lugares donde lo hacen bien. Los precios no tienen sentido, nada m\xE1s fui porque ten\xEDa un descuento del 50%."
+    date: 25-10-2009
+    user: http://mi.guiaoleo.com/members/70212
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos por primera vez, realmente me sorprendio, atencion espectacular, la comida abundante y riquisima!!!!! realmente lo recomiendo 101%, comimos Ojo de bife al roquefort con papas gratinadas, y pollo relleno con esparragos, panceta, jamon y queso, ademas aprovechamos el descuento oleo, gastamos $140 con vino sin postre pero pagamos $97 total por el descuento, si estan en dudas aca llego el fin, vallan que no se van a arrepentir, somos muy exquisitos y pretendemos mucho de todos y realmente supero nuestras expectativas, lo RECOMIENDO!!!!
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/12920
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fu\xE9 una noche increible y el lugar un sue\xF1o. Esa terraza hace la diferencia del resto. Muy c\xE1lida la atenci\xF3n. Vamos dos veces por semana.\r\n\
+      Muy bueno el descuento de Oleo."
+    date: 14-10-2009
+    user: http://mi.guiaoleo.com/members/70361
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente lugar. Muy buena atencion. La parrillada era gigante, abundante. Para compartir entre varios. Buenisima la terraza. La verdad q muy bueno el lugar, para recomendar
+    date: 12-10-2009
+    user: http://mi.guiaoleo.com/members/70363
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos a comer con unos amigotes, todos eximios asadores, de buen diente , y ninguno baja de los 100 kilos. Comimos provoleta de entrada que estaba bien, la parrillada, salvo la carne y el pollo, todo venia de 1 o 2 parrilladas anteriores, lo ri\xF1ones y chinchus eran microcarbones, las mollejas quemadas y algo con forma redonda, que parecia ser carne de cerdo, era una suela incomible. Papas fritas buenas, coincido en comentarios anteriores respecto de la \"patineta\" del cubierto a 7 mangos. Con descuento de guiaoleo, sin vino y sin postre gastamos 45 magos por pera. Hay opciones mejores cerca."
+    date: 28-09-2009
+    user: http://mi.guiaoleo.com/members/18643
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lindo lugar, lindo patio al fondo, tienen acuerdo con un garage, con lo cual no des vueltas para buscar estacionamiento. Los $7 de cubierto! (gran vicio de la gastronom\xEDa portena) realmente no se entienden, ni manteca te traen.. La parrillada normal, ninguna maravilla. Buenas las papas fritas, tambi\xE9n la ensalada. El servicio ordenado, copa de champagne al inicio y al fin. Buenos los postres aunque tardaron mucho. Si vas con algun descuento esta bien, sino la relacion preico calidad no es \xF3ptima."
+    date: 27-09-2009
+    user: http://mi.guiaoleo.com/members/15655
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "el lugar y la atencion fueron de primera, pero debo decir que la parrillada especial que  era para 3 o 4 personas solo ten\xEDa un chorizo y una peque\xF1a morcilla y no era tan abundante, tampoco se me pregunt\xF3 el punto en que quer\xEDa la carne y cobran 7 $ de cubierto y no dan nada, solo una berenjenas en vinagre sin sabor alguno."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/47228
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena la comida, y la atencion,muy recomendable.
+    date: 21-09-2009
+    user: http://mi.guiaoleo.com/members/3762
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy bueno el descuento de guia oleo
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/19162
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No me gust\xF3 la atenci\xF3n porque por culpa del mozo quedamos con hambre.\r\n\
+      Nos sugiri\xF3 2 entradas para 5 personas, y un asadao \"Especial\" porque era muy abundante, pero el asado es como para 2 o 3 personas.\r\n\
+      Nos hizo esperar una hora para traerlo, y ya sin ganas de pedir nada m\xE1s por la gran demora.\r\n\
+      No volver\xE9.$65 el asado y viene muy poco."
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/64806
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Supero mis expectativas... No solo por el gran descuento que ofrece Oleo (30%), sino por todo lo que me ofrecieron en la noche. Todo fue muy bueno: el servicio cordial y personalizado, el ambiente tenue y relajado (por lo menos en el piso superior) y la comida muy buena, con amplia variedad de platos a un precio razonable para la ocasi\xF3n. Por otro lado, tardaron mucho tiempo en la entrega de los platos principales, pero se jactaron de que tuvieron un problema en la cocina y se disculparon. La verdad que deber\xEDa volver para confirmar si pasa seguido esto. Fuera de eso... un lugar recomendable!"
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/51451
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar para recomendar tanto para reuniones con amigos o mas \xEDntimas. Ambiente muy agradable. La atenci\xF3n para mejorar un poquito, pero no fue mala para nada. La comida sabrosa, nosotros pedimos parrillada especial la carranzita, muy buena, \xE9ramos tres e igual sobr\xF3 bastante. Las papas fritas tambi\xE9n estaban muy ricas, no son las t\xEDpicas hervidas que te dan ganas de revole\xE1rselas al mozo. Gracias al descuento de la gu\xEDa el precio baj\xF3 de $65 a $45.50 per c\xE1pita (sin tener en cuenta la propina, claro). Excelente pol\xEDtica la de los descuentos. Volver\xE9 seguramente."
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/67151
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos con el descuento y volveria. Entrada Provoleta con hongos, muy rica. La parrillada para dos sobro y nos lo dieron para llevar. La parrillada es para tres personas. La atenci\xF2n es muy buena."
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/46571
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: un lugar ideal para celebrar un evento familiar; volvere para comprobar su ambiente y rendimiento en la semanaM toralmente recomendable
+    date: 13-09-2009
+    user: http://mi.guiaoleo.com/members/2881
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La parrillada que pedimos estaba muy buena, la carne tierna y en su punto, lo \xFAnico que tendrian que mejorar es la atenci\xF3n de los mozos, por lo menos el que nos atendio estaba muy distraido, le tuve que pedir un agua mineral 3 (TRES) veces... Por lo dem\xE1s un lugar con precios muy buenos (usando el descuento) y muy buena mercader\xEDa.\r\n\
+      Me olvidaba, el descuento que me hicieron a m\xED fue del 20 %, NO del 30 %, como dice aqui, as\xED y todo sali conforme, volvere."
+    date: 13-09-2009
+    user: http://mi.guiaoleo.com/members/10109
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar muy calido con velas, los platos muy bien servidos algunos se podian compartir, la atenci\xF3n buena.Lo que me llamo la atencion fue la cocina, esta a la vista en la entrada y muy limpia. La pasamos muy bien y aprovechamos el descuento de Guia Oleo. Es para volver"
+    date: 07-09-2009
+    user: http://mi.guiaoleo.com/members/65533
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "gracias al vale de descuento (30%) pagamos $ 295 4 personas y no comimos mucho ya que compartimos.\r\n\
+      La atenci\xF3n fue buena y el ambiente es agradable no as\xED los precios considerando el descuento y la cantidad de comida."
+    date: 05-09-2009
+    user: http://mi.guiaoleo.com/members/25162
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Despu\xE9s de varios comentarios negativos,fue una grata sorpresa descubrir este lugar.En un ambiente  c\xE1lido y distendido pasamos en familia una hermosa velada.La atenci\xF3n es un tanto lenta pero amable y correcta.Adem\xE1s de parrilla,hay platos de cocina muy buenos, como las pastas con salsas muy sabrosas y los ribs de cerdo con salsa barbacoa.Los postres son muy buenos y lo realmente interesante es la relaci\xF3n precio/calidad,que sumado a la promoci\xF3n de GO,nos dejaron super contentos con esta visita a La Carranzita.Para volver sin duda!"
+    date: 02-09-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy buena las ensaladas, provoleta, rabas y milanesitas de muzzarella. La atencion es buena
+    date: 31-08-2009
+    user: http://mi.guiaoleo.com/members/43629
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Segunda vez que vamos e x e l e n t e !!! la comida riquisima!! relacion precio-comida muy bien y eso que fuimos sin ningun descuento.muy recomendable
+    date: 30-08-2009
+    user: http://mi.guiaoleo.com/members/67844
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Los precios son buenos, comimos parrilla para 2 y la verdad que solo el pollo estaba bien, lo demas estaba duro o sin gusto. No puedo opinar de los platos de cocina, pero la carta era tentadora.
+      Volveria solo para probar otros platos, como parrilla no me gusto.
+    date: 29-08-2009
+    user: http://mi.guiaoleo.com/members/42678
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La verdad que la relaci\xF3n entre precio y comida esta buena y mejor aun con el cup\xF3n de la gu\xEDa. La porci\xF3n fue justa para los que eramos.\r\n\
+      Lo \xFAnico negativo fue el asado un poco duro pero nos dijeron que ese d\xEDa hab\xEDan tenido un problema con la carne y nos pidieron disculpas. Creo que volver\xE9"
+    date: 28-08-2009
+    user: http://mi.guiaoleo.com/members/68156
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "En lineas generales la comida es muy buena. Platos bien elaborados a un precio mas que razonable incluido el descuento OLEO. Prob\xE9 las costillitas de cerdo barbacoa, buena porci\xF3n, abundante y con buena materia prima. Los raviolones de salm\xF3n ahumado excelentes, el pollo al verdeo igual, los sorrentinos idem. Lo \xFAnico a mejorar son los tiempos y las rabas de entrada, que son las peores que com\xED en mi vida, y las consumo desde que tengo uso de raz\xF3n. As\xED que a tener en cuenta. La velada muy agradable en un lugar c\xE1lido, y repito con una buena oferta con la pol\xEDtica de descuentos."
+    date: 27-08-2009
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "La verdad que tengo que diferir con alguno de los comentarios que vi sobre este restaurant. Por lo menos en mi caso la comida estaba buena. Pedi el bife de chorizo porte\xF1o que venia con morron papas y panceta y quizas lo unico para criticar fue que la panceta estaba muy salada para mi gusto pero lo demas estaba todo muy bien. Para aclarar que era para compartir el plato."
+    date: 26-08-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fuimos por el descuento de Guia Oleo. La mayoria de los lugares palermitanos repletos, y este estaba casi vacio. El lugar es lindo. La commida es buena. No habia vino tipo Trapiche o Postales (no tenian stock), de modo que tenias que irte a Nieto S. La atencion mala. Esmerada pero no alcanzaba. No conocia menu. Olvido traer platos. Cariiiisimo en relacion al lugar/servicio/comida. No volveria.
+    date: 26-08-2009
+    user: http://mi.guiaoleo.com/members/60359
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos con el descuento de la gu\xEDa. El lugar vac\xEDo y la atenci\xF3n a pesar de esto lenta y mala. La comida buena."
+    date: 25-08-2009
+    user: http://mi.guiaoleo.com/members/14091
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: realmente los comentarios de la guia no condicen con mi experiencia del lugar.Soy visitante frecuente gracias a que todas las veces que fui comi muy bien y me atendieron de primera.Segire yendo
+    date: 13-08-2009
+    user: http://mi.guiaoleo.com/members/44031
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comentarios negativos le\xEDdos previos casi nos hacen desistir de ir, pero con el descuento que ofrec\xEDa la Guia Oleo, decidimos ir. No nos arrepentimos. La cena fue muy buena, con una parrillada para tres personas muy abundate. La ensalada Caesar estaba muy buena, al igual que la tortilla espa\xF1ola. El postre muy bueno tambi\xE9n y la atenci\xF3n fue medida y muy correcta. Posiblemente la cosa cambie los fines de semana cuando la zona es demasiado concurrida, pero una cena este d\xEDa de semana (jueves) fue realmente un grato momento. El lugar (SIN considerar el descuento), NO es caro. Volveremos."
+    date: 06-08-2009
+    user: http://mi.guiaoleo.com/members/4899
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Me pareci\xF3 que la calidad de la comida era despareja. El matambre de cerdo, por ejemplo, era dur\xEDsmo en cambio el pollo a la mostaza estaba muy rico. Funcion\xF3 perfecto la promoci\xF3n de la tarjeta \xD3leo. Si no fuera por esta promoci\xF3n tal vez ser\xEDa un poco caro."
+    date: 03-08-2009
+    user: http://mi.guiaoleo.com/members/7848
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Al chef le tendrian que recomendar que coma scarparo. La que sirven ahi es dulce de terror. Arruino los ravioles.\r\n\
+      La entra\xF1a regular. La ensalada pedimos rucula y nos trajeron rucula con lechuga.\r\n\
+      La carta de vinos es salada.\r\n\
+      No lo recomiendo."
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/66704
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los comentarios previos nos hac\xEDan dudar, pero, descuento de por medio decidimos a probar. Estaba repleto porque era 29 y ofrec\xEDan \xF1oquis GRATIS, de todas maneras nuestra mesa (a pesar de haber llegado un poco tarde) estaba reservada, la atenci\xF3n fue muy buena, los consejos del mozo muy acertados, la parrillada muy buena y abundante, el \xFAnico problema es que la sirven en las planchas de hierro y se enfr\xEDa (deber\xEDan usar los t\xEDpicos braseros). La carta de vinos es un poco corta pero hay un par elegibles, el postre muy rico, la m\xFAsica piola y con el descuento es MUY BARATO. Volver\xEDa."
+    date: 29-07-2009
+    user: http://mi.guiaoleo.com/members/19409
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "me llaman la atenci\xF3n los comentarios. la moza nos atendi\xF3 muy bien, el ambiente es muy lindo y la carne muy buena. la trajeron en el punto requerido.\r\n\
+      si bien la carta de vinos es pobre tampoco es mala.\r\n\
+      buena m\xFAsica, lugar apacible... sin esa cosa fashion est\xFApida de la zona. el tiramis\xFA me pareci\xF3 excelente. l\xE1stima que al principio, en lugar de ofrecerte copa de champan, te ofrecen un espumante blanco... eso lo hace un poco berreta, nada m\xE1s."
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: El lugar es ruidoso y la comida fue un desastre. La ensalada llego tardisimo y aun peor el matambre. Peor aun cuando nos dimos cuenta que este ultimo era pura grasa camuflado por el queso. Luego nos permitieron elegir postres pero finalmente los cobraron porque dijeron que deberiamos haber devuelto la comida que habia llegado 50 minutos despues del pedido. Muy mal.
+    date: 07-06-2009
+    user: http://mi.guiaoleo.com/members/25832
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Relacion precio-calidad buena,recomedable la parrillada carranzita, el ambiente familiar y agradable.
+    date: 24-05-2009
+    user: http://mi.guiaoleo.com/members/63993
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El servicio es p\xE9simo, el precio es razonable.  Tuve que levantarme 3 veces a buscar aceite, sal, pan, etc.\r\n\
+      Cuando pedimos el postre , nos trajeron el panqueque frio y sin el helado.  El helado apareci\xF3 15 minutos despu\xE9s , y obviamente lo devolvimos.  Ten\xEDan un solo mozo para muchas mesas, una pena"
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/23529
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena parrilla, excelente atenci\xF3n y clima muy agradable. Precio acorde al servicio, algo poco com\xFAn en la zona."
+    date: 17-04-2009
+    user: http://mi.guiaoleo.com/members/42197
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "La carne estaba bien, lo bueno es que tambien tienen pastas y platos de cocina, el servicio bien y la atenci\xF3n de la due\xF1a fu\xE9 muy buena nos convid\xF3 con un champagne. Lo que si el ambiente cambi\xF3 ahora tienen obras de arte en las paredes y eso lo hace m\xE1s c\xE1lido. Algo distinto en Palermo. Est\xE1 para recomendar."
+    date: 16-04-2009
+    user: http://mi.guiaoleo.com/members/61164
+    ambiente_rank: muy bueno

@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: comimos delicioso. platos super elaborados. la ambientacion maso pero con la buena comida y la atencion lo compensan ... gracias por una hermosa velada!!
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/82239
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un lugar at\xEDpico. Un lugar muy prolijo pero con mesas y sillas t\xEDpicas de un lugar de bajo nivel. La carta es igual que la de los mejores resturantes conplatos exquisitos como pulpo, ravioles negros de salm\xF3n junto a comidas muy simples. Es recomendable"
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Una carta y comida excelente y destacable, del mejor nivel. La ambientaci\xF3n es de un resturant chino"
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/80682
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Sorprendi\xF3 agradablemente. Un hallazgo en Parque Chacabuco. Parece un comedor de barrio y con una gran pecera en la vidriera un restaurante chino. Sin embargo la carta es amplia, variada y la cocina es muy buena.Y tardan en servir lo que requiere hacer un plato. No hubo precocci\xF3n ni maracado de nada. Le falta carta de vinos. Si andanpor el barrio o planean conocer algo nuevo ni lo duden. Las gambas al ajillo deliciosas, las rabas crocantes nada aceitosas la bondiola para compratir sin problemas."
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/9571
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar muy acogedor en Parque Chacabuco. Muy c\xE1lida atenci\xF3n y comida variada y muy sabrosa."
+    date: 05-04-2009
+    user: http://mi.guiaoleo.com/members/60881
+    ambiente_rank: excelente

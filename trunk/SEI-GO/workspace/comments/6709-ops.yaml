@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Empezo como buena opcion en devoto, iba casi diariamente. la cocina es lentisima, y la calidad y servicio en picada.lastima
+    date: 04-07-2010
+    user: http://mi.guiaoleo.com/members/38513
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Este restaurante comenz\xF3 siendo muy bueno el a\xF1o pasado, pero ahora cambi\xF3, tanto en la atenci\xF3n como en la relaci\xF3n precio-calidad. Ya no lo recomiendo. Demasiada espera para recibir lo que se da."
+    date: 01-07-2010
+    user: http://mi.guiaoleo.com/members/42601
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: lo visito a diario para almorzar ya que trabjo relativamente cerca del lugar, mas alla que paso por un par de pizzerias y restaurant antes de kass, es a mi entender bastante superior a sus competidores direcos, se destaca la calidad de la comida, el savor que logran darle a cada plato por mas, la limpieza es muy buena y la atencion es dedicada y familiar, se nota que les gusta la gastronomia por que se ve la dedicacion.
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/70696
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: una buena opcion en el barrio de devoto, muy buena atencion, muy buena comida, y precios buenos. Recomendable
+    date: 12-10-2009
+    user: http://mi.guiaoleo.com/members/38513
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un lugar de barrio con muy buena atenci\xF3n. El men\xFA del d\xEDa, de 32 $ es verdaderamente aconsejable. Lo recomiendo"
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/42601
+    ambiente_rank: muy bueno

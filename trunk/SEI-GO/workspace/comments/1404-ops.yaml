@@ -1,0 +1,28 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buen lugar para divertirse, con amigos o en pareja.\r\n\
+      La comida no se destaca, pero si uno va con actitud, seguramente la pasar\xE1 muy bien."
+    date: 04-09-2008
+    user: http://mi.guiaoleo.com/members/16053
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es para mayores de 35 (largos...) por m\xE1s que a la entrada diga que es para m\xE1s de 26...tengo 32 y era una \"nena\" ahi..."
+    date: 15-07-2007
+    user: http://mi.guiaoleo.com/members/26777
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Muy bueno el lugar ya sea ambiente, musica y gente.
+      Muy recomendable!!!!
+    date: 18-11-2006
+    user: http://mi.guiaoleo.com/members/13739
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy cara la bebida.
+    date: 22-07-2006
+    user: http://mi.guiaoleo.com/members/10451
+    ambiente_rank: muy bueno

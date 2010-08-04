@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fui con amigos a comer pizza y estaba muy rica, el ambiente no es gran cosa, ni la atencion tampoco pero pasar un momento entre amigos pasa...
+    date: 21-03-2009
+    user: http://mi.guiaoleo.com/members/30308
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Pizzeria con sabor de barrio en medio de Palermo, algo dificil y que logran hacerlo realidad sus veteranos y atentos mozos, lo mejor del local adem\xE1s de las empanadas de at\xFAn. Pizzas buenas (anchoas deliciosa) y platos sabrosos que dependen demasiado del punto del cocinero."
+    date: 08-03-2009
+    user: http://mi.guiaoleo.com/members/49940
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Generalmente trato de huir de estas pizzer\xEDas-restaurante pero se dio de caer en \xE9ste y, con mi acompa\xF1ante, resolvimos tirarnos a la pileta y pedir lomo al champignon y escalopes al marsala. Nada del otro mundo, por cierto, pero en otros lugares he tenido experiencias escalofriantes con platos tan simples como \xE9stos. Y, la verdad, estaban muy apropiadamente resueltos. Y el panqueque de manzana que cerr\xF3 la noche tambi\xE9n sac\xF3 un aprobado. Eso s\xED: ser\xE1 posible que se cuide m\xE1s la limpieza de los ba\xF1os, esa materia tan dif\xEDcil de aprobar en tantos restaurantes porte\xF1os?"
+    date: 25-02-2009
+    user: http://mi.guiaoleo.com/members/18497
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La pizza es buena , pero hay mucho mejres , por la zona en la que esta podrian mejorar las instalaciones y la limpieza.
+    date: 21-07-2008
+    user: http://mi.guiaoleo.com/members/47801
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "la atenci\xF3n es mas que excelente, como la de antes; con mozos conocedores y muy atentos.\r\n\
+      la especialidad es la pizza, pero la pasta no deja de ser muyyy ricaa. En general, todos los platos son buenos.\r\n\
+      recomendable  y relativamente economico."
+    date: 08-07-2008
+    user: http://mi.guiaoleo.com/members/47228
+    ambiente_rank: muy bueno

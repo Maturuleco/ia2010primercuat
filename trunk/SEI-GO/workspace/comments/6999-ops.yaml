@@ -1,0 +1,303 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "V\xEDa esta pagina encontramos el restaurante. Luego de leer los comentarios anteriores, decidimos darle una oportunidad. El ambiente es perfecto con hogar a le\xF1a (apagado porque hacia calor), Musica perfecta y el servicio excelente, nos atendio una se\xF1orita increiblemente amable y atenta. Muy buena la variedad de la carta de vinos. La comida, Bife de Chorizo, presentado de manera perfecta, al punto justo y muy tierna.\r\n\
+      La verdad es que es super recomendable."
+    date: 03-07-2010
+    user: http://mi.guiaoleo.com/members/8991
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La verdad fue una desilusi\xF3n nuestra \xFAltima visita ya q debo decir que habiamos conocido el lugar por la referencia de amigos en febrero y tuvimos una excelente impresi\xF3n que nos llev\xF3 a recomendarlo y volver el fin de semana pasado. Lamentablemente no quedamos conformes con la comida en esta oportunidad ya que el pato no estaba muy logrado y el cordero tampoco. Tampoco la degustaci\xF3n de cortes\xEDa fue muy buena y la panera como siempre estuvo muy bien. Aparte en esta oportunidad nos cobraron cubiertos que en febrero no se estaban cobrando. En definitiva, no creo volver y dejar\xE9 de recomendarlo."
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/83489
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Muy Bueno, el menu degustacion Supero nuestras espectativas en sabores y en presentacion. Increible la utilizacion de piedras en la panera para mantener el pan caliente y en la presentacion de la bondiola. Es cocina DE AUTOR en serio, la variedad del menu es sorprendente. Se usan productos frescos y muy sabrozos. Nos parecio un lugar muy cuidado. el Chef Juan Demuru se acerco a servir y explicar el ultimo plato del menu. 
+      Lo recomendamos para parejas que desean pasar un momento romantico al lado del hermoso hogar a lena.
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/82511
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Llegamos por un buen dato...Y no estuvo equivodado. Buena atenci\xF3n, excelente ambiente y servicio. La Bondiola de Cerdo result\xF3 sublime. Muy recomendable. Ah! y el detalle del pan sobre la piedra caliente, inolvidable."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/81998
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Empez\xF3 muy bien este restaurant, con platos muy cuidados y una atencion muy buena. Ya he ido varias veces y cada vez se nota mas la caida de calidad que han tenido los platos ya sea en su preparaci\xF3n como en su concepci\xF3n: la manta de cerdo con barbacoa no es rica, la salsa tapa el sabor del cerdo y el cerdo no es el mejor; los malfatti me los sirvieron deshechos...tampoco estaban sabrosos , la salsa tenia poco sabor;la pechuga de pollo estaba bien pero era muy poco original la preparacion. Es evidente que apuntan a bajar los costos de los platos y que el chef no siempre supervisa lo servido"
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/35712
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen servicio, ambientaci\xF3n del lugar y men\xFA. Las mozas siempre cuidando todos los detalles para que te sientas a gusto y quieras volver. \r\n\
+      El chef siempre ofrece alguna cortes\xEDa para degustar antes de cenar. Una carta con men\xFA acotada pero muy bien preparada y presentada. \r\n\
+      Muy interesante la opci\xF3n para compartir los platos (pagando un adicional), dado que son abundantes. Excelente la presentaci\xF3n de los pancitos saborizados sobre piedras calientes.\r\n\
+      Es la segunda vez que voy y salgo muy conforme, como corresponde. Muy recomendable!!!"
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/73508
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Descubrimos un lugar muy calido, con muy buen atencion y al ser una carta acotada, permiten distinguirse en todos sus platos. Para recomendar.
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/72724
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: EXCELENTE!!! lugar un descubrimiento. Muy rica la comida, excelente atencion y agradable lugar, para recomendar y volver a degustar otros platos.
+    date: 29-04-2010
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy bueno todo. Vamos volver. La comida es abundante y muy bien presentada tambien lo justifica el precio. No hemos cmido postre porque estabamos realmente llenos! El servicio de mesa es muy bueno, tambien nos dieron para desgustar cosas nuevas. Quedamos encantados!
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/80286
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "4 entradas y 6 principales: 1 pescado, 1 ave, 2 carnes rojas y 2  pastas, en preparaciones mas bien cl\xE1sicas y con guarniciones simples. Empec\xE9 por las mollejas con ca\xF1oncito de cebollas, ambas muy bien. La brusqueta de Brie, el queso cortado demasiado fino, se fundi\xF3 y  despareci\xF3 dentro de un pan sobre-cocinado. De los principales, muy rico el plato de ave, sobretodo la guarnici\xF3n. Y no tan buena la manta de cerdo, pu\xE9s si bien la carne estaba perfecta, tierna, y en su punto justo, la salsa barbacoa result\xF3 desabrida, \xBFOtra buena? Platos abundantes, un riqu\xEDsimo appetizer y excelentes panes"
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/2647
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Me encanto el sitio, restaurante lindo, el servicio excelente, tiene una carta chica con pocas opciones de platos principales pero muy rica la comida !!!!
+    date: 07-04-2010
+    user: http://mi.guiaoleo.com/members/79693
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "EXCELENTE Y ABUNDANTE. Hasta nos dieron un manjar para degustar. Muy recomendable, volveremos y compartiremos platos. Reserven y vayan. Son platos grandes. El jazz de fondo podr\xEDa tener menos notas, pero Amadeus dir\xEDa que est\xE1n bien."
+    date: 28-03-2010
+    user: http://mi.guiaoleo.com/members/17085
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un restaurant que se disfruta, por el lugar, la atenci\xF3n y lo especial de la comida. He comido unos pinchos de salmon que son una delicia y hasta la suprema de pollo estaba deliciosa\r\n\
+      Es para recomendar"
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un restaurant de autor , donde es chef muestra una acabada selecci\xF3n de platos con excelente sabor, las porciones osn generosas como la atenci\xF3n, no se escapa ningun detalle como el pan con pidras calientes para mantener caliente el mismo. Entiendo desde mi gusto que es excelente"
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy buena la comida del autor con detalles de atencion correctos lindo lugar para volver excelente relacion precio calidad
+    date: 26-03-2010
+    user: http://mi.guiaoleo.com/members/4265
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida excelente, los postres regulares sin sabores definidos.\r\n\
+      La atenci\xF3n de los camareros fue defectuosa, quisieron retirar los platos varias veces antes de que termin\xE1ramos, y luego demoraron varios minutos en traer los postres y la cuenta.\r\n\
+      Vale la pena por la comida, pero no por el servicio, una verdadera l\xE1stima.\r\n\
+      No vamos a volver."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/60956
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena eleccion! Tienen una carta variada y muy sabrosa. Como eramos varios pedimos unas cuantas entradas y platos diversos para darnos un paseo. Y estuvo todo muy rico. Muy buena atenci\xF3n (aunque un poco de onda a la camarera no le hubiera sobrado) y un ambiente muy logrado. La pasamos divino; en contraposici\xF3n a un Palermo donde en general y cada vez mas los restaurantes son una trampa. Volveremos!!!"
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/13206
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Excelente lugar con platos de autor muy bien logrados. La panera es la mejor de 
+      Bs.As.
+    date: 10-03-2010
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo resumo en una frase: \"Si quer\xE9s pedirle matrimonio, llevala a Demuru\", pues es un lugar con encanto.\r\n\
+      Es c\xE1lido, con pocas mesas e iluminaci\xF3n acorde. Excelente la atenci\xF3n de los mozos, siempre atentos.\r\n\
+      El servicio es super r\xE1pido y las recomendaciones que nos dieron siempre acertadas.\r\n\
+      Muy conveniente la opci\xF3n de compartir platos por s\xF3lo $7 adicionales.\r\n\
+      Los raviolones de cordero fueron los mejores que he comido en mi vida. El brie sobre pan de campo... supremo. Los vinos, todos excelentes.\r\n\
+      Los precios son convenientes.\r\n\
+      Realmente una grata sorpresa..."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El ambiente es muy agradable. Excelentes los panes. Los principales cumplieron pero no hab\xEDa ninguna nota distintiva ni \"de autor\" en sus preparaciones. El punto de la carne estuvo bien."
+    date: 04-03-2010
+    user: http://mi.guiaoleo.com/members/36392
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Lo mas interesante es la relacion precio calidad.No es caro, pero la comida no descolla, esta bien. El lugar es muy agradable Hubo demoras con los platos y nos hicieron una atencion. Ni.
+    date: 26-02-2010
+    user: http://mi.guiaoleo.com/members/43152
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar tiene su encanto, el servicio deber\xEDa mejorarse ya que nos sentimos desantendidos en varias oportunidades. En cuanto a la comida, es correcta pero deber\xEDa ser bastante mejor habida cuenta de los pocos platos que se ofrecen. No estoy seguro si volver\xEDa."
+    date: 07-02-2010
+    user: http://mi.guiaoleo.com/members/52743
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena cocina con una carta acotada de platos y vinos. La piedra caliente que mantiene los panes s\xF3lo viene como una decoraci\xF3n, ya que no cumple la funci\xF3n de mantener los mismos. La atenci\xF3n podr\xEDa ser m\xE1s eficiente y el ambiente es reducido. Bien."
+    date: 24-01-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: ese lugar tiene magia...
+    date: 19-01-2010
+    user: http://mi.guiaoleo.com/members/36209
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me encant\xF3! Servicio personalizado, ambiente elegante pero descontracturado, selecta carta con pocos platos pero atractivos. Ideal para parejas o para disfrutar con amigos."
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/75097
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui con amigos el 30 de diciembre de 2009 y volv\xED con mi familia el 13 de enero de 2010. Todos quedamos encantados.El lugar es excelente por su ambientaci\xF3n, su atenci\xF3n, por los detalles en el servicio y por la calidad de la comida.La tardanza en los platos no fue tanta teniendo en cuenta que cocinan en el momento.El chef se hace ver por el restaurante y eso gusta muchoLes auguro lo mejor."
+    date: 13-01-2010
+    user: http://mi.guiaoleo.com/members/75045
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: fui con una pareja amiga y la verdad es que comimos riquisimo, la atencion fue muy buena y el lugar fue super calido.Lo mejor de todo es que por el lugar donde esta ubicado el restoran, la calidad de la comida (todo super fresco) y la atencion tienen un precio increible.
+    date: 10-01-2010
+    user: http://mi.guiaoleo.com/members/74860
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Descubri el lugar por unos amigos  y me sorprendio\xA1 la comida es impecable y super abundante\xA1\xA1\xA1 el servicio es bueno, mozos atentos  a los pedidos especiales y detalles, Fuimos con un celiacos y sin dudar nos preparARon un menu degustacion increible\xA1Sin lgar a dudas  muy recomendable NO SE LO PIERDAN"
+    date: 09-01-2010
+    user: http://mi.guiaoleo.com/members/74723
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Bueno, mas com poucas opciones de platos e vinos.
+      Pequeno, mui convidativo para casais.
+    date: 06-01-2010
+    user: http://mi.guiaoleo.com/members/74160
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ambiente sobrio y c\xE1lido, en escala humana. Desde el amuse bouche de remolacha, coco y jengibre (logrado) hasta el cheesecake con frutos rojos, puntos acertados en platos sabrosos y abundantes, con una presentaci\xF3n siempre original. Las combinaciones pueden no satisfacer a todos los paladares, pero conviene recordar que, al fin y al cabo, son licencias del autor. Todo el personal se mantuvo atento y amable hasta el final. Si bien hay detalles que mejorar\xE1n, con precios tan accesibles la alternativa merece explorarse. Espero que se consoliden."
+    date: 05-01-2010
+    user: http://mi.guiaoleo.com/members/32906
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Rica la comida pero el servici\xF3 era un desastre! Una lastima. El mozo no nos sonri\xF3 ni hablo ni una sola vez.  La lista de vinos era bastante accesible.  Tardaron un mont\xF3n en traernos la cuenta."
+    date: 04-01-2010
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      La verdad que fue una cosa peor que la otra. El tartar de pescado era rico, pero el jugo del fondo del plato era demasiado dulce. La bondiola braseada se veia exquisita en el plato, pero al probarla la carne estaba pasada de coccion y nuevamente la salsa era sumamente dulce.
+      La atencion por calificarla de alguna manera fue muy mala. Lentisimo, no prestaron atencion, se olvidaron de bebidas, no explicaron los platos y tardaron unos 20 minutos en cobrarnos.
+      Ah, un detalle mas, tuvimos que comer toda la cena con la musica muy alta por mas que pedimos 2 veces que la bajaran.
+      No volvemos nunca mas
+    date: 04-01-2010
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Cenamos muy bien con una excelente atenci\xF3n un domingo a la noche (cuando casi no hay restaurants abiertos), muy recomendable."
+    date: 03-01-2010
+    user: http://mi.guiaoleo.com/members/19028
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Mucha actitud para satisfacer al cliente pero con resultados algo inciertos. Esmerada presentaci\xF3n de platos, pero falta de manejo en los tiempos y puntos de cocci\xF3n.\r\n\
+      Detalles del servicio: mozo jugando con birome mientras se decide el menu, copa con tostadas muy manoseada afuera, mozo tocando con los dedos el interior de los platos previo a servir la comida. Detalles a mejorar que no se pueden pasar, como por ejemplo una gran plato como es pata de cordero al malbec pero que llega cruda luego de esperar una hora, por falta de timig del chef. Recomendable y mejorar\xE1 con la experiencia."
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/74362
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente propuesta de rest\xF3 de autor: platos cuidados, con ingredientes seleccionados, pensados y ejecutados sobre la base de un equilibrio justo de sabores y texturas; la ambientaci\xF3n super acogedora, el esmero en los detalles (amuse bouche, temperatura del vino, panera con piedra caliente para mantener la temperatura de las creaciones caseras de panader\xEDa) y la impecable presentaci\xF3n tambi\xE9n hacen que la velada sea altamente disfrutable. Me encant\xF3. Recomendad\xEDsimo!!!"
+    date: 27-12-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente cocina de autor, platos con productos de primera calidad y presentaci\xF3n impecable (desde los panes y dips hasta los postres y el exquisito caf\xE9 nespresso). Ambiente c\xE1lido y tranquilo para disfrutar de una cena muy agradable con muy buena iluminaci\xF3n y m\xFAsica suave. La atenci\xF3n joven pero muy atenta. Altamente recomendable. Felicitaciones al chef Juan Pedro Demuru por este emprendimiento."
+    date: 21-12-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: excelente lugar con una calidad de productos y frescura, paneras muy buenas , todo muy correcto y muy bueno , para volver varias veces mas.
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/36333
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Muy buena experiencia, el lugar es muy agradable (a mi gusto le sobran mesas ya que hay solo 2 mozos), tanto las paneras como las entradas son muy buenas, y los platos son extraordinarios, con muchos detalles y no escatiman ni en calidad ni en cantidad.
+      El precio es el adecuado, lugar sumamente recomendado para volver!
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/72669
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Este lugar, m\xE1s all\xE1 de su juventud (abri\xF3 hace un mes), va camino a convertirse en un cl\xE1sico. Porque hay ganas y talento. Multiples detalles como el pan sobre una piedra caliente, lo original del bowl con galletas, la sopita de zanahoria en cuchara. Mas la excelencia del camembert de entrada, y esa bondiola de cerdo que podia comerse con cuchara de como se deshacia. Cocciones lentas y buena materia prima. Hay cava de vinos, no termin\xE1s tomando un buen tinto a 25\xB0C. Atencion personalizada. Mozos j\xF3venes pero entusiasmados. Relacion precio-calidad insuperable. Solo falta completar la web!"
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/3014
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Este nuevo restaurante fue una agradable sorpresa, La comida excelente, abundante y muy bien presentada al igual que el postre, el servicio atento y eficiente, un lugar para volver
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/4900
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Muy buena comida y postres con porciones abundantes excelente la panera,mesas separadas correctamente,solo una sugerencia la carta de vinos deberia ser mas amplia....ah precio acorde
+      volvere!!!!!!!!!!!!!!
+    date: 12-12-2009
+    user: http://mi.guiaoleo.com/members/9402
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n muy cordial, el ambiente muy c\xE1lido y agradable, la comida excelente. Muy recomendable, Volveremos."
+    date: 11-12-2009
+    user: http://mi.guiaoleo.com/members/46947
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Celebramos ah\xED mi cumplea\xF1os y la verdad que no nos arrepentimos. Es un lugar c\xE1lido, con una atenci\xF3n cuidada en cada detalle, desde el servicio hasta la presentaci\xF3n de los panes y los platos, con porciones abundantes. Es altamente recomendable!"
+    date: 10-12-2009
+    user: http://mi.guiaoleo.com/members/47613
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      El lugar es realmente agradable, la comida INCREIBLE!
+      Totalmente recomendable, es una excelente opcion
+    date: 08-12-2009
+    user: http://mi.guiaoleo.com/members/30350
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hac\xEDa mucho que no iba a lugar donde la combinaci\xF3n de sabores fuera tan buena. Los platos son ricos, atractivos visualmente y generosos. La carta de vinos es corta, pero con buenas opciones. Nos recomendaron un Bonarda que probamos y nos gust\xF3 mucho.\r\n\
+      El ambiente es muy bueno, el lugar es muy lindo, en fin, nos gust\xF3 mucho y vamos a volver."
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/49553
+    ambiente_rank: muy bueno

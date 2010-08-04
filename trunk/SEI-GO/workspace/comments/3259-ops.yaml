@@ -1,0 +1,673 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "la comida nos pareci\xF3 muy rica, el ambiente desagradable por el bullicio y las mesas muy juntas en el momento que llegamos los mozos estaban limpiando y armando m\xE1s mesas para aceptar m\xE1s gente y no prestando atenci\xF3n a quienes llegaban.\r\n\
+      El precio de la comida sin ningun tipo de guarnici\xF3n me parecio exagerado ya que el complemeatno que es el arroz y el pan lo cobran a parte adem\xE1s de cobrar el servicio de mesa.Pagar $220 dos personas con un plato cada una una guarnici\xF3n compartida y el vino m\xE1s barato es un disparate por el servicio que brindan."
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/58209
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es la primera vez que voy. Me gust\xF3 mucho la comida. La atenci\xF3n es muy buena y los mozos saben aconsejar en la elecci\xF3n de los platos. volver\xE9."
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/80335
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar para disfrutar de la cocina india. El pan (Naam) es excelente, hecho en horno Tandoor. La comida no es demasiado especiada. La atenci\xF3n fue muy buena. Los platos salieron bastante rapido. Altamente recomendable para los que deseen tener una experiancia gastronomica diferente en buenos aires."
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/1512
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos invitados por un amigo de India y lo pasamos muy bien, el ambiente es tranquilo, sin m\xFAsica estridente. Los domingos preparan dosas, y nos parecieron muy ricas, acompa\xF1adas con salsitas de distintos tipos. Luego probamos el kheema naan que estaba fabuloso, y de postre pedimos gulab jamun y kulfi de pistacho, y luego un t\xE9 de naranja y cardamomo. Nos atendieron de primera a pesar de que llegamos bastante tarde (2 y media de la tarde). Una muy buena experiencia!"
+    date: 25-04-2010
+    user: http://mi.guiaoleo.com/members/36102
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Como siempre la comida es muy buena. Los mozos son muy atentos, es mas, nos trajeron otra salsa (muy picante, pero rica) para que probemos.
+      Es como la cuarta vez que voy y voy a seguir yendo.
+    date: 23-04-2010
+    user: http://mi.guiaoleo.com/members/22855
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la comida y el lugar. La ambientaci\xF3n es sutil, no recargada y \"barata\" oomo en otros restaurantes de comida india. El pollo Tikka es riquisimo!! El naan es super recomendable. Los mozos guian en el pedido respecto de cu\xE1n picante son los platos y recomiendan que compartan 1 porci\xF3n de arroz basmati y naan cada dos comensales. La pasamos genial y comimos riquisimo!"
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/67969
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es el segundo lugar que visito de comida India y debo reconocer que la comida era bastante m\xE1s variada y muy rica. Las recomendaciones del mozo fueron excelentes. El precio es muy bueno, si usamos la relaci\xF3n precio, lugar, calidad\x85 Mi \xFAnica cr\xEDtica, ampliar\xEDa la parte de postres\x85"
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/79905
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      El local me sorprendio para bien, pense que era mas un bolichon, es un lugar muy lindo.
+      La atencion, es muy buena , gran predisposicion de explicar y recomendar. Hasta me llamo la atencion que el mismo mozo nos dijo que solo pidamos una entrada ya que son abundantes. La comida es muy sabrosa en aspecto de condimentos, picante para nada al menos en lo que pedimos.
+      Fue una linda experiencia de probar algo diferente, valio la pena. No tengo ninguna queja para destacar, fue una linda noche....
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/71404
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      No fue tan Bueno pero tampoco pense q iba a ser tan malo, fue lo que le dije a mi novia cuando sali, nunca pense q hasta el Helado Hindu llevaba Cilantro? no se les habra ido un poco la mano???
+      con respecto a la comida es buena, para la gente q le gusta el Cilatro y el jengibre, todo tiene esas especias, y en ningun lugar de la carta ni los mosos te avisan!
+      Fue Caro pensar q comimos lo mismo q en AZEMA y pagamos menos, alli.
+      no creo q vuelva!
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/69939
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es riqu\xECsima, te asesoran realmente bien en cuanto a porciones y sobre todo \"en lo picante\" de lo platos. El servicio es buen\xECsimo y el ambiente es muy agradable. EL \xF9nico detalle es q te toman reservas solo para las 21 y los mozos se encuentran un poco sobrepasados ya que todos los clientes llegan al mismo horario."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La calidad de la comida es insuperable. Muy buen uso de especias y cocina t\xEDpica. Si bien demora un poco, la comida es elaborada con paciencia y eso se nota al momento de degustarla. La atenci\xF3n de los mozos es excelente. El ambiente algo peque\xF1o pero calido."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/15216
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy bueno como experiencia en la comida hind\xFA. el lugar es chico y los precios un poco elevados, no digo que no los valga. la atenci\xF3n de los  mozos exelentes. lo recomiendo"
+    date: 10-03-2010
+    user: http://mi.guiaoleo.com/members/78076
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Viv\xED en \xC1frica del Este, donde la comida hind\xFA es la norma, y la comida de Tandoor es lo m\xE1s cercano que he encontrado en Buenos Aires. Sin dudas el mejor hind\xFA en la ciudad. Los precios son un poco altos, pero realmente lo vale: el servicio es muy bueno (los mozos realmente conocen lo que ofrecen), la comida excelente y el lugar muy agradable. Altamente recomendable. La limonada con canela vale por s\xED misma una visita. Para volver y seguir volviendo."
+    date: 23-02-2010
+    user: http://mi.guiaoleo.com/members/17332
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Nunca hab\xEDa probado comida india y me encant\xF3. Perdimos recomendaci\xF3n al mozo y sali\xF3 todo excelente, muy recomendable."
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/42197
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida excelente, es la mejor comida hind\xFA de Capital.\r\n\
+      El servicio es pasable, bien.\r\n\
+      Es abundante la comida,adem\xF1as te traen pan naan de cortesia sin pedir. Los mejores son los platos vegetarianos y los de pollo. Pedimos una entrada con pescado y nos la trajeron con pollo sin que pudieramos chistar algo el mozo vol\xF3. Sacando eso bien.\r\n\
+      Los vinos de la carta bien.\r\n\
+      \r\n\
+      Siempre es bueno volver"
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/39388
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Primera experiencia en comida india y qued\xE9 m\xE1s que satisfecha. Las papas y el kebab pollo de entrada exquisitos y el curry de langostinos con arroz bastmati supremos. Con ligero picante pero adaptado al paladar argentino. El mozo muy atento y ambientaci\xF3n agradable. Lo recomiendo!"
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/33936
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buena comida, algo picante para mi gusto, abundante y con adecuadas explicaciones del mozo. Un poco cara la carta de vinos. El ambiente tranquilo y silencioso.
+    date: 14-12-2009
+    user: http://mi.guiaoleo.com/members/74016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Me gusto la comida, adaptada al paladar local y de buena calidad.
+      El ambiente, muy ruidoso y de un hindu sutil, casi sugerido.
+      La atencion, regular nada de otro mundo.
+      Lo recomendaria de todas maneras para incursionar en este tipo de comida muy sabrosa.
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/69255
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La experiencia fue buena, queriamos probar otro tipo de comidas, si bien en algunos platos el picante se sent\xEDa, no fue mas de los que esparabamos. Como comentarios adicionales, rogamos para que nos dieran otra canasta de pan, los potres son limitados, me gusto la limonada india, aunque un poco cara, y atenci\xF3n con la carta hay precios que difieren en uno o dos pesos al momento de la cuenta.  La explicaci\xF3n un error en la impresi\xF3n o que en la maquina esta cargado otro precio, pero no la modifican como lo hicieron con el arroz basmati que dejo de se azafranado y paso a ser un arroz hervido"
+    date: 21-11-2009
+    user: http://mi.guiaoleo.com/members/23124
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Segunda vez que vamos a Tandoor, me gusto aunque reconozco el comentario de que los postres son lo mas flojo de la carta, el resto erstaba todo muy bueno, para como comimos no me parecio caro, sino acorde al lugar. Los postres al margen de ampliar la carta deberian ser mas abundantes
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/12416
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "buenisimoooo! me encanto! no soy muy amante de la comida picante sin embargo este plato es muy rico y no pica. muy ricos tambien los panes con los q acompa\xF1an los platos, son una especie de tortillas finitas algunas vienen con manteca derretida, muy recomendables. muy buena atencion!"
+    date: 19-11-2009
+    user: http://mi.guiaoleo.com/members/72010
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: fui varias veces a este lugar me encanta, la comida es muy rica suelo pedir el pollo al curry de caju, es riquisimo. los platos en general son picantes pero el mozo te sabe guiar para hacer una buena eleccion segun tus gustos. las mesas estan un poco juntas pero el lugar esta muy bien ambientado.
+    date: 13-11-2009
+    user: http://mi.guiaoleo.com/members/72070
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo mejor! Sabores intensos, \xFAnicos, perfecta atenci\xF3n, ambiente c\xF3modo y tranquilo. \r\n\
+      Vale la pena el precio."
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/71311
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Con muy buena guia por parte del mozo, nos deleitamos con distintas entradas, donde sobresali\xF3 el Malai Kebab de pollo. De acuerdo al nivel de picante que quisiera cada uno, nos trajeron cazuelitas con preparados mas o menos picantes. El curry de cordero es siempre digno de acompa\xF1arse con arroz bastami. Y una exquisitez de postre: el gulab jamun. Un precio acorde al buen servicio y calidad."
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/16880
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Propuesta diferente, pero es muy subjetivo. Tiene mucho que ver con el tipo de comida que le gusta a cada uno. No puedo decir que haya sido mala, solo que no es lo que prefiero. La atencion fue excelente. El lugar esta muy bien ambientado, pero es muy ruidoso y las mesas estan muy juntas.
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/66761
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente restoran indio. Pedimos el curry de cordero con arroz basmati, con picante suave muy rico, sabros\xEDsimo, la india en la boca. El cordero biriyani que viene con un arroz especiado muy delicioso.  Los postres flojos. El pan riquisimo. Excelente ambiente y buen servicio. Es la segunda vez que vamos y volveremos. Un indicio de su autenticidad: siempre hay gente de la colectividad india."
+    date: 07-10-2009
+    user: http://mi.guiaoleo.com/members/53449
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El cordero que yo mi con casta\xF1as de caj\xFA, estaba muy bueno y no era picante.  EL arroz basmati a mi me encant\xF3. Postres yo no pediria, hicimos una desgustaci\xF3n y la verdad que no nos gusto ninguno. No es apto para el paladar argentino."
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/1764
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es bonito, aunque no muy c\xF3moda la disposici\xF3n de las mesas, que est\xE1m un poco juntas y atenta contra la privacidad. La comida es buena, sabrosa y moderadamente especiada, incluyendo los platos catalogados como \"muy picantes\" La carta de vinos es acotada y algo elevada en precios. La atenci\xF3n es regular; en un principio,parece que los mozos te asesoraran en todo y fuesen atentos, pero luego se transforman en una especie de acosadores. El mozo que me toc\xF3 se llev\xF3 mi nan antes de haberlo terminade, e intent\xF3 sacarnos nuestros platos a\xFAn sin terminar.\r\n\
+      Seguir\xE9 buscando"
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/69771
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "la comida creo yo demasiado picante para el paladar Argentino... si bien eramos 6 personas, solo dos de ellas pudieron soportar el picante, en especial el cordero al curry pose\xEDa demasiadas peque\xF1os trozos de pimienta donde hacia que se pierda el sabor...\r\n\
+      \r\n\
+      Servicio de los mozos bastante frio! ( y eso que la plata por cubierto se destina a los mismos en teor\xEDa)"
+    date: 12-09-2009
+    user: http://mi.guiaoleo.com/members/65561
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Pedi comida por telefono y la pase a retirar, excelente el Biryani de Cordero y muy bueno el Ku Ku Pak, el arroz Basmati muy sabroso porque tenia especias o en otros restaurantes Hindues que te lo sirv, acostumbrado en otros restaurantes Hindues que te lo sirven solo.
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/67106
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena la atencion, el lugar y la calidad de la comida. Si bien gastamos 240 pesos entre 2 personas, el vino sumaba unos $55 y pedimos entrada, 2 platos principales, arroz basmati, pan, 2 postres y cafe. Lo que mas nos gusto fue la atencion del mozo y sus sugerencias
+    date: 06-08-2009
+    user: http://mi.guiaoleo.com/members/67101
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es buena al igual que los mozos que asesoran sobre la carta y el lugar bien ambientado. Me pareci\xF3 demasiado caro. \r\n\
+      Fuimos a festejar un cumplea\xF1os y no tuvieron ninguna atenci\xF3n. Es m\xE1s, llevamos una torta y pretend\xEDan cobrarnos el corte de la misma por persona. Sinceramente no vuelvo, una falta absoluta de servicio al Cliente por parte de los encargados/due\xF1os del local, teniendo en cuenta que gastamos fortunas ...."
+    date: 31-07-2009
+    user: http://mi.guiaoleo.com/members/8091
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Buena opci\xF3n para conocer la cocina Ind\xFA (muy buenos productos aunque un poco caro). Excelente atenci\xF3n de los mozos. Ambiente c\xE1lido pero mesas demasiado juntas y no resulta c\xF3modo a la hora de mantener una conversaci\xF3n tranquila, tal vez sea solo para ir con amigos."
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Variadas opciones con respecto a la eleccion del grado de picante. \r\n\
+      Muy buena orientaci\xF3n en la elecci\xF3n del men\xFA. \r\n\
+      Pese a estar en una esquina muy transitada la insonorizacion del ambiente es perfecta. \r\n\
+      El Kulfi de Mango (helado clasico de la india) es imperdible."
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/66607
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Comida excelente y autentica. Los mozos son experientes y muy atentos. El mejor restaurate indio de la ciudad!
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/33983
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente el Birani de Cordero! Muy buena calidad todo. Servicio muy profesional. Podrian ampliar la carta de bebidas.
+    date: 01-07-2009
+    user: http://mi.guiaoleo.com/members/59155
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Buena comida India, sin ser excelente, ni sobresalir. Destaco el servicio por sobre todo. En nuestro caso fue EXCELENTE, el camarero (no recuerdo su nombre) fue muy atento, expeditivo y se ocup\xF3 de detallar todos los platos a mi mujer, quien nunca hab\xEDa comido comida India. El ambiente es bueno, tal vez faltar\xEDa un poco m\xE1s de ambientaci\xF3n Hind\xFA. Experiencia aceptable."
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/16793
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es precioso, conviene siempre reservar con anticipaci\xF3n porque se llena. Las porciones no son muy abundantes, y no me pareci\xF3 picante, aunque depende del paladar de cada uno.\r\n\
+      La carta bastante completa y los mozos muy atentos. Super recomendable, voy a volver!"
+    date: 17-06-2009
+    user: http://mi.guiaoleo.com/members/16639
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar me pareci\xF3 excelente desde todo punto de vista. Realmente es una muy buena opci\xF3n para probar platos diferentes, de calidad inmejorable y en un lugar agradable y tranquilo. Sin dudas, volver\xE9 a probar otros de los originales platos que ofrecen."
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/61540
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buen ejemplo de cocina hind\xFA que a medio d\xEDa rebaja sus precios que no la calidad de sus platos. Ambiente tranquilo, servicio \"depende\" (depende del d\xEDa son muy lentos o simplemente lentos) y cordero muy aceptable. Conviene dejarse aconsejar sobre el maridaje de platos y especias."
+    date: 06-04-2009
+    user: http://mi.guiaoleo.com/members/49940
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nueva esquina con una muy interesante opci\xF3n para degustar comida hind\xFA. Ambiente muy agradable y apacible, gracias a la luz con velas y la m\xFAsica suave t\xEDpica de la India; muy buena comida, sabrosa y con el punto de picante justo para cualquier paladar (te avisan cu\xE1nto picante trae). Mi cordero al curry me gust\xF3 y da para volver."
+    date: 17-03-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy buen lugar, la comida me encant\xF3 y el servicio tambi\xE9n."
+    date: 13-03-2009
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lindo lugar con buen servicio y comida.\r\n\
+      Para criticar: el espacio es bastante chico y las mesas est\xE1n muy juntas unas de otras, precio demasiado caro."
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tenia muchas ganas de probar la comida de la india, siempre ando recorriendo y en verdad que me encanto. Muy buena atencion (mas que nada x las recomendaciones del mozo, estuvo acertado). El lugar no es demasiado espacioso, estan bastante cerca las mesas, y tiene demasiada 'ambientacion'. De todas maneras: buena comida, buena atencion, buen precio...la mejor combinacion. VOLVERE, eso seguro"
+    date: 02-02-2009
+    user: http://mi.guiaoleo.com/members/23908
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Se nota que es un lugar de aut\xE9ntica comida india.\r\n\
+      La atenci\xF3n es excelente, los platos son muy sabrosos aunque a\xFAn los que figuran en el men\xFA como \"moderados\", son en realidad bastante picantes. Los postres son imperdibles, en especial el Gulab Jamun y el Gajar ka Halwa.\r\n\
+      Un aspecto a mejorar es la poca distancia entre las mesas.\r\n\
+      En general me parcei\xF3 un lugar recomendable, volver\xE9 sin dudas."
+    date: 29-01-2009
+    user: http://mi.guiaoleo.com/members/6194
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      La comida es muy buena (aunque muy especiada, como para entrar en calor! jaja). Nos atendieron muy bien y el lugar es lindo, de buen gusto, no es sobrecargado ni nada por el estilo.
+      Fuimos 4 y pudimos probar bastante variado. Mas rico el cordero que el pollo a mi gusto.
+      Da para volver.
+    date: 24-01-2009
+    user: http://mi.guiaoleo.com/members/22855
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Una muy buena experiencia. Pedimos un biryani y un curry de cordero deliciosos, muy recomendables los dos (aunque el curry es bastante picante). El lugar es ideal para una cena en pareja, agradable, con iluminaci\xF3n c\xE1lida y una decoraci\xF3n delicada, sin el exotismo exagerado de otros restaurantes \xE9tnicos. Gana adem\xE1s con la presentaci\xF3n de los platos, la vajilla de cobre y los cuencos realzan la experiencia. Una buena idea es consultar la web, tiene infirmaci\xF3n interesante sobre el restaurante y la gastronom\xEDa de la India. Sin duda voy a volver."
+    date: 24-01-2009
+    user: http://mi.guiaoleo.com/members/45739
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nuestra mejor experiencia dentro de la comida hind\xFA. Lugar ideal para quienes saben apreciar los condimentos sin remilgos respecto de si esto es fuerte, o aquello es picante, etc.etc. Si encima tuviese precios m\xE1s accesibles, no cabe duda que ir\xEDamos a explorar met\xF3dicamente la amplia y tentadora carta. Destacamos la atenci\xF3n del mozo, muy servicial, orientativo y generoso. Volveremos."
+    date: 16-01-2009
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      EXCELENTE.
+      Vayan los que buscan sabores nuevos y tienen paladar amplio.
+      Abstenganse los que no.
+      La informacion que brinda la pagina del restaurant es muy util para leer antes de ir, con detalles sobre costumbres culinarias de la India.
+      Cuando fui, 2 de las 3 mesas estaban ocupadas por nativos de la India, lo que habla de lo autentico de la cocina.
+      La atencion es excelente, la carta de vinos un poco corta.
+      Definitivamente para repetir.
+    date: 27-11-2008
+    user: http://mi.guiaoleo.com/members/55994
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: El ambiente es muy lindo, la comida es buena pero no es la gran cosa, la atencion es excelente el mozo se esmeraba por atendernos. definitivamente lo recomiendo.
+    date: 16-10-2008
+    user: http://mi.guiaoleo.com/members/53102
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Al ambiente le falta algo mas...ej musica.corecta la atencion buena la comida y corta carta de vinos.el ambiendo un poco bullicioso....hay mucha gente
+    date: 11-10-2008
+    user: http://mi.guiaoleo.com/members/9402
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Riqu\xEDsimo los distintos tipos de panes. La comida buena aunque nada del otro mundo. Muy buena atenci\xF3n y ambientaci\xF3n. Para saborear algo distinto alguna que otra vez."
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/34973
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente comida que me recuerda los restaurantes Indues de Londres. El pollo en su punto y el arroz que acompa\xF1a una delicia. El Chef un verdadero Hindu."
+    date: 19-09-2008
+    user: http://mi.guiaoleo.com/members/4900
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El local en la esquina de Laprida y charcas llama la atenci\xF3n e invita a entrar, en su interior una decoraci\xF3n sobria, con un n\xFAmero razonable de mesas. La atenci\xF3n es muy buena. Lista de vinos corta, de calidad media a precios altos. La carta explica bien lo que ofrece y que si quiere el mozo complementa. La calidad de nuestra comida fue muy buena, ricos sabores, bien equlibrados, Todo estuvo muy bien, con excepci\xF3n del cordero que para m\xED gusto estaba muy sobrecocido, pero a lo mejor el plato es as\xED. En resumen un muy buen restaurante que vale la pena conocer si se quiere innovar en sabor."
+    date: 08-09-2008
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: el lugar es muy agradable y la comida aunque los platos son muy parecidos, es rica. Sim embargo el servicio deja mucho que desear, nos recibio un mozo que nos dijo lo que debiamos comer, como no estabamos del todo de acuerdo, nos olvido el resto de la noche. Una senora de otra mesa se enojo con el y le dijo "usted propone y dispone", creo que esta frase lo dice todo
+    date: 07-09-2008
+    user: http://mi.guiaoleo.com/members/17569
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "el lugar sigue siendo encantador, y la comida mantiene su calidad y frescura. Da gusto poder volver y encontrarse con los sabores y aromas de siempre, esta vez incursion\xE9 con el pollo tikka, lo mas divertido es tratar de reconocer las especias, prestando atencion se encuentran todas, equilibradas y en su justa dosis. El kulfi un clasico, y el de mango la estrella.."
+    date: 04-09-2008
+    user: http://mi.guiaoleo.com/members/33792
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena comida hind\xFA, con adecuada orientaci\xF3n por parte del mozo. Los precios son accesibles y el ambiente es muy luminoso y con mesas cercanas en un local m\xE1s bien chico. Recomendable para ir en la semana, y comer tranqui."
+    date: 01-09-2008
+    user: http://mi.guiaoleo.com/members/11820
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El a\xF1o pasado fui y me encant\xF3... Este a\xF1o volv\xED y fue increible!!!\r\n\
+      Los olores y los sabores te hacen viajar. \r\n\
+      Muy bueno! Los felicito!"
+    date: 28-08-2008
+    user: http://mi.guiaoleo.com/members/33777
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 el lugar, volver\xEDa sin epnsarlo dos veces,  La comida exquisita."
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/53737
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelente comida india.Precios accesibles, buena atenci\xF3n.De lo mejor que hemos comido en Bs As.S\xF3lo tapar\xEDa con cortinas la vista a la calle.Volver\xE9 a seguir probando platos.Vaya y comparta."
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/13145
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Hacia un tiempo q no iba y volvi.. cada vez es mejor!! Buenisima la comida, la atencion, lo picante esta muy bien logrado sin caer en los excesos (muy comun en lugares q quieren "imitar" la comida picante)y el postre de mangos...no tiene desperdicio!! Altamente recomendable
+    date: 06-08-2008
+    user: http://mi.guiaoleo.com/members/33788
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida (hasta a el cheff lo trajeron de la India). El servicio estupendo y el lugar incre\xEDble!\r\n\
+      100% Recomendable."
+    date: 05-08-2008
+    user: http://mi.guiaoleo.com/members/12402
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Este lugar es una trampa, los platos son totalmente inconsistentes y excesivamente caros.
+      Para nada recomendable.
+    date: 17-07-2008
+    user: http://mi.guiaoleo.com/members/47646
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pretenciosa y no lograda b\xFAsqueda de sabor Hindun, los 4 platos que pedimos tenian el mismo sabor. La vajilla y la atenci\xF3n \xF9nicos puntos a tener en cuenta."
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/14759
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encanto todo, La comida es riquisima, con muchisimo sabor.  El lugar es muy agradable y la atencion es b\xE1rbara. Lo unico para mejorar: Las mesas para dos personas estan exgeradamente cerca, y a pesar de que habia reservado, no me dieron una mesa cerca de la ventana, que son las que estan un poco mas separadas (no mucho). Hubo gento que no reservo, espero y consiguio mejor lugar.  Voy a volver para probar otros platos."
+    date: 02-07-2008
+    user: http://mi.guiaoleo.com/members/3350
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es muy rica, el lugar es agradable.
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/46539
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      La comida rica, especiosa, el biryani de cordero bueno, el arroz estuvo un poco gomoso. COmi pannasager, el queso hindu con curry, rico, el queso, medio medio, parecia tofu. El pan naan rico las salsitas maso y el pathan o no se como se llamaba ( el que viene con ghee) muy parecido al naan.
+      estuvo rico, fuimos 2, promedio gastamos 55, es depende el plato principal que pidas Y cobran servici de mesa, vino x copa 10$, total $119. Barato no es, eso si.. el lugar se llena., asi que si es tirando fin de semana, pedir reserva!
+    date: 03-06-2008
+    user: http://mi.guiaoleo.com/members/39388
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Tanto el lugar como la comida son muy buenos. \xC9ramos varios en la mesa por lo que pude probar diferentes platos, todos ellos muy ricos. Sin embargo no me parece para nada correcto la atenci\xF3n. Si bien el mozo que nos atendi\xF3 fue muy amable, el lugar en s\xED es una verg\xFCenza. Cada plato tiene una sugerencia de acompa\xF1amiento: pan o arroz. Lo que sucede es que esa sugenrencia cuesta entre 7 y 11 pesos. Los muy caraduras cobran una canasta de pan 7 pesos! El segundo problema es que el pan que ofrecen es el mismo que traen a la mesa una vez realizado el pedido y que viene incluido en el cubierto."
+    date: 30-05-2008
+    user: http://mi.guiaoleo.com/members/10761
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Nunca hab\xEDa comido cocina hind\xFA en Bs. As.  Muy buena experiencia.  Vale la pena ir a probar aunque sea una vez.  Los mozos est\xE1n muy bien preparados, porque si sos novatos con este tipo de cocina te saben orientar.  Excelente la degustacu\xF3n de postres.  Ideal para los que buscan algo nuevo.  El cocinero es hind\xFA y se nota que los sabores son realmente ex\xF3ticos.    Eso s\xED.  con una botella de vino de los m\xE1s baratos entre 4 personas -o sea una copa por persona- , un agua mineral cada uno,  postre  y 10% de propina, sale $100.  La indicaci\xF3n de precio promedio no es correcta."
+    date: 25-05-2008
+    user: http://mi.guiaoleo.com/members/19059
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Los platos eran muy ricos, exquisitos. Nosotros probamos varias veces comida hind\xFA en el exterior, y por lo que recordamos era muy parecida. La atenci\xF3n, cordial, pero los mozos no tienen mucha idea de lo que est\xE1n sirviendo, salvo varias advertencias sobre lo picante que son algunos platos. Nos fuimos con la billetera un poco mas vacia, pero muy satisfechos y contentos de haber podido repetir la experiencia de comer hind\xFA, volveremos!"
+    date: 23-05-2008
+    user: http://mi.guiaoleo.com/members/45362
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Excelente la atencion ya que explican los platos y como estan hechos. Hacen una introduccion previa sobre la comida Hindu que es muy positivo para quien no conoce este tipo de comida. Los sabores exquisitos. Lugar muy recomendable para ir
+    date: 10-05-2008
+    user: http://mi.guiaoleo.com/members/44821
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui con un amigo que vivio 6 meses en india... asi que su critica fue muy util: excelente!"
+    date: 04-05-2008
+    user: http://mi.guiaoleo.com/members/46743
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida. Es comida india sofisticada (distinto a lo que se podr\xEDa comer en un indio en Londres). Muy sabroso y con un picante adaptado al paladar local. \r\n\
+      \r\n\
+      La \xFAnica contra es que tienen pocas cartas, con lo que puede tardares en \"arrancar\" con el pedido. Al margen de esto, el servicio es muy bueno y esmerado."
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/45638
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Alter\xF3 substancialmente mis expectativas, el ambiente es tranquilo y la musica tenue, se hace m\xE1s hincapi\xE9 en la comida (que es lo que uno espera al fin). Fuimos 3 personas, y la verdad es que cada plato es mas delicioso que el otro, entre los que probamos me quedo mas con el Bhuna Gosh que son trozos de cordero TIERNISIMOS en una salsa espectacular, los sabores retronasales se advierten hasta en el postre y el t\xE9, y recomiendo ir de noche pues esta comida deja una sensaci\xF3n tanto de saciedad cpmo afrodis\xEDaca, ideal para ir con la pareja."
+    date: 26-04-2008
+    user: http://mi.guiaoleo.com/members/27658
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Relalmente muy bueno,tanto la comida como la atencion.lugar muy lindo,comi el pescado de entrada muy bien el punto.luego cordero buenisimo,el helado muy bien...precio justo..recomendable
+    date: 06-04-2008
+    user: http://mi.guiaoleo.com/members/41525
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fui varias veces y siempre comi bien, el ambiente es agradable y la atencion muy cordial. Creo que es momento de renovar la carta porque esta quedando chica y nunca la tocaron desde la inauguracion. Es un buen lugar para probar sabores de India, muy recomendable.
+    date: 31-03-2008
+    user: http://mi.guiaoleo.com/members/35274
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena la comida, la atencion es buena, en cuanto a la ambientacion esta acorde a la propuesta, los precios no son execivos, es digno de reincidir si gusta este tipo de propuesta gastronomica.
+    date: 05-03-2008
+    user: http://mi.guiaoleo.com/members/20961
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Tanto los due\xF1os como el cocinero son indios, y se nota en la comida, no en la ambientaci\xF3n. Tienen el \xFAnico tandoor (especie de cocina india) de buenos aires, y se nota. Comida muy especial, mucho m\xE1s original que otros restaurantes de comida similar en  Bs As. Fui por lo menos 5 veces y siempre me encant\xF3."
+    date: 24-02-2008
+    user: http://mi.guiaoleo.com/members/40917
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es agradable y la atenci\xF3n de los mozos excelente al menos en la ocasi\xF3n que fui con mi pareja. La comida es sabrosa, el pan que sirven especialmente delicioso y todo estaba en su punto justo.\r\n\
+      El pollo con salsa de curry y coco, imperdible.\r\n\
+      Los vinos, pocos y caros; deber\xEDan ampliar la carta en ese sentido."
+    date: 14-02-2008
+    user: http://mi.guiaoleo.com/members/30540
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Los platos tenian buen sabor pero nada que ver con un autentico sabor indio. El arroz estaba como pasado y el azafran casi no se veia.
+      El ambiente muy ruidoso y la ambientacion demasiado sutil. La atencion no estuvo mal, pero hay otras opciones de comida india mucho mejores en BsAs y con mejor calidad por ese precio.
+    date: 19-01-2008
+    user: http://mi.guiaoleo.com/members/12640
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Al ser nuestra primera experiencia en comida India no es posible comparar ni saber cuan fiel es a ese tipo de cocina, pero nos pareci\xF3 una experiencia muy agradable aunque personalemnte no volver\xEDa con demasiada frecuencia."
+    date: 10-12-2007
+    user: http://mi.guiaoleo.com/members/3479
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      En muchas partes del planeta existe esta farsa llamada "sabores secretos de la India". Abramos los ojos existen en todas partes el tema es usarlas o acaso nosotros no mezclamos varias hierbas y hacemos un excelente chimichurri?    
+      En los tres restaurantes de tendencia india en Bs As hacen todo parecido. Mucha crema de leche recocinada en comida recalentada.
+      ABRAMOS EL PALADAR Y LOS OJOS... NOS MIENTEN!
+    date: 23-11-2007
+    user: http://mi.guiaoleo.com/members/36493
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente relaci\xF3n precio/calidad. Ya concurri varias veces e incluso festeje mi cumplea\xF1os alli. La atencion como la comida son siempre exelentes. El menu ofrece opciones picantes y otras suaves, los mozos son muy buenos consejeros para introducirnos a estos nuevos sabores."
+    date: 19-11-2007
+    user: http://mi.guiaoleo.com/members/35809
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida \xE9tnica, muy bien atendido con buen asesoramiento y explicacion de la carta. Para volver pronto y degustar otros sabores hindues."
+    date: 17-11-2007
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente excelentes sabores de los platos y la atencion es esmerada. El ambiente es muy bueno sin excesiva decoraci\xF3n (personalmente, no me gustan los restaurantes indios llenos de budas y elefantitos) aunque las mesas de a dos est\xE1n un poco demasiado juntas entre s\xED. "
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/35412
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Comimos platos de pollo y en cada platos, el pollo era casi crudo. El mozo no queria cambiar los cubiertos entre platos. \r\n\
+      Pedimos una botella de agua, el moso nos servio una parte y se fue con la botella; luego raclamos un poco mas de agua y nos dijo que se habia terminado la botella (muy dudoso). \r\n\
+      Adem\xE1s, se equivocaron con un plato y el mozo le ech\xF3 la culpa al cocinero (como si el no tenia ojos para ver que era equivacado al servirle). Muy mal y costoso para baja calidad."
+    date: 06-11-2007
+    user: http://mi.guiaoleo.com/members/35999
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Vine ya dos veces y siempre fue una experiencia excelente. El servicio es excelente y la comida es picante y especiada como lo quer\xEDamos. El ambiente es muy bueno y el men\xFA tiene una peque\xF1a pero bien seleccionada variedad para elegir. \r\n\
+      Los postres son raros, pero me gust\xF3 mucho el Kulfi helado."
+    date: 29-10-2007
+    user: http://mi.guiaoleo.com/members/12402
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Excelentes sabores, todos los platos muy bien condimentados. El servicio bueno pero un poco desbordado un viernes por la noche. El lugar es en si agradable, moderno, con un leve toque indio.
+      Buenos vinos pero pocos. Vale la pena probarlo.
+    date: 12-10-2007
+    user: http://mi.guiaoleo.com/members/15021
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la comida, sabores indios 100 con materia prima muy bien elegidas. El sabor es muy particular y original, desde sus entradas a los postres (los cuales son para gustos bastante particulares tambi\xE9n). La atenci\xF3n es muy buena (los mozos atienden pocas mesas). \r\n\
+      A la ambientaci\xF3n le dar\xEDa una vueltita m\xE1s, bajar el techo, algunos adornos \xE9tnicos... pero, a comer! recomendado."
+    date: 12-10-2007
+    user: http://mi.guiaoleo.com/members/15305
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Mis felicitaciones al chef del restaurante!!!\r\n\
+      La comida es excelente. Pude probar distintos tipos de condimentos que le dan un toque especial a los platos. El ambiente es bastante tranquilo y rom\xE1ntico, a pesar de que se hace un poquito ruidoso cuando el sal\xF3n est\xE1 lleno. La atenci\xF3n es impecable, con mozos bien entrenados y muy dispuestos a asesorarte en la elecci\xF3n de los platos. Muy rico los postres!!"
+    date: 11-10-2007
+    user: http://mi.guiaoleo.com/members/34652
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me parecio buen\xEDsimo, la m\xFAsica, las luces.\r\n\
+      El Naan relleno de cordero de entrada super recomendable! Los sabores super definidos, unas mezclas barbaras que por lo que le\xED se debe a que los socios y el chef son de regiones diferentes de la India, en fin... muy recomendable y no dejen de pobrar un postre a base de zanahorias!!"
+    date: 10-10-2007
+    user: http://mi.guiaoleo.com/members/33788
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Una excelente oportunidad para conocer los sabores, perfumes y delicias de la India.
+      Pedimos ayuda para que nos orienten con los platos a pedir y recibimos una atencion buenisima.
+    date: 10-10-2007
+    user: http://mi.guiaoleo.com/members/33777
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hab\xEDa escuchado hablar del lugar y ten\xEDa muchas expectativas, soy una fanatica de la comida india y me considero muy exigente en lo que respecta a gastronom\xEDa. \r\n\
+      El ambiente es muy sobrio, con luz calida y algunos detalles de sedas originales de la India. La musica es fundamental al momento de crear el clima deseado, clasica instrumental con tablas y citares. La comida es \"t\xEDpica\", recomendable el pollo malai kebab, naan de cordero (insuperable), biryani de cordero con arroz basmati y paner saag. Probamos un kulfi de mango supremo. La atencion es excelente, incluyendo la de los propios due\xF1os, tambi\xE9n de la india, que se acercan mesa por mesa a saludar y sugerir combinaciones."
+    date: 10-10-2007
+    user: http://mi.guiaoleo.com/members/33792
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar, la atenci\xF3n y la ambientacion estubo muy bien, la comida tambien buena, aunque no me pareci\xF3n muy indio que digamos, pero bueno, ser\xE1 cuestion de probar otros platos. Lo que si recomiendo es no pedir postres ya que son muuuy raros, y cuando uno lee helado, traen algo frio que no se asemeja al que todos conocemos (esto reconocido por el mozo tambien). En general, es un buen lugar para cambiar un poco. Recomendable."
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/31654
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida y la atenci\xF3n son muy buenas. Sabores distintos a los habituales, pero tampoco son muy exagerados. \r\n\
+      El lugar es muy agradable, tampoco se excede en la tematica de la india, lo cual lo convierte a un lugar muy equilibrado."
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/13731
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno todo, se repite un poco la comida al d\xEDa siguiente. Los postres podr\xEDan mejorar, aunque son muy originales."
+    date: 25-08-2007
+    user: http://mi.guiaoleo.com/members/27333
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy aut\xE9nticos los sabores, bien preparado todo, la comida lleg\xF3 a la mesa bien caliente, y el mozo (muy profesional) nos asesor\xF3 muy bien para no pedir de m\xE1s. Muy recomendable."
+    date: 20-08-2007
+    user: http://mi.guiaoleo.com/members/8859
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Lindo el lugar pero las mesas estan demasiado juntas
+      !  El servicio fue bueno y los mozos eran muy amables y atentos.  La comida era rica pero muy cara, la mayoria de los platos principales no vienen con arroz y no son abundantes.
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El lugar es lindo pero de ambientacion india no tiene mucho. Las mesas estan demasiado pegadas unas contra otras queriendo aprovechar el lugar fisico al maximo. Para los precios que se manejan en el restaurante los platos resultan caros. El Polo Tikka es muy rico pero el Biryani de cordero no esta taaaan bueno. Notamos que ambos platos tenian demasiado cardamomo y de llegar a masticar alguna de las semillas el gusto de las mismas afectaba bastante al sabor de la comida.
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "la comida fue increible, la cual dejo un gusto en el paladar delicioso...una explocion de sabor.si puedo dar un consejo es que las mesas estaban demasiado juntas, pero a la vez eran comodas. "
+    date: 14-08-2007
+    user: http://mi.guiaoleo.com/members/31590
+    ambiente_rank: muy bueno

@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Muy buen lugar para los almuerzos de oficina, nada de citas romanticas, pero maneja precios muy accesibles y comida caseras, el lugar ideal para comer bien los dias laborales sin gastar fortuna.
+    date: 17-01-2008
+    user: http://mi.guiaoleo.com/members/38311
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Se trata de una rotiser\xEDa de barrio. No hay carta y la comida es casera, pero la calientan en el microondas a la vista del cliente. "
+    date: 18-04-2007
+    user: http://mi.guiaoleo.com/members/3808
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Se come muy bien y muy barato. La cocina es casera, como hecha por mam\xE1. Voy a volver."
+    date: 04-11-2005
+    user: http://mi.guiaoleo.com/members/4672
+    ambiente_rank: muy bueno

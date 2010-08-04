@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Este plato est\xE1 fuera de los men\xFA ejecutivos que se renuevan todas las semanas. Tienen 10 opciones para elegir y todas entre los 10 y 15 pesos, incluyendo bebida y postre. Lo adoptamos para el almuerzo de todos los d\xEDas. "
+    date: 31-03-2006
+    user: http://mi.guiaoleo.com/members/7470
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Muy buen lugar para comer, disfrutar de un buen show y del baile. 
+      Con nuestros amigotes nos hemos divertido, la pasamos muy bien. Queremos volver.
+    date: 04-03-2006
+    user: http://mi.guiaoleo.com/members/7612
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Por el servicio que brindan y la atenci\xF3n que nos dieron es car\xEDsimo.\r\n\
+      Llegamos temprano y comimos \xFAltimos. \r\n\
+      La verdad que la atenci\xF3n deja mucho que desear. Es la \xFAltima vez que voy. \r\n\
+      Nos atendieron cinco mozas distintas: una porquer\xEDa. \r\n\
+      No andaban los ventiladores y al bailar nos morimos de calor."
+    date: 17-12-2005
+    user: http://mi.guiaoleo.com/members/5550
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buen lugar para pasar un cumplea\xF1os."
+    date: 25-11-2005
+    user: http://mi.guiaoleo.com/members/4973
+    ambiente_rank: muy bueno

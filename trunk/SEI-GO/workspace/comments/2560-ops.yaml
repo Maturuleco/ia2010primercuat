@@ -1,0 +1,21 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Excelente lugar para comer luego del cine. Pedi matambrito de cerdo a la pizza con papas noisettes y estaba buenisimo. En otras ocasiones he pedido las rabas a la provenzal que tambien son barbaras, todos los platos son muy abundantes.
+      Muy buena la atencion de los mozos y el ambiente, los precios tambien muy accesibles, Definitivamente un lugar muy recomendable.
+    date: 09-01-2010
+    user: http://mi.guiaoleo.com/members/68911
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "siempre a la salida del cine y a la salida de algun show en river visite este lugar, desde hace a\xF1os, es un lugar de comida parte\xF1a, mucha variedad, porcione abundantes. La atencion en mi ultima experiencia fue realmente mala, el mozo tardo mas de 45 minutos en venir a cobrarnos."
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Voy hace muchos a\xF1os a la salida del cine. LA comida rica y abundante, pero no es nada gourmet, simplemente una pizzer\xEDa que hace minutas, muy ricos los crepes y las pastas, y tambi\xE9n las pizzas. Tiene reservados de madera sobre un costado. La atenci\xF3n correcta."
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/36102
+    ambiente_rank: bueno

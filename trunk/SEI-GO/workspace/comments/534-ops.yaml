@@ -1,0 +1,200 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Para mi sigue siendo uno de los mejores restaurants de Buenos Aires. Si no estuviera dentro de un hotel, se lo consideraria mejor.
+      La comida es perfecta, la atencion es super. la relacion costo-beneficio excelente. Mejoraria el ambiente que es poco frio e impersonal. Lo super recomiendo.
+    date: 31-05-2010
+    user: http://mi.guiaoleo.com/members/83214
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "a mi me gusto y me sorprendi\xF3\r\n\
+      el servicio fue muy bueno\r\n\
+      y la comida tambien\r\n\
+      el precio no es para nada desorbitado\r\n\
+      el lugar en si no deja de ser un hotel ahi estan flojos\r\n\
+      lo recomiendo"
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/40134
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El buffet con pocas opciones pero lo m\xE1s sorprendente es que no ten\xEDan ni aceite, ni aceto ni tampoco vinagre para condimentar. La excusa fue que se les hab\xEDa terminado. El plato caliente, un pollo recalentado. El servicio pr\xE1cticamente no existe, se confund\xEDan con los pedidos , el vino lo trajeron terminando el primer plato y lo dejaron en una mesa a 10 mts de la nuestra. Ante el abandono de los mozos tuvimos que levantarnos para servirnos. Al final, un mozo pidi\xF3 la tarjeta, luego otro trajo la factura y una vez que pagamos apareci\xF3 el cafe con un boldo que no hab\xEDamos pedido. 5 estrellas??"
+    date: 28-05-2009
+    user: http://mi.guiaoleo.com/members/52743
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Muy buen buffet, de calidad (no es para menos en un 5 estrellas). ahora, el servicio p\xE9simo (no menos de 3 veces tuvimos que pedir que nos sirvan bebidas). es un ambiente agradable pero para no pasar verguenza (por levantarse varias veces a servirse del buffet) conviene ir con alguien de confianza o no como almuerzo de trabajo. Los platos calientes, sencillos."
+    date: 21-05-2009
+    user: http://mi.guiaoleo.com/members/16898
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Un muy buen lugar desde el angulo que uno esta comiendo en el hotel hilton por 80$, pero si se evalua el nivel de oferta en platos que ofrecen me parece un poco pobre para, justamente, esta categoria de hotel. Precio correcto para lo que ofrecen, oferta muy basica para el nivel de lugar.
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/54476
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Fui a desayunar y la verdad es que se come bien, hay una buena variedad de calientes (huevos revueltos, panceta, salchichas, choricitos, tomates con mozzarela, papas u omelette de salmon ahumado). Los frios son la parte floja, tienen pcoos quesos y fiambres solamente, y algo de frutas y cereales, nada del otro mundo. Es bueno pero no se si lo vale por que salio casi 90 $. Quizas la zona y el lugar es lo mejor de todo. Se desayuna bien pero hay otros hoteles con mejor relacion precio calidad y variedad.
+    date: 20-03-2009
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: la seleccion de platos es muy acotada. platos muy elaborados que no valen lo que estan cobrando. no me gusto para nada.
+    date: 04-01-2009
+    user: http://mi.guiaoleo.com/members/36831
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: fuimos con machi luego de una extensa caminata, y aterrizamos al hilton por los calambres. buenas opciones y excelente atencion con muy buenas y sinceras propuestas. el ambiente adecuado y comodo, tal vez el aire un poco frio y los platos no salieron al punto deseado por lo que se retribuyo de buena forma con la gentileza del postre sin costo. recomendados los platos del dia y los pescados y mariscos.
+    date: 29-12-2008
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: El lunch del mediodia, una excelente oportunidad para deleitarse con comidas preparadas con una calidad superior. Una equilibrada variedad de entradas, compuesta de ensaladas y otros platos frios muy creativos e igualmente deliciosos, el salmon ahumado es adictivo, los boconccinos y tomates secos una mezcla muy especial en la entrada. Altisimo nivel en frutos de mar, langostinos, camarones y ostras a la orden del dia. El servicio muy atento, pero faltaria mas personal. La ambientacion tiene su complemento en la vista del Hotel Hilton, pero en restaurante perse no tiene mayor pretencion.
+    date: 21-11-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Festejamos mi fiesta de colacion de grado, eramos 7 personas y muy bien. Comida de calidad, variada y rica. Carta de vinos desde 70 pesos.
+      Al mediodia es comida buffet, sale por persona 85 pesos. Muy ricos postres. Es un lugar para estar tranquilo.
+    date: 17-11-2008
+    user: http://mi.guiaoleo.com/members/41099
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Comi bien, pero nada del otro mundo. Una merluza negra, correctamente preparada. El \xA1servicio es bueno, pero le falta un poco al ambiente. Demasiado despojado. Es como que esta al costado del hotel, en un rincon."
+    date: 15-09-2008
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Me referire al servicio de buffet del mediodia; que difiere del menu de comida autoctona que sirven por la noche. El menu esta compuesto por platos frios (mariscos, ensaladas, fiambres, quesos y muchas otras exquisiteces). Como principal hay 5 opciones con pescados, carnes, aves, pastas, etc. Y ademas especialidades de parrilla incluyendo cochinillo. Los postres son muy variados y espectaculares. Este servicio de $77 incluye una bebida sin alcohol, y cafe. Lo exquisito de su comida, su bellisimo ambiente y esmeradisima atencion hacen que uno se enamore rapidamente de este restuarante
+    date: 25-08-2008
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Altamente recomendable, en todos los aspectos. buen precio, atinada, lindo lugar. armonia por todos lados
+    date: 23-06-2008
+    user: http://mi.guiaoleo.com/members/36514
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      muy buen ambiente generado x el hotel 
+      muy simpatico el personal
+      la comida muy rica
+    date: 10-06-2008
+    user: http://mi.guiaoleo.com/members/626
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La oferta de comindas es variada y de muy buena calidad. Quiz\xE1s es un poco excesivo el precio."
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/1264
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "fuimos al Brunch del sabado incluye vino, muy bueno, la calidad desde el pan, frios fianbres tomates secos y la carne a parrilla a le\xF1as excelente.\r\n\
+      la atencion muy buena, y tambien la calidad del cafe"
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/13279
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El restaurant, en cuanto ambiente, no me gusto que sea tan abierto (ya que no esta separado del lobby gigante del hotel) pero es como el de cualquier rest\xF3 de un hotel. Las entradas fr\xEDas excelentes y muy variadas. Concuerdo con la opinion respecto a lo caliente: medio pelo. Aunque el cochinillo al horno de barro muy sabroso. Los postres parec\xEDan buenos pero yo probe uno solo y me defraudo; es que el mini lemon pie tenia gusto a pollo al horno. El servicio es muy bueno, muy atento. \r\n\
+      En fin, si fuera otra vez solo comer\xEDa entradas fr\xEDas, muuuy buenas!"
+    date: 27-01-2008
+    user: http://mi.guiaoleo.com/members/6823
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "La verdad que el lugar es muy lindo, la atenci\xF3n es muy buena, pero la comida es regular y nada mas, por consecuencia sus precios son una locura por lo que te ofrece el lugar. Como la premisa de salir a COMER es COMER, realmente prefiero elegir otro sitio en la variada oferta gastron\xF3mica porte\xF1a. Para disfrutar de un buen ambiente con una mujer, me quedo en casa prendiendo unas buenas velas, saumerios, un toque de jazz, sinatra y R&B, y pido la comida en el mejor Resto del barrio si no quiero cocinar. Si salgo a cenar, quiero comer bien, y ac\xE1 se come regular y caro. Mi humilde opini\xF3n."
+    date: 19-12-2007
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Las entradas y los postres son excelentes, los platos principales bien pero nada para destacar. La atenci\xF3n muy buena y el clima general bien. \r\n\
+      Volver\xEDa con gusto."
+    date: 04-10-2007
+    user: http://mi.guiaoleo.com/members/33401
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fuimos a festejar un aniversario, la comida es excelente, una muy buena carta de vinos un poco cara a mi entender, la entrada y los postres excelente y el lugar es para un buen rato de intimidad.
+    date: 01-07-2007
+    user: http://mi.guiaoleo.com/members/31614
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es regular y la atenci\xF3n es mala, me cobraron mal el vino, la cuenta estaba mal y el moso me gasto."
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/22464
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "El lugar es agradable para ir en pareja. L\xE1stima que no est\xE1 cerrado respecto al lobby del Hilton, por lo que hubo un contingente de j\xF3venes que hicieron un poco de ruido al principio. El lugar estaba muy vac\xEDo (Mi\xE9rcoles), por lo que no tuvimos problemas en la atenci\xF3n. Es m\xE1s, el mozo fue la principal causa por la que nos quedamos a comer, ya que la comida es demasiado extravagante. Recomiendo ir s\xF3lo si quieren probar platos nuevos como pato, conejo, cabrito, etc. As\xED y todo, no me pareci\xF3 nada del otro mundo. Tal vez valga la pena ir si hay violines o algun m\xFAsico para hacer la velada un poco mas rom\xE1ntica."
+    date: 28-02-2007
+    user: http://mi.guiaoleo.com/members/6811
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Fuimos com mi se\xF1ora en busca de un lugar reservado y romantico y lo conseguimos pero la comida dej\xF3 mucho que desear. El bife de chorizo parec\xEDa hervido y estaba duro y la batata rellena era dura. Muy buen servicio y ambiente pero no vuelvo mas."
+    date: 17-02-2007
+    user: http://mi.guiaoleo.com/members/19407
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente calidad en los platos y servicio de primer nivel. Muy buen clima.
+    date: 12-02-2007
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida y atenci\xF3n.  "
+    date: 02-02-2007
+    user: http://mi.guiaoleo.com/members/9360
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen lugar, buena comida y excelente servicio. L\xE1stima la vista (hall del hotel). Asientos c\xF3modos y buena distancia entre las mesas. Un detalle: violines tangueros en vivo. Platos no muy populares. Carta de vinos selecta. "
+    date: 14-12-2006
+    user: http://mi.guiaoleo.com/members/10129
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El men\xFA era con precio fijo y con tres opciones de entrada, principal y postres con vino Terrazas inclu\xEDdo. \r\n\
+      Todo de primer nivel, detalles que s\xF3lo en buenos lugares se pueden encontrar."
+    date: 06-08-2006
+    user: http://mi.guiaoleo.com/members/10483
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la relaci\xF3n precio/calidad. \r\n\
+      La materia prima es excelente: Salm\xF3n, trucha ahumada, ostras, cerdo, pescados chivito y la mesa de postre entera. Excelente atenci\xF3n. Ambiente tranquilo."
+    date: 31-07-2006
+    user: http://mi.guiaoleo.com/members/9963
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente comida, condimentada y exquisita. Muy atento el servicio y excelente ambiente. Muy Recomendable.
+    date: 29-04-2006
+    user: http://mi.guiaoleo.com/members/6011
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "No me sorprendi\xF3; esperaba m\xE1s de la comida. \r\n\
+      La atenci\xF3n es muy buena y atenta. \r\n\
+      El lugar es llamativo."
+    date: 15-02-2006
+    user: http://mi.guiaoleo.com/members/11523
+    ambiente_rank: excelente

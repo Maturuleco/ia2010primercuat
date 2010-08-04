@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El antiguo despacho de delicatessen gourmet fue renovado. Agregaron mesas y sillas que tambi\xE9n ocupan la vereda. Es simp\xE1tico. Alternativa diferente para picotear fiambres, salm\xF3n ahumado y otras cositas ricas, dulces y saladas. Atenci\xF3n adecuada. Ricos pancitos y muy buen caf\xE9."
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la verdad no entiendo el comentario anterior, hoy almorce al sol en la esquina y hace mucho tiempo no estaba tan tranquila y bien atendida. Los productos son conocidos desde siempre, me encanto!gracias... volvere
+    date: 04-03-2010
+    user: http://mi.guiaoleo.com/members/77779
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Desrecomiendo fervientemente este lugar. Una verg\xFCenza la atenci\xF3n, especialmente por parte del supuesto due\xF1o! Ped\xED un apple crumble de postre que claramente en la carta lo ofrec\xEDan con crema batida. El due\xF1o no s\xF3lo mezquin\xF3 la crema, sino que, para peor, me discuti\xF3 un largo rato con carta de por medio que en otra parte de la carta se ofrec\xEDa SIN crema y por eso la tra\xEDa as\xED. Cuando no encontr\xF3 en la carta \"sin crema\" me trajo la crema de mal\xEDsima gana. Me amargaron el almuerzo, no puedo creer que a\xFAn siga habiendo gente que trabaje TAN mal. No pierdan el tiempo yendo a comer a este lugar."
+    date: 02-03-2010
+    user: http://mi.guiaoleo.com/members/344
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Lo \xFAnico que me aguanto de no irme del restaurant fue la camarera que la verdad que se esmero. Esperamos 45 min., por un sanduwich bastante b\xE1sico con una papa fritas frias."
+    date: 07-02-2010
+    user: http://mi.guiaoleo.com/members/9484
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "fui a tomar el te,hay promociones que ofrecen cafe con leche con una porcion de torta(muy rica pero peque\xF1a)o on un cuadrado dulce.Los ingredientes son de primera calidad"
+    date: 01-10-2009
+    user: http://mi.guiaoleo.com/members/39071
+    ambiente_rank: muy bueno

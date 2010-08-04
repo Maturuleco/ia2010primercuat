@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Recomiendo el lugar si ten\xE9s ganas de escuchar buen jazz. Se aprecia bien dado que es muy \xEDntimo."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/78422
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Que desastre!!! Lo mas destacable fue una tabla de fiambres bastante normalita. El servicio fue malo, habia que insistir al menos 10 veces para que te traigan cada cosa, los tragos era del monton, en cuanto la gente comenzo a pedir comida, se lleno todo un olor a grasa espantoso. Ademas de cobrar por todo, precios altos, nos cobraron derechos de un show, que estoy segura que tambien cobraron a los que tocaron, porque eran horribles, caratulaban como free jazz, algo que apenas llegaba a freak porque de jazz nada de nada... Como para muestra basta un boton, ahi no vuelvo, ni loca!!!!
+    date: 10-09-2009
+    user: http://mi.guiaoleo.com/members/13206
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Muy buena la propuesta, los artistas, lastima que si solo tenes ganas de tomar un cafe la moza(que parece co-due\xF1a)te mire con una cara y te trate con una onda de pocos amigos que no te dan ganas de volver. Las mesas superjuntas asi que si vas un dia pico no se puede ni caminar para ir al ba\xF1o. Lo recomiendo si sos un buen amante del jazz."
+    date: 11-03-2009
+    user: http://mi.guiaoleo.com/members/55931
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es chico pero la atenci\xF3n es muy esmerada tanto de parte de las camareras como del due\xF1o. Voy habitualmente para disfrutar de los grupos que visitan el lugar, haciendo del mismo un deleite para los que amamos la buena m\xFAsica. Hace unos meses tuve el placer de ver all\xED a 2 virtuosos de la m\xFAsica como son Nico Ospina en teclados y Carlos Falanga en bateria. Realmente sen-sa-cio-nal!!!"
+    date: 14-12-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Sin duda el mejor jazz en vivo y las mejores hamburguesas caseras de toda la ciudad. Adem\xE1s, el atractivo arquitect\xF3nico y valor hist\xF3rico de la casa, obra del reconocido arquitecto de que le da nombre al lugar. "
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/19660
+    ambiente_rank: excelente

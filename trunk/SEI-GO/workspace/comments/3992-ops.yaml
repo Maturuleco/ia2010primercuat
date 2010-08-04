@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena comida, aunque hay peruanos mejores y al mismo precio. De cualquier forma, buena relaci\xF3n precio-calidad. A trav\xE9s de los a\xF1os fue mejorando sensiblemente la higiene... La ambientaci\xF3n es kitsch . La atenci\xF3n es correcta."
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/75519
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida sabrosa, muy bien hecha y super abundante. La relacion precio-producto es excelente. Es como estar teletrasnportado en Lima!
+    date: 23-10-2009
+    user: http://mi.guiaoleo.com/members/51580
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buenos platos presentados de forma casera, para compartir. El ambiente familiar, con televisores que pasan videos de m\xFAsica peruana... La carta es extensa. Buena relacion precio / calidad / cantidad. A los mozos les cuesta explicar si no conoces de que trata cada plato. Tendrian que mejorar la ventilacion de la cocina, ya que el ambiente esta impregnado del olor a fritanga."
+    date: 25-07-2009
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buena comida y la cerveza siempre muy fria...peruano full full
+    date: 23-07-2009
+    user: http://mi.guiaoleo.com/members/24463
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un boliche re-peruano con muy buena comida, para los que prefieren autenticidad a moda. Pidan cerveza.
+    date: 28-04-2009
+    user: http://mi.guiaoleo.com/members/32957
+    ambiente_rank: malo/regular

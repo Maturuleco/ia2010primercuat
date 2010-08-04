@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "100 % recomendable. Muy lindo el lugar, la atenci\xF3n excelente, no demoraron en traer los platos, los platos fueron muy sabrosos y abundantes, y algo para tener en cuenta es que no cobran servicio de mesa."
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/39479
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El Patio de Aldo es un lugar espectacular. Pero deber\xEDan mejorar la cocina, aunque tengan que elevar un poco los precios. De esta manera ser\xEDa 10 puntos."
+    date: 09-11-2008
+    user: http://mi.guiaoleo.com/members/22495
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El lugar es muy agradable, la atencion impecable, la comida decayo bastante
+    date: 13-03-2008
+    user: http://mi.guiaoleo.com/members/41548
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos por recomendaci\xF3n de un conocido. Entrar all\xED y ver ese espacio con plantas e iluminado por luz natural fue hermoso. La atenci\xF3n fue excelente como as\xED tambi\xE9n la comida y lo que m\xE1s  importa en este momento... los precios. \xC9stos son muy buenos y vale la pena ir. VOLVEREMOS"
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/8720
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Rica comida, buena atencion y un ambiente calido con mucha luz natural,precios normales.
+      Para probarlo.
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/15601
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Conoc\xED el lugar por un festejo, muy c\xE1lido y familiar el ambiente. La comida estuvo bien, todas las entradas y los platos que prob\xE9 ten\xEDan buen sabor. La cocina no sale de los t\xEDpicos platos de bodegones pero los saben preparar muy bien. Un punto en contra es la velocidad del servicio: la mesa era de unas 25-30 perosnas, pero tardaron m\xE1s de la cuenta con las entradas, los platos y los postres, y ni siquiera vinieron todos juntos. El mozo fue m\xE1s aut\xF3ctono que eficiente. De todas formas, por el precio y calidad de la comida y el lugar, merece m\xE1s visitas. Es una buena opci\xF3n para salidas familiares o para comidas sin tantas exigencias."
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/20774
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un ambiente c\xE1lido y distendido con bastante luz natural.\r\n\
+      Servicio bueno y cordial."
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/19701
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida estuvo buena. La relaci\xF3n precio/cantidad/calidad fue \xF3ptima. Desgraciadamente, la atenci\xF3n fue muy mala: los mozos son muy descorteses y despreocupados. Demoraron veinte minutos en tomar el pedido."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/5971
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Realmente muy recomendable. Excelente ambiente y tiene muy buen servicio. La cocina es muy buena, ofrecen un men\xFA muy variado y acorde al precio y la calidad. "
+    date: 05-10-2006
+    user: http://mi.guiaoleo.com/members/10557
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Buen ambiente, ideal para ir con chicos o para reuniones familiares. Atenci\xF3n muy cordial y sol\xEDcita."
+    date: 10-09-2006
+    user: http://mi.guiaoleo.com/members/12750
+    ambiente_rank: muy bueno

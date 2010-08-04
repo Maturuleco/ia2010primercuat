@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida!! la parrillada para 2 muy buena y abundante. Las molletas exquisitas!! L\xE1stima no le ponen unos rinoncitos. Todo muy bueno!! volveremos. Y muy bien que la parrilla incluye fritas...!"
+    date: 03-07-2010
+    user: http://mi.guiaoleo.com/members/16306
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Buena atencion, rica la comida y muy rico el tiramisu.
+    date: 15-02-2010
+    user: http://mi.guiaoleo.com/members/12375
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Nunca fuimos pero s\xED vamos a buscar asado cada tanto. La comida es muy rica y el precio es econ\xF3mico. Lo recomendamos, vamos a volver a ir."
+    date: 10-08-2009
+    user: http://mi.guiaoleo.com/members/67574
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Atenci\xF3n mal\xEDsima a pesar de que el resto estaba medio vacio. Tuve que pedir el men\xFA del mediod\xEDa: Mno me lo propusieron y no figuraba en la carta. Tuvimos que esperar m\xE1s de media hora mientras atend\xEDan dos mesas de gente que hab\xEDa llegado despu\xE9s de nosotras.  La carne que ped\xED con ensalada mixta lleg\xF3 fr\xEDa con papas fritas. Mi hija pidi\xF3 un brochette de pollo y le trajeron un brochette mixto (m\xE1s caro). No quisimos cambiarlo porque ya hab\xEDa tardado demasiado. Ofrec\xEDan un descuento del 10 % por pago en efectivo pero no me lo reconocieron bajo el pretexto que inclu\xEDa un men\xFA."
+    date: 22-07-2009
+    user: http://mi.guiaoleo.com/members/35105
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La parrillada tard\xF3 media hora en ser servida por lo quer pensamos que todo se cocinaria en el momento.\r\n\
+      Minis chorizo y morcilla, recalentados y horribles, matambre sobre hervido, pollo regular, costillita de cerdo pasable, entra\xF1a asado y vacio malos. Achras muy malas. No lo volveremos a pisar. Lo \xFAnico bueno es la ambientaci\xF3n"
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/64384
+    ambiente_rank: muy bueno

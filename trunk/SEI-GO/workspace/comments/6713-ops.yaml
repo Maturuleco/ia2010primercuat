@@ -1,0 +1,125 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: me gusto mucho un ambiente muy calido, el pan de campo excelente,y los scons riquisimos...
+    date: 19-06-2010
+    user: http://mi.guiaoleo.com/members/83821
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Volvimos una vez mas a este lugar lindisimo. Comimos bien por el precio que tienen, la sopa es excelente aunque el servicio deja mucho que desear y lo que mas nos llamo la atencion es que adentro del restaurante habia gente fumando!. Increible. Nos quejamos con la encargada del lugar y ella nos dijo que no podia hacer nada y que es algo habitual. Una falta de respeto total hacia los clientes. No volveremos nunca mas.
+    date: 18-06-2010
+    user: http://mi.guiaoleo.com/members/70008
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar es muy lindo pero la comida es regular y el servicio malo! La ensalada que acompa\xF1a el sandwich era vieja y las papas rusticas recalentadas en el microondas. La ensalada de salmon en cambio estaba bien. Ahora el mozo que nos atendio deberia controlar su ansiedad. Ni bien apoye mis cubiertos me pregunto si podia retirar el plato, cuando di el ultimo sorbo de limonada ya estaba quitandome el vaso y en cuanto nos trajo la cuenta se llevo el postre sin terminar de mi marido. Agradezco que no me haya alzado de mi silla para sacarme del lugar. No creo que vuelva."
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/83348
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Vi y me qued\xE9 porque me gust\xF3 el lugar. Com\xED un sanguche gourmet. Era bastante contundente. Vino con una ensalada verde. Me cay\xF3 bastante pesado, para mi gusto era un poco ordinario.Habr\xEDa que probar la comida.. En cuanto a la atenci\xF3n, est\xE1n en la moda de mozos latinoamericanos, jovencitos, a los que no es f\xE1cil entender. Me parece que no vuelvo, a no ser a tomar un caf\xE9."
+    date: 02-06-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Hab\xEDa ido una vez para almorzar y me gust\xF3 mucho. Hoy fui a comer Brunch y fue un desastre. Las ensaladas de la entrada estaban viejas, el huevo (Eggs Florentine) me lleg\xF3 fr\xEDo y sobre una feta de pan fintio. Los scones vinieron secos y pedimos 4 veces manteca que nunca lleg\xF3. El servicio un desastre, varias veces pedimos cosas que no llegaron. Por 55 pesos por persona, podr\xEDa comer mucho m\xE1s rico y con mejor servicio en otro lugar. No volver\xEDa m\xE1s."
+    date: 09-05-2010
+    user: http://mi.guiaoleo.com/members/81606
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui la semana pasada a meredar y volv\xED este Domingo para el Brunch. La verdad es que me encant\xF3 la vibra del lugar adem\xE1s de que el brunch, a pesar de no tener cosas muy elaboradas, es bastante completo. Una opci\xF3n super recomendable para juntarse un Domingo con amigos. La atenci\xF3n bastante buena pero lo mejor es la ambientaci\xF3n...volver\xE9"
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/81193
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente propuesta para hacer brunch y a precio muy conveniente ($110 para 2 personas).\r\n\
+      La ensalada de salm\xF3n es, adem\xE1s de abundante, exquisita y las tartines dulces muy bien logradas.\r\n\
+      La atenci\xF3n de los mozos es excelente, sin demoras y demostrando que conocen la carta de punta a punta.\r\n\
+      Muy recomendable."
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Divino ambientado, pero por qu\xE9 los lugares \"con onda\" no poseen lo mismo en su servicio?!!!! Mozos poco atentos!\r\n\
+      La comida: buena"
+    date: 04-04-2010
+    user: http://mi.guiaoleo.com/members/80358
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Uno de las mejores propuestas para un buen brunch, para almorzar una quiche o un sandwich vegetariano, y sino, para tomar un gran t\xE9. La atenci\xF3n es muy buena, todos muy atentos. La cr\xEApe de nutella es una especialidad ideal para acompa\xF1arla con una fresca copa de vino. Los precios son acordes a la atenci\xF3n y la calidad de los productos. "
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/11229
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 este lugar, lo recomiendo! La comida riqu\xEDsima, platos bien presentados y todo muy fresco. Muy buen ambiente, est\xE1 tan bien puesto que dan ganas de quedarte toda la tarde... Recomiendo la ensalada de hojas vedes cpn palta, huevo y queso de cabra, riqu\xEDsima!!"
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/40669
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy buena atencion, muy rica comida, altamente recomendable
+    date: 24-02-2010
+    user: http://mi.guiaoleo.com/members/77371
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Sitio lindo pero... servicio pesimo y platos malos. Eggs benedict que consistian en un huevo duro sobre pan seco sin salsa, pedimos huevos revueltos con panceta y llego una omelette de jamon... mas de 1h despues del pedido. No tenian copa de vino. Tuvimos que pedir 5 veces para que nos traigan pan y manteca!! Pidieron disculpas pero No volvere!
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/76776
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El ambiente muy biem logrado, la decoraci\xF3n divina. Los mozos muy amables, pero los tiempos demasiado lentos. La comida lleg\xF3 fr\xEDa. M\xE1s all\xE1 de eso, un buen momento."
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/38011
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Me parecio un buen lugar, muy buena decoracion. la comida fantastica, el servicio fue excelente, los camareros muy guapos. volvere
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/75773
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encantaron las tazas antiguas de t\xE9, el lugar es muy agradable, volver\xE9."
+    date: 28-01-2010
+    user: http://mi.guiaoleo.com/members/75675
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El servicio no es destacable pero tienen buena predisposicion. La comida y la ambientaci\xF2n es muy buena. El brunch es bueno pero deberian ofrecer un refill de cafe o jugo."
+    date: 24-01-2010
+    user: http://mi.guiaoleo.com/members/75689
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: tartine es uno de esos lugares que desde que entras sientes la buena onda, la atencion es muy buena, la decoracion es increible, la comida es natural,los precios son accesibles..yo les recomiendo ir a pasar un buen rato , me encanto tartine!!
+    date: 29-11-2009
+    user: http://mi.guiaoleo.com/members/72593
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Muy buena la comida. Muy buena la ambientacion. Muy lento el servicio para traer la comida y para traer la cuenta, eso que fui al mediodia y el lugar estaba bastante tranquilo.
+    date: 26-11-2009
+    user: http://mi.guiaoleo.com/members/73761
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 la comida!!!!s\xFAper fresca, la demora se comprende porque todo se prepara en el momento, la limonada Lori-Lori riqu\xEDsima muy refrescante, yo la tomo sin az\xFAcar. El crepe riqu\xEDsimo!!!!!!!!!! El lugar muy lindo"
+    date: 24-11-2009
+    user: http://mi.guiaoleo.com/members/72630
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la comida!!! Se nota que es casera y con productos frescos! Los cr\xEApes son imperdibles y los postres tambien buenisimos! Yo recomiendo un Cr\xEApe Capresse y de postre una chocotorta, acompa\xF1arlo con limopnada Lori-Lori que te refresca y te ayuda a mantenerte liviana/o."
+    date: 23-11-2009
+    user: http://mi.guiaoleo.com/members/72560
+    ambiente_rank: excelente

@@ -1,0 +1,70 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Una decepci\xF3n total. La mozos parece que se r\xEDen en tu cara cuando te atienden y adem\xE1s te apuran. Cada vez que ped\xEDa alg\xFAn plato me dec\xEDan literalmente"
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/76213
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Realmente de lo peor que probe en el barrio chino.La atencion es horrorosa. Tardaron mas de 50 minutos en traerme el plato y no entendi que explicacion quisieron darme.Los platos minusculos, nada que ver con los otros de la zona. El precio identico al resto.No volvere jamas.
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/13017
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lindo lugar agradable, solo que se torna muy ruidoso. La comida es buena nada fuera de lo normal y el precio es accesible.
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/72024
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Habiendo tanto lugar para comer en el barrio chino, esta gente sirve comida de lo mas mediocre, tardan horas en atenderte, y en entenderte, el lugar esta mas o menos bien, pero te pegan una sacudida cuando viene la cuenta que parece que te hubieras perdido una parte de la historia... no vuelvo
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/13206
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fuimos y comimos espectacularmente bien. Super delicioso todo! salvo la sopa que no tenia sabor a nada... Hay cervezas orientales y es un complemento genial para este tipo de comidas. POr lejos lo mejor que hay en Cap Fed. Nosotros  vivimos en China y hablamos con conocimiento de la cocina y de los sabores de china. Volveremos sin duda!!!
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/56932
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Un desastre!! entramos y nadie nos saludo, nos sentamos donde quisimos, no nos dejaron pedir por separado entrada y plato principal. despues de esperar 1 hora y media, trajieron los platos. fideo de arroz y el lomo salteado,estaba a punto de irme, pense q se habian olvidado. 
+      nunca mas volvere, un desastre total! 
+      el colmo que entraron 10 personas juntas q seguramente eran amigos de la casa, y pidieron y los 5 min le llevaron todo
+      el peor restoran de comida china!
+    date: 10-03-2010
+    user: http://mi.guiaoleo.com/members/69939
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un ambiente asombroso, elegante, muy amplio y hasta lujoso, con jard\xEDn arbolado y cascadas (y ese leve toque kitsch tan encantador). Atenci\xF3n inmediata, buena comida y precios super-econ\xF3micos. Lo mejor del Barrio Chino, a mi juicio."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/77852
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: realmente el mejor restaurant de comida china,toda la comida deliciosa, el pollo con almendras es exelente y muy lindo el lugar.
+    date: 23-02-2010
+    user: http://mi.guiaoleo.com/members/6591
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lindo lugar. P\xE9sima atenci\xF3n, poca predispoci\xF3n de los camareros en ayudar a los comensales. La comida bien, aunque:\r\n\
+      El cerdo frito con salsa agridulce consiste en bu\xF1uelos con un trocito m\xEDnimo de cerdo en su interior..., por lo cual no se distingue la carne porcina....\r\n\
+      El arroz blanco era un masacote...\r\n\
+      Muy buenos eL pescado en ardilla, los arrolladitos primavera y las empanaditas.\r\n\
+      La carta de vinos (pedimos blanco) casi nula, ten\xEDan dos vinos, cuando pedimos una segunda botella del requerido, no hab\xEDa!!!\r\n\
+      La atenci\xF3n PESIMA, poqu\xEDsima predisposici\xF3n en camareros, errores en las \xF3rdenes"
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/76720
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "la comida es buena, ni mejor ni peor que otros restaurantes de la zona. pero pierde en comparaci\xF3n, porque es m\xE1s caro que los otros, y el lugar en si no tiene onda. es amplio, pero muy fr\xEDo e impersonal, no dan muchas ganas de quedarse. podr\xEDan mejorar la atenci\xF3n. es comprensible, ya que hay muchas mesas para atender, pero los platos tardan mucho en llegar, hay errores en la cuenta, olvidos en los pedidos, y en general mala atenci\xF3n de los mozos."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/3167
+    ambiente_rank: malo/regular

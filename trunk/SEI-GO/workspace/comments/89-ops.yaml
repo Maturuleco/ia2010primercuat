@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Lugar tranquilo, muy poca gente. Atenci\xF3n un poco lenta, poco esmerada. Comida regular: salmon en su punto, acompa\xF1amiento moderno pero sin gusto (desabrida mousse de camarones)."
+    date: 31-03-2010
+    user: http://mi.guiaoleo.com/members/54531
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es muy c\xF3modo para comer y charlar, sin ruidos, la atenci\xF3n esa un poquito apurada, la panara un desastre, la entrada, pricipal y postre muy buenos. buena opci\xF3n con algunas cositas para mejorar."
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/10483
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Hab\xEDa leido y escuchado hablar bien de este lugar. Me enga\xF1aron. Un viernes a la noche, solo dos mesas con gente. La comida fr\xEDa; desp\xFAes parec\xEDa recalentada."
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/23140
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos con reserva, sabdo por la noche, eramos la unica mesa.La comida esteticamente elaborada, malisima, como salida del freezer y recalentada. "
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/9483
+    ambiente_rank: malo/regular

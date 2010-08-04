@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "los burritos est\xE1n bien.. no sorprenden pero son ricos. \r\n\
+      al servicio le falta un poco de organizaci\xF3n pero son amables. \r\n\
+      el ambiente no es muy lindo, podr\xEDan mejorarlo.. para comer algo al paso est\xE1 bien."
+    date: 02-06-2010
+    user: http://mi.guiaoleo.com/members/29633
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "En lo particular siempre me gust\xF3 CBC, pero cuando era tan s\xF3lo un peque\xF1o c\xE1lido lugar en Lavalle. El due\xF1o Sam sol\xEDa pasearse para chequear que todo estuviera bien, la atenci\xF3n y la calidad eran excelentes en su momento.\r\n\
+      Ser\xE1 que la expansi\xF3n se les subi\xF3 a la cabeza, pero desde que abrieron distintos locales, los precios subieron considerablemente y disminuy\xF3 la atenci\xF3n, cantidad y calidad del producto.\r\n\
+      Todo muy rico, pero perdieron el inter\xE9s en los clientes y ahora est\xE1n enfocados en el bolsillo, lamentable porque era uno de mis lugares preferidos."
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/78299
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena pero no hay muchas opciones de men\xFA, tampoco ofrecen postre ni cafe. El lugar es lindo aunque los precios me parecieron caros por ser un fastfood, suelen aumentar peri\xF3dicamente."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78187
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy rica. Un poquito caro para lo que es la verdad. La terraza esta muy linda, pero un poco insegura y expuesta para mi gusto. La chica de la caja tenia un trato p\xE9simo. Se ve que les falta un encargado. Sin embargo, volver\xE9, quizas a otra sucursal porque la comida me gusto mucho."
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/50083
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La atencion fue exelente, no asesoraron en todo, todos muy atentos y cordiales, tiene muy buena variedad, y realmente todo lo que probamos estaba riquisimo, la pasamos muy bien en la terraza que tiene el lugar, muy calida y comodo. volveremos y es recomendable.
+    date: 23-01-2010
+    user: http://mi.guiaoleo.com/members/73193
+    ambiente_rank: muy bueno

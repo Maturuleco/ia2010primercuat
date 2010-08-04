@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: delivery 2 adultos 4 menores
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/77530
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Pedimos delivery como una nueva incorporaci\xF3n al que usualmente solicitabamos y respondio en el tiempo pautado y con buen servicio.Las pizzas son muy ricas,en especial la de anan\xE1s fileteadas en rodajas,la fain\xE1, y la napolitana perfumada con ajo,sin exceso.Y para nada grasosas."
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza del lugar es rica, pero la atenci\xF3n es MUY MALA. Tanto en el local como los encargados del delivery sobrepasan la falta de atenci\xF3n para convertirse en agresi\xF3n. Pareciera que te hacen un favor vendiendote una pizza. \r\n\
+      Por suerte en caballito hay pizzerias de igual o mejor calidad de las cuales elegir. Por eso, no consumo NUNCA MAS en ese lugar."
+    date: 14-01-2010
+    user: http://mi.guiaoleo.com/members/69767
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Comimos una pizza grande de muzzarella, el pedido llego a los cinco minutos. Nos sorprendio lo rica de la pizza, la verdad increible!! muy muy recomendable, excelente relacion precio calidad
+    date: 10-01-2010
+    user: http://mi.guiaoleo.com/members/47604
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      una pizza a la piedra increible de rica 
+      buena atencion , precio adecuado tirando a economico  , volveria a ir si ando por la zona
+    date: 28-10-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es una pizzer\xEDa t\xEDpica de barrio, el ambiente est\xE1 acorde a eso. No es muy grande pero si hace calorcito es agradable comer afuera.\r\n\
+      La pizza es muy sabrosa, para nada grasosa y se nota que los ingredientes son de muy buena calidad. Adem\xE1s, al no ser finita, llena bastante.\r\n\
+      La atenci\xF3n es buena, los pedidos demoraban lo normal.\r\n\
+      Los precios est\xE1n bien, y hay bastante variedad de pizzas.\r\n\
+      Sin dudas lo recomiendo"
+    date: 14-08-2009
+    user: http://mi.guiaoleo.com/members/56228
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente pizza y atencion, finita con rico queso, igual de buenas las empanadas. Una pizzeria de barrio pero mirando a la Avda Goyena. Recomendable.
+    date: 17-06-2009
+    user: http://mi.guiaoleo.com/members/55342
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy rica. Fina y sabrosa.
+    date: 30-05-2009
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La mejor pizza que hay en toda capital federal. El lugar no lindo pero si buscas comer una buena pizza es el lugar!!!
+    date: 01-02-2009
+    user: http://mi.guiaoleo.com/members/57643
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Pizzer\xEDa de barrio en la que se come muy bien."
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/48858
+    ambiente_rank: bueno

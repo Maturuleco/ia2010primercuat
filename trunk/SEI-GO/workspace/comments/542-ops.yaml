@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La entrada (ensalada con tiritas de pollo)no ten\xEDa pollo y demor\xF3 cuarenta minutos en llegar. Los ravioles eran sorrentinos y demasado condimentados, con una salsa que brill\xF3 por su ausencia. Nos dieron dos rodajas miserables de pan y cuando ped\xED m\xE1s, el mozo se borr\xF3."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/18801
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Demasiado caro para lo que ofrecen.Poca opci\xF3n de men\xFA y los platos no eran como dec\xEDa el men\xFA.Los mozos muy amables pero estar\xEDa bueno que los capaciten.El show demasiado breve, tenor regular, soprano muy buena.Muy mala la calidad de los parlantes.No hay buena relaci\xF3n en precio-calidad."
+    date: 11-11-2006
+    user: http://mi.guiaoleo.com/members/13460
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Poca variedad de platos. El ambiente es muy c\xE1lido y la atenci\xF3n es muy buena."
+    date: 10-08-2006
+    user: http://mi.guiaoleo.com/members/5180
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Men\xFA fijo aunque se pueden mezclar platos entre los dos posibles. \r\n\
+      La carta de vinos no existe tres marcas a lo sumo.\r\n\
+      Parece la experiencia de alguien que quiso poner un rest\xF3 de calidad sin tener idea del negocio gastron\xF3mico. \r\n\
+      Pedimos un aperitivo del men\xFA y no ten\xEDan, quisimos terminar con una copa de Malamado y tampoco ten\xEDan. Contrar\xEDan una de las reglas de oro de la gastronom\xEDa \"Nunca debe aparecer algo en el menu que est\xE9 en falta y no se pueda ofrecer al cliente\". "
+    date: 22-07-2006
+    user: http://mi.guiaoleo.com/members/10411
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es excelente. Muy agradable y tranquilo. Buena comida. Buena atenci\xF3n."
+    date: 20-09-2005
+    user: http://mi.guiaoleo.com/members/4116
+    ambiente_rank: excelente

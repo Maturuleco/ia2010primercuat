@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me surprendi\xF2 por ser un restaurante de hotel. Buena panera, buena cocina, servicio adecuado, una buena opci\xF2n para el almuerzo en microcentro. Hay lugares mejores, hay mucho mas peores."
+    date: 02-12-2009
+    user: http://mi.guiaoleo.com/members/72893
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me sorprendi\xF3 se tratara de un restaurant de hotel.La comida muy buena a pesar de solo tener 4 variantes de menu ejectivo y una carta muy acotada. Excelente panera, el ambiente muy \xEDntimo ideal para una conversaci\xF3n tranquila. Muy buena relaci\xF3n precio/servicio."
+    date: 26-08-2008
+    user: http://mi.guiaoleo.com/members/34530
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El menu ejecutivo es una buena opcion para los mediodias, pero hay que llegar temprano porque el salon se llena. La panificacion propia es riquisima y el principal muy bueno y abundante. La atencion fue cordial pero dejo bastante que desear en cuanto a la demora.
+    date: 09-01-2008
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n para el mediod\xEDa en microcentro, la relaci\xF3n precio calidad es excelente y con respecto al servicio fu\xE9 r\xE1pido y esmerado. Lo recomiendo."
+    date: 30-07-2007
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida y el servicio en general es muy bueno. Si bien es una excelente opci\xF3n en el microcentro al mediod\xEDa, cuando est\xE1s apurado es mejor elegir otro lugar ya que los almuerzos se hacen un poco largos, porque se generan algunas peque\xF1as demoras. Sin embargo, es muy recomendable y el ambiente es excelente. "
+    date: 09-05-2007
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: muy bueno

@@ -1,0 +1,37 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo mejor que tiene sin lugar a dudas es el lugar, y los videos que pasan toda la noche. Los viernes los men\xFAes son fijos con algunas pocas variantes, siendo as\xED la comida debiera ser muy superior a lo que es. Las supremas estaban fr\xEDas y la salsa de cuatro quesos era una salpicada que daba pena. La atenci\xF3n merece un cap\xEDtulo aparte. La camarera un desastre, te saca los platos sin que hayas terminado y ni pregunta, tuve que correrla para que me devuelva mi postre.\r\n\
+      El ambiente es bueno, pero la atenci\xF3n un desastre, una pena porque podr\xEDa ser un buen lugar.\r\n\
+      Con reserva siempre."
+    date: 27-07-2007
+    user: http://mi.guiaoleo.com/members/25303
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El Living es un excelente lugar para comer bueno y barato. Los platos son abundantes y de buen sabor. El ambiente en general es bueno: c\xE1lido y con buena m\xFAsica, que se proyecta en pantalla grande. "
+    date: 21-04-2007
+    user: http://mi.guiaoleo.com/members/16880
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un muy buen lugar para ir con amigos de vez en cuando. El ambiente est\xE1 muy bien ambientado, una pantalla grande con videos copados. La comida no est\xE1 mal, el plato principal es abundante y rico (a pesar de que tiene un men\xFA limitado). La atenci\xF3n no est\xE1 mal.\r\n\
+      Pero no es como antes, donde te pod\xEDas quedar un fin de semana luego de cenar. En ese caso, habr\xE1 que pensar en otra alternativa."
+    date: 08-03-2007
+    user: http://mi.guiaoleo.com/members/24694
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      El lugar es ochentoso, para el q le gusta eso esta bastante bueno. 
+      La comida es comun y los sillones para comer son muy lindos y comodos para estar sentados tomando un trago, pero NO para comer.
+      El servicio es malo, si bien eramos como 13-14 le erraron a 5 platos aproximadamente, cosa que me parece una barbaridad.
+    date: 20-10-2006
+    user: http://mi.guiaoleo.com/members/33443
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El living antes de lo que pas\xF3 en croma\xF1on era un buen lugar para comer y despues bailar. Ahora s\xF3lo se puede ver videos y no mucho m\xE1s por lo que perdi\xF3 su gracia. Respecto a la comida, no es caro pero tampoco gran cosa. Es m\xE1s para tomar unos tragos, ver videos y despues ir a otro lado."
+    date: 01-07-2006
+    user: http://mi.guiaoleo.com/members/9788
+    ambiente_rank: muy bueno

@@ -1,0 +1,162 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gusto mucha el cerdo, estaba muy bien preparado y condimentado. El lugar es super agradable y la atenci\xF3n es muy buena. El pan casero es muy bueno."
+    date: 28-06-2010
+    user: http://mi.guiaoleo.com/members/84465
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es peque\xF1o, pero agradable. La moza no se esfuerza mucho, pero es una constate del barrio, la comida muy bien, el pan casero imperdible."
+    date: 04-02-2010
+    user: http://mi.guiaoleo.com/members/66572
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "simpatico lugar de embutidos artesanales y fiembres caseros, muy uen pan, atenteni\xF3n un poco lenta pero sin mala onda, para tomar birras y apsasrla bien"
+    date: 02-02-2010
+    user: http://mi.guiaoleo.com/members/75880
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "A favor:los embutidos y encurtidos caseros, el pan, las mesitas al sol, si est\xE1 lindo y la cerveza artesanal \xA1bien fresca, a veces.\r\n\
+      En contra:es chico, muy ruidoso, olvidarse de tener un \xE1pice de intimidad porque las mesas est\xE1n tan pegadas que compart\xEDs tus conversaciones. El servicio es para el olvido, lento y desatento. Tardan mil a\xF1os para traerte un simple sandwich, bah! en realidad, tardan un mont\xF3n de tiempo para todo lo que pidas. Comer termina siendo un tedio, y por cierto caro, pagar $25 por un sandwich me parece un robo. El lugar es sucio. Increible est\xE1 siempre lleno!."
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Cada vez que voy a este lugar, se que el mozo de turno me va a atender mal, sin ganas y de forma antipatica.  El ambiente si bien es chico es muy lindo , calido y reconfortante. Recomiendo poner sillas mas comodas.  Los platos que pruebo generalmente son muy buenos tambien , y las cervezas artesanales ahora llegan a la mesa frias y las recomiendo. Lo unico que me impresiona es la habilidad del due\xF1o para elegir mozos con tan poca onda...."
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/66073
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es la segunda vez que voy y pido lo mismo: \x93picada Territorio\x94 es muy buena, casi excelente. Comen tranquilamente 2 muy bien, a la vez que es muy variada en cuanto a su contenido. Los vinos del Sur son bastante buenos y el lugar no esta para nada mal. La m\xFAsica acorde y el mozo de 10. Recomiendo ampliamente lo que he comido. Buen lugar para ir en pareja."
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/46699
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El mediod\xEDa no es un horario donde este restaurant tenga movilidad. La comida es diferente, sin embargo le falta una adecuada elaboraci\xF3n. El ambiente de d\xEDa muestra las debilidades del lugar, entre ella la limpieza"
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La bondola y el pan casero de primera, el lugar un poco chico, pero vale la pena intentar
+    date: 14-09-2008
+    user: http://mi.guiaoleo.com/members/33889
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gustaron mucho la bondiola casera y el jam\xF3n de ciervo. Fuimos un grupo de amigos y coincidimos en que los quesos se destacaron, al igual que los panes que hacen ahi mismo."
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/46910
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Los jamones y los quesos se destacan, al igual que el pan. El lugar es muy lindo y est\xE1 bueno el detalle de los ba\xF1os (con puertas de heladera antigua. La m\xFAsica, rara."
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/46668
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "muy bueno el sandwich, hace diferencia el pan casero, y la m\xFAsica excelente. Fui con amigas y el mozo nos trato muy bien."
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/46667
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar para compartir con amigos. Muy buena la atenci\xF3n y la m\xFAsica."
+    date: 08-06-2008
+    user: http://mi.guiaoleo.com/members/46028
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy lindo reducto para una picada entre amigos para el finde!!
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/48442
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "P\xE9sima atenci\xF3n! Eramos una mesa de 8 personas (hab\xEDa otras dos de 2) y tardaron m\xE1s de 20 minutos en limpiarnos la mesa y atendernos. El mozo se olvid\xF3 de la mitad de las cosas (la otra mitad no ten\xEDan). Los precios un disparate. "
+    date: 22-01-2008
+    user: http://mi.guiaoleo.com/members/38639
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Fuy con una gran amiga, con ganas de conversar... olvidalo, la musica muy fuerte, y un poco ruidosa para el espacio que es justo. Comimos bien, me parece que le falta un pelin para poder decir muy bien. Pero estaba sabroso. No me gusta que pongan en la carta cordero y te traigan ternera, eso no se hace! Las cervezas que tienen son exelentes! Creo que pueden hacer mas por el lugar, con un empujoncito estaria barbaro, tanto en la atencion, en la cocina, como en el ambiente. Adelante! la propuesta esta buena
+    date: 03-10-2007
+    user: http://mi.guiaoleo.com/members/9583
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos con unas amigas que ya conocian el lugar. Divertidisimos los ba\xF1os-heladera-de-carniceria que te hacen acordar al carnicero de tu barrio. La picada de ahumados excelente, el pan: casero, riquisimo y te traen las veces que quieras. el lugar es algo chico, pero el ambiente super tranquilo, musica muy suave, cero bochinche. \r\n\
+      Concuerdo con comentarios de otros usuarios, por ahi un mozo no tiene mucha idea a la hora de explicar la carta (por ejemplo, orientacion en cuanto a los distintos tipos de cerveza artesanal) pero enseguida viene otro y te explica."
+    date: 23-08-2007
+    user: http://mi.guiaoleo.com/members/22767
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      me parecio muy bueno sobre todo el hecho que ellas producen el salmon y otros ahumados que venden.
+      el ambiente me parecio muy amisto a pesar de que no todos los asistentes hablaban mi idioma
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/28810
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: la simpatia del mozo compenso el q no supiera demasiado sobre las cervezas y los platos en general. nos atendio muy bien y de manera super amable... pero la improvisacion se notaba un poco. el sandwich de cordero estaba realmente rico, pero a la mesa llego medio frio. es un lugar bonito con onda, tranquilo... pero con algunos detalles a mejorar.
+    date: 10-07-2007
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Por lo general se come muy bien en este lugar, tienen un excelente cocinero que prepara platos principales impecables y nutritivos. Los sandwiches y picadas son hechos con ingredientes de primera calidad pero son demasiado caros. Una vez pedimos una picada a 60 pesos y me parecio carisimo por la cantitad de cosas que nos trajeron. Otro problema es que muy a menudo, uno o mas de los ingredientes anunciados desaparecen del plato porque no los tienen ese dia y solo te enteras cuando te traen la comida. Es un lugar gay friendly pero a veces, parece que si no sos gay, no les interesa ser friendly. Ambientacion calida y buena musica.
+    date: 05-07-2007
+    user: http://mi.guiaoleo.com/members/15064
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "yo era cliente habitual lo habia dejado y volvi,me parece,que cambiaron,para mejor aunque se mantiene la calidez anterior del ambiente y la cantidad de mesas.muy bueno jamon de \xF1andu,y las demas carnes exoticas."
+    date: 03-07-2007
+    user: http://mi.guiaoleo.com/members/28747
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Muy lindo el ambiente. El mozo no sabe los platos. Con treinta grados no ten\xEDan hielo y tuve que beber jugo de naranja caliente. El precio del men\xFA no es lo que indica en la carta, te terminan cobrando lo que ellos quieren. "
+    date: 07-04-2007
+    user: http://mi.guiaoleo.com/members/21215
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida estuvo muy bien (en especial el sandwich de cordero y el trago, un destornillador, que pedimos en forma especial con mucho jugo de limon), aunque es un tanto confuso que la carta indicara que el servicio de cafeteria terminara a las 21:00 (fuimos a las 12 de la noche) pero al preguntar nos dijeran que no era as\xED. El mozo, muy amable, pero se demor\xF3 mucho en atendernos, adem\xE1s, estaba conversando con unos amigos (incluso se sent\xF3 a comer con ellos\xA1\xA1) y eso lo distra\xEDa de atender, no s\xF3lo nuestra mesa sino las dem\xE1s."
+    date: 02-04-2007
+    user: http://mi.guiaoleo.com/members/22657
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Esperaba m\xE1s. El men\xFA te vende que hacen unos ahumados geniales y la verdad es que la picada deja mucho que desear. Cuesta $35 (para dos personas), es chica y contiene poca variedad: unos salamines, unos quesitos brie que se compran en Norte y s\xF3lo un tipo de pan. \r\n\
+      Creo que realmente no conocen lo que es un buen fiambre o un buen ahumado. \r\n\
+      No creo que vuelva porque no vale la pena.  El men\xFA est\xE1 re-bien escrito, con mucho ingenio, pero es puro marketing: la experiencia gastron\xF3mica no lo sostiene."
+    date: 18-06-2006
+    user: http://mi.guiaoleo.com/members/9405
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Rica la comida aunque el lomo un poco pasado de punto. \r\n\
+      Atenci\xF3n correcta. Muy rico el pan que hacen."
+    date: 14-05-2006
+    user: http://mi.guiaoleo.com/members/7374
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "P\xE9sima atenci\xF3n. \r\n\
+      Elegimos sentarnos en una mesa que hab\xEDa estado ocupada hasta hac\xEDa poco y demoraron quince minutos en venir a limpiarla (hab\xEDa apenas otra mesa ocupada, no fue porque estaba lleno). \r\n\
+      Ped\xED un tenedor para comer la torta que ped\xED y la moza me mir\xF3 como si fuera marciana. \r\n\
+      Mi acompa\xF1ante pidi\xF3 la promo del d\xEDa: un t\xE9 comun con scones de queso por $7: el t\xE9 vino con 2 (DOS) scones, ricos, pero DOS a $7!\r\n\
+      No es la primera vez que salgo disconforme con la atenci\xF3n,realmente una pena perder as\xED a los clientes, porque no vuelvo m\xE1s."
+    date: 13-05-2006
+    user: http://mi.guiaoleo.com/members/3669
+    ambiente_rank: muy bueno

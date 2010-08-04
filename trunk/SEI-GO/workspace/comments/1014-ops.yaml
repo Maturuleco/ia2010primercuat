@@ -1,0 +1,293 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "En contra:las mesas de tan juntas se podr\xEDan decir que son cuchetas , compartis conversacion con tus vecinos, la comida es de una calidad inferior,los chinchulines \xA8jugosos\xA8, por no decir crudos, la carne \xA8pasmada\xA8 y dura, la ensalada de r\xFAcula y \xA8parmesano\xA8 estaba tan picada que parec\xEDa un pesto, pedimos un vino rosado y nunca atinaron a traernos un balde para mantenrlo frio, el lugar se cae de mugre y por si fuera poco hac\xEDa un calor de muerte.\r\n\
+      Lo peor,cuando nos fuimos la gente hac\xEDa cola para entrar, ser\xE1 que comer mal se est\xE1 volviendo deporte nacional?.\r\n\
+      No vuelvo, ni recomiendo."
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar est\xE1 muy lindo pero ya queda chico para la cantidad de gente, la porci\xF3n es abundante y muy rica la comida en general. La atenci\xF3n es inmejorable, una excelente opci\xF3n tanto para mediod\xEDa donde el men\xFA econ\xF3mico es realmente econ\xF3mico, como para la noche, para disfrutar una muy buena cena."
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/77268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: donde quedo ese lugar especial??,la comida un desproposito,el ambiente parece un velorio y demasiados cambios para una clientela que encontraba siempre la misma gente,en sintesis uno restaurant mas tapado por agua,se nota que cambiaron mucho la materia prima de sus platos
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/77718
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La cocina es muy buena pero con altibajos. Los calamarettis a la lionesa estaban espectaculares, incluso pelados que no es habitual. La colita a la mostaza estaba bien pero el cocinero debe usar mostaza natural y no Sabora. La atencion impecable. Es para volver y recomendar el lugar
+    date: 12-12-2009
+    user: http://mi.guiaoleo.com/members/15230
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar, super recomendable!, un ambiente muy familiar, la atenci\xF3n muy buena, te hacen sentir como en casa.\r\n\
+      La comida excelente!, rico, abundante y econ\xF3mico!\r\n\
+      Fui con mi marido y gastamos a raz\xF3n de $ 50 pesos por cabeza, en comida, bebidas (vino y gaseosa) y caf\xE9.\r\n\
+      Esta de mas decir que vamos a volver!!!"
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/65802
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Carta bastante amplia y con precios accesibles. Atenci\xF3n super amable pero a veces poco profesional. Platos super abundantes y postres bien caseros. Excelente relaci\xF3n por lo que se paga si buscas comer bien y compartir un buen momento sin pretensiones de lujos o excenticidades. Vale la pena ir"
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/65449
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      El plato de bondiola tenia demasiada pimienta no lo pudimos comer. La carne del otro plata estaba medio dura, tenia demasiada salsa.
+      Las papa en ambso casos fue lo ams rescatable.
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La verdad que la comida estuvo muy rica, la atenci\xF3n inmediata y por suerte, ya que hab\xEDa hambre, unos segundos despu\xE9s ya est\xE1bamos degustando la rica comida. Fui con mi novia, la pasamos de 10 y volveremos para ver nuestro ''ladrillo de amor''"
+    date: 16-04-2009
+    user: http://mi.guiaoleo.com/members/67615
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Las mollejas estaban bien, el bife de chorizo demasiado rojo aunque se dejaba comer. En el sal\xF3n de arriba no funcionaba el aire acondicionado y hac\xEDa mucho calor. Conclusi\xF3n: no se destaca."
+    date: 27-12-2008
+    user: http://mi.guiaoleo.com/members/22495
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Realmente hacia tiempo que no la pasaba tan bien en un restaurante, el Mozo ( Juan el Grande, es un Grande) Muy simpatico y siempre dispuesto, la La carne excelente y el Cordero se desintegraba en la boca.
+      Me confirmaron como cliente y lo recomendare a mis amigos
+    date: 02-11-2008
+    user: http://mi.guiaoleo.com/members/53793
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo super recomiendo, ya fui como 10 veces y siempre comi bien. Los platos son abundantes, la atencion del mozo muy buena, super atento y siempre dispuesto a solucianar cualquier inconveniente. Algo que me llamo la atencion es que mis ravioles eran caseros (como los que hacian las italianas hace muuchos a\xF1os atras) y la verdura es de la huerta que tiene el restaurante (contado por el mozo), otra cosa rara es que los platos son todos con distinta decoracion, platos que tenian mis abuelas en sus casas! Vayan y dejen su firma en la pared."
+    date: 24-10-2008
+    user: http://mi.guiaoleo.com/members/19742
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "buen ambiente de bodeg\xF3n, platos abundantes. vamos a volver."
+    date: 02-10-2008
+    user: http://mi.guiaoleo.com/members/8482
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Bravo por Don Ernesto.!\r\n\
+      sus due\xF1os ( Ex desnivel) le han dado ese toque \xA8fondero\xA8.! con muy buenos precios, y mejor distinci\xF3n en la cocina. adem\xE1s, los platos son abundantes y tradicionales.!"
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/12274
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se come bien y a precio razonable (algo raro en la zona, sobre todo si se trata de parrilla) en un ambiente que todav\xEDa cay\xF3 en la \"modernizaci\xF3n gastron\xF3mica\" de San Telmo. La atenci\xF3n es buena y los platos son abundantes."
+    date: 29-08-2008
+    user: http://mi.guiaoleo.com/members/14528
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Los calamaretis estaban impregnados de aceite, dej\xE9 la mitad; la bondiola estaba buena y el sabayon de postre rico, aunque no ten\xEDa la consistencia sufiente. La atenci\xF3n fue simplemente mala; nunca el mozo se acerc\xF3 ni siquiera para retirar el servicio. Todo se lo ten\xEDamos que pedir. No ten\xEDa ninguno de los vinos elegidos de la carta, opt\xE9 por cerveza."
+    date: 27-08-2008
+    user: http://mi.guiaoleo.com/members/6895
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Un lugar muy acogedor. Comimos una muy buena paella y a un precio m\xE1s que bueno aunque la atenci\xF3n fue bastante pobre. Siendo que la carta tiene gran variedad de pescados, necesitar\xEDan mejorar sus opciones de vino blanco. Seguro que volveremos."
+    date: 21-07-2008
+    user: http://mi.guiaoleo.com/members/35547
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El ambiente es de cantina tradicional de San Telmo, hasta entro gente a cantar tango a la gorra. Las paredes est\xE1n escritas con comentarios lo que le da un toque un poco diferente. La atenci\xF3n fue buena en esta oportunidad pero depende mucho del mozo. La carta es muy variada y se destaca la carne. El flan es realmente casero y muy rico. Es recomendable para comer bien sin gastar mucha plata un d\xEDa de semana..."
+    date: 29-04-2008
+    user: http://mi.guiaoleo.com/members/15539
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Mi experiencia no fu\xE9 buena. Los platos demoraron mucho y estaban groseramente recalentados. Destaco \xFAnicamente la atenci\xF3n que fu\xE9 c\xE1lida y la ambientaci\xF3n tradicional con el detalle de las inscripciones en las paredes. Prefiero no volver..."
+    date: 20-04-2008
+    user: http://mi.guiaoleo.com/members/30096
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar muy familiar, en donde se sirven platos abundantes y sabrosos. Es muy econ\xF3mico y la carta es variada."
+    date: 26-02-2008
+    user: http://mi.guiaoleo.com/members/38754
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es una tipica parrilla de san telmo , con platos abundantes y economicos y muy ricos. El servicio es correcto.
+    date: 18-02-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es el cl\xE1sico lugar de San Telmo para turistas, pero se come bien y barato"
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/32291
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "A ver....para salir del paso est\xE1 bueno, pero nada del otro mundo. \r\n\
+      El ambiente es lindo, muy casero, con todas las paredes llenas de inscripciones de las personas que han ido, con mensajes de todas partes del mundo, por la zona tur\xEDstica en la que se encuentra.\r\n\
+      Ped\xED ri\xF1ones bi\xE9n cocidos y la verdad es que estaban bi\xE9n hechos. De todas maneras, la ensalada que ped\xED no era gran cosa, las papas fritas ricas, pero como re-fritadas.\r\n\
+      El postre (tiramis\xFA), era lo m\xE1s parecido a un bizcochuelo exquisita con un poco de crema por encima. Eso no era ni siquiera parecido a un tiramis\xFA.\r\n\
+      Las porciones son generosas, est\xE1n bi\xE9n para el precio.\r\n\
+      Hay lugares mejores sin dudas, por el mismo precio y con mejor comida."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/4899
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un excelente lugar para el almuerzo, econ\xF3mico y la comida es excelente. La comida no tarda mucho en hacerse y menos a\xFAn las sugerencias del d\xEDa. La \xFAnica desventaja es que a veces no hay platos disponibles que figuran en el men\xFA de sugerencias."
+    date: 30-10-2007
+    user: http://mi.guiaoleo.com/members/34851
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Pedimos de entrada vitel thone que estaba en la carta pero no tenian, pedimos entra\xF1a que estaba en la carta pero no ten\xEDan, pedimos caf\xE9 que estaba en la carta pero no ten\xEDan."
+    date: 13-10-2007
+    user: http://mi.guiaoleo.com/members/19
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      La carne estaba dura, el aceite de las papas tenia feo gusto. 
+      Varias de las cosas que pedimos no las tenian y tuvimos que cambiar la eleccion.
+    date: 13-10-2007
+    user: http://mi.guiaoleo.com/members/6584
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buena la atencion del mozo y la comida no se hace esperar (fuimos un mi\xE9rcoles). El tama\xF1o de las porciones esta bien. Pedimos matambre a la pizza que estaba muy rico y tierno. "
+    date: 12-09-2007
+    user: http://mi.guiaoleo.com/members/13673
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente con mi novia vamos siempre, ya que vivimos en la misma cuadra. Su comida es muy sabrosa y la atenci\xF3n de los mozos es muy cordial y con muy buena onda.El precio es justo por la cantidad de comida que sirven en el plato."
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/31564
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena carta en general y los pescados en especial. Buen clima. Podr\xEDa mejorarse un poco la atenci\xF3n, igualmente lo recomiendo."
+    date: 05-09-2007
+    user: http://mi.guiaoleo.com/members/11766
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es el padre del due\xF1o de \"El patio de Don Ernesto\". Comida muy similar aunque con menos onda al estar mas cerca de la parte mas comercial de San Telmo. Si el patio esta lleno siempre es una buena opcion ir a lo de Don Ernesto. "
+    date: 15-08-2007
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ya fui varias veces a este lugar, y siempre se come excelente. Los mozos con la mejor onda, los platos salen rapido y en el punto justo. En relacion precio-calidad de lo mejor que hay. "
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/29387
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente, igual o mejor que el otro ernesto. "
+    date: 09-08-2007
+    user: http://mi.guiaoleo.com/members/29170
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Se come muy bien. 
+      Los mozos son piolas, aunque a veces se les nota el cansancio.
+    date: 08-08-2007
+    user: http://mi.guiaoleo.com/members/29093
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Caimos de casualidad pero la verdad que es recomendable ya que la comida estaba muy buena igual que la atencion, volveremos "
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/25606
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una amplia carta, plagada de platos t\xEDpicos de fonda, con algunas perlitas imperdibles (como las gambas al ajillo). \r\n\
+      Limpio, prolijo y ruidoso (inevitable por estos d\xEDas en Buenos Aires. Precios accesibles."
+    date: 16-02-2007
+    user: http://mi.guiaoleo.com/members/15718
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos a festejar fin de a\xF1o con la gente del trabajo y realmente no ten\xEDamos las mejores expectativas, ya que la pinta del lugar no es tan buena. Realmente comimos muy bien. Probamos de todo: Pastas, carne, parrilla, ensaladas, rabas y todo fue exquisito. El viernes pr\xF3ximo vuelvo con mis amigos. Los felicito."
+    date: 07-12-2006
+    user: http://mi.guiaoleo.com/members/14511
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Nuestro restaurante favorito en San Telmo; excelente atenci\xF3n y buenos precios. \r\n\
+      La comida tambi\xE9n es muy buena."
+    date: 06-10-2006
+    user: http://mi.guiaoleo.com/members/12603
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La atenci\xF3n fue un poco descuidada. \r\n\
+      La comida est\xE1 bien, muy buenas rabas, pero el plato principal (sorrentinos) estaba fr\xEDo. Como si lo hubieran calentado mal en microondas."
+    date: 08-08-2006
+    user: http://mi.guiaoleo.com/members/10725
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena la atenci\xF3n de los mozos, muy buenos platos. La pasamos muy bien."
+    date: 18-06-2006
+    user: http://mi.guiaoleo.com/members/9454
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Comida rica, simple y barata. La atenci\xF3n es mediocre. Los postres est\xE1n bien, aunque son demasiado simples. Lo m\xE1s \"groso\" es un flan casero. El ambiente \"zafa\". Se llena r\xE1pido, as\xED que es bueno ir temprano. No s\xE9 hasta que punto es recomendable."
+    date: 30-05-2006
+    user: http://mi.guiaoleo.com/members/15446
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es exquisita y la atenci\xF3n, genial. Es el mejor lugar para comer en San Telmo."
+    date: 24-05-2006
+    user: http://mi.guiaoleo.com/members/8752
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "\xC9ramos clientes ,pero no volveremos. Las porciones disminuyeron notablemente y la atenci\xF3n del mozo Wilfredo fue un espanto (maltrato y desgano expl\xEDcitos). Fuimos siete personas en una mesa apretada. Pedimos hielo cuatro veces, los platos llegaron a destiempo y encima tuvimos que aguantar malos modales. D\xE1 bronca pagar el servicio de mesa y mucho m\xE1s, dejar propina. Otro aspecto negativo: si usted no fuma, no vaya. Respecto a los platos, son buenos o regulares depende de lo que se pida. Ensaladas muy malas y entradas escasas (matambre con rusa). Hay demoras los fines de semana, la ventilaci\xF3n es nula y hace calor."
+    date: 08-04-2006
+    user: http://mi.guiaoleo.com/members/7718
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La calidad de la comida es buena, as\xED como el precio. La carta es muy variada."
+    date: 01-04-2006
+    user: http://mi.guiaoleo.com/members/10374
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy recomendable todo, excelente.
+    date: 14-01-2006
+    user: http://mi.guiaoleo.com/members/5846
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar para cenar y hacer un encuentro con amigos. Buena comida y atenci\xF3n del personal. Climatizado."
+    date: 14-01-2006
+    user: http://mi.guiaoleo.com/members/5824
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente, la atenci\xF3n es buen\xEDsima. Ariel y Eduardo ponen onda e invitan a quedarse a la sobremesa."
+    date: 14-10-2005
+    user: http://mi.guiaoleo.com/members/4405
+    ambiente_rank: muy bueno

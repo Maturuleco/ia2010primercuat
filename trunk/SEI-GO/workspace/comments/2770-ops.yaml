@@ -1,0 +1,37 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Somos de ir seguido la verdad que muy buena atencion y el clima muy lidno! la comda de buena calidad!
+    date: 23-04-2010
+    user: http://mi.guiaoleo.com/members/50625
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Calidez, excelente atenci\xF3n, muy buena comida y precios l\xF3gicos. La ambientaci\xF3n es de un agradable intimismo, que invita a conversar y a demorar la partida. Inmejorable relaci\xF3n costo-calidad."
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/59883
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar, normal, chiquito, poca luz. Tranquilo.\r\n\
+      El servicio de los peores que me tocaron vivir. Pido un sanguche de jamon crudo, me lo traen despues de 40 minutos. Pan viejo y durisimo. El jam\xF3n crudo viejo, saladisimo. El tomate verde como para rematar.\r\n\
+      Me pare, pague, dije no vuelvo mas. \r\n\
+      Lastima el lugar perfilaba mejor.\r\n\
+      No lo recomiendo para nada"
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/82713
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es muy rica y bien presentados los platos, el lugar muy agradable.
+    date: 29-03-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Siempre vamos, porque queda cerca de casa\r\n\
+      Es tranquilo, se come MUY BIEN, y la atenci\xF3n es excelente.\r\n\
+      Supongo que no se aprecia desde la calle, porque esta en un primer piso, y eso hace que el lugar sea intimo"
+    date: 28-10-2008
+    user: http://mi.guiaoleo.com/members/55075
+    ambiente_rank: bueno

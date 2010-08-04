@@ -1,0 +1,103 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una excelente opci\xF3n barrial o para ir con amigos. Platos bien preparados, sencillos, no muy abundantes. El servicio excelente tambi\xE9n. Hac\xEDa fr\xEDo, falta mejorar la calefacci\xF3n."
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/83987
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Si bien la comida esta bien, los platos no son muy abundates. La atencion es muy amable. Le falta un poco de mantenimiento al local.
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Nada del otro mundo
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/2807
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Feliu es una buena opci\xF3n si est\xE1s cerca o sos del barrio y ten\xE9s ganas de comer algo sencillo que, como dir\xEDan nuestras madres, \"no te va a hacer mal\". Buenos ingredientes para una comida sin mayores pretensiones ni refinamientos. El lugar supo de mejoras \xE9pocas; ahora le vendr\xEDa bien una buena pintura, re-te\xF1ir los pisos, cambiar el color de los manteles y eliminar los horribles floreritos. La atenci\xF3n es cordial. No logr\xF3 entender porqu\xE9 sirven un dulc\xEDsimo mistela como aperitivo de cortes\xEDa. En caso de tomarlo, su excesiva dulzura quitar\xEDa las ganas de comer."
+    date: 26-04-2009
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Bien precio -calidad.
+      Para comer en el barrio sin mucha pretension
+    date: 23-03-2009
+    user: http://mi.guiaoleo.com/members/10684
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Abundante comida por un modico precio pero sin ser de buena calidad. Quiz\xE1s para delivery si un d\xEDa no tenes nada para comer."
+    date: 29-11-2008
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "excelente relaci\xF3n calidad precio,atenci\xF3n r\xE1pida y eficiente,comida rica y abundante,el tiramis\xFA muy bueno,muy recomendable"
+    date: 30-08-2008
+    user: http://mi.guiaoleo.com/members/39071
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Feli\xFA es un ambiente agradable y tranquilo, barato donde come bastante bien. Lo tengo a 3 cuadras de casa, por lo que utilizo m\xE1s el delivery que concurrir a su sal\xF3n, pero las veces que he ido a almorzar, lo he hehco bien y a un \"modico\" precio. \r\n\
+      Para el delivery, sigue siendo una de mis primeras opciones, y para comer ah\xED tambien es bueno."
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Tiene una buena atenci\xF3n. Es un aceptable restaurante de barrio. La comida est\xE1, en general, bien hecha."
+    date: 26-10-2007
+    user: http://mi.guiaoleo.com/members/34750
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Una esmerada atenci\xF3n por parte del mozo Jorge, el cual nos atendio con especial deferencia, al igual que hac\xEDa con otras mesas. pan casero caliente una exquisites y los platos calientes bien servidos para una persona.\r\n\
+      Un ambiente con iluminaci\xF3n agradable, mesas distanciadas lo que permite tener una charla amena y poder ser escuchado facilmente.\r\n\
+      Se llega facilmente y como se trata de un barrio, se estaciona facilmente.\r\n\
+      Posee un menu ejecutivo a la noche de $24 con plato principal, postre y caf\xE9, se puede abonar con tarjeta con un recargo del 10.\r\n\
+      Se puede ir en familia o en pareja, lugar acogedor."
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/32208
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Muy buena opcion para el mediodia con un menu ejecutivo con varios platos.
+      Las pastas son caseras y las carnes son buenas.
+    date: 21-05-2007
+    user: http://mi.guiaoleo.com/members/10684
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente para ir al mediod\xEDa, recomiendo tambi\xE9n el arroz valenciana."
+    date: 18-04-2007
+    user: http://mi.guiaoleo.com/members/6046
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la atenci\xF3n. Excelentes las pastas y los risottos. Hay que ver la popinesa si es tan buena como dicen. "
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/19905
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tranquilo restaurant en Belgrano, lejos del ruido de la calle y con lugar para estacionar, en la puerta del local.\r\n\
+      Comimos sorrentinos con salsa Feli\xFA(champignones, panceta, pollo, verdeo y crema) y \xF1oquis verdes con fileto. \r\n\
+      Muy rico. De postre copa trafutto o algo parecido (sambay\xF3n con mousse de chocolate) y helado de crema con coulis de frutos del bosque. Muy rico tambi\xE9n. Menci\xF3n aparte a la atenci\xF3n, el pan casero y los precios accesibles. Recomendable por donde se lo mire."
+    date: 11-02-2007
+    user: http://mi.guiaoleo.com/members/10498
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Todo lo que ordenamos era muy bueno y preparado en el momento. \r\n\
+      La atenci\xF3n m\xE1s que correcta y con buenas alternativas en postres (se destaca el tiramis\xFA). Muy recomendable."
+    date: 06-12-2006
+    user: http://mi.guiaoleo.com/members/6887
+    ambiente_rank: muy bueno

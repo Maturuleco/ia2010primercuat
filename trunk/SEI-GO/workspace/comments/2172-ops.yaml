@@ -1,0 +1,391 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Siempre que vamos disfrutamos de la buena comida, buena atenci\xF3n y lindo ambiente. Nunca falla!"
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/21681
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: me encanta. muy buena carne y ensaladas. servicio excelente.
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/81971
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El negocio de Happenning esta bien armado porque cumple bien con algunas cosas muy basicas. Es parrilla y es buena, la cocina es buena, los mozos son de profesion y si bien no te estan encima, son buenos. La decoracion es un tema aparte, pero esta frente al Rio. No hay muchos restaurantes con esa cantidad de cubiertos que puedan alardear de tener un buen servicio y que los platos lleguen a la mesa como los pidio el comensal. La mousse de dulce de leche es un punto y aparte de la gastronomia rioplatense.
+    date: 21-03-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos con un primo espa\xF1ol y dese\xE1bamos tomar vino malbec, de las 21 opciones de la carta solo hab\xEDa 7 disponibles. Todo lo dem\xE1s bien, pero sin la excelencia que pregonan y cobran"
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/36636
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente lugar, la comida y la atencion. Un lugar para recomendar.
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/24928
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Las mollejas y los ri\xF1ones muy ricos. Queria comer vacio pero el mozo me sugirio que no lo pida porque era malo y me recomendaba asado, en otra mesa escuche al mismo mozo sugerir no comer lo que habiam elegido y recomendar asado. O ese mozo va en contra del restaurante o esa noche habia mucho asado y habia que venderlo. Finalmente elegi Ojo de bife que estaba muy rico y en su punto justo acompa\xF1ado con batatas fritas muy buenas."
+    date: 22-01-2010
+    user: http://mi.guiaoleo.com/members/9360
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El lugar es muy tranquilo, no es ruidoso. En cuanto al servicio, en nuestro caso fue rapido y muy correcto. La comida de muy buena calidad, tanto las achuras como las carnes. MUY RECOMENDABLE
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/36525
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Hac\xEDa a\xF1os que no visitaba este rest\xF3. Mantiene el nivel de la cocina y parrilla, pero la calidad del servicio se deterior\xF3 catastroficamente. El mozo tard\xF3 un mont\xF3n en tomarnos el pedido. Al rato largo regresa, medio con mala onda, y vuelve a preguntarnos qu\xE9 \xEDbamos a cenar. Resumen: 55 minutos por reloj para traernos la comida, que consist\xEDa en una tira de asado, un bife de chorizo c/papas fritas y una ensalada. El lugar no explotaba de gente y nadie se disculp\xF3 por el incidente, menos que menos el mozo carac\xFAlico. El lugar sigue siendo muy lindo. Me result\xF3 bastante caro. No regresar\xE9."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/19152
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "ME ENCANTO EL AMBIENTO. Es como ir al living de una casa. Excelente comida. Parece que tienen un cocinero por mesa. Platos muy abundantes con mucho esfuerzo y dedicaci\xF3n. Todo es perfecto...menos el servicio. Tardaron 50 minutos en traernos el pan y 1 hora en traernos los platos principales, pero de cualquier manera, vale la pena."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/73853
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buen lugar para comer de forma regular cuando el presupuesto lo permita. Es muy tranquilo y el personal es muy atento y considerado. Tiene un ambiente muy familiar y la comida es siempre buena. La unica mancha es el cambio en el personal de la recepcion ya que Walter era un clasico.
+    date: 11-11-2009
+    user: http://mi.guiaoleo.com/members/72610
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Vale la pena! Sin duda es para volver... la ambientacion es calida, la atencion correcta y la comida excelente! El lomo al malbec y pimienta es mas que recomendable! Buena Relacion precio-calidad!
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/33562
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      La verdad me sorprendio. El ojo de bife simplemente era excelente, ya fui a varias buenas parrillas en Buenos Aires, pero este fue de lo mejor. La atencion del mozo tambien fue buena. Los precios no son baratos, pero se justifican por el ambiente elegante del lugar.
+      Para ir en pareja a un lugar elegante para cenar, recommiendo el Happening.
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/69673
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Sin dudas uno de los mejores restaurantes de Bs As, la calidad no bajo como paso en muchos sino que se mantuvo.Lamentablemente como se puso bastante de moda...Hay mucha gente que  cree que porque tiene un BMW ultimo modelo es duenia del mundo.En pocas palabras Excelente todo, pero ya el lugar perdio intimidad y obtuvo demasiado esnobismo visible.
+    date: 15-07-2009
+    user: http://mi.guiaoleo.com/members/9509
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente lugar, la mejor carne argentina!!!!!!
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/52324
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: No conozco todas las parrillas de Bs.As., pero en lo que a mi respecta, nunca una experiencia fue tan buena y "redonda" como dicen los que dicen que saben vinos. Todo al mismo nivel, atencion, calidad de la comida, ambiente. El precio es una anegdota...El que quiere celeste...
+    date: 02-06-2009
+    user: http://mi.guiaoleo.com/members/63174
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un cl\xE1sico como parrilla, ideal para ir sobre seguro a un lugar con buena comida, atenci\xF3n y ambientaci\xF3n."
+    date: 24-05-2009
+    user: http://mi.guiaoleo.com/members/47331
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente como siempre,una de las mejores opciones del pa\xEDs para comer parrilla, es un poco caro pero lo vale"
+    date: 11-04-2009
+    user: http://mi.guiaoleo.com/members/41418
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "el precio x persona varia segun el menu.A traves de los a\xF1os este restaurant mantiene su buen nivel tanto en la atencion de las mesas como asimismo en sus platos. El cubierto es de $8."
+    date: 23-02-2009
+    user: http://mi.guiaoleo.com/members/58691
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Voy a happening costanera desde hace aproximadamente 25 a\xF1os, es el unico lugar en el que como carne, es la mejor, vamos por lo menos una vez por semana, el lugar es acogedor, la atencion inmejorable, en el primer piso tiene sector fumador, con una vista del rio espectacular. walter el maitre, los mozos, destacando gabriel, lucas, sergio brindan una atencion impecable, seguiremos yendo, nos sentimos como en casa. es happening de puerto madero, malisimo la atencion es buena, pero la comida y el servicio, no, es para turistas y eso baja mucho la calidad. no parece que los dos sean happening"
+    date: 01-02-2009
+    user: http://mi.guiaoleo.com/members/57884
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hace 26 a\xF1os que concurro a Happening Costanera con mi familia y lo he recomendado y sigo haci\xE9ndolo a amigos y extranjeros. Todo es excelente, el ambiente, la comida,el trato respetuoso y profesional de los mozos. Nadie va a salir insatisfecho ya que cuidan muy bien al cliente y saben fidelizarlo. Lo recomiendo a ojos cerrados porque s\xE9 que no van a defraudar."
+    date: 18-12-2008
+    user: http://mi.guiaoleo.com/members/56327
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es una muy buena parrilla, clasica de Buenos Aires, donde ya sabes lo que vas a obtener por lo que vas a pagar. Sin sorpresas, atenci\xF3n muy correcta, carne de primera categoria y un lugar tranquilo y sobrio.\r\n\
+      En lo que respecta a la parrilla las opciones son multiples asi que uno podria ir varias veces y siempre comer un asado completamente distinto. Los chinchulines de cordero muy buenos, la provoleta para recordar y el resto de lo que comimos (bife de chorizo, asado de tira, chorizo) no desenton\xF3.\r\n\
+      Muy Recomendable."
+    date: 25-11-2008
+    user: http://mi.guiaoleo.com/members/47294
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar muy prolijo y la comida muy sabrosa. La gentil atenci\xF3n de los mozos acompa\xF1a a lo antes mencionado. Lo recomiendo. Saludos."
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/10480
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida es buena pero un poco cara y la tranquilidad es dejerles a los playeros de la  noche la llave del auto los cuidan excelentemente bien y son muy amables
+    date: 02-10-2008
+    user: http://mi.guiaoleo.com/members/52351
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fuimos a festajar un cumplea\xF1os, el lugar muy agradable y la comida excelente. El Salm\xF3n bien cocido y abundante. Los defectos: caro y la atenci\xF3n regular. Vale la pena para ir una vez cada tanto. No es un lugar de cabecera."
+    date: 12-09-2008
+    user: http://mi.guiaoleo.com/members/50080
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Happening Costanera es un clasico que se mantiene. La comida excelente con buena relacion precio y calidad la carta variada el salad bar buen\xEDsimo. Se come bien y en un excelente ambiente, que mas se puede pedir?"
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/34067
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "la carne muy buena, la panera excelente, la ensalada un poco peque\xF1a, el tiramis\xFA.... hummm.\r\n\
+      Ya es demasiado caro para ir. Solo para turistas.\r\n\
+      Hagan un menu para turistas (o algo parecido)!! as\xED podemos seguir disfrutando de las carnes que tienen (de primera calidad)"
+    date: 31-07-2008
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      SOBRESALIENTE.
+      Atencion y Calidad impecables.
+      Una de las mejores parrillas de BsAs.
+      Caro, pero vale la pena. Muy recomendable.
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/13584
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Sin lugar a dudas elegir Happening Costanera es asegurarse pasar un buen momento y comer bien, atendido por prefesionales que asesoran y estan atentos a los gustos de los comensales. La comida excelente y en su punto justo, los vinos accesibles por su precio y calidad, con una carta muy completa. El ambiente permite conversar perfectamente sin levantar la vos. Un clasico de los buenos, ademas si uno va en auto no tiene que preocuparse donde dejarlo ya que poseen estacionamiento propio, todo un lujo en los tiempos que corren. Se come bien y en excelente ambiente, que mas?
+    date: 28-06-2008
+    user: http://mi.guiaoleo.com/members/39544
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar no me pareci\xF3 tan elegante como a la mayor\xEDa de los usuarios, realmente pas\xE9 una velada bastante inc\xF3moda por el estado de las sillas, que parecen no haberse cambiado jam\xE1s.\r\n\
+      El toilette de mujeres realmente impecable.\r\n\
+      La comida rica, las porciones jus"
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/12411
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: todo lo que se pide es rebueno ,no te equivocas con nada. El MEJOR RESTAURANT
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/44663
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Tradicional restaurant con muy buena cocina y excelente atencion con mozos de oficio.  Muy buena la carta de vinos, aunque algunas etiquetas estan algo caras.  Muy buen ambiente redondean una experiencia muy positiva.
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "el lugar es elegante, comodo, mesas separadas, en la planta alta tiene vista al rio, nada ruidoso, la atenci\xF3n muy cordial, los platos son sabrosos y muy bien presentados, MUY RECOMENDABLE"
+    date: 23-03-2008
+    user: http://mi.guiaoleo.com/members/28142
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un clasico. En parrilla, se encuentra lo que se busca; cocido segun pedido, buena calidad y precio acorde. Servicio muy bueno.
+    date: 27-02-2008
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Verdadera cocina porte\xF1a, argentina. A muchos restaurates de PAlermo, les llevaria a\xF1os lograr la espectacular simplicidad y sutileza de por caso, la salsa de cerveza y mostaza que acompa\xF1o a mi solomillo de cerdo. La atencion es impecable, atenta y con pesonal que recuerdan con una memoria envidiable, el pedido. Los postres, justos, preciso y tentadores. Volcan de dulce de leche que nada debe envidiarle al de un buen restaurant de hotel internac. o reducto gourmet palermitano. Ademas, el mejor bife de chorizo de Bs As! Bien por Happening Costanera. Volvere cuando hayan mejorado el aire acond"
+    date: 13-01-2008
+    user: http://mi.guiaoleo.com/members/26762
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Un clasico que nunca defrauda.La parrilla es de muy buena calidad y el resto de la carta no desentona.Los precios son aceptables y el ambiente muy agradable.Recomendable para un mediodia en familia o con amigos por la noche.
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/19407
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los cortes de carne muy buenos, se nota que utilizan buena materia prima, las achuras incre\xEDbles. Todo en su punto justo; y uno puede pedir la carne como a uno le gusta que los mozos se van a acordar y se lo van a traer como uno lo pidi\xF3, si uno est\xE1 disconforme, le traen otro. Los mozos tambi\xE9n recuerdan que pidi\xF3 cada comenzal de manera que llegan y sin preguntar sirven todo perfecto. La verdad 10 puntos, los precios son elevados; pero es dificil encontrarle un defecto."
+    date: 15-11-2007
+    user: http://mi.guiaoleo.com/members/30520
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un cl\xE1sico que no falla. Recomendaci\xF3n: los chinchulines de cordero. Happening es de los pocos restaurantes que conservan mozos DE VERDAD. Se acuerdan todo lo que pediste, asignan el plato correcto sin preguntar a qui\xE8n corresponde, traen los principales en el momento justo. \r\n\
+      Si el plato no convence, lo cambian. Todas cosas que, lamentablemente, se han perdido en toda la gastronomia actual y hoy pareceria que es de lujo que a uno lo atiendan asi! La parrilla, de las mejores de Buenos Aires, pero cara. Para el que puede pagarlo, es una excelente opci\xF3n."
+    date: 04-11-2007
+    user: http://mi.guiaoleo.com/members/9181
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El ambiente es bueno , las mesas bien dispuestas, los mozos profesionales y la comida es buena. No pidan cosas raras pero lo que hay esta bien hecho. Las pastas en su coccion justa y la carne es buena. Un clasico de los domingos al mediodia. El precio es un poco exagerado.
+    date: 10-10-2007
+    user: http://mi.guiaoleo.com/members/7308
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La calidad de siempre, pero pasados con los precios. Subieron m\xE1s de la cuenta. Para aprovechar el men\xFA ejecutivo, con vino aceptable, entrada, plato y postre a $ 58 desde hace varios meses. El resto, muy caro"
+    date: 08-07-2007
+    user: http://mi.guiaoleo.com/members/11820
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Voy todos los domingos por la simple razon de que en lineas generales es todo muy bueno, sobre todo la comida y la antencion. La atencion es como la de los lugares clasicos de Buenos Aires. La parrilla es excelente y tambien se comen muy buenas pastas y platos de cocina. Les recomiendo que de entrada se paren y vayan a la mesa fria y de postre ordenen la mousse de dulce de leche (me van a agradecer esta recomendacion).
+    date: 21-06-2007
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy buena parrilla. El matambrito de cerdo es una delicia. Fuimos para el d\xEDa del padre y el lugar estaba repleto. \r\n\
+      El mozo nos atendi\xF3 muy bien a pesar de la cantidad de mesas que ten\xEDa."
+    date: 17-06-2007
+    user: http://mi.guiaoleo.com/members/21261
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Es un lugar agradable pretendiendo tener buena atenci\xF3n y con esnobismos que al amante de la cocina tradicional no le gustan,"
+    date: 03-06-2007
+    user: http://mi.guiaoleo.com/members/18908
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un clasico que se mantiene durante los a\xF1os, el mejor bife de chorizo de Buenos Aires."
+    date: 12-05-2007
+    user: http://mi.guiaoleo.com/members/22464
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La comida me parecio excelente, recomiendo el salmon rosado fresco y a punto, de postre marquise de nougat. La atencion fue muy buena. Es un clasico recomendable.
+    date: 22-04-2007
+    user: http://mi.guiaoleo.com/members/22161
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Caro, muy caro por lo que es. Un mozo m\xE1s bien desganado, una mesa fr\xEDa anodina y cara. Por tres fetas de jam\xF3n cocido en un plato, me cobraron dieciocho pesos, es demasiado. Las mollejas y la carne fueron buenas, pero hay mejores. Lo peor e imperdonable es que las papas fritas estaban marcadas. El lugar es un poco vetusto, pero aceptable. "
+    date: 05-03-2007
+    user: http://mi.guiaoleo.com/members/7308
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Realmente una desilusi\xF3n. El solomillo ten\xEDa gusto a carne vacuna, seco y sin gusto a nada. El  precio, por \xE9ste desastre, fue una verguenza. Lo \xFAnico rescatable fue el plato de mesa fr\xEDa. El ambiente es ruidoso hasta la incomodidad. No vuelvo nunca m\xE1s. "
+    date: 27-02-2007
+    user: http://mi.guiaoleo.com/members/10135
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar para los que saben de comer bien, recomiendo de postre la musse de chocolate. La atenci\xF3n, muy buena. El segundo piso es muy \xEDntimo. Muy buena la ensalada preparada de lechuga zanahoria y huevos. Vuelvo cada vez que puedo."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/18620
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Sin ninguna dudas, es un lugar excelente y con el servicio justo para el tipo de lugar (elegante y de categor\xEDa). Todo esto no justifica lo que te cobran. Los bifes de chorizo que comimos estaban tiernos, s\xED, pero nada de otro mundo como para cobrarte $35 cada bife. \r\n\
+      Muy buena y bien presentada la mesa de entrada."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/7381
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Unas de las mejores mollejas HISTORICAS a la parrilla. La clasica mesa de entradas, siempre impecable. Desde que han armado los boxes y delimitado la zona central, ha mejorado mucho. La terraza es muy recomendable.
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/17803
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente. Muy rico y bueno. Es un must be.
+    date: 26-01-2007
+    user: http://mi.guiaoleo.com/members/16563
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hace muchos a\xF1os que vamos y la calidad, el servicio y el costo respecto del producto no se modificaron.\r\n\
+      Es un lugar para ir y nunca arrepentirse.\r\n\
+      Para el que no lo conoce, vale la pena. "
+    date: 26-01-2007
+    user: http://mi.guiaoleo.com/members/17050
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar agradable, ambiente \xE1mplio, el segundo piso todo para fumadores. \r\n\
+      Las carnes son muy buenas, con una cocina de buena calidad para un ambiente enorme. La atenci\xF3n es poco eficiente. \r\n\
+      El servicio entre platos est\xE1 muy demorado."
+    date: 07-01-2007
+    user: http://mi.guiaoleo.com/members/8668
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena parrilla, buena atenci\xF3n. Buen producto costo/beneficio. Recomendable."
+    date: 18-11-2006
+    user: http://mi.guiaoleo.com/members/19789
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fu\xED por segunda vez (invitado por mi jefe) y la verdad es que se come excelente carne. Esta vez la atenci\xF3n estuvo bien pero en general es muy buena. \r\n\
+      Un ambiente muy agradable."
+    date: 08-11-2006
+    user: http://mi.guiaoleo.com/members/686
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Voy habitualmente y no lo cambio por ninguno de ese estilo.
+      Muy recomendable.
+    date: 17-09-2006
+    user: http://mi.guiaoleo.com/members/12109
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un cl\xE1sico de siempre que por suerte mantiene su calidad y servicio.\r\n\
+      Excelentes carnes y empanadas.\r\n\
+      Tambien la ensalada fresca y cocciones a punto justo. Los mozos, en general son atentos, amables y con muy buena predisposici\xF3n. \r\n\
+      Ba\xF1os modernos y limpios.\r\n\
+      La contra es la ac\xFAstica y el ruido. \r\n\
+      Las mesas son bastante pr\xF3ximas, por lo cual es bueno evitar horarios pico y por supuesto reservar si no se quiere esperar."
+    date: 21-08-2006
+    user: http://mi.guiaoleo.com/members/10003
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es excelente, la atenci\xF3n impecable. \r\n\
+      La comida es muy rica aunque las porciones son un poco peque\xF1as. Sin duda un lugar con mucha categor\xEDa y un cl\xE1sico a la hora de celebrar alg\xFAn acontecimiento."
+    date: 20-08-2006
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Como todo restaurante de su genero, se come poco pero rico. Tiene una atenci\xF3n acorde al nivel de los comensales.\r\n\
+      Vale la pena para celebraciones, pero no para comer bien.\r\n\
+      \xBFFin de semana a la noche? Lleven el auto importado, definitivamente descoloc\xE1s si no lo llev\xE1s."
+    date: 01-07-2006
+    user: http://mi.guiaoleo.com/members/8641
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es estar comiendo en casa, con amigos.
+    date: 16-06-2006
+    user: http://mi.guiaoleo.com/members/9362
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: De lo mejor, las carnes sabrosas, tiernas y en su justo punto.
+    date: 05-03-2006
+    user: http://mi.guiaoleo.com/members/3523
+    ambiente_rank: excelente

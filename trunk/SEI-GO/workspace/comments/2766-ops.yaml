@@ -1,0 +1,45 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Es mi delivery preferido: almuerzos de excelente calidad, variados, a buen precio.
+      He pedido de todo, pastas, pescado, milanesas, ensaladas, sandwichs, tortillas, todo 10 puntos.
+      Delivery de gran calidad, variedad, rapidez y buen precio.
+    date: 05-04-2010
+    user: http://mi.guiaoleo.com/members/79593
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "$20 sin postre. No hay carta de postres.\r\n\
+      La comida es muy buena, pero la ambientaci\xF3n (dentro del restaurant, no en las mesas de afuera) es pat\xE9tica, el olor a comida es demasiado intenso, uno se va con olor a frito en la ropa, y se escuchan los golpes (a las  milanesas supongo) constantemente, demasiado fuerte.\r\n\
+      La comida es muy sabrosa, y los precios son coherentes. El secreto ser\xE1 no sentarse adentro, si no en las mesas de afuera, lejos de los ruidos y los olores de adentro (donde hay 4 mesas en un espacio de 2 x 3m). Para ir a almorzar, es una buena opci\xF3n."
+    date: 14-10-2008
+    user: http://mi.guiaoleo.com/members/16563
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Comida para almozar cuando est\xE1s por la zona y quer\xE9s gastar poco.\r\n\
+      Ofrecen una opciones variadas pero el resultado deja bastante que desear.\r\n\
+      Es barato pero no es buena la relaci\xF3n precio producto.\r\n\
+      Es muy lindo comer en la vereda mas en primavera que en verano porque el barrio al ser tan tranquilo es muy relajante.\r\n\
+      Les recomendar\xEDa poner m\xE1s atenci\xF3n en la preparacion de los platos y en la atenci\xF3n."
+    date: 04-01-2008
+    user: http://mi.guiaoleo.com/members/34511
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Almorzamos casi siempre en este restaurante al mediodia, ya que ofrece un menu diario, con propuestas variadas, economicas y ricas. Mantiene una calidad buena de comida siempre.
+      El lugar es chico, pero tiene mesas en la calle, que es muy agradable comer en la vereda.
+      No es un restaurante muy fancy, ni para ir a cenar especialmente ahi, pero es una muy buena opcion para los mediodias.
+    date: 08-11-2007
+    user: http://mi.guiaoleo.com/members/32454
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Se come muy bien. Yo voy muy seguido porque trabajo cerca. Tiene mucha variedad de platos y todos buenos. Se puede comer sano y a un buen precio. Cosa que no es facil de encontrar. 
+      La atencion es muy buena.
+    date: 05-11-2007
+    user: http://mi.guiaoleo.com/members/35171
+    ambiente_rank: muy bueno

@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Deber\xEDa mejorar la ambientaci\xF3n, buscando mayor calidez."
+    date: 01-02-2006
+    user: http://mi.guiaoleo.com/members/6151
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Creo que deben mejorar la atenci\xF3n de los mozos."
+    date: 01-02-2006
+    user: http://mi.guiaoleo.com/members/6152
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Buena vereda al aire libre, codialidad y una parrillada muy completa.
+    date: 05-01-2006
+    user: http://mi.guiaoleo.com/members/5713
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los que comieron pastas las elogiaron mucho. La entra\xF1a estaba muy buena. \r\n\
+      Buena relaci\xF3n precio/calidad."
+    date: 30-11-2005
+    user: http://mi.guiaoleo.com/members/5163
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La carne no estaba muy buena. Traen la carne cortada de una forma irreconocible y fr\xEDa. La atencion es avasallante, no te deja pensar. El postre (crocante de manzana con helado) estaba muy bueno."
+    date: 30-09-2005
+    user: http://mi.guiaoleo.com/members/4114
+    ambiente_rank: muy bueno

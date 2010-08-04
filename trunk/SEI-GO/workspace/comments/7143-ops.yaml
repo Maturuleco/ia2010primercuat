@@ -1,0 +1,93 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hac\xEDa tiempo que ten\xEDa ganas de ir. Ediliciamente, Bahamas impresiona: ara\xF1as de cristal, cascadas y un ambiente moderno pero a la vez razonablemente \xEDntimo. La comida, excelente y abundante. Opt\xE9 por unas costillas de cerdo a la barbacoa deliciosamente tiernas, con papas bien crujientes, pero que eran imposibles de abordar por una sola persona. La atenci\xF3n simp\xE1tica y amable, pero tarda una eternidad y se nota un mal manejo de los tiempos entre plato y plato. Adem\xE1s, me tuvieron quince minutos para devolver la tarjeta (se \"olvidaron\" de mi): una molestia que empa\xF1\xF3 un poco la noche."
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/15570
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: El lugar bien ambientado, pero el servicio lento y pedimos sandwich de jamon y otro de pesceto en pan arabe tostado y los trajeron en pan negro sin tostar,reiteramos el pedido y los trajeron con el pan arabe frio.
+    date: 06-06-2010
+    user: http://mi.guiaoleo.com/members/40796
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "El lugar, hermoso.\r\n\
+      La cocina, excelente.\r\n\
+      Pero la atenci\xF3n es tan mala y lenta, que volv\xED 2 veces pero esta \xFAltima ya la estoy repensando."
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/13584
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La ambientaci\xF3n es excelente con muy linda vista al r\xEDo y mesas afuera bajo sombrillas para disfrutar.  El servico es bueno pero lento.  Tardan mucho en traer la comida.  La comida rica y muy bien decorada.  El precio es caro pero justificado."
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/1864
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente opci\xF3n para medio d\xEDa (20% descto. efectivo) porciones abundantes de muy buena calidad.Hoy volver\xE9 a la noche."
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/81138
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos con un grupo de amigos.De entrada compartimos brusquetas y tabla de fiembres, Excelente! Despues cada uno pidi\xF3 un plato y todos estaban muy ricos y superabundantes. Los postres fueron buenos. Muy lindo lugar. La pasamos muy bien. Volveremos"
+    date: 23-04-2010
+    user: http://mi.guiaoleo.com/members/81019
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Cl\xE1sico restaurant de Buenos Aires pero totalmente reformado, la ambientaci\xF3n es excelente, muy bien decorado y algo fundamental, mucho espacio entre mesas. La calidad de la comida es muy buena, en mi mesa se pidieron lomos, pescados y pastas y todos tenian muy buena pinta, y muy buen sabor. Lo negativo: 55 minutos para que nos sirvan los platos, 20 para los postres (que dicho sea de paso, nos trajeron primero dos postres y el restante una vez que las otras dos personas ya habian terminado) y 10 minutos para la cuenta. Creo que me pase mas tiempo esperando que comiendo, sin dudas pocos mozos!"
+    date: 23-04-2010
+    user: http://mi.guiaoleo.com/members/32359
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy bueno !!!!! super recomendable, volvere
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/80583
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: rcoles, aunque fuera feriado nacional.
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/59473
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente lugar para pasar una noche de verano en el deck, l\xE0stima que se llena y no hay mozos suficientes para atender eficientemente a todas las mesas (dicho por la se\xF1orita que te recibe en la entrada) pero...de todos modos vale la pena."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/24928
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Desde que entras hasta que salis la atenci\xF3n es excelente,la comida, la decoraci\xF3n y su comodidad hacen que sea un placer ir a comer en pareja o con amigos no con ni\xF1os,lo recomiendo como uno de los mejores."
+    date: 18-03-2010
+    user: http://mi.guiaoleo.com/members/45975
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar muy agradable para disfrutar en el deck al aire libre los dias de sol y una decoracion muy acogedora en el interior.  Un lugar que no se caracteriza por la cocina gourmet sino una carta amplia de platos t\xEDpicos, gustosos y abundantes. Recomiendo probar"
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/31176
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: el lugar es muy agradable y tranquilo, el servico es muy bueno, para recomendar
+    date: 24-02-2010
+    user: http://mi.guiaoleo.com/members/52586
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un viejo conocido de costanera norte reinventado en su est\xE9tica y su cocina.  Los platos son muy abundantes,productos frescos y muy sabrosos.  el ambiente es muy tranquilo, las mesas estan separadas,algunas cuadradas y tenes opcion de boxes para hacerlo mas intimo.  Realmente un lugar al que volver\xE9 sin dudas. El deck es genial para el aire libre frente al rio"
+    date: 05-02-2010
+    user: http://mi.guiaoleo.com/members/76240
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La atencion fue muy cordial. Muy buena ambientacion .El lugar es muy espacioso por lo que las mesas estan bien separadas y se puede conversar normalmente.Los platos que pedimos fueron muy ricos, con muy buena presentacion y abundantes. Lo recomiendo tanto para ir en pareja o con amigos.
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/76603
+    ambiente_rank: muy bueno

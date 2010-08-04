@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Muy mala atenci\xF3n, la pechuga de pollo grasienta y rosadita(a pesar de haberla pedido bien cocida!!!); una pobr\xEDsima carta de vinos, no hab\xEDa caf\xE9!!! El ba\xF1o de damas una verg\xFCenza!!!Mientras com\xEDamos, bajaban del ba\xFAl de un auto viejo la carne envuenta en bolsas de consorcio, ser\xEDan de alg\xFAn frigor\xEDfico clandestino? No vuelvo!!"
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/35098
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Con amigos o en familia,es un punto de encuentro en San Telmo,que sigue ofreciendo ese encanto argentino de la Plaza Dorrego con una vida propia que no distingue horarios.Buen servicio y maravilloso lugar!
+    date: 27-02-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy bueno el ambiente, y a pesar de ser domingo y estar lleno el restauran, la atencion fue muy buena, un chico q trabajaba ahi nos hizo sentir muy comodos y nos atendio en todo. recomendable el lugar
+    date: 10-08-2008
+    user: http://mi.guiaoleo.com/members/49268
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "T\xEDpico exponente de la viveza criolla: ganar mucho, trabajar poco.\r\n\
+      Por d\xF3nde empiezo? Las empanadas vinieron fr\xEDas, fritas en aceite fr\xEDo y eran feas.\r\n\
+      Los platos son m\xE1s caros que en puerto madero, super escasos y no vienen con guarnici\xF3n: un lomo s\xF3lo 39 pesos + 10 pesos de las papas noisete.\r\n\
+      La comida se hace rogar, en el \"fanal\" improvisado  con pirotin de pan dulce, la vela se consumi\xF3 hasta que nos trajeron la brochete, las papas fritas eran escasas y aceitosas y ME CONDIMENTARON LA ENSALADA!!! \r\n\
+      La carta de vinos es limitada y excesivamente cara (como todo).\r\n\
+      PARA NO VOLVER NUNCA."
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/5592
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Muy caro en relaci\xF3n a la calidad y el servicio. La carne sin sabor y mala, DURA. Las porciones muy peque\xF1as, los postres mal\xEDsimos, baj\xEDsima calidad y sabor, y de precio muy elevado. Para nada recomendable."
+    date: 17-06-2007
+    user: http://mi.guiaoleo.com/members/24765
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Comimos con mi novia vac\xEDo y tira de asado, ambos 16$ la porci\xF3n y 7 pesos la porci\xF3n de papas fritas. La atenci\xF3n no fue buena, ya que estaban con mucha gente y lo malo es la poca separaci\xF3n de las mesas. \r\n\
+      Otra cosa en contra, 3 pesos de cubierto, excesivo para el lugar, he ido a lugares mucho mas arreglados, con 1,5 de cubierto. El vac\xEDo estaba dur\xEDsimo y era carne mala, adem\xE1s de ser una porci\xF3n muy peque\xF1a. La tira estaba regular."
+    date: 02-05-2007
+    user: http://mi.guiaoleo.com/members/22457
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buen lugar.
+    date: 02-03-2007
+    user: http://mi.guiaoleo.com/members/19639
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ambiente muy tipico, con una terraza colonial donde se tiene una buena vista de la plaza. La comida es muy buena.
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19020
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Un lugar muy agradable y con comida exquisita.
+    date: 25-06-2006
+    user: http://mi.guiaoleo.com/members/9011
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un restaurante de batalla, ubicado estrat\xE9gicamente frente a la plaza Dorrego, con una linda terraza cubierta.\r\n\
+      La comida es discreta."
+    date: 22-05-2006
+    user: http://mi.guiaoleo.com/members/5889
+    ambiente_rank: muy bueno

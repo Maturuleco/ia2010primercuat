@@ -1,0 +1,22 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El precio es elevado para la calidad de la comida. La atenci\xF3n es adecuada si uno dispone de dos horas al medio dia para almorzar.\r\n\
+      Vale la pena perder unos segundos y cruzar Cabildo."
+    date: 07-09-2009
+    user: http://mi.guiaoleo.com/members/68741
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un lugar en el que se puede ir a comer grandes pretenciones, sabiendo que los ingredientes son de buena calidad. Los precios son un poco elevados si vemos relaci\xF3n costo/calidad, pero se come bien y la atenci\xF3n es correcta. Muy bueno el pan casero con dips que sirven como apetizer"
+    date: 06-09-2009
+    user: http://mi.guiaoleo.com/members/5086
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Solo para curar el hambre.\r\n\
+      No es recomendable si uno quiere una buena relaci\xF3n costo/beneficio.\r\n\
+      El men\xFA es caro para lo que es."
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/33837
+    ambiente_rank: bueno

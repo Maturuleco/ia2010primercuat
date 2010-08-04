@@ -1,0 +1,15 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Interesante parrilla de barrio, para comer barato sin culpa y con buenos ingredientes.
+    date: 11-11-2005
+    user: http://mi.guiaoleo.com/members/5
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Una experiencia espantosa:\r\n\
+      la atenci\xF3n de la camarera fue lamentable, las achuras estaban quemadas y para colmo de las cosas se demor\xF3 m\xE1s de una hora en traernos un plato que ten\xEDa el queso en mal estado. \r\n\
+      Un desastre."
+    date: 10-07-2005
+    user: http://mi.guiaoleo.com/members/4346
+    ambiente_rank: malo/regular

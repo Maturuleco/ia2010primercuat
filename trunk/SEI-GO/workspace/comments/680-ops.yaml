@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Empanadas catamarque\xF1as mortales. Masa casera. Las de carne picante cortada a cuchillo son las mejores. Ahora tambien agregaron unas que llaman \"pikachu\", es una mezcla de 3 quesos, cebolla, bastante picante y un poco de azucar."
+    date: 07-12-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buenas empanadas y el lugar esta bien para comer al paso. Cuidado porque en hora pico hay mucha cola
+    date: 22-09-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Empanadas riqu\xEDsimas, especialmente las de carne. No son baratas ($4) y el local est\xE1 en el fondo de una galer\xEDa comercial con m\xEDnima onda, pero la verdad es que las empanadas valen la pena. Para un rico almuerzo al paso en el microcentro."
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/45739
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Las mejores empanadas de microentro. Excelente la masa y los rellenos. Voy a volver para probar el locro. De postere pedimos un budin de pan y era super casero. 100% recomendable! una experiencia gastronomica que se debe vivir.
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Las empanadas son ricas, bien al horno y grandes. He comido emepanadas mejores, pero igual estas son bastante buenas y son muy buena opcion para delivery en micro centro. Pedimos seguido. El lugar es feo pero atienden rapido
+    date: 25-02-2009
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelentes empanadas, excelente locro, muy buena atenci\xF3n, para ser un \"comida al paso\" pero con amor.\r\n\
+      La atenci\xF3n es r\xE1pida y correcta.\r\n\
+      Es el lugar indiscutido para comer ah\xED (o llevarse a la oficina) en esos dias de frio."
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/16053
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy ricas empanadas (bien sabrosas). Buena opcion para escaparle a las empanadas fritas de cualquier lugar en el centro. Atienden rapido, entras por una puerta y te despachan por la otra (no pasan ni 15 segundos desde que pedis tus empanadas hasta que estan en la bandeja). Si comes ahi, es como un patio de comidas empobrecido (mesas de madera y sillas de chapa, dentro de una galeria)
+    date: 11-01-2008
+    user: http://mi.guiaoleo.com/members/27624
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "De las mejores empandas que s epueden comer en Buenos Aires. El lugar es muy simple, al paso. Yo compro empanadas para freezer. Muy recomendable para llevarlas a casa. "
+    date: 12-11-2007
+    user: http://mi.guiaoleo.com/members/28652
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buenisimas empanadas Catamarque\xF1as, entre las mejores empanadas de microcentro. Muy buena las masa casera, excelentes rellenos y buen tama\xF1o.\r\n\
+      Lo unico reprochable es el costo, $2.50 cada empanada es algo excesivo. Ademas sirven  otras comidas aut\xF3ctonas que he probado.\r\n\
+      El lugar fisico para comer esta comprendido en una especie de patio de comidas la planta inferior de galeria Boston."
+    date: 31-07-2007
+    user: http://mi.guiaoleo.com/members/28450
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Mercader\xEDa muy buena, aunque un poco subido de precio (ejemplo, 16 empanadas a $40)."
+    date: 21-09-2006
+    user: http://mi.guiaoleo.com/members/12227
+    ambiente_rank: muy bueno

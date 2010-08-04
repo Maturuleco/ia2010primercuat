@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: El lugar esta en muy buena locacion y los cocteles estan a la altura del precio. El problema esta en el servicio, el cual fue pesimo.
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/81781
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un agradable lugar para tomar unos tragos y, tal vez, picar algo de comida r\xE1pida (principalmente mexicana). No lo eligir\xEDa para ir a cenar. Atenci\xF3n cordial y ambiente espacioso y moderno."
+    date: 18-11-2009
+    user: http://mi.guiaoleo.com/members/69568
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es un bar con un ambiente moderno con luces bajas y una onda quizas un poco yankee. Recomendable para ir en pareja ya que tiene unos sillones muy comodos. Eso si, fui un dia de semana y habia como mucho 2-3 mesas ocupadas y cerraron tipo 2:00-2:30.
+    date: 14-07-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida es buena, y la atencion tambi\xE9n. Tomamos luego unos tragos al aire libre, algo realmente muy recomendable para todo aquel que vaya. Recomendable."
+    date: 09-04-2009
+    user: http://mi.guiaoleo.com/members/38459
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El bar puede ser una variante nueva para la noche calidas, la verda la comida no es nada del "otro mundo". El servicio no fue tan bueno, la moza no era argentina y no entendia bien lo que se estaba pidiendo. Tal vez es solo un bar para hacer happy hour.
+    date: 03-04-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno

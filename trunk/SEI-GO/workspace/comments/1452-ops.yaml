@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: Las mejores empanadas de Buenos Aires. Son caras pero valen la pena.
+    date: 14-04-2010
+    user: http://mi.guiaoleo.com/members/80063
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: un lugar que no hay que dejar de visitar.hermoso!!!
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/71524
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Rapido y delicioso
+    date: 26-08-2009
+    user: http://mi.guiaoleo.com/members/68343
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es chico, mesas chicas, la atenci\xF3n es lamentable... pero la comida es rica y t\xEDpica: locro, lentejas, empanadas. Un buen lugar para un d\xEDa fr\xEDo, entre la comida y la gente que ten\xE9s pegada por todos lados no vas a tener fr\xEDo."
+    date: 22-07-2009
+    user: http://mi.guiaoleo.com/members/15655
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar s\xFAper especial con comida sencilla, de la de antes, muy bien elaborada. Especial para aquellos que vienen de afuera y quieren conocer como eran los antiguos bodegones porte\xF1os. Para mi gusto un sitio muy recomendable para disfrutar de unas ricas empanadas, guisos o tartas tradicionales."
+    date: 16-04-2009
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "LA MORADA  es lo mas, un lugar donde tu corazon de ni\xF1o volvera a palpitar como en la noche de reyes, al ver todo lo que hizo feliz de chico es una mezcla de lugar tematico,museo,bar de barrio,es lo mejor del centro para comer CON AMIGOS las empanadas son UNICASSSS no dejen de visitar ese magico lugar la comida es de primera y encima se puede paladear el clasico postre vigilante o un pastelito UN LUGAR CON IDENTIDAD Y NETAMENTE ARGENTINO"
+    date: 07-03-2009
+    user: http://mi.guiaoleo.com/members/285
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "entre las pocas cosas que a\xF1oro de cuando trabajaba en el microcentro, estan los almuerzos con los pibes en la morada. las empanadas son de las mejores de buenos aires, y en invierno se impone el locro. si queda lugar en la panza, se le puede entrar al flan o al queso y dulce. entre las 13 y las 14 resulta casi imposible conseguir mesa. el lugar, con decoracion retro, es un verdadero museo de recuerdos."
+    date: 02-07-2008
+    user: http://mi.guiaoleo.com/members/46178
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El locro del 25 de Mayo y las empanadas se entremezclan en un ambiente de pasado muy argentino ideal para un excelente almuerzo.
+    date: 25-05-2008
+    user: http://mi.guiaoleo.com/members/45396
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Comi empanadas porque es el plato tipico del restaurante, la verdad son espectaculares!! no son para nada grasosas ni aceitosas y son bien caseras.\r\n\
+      Mas alla de la comida el salon esta ambientado realmente muy bien, desde tapas de vinilo de sandro hasta mu\xF1ecos de las series mas viejas, carteles de publicidad de productos viejos, muy bueno. EL lugar se llena al toque porq esta en pleno centro y lleno de oficinistas. la atencion nada del otro mundo, te anotas en un papel la cant y gusto de lo q queres y te lo traen. Recomendable"
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/37840
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Las mejores empanadas de Buenos Aires, una buena ambientaci\xF3n, pero una atenci\xF3n que siempre deja que desear."
+    date: 11-02-2008
+    user: http://mi.guiaoleo.com/members/15954
+    ambiente_rank: muy bueno

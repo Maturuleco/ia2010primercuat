@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Solia ir muy seguido porque vivo a pocas cuadras, hace bastante que no iba y lamentablemente note que la calidad baj\xF3 bastante, especialmente en los tipos de platos, hace un tiempo eran mucho mas elaborados, ahora practicamente s\xF3lo hay pastas y minutas. El lugar en si es lindo; en realidad lo mas mas lindo es la zona, la ubicacion en si, pero igualmente el restaurant esta bien puesto y es comodo. \r\n\
+      Un buen lugar, nada del otro mundo, comida normal, milanesas, ravioles, etc, destacandose mas que nada la linda zona en donde se encuentra. El servicio es bueno y los precios coherentes."
+    date: 09-04-2010
+    user: http://mi.guiaoleo.com/members/32359
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelente lugar por su ubicacion. Se trata de una esquina muy lunminosa. La atencion es muy buena y la comida abundante y bien servida. Suelen haber platos con combinaciones agridulces muy bien logrados. Nos gusta ir habitualmente.
+    date: 12-08-2009
+    user: http://mi.guiaoleo.com/members/67343
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos para almorzar ya entrada la tarde, y la verdad que me sorprendi. La ensalada Caesar excelente, al igual que el cheescake con frutos rojos y la marquise de chocolate. El lugar muy lindo, y por la tarde el ambiente es realmente calido. Volver\xE9."
+    date: 26-07-2009
+    user: http://mi.guiaoleo.com/members/13878
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un desastre. La comida tardo en llegar y encima estaba fria. Lo \xFAnico m\xE1s o menos rescatable fue el ambiente, el cual tampoco es nada del otro mundo. No voy a volver!!"
+    date: 04-02-2009
+    user: http://mi.guiaoleo.com/members/58345
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Es una confiteria muy bien establecida. Los platos son abundantes, la vajilla es de categoria, y la variedad de platos es amplia. El servicio es bueno, sin demoras. Volveria a ir.
+    date: 10-08-2008
+    user: http://mi.guiaoleo.com/members/50005
+    ambiente_rank: muy bueno

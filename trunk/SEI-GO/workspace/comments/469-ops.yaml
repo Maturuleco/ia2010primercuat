@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "excelente comida y servicio nos gusto tanto que comimos 4 veces y cuando regresemos esperamos volver extra\xF1amos la delciiosa pizza!!!"
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/69608
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenas pizzas, variadas y sabrozas, en un ambiente relajado y sin pretensiones. Ideal para compartir con la pe\xF1a de amigos. Las tres B.\r\n\
+      Bueno, bonito y barato."
+    date: 09-09-2009
+    user: http://mi.guiaoleo.com/members/68785
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hasta este momento, es el \xFAnico lugar de comidas con un men\xFA bien completo, variado y sabroso que mantiene un precio razonable de $17. Muy recomendable. Muy buena Atenci\xF3n."
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/50633
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es una pizzeria de barrio que quedo descolocada de los restaurant que est\xE1n alrededor. La pizza es a la piedra , y eso es lo que la hace interesante ya que no hay muchas pizzerias que continuen con esto, las empanadas son peque\xF1as pero idealmente como uno las har\xEDa para si. La atencion de las mozas es agil , pareceria estar en un bar en la costa atlantica. Recomendable sin dudarlo"
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/8931
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Est\xE1 muy bueno y la comida sale r\xE1pido."
+    date: 31-10-2007
+    user: http://mi.guiaoleo.com/members/35093
+    ambiente_rank: bueno

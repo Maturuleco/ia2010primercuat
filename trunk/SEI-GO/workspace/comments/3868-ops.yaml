@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Los tragos muy buenos, la comida limitada. Para ir de vez en cuando
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/81216
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La comida muy rica, el lugar, de lo mejor de palermo y los tragos super ricos, no se los pueden perder, super recomendables. sigan asi!
+    date: 30-06-2008
+    user: http://mi.guiaoleo.com/members/46882
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Es un lugar para degustar tragos, los cuales son muy buenos. Para comer, la carta es limitada, tres tipos de hamburguesas, y papas fritas. Prob\xE9 la hamburguesa de carne de lomo, sabrosa. Lo destacable del lugar son los TRAGOS."
+    date: 22-06-2008
+    user: http://mi.guiaoleo.com/members/33737
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: volvi por la increibles hamburguesas y me encontre con unas maquinas de oxigeno que solamente las habia visto en el exterior. Con mis amigas tomamos sesiones de 30 minutos y la verdad es que fue una experiencia buenisima. Ademas de respirar oxigeno con aromas ricos, brina una sensacion de relax total. Considero que nadie debe perdersela!!!!!!!!
+    date: 14-06-2008
+    user: http://mi.guiaoleo.com/members/46436
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Las hamburguesas caseras de lomo son de tama\xF1o considerable y exquisito sabor. Acompa\xF1adas con papas fritas y si se desea una entrada de nachos con queso derretido mejor aun, es una combinacion excelente.\r\n\
+      Luego de la cena nos quedamos a tomar algo ya que ofrecian tragos. No recuerdo los nombres de los tragos que probamos pero todos de excelente calidad. Los precios de estos son de $25, mientras que los clasicos se mantienen a $20. Precios adecuados teniendo en cuenta las marcas de alcoholes utilizados."
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/44706
+    ambiente_rank: excelente

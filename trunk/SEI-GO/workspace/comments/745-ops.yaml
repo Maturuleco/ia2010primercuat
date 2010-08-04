@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La atenci\xF3n estuvo muy bien, es un lugar para tomar algo m\xE1s q ir a comer, la comida era abundante pero lleg\xF3 fr\xEDa."
+    date: 15-08-2009
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Buen lugar solo para bailar un rato, los tragos te hacen medio vaso fernet medio coca cola y en vaso de pl\xE1stico. Horrible. Le ponen onda con la m\xFAsica."
+    date: 05-02-2009
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La pizza no es mala pero tampoco es la gran cosa. Es un lugar para ir a tomar algo mas que para comer. Alrededor de las 2 sacan las mesas, se pone bueno y se puede bailar.
+    date: 19-03-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La pizza llego fr\xEDa y no era de lo mejor, la masa estaba como cruda y le faltaba sabor en general. Si ped\xEDs gaseosa te la sirven en vaso con hielo, dice que es de marca, pero por el sabor no parece. Si usas el ba\xF1o tenes que dejarle \"propina\" al que lo cuida \xBF?"
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/39946
+    ambiente_rank: malo/regular

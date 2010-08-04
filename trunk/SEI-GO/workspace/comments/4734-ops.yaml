@@ -1,0 +1,191 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buen lugar, tranquilo, con una atenci\xF3n amable, productos frescos y a excelentes precios. Un restaurante para comer bien sin mayores gastos. Recomendable."
+    date: 30-06-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena opcion! Muy buena comida, buena atencion y un ambiente amplio, sobrio y muy agradable.
+    date: 17-06-2010
+    user: http://mi.guiaoleo.com/members/83861
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente, muy buen servicio y calidad de comida. y precio justo. Volveremos
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/83390
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy pero muy bueno. Limpio, no hay olor a parrilla y los ingredientes son de calidad. La atenci\xF3n es muy buena. Realmente es para volver, vale much\xEDsimo la pena."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lomo y en especial el pollo riquisimos. Un ambiente muy agradable y limpio.
+    date: 04-03-2010
+    user: http://mi.guiaoleo.com/members/77773
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: La pasta casera ( noquis ) buenos, pero la salsa especial de la casa extremadamente salada. no se apreciaba el sabor, eventualmente podria ser recomendable el lugar. por ahora y hasta una nueva visita no amerita, en mi opinion la calificacion de guia oleo.
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/78920
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Parrilla relativamente nueva en la zona de San Telmo. Sitio sencilo, agradable, sin olores que dejen recuerdos de grasa en la ropa, con mesas espaciadas adecuadamente, nada fancy pero est\xE1 bien. Atenci\xF3n amable que trata de complacer los deseos del cliente. Materia prima de muy buena calidad y bien tratada en su punto de cocci\xF3n, atendiendo a los deseos del cliente, panera que podr\xEDa mejorarse. Carta de vinos no muy amplia con una oferta con etiquetas de precio mediano. En resumen, las tres personas que almorzamos salimos satisfechos y contentos de haber ensayado esta parrilla!"
+    date: 19-02-2010
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Volvimos! Y probamos las pastas caseras: realmente buenas! Comi sorrentinos de jamon y muzzarella; la muzzarella muy rica y hechas bien al dente!
+      Ademas del lomo adobado, una exquisites! Para seguir recomendando. Un detalle mas: el garage pegado es comodisimo.
+    date: 29-01-2010
+    user: http://mi.guiaoleo.com/members/45587
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy recomendable, comida muy sabrosa y fresca, pastas bien caseras riquisimas, las empanadas exelentes. carta de vinos un poco acotada, pero bien. un lugar al cual volvere.
+    date: 28-01-2010
+    user: http://mi.guiaoleo.com/members/17487
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Las pastas caseras son muy buenas, especialmente los \xF1oquis. El ambiente es bueno, con las mesas separadas. La carta de vinos deja bastante que desear, pero el resto recomendable."
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/17332
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 mucho el lugar. Las empanadas muy buenas, las verduras a la plancha tambi\xE9n. Hacer esto parece una tonter\xEDa pero o las queman o las dejan crudas. Aqu\xED perfectas. El bife de chorizo normal y la bondiola exquisita. Lo suyo definitivamente es el cerdo.  El ambiente es muy bueno para mi gusto. Nada recargado, casi minimalista. Las mesas separadas y el precio adecuado.  \r\n\
+      La carta  de vinos normalita. Me parecen algo caros y no hay vino de la casa a un precio razonable. Para una parrilla con cerdo vinos de 60$ para arriba no es lo que uno espera."
+    date: 27-11-2009
+    user: http://mi.guiaoleo.com/members/72658
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelente la comida, se ve que los ingredientes son frescos y de buena calidad, el lugar, sencillo, no dice mucho, tal vez le falte un poco de ambientaci\xF3n pero la calidad de la comida hace que eso pase a un segundo plano, la atenci\xF3n es buena sin ser pretenciosa, para recomendar"
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/15003
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Concurrimos basados en la calificaci\xF3n de Guiaoleo y coincidimos con la opini\xF3n mayoritaria. Mi calificaci\xF3n es positiv\xEDsima"
+    date: 04-10-2009
+    user: http://mi.guiaoleo.com/members/69765
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: excelente lugar!!! Te atienden muy bien  y la comida y los precios son muy buenos. Muy recomendable .
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/67443
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos 8 personas ,no conociamos el lugar ,muy bello ,muy confortable ,nos sentimos muy a gusto ,todo muy rico ,hay que esperar nada esta marcado ,muy recomendable .
+    date: 07-08-2009
+    user: http://mi.guiaoleo.com/members/67445
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Las empanadas son buenas, los chorizos tambi\xE9n, la molleja regular, la morcilla idem, el asado de tira era pura grasa, las ensaladas mediocres, y los postres realmente malos. La carta de vinos es muy pobre y s\xF3lo tienen vinos caros. Fuimos seis y coincidimos en la pobre opini\xF3n sobre el lugar."
+    date: 25-07-2009
+    user: http://mi.guiaoleo.com/members/9688
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Riquisimos todo ,un verdadero manjar la empanada cortada a cuchillo ,de lo mejor que probe en a\xF1os,y los ravioles de espinaca una delicia .Muy recomendable ,el lugar es muy lindo y comfortable -"
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/66105
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy recomendable ,el bife excelente ,los chorizos se nota que son de Maip\xFA ,excelente atencion ,un lugar para volver ."
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/66107
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comenzando por el lugar me encant\xF3 su calidez, tranquilidad, higiene, buena atenci\xF3n. El cliente juega un papel muy importante en este lugar y eso se nota en la preparaci\xF3n de los alimentos, sabroso es lo menos que se puede decir, de todas formas recomendable no se arrepentiran.\r\n\
+      \r\n\
+      Organicen el proximo fin de semana para visitarlo.\r\n\
+      \r\n\
+      Saludos."
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/65825
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Una nueva propuesta de parrilla en San Telmo. Los chorizos muy ricos, la tira de asado no tanto...mucha grasa. El servicio del vino pesimo.
+      Les falta mejorar mucho la atencion...
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/37537
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "A favor: los chorizos y la morcilla,puro cerdo, y de campo,las mollejas crocantitas, el due\xF1o esta detras de la barra y compensa las falencias.En contra:el servicio es a la antigua, el camarero intenta ser cordial, pero es torpe,mejor no pedir vinos reserva ya que el servicio no es el correcto para los mismos, caliente y en copa de vidrio. No ten\xEDan chinchulines y nos cambiaron,sin consultar por mollejas,cobraron a precio de molleja,en compensaci\xF3n,chori de regalo. La tira es dura\r\n\
+      No tienen tarjeta VISA!,en guia figura que si, en conclusi\xF3n una parrilla aggiornada que tiene que mejorar mucho."
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Riquisimo todo ,los sorrentinos que comi eran una delicia ,se nota que son caseras de verdad .Para nada ruidoso ambiente tranquilo ,para volver siempre. Adem\xE1s buen precio."
+    date: 17-04-2009
+    user: http://mi.guiaoleo.com/members/61361
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente todo ,mas que recomendable .Un lugar para volver .
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/60837
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos el domingo al mediodia con dos americanos y mi mujer, pedimos 2 porciones de asado, 1/2 de entra\xF1a y 1 bife de chorizo .. la verdad excelente la calidad y el punto de los platos, los amercianos estaban contentisimos, + 4 empanas, 1 provoleta, 4 aguas y 1 buen vino 270 mangos. Seguramente volveremos"
+    date: 22-03-2009
+    user: http://mi.guiaoleo.com/members/14934
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la atenci\xF3n, tambi\xE9n el bife de chorizo y las mollejas. Comimos muy bien y con dos vinos, tres platos principales con dos guarniciones, dos bebidas sin alcohol y dos postres gastamos $180. Muy bueno el gesto de invitarnos el caf\xE9. Muy recomendable."
+    date: 28-02-2009
+    user: http://mi.guiaoleo.com/members/40444
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la atenci\xF3n, tambi\xE9n el bife de chorizo y las mollejas. Comimos muy bien y con dos vinos, tres platos principales con dos guarniciones, dos bebidas sin alcohol y dos postres gastamos $180. Muy bueno el gesto de invitarnos el caf\xE9. Muy recomendable."
+    date: 28-02-2009
+    user: http://mi.guiaoleo.com/members/40444
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente la carne, a punto. Las empanadas, exquisitas, cortadas a cuchillo. Las papas fritas a punto. La atenci\xF3n excelente. Buena carta de vinos, variada. Buen ambiente. Aire acondicionado. Precio accesible. C\xF3modo estacionamiento al lado."
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/43901
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: no tienen experiencia tienen que mejorar.el servio es malo
+    date: 12-02-2009
+    user: http://mi.guiaoleo.com/members/12604
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "excelente comida, empanadas fritas y papas fritas super secas, bife de chorizo excelente y pechito de cerdo muy bueno.Muy buen ambiente, tranquilo y despejado, excelente atenci\xF3n y precios razonables.lugar para recomendar y volver"
+    date: 01-02-2009
+    user: http://mi.guiaoleo.com/members/57658
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar est\xE1 impecable.Muy buena atenci\xF3n.Carta sencilla pero muy buena,Una parrilla elegante pero de buen precio. Todo casero."
+    date: 19-01-2009
+    user: http://mi.guiaoleo.com/members/57266
+    ambiente_rank: excelente

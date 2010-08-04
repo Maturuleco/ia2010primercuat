@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un lugar ideal para reunirse con amigos.\r\n\
+      Para algunos platos consultar si es para compartir porque son generosos.\r\n\
+      Le faltar\xEDa ampliar en la carta la parte Postres.\r\n\
+      Los precios est\xE1n muy acomodados de acuerdo a la calidad de la cocina."
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/69003
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una carta bastante variada pero donde se destacan los pescados y mariscos. Algunos platos mejor logrados que otros, pero todos buenos. Es un digno sucesor de La Gran V\xEDa."
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/44122
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Un lugar calido y tranquilo.
+      una carta con profusion de pescados  y buenas pastas y carnes.
+      buena atencion.
+      excelente relacion precio-productos
+    date: 23-08-2008
+    user: http://mi.guiaoleo.com/members/49170
+    ambiente_rank: muy bueno

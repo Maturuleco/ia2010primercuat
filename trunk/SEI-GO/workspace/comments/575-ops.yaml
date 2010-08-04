@@ -1,0 +1,38 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Buen lugar si se busca comer entre amigos y jugar unos pooles.
+      
+      Muy bueno el multiappetaizer!! 
+      
+      La atencion es buena,aunque las largas filas no son de mi agrado,se llena rapido y hay que esperar.
+    date: 12-09-2009
+    user: http://mi.guiaoleo.com/members/27311
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n es un desastre pero es de esperarla en un bar de plaza serrano; tardan mucho y no te limpian bien la mesa. Los ba\xF1os un desastre y eso que era mi\xE9rcoles.Pedimos unos triangulitos de muzza muy ricos y abundantes, con tres salsas... bastante bien"
+    date: 17-12-2008
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "comi muy bien, los licuados son ricos y los precios accesibles dada la ubicaci\xF3n. La camarera muy simpatica y atenta, linda esquina y con mucha onda."
+    date: 13-12-2008
+    user: http://mi.guiaoleo.com/members/23324
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Aunque tardaron un poco en traer el pedido a la mesa no estuvo mal, muy abundante todo, nachos con salsa de carne y queso, y papas fritas, mas una cerveza, el lugar perdio el encanto de hace a\xF1os espero es una opcion para picar algo si se esta por serrano."
+    date: 13-11-2008
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hay un sampler de picada que est\xE1 muy interesante.\r\n\
+      Es para ir a tomar unas jarras de cerveza y picar algo.\r\n\
+      El pool est\xE1 como $8 la ficha."
+    date: 25-07-2008
+    user: http://mi.guiaoleo.com/members/32767
+    ambiente_rank: muy bueno

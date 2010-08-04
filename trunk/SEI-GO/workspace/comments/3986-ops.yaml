@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar es una mezcla de estilos, todos grasas. Un poco sucio. La atenci\xF3n es floja. Ruidoso. Comimos parrilla de una baj\xEDsima calidad. Igual que el servicio de mesa. La verdad es que me confund\xED por el aspecto exterior, ya que da para cantina de comidas caseras y buen ambiente, y es un bodeg\xF3 de esos que cuando sal\xEDs, no solo pensas en no volver, sino que te queda la sensacion que no duran mas de unos meses."
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "A ra\xEDz de los buenos comentarios decid\xED ir a conocerlo. Me decepcion\xF3. P\xE9simo lugar, el piso del sal\xF3n bastanta sucio. La entrada pedimos chorizo con ensalad,malo el chorizo con mucha grasa y la cebolla super picante. Por ultimo pedi una entra\xF1a que no la pude comer, era un chicle asique la devolvi y por supuesto no me la cobraron y termine comiendo el plato con mi pareja. Postre por supuesto no pedimos. No volvemos m\xE1s."
+    date: 14-05-2010
+    user: http://mi.guiaoleo.com/members/72040
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Me gusto el ambiente, la atencion y la comida. No me gusto la chocotorta. Era pesada y dura.
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/50653
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Cuando llegue quede impactado con la originalidad de la ambientacion, el servicio fue muy bueno pero lo que realmente me sorprendio fue la calidad del asado, hace mucho no comia carne tan sabrosa y tierna a la vez. Desde luego que lo recomiendo.
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/79002
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fui a comer parrilla a este lugar y la verdad que quede sorprendido por la calidad de la carne. Pedi un porcion de asado y realmente hacia tiempo que no comia un asado de primerisima calidad. Pedi un postre tambien y sigo la misma linea, una mousse de chocolate exquisita. Evidentemente hubo un cambio de mano en este restaurant porque el servicio tambien cambio para bien. 100% recomendable, sobre todo para comer muy buena carne.
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/35939
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La atenci\xF3n por parte del mozo fue muy buena pero tardaron much\xEDsimo en traer los platos, a pesar que el restaurant no estaba lleno."
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/69498
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Llegamos temprano al lugar, solo habia 2 mesas ocupadas y hasta que nos trajeron la entrada pas\xF2 una hora, el resto de las mesas que fueron llegando ya estaban servidas. De plato principal pedimos carne, que lleg\xF2 fr\xECa y cruda a la hora y media de pedirla. Cuando ped\xEC que me la cocinen mas, demoraron media hora en traerla, sin llevar la guarnici\xF2n, que por supuesto despues estaba fr\xECa. Al quejarnos, dijeron que nos har\xECan una atenci\xF2n. La atenci\xF2n era el 10% de descuento en la cuenta, que al revisarla, nos hab\xECan cobrado mas caro el vino y uno de los platos (justo por el 10%). Para olvidar!"
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/69500
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: esta beno, la comida es rica, la atencion tambien es buena. para volver.
+    date: 04-08-2009
+    user: http://mi.guiaoleo.com/members/66159
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      La comida y la atencion es buena. Pero fuimos en 2 ocasiones. Cuando apenas abrieron, la mitad de lo que ofrecia la carta no habia. Terminamos comiendo milanesa con fritas. Excusa: recien abrimos, faltan ingredientes, etc, etc.
+      Volvimos a los 9 meses. Misma situacion, la mitad de la carta estaba de adorno. Fuimos un dia normal, en un horario normal, ni fin de largo, ni a ultima hora. No se justificaba en esa 2da ocasion porque la mitad de los platos del menu no podias pedirlos. No volvimos mas. Una pena.
+    date: 24-04-2009
+    user: http://mi.guiaoleo.com/members/68064
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Caro. caro el servicio de mesa, los platos...muy caro
+    date: 16-12-2008
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: malo/regular

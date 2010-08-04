@@ -1,0 +1,122 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: La calidad de la carne es excelente. Muy buena la atencion. En los ultimos dias estuve recorriendo otras parrillas y la calidad de la carne y el servicio no se compara con este lugar. Precio muy accesible por la calidad y atencion brindada.
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/81782
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Los precios son exorbitantes, la comida tarda una eternidad en llegar a las mesas y cuando llega es mediocre. Un consejo:\xA1Manten\xE9os alejados!"
+    date: 29-04-2010
+    user: http://mi.guiaoleo.com/members/75785
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un lugar tranquilo para cenar, aunque creo que los precios son algo altos. La carne estaba a punto y era de excelente calidad. La carta de vinos es correcta y el servicio a tono con el lugar. Recomendable.
+    date: 30-03-2010
+    user: http://mi.guiaoleo.com/members/60515
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La verdad q la comida no es la q esperaba con mi novio, tardaron en atendernos, tardo un monton la comida nos moriamos de hambre,encima la caradurez de cobrarnos ( tabasco )si no me equivoco esta incluido en el servicio de la casa,no?
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/80651
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Soliamos ir a comer con frecuencia a este lugar, pero la verdad no se que paso pero en estos ultimos meses la calidad de la comida disminuyo bastante, y se acompa\xF1o de un excesivo incremento en los precios  , lo cual hace que no den ganas de vover."
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/67165
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "It\xB4s a great choice in BA; the lunch was fantastic, have good prices, good ans cold beers, but need to improve the waiter servics, more waiters to improve the services. go there and enjoy."
+    date: 01-01-2010
+    user: http://mi.guiaoleo.com/members/76450
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Eramos habitues, pero \xFAltimamente los precios son exagerados y consideramos que no hay relaci\xF3n entre el precio y la calidad, por lo cual estamos dejando de ir. Es una pena, porque el lugar es ameno, pero no deja de ser una parrilla bastante com\xFAn y corriente. Los precios son como para algo mejor. El men\xFA que les comento que pedimos (incluyendo un vino de $70) nos cost\xF3 $413 para 4 personas y me parece una barbaridad."
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/45553
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente Parrilla, no es la primera vez que voy, realmente me gusta mucho la relaci\xF3n precio/beneficio de la parrilla. El personal es muy atento y el due\xF1o siempre est\xE1 pendiente de que est\xE9 todo bien. Sin duda lo recomiendo y seguir\xE9 visit\xE1ndolos."
+    date: 05-06-2009
+    user: http://mi.guiaoleo.com/members/18050
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lomo a la pimienta estaba extraordinariamente salado, lo mismo que la provoleta. El cordero estaba bien. Eramos tres personas y la cuenta estuvo en $ 227.- Los vinos de la lista son caros comparados con los mismos en otros restaurantes.
+    date: 14-04-2009
+    user: http://mi.guiaoleo.com/members/54856
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "De la mejor carne que prob\xE9 en la ciudad, en un lugar que parece cualquier parrilla de barrio.  El due\xF1o tiene una carnicer\xEDa desde hace 37 a\xF1os, y les recomienda los mejores cortes del d\xEDa a los clientes.  La atenci\xF3n es muy buena; los mozos saben mucho de carne y de vinos.  Adem\xE1s, todo sale de verdad muy bien, hasta las papas fritas y las ensaladas.  Un gustazo y una excelente relaci\xF3n calidad-precio.  Ya volv\xED tres veces."
+    date: 22-12-2008
+    user: http://mi.guiaoleo.com/members/40593
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Satisfeito com a aten\xE7\xE3o do dono"
+    date: 24-10-2008
+    user: http://mi.guiaoleo.com/members/53354
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente lugar, muy buena comida y muy buena la atencion. No es la primera vez que voy y como cholulo que soy puedo decir que siempre hay algun rico/ famoso comiendo en la Josefina.
+    date: 20-10-2008
+    user: http://mi.guiaoleo.com/members/53197
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar tranquilo, la comida es buena, al igual que la atenci\xF3n. El due\xF1o est\xE1 siempre y atento a todo. Se debe destacar la limpieza de los ba\xF1os (si bien no deber\xEDa ser algo para destacar, realmente es poco habitual que los ba\xF1os de varios restaurantes est\xE9n impecables, como si no fueran parte del lugar)."
+    date: 03-08-2008
+    user: http://mi.guiaoleo.com/members/45553
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar tranquilo para almorzar/cenar, a precios razonables. La carne estaba a punto y era de buena calidad, las guarniciones (calabaza al plomo y ensalada mixta) tambien, aunque la ensalada era chica para el precio ($16). Muy buena carta de vinos, con mucha variedad pero no menciona que ofrece vino por copa. \r\n\
+      El due\xF1o se acerco para asegurarse que todo estaba ok, fue un buen detalle."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/5971
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La verdad un lugar muy tranquilo donde da gusto pasar una noche charlar con amigos donde lo principal de todo es que se come muy bien y te atienden b\xE1rbaro."
+    date: 08-10-2007
+    user: http://mi.guiaoleo.com/members/33639
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la comida, exelente la carne y las achuras, mozos muy atentos, a veces medios pesados, el precio es acorde al servicio. "
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/14127
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es la segunda vez que voy, ya que la primera me agrad\xF3 mucho, pero \xE9sta, todo un fracaso, era tanto el ruido que cada vez grit\xE1bamos m\xE1s para mantener un di\xE1logo, la carta la redujeron a la mitad, tardaron much\xEDsimo para traer la comida, el mozo es simp\xE1tico pero eso no es todo. Realmente me desilusion\xF3, no volver\xEDa. "
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/28142
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena parrilla, con ambiente agradable y buena atenci\xF3n. Delicioso postre de chocolate. "
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/5889
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Muy buen lugar, rica la carne, precios caritos, buen servicio, volveremos
+    date: 08-07-2007
+    user: http://mi.guiaoleo.com/members/12639
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Increible las achuras, muy bien atendidos. El due\xF1o es todo un personaje. Muy rico el tiramisu"
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/26017
+    ambiente_rank: bueno

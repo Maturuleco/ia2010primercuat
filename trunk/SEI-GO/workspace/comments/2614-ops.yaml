@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Esperaba un poco mas, la pizza es rica, pero no es gran cosa tampoco, no era crocante la masa. La atenci\xF3n es com\xFAn de pizzeria, al igual que el bullicioso ambiente."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un muy buen restaurante en general. Amplio en espacio y men\xFA.\r\n\
+      \r\n\
+      Algo caro, en particular por la zona."
+    date: 01-07-2009
+    user: http://mi.guiaoleo.com/members/69688
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es una pizzeria donde se come bien y tiene un ambiente lindo. Excelente la idea de poner juegos de ni\xF1os. Copado que hallan shows de vez en cuando"
+    date: 08-07-2008
+    user: http://mi.guiaoleo.com/members/19742
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una pizzer\xEDa \"dicroica\" con cielorrasos durlock m\xE1s, en una esquina c\xE9ntrica de Barracas. Todo normal."
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/3388
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Simplemente la mejor pizza de Barracas. Platos abundantes. "
+    date: 30-10-2007
+    user: http://mi.guiaoleo.com/members/34330
+    ambiente_rank: excelente

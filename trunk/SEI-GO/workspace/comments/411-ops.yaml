@@ -1,0 +1,618 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "C\xE1lido y pintoresco bodeg\xF3n de Palermo, con una carta m\xE1s que interesante -l\xF3gico, sin extenderse m\xE1s all\xE1 de las pretenciones de un resto de este tipo-, con porciones abundantes y muy sabrosas, e incluso -en la mayor\xEDa de los casos- para compartir. Tambien para destacar la atenci\xF3n r\xE1pida y atenta. Totalmente recomendable para quien ama este tipo de lugares."
+    date: 21-06-2010
+    user: http://mi.guiaoleo.com/members/18887
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Nunca Falla! Lugar ideal para comer bien a precio accesible (Me refiero a la esquina, no el restaurante de atr\xE1s).\r\n\
+      Bodegon bien mantenido y decorado con latas, botellas de aperitivos, patas de jam\xF3n y encurtidos en frascos de vidrio. \r\n\
+      Ambiente informal, con mesas altas, servicio poco cordial pero traen los platos en tiempo y forma. \r\n\
+      Comida espa\xF1ola/porte\xF1a/ internacional. Recomiendo probar la tortilla de papa y el jam\xF3n crudo. Son buenos tambi\xE9n los canap\xE9s de salm\xF3n con alcaparras, las salchichas alemanas con chucrut y el matambre con rusa. Para ir en pareja o con amigos."
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "M\xE1s que cocina porte\xF1a El Preferido es un lugar ideal para probar especialidades de la cocina espa\xF1ola, con los ingredientes exactos casi casi como si fuese Espa\xF1a. Para repetir de tanto en tanto y variar entre las mesas altas del almac\xE9n de la esquina y el viejo bodeg\xF3n con entrada por Borges."
+    date: 17-05-2010
+    user: http://mi.guiaoleo.com/members/11229
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente bodeg\xF3n porte\xF1o!!!\r\n\
+      Comimos una cazuela de chipirones que estaba increible y la verdad es que los precios son m\xE1s que buenos. Un lugar para volver."
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/35547
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: un clasico en palermo con buena comida y buen servicio
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/57976
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Lo de siempre, buen ambiente, excelentes productos, amable atenci\xF3n. Un cl\xE1sico de Buenos Aires, una fija cuando se quiera conocer un verdadero y noble bodeg\xF3n porte\xF1o."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/77354
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El men\xFA es muy amplio, ofrecen de todo para comer. Buenas opciones si uno quiere compartir pescado o carne entre dos o tres. La atenci\xF3n fue bastante pobre, el mozo no nos prestaba demasiada atenci\xF3n y hab\xEDa que estar llam\xE1ndolo. Pero sus sugerencias a la hora de ordenar fueron muy buenas y valieron la pena. El lugar es MUY ruidoso."
+    date: 04-03-2010
+    user: http://mi.guiaoleo.com/members/76062
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "De los mejores bodegones que visit\xE9! Cl\xE1sica comida porte\xF1a/espa\xF1ola preparada y presentada como en la casa de la nona. Atendido por esos t\xEDpicos mozos de bodeg\xF3n que parecieran haber nacido para eso. La relaci\xF3n precio/calidad es por dem\xE1s excelente. Para volver y volver."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/74150
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Sinceramente desastroso... la porci\xF3n de papas fritas sal\xEDa $30. Termin\xE9 comiendo papa revuelta con huevo y \"migas\" de panceta, que me sali\xF3 $74 (con ese dinero me compro todo el mercado central de papas). Los vinos eran car\xEDsimos pero no eran de alta gamma; la atenci\xF3n era paup\xE9rrima, el lugar impresentable y lo peor de todo (gastando $600), intento pagar con mi tarjeta Visa y el mozo (de muy mala gana), me dice \"ac\xE1 no aceptamos tarjetas de cr\xE9dito\". Mi respuesta fue clara y contundente: \"USTEDES VIVEN EN OTRO PA\xCDS\". Pagamos, nos fuimos y JAM\xC1S VOLVEREMOS.PD: los postres eran HORRIBLES."
+    date: 22-01-2010
+    user: http://mi.guiaoleo.com/members/38745
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Sin duda MI preferido. La mejor cazuela de mariscos!! Exquisita, perfectos los condimentos, abundante y mucha variedad de mariscos, no "amarretean".
+      Mucho barullo pero en el momento que llega el plato no importa nada!
+      Altamente recomendable.
+    date: 05-01-2010
+    user: http://mi.guiaoleo.com/members/71311
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un almac\xE9n devenido en Bodeg\xF3n que es realmente una gran experiencia gastron\xF3mica.\r\n\
+      Con poca originalidad y mucho (much\xEDsimo) oficio, con una carta tradicional de las mejores minutas argentinas, El Preferido se alza con una propuesta que no decepciona.\r\n\
+      Los platos muy abundantes, a buen precio, y comiendo en un lugar no tradicional, rodeado de gente que va en busca de buena comida (y mucha) a buen precio.\r\n\
+      Si no sabes que comer en tu casa, no sos muy exquisito en cuanto a las instalaciones y extra\xF1as un buen estofado o las milanesas de tu abuela, este es tu lugar."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/78254
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Cl\xE1sico bodeg\xF3n donde se pueden saborear platos muy bien elaborados de la cocina espa\xF1ola. Las porciones son abundantes como para poder compartir. A pesar de ser un lugar no muy grande,se respeta el espacio entre las mesas y la atenci\xF3n es buena."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Siempre sera un buen lugar, ahora un poc mas caro pero es excelente para ir a comer comida grosa! recomendable altamente las rabas y las tortilla (del restaurante) espanola
+    date: 06-12-2009
+    user: http://mi.guiaoleo.com/members/14497
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Que grande Manolo (el due\xF1o es el almacenero de Mafalda, identico y mismo nom).. Vivo a media cuadra, asi que los visito desde que era poco mas que un almacen y la verdad que tienen ese toque distintivo de comida casi casera. La fabada asturiana es muy rica, pero no para cualquiera (una bomba). Las pastas son sabrosas, las milanesas tienen una forma casi de molde (?) y las tartas estan buenas, sobre todo la de pollo. La atencion es bastante precaria y el ambiente es un quilombo. Pero el precio lo vale y si se quiere comer en ambiente mas calido, entrar por la otra puerta para pagar el doble."
+    date: 10-11-2009
+    user: http://mi.guiaoleo.com/members/71525
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Sigue siendo un muy buen lugar para comer. De los pocos que quedan en Palermo, si tenemos en cuenta, precio-calidad.Fuimos al restaurant y se come de maravillas, buen ambiente y tiene buenos precios. Podrian atender un poquito mejor, pero creo que tambien es un clasico.
+    date: 26-10-2009
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente opci\xF3n en Palermo Soho, la comida excelente y bueno el servicio, obvio que es un bodeg\xF3n de barrio de los que quedan pocos en \xE9ste nuevo barrio puesto de onda, pero comparando otros resto muy art deco \xF3 minimalista de la zona ... no hay con que darle al Preferido a la hora de una buena comida. Mas que recomendable !!!!!"
+    date: 11-09-2009
+    user: http://mi.guiaoleo.com/members/8091
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos por las recomendaciones de la guia, pero el arroz con pollo, un cl\xE1sico de los bodegones, no convence, la fabada asturiana cumpl\xEDa pero no descollaba, el ambiente de bodeg\xF3n t\xEDpico rozando el descuido y la atenci\xF3n suficiente, el aire acondicionado no existe.\r\n\
+      Para ir sin pretensiones."
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/16134
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida 10 puntos como siempre. Una muy buena relaci\xF3n precio calidad confirmado por un lleno casi permanente."
+    date: 11-08-2009
+    user: http://mi.guiaoleo.com/members/15954
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "lindo bodeg\xF3n para comer muy bien sin gastar mucho. La parte del bar es un poco inc\xF3moda, la pr\xF3xima vez  voy a comer en una mesa com\xFAn."
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/64804
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "UN VERDADERO DESASTRE! La comida era muy mala y la actitud de los mozos intolerable.\r\n\
+      Pedimos como entrada una \"sorpresata\" con porotos. Nos trajeron un salame (muy malo) cortado en triangulos (impresentable) con unos porotos que estaban duros. Cuando hicimos el reclamo al mozo, nos contest\xF3: \"Aca, es asi\".\r\n\
+      El pastel de carne, estaba pasable, pero las albondigas y el arroz con pollo, realmente desagradable. NO LO RECOMIENDO, definitivamente."
+    date: 26-07-2009
+    user: http://mi.guiaoleo.com/members/66373
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "de regreso al viejo almacen, ordenamos (para 4): rabas (buenas, salen con papas espa\xF1olas!), revuelto asturiano (como el gramajo pero c panceta y j crudo... he probado mejores) y la hipercalorica fabada (trae porotos, chorizo rojo, morcilla, panceta). tomamos sevenap de litro y medio. ganga insuperable: 25 pesos + prop. cada uno. el lugar tiene genuina onda retro, un oasis en el barrio. pero en las banquetas se come un poco amuchado e incomodo (nosotros lo hicimos en una de las mesas del calefaccionado patiecito). carta amplia, la comida no es guau pero la relacion preciocalidad sobresale."
+    date: 15-07-2009
+    user: http://mi.guiaoleo.com/members/46178
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida toda es excelente, cocina Mari uan asturiana divina, atiende Arturo y su gente muy copados y amables!\r\n\
+      Recomiendo la tortilla espa\xF1ola y todos los postres caseros que sirven.\r\n\
+      lindo ambiente, linda gente, relajado!"
+    date: 13-07-2009
+    user: http://mi.guiaoleo.com/members/60603
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El bar y el almac\xE9n,tienen la entrada por la esquina, pero cabe destacar que tiene el restaurant cuya entrada es por serrano ,mesas con mantel y sillas no altas,a diferencia del bar. Y la comida es muy buena al igual que la atencion!! Los precios considero que son un poco altos."
+    date: 30-06-2009
+    user: http://mi.guiaoleo.com/members/64994
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la comida, los platos son para compartir. Los ravioles de pollo con tuco y pesto son lo m\xE1s. El servicio es muy bueno. Lo recomiendo. Voy a volver."
+    date: 11-06-2009
+    user: http://mi.guiaoleo.com/members/63809
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buen lugar para ir relajado a comer rico sin muchas vueltas. Simple pero gustoso, eso tambien vale. Altamente reomendable
+    date: 19-05-2009
+    user: http://mi.guiaoleo.com/members/62517
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "favada asturiana, rabas, callos a la madrile\xF1a, tortilla de papas... hizo falta una caminata diez cuadras para terminar de digerir eso. comida cal\xF3rica, pero muy rica, y en porciones abundantes (lo que dice para 3, es para 4) a precios mucho m\xE1s correctos que los que ten\xEDan un a\xF1o atr\xE1s. el ambiente de bodeg\xF3n, intacto. para amantes de la comida espa\xF1ola. vinieron unos pibes a cantar tango. muy buenos, pero no soporto que me canten mientras estoy comiendo."
+    date: 06-05-2009
+    user: http://mi.guiaoleo.com/members/16366
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un bodeg\xF3n en medio del soho, la comida es rica y casera, la atenci\xF3n es algo lenta."
+    date: 17-04-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "ALUCINANTE!\r\n\
+      El Preferido de la esquina (el almac\xE9n) es buen\xEDsimo! De mis lugares 'preferidos' para una buena comidita!\r\n\
+      Todos los platos son excelentes, el lugar es muy 'honesto' en el medio del barrio de palermo.\r\n\
+      Tanto los mariscos, como los chotizitos o salchichitas, las alb\xF3ndigas con pur\xE9, todo, todo es delicioso!\r\n\
+      Y super barato!\r\n\
+      Hay que tener en cuenta que siempre est\xE1 lleno y el lugar es bastante chico con las mesas casi pegadas, un almac\xE9s de barrio para comer y disfrutar."
+    date: 02-04-2009
+    user: http://mi.guiaoleo.com/members/24319
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hasta hace poco era un lugar excelente para ir a comer tamprano en la semana, pero ahora se hizo conocido y se llena de gente r\xE1pido. T\xEDpica comida espa\xF1ola y de bodeg\xF3n, es pintoresco comer en la parte \"almac\xE9n\". Hace unos a\xF1os era mejor porque segu\xEDa funcionando tambi\xE9n como un almac\xE9n, entonces mientras uno se com\xEDa los recomendables gnoccis con salsa rosa, unas buenas milanesa con fritas o un rico filet de merluza con pur\xE9, la se\xF1ora entraba a comprar la leche que se hab\xEDa olvidado. Ya no es as\xED. Los mozos son particulares pero cuando uno llega a quererlos. El due\xF1o, un vijo cascarrabias."
+    date: 20-03-2009
+    user: http://mi.guiaoleo.com/members/64770
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Despu\xE9s de haber ido varias veces del lado del almac\xE9n y haber sido r\xE1pidamente y bien atendido, lamento haber probado el restaurant. La atenci\xF3n fue p\xE9sima con mala onda de parte del mozo y debimos esperar 50 minutos por un at\xFAn que se dec\xEDa \"a la vasca\" pero result\xF3 ser simplemente \"a la parrilla\" con una salsa agregada de ajos fileteados. La porci\xF3n que dec\xEDa que era para dos personas era apenas suficiente y con un precio absurdo para su cantidad y elaboraci\xF3n. El ambiente es el de cantina sin pretensiones. Seguir\xE9 probando el almac\xE9n con precios mucho m\xE1s acordes m\xE1s r\xE1pida atenci\xF3n."
+    date: 18-03-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encontr\xE9 con el mismo lugar que todos describen aqu\xED... muy pintoresco y ambientado de manera tal que te sent\xEDs como si estuvieses al otro lado del charco. El bife de chorizo estuvo exquisito y el pur\xE9 de calabaza ten\xEDa otros ingredientes que lo hicieron muy sabroso. Adem\xE1s, te ponen en la mesa un aceite de oliva en botellita enana de vidrio... que le d\xE1 un toque diferente a las comidas! Buen\xEDsimo que se pueda pedir gaseosa familiar! Conclusi\xF3n: se come muy bien y por precios adecuados; convirti\xE9ndose en una opci\xF3n ideal para las noches de la semana, en compa\xF1\xEDa de amigos, parejas, etc."
+    date: 13-03-2009
+    user: http://mi.guiaoleo.com/members/9248
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Impresionante la fabada, todo super abundante y servido, diez puntos la atencion de los mozos, todo bien al estilo del ya casi olvidado bodegon espa\xF1ol. Si van los fines de semana vayan temprano o con tiempo porque se llena MAL. Consejo: Si hace calor no pidan fabada porque se van a transpirar la vida despues."
+    date: 06-02-2009
+    user: http://mi.guiaoleo.com/members/48770
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente bodegon. La comida es muy sabrosa. Comimos muy rico arroz con mejillones; y su celebre fabada asturiana (espectacular). Las porciones, son realmente enormes; lo cual hace abaratar los costos; puesto que no hay plato que no se pueda compartir. Muy diligente la atencion. Recomendable para personas de muy buen apetito y que tambien pretendan buenos sabores
+    date: 06-01-2009
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Qued\xE9 sorprendida por la muy buena calidad y cantidad de la comida. El lugar tiene la magia de las cantinas, con mozos de profesi\xF3n (que se acuerdan TODO) y muy agradable para charlar tranquilos. Muy buena relaci\xF3n precio/calidad"
+    date: 21-11-2008
+    user: http://mi.guiaoleo.com/members/43244
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena eleccion, los platos son abundantes, para compartir o pedir media porcion. Muy buena la atencion, es para volver. Uno de los pocos lugares tipicos que quedan en Palermo.La proxima va a ser en el bodegon.
+    date: 20-11-2008
+    user: http://mi.guiaoleo.com/members/44087
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pas\xE9 por casualidad por este lugar un mediodia , d\xEDa de semana. Ped\xED un sanguche de jam\xF3n crudo con queso, memorable, enorme y mu econ\xF3mico. El lugar en s\xED muy simp\xE1tico, un almac\xE9n de barrio con mesitas altas. Recomendable!"
+    date: 15-11-2008
+    user: http://mi.guiaoleo.com/members/28652
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      La verdad, que la fabada estaba como si la hubiese comido en mi Asturias natal; excelente.
+      El lugar me recuerda las fondas de pueblo.
+      Buena la atencion y precios super razonables.
+      Da para volver y atacar otros manjares.
+    date: 14-11-2008
+    user: http://mi.guiaoleo.com/members/13376
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente bodeg\xF3n en pleno Palermo. Uno de los pocos lugares no-caretas que quedan en el barrio. Las porciones son para compartir, el precio muy justo y todo *muy* rico. Ya quiero volver ;)"
+    date: 17-09-2008
+    user: http://mi.guiaoleo.com/members/51745
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Panera cl\xE1sica. El servicio es correcto y atento. Proponen un ambiente b\xE1sico, sin lujos y descontracturado. Las rabas de entrada no dicen demasiado. Platos realmente abundantes para compartir y bien presentados. Ideal para ir con amigos. Tanto el mouse de chocolate como la natilla espa\xF1ola no est\xE1n a la altura de los platos. Para volver."
+    date: 03-09-2008
+    user: http://mi.guiaoleo.com/members/18034
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Sobresale por el estilo de bodeg\xF3n/almac\xE9n, algo claramente diferente a lo que hay alrededor. La comida es buena, aunque nada del otro mundo. Los platos son normales, no tan abundantes. Es para ir con amigos a pasar un buen rato."
+    date: 03-09-2008
+    user: http://mi.guiaoleo.com/members/43224
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "fuimos al sector del almacen, en la esquina. el lugar tiene toda la onda de bodegon autentico, sin artificios. y los precios son inmejorables teniendo en cuenta la zona y la calidad. comimos callos a la madrile\xF1a (mondongo, rico pero mejor si sale bien caliente) y milanesa con torti de papa y cebolla. de postre, una natilla con demasiado gusto a serenito de vainilla. eso, mas una estela de litro, 49 pesos entre dos. como lei en algun comentario anterior, tambien volveremos por las rabas. y algun dia, por la fabada asturiana del restoran, que queda justo al lado."
+    date: 11-08-2008
+    user: http://mi.guiaoleo.com/members/46178
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "T\xEDpico bodeg\xF3n que te recuerda las aldeas asturianas. La comida es servida es un justa cocci\xF3n y el servicio es muy bueno. Para volver"
+    date: 06-08-2008
+    user: http://mi.guiaoleo.com/members/3157
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "copadisimo almacen/bodegon/cantina asturiano de principios de 1900. re familiero. fuimos un medio d\xEDa pedimos salchichas alemanas con chucrut, una picada y una tortilla de papas, con agua mineral. muy buena atencion, buena onda, calidad de los platos y ambiente colorido y calido cual viejo almacen de barrio. Volveremos por las rabas porque desfilaron varias veces alrededor de la mesa y tenian una pinta terrible. "
+    date: 30-07-2008
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Riquisima comida espa\xF1ola, los platos son muy abundantes, algunos para compartir, el ambiente no es muy grande pero agradable, es un t\xEDpico restaurant de barrio, muy acogedor."
+    date: 25-07-2008
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "fui por primera vez porque me recomendaron la comida y no se equivocaron, es muy buena. La atencion es malisima! tuvimos que ver como uno de los mozos (el gordito de barba) echo a un matrimonio a empujones del lugar mientras era insultado por la se\xF1ora, el motivo fue que este matrimonio no tenia reserva y comenzo la discusion por la irrespetuosa respuesta del mozo. Una lastima pero no vuelvo."
+    date: 22-07-2008
+    user: http://mi.guiaoleo.com/members/27643
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "T\xEDpico bodeg\xF3n / almac\xE9n con comidas caseras sencillas pero bien hechas. El lugar es chico tanto en el restaurant como en el almac\xE9n y la atenci\xF3n algo descuidada, pero la comida vale la pena. En el almac\xE9n las mesas son altas y con banquetas lo que las hace inc\xF3modas y para quedarse solo el tiempo necesario para comer. Para el restaurant conviene reservar ya que siempre se llena, a\xFAn en d\xEDas de semana"
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      El lugas es mas bien bodegon antiguo..la comida es buena pero no my variada.
+      Es lindo para ir en familia a comer pastas por ejemplo..
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/30308
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "P\xE9sima atenci\xF3n, es m\xE1s... de CUARTA!. Decidimos cenar en el local que est\xE1 sobre la calle Borges.\r\n\
+      Desde el vamos, el mozo que nos abri\xF3 la puerta se comport\xF3 de manera totalmente irrespetuosa e impaciente ante nuestra consulta de si hab\xEDa lugar o no. M\xE1s all\xE1 de ello, ingresamos. Nos cambiaron al mozo. El trato de este \xFAltimo fue bueno pero tuvimos media hora de demora entre platos (entradas, platos y postres). El colmo: Ped\xED como postre zapallos en almibar. Tardaron 25min y me trajeron higos!!! (como si tuvieran mucha preparaci\xF3n en el armado del plato). No piso m\xE1s este lugar."
+    date: 20-06-2008
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es pintorezco pero super chico, las mesas y las sillas altas son muy inc\xF3modas y no ten\xE9s donde dejar las cosas m\xE1s q en el piso. La atenci\xF3n fue amable y correcta teniendo en cuenta q hab\xEDa un \xFAnico camarero para todas las mesas. La comida es abundante, rica y barata, pero no son platos muy elaborados, es recomendable si buscan comer en una cantina."
+    date: 27-05-2008
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es la terecera vez que voy. T\xEDpica comida \"de la vieja\". Todo bien caserito. El \xFAnico defecto es la carta de vinos."
+    date: 17-05-2008
+    user: http://mi.guiaoleo.com/members/797
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Pesima atencion. los mozos parece que le hicieran un favor atendiendolo. llegamos 21:15hs nos encontramos con un cartel de salon completo con 4 mesas vacias, nos dijeron que debiamos esperar 30 minutos. no entro nadie hasta las 22 hs , por poco no nos cerraron la puerta en la cara. no vaya , hay mejores alternativas por ese precio. y eso que fui por una recomendacion. una verdadera decepcion.
+    date: 17-05-2008
+    user: http://mi.guiaoleo.com/members/45039
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui con dos amigos al almac\xE9n. Muy lindo el ambiente, un poco ruidoso pero c\xE1lido. Las mesas son altas al igual que las sillas, eso le da un toque es pecial.\r\n\
+      La comida es exelente, abundante, muy buena la calidad y econ\xF3mica.\r\n\
+      Un dato a tener en cuenta: despues de las 23:30 hs no reciben m\xE1s a nadie, incluso los fines de semana."
+    date: 07-05-2008
+    user: http://mi.guiaoleo.com/members/44203
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fue la primera vez que fui. La paella estaba para recordarla. TOdos los sabores a punto y sin entreverarse. Me encanto. Nos atendio un mozo excelente. La pareja de atras nuestro no tuvo esa suerte. Un mozo MUY antipatico.
+    date: 03-04-2008
+    user: http://mi.guiaoleo.com/members/19430
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: recomendable, buena cocina y atencion, buena relacion precio-servicio. ya quedan pocos lugares antiguos y encima se come muy bien. hay que reservar porque es chico.
+    date: 22-03-2008
+    user: http://mi.guiaoleo.com/members/3523
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Recomendable, la esquina bien podr\xEDa pasar con muy poco por un bar de tapas."
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/6647
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy lindo lugar, la parte del Restaurant. Me parece que hay que conocer las picadas de la esquina, la parte mas tipo almacen. la comida es rica y los precios son medios. Buen ambiente para charlar y pasar un buen momento.
+    date: 13-03-2008
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un cl\xE1sico de Palermo. Excelente relaci\xF3n precio / calidad. Llevo un par de a\xF1os de comer semanalmente y nunca un plato estaba malo o me cayo mal.\r\n\
+      El bar acepta tarjetas de cr\xE9dito, no acepta reservas y no abre los domingos (por favor corregir al inicio). Recomendable por su comida y ambientaci\xF3n, un ex almacen de Ramos Generales de 1888, convertido hace unos 60 a\xF1os en este simp\xE1tico restaurante y bar."
+    date: 12-02-2008
+    user: http://mi.guiaoleo.com/members/15954
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Uno tiene dos sectores para elegir donde comer. Uno mas bien de paso (en la esquina), en mesas altas donde la atencion es mas rapida y sobria, y cuyo menu es mas reducido. Y otro, donde esta armado como un restaurant mas formal, y el precio se incrementa un poco. Ambos excelentes segun lo que uno busque. La comida muy buena y el ambiente agradable. Un poco de oxigeno, en el medio de palermo holliwod o soho, o como se llame....
+    date: 05-01-2008
+    user: http://mi.guiaoleo.com/members/23940
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Comida tipica bien. Nada del otro mundo. De muy mal gusto pedir una porcion de rabas y que vengan 7 y el resto sea papas fritas.... de cuarta. "
+    date: 29-12-2007
+    user: http://mi.guiaoleo.com/members/37568
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Simpatica cantina espa\xF1ola con buenas porciones y muy rica comida.  Servicio y algunos detalles del ambiente mejorables pero en general cumple bien la propuesta.  Recomendable. "
+    date: 11-12-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No pensamos volver, la relaci\xF3n precio calidad es intolerable y los mozos, terribles. Nunca estan atentos."
+    date: 11-12-2007
+    user: http://mi.guiaoleo.com/members/36444
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es muy bueno, tipico, de los que ya no abundan. La comida es buena, porte\xF1a y espa\xF1\xF1ola, la atencion es correcta y los precios un poquito alto respecto de la calidad, quizas por la influencia \"fashion\" de la zona.\r\n\
+      Recomendable, para algunas ocasiones."
+    date: 02-09-2007
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Comer en El Preferido est\xE1 bueno porque pod\xE9s ir con tus amigos a comer milanesas con papas fritas! Es obvio. Siempre hay un amigo que por m\xE1s adulto que sea s\xF3lo come milanesas, por lo tanto como tiene que haber un lugar en el cual poder comer las cl\xE1sicas \"minutas\" en su estilo m\xE1s cl\xE1sico, se elije El Preferido! "
+    date: 24-08-2007
+    user: http://mi.guiaoleo.com/members/15436
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Todo bien que tenga onda el lugar por ser un bodegon, pero pedi una clasica milanesa napolitana y en casa me sale mejor, media pila con la comida! "
+    date: 23-08-2007
+    user: http://mi.guiaoleo.com/members/29319
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Almorzamos compa\xF1eros de trabajo una sabrosa picada, el jam\xF3n excelente, bien x todos los ingredientes. Quiz\xE1s deber\xEDan mejorar los ba\xF1os. Bravo por la excelencia de los ingredientes y su relaci\xF3n con los precios. Recomendable! "
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/15989
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Frente a la casa de la infancia de Borges se ubica este resturante y almac\xE9n sumamente simp\xE1tico y acogedor. Se nota que es un cl\xE1sico. La paella asturiana para dos personas es abundante y suculenta. No se la pierdan. Lo \xFAnico molesto es el ruido ambiente del parloteo de la gente. \r\n\
+      Me sentir\xEDa m\xE1s a gusto si los mozos fueran m\xE1s expertos -son todos demasiado j\xF3venes y titubeantes- y si los ba\xF1os lucieran m\xE1s cuidados. M\xE1s all\xE1 de eso, es un lindo sitio para comer bien a un precio razonable."
+    date: 06-08-2007
+    user: http://mi.guiaoleo.com/members/5179
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un reciclado e interesante restaurant-almac\xE9n de barrio.Pintoresco. Mesas altas,chiquito y c\xE1lido.La milanesa de peceto bien hecha\r\n\
+      La atenci\xF3n es buena. Buena ecuaci\xF3n precio calidad."
+    date: 11-06-2007
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy recomendable. "
+    date: 14-05-2007
+    user: http://mi.guiaoleo.com/members/23188
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Com\xED la tan recomenda picada. No vuelvo nunca m\xE1s.\r\n\
+      El salame mezclado con los pikles, las salchichas con las anchoas. Parecian las sobras que encontraron revolviendo la basura. Un desastre."
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/10249
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es realmente un lugar original en un Palermo muy cool pero poco interesante. Lo conocimos por unos amigos y nos encant\xF3. La comida abundante, el lugar no llama la atenci\xF3n pero realmente cumple con lo que uno espera de una vieja trattoria porque eso es. \r\n\
+      Volvimos y lo recomendamos siempre que podemos."
+    date: 29-03-2007
+    user: http://mi.guiaoleo.com/members/18844
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comida excelente, lugar austero pero lindo. Para ir vestido casual. \r\n\
+      No apto para rom\xE1nticos."
+    date: 15-02-2007
+    user: http://mi.guiaoleo.com/members/18658
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Bodeg\xF3n porte\xF1o (o espa\xF1ol o italiano, que m\xE1s da). Muy buena y abundante comida, a precios razonables. Si bien la cocina tiene un sesgo espa\xF1ol (paella, fabada) las pastas tambi\xE9n son muy buenas.\r\n\
+      El servicio y la cocina son lentos, pero justifica la espera. S\xF3lo hay que ir bien acompa\xF1ado y charlar con un buen vino (tambi\xE9n buena panera y dip de roquefort a la vieja usanza)."
+    date: 13-02-2007
+    user: http://mi.guiaoleo.com/members/3367
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida estuvo bien. La tortilla a la espa\xF1ola muy rica. Pero el tiempo de espera para todo fue eterno. La comida la esperamos m\xE1s de media hora. El mozo jam\xE1s apareci\xF3 para preguntar si quer\xEDamos pedir m\xE1s bebida. No vamos a volver."
+    date: 19-12-2006
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es lo mejor. Barato y buen\xEDsima la comida y la atenci\xF3n. Tienen que ir porque es excelente."
+    date: 15-12-2006
+    user: http://mi.guiaoleo.com/members/14601
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Incre\xEDble. Cuando entramos con mi amigo Pepe, quien sugiri\xF3 la visita, me pareci\xF3 pintoresco, pero desconfiaba de lo que pod\xEDan servir. El momento en el que apereci\xF3 la tortilla, mis dudas se disiparon. Era enorme y super sabrosas, lo mismo el filet de merluza, que result\xF3 delicioso. En s\xEDntesis: buenos precios, comida riqu\xEDsima, muy abundante (para compartir). Un detalle, el servicio deber\xEDa mejorar, tardan mucho en atender y, a veces, cierran la puerta y no te dejan entrar."
+    date: 12-11-2006
+    user: http://mi.guiaoleo.com/members/13452
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 mucho la calidez de este lugar por la ambientaci\xF3n tiene un look bien de barrio, de bodeg\xF3n, que le d\xE1 un toque kish al tan afamado palermo soho. "
+    date: 04-11-2006
+    user: http://mi.guiaoleo.com/members/13347
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Ideal para tomar una cerveza/vino con una buena picada seleccionada por uno. Las comidas al plato tambien son recomendables. Chico y acogedor.
+    date: 23-09-2006
+    user: http://mi.guiaoleo.com/members/3919
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "\xC9 o restaurante mais simp\xE1tico de Buenos Aires (\xC9 o meu  preferido na Argentina). Fui in\xFAmeras vezes (almozo y cena) e pretendo retornar muitas outras."
+    date: 29-08-2006
+    user: http://mi.guiaoleo.com/members/11568
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una cazuela de mariscos para compartir y para disfrutar en un lugar con la calidez de un aut\xE9ntico bodeg\xF3n espa\xF1ol. Recomendable."
+    date: 11-07-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un ambiente muy agradable y nost\xE1lgico, una cocina excelente con especialidades asturianas de primera (recomendable la fabada), pero un servicio que necesita un poco de esmero. Sin ser malo, deber\xEDa mejorar."
+    date: 08-07-2006
+    user: http://mi.guiaoleo.com/members/9979
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la comida, los platos son para compartir. \r\n\
+      Los ravioles de pollo con tuco y pesto son lo m\xE1s. \r\n\
+      El servicio es muy bueno. Lo recomiendo. \r\n\
+      La pr\xF3xima voy a la esquina."
+    date: 01-06-2006
+    user: http://mi.guiaoleo.com/members/6857
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Comida casera riqu\xEDsima y econ\xF3mica. Lugar muy pintoresco, con atenci\xF3n regular (si es que te dejan entrar)."
+    date: 07-05-2006
+    user: http://mi.guiaoleo.com/members/8454
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La verdad que es uno de los mejores lugares de Palermo. Comida bien casera y rica a buen precio.
+    date: 03-05-2006
+    user: http://mi.guiaoleo.com/members/8183
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar. El pur\xE9, lejos el mejor que prob\xE9. \xA1Muy bien!"
+    date: 22-04-2006
+    user: http://mi.guiaoleo.com/members/6616
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Imperdible. Simplemente distinto y con un encanto dif\xEDcil de poner en palabras. \r\n\
+      Los enormes frascos de conserva a la vista le dan una nota de color inigualable. \r\n\
+      La comida casera y muy rica. \r\n\
+      Ideal para gente joven."
+    date: 03-04-2006
+    user: http://mi.guiaoleo.com/members/10443
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Mezcla de almac\xE9n y restaurante, es una opci\xF3n ideal para cualquier momento del d\xEDa. La comida es exquisita, recomiendo el matambre casero, los ravioles y la ternerita."
+    date: 03-04-2006
+    user: http://mi.guiaoleo.com/members/8497
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Vamos a menudo y la comida es excelente y lo recomendamos. \r\n\
+      Pero el viernes fuimos, a las 20 hs. estaba vacio, \xE9ramos cuatro y una beba en cochecito y pr\xE1cticamente nos echaron aduciendo que no hab\xEDa lugar."
+    date: 02-04-2006
+    user: http://mi.guiaoleo.com/members/7460
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Sobre Borges est\xE1 la entrada al rest\xF3 y en la esquina de Borges y Guatemala est\xE1 la entrada al almac\xE9n de estilo antiguo donde tambi\xE9n pod\xE9s comer. \r\n\
+      Perfecto para un almuerzo r\xE1pido, econ\xF3mico y sabroso. De paso se puede hacer alguna compra. \r\n\
+      La comida es muy rica y hay muchas opciones. El ambiente es tranquilo, sencillo y familiar. La atenci\xF3n tambi\xE9n es buena."
+    date: 01-03-2006
+    user: http://mi.guiaoleo.com/members/6575
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un almacen ideal para ir a tomar y comer algo con amigos. Una distinci\xF3n especial al mejor arroz con leche que prob\xE9 en un restaurante."
+    date: 31-01-2006
+    user: http://mi.guiaoleo.com/members/6174
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El servicio es excelente, a pesar de estar lleno nos atendieron enseguida. La comida es buena y los precios muy accesibles. \r\n\
+      Gast\xE9 $15 con entrada, plato principal y postre."
+    date: 18-01-2006
+    user: http://mi.guiaoleo.com/members/20635
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente para ir a comer con amigos, tomar mucha cerveza y que no te rompan la cabeza con el precio.
+    date: 28-11-2005
+    user: http://mi.guiaoleo.com/members/5053
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es realmente pintoresco, con sus mantelitos de cuadros rojos y blancos y su pecera. Al entrar me sent\xED transportada a una de esas viejas y c\xE1lidas trattorias romanas, que con frecuencia aparecen en el cine nost\xE1lgico italiano. La comida tiene el gustito de la que hac\xEDan mam\xE1 y la abuela, sabores netos y genuinos."
+    date: 26-07-2005
+    user: http://mi.guiaoleo.com/members/2240
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: es todo muy casero ideal para invierno
+    date: 15-02-2005
+    user: http://mi.guiaoleo.com/members/797
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: muy calido!!
+    date: 26-01-2005
+    user: http://mi.guiaoleo.com/members/709
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: De acuerdo a lo esperado en una cantina de barrio. Recomendada la tortilla!!
+    date: 25-01-2005
+    user: http://mi.guiaoleo.com/members/7
+    ambiente_rank: muy bueno

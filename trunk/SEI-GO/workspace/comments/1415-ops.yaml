@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Horrible ese lugar! Mala la atenci\xF3n! \r\n\
+      Cuando pedis la parrillada Capataz (mas cara que la com\xFAn) apenas te trae un par de mollejas y otras cosas que \"supestamente\" agrega: un desastre."
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/32159
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hemos probado la mayor\xEDa de sus platos. Somos una familia que nos gusta, cuando viajamos, recorrer distintos resto del mundo. El ambiente, la calid\xE9z y la calidad de su cocina priman en capataz. Cabe destacar a sus due\xF1os, porque representan muy bien al pa\xEDs.\r\n"
+    date: 02-10-2006
+    user: http://mi.guiaoleo.com/members/12502
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Un lugar para tener en cuenta.
+    date: 29-09-2006
+    user: http://mi.guiaoleo.com/members/12422
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente carne y servicio con precios m\xF3dicos."
+    date: 29-09-2006
+    user: http://mi.guiaoleo.com/members/12421
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "P\xE9simo. Debe ser unos de los peores restaurants que fui en mi vida. La parrilla de libre no tiene absolutamente nada, te traen los que ellos quieren y cuando se les canta, si les ped\xEDs algo te lo traen a las 2 horas. Si quieren comer toda la noche papas fritas -que es lo \xFAnico aceptable que hacen- les recomiendo este lugar."
+    date: 02-09-2005
+    user: http://mi.guiaoleo.com/members/3649
+    ambiente_rank: muy bueno

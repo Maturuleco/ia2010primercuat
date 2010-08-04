@@ -1,0 +1,37 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      El lugar es muy lindo, pero para llegar al restaurante hay que pasar por la recepcion de las canchas de tenis, cuando le consulte donde quedaba la entrada del restaurante, el recepcionista de turno me respondio en forma poco agradable.
+      La atencion del lugar es NI, la ensalada cesar es muy buena, luego los platos principales fueron sorentinos gratinados que estaban buenos y el otro plato pedido fue ravioles con salsa de oliva y albahaca, despues de un largo rato, la moza nos dice que albahaca no tenian, en su defecto podian utilizar rucula, pero cuando llego ese plato era SOPA DE RAVIOLES FRIO
+    date: 21-12-2009
+    user: http://mi.guiaoleo.com/members/51331
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es incre\xEDble, super agradable y de buen gusto tanto afuera como adentro. La atenci\xF3n es esmerada y con buena onda y la comida merece un cap\xEDtulo especial porque es de lo mejor sobre todo teniendo en cuenta lo razonable de los precios. Adem\xE1s est\xE1 muy bien ubicado para llegar tanto de capital como de provincia. Super recomendable. Adem\xE1s tiene estacionamiento propio y seguridad!!"
+    date: 11-12-2009
+    user: http://mi.guiaoleo.com/members/11968
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 este lugar con una onda muy Jos\xE9 Ignacio en su decoraci\xF3n.\r\n\
+      Al principio la atenci\xF3n pareci\xF3 un poco desantenta pero luego fu\xE9 repuntando y termin\xF3 siendo muy buena.\r\n\
+      La comida fu\xE9 muy sabrosa , unos ravioles de calabaza y una ensalada caesar , de postre un flan y un mousse de chocolate blanco que estaban muy deliciosos.recomiendo pleanamente la terraza para d\xEDas de verano."
+    date: 06-12-2009
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es el bar del club house de un barrio cerrado (nivel nuevoric\xF3n); no han cuidado ese detalle: entran tenistas y se toman un gatorade despu\xE9s de jugar, acodados en la barra. Encima es recontra trasmano. No vale la pena, hay muchas mejores opciones."
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/3073
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida de Massey era increible, yo com\xED un cordero que creo que fue el mejor de mi vida. \r\n\
+      La atencion era bastante buena aunque para mi hab\xEDa ya demasiadas mozas que se chocaban, eso habr\xE1 que mejorarlo.\r\n\
+      Es de destacar la decoraci\xF3n del lugar, est\xE1 puesto incre\xEDble, yo cuando fui hac\xEDa mucho fr\xEDo afuera pero estimo que con el veranito se va a poner muy buena la terraza!!"
+    date: 15-07-2009
+    user: http://mi.guiaoleo.com/members/33997
+    ambiente_rank: excelente

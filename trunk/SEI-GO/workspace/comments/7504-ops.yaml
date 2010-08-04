@@ -1,0 +1,14 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena propuesta gastron\xF3mica y excelente atenci\xF3n."
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/82455
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es muy agradable, la atenci\xF3n es excelente.  \r\n\
+      Tiene una barra muy c\xF3moda para comer. Es un lugar con buena comida y muy buenos precios."
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/47181
+    ambiente_rank: bueno

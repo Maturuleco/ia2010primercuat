@@ -1,0 +1,94 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me gust\xF3 mucho. Muy buenos platos, ricos, al igual que el servicio, excelente, a pesar de que estaba lleno el lugar. Con el descuento Gu\xEDa \xD3leo se hace muy barato."
+    date: 03-07-2010
+    user: http://mi.guiaoleo.com/members/84360
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena comida, abundante, con gusto. La atenci\xF3n excelente, aunque demoraron un poco los platos. A la carta, como comimos, los precios son un poco m\xE1s caros que la referencia de la Gu\xEDa \xD3leo, que seguramente est\xE1 hecha sobre una promo, que me pareci\xF3, muy buena."
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/83987
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo recomiendo. Buenos platos, medianamente abundantes, bien presentados y sabrosos. Con precios muy buenos en relaci\xF3n al lugar. Vale la pena."
+    date: 18-06-2010
+    user: http://mi.guiaoleo.com/members/79852
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelenteeeeeeeeee. Muy bueno los platos, abundantes y muy sabrosos. A 36$ plato principal, postre y caf\xE9 para este lugar es un regalo. Muy buena las promo de vinos y champagne. Lo recomiendo"
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/83514
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un muy buen lugar para comer tranquilo o con amigos. Excelente el servicio, con platos abundantes, sabrosos y a muy buen precio.
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/78474
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Mucha variedad de platos. Est\xE1 bueno para ir con amigos a charlar largo y tendido..."
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/49433
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Comida entre abundante y justa. Demor\xF3 la atenci\xF3n inicial, y un poco en servir la comida. La relaci\xF3n precio-comida es satisfactorio. La atenci\xF3n del mozo totalmente satisfactoria. Vale la pena probar y personalmente no dudo en volver a probar otras especialidades."
+    date: 06-05-2010
+    user: http://mi.guiaoleo.com/members/81118
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 el lugar, lindo el resto. De afuera parece caro, pero hicimos un pedido a la carta y otro de una promo de la noche. Este combo nos pareci\xF3 a muy buen precio. Buen\xEDsima la comida, el postre muy rico. Tal vez poca variedad de vinos"
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/79508
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida y la atenci\xF3n. Tal vez demoraron un poco, pero el mozo muy piola. Platos abundantes y muy sabrosos.\r\n\
+      Tienen una carta muy buena, con precios accesibles y una promoci\xF3n-cena, variada a $34 con principal postre y caf\xE9. Vale la pena"
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/79504
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "No hay mal que por bien no venga, pens\xE9 cuando sal\xEDa de una visita al sanatorio de la trinidad, y fui. Concuerdo en que a $34 (sin bebida), los men\xFAes son variados e interesantes. Me hubiera vuelto fan\xE1tico del lugar de no ser porque vino un pan mordido en la panera, la pechuga al curry era 1/3 de pajarito con gusto a casi nada y el pomposamente llamado arroz a la albahaca se parec\xEDa mucho a un arroz blanco con un cubito de sabor. Nunca es bueno que el pico de felicidad se d\xE9 cuando uno abre el men\xFA y luego vaya en baja, pero al menos es accesible y las intenciones son buenas. No est\xE1 mal!"
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Buen\xEDsimo, fui por recomendaci\xF3n. Con platos abundantes y sabrosos y muy barato. Por $32 incluye principal, postre, caf\xE9, y servicio.\r\n\
+      Lo recomiendo"
+    date: 25-02-2010
+    user: http://mi.guiaoleo.com/members/77582
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Buen\xEDsimo, platos principales de calidad, muy sabrosos y bastante abundantes. Los postres tambi\xE9n muy ricos.\r\n\
+      Pero lo mejor en relaci\xF3n a la comida son los precios. Las promo de $32 incluyen platos muy variados. Lo recomiendo"
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/77109
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Buen\xEDsimo, hay una promoci\xF3n por $32, con una gran variedad de platos, que incluye, postre y caf\xE9.Los platos est\xE1n muy bien presentados y son abundantes"
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/76960
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hay nuevos men\xFAes de $30 que incluyen postre y bebida."
+    date: 12-11-2009
+    user: http://mi.guiaoleo.com/members/49433
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar. Sencillo en cuanto a decoraci\xF3n y algo peque\xF1o, pero increible el sabor de los platos, abundantes. A la noche tienen una promoci\xF3n especial donde se come excelentemente bien y barato. Una muy buena opci\xF3n!"
+    date: 09-10-2009
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: bueno

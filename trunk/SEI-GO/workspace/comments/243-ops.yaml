@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Muy bueno, altamente recomendable, el mejor mix precio calidad.
+      El menu no es muy extenso, pero tiene perlitas (Ademas de Carne, Pastas, Pollo, Cerdo, tenia Rana y Caracoles)
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/63590
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "T\xEDpico bodeg\xF3n de barrio con no mucho atractivo d\xF3nde esper\xE1bamos que la comida sea realmente el punto fuerte: la milanesa napolitana estaba muy buena, pero la bondiola con papas fritas (nada de otro mundo) no esta bien caliente y ademas estaba quemada en algunas partes y eso que la pedimos jugosa. Solo para emergencias culinarias."
+    date: 05-06-2009
+    user: http://mi.guiaoleo.com/members/26886
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Bodeg\xF2n de barrio donde los clientes son amigos de la casa.La comida es buena y los precios acordes a lo que ofrecen.Para visitar sin exigencias."
+    date: 11-05-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar ideal para compartir una mesa con amigos. Buenas pastas y salsas. Muy recomendables los caracoles; y el guiso de mondongo. "
+    date: 29-07-2007
+    user: http://mi.guiaoleo.com/members/28125
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un bolichon de barrio, una cantina que naci\xF3 a cuadras de ah\xED. Antes estaba en estados unidos y colombres. Es un lugar habitue de gente de san lorenzo de almagro."
+    date: 11-01-2007
+    user: http://mi.guiaoleo.com/members/19814
+    ambiente_rank: bueno

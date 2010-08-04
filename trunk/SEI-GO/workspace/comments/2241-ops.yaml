@@ -1,0 +1,133 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: se come bien, te atienden muy bien, es lindo el lugar, pero no es para hace "la" salida, sino un pizza del paso.
+    date: 24-02-2010
+    user: http://mi.guiaoleo.com/members/75972
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Pido siempre delivery o voy a comprar empanadas. que son verdaderamente MUY BUENAS. Caseras, grandes y cargadas.
+      Las pizzas son muy buenas.... pero no como para decir que son las mejores de Bs.As.
+    date: 01-12-2009
+    user: http://mi.guiaoleo.com/members/38778
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "bueno me gusto la pizza muy rica y las empanadas tambien  ricas..ahora de ahi a decir que es lo mejor de caballito o de capital hay un abismo \r\n\
+      pero para no ser injusto  el lugar es peque\xF1o pero tiene su onda y la atencion si debo admitir que fue mejor que buena fue de lujo(gracias a la se\xF1ora y al muchacho  de ahi ) pero pizzas hay muchas y esta simplemente esta para salir del paso , ls empanadas si son muy buenas"
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Il Nono Pibe, es LA pizzeria de Caballito,y me atrevo a decir que es la mejor de Capital. Su masa sus productos de primera. Sea Delivery o atencion en el local son excelentes. Gerardo un capo en la atenci\xF3n. Las empanadas super rellenas, no escatiman en poner el relleno que corresponde, y las variedades de sabores son muchisimos. Recomendable???  RECOMENDAD\xCDSIMO!!!!!!"
+    date: 01-09-2009
+    user: http://mi.guiaoleo.com/members/11238
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La mejor pizza de todo Buenos Aires, las empanadas m\xE1s rellenas de la tierra, atenci\xF3n familiar y muy agradable.\r\n\
+      El delivery es increible, sobre todo en los dias de frio. Lo recomiendo, todo es sabroso, fresco y los due\xF1os son de primera."
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/65483
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar totalmente recomendable! Me hab\xEDan dicho que eran muy buenas pizzas y empanadas y lo confirm\xE9 este s\xE1bado pasado. La variedad y gustos de las pizzas es excelente, media masa, riqu\xEDsimas. Las empanadas son gigantes y rellenitas. Volver\xE9 a ir porque fue una delicia y tengo varios gustos de pizzas en mente para probar."
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/35884
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: una de las mejores pizzas que se prueban por el barrio de caballito, realmente muy sabrosa.
+    date: 03-06-2008
+    user: http://mi.guiaoleo.com/members/41504
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Las mejores empanadas! Bien rellenitas
+    date: 01-02-2008
+    user: http://mi.guiaoleo.com/members/39305
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar chiquito, de barrio. Limpio, agradable y tranquilo. Las pizzas son ricas y no escatiman con los ingredientes... lo mismo sucede con las empanadas: tienen relleno y no aire. Se puede comprar gaseosas y cerveza de litro."
+    date: 03-11-2007
+    user: http://mi.guiaoleo.com/members/13673
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La mejor prepizza que prob\xE9 en mi vida. Muy rico."
+    date: 30-10-2007
+    user: http://mi.guiaoleo.com/members/34896
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ten\xEDa muy buenas recomendaciones, pero la verdad que defraud\xF3 totalmente... una pizza del mont\xF3n, uno siente que come una rica pre pizza de supermercado... Sin lugar a dudas no volver\xE9."
+    date: 25-10-2007
+    user: http://mi.guiaoleo.com/members/14242
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: nos gusto mucho, vamos a volver!!!! muy buena atencion
+    date: 04-10-2007
+    user: http://mi.guiaoleo.com/members/33429
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente, nunca com\xED empanadas hechas en un local tan grandes y tan ricas. La pizza tiene muchas variedades y hay para todos los gustos. Totalmente recomendable, aunque el lugar es chiquito, lo mejor es pedir delivery porque son puntuales. Mi calificaci\xF3n comida: 9.5 de 10 y el ambiente 7 de 10. "
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/19977
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Muy mediocre, como en todo caballito no tienen idea de como se hace la verdadera pizza. La del nono es de cuarta de barrio que nada sabe de pizzas, y menos de empanadas...
+    date: 12-07-2007
+    user: http://mi.guiaoleo.com/members/26605
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Muy buenas pizzas elaboradas con productos de primera calidad. Las empanadas son grandes y sabrosas. 
+      Un lugar para tener en cuenta.
+    date: 18-03-2007
+    user: http://mi.guiaoleo.com/members/20188
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es una de las mejores combinaciones entre atenci\xF3n y calidad de sus productos. Cabe destacar la amabilidad y cordialidad, dentro de un marco familiar, haci\xE9ndote sentir como en casa. Algo para resaltar, el tama\xF1o y relleno de las empanadas, hechas a la vista. "
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/19710
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La mejor pizza al molde de Caballito. Cuentan con una amplia variedad en pizzas, ingredientes de primera y todo a un precio muy accesible. La masa de la pizza es esponjosa, liviana y nunca cae pesada, sin importar cu\xE1nto comas. \r\n\
+      \r\n\
+      El lugar es peque\xF1o pero muy acogedor y el servicio impecable."
+    date: 06-01-2007
+    user: http://mi.guiaoleo.com/members/13277
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me sent\xED muy cordialmente atendido. \r\n\
+      La calidez de la atencion fue muy buena y la comida aun m\xE1s."
+    date: 11-09-2006
+    user: http://mi.guiaoleo.com/members/11941
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la pizza, la mejor de Buenos Aires, es al molde muy sabrosa y las empanadas son las m\xE1s grandes.\r\n\
+      El lugar est\xE1 muy bueno.\r\n\
+      Digno de comparar con las pizzer\xEDas de remombre."
+    date: 10-09-2006
+    user: http://mi.guiaoleo.com/members/11901
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la pizza con mucho sabor y aroma. Las empanadas \xFAnicas y gigantes. Todo demasiado rico y en un ambiente muy familiar. \r\n\
+      Excelente."
+    date: 01-09-2006
+    user: http://mi.guiaoleo.com/members/11662
+    ambiente_rank: excelente

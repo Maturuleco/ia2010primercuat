@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos en familia el lunes feriado al mediod\xEDa. La comida es normal, pero el servicio es un desastre, esperamos m\xE1s de una hora y media para poder almorzar, y nadie hab\xEDa pedido nada complicado.\r\n\
+      Los platos no eran malos, pero no volver\xEDa, ya que la atenci\xF3n es paup\xE9rrima, al igual que la ambientaci\xF3n, adem\xE1s hac\xEDa mucho fr\xEDo. Otro lugar olvidable de Villa del Parque"
+    date: 21-06-2010
+    user: http://mi.guiaoleo.com/members/15628
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fuimos a cenar con mi novia y la verdad estuvo todo muy rico, muy bien presentado y muy accesible los platos. Realmente es un lugar muy calido y agradable para ir en parejas
+    date: 27-05-2010
+    user: http://mi.guiaoleo.com/members/82661
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: estuve este mediodia con mi mujer y realmente se come muy bien y es muy abundante la porcion
+    date: 27-05-2010
+    user: http://mi.guiaoleo.com/members/82636
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un lugar para recomendar por su gastronomia, su precio accesible y su carta de tragos.
+    date: 26-05-2010
+    user: http://mi.guiaoleo.com/members/82653
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El resto tiene una carta acotada pero muy interesante, el plato que comi yo era de un sabor increible.
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/82635
+    ambiente_rank: excelente

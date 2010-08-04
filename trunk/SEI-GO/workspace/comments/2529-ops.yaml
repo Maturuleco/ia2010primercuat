@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente comida y ambiente
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/69190
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Todo muy bueno, muy recomendable, esta puesto como un Restaurant de primera, con precios muy accesibles
+    date: 05-06-2009
+    user: http://mi.guiaoleo.com/members/63429
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me siento muy c\xF3moda en este lugar, bien ambientado, bien atendido, buena m\xFAsica (lenta y suave), y excelente comida, todos los dias menues diferentes."
+    date: 21-04-2008
+    user: http://mi.guiaoleo.com/members/43795
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Recomendable para ir al mediodia por contar con menues de pastas, pollo y carnes muy ricos a precios logicos.
+      El lugar en si es muy bonito.
+    date: 27-03-2008
+    user: http://mi.guiaoleo.com/members/42423
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Despu\xE9s de leer los comentarios, decidimos ir, previa reserva, para el d\xEDa del amigo. Realmente lo recomiendo: El lugar es muy acogedor. La atenci\xF3n excelente. Tiene un men\xFA ejecutivo que cambia todos los d\xEDas y es muy econ\xF3mico. Nos encant\xF3. Excelente. Vamos a volver. "
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/26896
+    ambiente_rank: muy bueno

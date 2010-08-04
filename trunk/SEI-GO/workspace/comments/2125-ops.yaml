@@ -1,0 +1,92 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Estaba esperando en la fila para el Salad Bar, mal ubicado, al lado de la salida de los mozos, se rompi\xF3 una botella de gaseosa, y con los vidrios se me cort\xF3 el pantal\xF3n. Ped\xED hablar con el encargado, ni siquiera se acerc\xF3 a pedir disculpas, tuve que ir yo a hablarle a la caja. Me dijeron que no pod\xEDan reconocerme nada porque no era el due\xF1o, que como compensaci\xF3n me invitaban a almorzar a m\xED y a un acompa\xF1ante. La verdad, de terror. Ya no tengo m\xE1s ganas de ir."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/77828
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: un lugar lindo para tomar o comer algo si andan por la zona.
+    date: 08-01-2010
+    user: http://mi.guiaoleo.com/members/3167
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF3n y rapidez del servicio. Tambi\xE9n hacen delivery. Genial."
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/68553
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Para salir del paso, est\xE1 muy bien. Ambiente espacioso y amplio."
+    date: 16-04-2009
+    user: http://mi.guiaoleo.com/members/8127
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena pizzer\xEDa porte\xF1a: rica pizza y servicios r\xE1pido y eficiente a precios m\xF3dicos. Ideal para cerrar la salida de un evento del Luna"
+    date: 15-04-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "T\xEDpico lugar para comer de paso en horario de trabajo.Tiene men\xFAes que incluyen en algunos casos plato, bebida y caf\xE9.Estas promociones hacen que sea una forma de almorzar econ\xF3mica y buena.La pizza es buena y la atenci\xF3n tal vez un poco descuidada.Bueno para el mediod\xEDa."
+    date: 20-01-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Un bar tipico de oficinista, mesas sin mantel, y sillas de acero. hay comida muy fast food, no es para ir a comer nada rebuscado, simplemente para ir a comer algo si estan de paso. El servicio es bueno, te atenden con amabilidad, la comida es buena por el precio y hay mucha variedad de ensaladas para comer, esta muy bien si no pretenden algo extraordinario.
+    date: 22-12-2008
+    user: http://mi.guiaoleo.com/members/15767
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Es recomendable s\xF3lo si se quiere comer en abundancia a bajo costo. La cantidad no tiene que ver con la calidad, la comida a veces se nota q es recalentada. Las ensaladas son lo \xFAnico que mezclo de manera surtida porque es alguna comida para recalentar exceden el uso del microondas.El ambientes es MUY molesto, poco espacio, mucho ruido, pocos materiales que absorvan el terrible sonido de platos y charlas. La atenci\xF3n siempre fue buena. Lugar Inc\xF3modo."
+    date: 13-11-2008
+    user: http://mi.guiaoleo.com/members/15993
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "tengo muy cerca a P\xE9talo, la comida es muy buena y abundante, la pizza idem. Los precios son normales, est\xE1n bien para el mediod\xEDa. El ambiente no califica (ruidoso, muchas mesas, etc) y las camareras en general atienden bien."
+    date: 22-01-2008
+    user: http://mi.guiaoleo.com/members/3967
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "T\xEDpica confiteria-comedero del microcentro donde se quiere maximizar el espacio y ponen m\xE1s mesas de las que deber\xEDan.  La comida es buena y la atenci\xF3n que recib\xED de las mozas siempre fue esmerada m\xE1s all\xE1 que tienen much\xEDsimas mesas a cargo. "
+    date: 08-11-2007
+    user: http://mi.guiaoleo.com/members/2996
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "buena la atencion, la pizza sali\xF3 un poco fria, si bien fue r\xE1pida, muy buen precio, no habia mucha eleccion de bebidas... medio pobre... para mejorar, m\xE1s un dia al mediodia.."
+    date: 12-07-2007
+    user: http://mi.guiaoleo.com/members/20973
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La pizza es buena y la relaci\xF3n precio- calidad es razonable. Si bien el lugar es amplio, el exceso de mesas hace que quede poco lugar y que el bullicio sea mucho. Al mediod\xEDa los mozos hacen lo que pueden. "
+    date: 09-04-2007
+    user: http://mi.guiaoleo.com/members/7675
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente el Salad Bar que ofrecen los d\xEDas h\xE1biles al mediod\xEDa. Muy recomendable!"
+    date: 16-01-2007
+    user: http://mi.guiaoleo.com/members/15741
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Pizza ottima, fine e finalmente con mozzarella vera. Servizio che ha lasciato un p\xF2 a desiderare con una cameriera poco attenta e sorridente.\r\n\
+      Very good pizza, but quite poor service with a young lady not really enjoying her work. Need to try it anyway."
+    date: 16-01-2007
+    user: http://mi.guiaoleo.com/members/15076
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena comida, la pizza es excelente. Recomendable para almuerzos. "
+    date: 02-01-2007
+    user: http://mi.guiaoleo.com/members/15217
+    ambiente_rank: bueno

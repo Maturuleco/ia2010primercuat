@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tiene un excelente ambiente, dise\xF1o y musica. Tiene una buena variedad de platos abarcando pastas, pollo, carne y pescado. Muy ricas las entradas. Y muy recomendable el trago de la casa para caipiroshka de maracuy\xE1"
+    date: 20-06-2010
+    user: http://mi.guiaoleo.com/members/80903
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un muy lindo ambiente, una regular atenci\xF3n y muy mala comida. Ped\xED salm\xF3n, no deber\xEDa pesar m\xE1s de 120gr la porci\xF3n, seco, seguramente por estar congelado. Mi amiga el plato que comi\xF3 estaba fr\xEDo. Los precios de los vinos, desubicados. Entr\xE9, me equivoqu\xE9.Para verlo de afuera."
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/10091
+    ambiente_rank: muy bueno

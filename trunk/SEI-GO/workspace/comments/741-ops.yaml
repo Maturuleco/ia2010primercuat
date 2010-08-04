@@ -1,0 +1,95 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "es la mejor pizzeria porte\xF1a. las empanadas de carne son excelentes como la pizza"
+    date: 15-06-2010
+    user: http://mi.guiaoleo.com/members/83735
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: Me gusto, volvere....
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Atencion lenta y desganada, el que se supone o parece jefe de salon no ve mas alla de su nariz lo que suscede al rededor.
+      Los mozos no saben la diferencia entre un vino tinto y blanco,ni hablar de pedir que el vino este a temperatura los tintos por botellas los sirven practicamente calientes
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/75441
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Soy cliente habitual de BABIECA y desde hace a\xF1os.  Un detalle es que -si bien es un restaurante pizzer\xEDa- deber\xEDan cuidar los olores que se emanan al ambiente de los quesos quemados cuando hacen las pizzas y que inundan todo el ambiente y hasta el 1\xBA piso de un modo muy desagradable, peor que una pizzer\xEDa de las baratas del conurbano.  Una l\xE1stima, el resto todo ok..."
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/73566
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: fui a la terde al sector de cafeteria, increible los sabores y aromas. Es un clasico de clasicos la confiteria. la atencion excelente. 100% recomendado.
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fuimos dos parejas y comimos pizza, milanesas y papas fritas regada con cerveza. La comida no desentono pero tampoco fue descomunal mientras que la cerveza es muuuuuuuy cara. Punto en contra el ambiente: si uno no sabe la \"onda\" del lugar puede llegar a molestar."
+    date: 29-08-2009
+    user: http://mi.guiaoleo.com/members/53321
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fui a comer empanadas, y la verdad que las mismas eran muy ricas, en especial las fritas de cordero. El servicio fue aceptbale, sin demoras, y el ambiente es agradable.
+    date: 13-08-2009
+    user: http://mi.guiaoleo.com/members/8218
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      El lugar es un clasico de la avenida santa fe. Hay muy buenas promos para cenar o almorzar. La comida es muy rica y la atencion correcta.
+      Lo mejor del lugar? la cerveza con las papas fritas de copetin que hacen ellos mismos... de primera.
+    date: 07-07-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Visit\xE9 este restaurant un s\xE1bado a la noche por lo cual no habia lugar en el interior. Tuvimos que ir afuera. El espacio era c\xF3modo pero sin embargo la mesa y el servicio de mesa no era de la misma calidad as\xED que nos pareci\xF3 absurdo que nos cobraran el mismo precio por cubierto (la mesa era una mesa de metal plegable y las servilletas eran de papel, como en cualquier bar o cafeter\xEDa). La comida era rica aunque le faltaba un poco de sabor. La bebida era bastante cara (una gaseosa a siete pesos siendo que en restaurantes de m\xE1s categor\xEDa est\xE1 alrededor de 5-6 pesos). Bueno en general."
+    date: 07-06-2008
+    user: http://mi.guiaoleo.com/members/12853
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es excelente. El postre que pedimos (panqueque de dulce de leche) era m\xEDnimo. El ambiente es estandard. Demasiado ruido. Nada para destacar. Creo que es mejor pedir el delivery. Me pareci\xF3 muy caro por lo que me ofrecieron."
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Es un lugar lindo y de ambiente tranquilo  con una atencion correcta, donde se puede comer una pizza que no es nada del otro mundo pero que tampoco es mala.
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Otro cl\xE1sico de Buenos Aires y en especial de la Av Santa Fe. la comida nunca es mala, pero ya hace algunos meses que el precio no condice con lo que te sirven. es probable que la afluencia de turistas en la zona haya cambiado la pol\xEDtica de precios. \xA1las empanadas mas caras de buenos aires..."
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/25016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es buena. Tanto pastas como el resto de la cocina. El gran problema es que si uno come afuera, hay gente pidiendo y quizas termina pasando un mal momento. Vi una pareja a la cual un chico le saco dos prociones de pizzas.
+    date: 17-02-2007
+    user: http://mi.guiaoleo.com/members/23491
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Nulla di eccezzionale, tutto nella norma, forse un p\xF2 caro anche in confronto alla offerta l\xEC vicino. Locale pulito e molto ampio."
+    date: 15-01-2007
+    user: http://mi.guiaoleo.com/members/15076
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Mal servicio, muy demorado y despu\xE9s de esperar tanto la comida lleg\xF3 quemada. El ambiente es muy ruidoso y las mesas est\xE1n muy pegadas. El precio me pareci\xF3 alto para el servicio que prestan y la mala comida. "
+    date: 10-07-2006
+    user: http://mi.guiaoleo.com/members/18409
+    ambiente_rank: malo/regular

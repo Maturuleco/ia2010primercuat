@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: un desatre esta comida es muy barato perto la comida lamentable
+    date: 28-01-2008
+    user: http://mi.guiaoleo.com/members/23187
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: No aconsejo a nadie a visitar este lugar. Fui por el precio y porque lei el comentario positivo. Parrila no es que habia poca variedad, directamente NO HABIA carne en la parrilla (2 chorizos y chinchulines). Pesima experiencia solo aconsejable para cuando el bolsillo aprieta (mucho) sino no.
+    date: 16-12-2007
+    user: http://mi.guiaoleo.com/members/37044
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es estilo tenedor libre, incluye postre y helados (tambi\xE9n libre) y parrilla sin demasiadas variedades. Todos los ingredientes son bien frescos, se nota que son reci\xE9n hechas; buena comida y valor muy accesible."
+    date: 02-03-2007
+    user: http://mi.guiaoleo.com/members/13823
+    ambiente_rank: muy bueno

@@ -1,0 +1,14 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Cena en la Sucursal de Segurola, muy buenas pastas, todo bien servido y en forma, los precios son amables y es de esperar que tengan exito.\r\n\
+      De entrada bruschetas muy sofisticadas, \xF1oquis y raviolones muy ricos y postres, pocos pero buenos."
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/76078
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "visite el nuevo local de Segurola 3458, Villa Devoto,bien ambientado, mal servicio, ,lento , buena panera y pastas.La carta de vinos horrible ademas sirven los vinos tintos calientes a mas de 23 \xBA grados. le dare itra oportunidad."
+    date: 26-12-2009
+    user: http://mi.guiaoleo.com/members/58804
+    ambiente_rank: bueno

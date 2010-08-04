@@ -1,0 +1,440 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "En gral. se come bien. De vinos y del ba\xF1o no s\xE9 nada todav\xEDa. Atienden m\xE1s o menos bien, depende de la hora, es mejor ir tarde o temprano. Es genial poder comer a cualquier hora. El queso de rallar parec\xEDa rancio y el pan si no lo recuerdo es porque no sobresal\xEDa. Mejor comer lo que sab\xE9s que s\xED o si hacen bien y no querer pretender de m\xE1s..."
+    date: 14-06-2010
+    user: http://mi.guiaoleo.com/members/83595
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Si bien la calidad sigue siendo buena, con sorpresa para mi bolsillo los sres. de la farola, para confundir a sus clientes, modificaron la opcion individual, que antes equivalia a una porci\xF3n para 2 personas y abundante, y la transformaron en personal, que solo es para 1 persona, pero con la picardia de dejarla al mismo precio que la individual $37 (p.ej) y la misma para 2 personas a un valor de $72 !!! o sea que aumentaron casi un 100% sus valores... conclusi\xF3n.. no voy mas porque se rien de los clientes, una verguenza."
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/42208
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "ESPECTACULAR. La farola es la mejor rotiseria de Buenos Aires! nunca me fall\xF3.El delivery es increible, te entregan toda la noche y a precios baratisimos. El mono de la farola es lo m\xE1s!"
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/76449
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Si queres milanesa.... anda a la farola de BELGRANO. Es la mejor de las Farolas, las porciones son abundantes. Ideal para comer con amigos.
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/79699
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Cl\xE1sico de los cl\xE1sicos para quien busca comer una muy bruta super milanesa con fritas. Mantiene el sabor de una rotiser\xEDa de los a\xF1os"
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/74150
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Un clasico de belgrano. Pedimos suprema napolitana con papas fritas, deliciosa, al punto justo, la muzarella riquisima y abundante. Las papas bien cocidas. Los precios son accesibles y traen rapido el plato a pesar de la gran demanda que tienen. El lugar se llena rapidisimo. Ideal para ir con la familia o con amigos en cualquier ocasion. Un 10.
+    date: 18-01-2010
+    user: http://mi.guiaoleo.com/members/75165
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: sinceramente no entiendo los comentarios sobre la pizza,ES LO PEOR QUE HE COMIDO EN LOS ULTIMOS TIEMPOS,la maza casi cruda,la salsa de tomate no se sabe que es ,acida sin color y mal sabor la muzarella es lo unico potable
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/44324
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La Pizza es HORRIBLE. Se nota que la tiene prepreparada en heladera y le dan un golpe de horno, la muzzarella queda quemada y fria. Pedimos un Rincon Famoso y estaba picado. Nos trajeron unos bocadillos de acelga viejos y recocidos, UN DESASTRE. NO VUELVO NUNCA M\xC1S."
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/29067
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Para mi gusto, la mejor pizza de Buenos Aires. Eso si, pedirla en "molde". Nadie puede competir con esa delicia. Y pedirle al mozo el pan casero.
+      Vuelvo cada vez que puedo.
+    date: 12-09-2009
+    user: http://mi.guiaoleo.com/members/67174
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Comida buena y barata, atencion bien, cuando se llena es bastante ruidoso, pero esta bien si uno no tiene muchas pretenciones...
+    date: 11-09-2009
+    user: http://mi.guiaoleo.com/members/49212
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Para comer rico y abundante, sin mas pretenciones, la milanesa a la napolitana un cl\xE1sico."
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/19883
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: esta muy bueno es un lugar de barrio donde todos los de la zona vamos a comer. muy buena la atencion.
+    date: 24-08-2009
+    user: http://mi.guiaoleo.com/members/66159
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nunca hab\xEDa ido a ninguna de las Farolas. Excelente las milanesas y por lo que vi, el resto de los platos tambi\xE9n. El mozo que nos atendi\xF3, excelente y eso que eramos 12 personas muy indecisas :) A\xFAn as\xED no fallo en nada y siempre muy atento. La \xFAnica contra es la falta de espacio y el ruido ambiente. Si la idea es comer y no hablar demasiado, es un muy buen lugar!"
+    date: 30-07-2009
+    user: http://mi.guiaoleo.com/members/7825
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Comi pizza, un desastre toda la parte de abajo mojada, carisima 40 pesos una pizza primavera de cuatro gusto, un lugar lleno de gente, no vuelvo ni loca, que bajo el nivel de gente que va alli!! arrepentidisimos...
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Un restorante comun, de barrio, nada de super lujo, pero con precios acordes y buena atencion
+      Los mozos muy atentos y la comida abundante
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/18180
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Pedimos con mis 4 amigos una suprema a los 4 quesos para compartir.. Y TERMIN\xD3 SOBRANDO UNA SUPREMA ENTERA!. Vamos siempre, es abismal la cantidad de comida y sobre todo lo deliciosa de la misma!\r\n\
+      \r\n\
+      Las supremas de la farola son LO MEJOR de belgrano (Especialmente a la Suiza).\r\n\
+      \r\n\
+      El ambiente es muy molesto, mucho ruido y poco espacio entre las mesas, gente esperando dentro del local y mozos corriendo de ac\xE1 para all\xE1.\r\n\
+      \r\n\
+      La atenci\xF3n depende del mozo de turno que toque, algunos dejan bastante que desear, otros son muy agradables."
+    date: 02-06-2009
+    user: http://mi.guiaoleo.com/members/59712
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es muy buena. Pero ya no es lo que era. Y lo que justificaba el ir (comparaci\xF3n precio/cantidad) ya se termin\xF3. \r\n\
+      Antes, te daban una milanesa que com\xEDan 4 o 5 personas tranquilas y te la cobraban como 3 milanesas comunes. Ahora, te la cobran como 4 o 5 milanesas comunes y la que te dan no es nada de otro mundo.\r\n\
+      La pizza muy buena pero cara. Y la cerveza car\xEDsima! pagar entre 19 y 24 pesos por una cerveza me parece demasiado.\r\n\
+      Para el que quiere pizza y gaseosa, est\xE1 bien. Al igual que los postres"
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/61985
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza de jam\xF3n y morrones es verdaderamente estupenda, los precios muy acordes, el ambiente es grande y ruidoso.\r\n\
+      El servicio es p\xE9simo, como si fuera poco el olvido de nuestro pedido, alegando que el local estaba lleno y eramos 2 personas en una mesa de 4, quisieron sentar a 2 comensales a nuestra mesa."
+    date: 05-04-2009
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Comida bien casera y abundante, como una clasica rotiseria. La atencion es buena
+    date: 10-03-2009
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lo \xFAnico para destacar el servicio; los mozos le ponen mucha onda para atenderte. Los precios caros por dem\xE1s, no estan a la altura de los platos, que son abundantes pero no de buena calidad. Solo una opci\xF3n si est\xE1s por la zona, pero debe haber mejores en relaci\xF3n precio-comida-servicio."
+    date: 20-01-2009
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida sigue siendo bastante buena pero enloquecieron con los precios como si fuera un restaurant super top de puerto madero, del marote viejo.Pedis una milanesa para compartir entre 4 y termina poniendo 40 50 mangos cada uno para comer una milanesa, re locos. No voy mas.
+    date: 27-12-2008
+    user: http://mi.guiaoleo.com/members/56670
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Com\xED varias veces ah\xED, pero creo que no vuelvo. Enloquecieron con los precios!! Es un bodeg\xF3n, pero lo cobran como rest\xF3 top. Las porciones son exageradas y pod\xE9s compartir, pero ya est\xE1. No necesito volver a ir para darme cuenta que el negocio lo hacen ellos y no el cliente."
+    date: 19-09-2008
+    user: http://mi.guiaoleo.com/members/19272
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Abierto hasta tarde, sirve como alternativa cuando salis de los cines de la zona. Las mesas del fondo se mezclan con el olor a ba\xF1o. Feo ambiente y porciones grotescas. Los precios ya no son baratos,lo que hac\xEDa que justificara la visita."
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Bodeg\xF3n sin pretensiones pensado para comer barato, abundante y a cualquier hora. Si se entiende esto, el lugar tiene una muy buena relaci\xF3n precio-calidad. El men\xFA est\xE1 basado en minutas y platos b\xE1sicos tradicionales. Aunque los mozos andan a las corridas entre las numerosas y apretadas mesas del local, la atenci\xF3n es correcta. Para ir con amigos y/o familia a comer abundante y sin esp\xEDritu de gastar mucho."
+    date: 25-07-2008
+    user: http://mi.guiaoleo.com/members/39517
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Me gusta mucho el lugar, pero no se muy bien por que!! Hay demasiadas mesas por lo que se llena de gente y se vuelve un poco dificil hablar entre el barullo! La atencion varia con el mozo que te toque. Me atendieron muy bien y me atendieron muy mal! Los precios son bastante elevados, aunque los platos son abundantes!
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/47487
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Con mi marido vamos una a dos veces por mes, porque toda la comida es excelente, bien hecha, fresca, y los mozos saben recomendar sobre los platos, son muy simp\xE1ticos y el ambiente es alegre, nada fashion pero compensa ese clima familiar que se respira...Algo cl\xE1sico y muyy rico, recomiendo los sorrentinos con salsa mediterr\xE1nea, las porciones son siempre generosas tanto en comida como en postre, y los precios muy buenos!"
+    date: 15-06-2008
+    user: http://mi.guiaoleo.com/members/47708
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "las porciones son muy abundantes. una suprema individual sirve para 2 personas. por lo tanto hay que averiguar con el mozo que conviene ordenar. La cerveza de 1 litro considero que est\xE1 cara (mas de $13)."
+    date: 12-05-2008
+    user: http://mi.guiaoleo.com/members/42208
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      es un luygar para llenarse nada mas 
+      muy ruidoso, el servicio es correcto, pero no voy mas ni pido mas delivery porque cada vez que llamo sube todo 4 o 5 pesos y ya es un desproposito. teniendo en cuenta que todo es igual y nada mejora en un menos de un mes la individual de suprema napolitana se fue de 19 a 28 pesos, lo recomiendo hasta ahi no mas.
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/40134
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Estaba de paso y entr\xE9. La comida es abundante y regular, solo para un almuerzo o cena de pasada o entre grupos de amigos que no quieran gastar mucho y desean llenarse el est\xF3mago. La atenci\xF3n es r\xE1pida y efectiva para el contexto de apuro que tiene todo. El ambiente es de fonda com\xFAn y corriente, sin ninguna pretenci\xF3n de querer aparentar otra cosa.\r\n\
+      Buena relaci\xF3n precio-porci\xF3n-calidad, aunque en algunos platos que no son los del d\xEDa, se nota que se les fue la mano con los aumentos, sobre todo para los env\xEDos a domicilio!!\r\n\
+      Nunca, nunca, nunca, para comidas rom\xE1nticas.\r\n\
+      \r\n\
+      Promedio: REGULAR"
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/4899
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "No lo recomendar\xEDa en absoluto. Relaci\xF3n precio/cantidad no favorable para el consumidor. El servicio es p\xE9simo, con decir que nos apoyaron una m\xE1quina tipo Postnet para cobrarle a otro cliente en nuestra mesa porque no ten\xEDan lugar f\xEDsico para hacerlo en otro lugar.Lo peor del caso es que no pidieron permiso de antemano, lo hicieron luego de un rato. Realmente poco tacto. Por otro lado la comida es aceptable, sin embargo me parece excesivo lo que cobran una botellita de agua (6,5 pesos) y las comidas no son nada econ\xF3micas."
+    date: 01-05-2008
+    user: http://mi.guiaoleo.com/members/7928
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La pizza estaba bien, pero muy cara.\r\n\
+      La pasta no estaba buena, y adem\xE1s era cara... los camarones eran diminutos, y algunos no estaban bien pelados.\r\n\
+      La canasta de pan que nos dieron al principio ven\xEDa con un cabello.\r\n\
+      El s\xE1bado por la noche est\xE1 a reventar, vayan con paciencia."
+    date: 12-04-2008
+    user: http://mi.guiaoleo.com/members/43588
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Comida normal, mucha gente y servicio regular, fui porque me juntaba con amigos y eligieron ese lugar. Creo que se puede comer mucho mejor con el mismo dinero en otros restaurantes. Porciones abundates,  tambien cae pesada la comida al igual que en otras sucursales.
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/36838
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "la verdad que la Farola es un lugar para ir a comer r\xE1pido y bien, las milas y supremas estan buenas y son abundantes(igual q la mila pizza), las pizzas tambien buenas, y el servicio es mejor que en el promedio de estos lugares, asi que la verdad. La \xFAnica contra mesas muy juntas. Una buena opci\xF3n para comer bien y pracios razonlables."
+    date: 30-12-2007
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Como siempre, comer mucho y rico. La mejor milanga napolitana de estos lares. La atenci\xF3n de los mozos de primera, estan en todos los detalles (por supuesto sin sutileza alguna), se nota la profesi\xF3n. El ambiente ruidoso y simple, pero siempre c\xF3modo e informal. Como todo cl\xE1sico, siempre se vuelve. \r\n\
+      Pero a no enga\xF1arse, por lo que se come no es tan barato como parece."
+    date: 07-11-2007
+    user: http://mi.guiaoleo.com/members/2266
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Voy siempre y cambio el menu cada tanto,y siempre vuelvo a lo mismo, recomiendo la suprema Medellin, viene para compartir, las porciones son enormes. Los mozos tiene una cancha increible, son rapidisimos! el ambiente ruidoso, ideal para ir con amigos y tiempo para encontrar mesa!
+    date: 10-10-2007
+    user: http://mi.guiaoleo.com/members/33883
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Rica pizza, , como pizzer\xEDa correcta, tambi\xE9n tienen un men\xFA amplio, porciones abundantes. La atenci\xF3n del mozo buena y r\xE1pida. Est\xE1 como para ir a la salida del cine, aunque a mi modesto entender es caro.Ejemplo: te cobran el cubierto, pero te llenan de pan, manteca y quesito untable, gaseosas caras y los postres no se quedan atr\xE1s.En su tipo los hay mejores y m\xE1s econ\xF3micos."
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/24006
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar donde se come muy rico y abundante. Los mozos te sirven la comida, cortan las porciones. Muy buena atencion!. \r\n\
+      La comida es super casera hasta el pan que traen es elaborado por ellos. La comida es tan abudante que pedimos para compartir entre dos y pedimos para llevar lo que sobr\xF3!. El postre es tambi\xE9n abundante (dificil no resistir pero uno no puedo respirar al terminar!!)... el sambay\xF3n lo traen a parte, est\xE1 tibio y es super casero... EXQUISITO!.  El lugar no es demasiado barato, el agua mineral est\xE1 $5.20 un plato para compartir desde $39... pero vale la pena!\r\n\
+      El ambiente: El lugar se llena, ir muy temprano... no es para cena romantica, mucho ruido y todos apretados!. Es para ir con amigos!"
+    date: 02-08-2007
+    user: http://mi.guiaoleo.com/members/27059
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Precios exhorbitantes, pizza mediocre, ambiente molesto. No vuelvo m\xE1s. No hay otra como la de San Isidro."
+    date: 28-07-2007
+    user: http://mi.guiaoleo.com/members/13644
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La pizza es muy buena, la masa es casera. Tiene mucho queso. El delivery es rapido, la pizza llega bien calentita. Recomendable 100%! Vale su precio
+    date: 16-07-2007
+    user: http://mi.guiaoleo.com/members/26955
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La comida es muy buena y SUPER abundante. Recomendado para ir con amigos o en familia, no para una cena romantica! Las milapizzas son ESPECTACULARES. Un clasico del barrio con mozos de los de antes.
+    date: 02-05-2007
+    user: http://mi.guiaoleo.com/members/22683
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ped\xED un men\xFA del mediod\xEDa que ten\xEDa tortilla y me trajeron pur\xE9, pero al hac\xE9rselo notar al mozo, me trajo enseguida la guarnici\xF3n que hab\xEDa solicitado. El servicio me pareci\xF3 muy amable, la comida nada del otro mundo pero no est\xE1 mal. El men\xFA del mediod\xEDa es abundante."
+    date: 18-04-2007
+    user: http://mi.guiaoleo.com/members/15020
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Las milanesas y las papas rejillas son muy buenas.
+    date: 01-04-2007
+    user: http://mi.guiaoleo.com/members/20133
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad que al ver los precios, y acostumbrado a lo que fue en otra \xE9poca la Farola, me esperaba realmente un buen plato y para compartir. Si bien para uno es abundante, no justifica los precios que cobran. El ambiente es el de una cantina de barrio. Hab\xEDa 3 mozos para 40 mesas en 30m2. No volver\xEDa y no lo recomendar\xEDa..."
+    date: 05-03-2007
+    user: http://mi.guiaoleo.com/members/11097
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena comida. Porciones gigantes, tal vez el lugar es poco espacioso pero vale la pena ir.
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19020
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La verdad es que La farola deja mucho que desear. Los precios son car\xEDsimos de acuerdo a la comida que te ofrecen. El ambiente insoportable. Todas las mesas juntas pegadas unas con otras. Uno tranquilamente se puede enterar de la vida de la mesa vecina. Cuando hay gente esperando separan las mesas a 5 cm una de las otras. Y los sanitarios... podr\xEDan estar mejor mantenidos."
+    date: 16-02-2007
+    user: http://mi.guiaoleo.com/members/20710
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La atenci\xF3n es mala, el lugar ruidoso y poco higi\xE9nico, los mozos no tienen ni idea. \r\n\
+      La pizza napolitana la cobraron 28 pesos y era un desastre, los ba\xF1os son sucios. Evidentemente el lugar antes fue muy bueno, pero ahora es decadente."
+    date: 21-01-2007
+    user: http://mi.guiaoleo.com/members/8885
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ped\xED un cl\xE1sico como milanesas con papas fritas, lleg\xF3 r\xE1pido, caliente bien sequitas, la carne muy tierna y abundante, estaba muy rico. Siempre traen para la espera un pan de campo caliente y crocante con manteca, muy bueno tambi\xE9n. Sin tener demasiadas pretenciones en cuanto a la ambientaci\xF3n,la distancia de las mesas y el ruido, el lugar estaba limpio, es como comer en la cocina de casa sin demasiado protocolo ni mucho gasto, me gust\xF3 para una comida sencilla."
+    date: 26-11-2006
+    user: http://mi.guiaoleo.com/members/9726
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Si bien el lugar es grande, las mesas est\xE1n todas amontonadas. Los mozos no son de lo m\xE1s amables y la comida (si bien es abundante) no es rica. Si a todo esto le sumamos que los precios son altos (por lo que es la comida), s\xF3lo queda anudar la bolsa y sacarla a la calle. Es una l\xE1stima como decay\xF3 este lugar."
+    date: 02-11-2006
+    user: http://mi.guiaoleo.com/members/13361
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Si le gusta la mala atenci\xF3n, la comida ordinaria, un lugar ruidoso y poco higi\xE9nico, este es su lugar."
+    date: 26-10-2006
+    user: http://mi.guiaoleo.com/members/6323
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un verdadero desastre. Mucho y malo. \r\n\
+      El servir una milanesa de diez kilometros  de ancho no suple la actitud de usar un aceite berreta. \r\n\
+      El mozo que me toc\xF3 en suerte era un impertinete. Me sirvieron adem\xE1s de la panera un pan redondo que estaba crudo y duro que no entend\xED su funci\xF3n. Sinceramente no creo que servir abundante sea atributo de buen lugar. \r\n\
+      Las instalaciones no eran higi\xE9nicas y el ba\xF1o me pareci\xF3 de terror."
+    date: 20-10-2006
+    user: http://mi.guiaoleo.com/members/13017
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El sal\xF3n es muy amplio, bien iluminado y con much\xEDsimas mesas demasiado pegadas. Los mozos corren para todos lados y te atienden a las apuradas. La comida es aceptable para ser una pizzer\xEDa, pero p\xE9sima si uno la compara con cualquier restaurante.  \r\n\
+      Es muy abundante pero los precios no son nada econ\xF3micos.  \r\n\
+      El balance precio/calidad no cubre las expectativas."
+    date: 29-08-2006
+    user: http://mi.guiaoleo.com/members/3412
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Un desasatre la comida es malisima, los mozos estan cansados y el lugar es un bar de barrio aggiornado como restaurant, no vuelvo no vayan.
+    date: 29-08-2006
+    user: http://mi.guiaoleo.com/members/16821
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un lugar at\xEDpico. Llama la atenci\xF3n su acondicionamiento y la manera que aprovechan el lugar. La comida es muy buena, aunque comimos pizza. El servicio estuvo espect\xE1cular, siempre atentos a lo que el comensal necesita, son muchos mozos tanto para el sector del sal\xF3n, como para afuera. En resumen qued\xE9 encantada con la m\xEDstica del lugar, un gusto que viene de familia."
+    date: 20-08-2006
+    user: http://mi.guiaoleo.com/members/11778
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La relaci\xF3n precio/cantidad ya dej\xF3 de ser el atributo del local por varios aumentos que han hecho. \r\n\
+      Por el momento, el cliente ha seguido yendo descansando en aquella imagen. \r\n\
+      El servicio baj\xF3 mucho, en el afan de no perder reservas, dejan apenas cent\xEDmetros entre las mesas dando la sensaci\xF3n que vinimos todos juntos. \r\n\
+      Por otra parte, tampoco queda definido el \xE1rea de fumadores del \xE1rea no-fumadores."
+    date: 04-08-2006
+    user: http://mi.guiaoleo.com/members/9604
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La verdad es que com\xED como un cerdo. \r\n\
+      Repet\xED la comida toda la tarde con una modorra de papa fritas y milanesas fritas en una freidora con poco recambio de aceite. \r\n\
+      La atenci\xF3n, un desastre. \r\n\
+      Te tiran los platos por la cabeza y a destiempo de los otros comensales. \r\n\
+      El ruido del restaurante se parece al de un barsucho de Lavalle. \r\n\
+      S\xF3lo se escuchan ruidos de platos y el encierro produce que las voces de la gente suenen fantasmales. \r\n\
+      No lo recomiendo para nada y menos para festejar un cumplea\xF1os, a no ser que quieras terminar como un zombie en tan fantasmal lugar. "
+    date: 15-06-2006
+    user: http://mi.guiaoleo.com/members/9338
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar est\xE1 muy bueno, la comida riqu\xEDsima. \xC9ramos cuatro y comimos muy bien. Los mozos son muy cordiales. Nos encant\xF3. Pedimos siempre y comemos siempre en el restaurante con nuestros amigos."
+    date: 29-05-2006
+    user: http://mi.guiaoleo.com/members/8929
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena comida y abundante, pedimos para cuatro y nos alcanz\xF3. \r\n\
+      Un detalle: nos sentamos en un \xE1rea para no fumadores y nos fumaron tanto en la mesa de al lado como en la contigua a \xE9sta \xFAltima. El restaurante deber\xEDa hacer cumplir con lo que pregona en los carteles."
+    date: 08-05-2006
+    user: http://mi.guiaoleo.com/members/7928
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un cl\xE1sico, claro que por lo popular del lugar deja que desear en varios aspectos como el servicio y el ambiente.\r\n\
+      No se puede esperar nada especializado ni ultra elaborado, es m\xE1s orientado a la familia por la variedad y el precio."
+    date: 14-04-2006
+    user: http://mi.guiaoleo.com/members/7738
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Soy cliente hace 5 a\xF1os, es un cl\xE1sico."
+    date: 30-12-2005
+    user: http://mi.guiaoleo.com/members/5624
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es muy bueno el men\xFA y muy abundante: ideal para compartir. \r\n\
+      La atenci\xF3n es muy buena, l\xE1stima que no se diferencia el sector fumadores, no se si es el espacio o la cantida de gente que va o simplemente faltan ventanas en el local.\r\n\
+      \xA1No tendr\xEDan que dejar fumar!"
+    date: 21-12-2005
+    user: http://mi.guiaoleo.com/members/5465
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comida excelente, platos m\xE1s que generosos. Incluso la porci\xF3n individual es como para dos personas y media. \r\n\
+      Ideal para ir con amigos pero a comer, no a charlar. Es para intercambiar o compartir platos. \r\n\
+      No es muy top pero si familiar y la atencion es muy buena. \r\n\
+      Es un lugar que se mueve mucho, mozos que van y vienen, pero es parte del ambiente y hasta resulta simp\xE1tico verlos correr como locos entre las mesas. \r\n\
+      Precios accesibles. Ideal para comer bien con poca plata."
+    date: 14-09-2005
+    user: http://mi.guiaoleo.com/members/3871
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "muy buena comida para compartir, porciones abundantes, atenci\xD3n rapida."
+    date: 03-07-2005
+    user: http://mi.guiaoleo.com/members/2505
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Pizza razonable en calidad y abundantes porciones de otros platos. Para comer barato a la salida del cine o de pasada por la zona
+    date: 20-06-2005
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Imposible poder hablar con tanto ruido. Me pareci\xF3 un lugar no recomendable. La atenci\xF3n, un desastre. Los platos de todos los comensales no vienen al mismo tiempo. Unos comen los otros miran y viceversa."
+    date: 10-06-2005
+    user: http://mi.guiaoleo.com/members/2124
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Yo no volver\xEDa, mi pollo tardo 20 minutos y el pur\xE9 vino equivocado."
+    date: 18-03-2005
+    user: http://mi.guiaoleo.com/members/17
+    ambiente_rank: malo/regular

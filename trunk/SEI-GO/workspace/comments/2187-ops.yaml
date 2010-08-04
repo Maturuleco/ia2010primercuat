@@ -1,0 +1,101 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Hola , 
+      Muy mala la atencion , tanto en la pizzeria como en el delivery , mi familia y yo veniamos pidiendo hace a?os , y de golpe empezaron a atender muy groseros , y en el delivery llegando despues de una hora y frio , y cuando llamas para pedir explicaciones , te cortan , un tal cristian .
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/83497
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      muy rico lo que comi, el mozo mucho no te da bola pero lo llamas y listo. 
+      las porciones son super abundantes y los ingredientes parecian muy frescos
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/76830
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Me encanto la pizza, la faina genovesa exquisita!
+      Y las empanadas son unicas, realmente muy rico!!!
+    date: 23-04-2009
+    user: http://mi.guiaoleo.com/members/61477
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El mozo que se parece a Chirolita... y la verdad que si!!! es de madera. Le pedi milanesa de ternera y me trajo una suprema de pollo!!!!!! Al final trae lo que quiere el y no lo que pide el cliente. Contrariamente del mozo apodado \"Cacho\" que hace cuatro a\xF1os que me atiende y lo hace de manera excelente!!!! Esta vez parece que tuvo franco. La comida es buena y abundante y el ambiente agradable."
+    date: 16-03-2009
+    user: http://mi.guiaoleo.com/members/59829
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "los platos son abundantes, las mercaderia que utilizan son de rimera, tienen cerca de 32 variedades diferentes, hace mas de 20 a\xF1os que conozo el lugar y la verdad es que es muy recomendable..."
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/45322
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Un lindo lugar, buena atencion, ricas pizas, y precios relativamente bajos, cuando uno no quiere comer en la casa es una buena opcion, cenas romanticas olvidense!!
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/40929
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Lo mejor de San Miguel son las medialunas, las hacen ellos, y estan buenisimas!!!
+      mozos casi todos atienden muy bien..., las empanadas son: ricas y con mucho relleno y la pizza, para los amantes de la gorda al molde, es ideal!!! Yo lo re comiendo
+    date: 16-11-2007
+    user: http://mi.guiaoleo.com/members/35655
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Coincido plenamente con el usuario Mr. Colmillo. El servicio de San Miguel es p\xE9simo. Aunque la atenci\xF3n puede ser aceptable si a uno no le toca el mozo bravuc\xF3n que vilipendia a algunos clientes. Para peor, no tienen libro de quejas, lo que hace el cliente maltratado se sienta m\xE1s impotente a\xFAn. No lo recomiendo ni para un caf\xE9."
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy conforme con la comida y la atenci\xF3n."
+    date: 17-09-2007
+    user: http://mi.guiaoleo.com/members/32435
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Pizeria de Barrio con buenas pretenciones. La piza e muy rica, pedile al mozo si la queres a la piedra sino sale al molde.
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/30166
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la pizza y la atenci\xF3n. "
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/30593
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La mejor pizza al molde de Almagro "
+    date: 20-08-2007
+    user: http://mi.guiaoleo.com/members/30100
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Por favor, no dejen de probar las empanadas de pollo y las pizzas.\r\n\
+      El lugar es simple, y desde afuera quiz\xE1s no tiente entrar, pero sino pidan en sus casas. La comida es exelente"
+    date: 25-07-2007
+    user: http://mi.guiaoleo.com/members/27799
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui varias veces y nunca fui bien atendido. Tanto el servicio como la comida no es para recomendar. \r\n\
+      La pizza recalentada. La ultima vez espere que me antedieran 20 minutos de reloj. Personas que llegaron despues que yo. Lo atendieron enseguida. La verdad para no ir. "
+    date: 11-06-2007
+    user: http://mi.guiaoleo.com/members/22617
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "M\xE1s o menos. Nada me deslumbr\xF3. Poca variedad de pizzas. No son malas, pero nada para recordar. La cerveza estaba bien helada."
+    date: 26-10-2006
+    user: http://mi.guiaoleo.com/members/7005
+    ambiente_rank: bueno

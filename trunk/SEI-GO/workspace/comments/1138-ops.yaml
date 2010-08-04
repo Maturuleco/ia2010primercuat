@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buen lugar bien de barrio para almorzar. Siempre est\xE1 lleno as\xED que hay que ir temprano. Cobran servicio de mesa pero siempre te ponen alguna cazuelita con berejenas, aceitunas, etc. Tienen varios platos elaborados dignos de probar."
+    date: 08-05-2007
+    user: http://mi.guiaoleo.com/members/24310
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un c\xE1lido ambiente acompa\xF1ado de una excelente atenci\xF3n hacen del resto un lugar ideal."
+    date: 14-04-2005
+    user: http://mi.guiaoleo.com/members/1463
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n familiar, muy buena cocina, ambiente relajante."
+    date: 31-03-2005
+    user: http://mi.guiaoleo.com/members/1292
+    ambiente_rank: excelente

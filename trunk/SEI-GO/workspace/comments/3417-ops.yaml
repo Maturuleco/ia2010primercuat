@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: la carne tenia leve gusto a humedad, el servicio lento, el ambiente bueno,  desconocen promociones con los bancos, o te informan mal, tal vez es un lugar para tomar el menu y no comer a la carta.
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/57469
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente atenci\xF2n, muy buen ambiente. Recomendable"
+    date: 16-08-2009
+    user: http://mi.guiaoleo.com/members/67657
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Excelente idea de poner un men\xFA accesible de entrada, plato principal y bebida, al mediod\xEDa durante la semana, la atenci\xF3n es magn\xEDfica, el lugar muy lindo, lo recomiendo para pasar un buen rato con amigas."
+    date: 27-05-2009
+    user: http://mi.guiaoleo.com/members/63038
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es sin duda uno de los mejores lugares para almozar de la zona, siempre ofrece 4 menues distintos segun gusto a precio accesible, decidi calificar al servicio como muy bueno ya que si bien no es profesional debemos adecuarnos al horario de trabajo, y en eso es muy eficaz, tiempo justo y atento sin demorar. Es realmente un buen lugar para dias de semana al mediodia.
+    date: 15-05-2009
+    user: http://mi.guiaoleo.com/members/54476
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: No coincido con los votos anteriores, es un elegante lugar y un sabado a la noche como fuimos nosotros todo andubo bien, el horno de barro la carne y las empanadas. Ah muy buena vista al Pasaje San Lorenzo y Balcarce, lo que se ve es un tranquilo cuadro de San Telmo
+    date: 13-04-2009
+    user: http://mi.guiaoleo.com/members/55342
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos puntualmente por la cocina al horno de barro, y no lo ten\xEDan encendido, ya que era un lunes, pero deber\xEDan aclarar los dias que se enciende. Las empanadas al horno de barro \xA8apagado\xA8, estaban ricas, pero se sobre entiende que reecalentadas. El vino, super caliente, un reserva no puede nunca servirse a 26\xBA y cobrarlo 55 pesos. La camarera atentamente lo justo, bien. La entrada estaba super salada, pero bueh, es subjetivo. El ambiente esta cuidado, las sillas un poco inc\xF3modas. Las carnes ricas, un poquito pasadas de su punto, ya que cortan todo tipo churrasquitos. \r\n\
+      Bueno, pero no vuelvo"
+    date: 17-11-2008
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente comida! Desde el pan reci\xE9n horneado, acompa\xF1ado de queso crema con r\xFAcula, el punto de las carnes, sabrosas, jugosas. Las empanadas en horno de barro, riqu\xEDsimas. Altamente recomendable."
+    date: 25-10-2008
+    user: http://mi.guiaoleo.com/members/24004
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Algo debe haber cambiado en este lugar.  Hace un tiempo que al mediod\xEDa est\xE1 lleno, y adem\xE1s los menues est\xE1n muy buenos.  Yo com\xED escalopines de lomo a la pimienta con pure de papas y estaba tremendo. Con bebida y caf\xE9 a $20 me pareci\xF3 hasta barato.  El lugar est\xE1 bien aunque las meses un poco pegadas.  La atenci\xF3n de los mozos normal, pero destaco la r\xE1pidez (importante para los que tenemos una hora por laburo) y la cordialidad de Juan Carlos (due\xF1o?) que est\xE1 sobre los detalles para que uno se sienta bien atendido.  Sin dudas que volver\xE9 cuando el mediod\xEDa me sorprenda por San Telmo."
+    date: 12-06-2008
+    user: http://mi.guiaoleo.com/members/2996
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lindo y agradable lugar para almorzar. hay tres opciones para elegir con distintos precios.
+    date: 24-04-2008
+    user: http://mi.guiaoleo.com/members/30166
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: ES UN LUIGAR QUE SI BIEN ESTA CERCA DE LA MOVIDA DE SAN TELMO, SU UBICACION LO HACE MUCHO MAS TRANQUILO,TIENE LA OPCION DE DOS MESAS EN LA CALLE,TODOS LOS PLATOS SALIERON EN TIEMPO Y FORMA,PRODUCTOS DE CALIDAD , LA ATENCION ES BUENA  Y NO SE DELIRAN CON LOS PRECIOS, ES PARA TENERLO EN CUENTA SI UNO PASEA POR ESE TRADICIONAL BARRIO.-
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/17263
+    ambiente_rank: bueno

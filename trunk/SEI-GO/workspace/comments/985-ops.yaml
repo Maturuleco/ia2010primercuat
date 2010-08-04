@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "conoc\xED este lugar de casualidad, porque fui a ver una banda. me gust\xF3 la ambientaci\xF3n, la m\xFAsica y la atenci\xF3n."
+    date: 19-12-2008
+    user: http://mi.guiaoleo.com/members/3167
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo \xFAnico que se salva es la decoraci\xF3n que no est\xE1 mal. Lo peor: la atenci\xF3n."
+    date: 01-07-2006
+    user: http://mi.guiaoleo.com/members/3388
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Caro. El lugar es especial para ver buen jazz, ya que programan ciclos del mejor jazz de Buenos Aires. Sin embargo, para comer es malo.
+    date: 01-02-2006
+    user: http://mi.guiaoleo.com/members/12319
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un muy buen lugar, con un ambiete especial, una comida riquisima, y la musica crea un clima \xEDntimo y culto. Es altamente recomendable."
+    date: 08-07-2005
+    user: http://mi.guiaoleo.com/members/2774
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy bueno todo, en especial la conjunci\xF3n de m\xFAsica, comida y ambiente."
+    date: 02-04-2005
+    user: http://mi.guiaoleo.com/members/1309
+    ambiente_rank: excelente

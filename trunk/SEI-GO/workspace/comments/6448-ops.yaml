@@ -1,0 +1,21 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Solemos ir a comer aca para cumplea\xF1os o despedidas. La comida no es nada especial ni tampoco pretende serlo. Es comida rapida para el mediodia. El menu economico y de turista esta bastante bien. Solo puedo recomendarles no pedir el pollo a la naranja. La salsa es tan extremadamente dulce que parece mermelada. Me resulto bastante malo el plato. Despues comidas tipicas de mediodia, bifes, milanesas, pastas (no muy buenas)."
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Pese a que el lugar no es tan bueno, muy ruidos, es excelente la relacion precio / calidad para mediodias.
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/15217
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      El salon no esta preparado acusticamente para tantos comensales, los bajos murmullos mas los televisores no permiten conversar. Tardaron demasiado en traer la comida. Para nada recomedable si quieren ir al mediodia.
+      No creo que vuelva .
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: bueno

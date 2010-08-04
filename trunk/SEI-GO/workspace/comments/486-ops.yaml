@@ -1,0 +1,822 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fu\xED una vez hasce muchos a\xF1os, com\xED bife de chorizo y me gust\xF3.Anoche fu\xE9 una decepci\xF3n.Parec\xEDa asado de  parrigas.Los chinchulines no se pod\xEDan cortar.Ped\xED mousse de lim\xF3n de postre, y trajeron una crema de lim\xF3n casi s\xF3lida..."
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/67558
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Como extra\xF1o cuando solo tenian el local peque\xF1o, es cierto que no ha perdido la calidad de los productos que ofrece pero ha decaido mucho la atenci\xF3n. Los mozos estan apurados y solo falta que lo empujen a uno fuera del local. Evidentemente la ampliaci\xF3n en busqueda de un cliente extranjero hace que los locales que disfrutamos de una buena comida y posterior conversaci\xF3n debamos resignarnos a concurrir a otras opciones. Muy buena carne, excelente carta de vinos pero mas caros que lo habitual."
+    date: 19-06-2010
+    user: http://mi.guiaoleo.com/members/83390
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente lugar para conocer, y volver a visitar. El personal es super amable, siempre atentos y cordiales. La carta es un placer y los precios van acorde a la propuesta. Cuando vino el mozo y cort\xF3 la entra\xF1a con una cuchara para servirla me convert\xED en una fan\xE1tica del lugar :)"
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/5576
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me gust\xF3 el lugar. Buena calidad de comida, buen servicio y muy buen ambiente. La carta de vinos es correcta. Los precios son un poco elevados pero sin duda voy a volver."
+    date: 18-05-2010
+    user: http://mi.guiaoleo.com/members/11422
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hora de almuerzo del lunes, ni un turista, todos los comensales eramos argentinos. La comanda preparada oportunamente con materiales de muy buena calidad, una atenci\xF3n muy buena y profesional, en un ambiente tranquilo y muy agradable, los vinos est\xE1n marcados un 100% por encima del precio de s\xFAper mercado o viner\xEDa, lo que no promueve la apertura de la segunda botella. Para mi gusto un sitio muy recomendable para disfrutar de una buena parrilla."
+    date: 17-05-2010
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Vale la pena frecuentarlo. Es un lugar bien pero bien porte\xF1o.  Hugo no tiene mal car\xE1cter, es re piola."
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/26068
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buen lugar, buen precio. Recomendable, sobre todo por la calidad de la comida y precio
+    date: 04-05-2010
+    user: http://mi.guiaoleo.com/members/81298
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Dificil catalogarlo... comimos bien, pero no tan maravilloso como el precio que nos cobraron. Una critica.. pedi bife bien jugoso y lo trajeron a punto o mas que a punto. Me da la impresion que es un lugar  destinado a turistas..
+    date: 24-04-2010
+    user: http://mi.guiaoleo.com/members/81414
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Es un lugar para mil veces recomendar por la atencion, por la calidad de la comida, por  la muy buena atencion y por el hermoso lugar. Soy de comodro RIvadavia y apartir de ahora cada vez que este cerca ire a comer. Gracias por su atencion y cordialidad. Oscar
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/82983
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "la verdad no entiendo porq se refieren tanto q es: ^para turistas^...soy bien argento fanatico de las parrillas, recorri casi todo y las achuras, la provoleta de cabra y el precio del bife de chorizo..estan sin duda entre los mejores de Bs As....la verdad La Brigada es un orgullo de Bs As y con su due\xF1o Hugo...que empezo como parrillero siempre presente...super recomendable tanto como para un Chino, Japones o un Porte\xF1o...."
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/80303
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La primera vez que voy y realmente me sorprendi\xF3. La comida excelente acorde al precio, el bife de chorizo vale la mitad de su competidor en Puerto Madero."
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/60864
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es la primera vez que iba , la verdad que la parrilla muy rica , sobre todo las achuras.El precio amoldado para turistas
+    date: 05-02-2010
+    user: http://mi.guiaoleo.com/members/76919
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Mucha fama, pero no me sorprendi\xF3 para nada. Pedimos entra\xF1a, estaba muy rica, pero no para cortar con cuchara! como dicen. \r\n\
+      Precios para turistas.\r\n\
+      La empanada de carne estaba muy rica."
+    date: 31-01-2010
+    user: http://mi.guiaoleo.com/members/36831
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Comimos muy bien, lo opaco un poco la velada fue el mal trato del mozo, no hacia falta que descargue su mal humor ocn nosotros, si bien los precios son mas para turistas la calidad de la carne es insuperable!
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/75880
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo agrandaron, ya se hizo mas acogedor. La carne siempre est\xE0 rica, pero se ve que la onda ahora va orientada a turistas. Los precios son altos. Muy bien como introducci\xF2n a la experiencia parillera para un turista, pero se pueden comer carnes del mismo nivel pagando menos. Servicio amable."
+    date: 13-01-2010
+    user: http://mi.guiaoleo.com/members/72893
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: No es la primera vez q voy, me parece lejos la mejor parrilla de Bs.As., ahora se agrando casi media cuadra, y todo tiene ambientacion excelente, lugar p/fumadores total apartado, las carnes de 1era.como siemprede , las achuras riquissimas y frescas, el pan calentito y el Sr. q toca el piano, todo me parece excelente, los precios acordes al lugar.
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/74184
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Si para mi es la mejor carne de Bs As. repleto de turistas. Todo excelente, los mozos son clasicos pero le ponen muy buena onda. No es el hotel alv er en cuanto a servicio pero hay con cortar la carne con un CUCHARA!!!! , eso habla de que calidad estamso hablando. En cuanto a precio, no es barato, pero bien vale la pena ir de vez en cuanto. Para mi la MEJOR PARRILLA DE BUENOS AIRES!!!
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/30824
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: excelente lugar, precios mas altas, pero con un servicio, comida y un ambiente tan bueno - se justifica! se puede cortar el bife con una cuchara!
+    date: 08-10-2009
+    user: http://mi.guiaoleo.com/members/70690
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Destaca por la calidad de sus carnes, que sin duda son exquisitas, pero la ambientacion y la atencion no suman ni destacan. Los precios son mas pensados para turistas que vienen a probar nuestra carne, que para una parrilla de nivel. Solo justificable para llevar extranjeros y quedar bien.
+    date: 16-09-2009
+    user: http://mi.guiaoleo.com/members/34885
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy recomendable el lugar, la mejor mejor entra\xF1a que com\xED hasta ahora, muy tierna, se cortaba con una cuchara. El resto de la carne tambi\xE9n muy buena. Los mozos impecables y la ambientaci\xF3n muy argentina.Volver\xE9."
+    date: 08-09-2009
+    user: http://mi.guiaoleo.com/members/61320
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El se\xF1or lugar por excelencia, es caro pero un servicio y una comida inigualable.   Totalmente recomendable"
+    date: 12-08-2009
+    user: http://mi.guiaoleo.com/members/67370
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La mas destacable de La Brigada es la calidad de sus carnes. Muy buena materia prima y bien preparada. Si bien es cierto que esta muy frecuentado por turistas con poder adquisitivo, se come muy bien. Los precios son algo caros y los mozos un tanto a la antigua (no conocen muy bien los vinos de la carta).
+    date: 29-07-2009
+    user: http://mi.guiaoleo.com/members/62302
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Los vinos son carisimos, escandalosamente caros. vinos que en sushiclub (que no se caracteriza por ser barato)cuestan $35 ac\xE1 cuestan $90. alguien puede entender que un norton cueste $950? es un verdadero castigo para quien toma vino, y es incoherente porque el precio de la comida es normal."
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/66478
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El servicio suele ser rudo en los primeros minutos, hasta que les llamas la atenci\xF3n y de pronto son muy amables. Nos trataron al final muy bien. Comimos esta vez s\xF3lo entradas todas muy buenas y la morcilla y la salsicha.\r\n\
+      De postre lo m\xE1s espectacular de todo, Sabayon y casta\xF1as en alm\xEDbar. El ambiente para una parrilla el adecuado, con fotos, instrumentos gauchos, lleno de gente y botellas de vino por doquier. No se espera otra cosa de una parrilla tradicional.\r\n\
+      Volveremos a por las entradas y los postres, pero el precio se va un poco."
+    date: 19-07-2009
+    user: http://mi.guiaoleo.com/members/66090
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Un clasico de San Telmo , lugar de referencia para turistas a la hora de comer carne argentina lo cual tambien se ve reflejado en el precio final. Tambien tiene un par de salones vip en los cuales siempre hay alguna celebridad (en este caso estaban los babasonicos) . Para destacar, la carta de vinos la cual es inmensa y ademas cuenta con una cava en el subsuelo con alrededor de 6.000 vinos- La carne es buena y algunso cortes como el matambre de cerdo eran excelentes.
+    date: 09-07-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fuimos cinco personas y comimos entra\xF1a, vacio, asado, tortilla de papa, papas fritas, pures y muchos vinos. La comida es excelente pero un tanto cara. Para resaltar el servicio del camarero Ruben Dario y la hospitalidad de Hugo. Volveremos para picar y beber algo en la cautivadora cava del lugar. Lo recomiendo."
+    date: 28-06-2009
+    user: http://mi.guiaoleo.com/members/53321
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena parrilla, tal vez no coincide tanta publicidad como \"la parrilla\" con la realidad. Los cortes de carne y los vinos podr\xEDan costar menos, el resto de la carta muy adecuado.El servicio un tanto raro, pero creo que hay que entender que cada due\xF1o hace su lugar a medida."
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida estuvo muy bien en cuanto a calidad de las carnes y punto de cocci\xF3n; los otros rubros, sobre todo la atenci\xF3n, son mejorables pero es una buena parrilla en San Telmo que vale la pena conocer."
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui con altas expectativas, la calidad de la carne era buena pero no superlativa. Las achuras eran ricas y todo estuvo correcto: la ambientaci\xF3n, la atenci\xF3n, el servicio. Sin embargo, no justifica los precios, excesivamente caros. Fue muy lindo el piano en vivo y el bandone\xF3n, pero una pena, se ha convertido en un lugar s\xF3lo para turistas."
+    date: 15-06-2009
+    user: http://mi.guiaoleo.com/members/7407
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "la brigada sigue siendo la mejor parrilla de buenos aires en mi opini\xF3n. no es fashion, es un cl\xE1sico, cumple y supera las expectativas. la comida sigue siendo excelente y el servicio impecable. es la segunda vez que voy desde que hicieron la ampliaci\xF3n del local. un solo detalle para mejorar: la calefacci\xF3n del sal\xF3n nuevo no alcanza a combatir el fr\xEDo."
+    date: 02-06-2009
+    user: http://mi.guiaoleo.com/members/16076
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Netamente para turistas. La carta de vinos  cara y arranca de $50 para arriba. \r\n\
+      La ampliaci\xF3n del sal\xF3n est\xE1 bien, un poco artificial. \r\n\
+      La panera muy d\xE9bil. \r\n\
+      La carne es buena, como en tantos otros lugares cercanos en San Telmo."
+    date: 29-05-2009
+    user: http://mi.guiaoleo.com/members/18400
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La carne cruda, la panera pobrisima , el ambiente p\xE9simo y el due\xF1o un personaje grotesco que debiera instruir mejor a sus mozos.-"
+    date: 28-05-2009
+    user: http://mi.guiaoleo.com/members/59102
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Fuimos con un grupo de extrajeros, quedaron fascinados como cortaron la carne literalmente con cuchara. La comida no es  muy escasa para los precios que ofrecen pero  la atencion es esmerada y dedicada. Esta orientado a los turistas, realmente no me convencio demasiado.
+    date: 13-05-2009
+    user: http://mi.guiaoleo.com/members/31974
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "no vale lo que cobran, netamente orientado a turistas, la carta es mentirosa, los ri\xF1oes de cordero, son de vaca, el jabato, es cerdo, los precios de la carta de vinos son exorbitantes (300 % el valor de viner\xEDa), no recomendable"
+    date: 24-04-2009
+    user: http://mi.guiaoleo.com/members/61613
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La mejor tira de asado que comi en mi vida, se cortaba con una cuchara. El lugar es hermosa, bien de buenos aires
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/63745
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Para cambiar: el lugar , chico, ruidoso y bizarro, tipico bodeg\xF3n Santelmiano, venido a menos, mesas chicas y super juntas, mozos demasiado pegajosos y molestos, sus recomendaciones solo van en pos de facturar. El contenido de la panera es malo. Los vinos 100% remarcados.\r\n\
+      Cosas para destacar: los tiempos entre plato y plato, (fu\xEDmos temprano y con reserva), las mollejas de chivito, las carnes en gral van bastante acertadas, la temperatura de los vinos.\r\n\
+      Que corten las carnes con cuchara no es sin\xF3nimo de terneza. No es del todo malo, en San Telmo a tan solo 2 cuadras hay opciones mejores."
+    date: 08-03-2009
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Se trata de un lugar altamente recomendable. La comida es muy muy buena, y el hecho de estar rodeado de turistas le da un toque muy especial. La atencion nos parecio excelente. Es recomendable estar arriba (nosotros estuvimos abajo), ya que hay menos ruido. Llegamos a las 22:50 y esperamos 35 minutos para entrar al lugar, pero valio la pena!
+    date: 02-01-2009
+    user: http://mi.guiaoleo.com/members/37392
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ambientado para turistas, la comida es muy buena, el servicio esmerado, el espacio escaso, el precio es justo.
+    date: 02-01-2009
+    user: http://mi.guiaoleo.com/members/53153
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La relaci\xF3n precio calidad de La Brigada (precios de bodeg\xF3n paquete for export, convengamos), est\xE1 ampliamente justificado por las carnes y la cocci\xF3n (casi nunca yerran, admirable!) Buena carta de vinos-caros- y la atenci\xF3n superlativa. Siempre volvemos cuando hay algunos billetes de m\xE1s y ganas de comer asado del mejor."
+    date: 25-11-2008
+    user: http://mi.guiaoleo.com/members/48592
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida en general bastante sencilla pero se viene por la carne que es excelente. Es un ambiente muy informal pero se siente muy comodo y los mozos como el capo son simpaticos.
+    date: 12-09-2008
+    user: http://mi.guiaoleo.com/members/47496
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un bodeg\xF3n de San Telmo orientado a turistas extranjeros (de ah\xED los precios!!), pero que tiene una carne realmente recomendable, de lo mejor de Buenos Aires en ese sentido. Vinos caros"
+    date: 03-09-2008
+    user: http://mi.guiaoleo.com/members/33795
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El mejor lugar para comer carne en Buenos Aires, sin dudas. La atencion es muy buena , el punto de coccion perfecto. Un poco apretado el lugar, pero es un "bodegon" por lo tanto se le perdona. Y pensar que todavia hay gente que va a Cabana Las Lilas....!!!
+    date: 02-09-2008
+    user: http://mi.guiaoleo.com/members/30665
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Sin duda el mejor lugar para comer carnes rojas, pero el ambiente es muy peque\xF1o y al completar su capacidad m\xE1xima es ruidoso. La atenci\xF3n es muy buena y el punto de cocci\xF3n es \xF3ptimo. La carta de vino es excelente pero pensada para que el costo de turistas.se recomienda ir sin ni\xF1os y con reserva previa temprano para cenar tranquilos."
+    date: 22-08-2008
+    user: http://mi.guiaoleo.com/members/3157
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente todo. Lindo lugar, c\xE1lido, de atenci\xF3n muy cuidada en todos los detalles. Se recomienda reservar con anticipaci\xF3n porque se llena de gente."
+    date: 09-08-2008
+    user: http://mi.guiaoleo.com/members/49340
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Bueno es un bodeg\xF3n muy lindo, pintoresco, casi se \"respira\" futbol, lo \xFAnico que le resta puntaje es que es muy chico, hay muy poco espacio.\r\n\
+      Respecto del servicio, los mozos tienen muy buena predisposici\xF3n, a pesar de un par de disculpas por demoras, la atenci\xF3n es muy amable y buena.\r\n\
+      Respecto de la comida, quiero creer que no tuve suerte, ya que la bondiola que ped\xED no lleg\xF3 al punto que la solicit\xE9, y para colmo lleg\xF3 algo fr\xEDa, tanto esta como el vaci\xF3 que comi\xF3 mi pareja estaban duros, no la voy a calificar de mala porque quiz\xE1s vuela para darle una segunda oportunidad."
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/48429
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar sencillo, para ir temprano, con reserva y con una carne de excepci\xF3n. Para ir por lo menos una vez para probar lo exquisito de la carne que ofrecen y variedad."
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/48400
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una excepcional calidad en la carne. Servicio atento, cordial y efectivo. El ambiente ni suma ni resta. Dentro de las parrillas orientadas al turista, la que mejor relaci\xF3n calidad-precio ofrece."
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/38518
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Lugar recomendable por excelencia para los amantes de la buena carne argentina. Si bien la atenci\xF3n es moderada y la ambientaci\xF3n nada del otro mundo, la calidad de la comida se lleva todos los laureles! Recomendable."
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/33364
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Desilucion, Los vinos muy caros arrancan de $40, pocas mollejas, el matambrito era duro o el facon que te entregan no tiene filo, y la papas fritas muy aceitosas, les pedi cambiarla y traen las mismas pero como secadas con papel absorbente, le solicite libro de quejas y no tenias. NO VUELVO.
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/24546
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy agradable el lugar, hacia tiempo que no iba, la carne sigue siendo muy buena pero no excelente como otros lugares.\r\n\
+      La atenci\xF3n estuvo muy bien pero me pareci\xF3 un poco caro para lo que ofrece"
+    date: 09-06-2008
+    user: http://mi.guiaoleo.com/members/30279
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La brigada es una parrilla que no falla. Me molesto mucho que cerrara la de calle pe\xF1a. Los mozos son muy especiales, como en cualquier lugar tradicional de buenos aires, te puede pasar que el tipo no tenga ganas y te arruina la comida, tambien puede pasar que te atienda muy bien. Les recomindo el \"vacio del fino\" que solo hay en pocas parrillas como El mirasol o El parrillon de recoleta. Lo recomiendo mucho."
+    date: 17-05-2008
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Una ambientaci\xF3n distinta, tipo cantina, lleno de turistas.\r\n\
+      El servicio es bastante mejorable, y la comida no me pareci\xF3 nada del otro mundo, si bien tiene una carta interesante a nivel parilla, ni la calidad ni las porciones son destacables."
+    date: 17-05-2008
+    user: http://mi.guiaoleo.com/members/46289
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      sin duda alguna la mejor parrilla de buenos aires.
+      en variedad y calidad. te cortan todo lo que te van a servir con una cuchara!!!!!!!!
+      magnifico
+    date: 04-05-2008
+    user: http://mi.guiaoleo.com/members/4543
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un T-Bone asi no lo habia probado nunca en Buenos Aires: ENHORABUENA! El ambiente puede que sea ruidoso pero a mi francamente me gusto' asi: bien casero y acojedor (sobretodo el piso abajo). Seguramente volvere"
+    date: 16-04-2008
+    user: http://mi.guiaoleo.com/members/9918
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui con mi esposa y mis padres, el servicio estuvo terrible, rudo, sal\xED enojado de ahi. El vino estuvo mal, y cuando ped\xED otra botella, el mozo se puso a pelear, y tom\xF3 un trago de mi copa para ense\xF1arme lo rico que estaba, y me devolvi\xF3 la copa. \r\n\
+      \r\n\
+      La carne regular, no vale lo que cobran. El mozo se burl\xF3 de mi esposa cuando pidi\xF3 la carne bien cocida (no se permite, es un crimen contra la carne), al final me di\xF3 un pedazo sobrecocido a mi, aunque lo habia pedido jugoso. Y el gimmick de las cucharas afiladas, por favor. Es m\xE1s facil con cuchillo. S\xF3lo volver\xEDa para ver la demolici\xF3n del lugar."
+    date: 14-04-2008
+    user: http://mi.guiaoleo.com/members/12603
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Un viejo bodeg\xF3n, ambientado con cosas t\xEDpicas de Arg. La comida, muy buena. Las porciones son chicas pero el sabor est\xE1 bien logrado. Las carnes, tiernas y bien hechas. El problema est\xE1 en la atenci\xF3n: el Sr. Hugo, el due\xF1o, es demasiado ordinario. No s\xF3lo en su manera de vestir, sino tambi\xE9n en como se maneja con sus clientes (quienes le dan de comer). Es grosero, agresivo y no mide sus palabras. Lo v\xED maltratar a un brasile\xF1o, le habl\xF3 mal a unas americanas y encar\xF3 mal a un comensal de n/ mesa. Por el bien de La Brigada, \xE9l no deber\xEDa atender a la gente. Una l\xE1stima. Ojal\xE1 cambie..."
+    date: 27-03-2008
+    user: http://mi.guiaoleo.com/members/6200
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Fui porque me lo recomendaron; asique llev\xE9 a comer a mi familia. La comida estupenda, pero la noche la estrpeo el due\xF1o del lugar. Tenia gente esperando para ocupar la mesa, cuando se nos acerc\xF3 y dijo que no tardemos en elegir el postre, o si lo haciamos tambien nos apuraramos, porque nuestra charla significaba una \"perdida\" para \xE9l. En conclusi\xF3n, un sitio para turistas y no para pasar una agradable velada en familia. No lo recomiendo."
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/25784
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Mantienen el excelente nivel de la comida con especial cuidad a la calidad de las materias primas.  El servicio sigue con las particularidades de la casa.  Para destacar la muy cuidada carta de vinos.  Muy recomendable.
+    date: 27-01-2008
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Como siempre, excelentes la carne y ls achuras..los puntos de coccion y los cortes.\r\n\
+      La atenci\xF3n no pasa de regular y el lugar es el de siempre..incomodo y no muy agradable. Pese a ser una parrilla para turistas..deja de ser \"pintoresco\" porque es caro. Los vinos demasiado caros y el servicio de vinos en la mesa es malo. Malbec muy caliente  y cuando pedimos una frappera para bajarle un poco la temperatura, trajeron una con 10 cm de agua y 3 cubitos, que solo podian enfriar la base de la botella, pese a que se lo pedimos con mucha agua."
+    date: 15-01-2008
+    user: http://mi.guiaoleo.com/members/18280
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es super incomodo, la atenci\xF3n buena y la comida muy buena, pero los precios...solo para turistas. Los vinos...imposible carisimos!\r\n\
+      Solo si me invitan, vuelvo"
+    date: 15-01-2008
+    user: http://mi.guiaoleo.com/members/4826
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: sin duda el nivel de la parrilla es muy bueno, pero el lugar es muy chico para la cantidad de publico que reciben.en cuanto al servicio es correcto y nada mas.vinos carisimos!
+    date: 20-12-2007
+    user: http://mi.guiaoleo.com/members/37277
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida sigue siendo muy buena, no se puede discutir que las achuras y la carne la preparan muy bien. Las deficiencias vienen por el lado del servicio, hacen sentir a los clientes como si les estuvieran haciendo un favor por servirles, lo cual por supuesto no es agradable. Esta actitud se transmite del responsable o administrador hacia los mozos. El precio de los vinos es otro cuento, son escandalosamente caros; pienso que juegan con que hay una gran rotaci\xF3n de su p\xFAblico, la mayor\xEDa turistas que fueron una vez y no volver\xE1n, pues de otra manera no se justifica pagar lo que cobran. Es una parrilla, no una vinoteca especializada, confunden la esencia de su negocio."
+    date: 11-12-2007
+    user: http://mi.guiaoleo.com/members/27719
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena parrilla, excelentes los cortes de carne muy bien cocinados en su punto, un lugar para recomendar.
+    date: 25-11-2007
+    user: http://mi.guiaoleo.com/members/28001
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hac\xEDa bastante tiempo que no iba. Creo que cambi\xF3 no s\xF3lo la calidad de los cortes sino, tambi\xE9n, la atenci\xF3n. Entiendo que los mozos est\xE1n sobrecargados de trabajo. Este lugar pas\xF3 a ser un recinto, casi dir\xEDa, s\xF3lo para turistas. Antes todo era m\xE1s c\xE1lido..., ahora creo que hay mejores opciones en parrillas. El precio me pareci\xF3 excesivo, especialmente la carta de vinos, pero los postres mejoraron mucho. Ojal\xE1 vuelvan a ser lo que fueron."
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui a Buenos Aires por viaje de negocios y en la noche un taxista me llevo a la brigada, la comida es buena, pero las mesas est\xE1n tan juntas que los mozos solo pueden pasar en fila, si bien se esmeran en atenderte, mas se esfuerzan en que desocupes luego la mesa, esto en mi caso fue mas que notorio pues estaba solo.  Al d\xEDa siguiente cene en Puerto Madero la cuenta fue mas baja y el servicio notablemente mejor."
+    date: 30-09-2007
+    user: http://mi.guiaoleo.com/members/33200
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "P\xC9SIMA ATENCI\xD3N! Llev\xE9 turistas para que conozcan la calidez de nuestra gente y la buena carne argentina y nunca pas\xE9 tanta verguenza.\r\n\
+      Mala atenci\xF3n de los mozos y del mismo encargado quien daba las \xF3rdenes.  Malos modales, mal trato y hasta retos recibimos.  Recibo mejor trato en la pancher\xEDa de mi barrio!  La comida buena pero tampoco excelente.  NO LO RECOMIENDO."
+    date: 21-09-2007
+    user: http://mi.guiaoleo.com/members/32732
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena carne, una buena parrilla Argentina. Camareros muy atentos. Me encantaron las mollejas y el bife de chorizo. En la mesa de al lado nuestro habia un grupete de yankees, que le sacaban fotos a los bifes de chorizo de tama\xF1o mas que generoso!! Una buena opcion de parrilla. Los precios un poco \"ajustados\" para el turismo. Ojo! llegar temprano o... a esperar!"
+    date: 11-09-2007
+    user: http://mi.guiaoleo.com/members/16793
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La carne es espectacular, el precio por persona un poco caro. De postre comimos \"vigilante\". Pedimos diferentes tipos de carnes y la verdad todas estaban en su punto perfecto de cocci\xF3n y con un sabor increible."
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/31224
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente balance entre precio y calidad. Me gust\xF3 el detalle de que te den un cuchillo de campo. \r\n\
+      L\xE1stima que por tener tan poco filo, era mejor usar un tramontina.\r\n\
+      Muy personalizada la atenci\xF3n y cuidada el espaciamiento entre mesas."
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/19303
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La atencion es buena. El bife de chorizo estaba bueno, pero el asado un poco duro. Los mozos super predispuestos. Vamos a ir otra vez a ver si nos toca mejor carne. "
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/19131
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Las mejores achuras, a la carne no llegamos sino nos ibmos desnudos, pero vi que la cortaban con cuchara asi que debe ser buena. Recomiendo las mollejas y los chinchulines de cordero. "
+    date: 24-08-2007
+    user: http://mi.guiaoleo.com/members/30371
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Se encuentra a salida del mercado de San Telmo, comi la mejor carnes de los restaurent que visite, lo recomiendo ampliamente
+    date: 30-07-2007
+    user: http://mi.guiaoleo.com/members/28284
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El nivel de la carne y de las achuras es excelente, no recuerdo haber comido en otro lugar mercaderia de tan buena calidad y tan bien hecha. La carta de vinos es muy completa. Ahora, el servicio y el lugar dejan mucho que desear, no est\xE1n acordes con el precio que te cobran."
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/18564
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La mercader\xEDa de primera, la atenci\xF3n desatenta y el ambiente muy barullero. Los precios no me parecieron muy accesibles y un poco fuera de foco para las caracter\xEDsticas del lugar y la atenci\xF3n; hay un componente nombre y turismo. "
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/19189
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "A diferencia de otros comentarios leidos, tuve la dicha de haber conocido el lugar,\r\n\
+      que siempre quise, donde la c\xE1lida espontaneidad en todos sus sentidos, nos abre las puertas de la propuesta que tiene la parilla para con la gente. El hecho es que fui una noche con amigos por recomendacion de otro. Ya en la puerta y sin reserva me atendio un personaje al que todos llamaban maestro, de pelo largo y vestido de entrecasa, como quien espera a un amigo cuando hace un asado en casa. Le coment\xE9 que venia de parte de tal y entre bromas y esmero obtuvimos la mesa. Bueno: y ahora qu\xE9, me dije, y vino el mozo que dando notas del oficio, nos convenci\xF3 que era mejor a la hora de ordenar, ya que en otros lugares el mozo solo informa sobre los platos y no tiene ese algo m\xE1s para sorprender. Entre \"gambetas y taquitos\" (ya que el lugar es lo m\xE1s parecido a un museo del f\xFAtbol), fueron llegando las ordenes, paso a paso y con un insistente cambio de platos bien calientes, que otorga la posibilidad de no tener que comer todo junto, y no con esas parrilladas que lo \xFAnico que hacen es recalentar lo que ya se ha preparado mucho antes, por lo que s\xED doy fe se\xF1ores, que aqu\xED la carne se pone cuando uno llega. Y al final con gran intriga consulte al mozo como pudo ser que todo fue hecho a la minuta... y la respuesta de este fue clara \"UN APLAUSO PARA EL ASADOR\". La malo es que hay poco espacio...y demasiado bullicio... "
+    date: 25-06-2007
+    user: http://mi.guiaoleo.com/members/13723
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad es que es un lugar frecuentado mayoritariamente por extranjeros,la comida me parec\xF3 mala,mi pechito de cerdo estaba lleno de grasa,y la ensalada que pedi me la trajeron condimentada anteriormente(la zanahoria tenia un color sospechoso).Es un lugar caro,y no vale la pena pagar el precio por la calidad de comida que brindan.El servicio es lento.Lo unico a favor del lugar es el ambiente, decorado con cosas y fotos de futbol,que lo hace bastante ameneno.No volveria ni loca.Hay lugares mejores"
+    date: 07-06-2007
+    user: http://mi.guiaoleo.com/members/2895
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos muy mal atendidos, sentados en una mesa a la salida de la cocina, en el camino de la salida de los mozos. Hab\xEDa muchas mesas libres y pese a mi insistencia ignoraron mi pedido de cambiarme. La actitud de los mozos fue displicente y agresiva. El encargado due\xF1o o quien fuere me trat\xF3 decididamente mal, quiz\xE1s abusando de que yo estaba acompa\xF1ado de una mujer. Me retir\xE9 sin comer y pagu\xE9 la cuenta. Conclusi\xF3n no lo recomiendo para nada, est\xE1n subidos a una soberbia inexplicable. "
+    date: 05-06-2007
+    user: http://mi.guiaoleo.com/members/19701
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Un lugar muy "especial", que no es para todo el mundo.  Si bien la comida es realmente muy buena, hay que lidiar con Hugo que esta de medio a completamente loco... y la ya famosa tradicion de la casa que consiste en que la carne sale como quieren ellos, y no como la quiere el comensal (razon por la cual el servicio a mi juicio merece un regular).  Buena carta de vinos, y ambiente muy agradable.  Es como para recomendar, pero unicamente para gente que esta dispuesta a soportar posibles desplantes del querido Huguito y comer la carne en el punto que quiera el asador.
+    date: 27-05-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Me la recomendaron unos amigos, as\xED que fui con muchas expectativas, pero sal\xED desilusionado. La comida no est\xE1 mal pero la atenci\xF3n es un desastre."
+    date: 26-05-2007
+    user: http://mi.guiaoleo.com/members/23847
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "bajo el nivel, la carne no es mala, pero tampoco se respetan los puntos como antes, tardan mucho, y cuando llegas te tratan mal, preguntando severamente si tenes reservas, \"porque ellos sin reservas no atienden\", quien son el bulli!, espero que recuperen la humildad y el nivel de anta\xF1o."
+    date: 20-05-2007
+    user: http://mi.guiaoleo.com/members/24408
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Todo aquello relativo a lo consumido puede decirse que fue bueno aunque nada extraordinario. Pero s\xED, es deficiente el servicio de mesa, con un mozo que se las cree que se las sabe todas y resulta de lo m\xE1s pesado con sus comentarios y su creerse el m\xE1s piola de la cuadra. Hay un personaje que se mueve entre las mesas, que seg\xFAn los comentarios es el due\xF1o del restaurante, pero lo que nadie puede saber es porqu\xE9 entra y sale continuamente y por qu\xE9 mira siempre su reloj c\xF3mo si esperara que el tiempo pase y la gente se retire. En resumen, entre lo que se paga y lo que se recibe, el cliente queda en d\xE9ficit. No es para llevar amigos del exterior que visitan la ciudad si uno quiere resaltar lo nuestro. "
+    date: 05-05-2007
+    user: http://mi.guiaoleo.com/members/14585
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui con toda la expectativa ante la publicidad de este lugar. Conclusi\xF3n. Otra de las grandes mentiras argentinas. A diferencia de otros lectores el encargado nos atendi\xF3 muy bien por la simple raz\xF3n que me puse a hablar con \xE9l de f\xFAtbol, nada m\xE1s. Lo peor estuvo en la comida y el mozo, por favor!!!!\r\n\
+      La carta de vinos es para turistas no para nosotros, el m\xE1s barato $40,00. \r\n\
+      De entrada pedimos para compartir un vitel ton\xE9 de cuarta. De plato principal el famoso ojo de bife  y mi compa\xF1ero un bife especial de chorizo acompa\xF1ado los dos de ensaladas. La carne te la dan cruda, no jugosa que creo es el punto ideal, sino cruda de carnicer\xEDa. El bife de chorizo no era tierno y el ojo de bife despu\xE9s de decirle al mozo que le d\xE9 un toque m\xE1s de cocci\xF3n, lo pude  comer. Las ensaladas no me las dejaron condimentar a gusto lo hicieron ellos. El mozo realmente es un desastre, comimos en el sal\xF3n de arriba, atiende a desgano, todo de mala manera, pero como este es un pa\xEDs realmente generoso, este se\xF1or tiene la posibilidad y la suerte de recibir abundantes propinas de extranjeros todas las noches. Pagamos entre dos $135,00 y que comimos?\r\n\
+      Otro lugar para la gilada, que como yo, va a ver que descubre de nuevo en la carne argentina, que es buena en el 90 de los lugares. Eso s\xED se\xF1ores argentinos nunca m\xE1s vuelvo a lugares preparados para turistas. Comer carne, en casa con amigos y hecho por nosotros mismos y si no en la ruta donde comen los camioneros, ser\xE1 grasa para algunos, pero para pagar precios exorbitantes y comer como com\xED me quedo con esa opci\xF3n. Los giles seguir\xE1n siendo enga\xF1ados. Buena experiencia para saber que a lugares como este no voy nunca m\xE1s.\r\n"
+    date: 08-03-2007
+    user: http://mi.guiaoleo.com/members/10091
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Esperaba mucho, muchisimo mas. Para empezar, reservamos y le dieron nuestra mesa a otro grupo. Llevamos amigos extranjeros y terminamos pasando verguenza. Algo tan elemental como la colita de cuadril, que fue pedida jugosa, estaba sobrecocida. Faltaba sabor a todo lo que comimos, rar\xEDsimo. No se escucha lo que se habla, las mesas est\xE1n pegadas y los mozos no pueden pasar pr\xE1cticamente. Es ruidoso, la luz es espantosa para sacar fotos, el host es antip\xE1tico y al menos con nosotros fue grosero por lo de la reserva. Me equivoqu\xE9 mal. No vuelvo ni llevo a nadie nunca m\xE1s."
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos un mi\xE9rcoles a la noche y estaba lleno. La atenci\xF3n fue muy buena y el lugar es agradable. La carne era de una calidad excelente y la sacaron bien jugosa, realmente delicioso. El \xFAnico problema de \xE9ste lugar es que no tiene ning\xFAn vino intermedio. El vino m\xE1s barato que ofrecen en un supermercado sale veinte pesos y, en consecuencia, no ten\xE9s opciones por menos de cuarenta pesos. De todas maneras, disfrutamos mucho la cena, aunque para parrilla creo que hay opciones de calidad m\xE1s econ\xF3micas. "
+    date: 28-02-2007
+    user: http://mi.guiaoleo.com/members/15539
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fui dos veces a La Brigada, la primera com\xED muy bien, la carne est\xE1 hecha en su punto. Los chinchulines de cordero son muy buenos y con algunos detalles agradables como la vajilla caliente; la atencion del mozo fue regular, muy apurado y bastante sobrador. La segunda no pude siquiera entrar, habia hecho reserva para ocho personas, a las 20.30, a esa hora estuve ah\xED y cuando llegu\xE9, el due\xF1o (ese se\xF1or morocho de la puerta) con una altaner\xEDa que me dej\xF3 boquiabierto practicamente nos ech\xF3 y estuvo a punto de insultarnos, una experiencia p\xE9sima. \r\n\
+      Lo siento mucho por La Brigada, pero coincido con el amigo espa\xF1ol que escribi\xF3 antes. No pienso volver, hay infinidad de parrillas en Buenos Aires y yo no voy a restaurantes para hacerle el favor al due\xF1o, voy para pasar un buen momento."
+    date: 15-02-2007
+    user: http://mi.guiaoleo.com/members/715
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "One of the worst restaurants we have visited on multiple trips to Buenos Aires and Argentina. Meat could have been purchased at a s\xFApermercado, very regular and flavorless.  Service was inattentive, disorganized and confused.  Wrong orders were mixed up for everyone in the upstairs dining area.  People, both visitors and locals, were pointing out errors and exchanging plates with other tables.  Not representative of Argentina meats, service and restaurant quality in general.  I pray that short-term visitors do not leave Argentina thinking that La Brigada is anything special or typico.  Not recommended and do not take visitors there.  What happened to this once locally recommended and attended restaurant?"
+    date: 28-01-2007
+    user: http://mi.guiaoleo.com/members/17149
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "\xA1Qu\xE9 pena! Soy espa\xF1ol. He estado dos veces cenando en \xE9ste sitio, pero el hombre vestido de negro, agitanado, muy moreno y pelo bastante largo que recibe a los clientes, no me ha permitido cenar la tercera.\r\n\
+      El a\xF1o pasado tuvimos dos experiencias. La primera, la puedo calificar de estupenda. La segunda, de regular.\r\n\
+      La primera vez cenamos abajo y nos atendi\xF3 Beto, un camarero muy profesional que nos aconsej\xF3 muy bien e hizo de nuestra cena un momento inolvidable. \xA1Qu\xE9 maravillosa carne!\r\n\
+      La segunda estuvimos en el piso de arriba y entre que tuvimos una cena de varios ingleses al lado, que bebieron m\xE1s alcohol de la cuenta y que la antencion del camarero fue m\xE1s, para que nos dej\xE1ramos un buen pu\xF1ado de pesos, que para que comi\xE9ramos bien. Este a\xF1o hemos intentado volver, para confirmar que es un sitio maravilloso, pero s\xF3lo nos llevamos desilusi\xF3n y fracaso.\r\n\
+      Nos acercamos mi mujer y yo a mediod\xEDa para reservar en la parte de abajo y nos recibi\xF3 esta persona de pelo largo, muy moreno y vestido totalmente de negro. Fue muy poco amable y muy poco acogedor. Hizo gala de una tremenda arrogancia cuando le dijimos que quer\xEDamos reservar, para ir por la noche con unos amigos, total cuatro personas. Entiendo que nos dijera, aunque no la forma de decirlo, que ten\xEDamos que estar all\xED antes de las veinte horas. Lo que no entiendo, es que despu\xE9s de pedirle la posibilidad de cenar m\xE1s tarde, justificando que el avi\xF3n de nuestros amigos llegaba a Ezeiza a las siete, nos contestara con tanta sequedad y arrogancia, que si no est\xE1bamos all\xED a las veinte y treinta, no cenabamos. Tajante. Casi de mala manera, como si le molestaramos.\r\n\
+      Se\xF1or, hay que ser un poco m\xE1s amable, que no cuesta tanto. Sobre todo, si se dirigen a usted con amabilidad. Una pena. Un gran ambiente, la mejor carne que com\xED en Argentina el a\xF1o pasado, pero un due\xF1o (o encargado, que no se lo que es) enormemente desagradable."
+    date: 05-12-2006
+    user: http://mi.guiaoleo.com/members/14331
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida excelente pero el mozo nos ensart\xF3 con un vino carisimo que pagamos (y tomamos) como caballeros. Muy fea actitud, lo que hizo que pese a comer maravillosamente, al sertirme estafado, no me den ganas de regresar. L\xE1stima."
+    date: 12-11-2006
+    user: http://mi.guiaoleo.com/members/14579
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Incre\xEDble lugarcito de San Telmo. Llegamos sin reserva y aunque tuvimos que esperar, vali\xF3 la pena. La carne es excelente y por recomendaci\xF3n de Hugo, probamos los chinchulines de chivito: no se los pierdan. Las mesas est\xE1n bastante encimadas, pero se nota el esmero de los mozos en atender bien y r\xE1pido, salteando obst\xE1culos en el camino. Coincido con que los vinos estan un poco por arriba del promedio, aunque se contraresta con la relaci\xF3n precio-calidad de la carne y las achuras. \xA1Hugo es un personaje!. La decoraci\xF3n es bien caracter\xEDstica de su personalidad: est\xE1 lleno de cuadros con camisetas de f\xFAtbol, gorras y afiches antiguos de la ciudad. Reservar, se llena mucho y hay poco espacio f\xEDsico donde esperar por una mesa."
+    date: 11-10-2006
+    user: http://mi.guiaoleo.com/members/9148
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La carne es buena y bien preparada, pero al punto del local. Lenta la atenci\xF3n (Domingo de San Telmo lleno de turistas, yo inclu\xEDdo).\r\n\
+      Hugo es todo un personaje carism\xE1tico.\r\n\
+      Los vinos, tambi\xE9n demasiado \"CARISm\xE1ticos\".\r\n\
+      En serio. el precio de los vinos no guarda relaci\xF3n con el precio de los platos.\r\n\
+      Igual, una experiencia interesante.\r\n\
+      La decoraci\xF3n, sino elegante\r\n\
+      al menos tiene personalidad."
+    date: 08-10-2006
+    user: http://mi.guiaoleo.com/members/12735
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n es esmerad\xEDsima, quizas no se luce por el poco espacio. \r\n\
+      He visto personalidades (hablo de presidentes , realeza, destacados de la ciencia y el arte) de todas partes del mundo. Es habitual ver gente esperando su turno por mas de dos horas. \xBFPor qu\xE9?, porque la comida es excelente, los cortes, la temperatura y el punto de cocci\xF3n son para dar c\xE1tedras de cocina. Los vinos son magistrales. Todo est\xE1 bajo la sabia mirada de su due\xF1o (para los habitu\xE9s)\"Huguito\". La Brigada es la mejor parrilla de la Ciudad de Buenos Aires."
+    date: 05-10-2006
+    user: http://mi.guiaoleo.com/members/12572
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La atenci\xF3n es un desastre. Desde los mozos hasta la tardanza en traer los platos. Parece que te hacen un favor para ubicarte en una mesa. La comida tiene relaci\xF3n con el precio, pero los vinos son car\xEDsimos. Yo no vuelvo m\xE1s."
+    date: 28-09-2006
+    user: http://mi.guiaoleo.com/members/12278
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Uno de los mejores bifes de lomo en Buenos Aires. Buen\xEDsima la ensalada waldorf, pero un tanto escasa. El servicio no fue muy malo pero aqu\xED suele haber demasiada gente y eso se nota. Lo recomiendo en cualquier caso."
+    date: 08-09-2006
+    user: http://mi.guiaoleo.com/members/14818
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La atenci\xF3n es mediocre, la decoraci\xF3n fea, la carne INCREIBLE. MUY caros los vinos."
+    date: 05-09-2006
+    user: http://mi.guiaoleo.com/members/19
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Nos hicieron \"el favor\" de atendernos (no ten\xEDamos reserva pero llegamos a las 20.15 hs.) Con atenci\xF3n mala y prepotente nos indicaron que lo que ped\xEDamos era poco. Nos di\xF3 la sensaci\xF3n que tienen previsto cu\xE1nto hay que consumir por persona. La calidad media, tama\xF1o de las porciones m\xEDnimo, precios altos. Relaci\xF3n calidad-cantidad-precio mala. Dos adultos y un ni\xF1o de 4 a\xF1os pagamos $ 170. \r\n\
+      Opino que es mejor dejarlo para turistas inexpertos."
+    date: 18-08-2006
+    user: http://mi.guiaoleo.com/members/11533
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Carne regular, prcios muy caros y lo peor despu\xE9s de una tremenda cuenta pedimos un bajativo \"limoncello\".\r\n\
+      No ten\xEDan nos ofrecieron un \"legui\" que cobraron casi a valor de un whisky. No recomiendo este restaurante."
+    date: 25-07-2006
+    user: http://mi.guiaoleo.com/members/27816
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente calidad en parrilla. Eso solo lo puede lograr un ex carnicero como Hugo (due\xF1o). Un consejo, pidan reserva o concurran durante la semana."
+    date: 08-07-2006
+    user: http://mi.guiaoleo.com/members/9925
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La carne es muy buena pero la ten\xE9s que comer al punto que deciden ellos. \r\n\
+      Te atienden como si te estuvieran haciendo un favor. \r\n\
+      El lugar es chico y la decoraci\xF3n horrible. Los vinos muy caros. No vuelvo m\xE1s."
+    date: 30-06-2006
+    user: http://mi.guiaoleo.com/members/9860
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Debe ser la mejor carne de Buenos Aires, con algunas especialidades gourmet como las mollejas de chivito. \r\n\
+      Es cierto que la carne la cortan con cuchara. Cuidan los detalles con el vino. Las mesas est\xE1n demasiado encimadas."
+    date: 13-06-2006
+    user: http://mi.guiaoleo.com/members/797
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente por donde se lo mire.
+    date: 03-06-2006
+    user: http://mi.guiaoleo.com/members/9097
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente todo.\r\n\
+      Lindo lugar, c\xE1lido, de atenci\xF3n muy cuidada en todos los detalles. \r\n\
+      Se recomienda reservar con anticipaci\xF3n porque se llena de gente.\r\n\
+      Igual vale la pena la espera.\r\n\
+      Uno de los dos mejores restaurantes de San Telmo."
+    date: 24-05-2006
+    user: http://mi.guiaoleo.com/members/8376
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es uno de los lugares que mejor se come en Buenos Aires. y el due\xF1o tiene la mejor de las ondas. Lugar t\xEDpico porte\xF1o."
+    date: 07-05-2006
+    user: http://mi.guiaoleo.com/members/8291
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena carne, tierna. Atenci\xF3n normal, pero el lugar muy ruidoso. "
+    date: 12-04-2006
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es c\xE1lido, pero peque\xF1o. Las mesas est\xE1n muy juntas, tipo cantina. La atenci\xF3n es buena, pero algo lenta si uno va con poco tiempo. La comida es de primera. Est\xE1 lleno de turistas. Conviene reservar si no se quiere esperar mucho. Tiene valet parking. "
+    date: 31-03-2006
+    user: http://mi.guiaoleo.com/members/7438
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Peque\xF1o, lleno de turistas, la comida es excelente, la mejor carne de Buenos Aires. \r\n\
+      Hugo, el due\xF1o, es un personaje encantador. Muy recomendable."
+    date: 28-03-2006
+    user: http://mi.guiaoleo.com/members/5600
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Este lugar sol\xEDa ser uno de mis preferidos, pero lamentablemente las tres \xFAltimas veces que fui me ha decepcionado reiteradamente, haci\xE9ndome quedar mal con mis invitados.\r\n\
+      Los precios de los vinos son alt\xEDsimos, sin ninguna raz\xF3n. La atenci\xF3n fue descuidada y hasta de mala manera. Pedimos mousse de lim\xF3n de postre y luego de veinticinco minutos, cuando le consultamos al mozo por el postre nos dijo que estaban muy atrasados en la cocina y que el postre no llegar\xEDa.\r\n\
+      Los puntos de la carne los traen como a ellos les parece y no como uno lo solicita.\r\n\
+      Realmente es una l\xE1stima que los sitios se echen a perder as\xED. \r\n\
+      Creo que se han dormido en los laureles y lo han dejado caer en cuanto a servicio principalmente.\r\n\
+      Coincido con un mensaje anterior en que la cuenta no tiene detalle alguno, s\xF3lo detallan un \xEDtem de parrilla.\r\n\
+      Espero que vuelvan al nivel que ten\xEDan."
+    date: 12-03-2006
+    user: http://mi.guiaoleo.com/members/759
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Mesas muy chicas y s\xFAper juntas. Bastante ruidoso. \r\n\
+      Carne de exportaci\xF3n, excelente. Car\xEDsimos los vinos y lleno de turistas."
+    date: 02-02-2006
+    user: http://mi.guiaoleo.com/members/2340
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La relaci\xF3n precio/calidad deja much\xEDsimo que desear. \r\n\
+      La carne est\xE1 bien (apenas bien), sobre todo los puntos de cocci\xF3n, pero de ninguna manera \"se corta con cuchara\". \r\n\
+      Los vinos son rid\xEDculamente caros (tres a cuatro veces el precio de venta al p\xFAblico), lo cual hace la experiencia medio complicada: c\xF3mo comer asado con gaseosa o resignarse a un vino malo para no tener que pagar los precios exhorbitantes que piden. \r\n\
+      El servicio regular, el mozo olvidaba comandas simples (como vac\xEDo con ensalada). Para la calidad de carnes, hay parrillas m\xE1s baratas. \r\n\
+      Para los precios de la carta, hay restaurantes con carnes mejores."
+    date: 17-01-2006
+    user: http://mi.guiaoleo.com/members/2776
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar es diminuto y no hay posibilidad de conversar sin que los comensales de la mesa de al lado participen. Tardaron veinte minutos en ubicarnos, a pesar de haber llamado con anterioridad para reservar. \r\n\
+      Muy caro en relaci\xF3n al servicio. Para destacar: La comida."
+    date: 15-01-2006
+    user: http://mi.guiaoleo.com/members/10854
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Todo Excelente.
+    date: 10-01-2006
+    user: http://mi.guiaoleo.com/members/5773
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Adem\xE1s de no darme factura, ni siquiera me dieron un detalle de los consumos, simplemente me dieron un papel donde figuraba el total de la cuenta. \r\n\
+      La comida muy bien."
+    date: 20-12-2005
+    user: http://mi.guiaoleo.com/members/5486
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy buena y realmente bien hecho el asado. El precio de los vinos me pareci\xF3 alto sin motivos. Hay que comer con gaseosa."
+    date: 12-12-2005
+    user: http://mi.guiaoleo.com/members/5285
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente el servicio. La carne la cortan con cuchara.
+    date: 23-11-2005
+    user: http://mi.guiaoleo.com/members/5074
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Mollejas exquisitas.
+    date: 09-11-2005
+    user: http://mi.guiaoleo.com/members/1627
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La carne es muy buena, as\xED se paga. Las ensaladas son caras, la lechuga casi deshecha y parec\xEDa hecha unas horas antes. Los mozos son cordiales y el vino es muy bueno."
+    date: 20-10-2005
+    user: http://mi.guiaoleo.com/members/7930
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El bife que ped\xED vino hervido, con eso creo que digo lo malo que fue la comida. \r\n"
+    date: 15-10-2005
+    user: http://mi.guiaoleo.com/members/5734
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Los vinos estan rid\xEDculamente caros y no hay opciones baratas o de mediano precio. La atenci\xF3n de los mozos a veces es demasiado familiar y otras directamente mala. \r\n\
+      La carne deber\xEDa estar mejor por el precio que hay que pagar, ni hablar de las ensaladas, aguas y resto de acompa\xF1amientos que son malos y ademas car\xEDsimos. \r\n\
+      Lo \xFAnico bueno fue la provoleta de cabra, un manjar. \r\n\
+      Ideal para que un turista nos invite."
+    date: 10-10-2005
+    user: http://mi.guiaoleo.com/members/7652
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El mejor lugar para comer parrilla.
+    date: 06-10-2005
+    user: http://mi.guiaoleo.com/members/4206
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy recomendable por el servicio y la ambientaci\xF3n. La carne en su punto pero algo dura."
+    date: 11-08-2005
+    user: http://mi.guiaoleo.com/members/3383
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n, carne muy rica. Lamentablemente estaba lleno de turistas."
+    date: 10-08-2005
+    user: http://mi.guiaoleo.com/members/3887
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Parrilla muy recomendable. Muy buena atencion.
+    date: 15-07-2005
+    user: http://mi.guiaoleo.com/members/2519
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Escribo desde Espa\xF1a.\r\n\
+      Estuve ah\xED hace un par de semanas, y me sent\xED mejor que en casa.\r\n\
+      Gracias por todo."
+    date: 09-06-2005
+    user: http://mi.guiaoleo.com/members/2115
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy caro, mucho ruido y la comida buena. \r\n\
+      P\xE9sima atenci\xF3n."
+    date: 12-03-2005
+    user: http://mi.guiaoleo.com/members/12319
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena carne con el show a\xF1adido de que la cortan con cuchara!! La memorabilia que decora el ambiente tambi\xE9n es muy buena."
+    date: 22-02-2005
+    user: http://mi.guiaoleo.com/members/1985
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente el punto de las carnes.\r\n\
+      Riqu\xEDsimas las achuras.\r\n\
+      Muy buena la atenci\xF3n, en especial de su due\xF1o Hugo."
+    date: 27-12-2004
+    user: http://mi.guiaoleo.com/members/759
+    ambiente_rank: muy bueno

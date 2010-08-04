@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Ante la falta de asadores es una opcion aceptable pero demasiado cara sobre todo los vinos
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/4956
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La carne es buena pero no excepcional. Podr\xEDa mejorar. El servicio es atento."
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/32906
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tres bonne qualit\xE9 de viandes, portions tres copieuses mais prix un peu \xE9lev\xE9s."
+    date: 21-04-2008
+    user: http://mi.guiaoleo.com/members/44027
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Estafa para los turistas.\r\n\
+      El olor a humo se percibe desde el momento de cruzar la puerta. El pan duro. El servicio p\xE9simo. De hecho tuvimos que reclamar la comida.\r\n\
+      Mi bife de chorizo tuvo que ser recalentado tres veces, por lo cual qued\xF3 hecho una piedra.\r\n\
+      El ba\xF1o para damas no funcionaba. Una persona se encargaba de entrar al ba\xF1o de hombres para verificar que no hubiera nadie y hacer entrar a las damas.\r\n\
+      En definitiva, un desastre. "
+    date: 21-01-2008
+    user: http://mi.guiaoleo.com/members/38615
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es tradicional, o mejor dicho quedado en el tiempo, no solo en t\xE9rminos de decoraci\xF3n sino tambi\xE9n de atenci\xF3n y presentaci\xF3n de los platos. La calidad de la carne es buena, pero las ensaladas y postres son regulares. No hay buena ventilaci\xF3n y salis con olor a la parrilla pegado en la ropa. No vuelvo!!"
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/21160
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo es excelente. Regresar\xEDa a Buenos Aires, s\xF3lo para ir a comer de nuevo ah\xED. "
+    date: 11-04-2007
+    user: http://mi.guiaoleo.com/members/21420
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n de los mozos y la comida espectacular. Un muy buen representante de la parrilla argentina."
+    date: 02-09-2006
+    user: http://mi.guiaoleo.com/members/10528
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es bonito, pero no tiene personalidad. El bife de lomo es excelente, las ensaladas muy malas. El servicio generalmente pat\xE9tico, incluso dejando 10 pesos de propina nos pusieron mala cara. Adem\xE1s de que s\xF3lo por sentarte te cobran 5 pesos por cabeza. Para quien le sobre dinero bien, pero la relaci\xF3n calidad-precio es mal\xEDsima."
+    date: 27-07-2006
+    user: http://mi.guiaoleo.com/members/14818
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Tradicional, honesto y sin turistas(afortunadamente).
+    date: 28-05-2006
+    user: http://mi.guiaoleo.com/members/10638
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Sou brasileiro e como no dia 3 fazia anivers\xE1rio resolvi almo\xE7ar com minha esposa neste restaurante. Excelente decora\xE7\xE3o e os bife ainda melhores, tudo acompanahdo de um otimo tratamento. Parab\xE9ns."
+    date: 03-02-2006
+    user: http://mi.guiaoleo.com/members/6261
+    ambiente_rank: muy bueno

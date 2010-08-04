@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un lugar que esta bien ubicado y es una buena opcion para un almuerzo o cena al paso, sin demasiadas pretensiones. El mobiliario deberia ser de mejor calidad, pues tiene dos a\xF1os y esta muy desgastado. Tienen mucho por mejorar. El descuento de club La Nacion es muy bueno."
+    date: 13-06-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Simplemente fuimos para conocer otro de los restaurants con beneficio Amex. \r\n\
+      La atenci\xF3n: hay que mejorarla.\r\n\
+      La comida: se deja comer. Simplemente eso.\r\n\
+      Nada especial, para ninguna ocasi\xF3n especial, es solamente para ir comer algo y a fin de cuentas decir, Hemos comido."
+    date: 02-06-2010
+    user: http://mi.guiaoleo.com/members/77723
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El Lugar muy lindo y calido, De entrada pedimos un chorrizo y estaba muy bueno, pero despues pedimos tabla de carnes, tenia 2 variedades, y la verdad durisima la carne, despues pedimos variedad de postres, tardo como 40 minutos, y cuando vino estaba todo caliente, y el helado deretido, y para poder pedir una gaseosa o la cuenta hasta q pase el mozo paso un buen rato, recomendable para comer pastas o ensaladas, NO CARNES! Precio medio Exesivo! aunque si van con club nacion es mas razonable.,
+    date: 23-05-2010
+    user: http://mi.guiaoleo.com/members/64320
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelente ambiente, comida muy buena, de calidad y, en mi opinion, abundante. Se genera un excelente ambiente para ir en familia o en pareja, totalmente recomendable!
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/82355
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy lindo lugar, c\xF3modo, espacioso y bien decorado. Adem\xE1s cuenta con mesas al aire libre en un espacio hermos\xEDsimo. La atenci\xF3n es correcta y la comida es buena, servida en porciones abundantes. Algunos d\xEDas ofrecen descuentos. Muy bien."
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno

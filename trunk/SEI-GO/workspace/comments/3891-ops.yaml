@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: Muy Buena la ensalada, una propuesta diferente dentro del Shopping.
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/17403
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Comi el mismo Sandwich que puedo comer en culquier YPF.
+    date: 09-04-2009
+    user: http://mi.guiaoleo.com/members/31220
+    ambiente_rank: bueno

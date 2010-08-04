@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Calidad soberbia, ambiente ameno y atencion esmerada.
+    date: 14-05-2009
+    user: http://mi.guiaoleo.com/members/62307
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La calidad me pareci\xF3 buena."
+    date: 31-01-2006
+    user: http://mi.guiaoleo.com/members/6129
+    ambiente_rank: excelente

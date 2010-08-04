@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Tanto las ensaladas, como las papas fritas, la tira de asado, y chorizos y morcillas, son de mala calidad. Pero no es caro. No volver\xE9."
+    date: 14-06-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Carne mala, con mucha grasa. no lo aconsejo.
+    date: 06-04-2010
+    user: http://mi.guiaoleo.com/members/80421
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Parrilla sencilla y barata para comer bien y pagar poco
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/41418
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelente precio por la calidad de las carnes.
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/71305
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es una buena parrilla de barrio. Sin lujos ni pretensiones. La relaci\xF3n costo/beneficio es excelente. La carne es muy buena, sobre todo el vac\xEDo y la entra\xF1a. Tambi\xE9n se puede pedir para llevar."
+    date: 14-10-2009
+    user: http://mi.guiaoleo.com/members/28855
+    ambiente_rank: bueno

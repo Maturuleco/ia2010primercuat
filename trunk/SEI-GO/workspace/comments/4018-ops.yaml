@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: un lugar muy lindo para almorzar un domingo , la comida excelente , todo bien hecho y muy buena atencion.
+    date: 05-04-2009
+    user: http://mi.guiaoleo.com/members/36333
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar, especialmente el patio es muy espacial y la atenci\xF3n recibida muy buena. Lo que comi, el cordero, no es un plato normal de la carta y estaba muy bien hecho. Para mi, es un lugar muy agradable y recomendable"
+    date: 21-03-2009
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "No somos de capital y cada vez que podemos vamos all\xED a cenar. Ya llevamos a nuestros amigos y familiares porque es un c\xE1lido ambiente, tranquilo, buena m\xFAsica, buena atenci\xF3n y excelente comida. Tiene muy buenos precios."
+    date: 13-03-2009
+    user: http://mi.guiaoleo.com/members/59924
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La verdad es que es un muy buen lugar. Pasan buena m\xFAsica, es un ambiente familiar y tranquilo. Las camareras muy amables y la comida excelente. La carbonada muy rica, trae mucha carne y trozos de durazno. Un lugar para ir con amigas o con la familia."
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/50053
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Com\xED como entrada empanadas de carne cortada a cuchillo que era lo que recomendaban y parec\xEDan un guiso rodeado de masa. El revuelto gramajo con papas refritas. El vino que pedimos no hab\xEDa y no pudimos tomar caf\xE9 pues la m\xE1quina estaba rota. La pobre moza trataba de disimular todo con una buena sonrisa pero a veces no alcanza"
+    date: 18-09-2008
+    user: http://mi.guiaoleo.com/members/6268
+    ambiente_rank: malo/regular

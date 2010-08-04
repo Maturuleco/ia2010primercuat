@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Pedimos siempre Delivery, las porciones son abundantes, 
+      un restaurante muy de barrio (comida netamente casera) 
+      y la comida siempre llega en su punto.
+    date: 03-01-2009
+    user: http://mi.guiaoleo.com/members/38473
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar muy sencillo, de barrio, para comer si se est\xE1 de paso. Ped\xED un lomo a la pimienta que estaba bien a punto y era abundante ($30), mi compa\xF1era solamente un tostado ($13)"
+    date: 29-11-2008
+    user: http://mi.guiaoleo.com/members/33232
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar muy familiar, bien de barrio para un mediod\xEDa o para pedir a domicilio, comida super casera y muy abundante,atendido por su due\xF1o(personaje muy interesante)a precios m\xE1s que razonables.Nunca falla."
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Se trata de un lugar \"t\xEDpico\" para los que vivimos en cerca. Tiene mucho p\xFAblico \"estable\". Gente que se conoce, se nota, de a\xF1os. La comida es fresca y los precios son acordes. Atiende el mism\xEDsimo Mario: personaje total (ex boxeador, parco, laburante, bien de barrio). Sofisticados abstenerse. Es un lugar para comer algo rico, abundante y seguir la marcha, con el recuerdo de haber pasado por Almagro."
+    date: 13-05-2008
+    user: http://mi.guiaoleo.com/members/44868
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "T\xEDpico restaurante de barrio. Muy buena comida. Delivery y men\xFAes de mediod\xEDa con muy buenos precios."
+    date: 21-03-2007
+    user: http://mi.guiaoleo.com/members/6781
+    ambiente_rank: muy bueno

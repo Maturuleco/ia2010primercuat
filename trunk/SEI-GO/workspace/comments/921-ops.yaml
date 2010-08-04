@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un t\xEDpico bodeg\xF3n antiguo en el que lo importante es la comida. \r\n\
+      La materia prima es excelente, pidas lo que pidas. Aunque cuentan con una carta variada, es recomendable pedir platos espa\xF1oles. Los mariscos as\xED como la tortilla son muy buenos. \r\n\
+      Los mozos son muy atentos, todos de oficio, que saben qu\xE9 y como recomendar.\r\n\
+      El ambiente no es bueno definitivamente, pero uno no deber\xEDa esperar m\xE1s de un bodeg\xF3n de esas caracter\xEDsticas.\r\n\
+      Al que vayas, saldr\xE1s con olor a comida, pero no de todos habiendo comido bien. De El Rinc\xF3n, s\xED."
+    date: 14-06-2010
+    user: http://mi.guiaoleo.com/members/1357
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Una cantina espa\xF1ola, con muchas mesas pero lugares c\xF3modos. El servicio es muy bueno, mozos eficaces. La comida es bueno y abundante, salvo el asado que no lo recomendamos. La tortilla espa\xF1ola es una fiesta!"
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/72188
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Comida normal, pero tendr\xEDan que enviar con la cuenta un vale para la peluquer\xEDa, y otro para tintorer\xEDa, ya que se sale con un olor a fritanga impresionante"
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/70115
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui con mi novia para comer algo asi no mas y cumplio con las magras expectativas. Los ravioles al pesto estuvieron \"bien\" mientras que el asado - a la plancha - y las papas fritas espa\xF1olas fueron de lo mejor. Cerveza solo de 3/4 y de marca nacional horrible. El lugar no es mas que un bodegon; por eso, si quieren comida casera, hagansela en sus respectivas casas. Vale la pena para ir una vez y nada mas."
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/53321
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Si bien la comida es casera y la atenci\xF3n fue r\xE1pida, no me gust\xF3 el olor a fritanga que hay en todo el local. Algo importante para destacar es que los ba\xF1os se encuentran en el primer piso, lo cual hace complicado el acceso para personas mayores."
+    date: 03-01-2009
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: la primer impresion fue horrible porque habia un olor a "fritanga" tremendo, despues la comida es tipo casera, y la tortilla de papas excelente!!
+    date: 28-06-2008
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Las rabas, la tortilla espa\xF1ola y la paella son excelentes, del resto no opino, porque cuando voy solo como eso. El lugar es antiguo y un poco descuidado, parece una fonda de las de antes,con sus olores y sus des\xF3denes, y eso es otra de las cosas que tambi\xE9n me atrae del lugar. Los precios son muy accesibles. Para ir con amigos o la esposa despu\xE9s de varios a\xF1os de casados."
+    date: 07-06-2008
+    user: http://mi.guiaoleo.com/members/48077
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Comida muy aceptable, con platos simples t\xEDpicos de boliche. Atenci\xF3n aceptable. El ambiente bastante feo, con mesas que se mueven, cerca de alg\xFAn dep\xF3sito o al lado de bolsas que no se sabe que contienen. Las mesas buenas se ocupan temprano o est\xE1n reservadas."
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/10877
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un boliche de los de antes; es como si el reloj hubiera vuelto 30 a\xF1os para atr\xE1s. El lugas es fe\xEDto, el servicio profesional y eficiente aunque no muy amable. Platos de los de antes: tomates rellenos con at\xFAn, matambre con rusa, milanesas con papas fritas, suprema maryland, costillitas de cerdo a la riojana, etc. Precios bajos (al 24/5/07) a\xFAn hab\xEDa alg\xFAn plato a 1 d\xEDgito. Ambiente familiar, del barrio. Para comer bien y barato, sin la menor pretensi\xF3n."
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/8329
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es excelente. Rica y casera. Minutas abundantes y postres ricos tambi\xE9n. La \xFAnica desventaja es el ruido y el olor a comida que te queda en la ropa."
+    date: 17-02-2007
+    user: http://mi.guiaoleo.com/members/16892
+    ambiente_rank: malo/regular

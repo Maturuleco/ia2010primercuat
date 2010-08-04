@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me sent\xED muy a gusto, el ambiente es muy familiar, lo recomiendo 100%."
+    date: 03-08-2005
+    user: http://mi.guiaoleo.com/members/3181
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Estuve en uno de los boxes festejando mi aniversario y la verdad la pas\xE9 muy a gusto."
+    date: 30-07-2005
+    user: http://mi.guiaoleo.com/members/3185
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida lleg\xF3 a la mesa en forma r\xE1pida y muy rica adem\xE1s de abundante, los mozos experimentados atendieron muy bien."
+    date: 09-06-2005
+    user: http://mi.guiaoleo.com/members/2113
+    ambiente_rank: muy bueno

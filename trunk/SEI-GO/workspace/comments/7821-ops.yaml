@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un restaurant con una muy agradable ambientaci\xF3n,pero donde est\xE1 muy descuidada la ac\xFAstica ya que al haber mucha gente,practicamente hay que hablar a los gritos;una l\xE1stima.La comida es de muy buena calidad y sabor con porciones algo justas y a precios algo elevados;al igual que los postres.Lo que logra con el descuento de la gu\xEDa oleo,una relaci\xF3n precio-producto,s\xF3lo correcta."
+    date: 03-07-2010
+    user: http://mi.guiaoleo.com/members/19407
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy conforme con la comida, las carnes son de calidad. Y las pastas son abundantes y se nota que son caseras. El lugar es calido, la atencion es excelente, hizo que nos sintieramos muy comodos.
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/84363
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Me agrado, ambiente fammiliar , comida con gusto casero , muy rica, La carta de vino tiene pocas marcas pero muy buenas, la atencion muy cordial. Los precios no tan altos y buenas porciones. Pienso volver.
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/84685
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "La carne estaba media dura. El chorizo y la morcilla correctos. Vinos caros.A\xFAn con el descuento de Oleo es caro pues no ten\xEDamos mucha hambre as\xED que se compartieron platos, pero el precio final no se correspond\xEDa con la comida."
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/9688
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Comi un mix de carnes y la carne estaba 5 puntos, las papas fritas y ensalada buenas, pero las porcines no son para nada enormes.La panera, buenisima. Con el descuento de guia oleo, buena relacion precio - producto, sin este seria caro por lo que te dan.
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/18643
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "De afuera enga\xF1a. Entr\xE1s y te encontr\xE1s con un sal\xF3n de geometr\xEDa irregular, con piso de cemento alisado y pintura verde de piso a techo, feo para mi gusto. Muy, pero muy ruidosos. La atenci\xF3n fue correcta. La parrilla mediocre. Ped\xED trio de cortes: vac\xEDo, entra\xF1a y tira. La carne est\xE1 marcada, no es tierna, realmente descartable. El pur\xE9 de papas lleno de agua. Y la panera consist\xEDa en pan de supermercado calentado, con una m\xEDnima raci\xF3n de queso crema con un poco hierbas. No volver\xE9."
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Buenisimoo el ambiente, muy tranquilo para cenar!, la comida muy casera y muy rica la carne bien cocida y tierna. Las papas al plomo muy ricas!
+      Y el postre de la mousse altamente recomendable!a los que nos gusta el chocolate amargo.
+      Recomendable el lugar!..
+    date: 27-06-2010
+    user: http://mi.guiaoleo.com/members/84368
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida y muy buena la atenci\xF3n de los mozos. El lugar esta muy bueno, me gusto mucho la decoraci\xF3n, y las mesas y sillas que son muy comodas.\r\n\
+      De las parrillas que vi en Palermo, esta fue una de las que mas me gustaron."
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/50187
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: me encanto la pasta con salmon...riquisisisimo!!!me  gusto mucho...volvere..
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/84469
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui con mi familia para el d\xEDa del padre y nos encant\xF3!! Muy recomendable la tabla La Ruka y la mousse es buen\xEDsima!!!!, el ambiente es muy tranquilo, todo el personal es s\xFAper atento y predispuesto y a un precio razonable. Sin duda volveremos!!!!"
+    date: 20-06-2010
+    user: http://mi.guiaoleo.com/members/84511
+    ambiente_rank: muy bueno

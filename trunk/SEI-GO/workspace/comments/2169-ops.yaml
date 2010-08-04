@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Qu\xE9 le pasa a mi favorecido del mediodia? Que sea la crisis? \r\n\
+      Ya lo not\xE9 durante mi viaje precedente, hace dos meses. Las propostas del dia perdieron en fantasia, y desaparecieron varias caras de camareras. El servicio se hizo mas lento y poco atento, y por un tiempo no se acept\xF2 VISA.\r\n\
+      Ojal\xE0 que recupere."
+    date: 30-11-2009
+    user: http://mi.guiaoleo.com/members/72893
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Una buena opci\xF3n para el mediod\xEDa en microcentro. El lugar no es muy amplio, pero est\xE1 bien armado pese a la escazes de espacio. La atenci\xF3n que recibimos (fuimos varios) fue esmerada y r\xE1pida. La comida de muy buena calidad. El precio razonable."
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: No suelo entrar a esta paginas, pero despues del otro dia senti que tenia que decir esto.a pesar de ser un lugar agradable, la atencion no fue buena, principalmente por la camarera llamada ana.no me dio ganas de volver por su mala atencion.
+    date: 16-04-2009
+    user: http://mi.guiaoleo.com/members/61283
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena comida tiene imaginaci\xF3n, ambientaci\xF3n buena, sobresale la atenci\xF3n"
+    date: 24-10-2008
+    user: http://mi.guiaoleo.com/members/5952
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida es muy buena, hay tres o cuatro opciones para elegir, todas de primera calidad y muy bien presentadas.\r\n\
+      La atenci\xF3n de los mozos no es muy buena y las porciones son algo escasas. \r\n\
+      Otro punto a mejorar ser\xEDa brindar una panera m\xE1s generosa."
+    date: 12-01-2007
+    user: http://mi.guiaoleo.com/members/15797
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es excelente. La comida adem\xE1s de ser de excelente calidad, es muy original. Ideal para tomarse una hora y comer tranquilo. \r\n\
+      La atenci\xF3n es excelente."
+    date: 21-09-2006
+    user: http://mi.guiaoleo.com/members/4422
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Riqu\xEDsimos los platos, muy bien presentados. La atenci\xF3n muy buena. El lugar muy agradable."
+    date: 23-06-2006
+    user: http://mi.guiaoleo.com/members/9488
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Sin lugar a dudas el lugar ideal para quienes trabajamos en el caos del centro. La comida excelente y el servicio y la ambientaci\xF3n ideal para olvidarse de todo un rato y disfrutar."
+    date: 06-04-2006
+    user: http://mi.guiaoleo.com/members/7604
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una de las mejores opciones para ir al mediod\xEDa. He ido muchas veces y el servicio siempre es excelente y la comida no se queda atr\xE1s."
+    date: 22-03-2006
+    user: http://mi.guiaoleo.com/members/1715
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente para men\xFA del mediod\xEDa."
+    date: 22-03-2006
+    user: http://mi.guiaoleo.com/members/7179
+    ambiente_rank: muy bueno

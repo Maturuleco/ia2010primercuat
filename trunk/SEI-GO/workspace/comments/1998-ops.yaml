@@ -1,0 +1,15 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar deja mucho que desear, est\xE1 muy venido abajo. Paredes descascaradas y sillones rotos.  La comida es un desastre. La moza nunca nos prest\xF3 atenci\xF3n y no hab\xEDa nada de lo que estaba en la carta."
+    date: 09-11-2006
+    user: http://mi.guiaoleo.com/members/8753
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No era la primera vez que \xEDbamos, pero si la primera que com\xEDamos sushi. \r\n\
+      La verdad es excelente la calidad, genial la comida. El postre igual y el servicio excelente.\r\n\
+      Para recomendar notablemente, en pocos lugares me gust\xF3 tanto el sushi."
+    date: 07-09-2006
+    user: http://mi.guiaoleo.com/members/11798
+    ambiente_rank: muy bueno

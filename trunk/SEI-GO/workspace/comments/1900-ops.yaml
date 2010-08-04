@@ -1,0 +1,230 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El lugar es c\xE1lido y bien ambientado con una m\xFAsica tranquila que permite la charla, la atenci\xF3n es buena, muy atentas las mozas, con respecto a la carta de vinos, me pareci\xF3 un poco acotada y el primer vino que le pedimos no lo ten\xEDan, pedimos raviolones (6 seis)de salm\xF3n a la crema con langostinos (no ten\xEDan) y mejillones, los ravioles parec\xEDan de supermercado y eran desabridos y bondiola con cebollas caramelizadas y papas r\xFAsticas, la que estaba muy pasada de coci\xF3n.\r\n\
+      No es un lugar para recomendar.Espero que sirva para un mejor servicio."
+    date: 07-05-2010
+    user: http://mi.guiaoleo.com/members/67774
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Reservamos con un grupo de amigos para pasar el dia del amigo y la verdad que la pasamos muy bien.La comida salio a tiempo, muy rica y sabrosa, tiene platos muy buenos y abundantes, se come muy bien.
+      recomiendo los ravioles de salmon.
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/66048
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es excelente, muy bien decorado en un estilo arabe, la carta es variada y da desde una cena a un after, un detalle: las mesas tiene copas de todos los tama\xF1os formas y colores, es un lugar muy atractivo.\r\n\
+      Lo recomiendo"
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Al principio hac\xEDa fr\xEDo dentro del local, a pesar del fr\xEDo que hac\xE1 afuera, adem\xE1s, nos hab\xEDamos sentado al lado de una ventana y entraba mucha corriente de aire, as\xED que nos tuvimos que cambiar de mesa. La comida fue la peor que com\xED en vida, pedimos bondiola a la parrilla y no solo era una porci\xF3n bastante austera sino que llena de grasa y medio gomosa, las papas que acompa\xF1aban estaban mal cocidas y desabridas. No soy una persona exigente, pero no me gust\xF3 y eso que no soy exigente. El resto, bien... buena atenci\xF3n, buen precio."
+    date: 05-06-2009
+    user: http://mi.guiaoleo.com/members/8443
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es una esquina que llama la atenci\xF3n. La pizarra menciona comida \xE1rabe, el lugar desde afuera llama la atenci\xF3n, al menos a la noche, con ciertas reminiscencias \xE1rabes. Al entrar uno siente tango electr\xF3nico y una carta \x93muy argentina\x94. La comida es buena, no de autor, pero si muy bien hecha y abundante. Los postres tambi\xE9n son una mezcla muy local. Es un buen restaurante, pero que se queda ah\xED por no tener una propuesta definida."
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "barato, en el nivel justo de un restaurant con comida abundante sin sofisticaci\xF3n"
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar est\xE1 bueno, es un esquina con grandes ventanales y de noche muy bien ambientado. La comida es buena y la atenci\xF3n normal. La carta de vinos tiene buenas opciones y a precios recomendables."
+    date: 12-03-2009
+    user: http://mi.guiaoleo.com/members/20238
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es muy lindo, en una esquina muy agradable, adentro es tranquilo y con una c\xE1lida ambientaci\xF3n. La tabla para 2 es abundante, y muy rica. Buena atenci\xF3n de los mozos. Ca\xEDmos de casualidad, y realmente salimos muy conformes. Volvemos seguro!"
+    date: 10-01-2009
+    user: http://mi.guiaoleo.com/members/58878
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un lugar que de afuera no llama mucho la atencion, pero cuando uno entra es bastante agradable. La atencion es esmerada, aunque los mozos no son suficientes. La carta tiene pocos platos pero muy bien preparados. El ambiente es como el salon de una casa. Bien preparado.
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos con una amiga a tomar algo y comimos unas cositas dulces, muy ricas por cierto. Nos atendieron bien y nos quedamos con ganas de ir a cenar otro d\xEDa."
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tras llevarnos una decepcion en el Club Armenio, donde tardaron mas de 50 minutos para atendernos, nos fuimos. Llegamos a la esquina, y descubrimos Kendra.Excelente la tabla de comida arabe, tanto por su calidad, y por la abundancia.Por no ser un lugar que se especializa en ese tipo de comida realmente sorprendio. La atencion fue optima, la moza muy servicial y calida, acompa\xF1aba el ambiente romantico. Ideal para ir en parejas, la iluminacion es lo mejor. Altamente recomendable."
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/33392
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Excelente atenci\xF3n y de la comida de la tabla de mariscos, algunas cosas eran muy buenas y otras regular. "
+    date: 22-02-2008
+    user: http://mi.guiaoleo.com/members/35061
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es car\xEDsimo y no lo vale.  Cero calidez en la atenci\xF3n.  La comida es com\xFAn, de gourmet no tienen nada.\r\n\
+      No vuelvo."
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/37813
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Carisimo, una tabla para dos o tres 70$. Tallarines con salsa de hongos 28$ mas 4 de cubierto.
+      
+      Lo peor fue la atencion, la moza me empujo dos veces mientras iba y venia, a una amiga le tiro parte de un destornillador en el saco. 
+      
+      Tardaron mucho en traer la comida, que para ser para dos otres personas era muuy pobre y con la carne cruda. Eramos los unicos alli, y fuimos porque perdimos la oportunidad de ir a otro lugar, recien tipo 23hs calleron dos parejas mas.
+    date: 29-12-2007
+    user: http://mi.guiaoleo.com/members/37563
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n y muy buena la comida. Tuvimos que esperar que se desocupe una sola mesa y nos invitaron una copa de vino mientras esper\xE1bamos. Muy recomendable y muy buen ambiente."
+    date: 15-12-2007
+    user: http://mi.guiaoleo.com/members/6337
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Entre pensando que era un restaurante \xE1rabe gourmet, por los carteles y la tipografia. Luego vi que en el vidrio decia lugar de tapas. La carta decia todo lo contrario, una mezcla de comidas de distintos lugares, mas bien comunes. Pedi dos cosas de la carta que no tenian(y era sabado) por lo que termine comiendo unos ravioles que no estaban mal. Luego pedi un postre que tampoco tenian y nos ofrecieron brownie con helado (que no estaba en la carta) y frutas entre masa quebrada con limon. El brownie vino sin helado, y las frutas sin la masa, es decir, era una simple ensalada de frutas que valia 14 pesos sin la masa prometida en la carta. Hice el reclamo y nada me contestaron, solo me ofrecieron agregarme la bocha de helado. A la hora de pagar, ninguna consideracion a todo eso. Lo unico gourmet fue el precio. Tendrian que definir un poco mas el estilo, porque entre tanta cosa, se confunde y no es lo que uno piensa."
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/33618
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Rica comida a muy buen precio, la atenci\xF3n muy amable y r\xE1pida en un agradable y c\xF3modo establecimiento, para volver y probar m\xE1s platos.\r\n\
+      Lo recomiendo."
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/14801
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Todo muy bien.
+    date: 25-08-2007
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Nos fuimos muy contentos luego de saborear una gran variedad de platos arabes y armenios servidos en buena cantidad. La atencion fue muy agradable y el lugar es acogedor y tranquilo. Lo unico negativo es el precio demasiado elevado. "
+    date: 22-08-2007
+    user: http://mi.guiaoleo.com/members/22323
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hace unos d\xEDas tuve el placer de festejar mi cumplea\xF1os en el living de Kendra (subsuelo): un lugarcito excelente para una reuni\xF3n con clima c\xE1lido y acogedor (hasta 35 o 40 personas). Tanto mis invitados como yo la pasamos b\xE1rbaro, gracias a la propuesta de Rub\xE9n y Ver\xF3nica que se ocuparon de armar todo para permitirnos disfrutar de una velada con comida muy rica, atenci\xF3n personalizada y cuidado en todos los detalles, por ejemplo la exquisita torta especialmente preparada para la ocasi\xF3n. Muy recomendable!"
+    date: 22-04-2007
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida era buena, sabrosa y en su punto. La atenci\xF3n fue amable y correcta. El ambiente es tranquilo y con mesas bien separadas, pero la ventilaci\xF3n es muy mala ya que cada tanto era invadido por el olor a comida de la cocina. Al ir para los ba\xF1os el calor es insoportable. "
+    date: 07-04-2007
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente calidad de comida, muy buena atenci\xF3n. La ambientaci\xF3n es agradable. Los fines de semana hay show de m\xFAsica flamenca y odalisca, es un ambiente muy amigable. Lo recomiendo."
+    date: 15-03-2007
+    user: http://mi.guiaoleo.com/members/21960
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Verdaderamente un fiasco. \r\n\
+      La atenci\xF3n es muy poco profesional y el ambiente malo, hab\xEDa mucho olor a humo de la cocina. Ped\xED un cordero con pur\xE9 rojo y hojas verdes. No era m\xE1s que un churrasco de cordero, sin gusto, en vez de pur\xE9 vinieron papas al horno, las hojas verdes eran unas simples hojas de lechuga y un poco de morr\xF3n. Desastre. \r\n\
+      El postre fue lo peor: el tiramis\xFA vino congelado en su interior y la creme brulee helada.\r\n\
+      No vuelvo nunca m\xE1s."
+    date: 18-02-2007
+    user: http://mi.guiaoleo.com/members/4850
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es agradable, tranquilo y con linda ambientaci\xF3n. \r\n\
+      Las tablas son abundantes y recomendables."
+    date: 21-01-2007
+    user: http://mi.guiaoleo.com/members/15020
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No imagin\xE9 encontrarme con tan buena calidad de comida. Los ravioles de salm\xF3n rosado son muy ricos; el cordero es muy sabroso, diferente al estilo criollo. El ambiente \xE1rabe es extra\xF1o, pero agradable. "
+    date: 07-01-2007
+    user: http://mi.guiaoleo.com/members/14612
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar se llama \"Kendra: restaurante gourmet\" y la carta promete. As\xED es que entr\xE9 buscando alguna ensalada y postre gourmets. En lugar de eso me encontr\xE9 con un mont\xF3n de lechuga y una pechuga de pollo grill\xE9 y por todo toque gourmet unas semillas de s\xE9samo. La carta de postre promet\xEDa m\xE1s: \"Sucre de frutas frescas\", cuya descripci\xF3n era frutas de estaci\xF3n entre masa de lim\xF3n y helado de americana con salsa de frutas. En lugar de eso me trajeron un plato con frutas y una bocha de helado, la vieja y querida ensalada de frutas. Para una ensalada fr\xEDa y una ensalada de frutas con helado estuve casi dos horas. El servicio dej\xF3 bastante que desear, aunque el lugar estaba casi vac\xEDo. El precio: lo \xFAnico gourmet, $31 con agua mineral y un cortado. \r\n\
+      El ambiente estaba bien. No volver\xE9."
+    date: 20-12-2006
+    user: http://mi.guiaoleo.com/members/8349
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 el lugar y la comida pero la atenci\xF3n, no tanto. "
+    date: 21-10-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n. La mejor onda, como siempre. El ambiente es excelente."
+    date: 20-09-2006
+    user: http://mi.guiaoleo.com/members/12239
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comida mediterr\xE1nea excelente, con calidad e imaginaci\xF3n.\r\n\
+      Atenci\xF3n amigable, no acartonada. Bastante salado el precio."
+    date: 08-07-2006
+    user: http://mi.guiaoleo.com/members/9928
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena ambientaci\xF3n. Un lugar muy c\xF3modo y reservado. Buen espacio entre mesas, me gust\xF3 mucho."
+    date: 10-03-2006
+    user: http://mi.guiaoleo.com/members/6920
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atencion de los mozos y muy comoda ambientaci\xF3n."
+    date: 09-11-2005
+    user: http://mi.guiaoleo.com/members/4729
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida estuvo de \"bien a muy bien\". La ambientaci\xF3n es rara, sin estilo... casi kitsch. \r\n\
+      El servicio muy malo."
+    date: 17-09-2005
+    user: http://mi.guiaoleo.com/members/2484
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar, ideal para festejar cumplea\xF1os, en el sotano est\xE1s tan comodo como en tu hogar. \r\n\
+      Comida riqu\xEDsima y el trato es muy amistoso. Altamente recomendable."
+    date: 08-09-2005
+    user: http://mi.guiaoleo.com/members/3761
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Buen\xEDsimo el sotano que tiene para hacer reuniones privadas."
+    date: 08-09-2005
+    user: http://mi.guiaoleo.com/members/3760
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n, buena cocina, mejor ambientaci\xF3n."
+    date: 05-09-2005
+    user: http://mi.guiaoleo.com/members/3723
+    ambiente_rank: excelente

@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: muy buenos los tragos!
+    date: 19-01-2010
+    user: http://mi.guiaoleo.com/members/76219
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es ideal para la gente q gusta de toda la cultura brasilera, comida, musica, gente, etc. Ideal para ir en grupo ya q dpues se pone para bailar!
+    date: 25-02-2009
+    user: http://mi.guiaoleo.com/members/58860
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es buena y abundante, con precios excelentes. \r\n\
+      El ambiente es bueno, hay de todo para todos los gustos. El espacio no es muy grande pero los shows estan b\xE1rbaros.\r\n\
+      Los miercoles est\xE1 copado y los fin de semana est\xE1 bueno hasta las una, despu\xE9s  hay mucha gente y se convierte en boliche."
+    date: 12-12-2005
+    user: http://mi.guiaoleo.com/members/5282
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es realmente muy bueno, la comida es deliciosa y el show divertido. Est\xE1 bueno para pasar un buen rato."
+    date: 02-11-2005
+    user: http://mi.guiaoleo.com/members/4639
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "la cerveza esta un poco cara, $10. Hay que bajar el precio y aparte atualizar la m\xFAsica, sobre todo la electr\xF3nica.\r\n"
+    date: 17-09-2005
+    user: http://mi.guiaoleo.com/members/3888
+    ambiente_rank: excelente

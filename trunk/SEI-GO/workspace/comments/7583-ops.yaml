@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida excelente, fresca y casera, muy buena la presentaci\xF3n y el sabor, recomendable!. \r\n\
+      Le faltaria un vuelta de rosca a la ambientaci\xF3n para que sea m\xE1s c\xE1lida y amena e invite a \"estar\"."
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/83240
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente servicio. La comida es casera y se nota que hecha en el momento. Las pastas insuperables. Muy recomendable para una cena rom\xE1ntica"
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/81182
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Todo excelente.
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/80378
+    ambiente_rank: excelente

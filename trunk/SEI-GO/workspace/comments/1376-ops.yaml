@@ -1,0 +1,425 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo mejor de este lugar es el ambiente. HAy que ir para conocer el jardin zen y la hermosa decoraci\xF3n del lugar. La comida del resto no es muy variada y la casa de te era mejor con la anterior repostera. De todas formas es un buen lugar (mas para tomar el te que para comer) ya que es caro el restorante por lo que ofrece."
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/58105
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En un lugar que enamora con la decoraci\xF3n tuve el gusto de probar una comida china mucho m\xE1s sana y gourmet. Un buen plato agridulce y unos riqu\xEDsimos profiteroles de postre. La atenci\xF3n un poco lenta pero muy amable y el t\xE9 estaba un tanto fuerte."
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/84063
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lo mejor es, sin dudas, el ambiente. La decoraci\xF3n es a mi gusto muy acertada, y el espacio con la muestra de arte le suma mucho al lugar (yo recomiendo no irse sin subir a verla). El jardincito es precioso, un lugar de paz en medio de la ciudad.\r\n\
+      El servicio fue correcto y la comida nada del otro mundo, pero con precios de comida extraordinaria. Pedir\xEDa un poco m\xE1s de realismo ah\xED."
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El ambiente lindo, la comida buena; la atenci\xF3n, cuando el lugar esta lleno, es mala, para ir a la tarde es ir a sufrir, realmente. La gente se levantaba para llamar a la camarera, muy amable ella, pero parec\xEDa que no hubiera nadie asignado a nuestro sector, y que la persona que nos atend\xEDa deb\xEDa hacer otras miles de cosas, porque nunca nos prest\xF3 atenci\xF3n. Una mala experiencia para no volver."
+    date: 21-03-2010
+    user: http://mi.guiaoleo.com/members/33686
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "Fuimos dos personas a comer torta a la tarde.\r\n\
+      el mozo nos atendi\xF3 muy bien,el lugar no est\xE1 muy bien decorado(tiene exceso de rojo).\r\n\
+      en cuanto a la carta es muy pobre,solo tiene 4 tortas(que tranquilamente las podia hacer yo en mi casa).\r\n\
+      los precios son caros por el servicio que ofrecen.una decepci\xF3n.\r\n\
+      ah! el ba\xF1o de mujeres no estaba muy limpio que digamos"
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/78341
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente muy bueno y relajado, el moso nos atandi\xF3 muy bien. Buen espacio entre cada mesa.\r\n\
+      Un poco caro en relacion a los platos que ofrecen."
+    date: 18-02-2010
+    user: http://mi.guiaoleo.com/members/23603
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "Excelente servicio en un buen ambiente aunque con mesas muy cercanas. La comida sin sabor, el salm\xF3n repasado y el arroz salteado parec\xEDa un risotto comprado en el supermercado. Precios injustificados con comida de este calidad."
+    date: 06-01-2010
+    user: http://mi.guiaoleo.com/members/6268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Para el precio (50 pesos por platos principales) estabamos esperando mucho mas. El ambiente esta lindo, y el servicio esta bueno pero la comida esta malo - sin mucho sabor, como todo esta preparando de un microonda sin ingredientes frescas. No pueden justificar sus precios con comida de este calidad.
+    date: 01-01-2010
+    user: http://mi.guiaoleo.com/members/72033
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comida china \xE0 la page, sabrosa y bellamente presentada. Muy buen gusto en la ambientaci\xF3n, de lo mejor en el \"barrio chino\" de Belgrano. La imagen del Buddha (Buda) sobre el canchero soporte de cemento y el fondo de la pared bord\xF3 preside el sal\xF3n comedor y brinda una especial serenidad. Eficiente atenci\xF3n y amable la invitaci\xF3n de un rico t\xE9 con c\xE1psulas de cardamomo."
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El servicio un poco lento.\r\n\
+      El men\xFA no es muy variado.\r\n\
+      La presentaci\xF3n de los platos es excelente.\r\n\
+      \r\n\
+      Cierran bastante temprano por la noche."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/73189
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es la segunda vez que voy y me decepcion\xF3 un poco, no han aggiornado la carta en un a\xF1o. No ten\xEDan langostinos (sus mejores platos los incluyen).  La carta de vinos es en extremo reducida.  A las 12.30 nos anunciaron que estaban cerrando. Esperaba mas de la experiencia."
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/25301
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la ambientaci\xF3n y el servicio. El t\xE9 rojo con cardamomo es exquisito, y probamos dos tortas: el cheesecake hecho al vapor, y passion cake (con chocolate y maracuy\xE1), ambas buen\xEDsimas, recomiendo 100% el cheesecake, es original, sutil y riqu\xEDsimo."
+    date: 31-08-2009
+    user: http://mi.guiaoleo.com/members/19604
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar para deleitarse con un almuerzo oriental. Los platos estuvieron muy abundantes y deliciosos. El lugar ambientado en forma muy c\xE1lida, con un concepto muy acogedor, es muy recomendable para tomar el t\xE9 de la tarde con una opci\xF3n alternativa de tortas chinas, el t\xE9 para tomarse el \"cardamomu\" a probarlo!"
+    date: 04-06-2009
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una perlita en el barrio de Belgrano.\r\n\
+      En una zona muy poco agradable, este restaurant, al ingresar, hace que sientas que est\xE1s en un lugar completamente distinto.\r\n\
+      En un ambiente tranquilo, relajado, c\xE1lido, elegante, ofrece una carta no muy variada pero con excelentes sabores.\r\n\
+      Uno de mis preferidos!"
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/32925
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "me pareci\xF3 muy caro"
+    date: 01-04-2009
+    user: http://mi.guiaoleo.com/members/31096
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Si bien hicimos reserva y solo una mesa estaba ocupada cuando llegamos debimos llamar 3 x al mozo para que tomara el pedido. Es hora que el servicio en Buenos Aires deje de pensar q trabaja para alguna griffe de ropas \"fashion\" y crea q el comensal quiere pedir, degustar y disfrutar sin tener que llamar sendas veces al mozo...Hay que ganarse la propina...La comida correcta, pero los sabores...hmmm...mucho para aprender sobre cocina fusion (lo digo como cocinera). Precio del porron de cerveza: CARISIMO. Postre a base de tofu y mburucuy\xE1 muy sabroso, delicada textura. Pagamos 75 x persona.."
+    date: 08-03-2009
+    user: http://mi.guiaoleo.com/members/38124
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida me parecio excelente y abundante, muy buena mezcla de sabores. El lugar es bellisimo la decoracion impecable. la atenci\xF3n del mozo muy buena. La carta me parecio un poco acotada, muy poca variedad de platos, pero muy ricos. El precio es un poco abultado, si bien el lugar y la comida es muy buena me parece muy caro."
+    date: 03-03-2009
+    user: http://mi.guiaoleo.com/members/23818
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "lindo lugar, muy tranquilo y con buena atenci\xF3n. recomendable para tomar el t\xE9. las tortas son ricas, aunque un poco caras."
+    date: 14-02-2009
+    user: http://mi.guiaoleo.com/members/3167
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: En mi opinion es el restaurant chino mejor ambientado de todos los que conoci. La comida es muy sabrosa y los platos son bastante originales a diferencia de los clasicos chau mien chau fan y demas que se suelen encontrar en los otros lugares. Si bien te hacen notar en el precio esa diferencia creo que igual vale la pena pagar un poco mas por un poco mas de calidad en todo.
+    date: 05-02-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es un oasis en Chinatown. Muy bien ambientado, con m\xFAsica suave. Fuimos al mediod\xEDa aprovechando la festividad del a\xF1o nuevo taiwan\xE9s. Los platos no son para compartir pero est\xE1n muy bien presentados y preparados. Vale la pena. Un tip: no perderse subir a la terraza para ver el jard\xEDn oriental. Sin duda volver\xE9 para probar el lugar como casa de t\xE9."
+    date: 18-01-2009
+    user: http://mi.guiaoleo.com/members/54165
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un oasis de buen gusto, armon\xEDa y paz oriental. La ambientaci\xF3n est\xE1 a a\xF1os luz de otros representantes de la gastronom\xEDa del Barrio Chino y las opciones del men\xFA son a cu\xE1l m\xE1s tentadora a la hora de pedir; gracias a la orientaci\xF3n del mozo me decid\xED por una entrada exquisita de ravioles de cerdo y una maravilla de arroz con mariscos (vieyras, calamares y camarones) envuelta en un omelet gigante que estuvo riqu\xEDsima y que no pude terminar. Me encant\xF3 toda la propuesta!"
+    date: 06-01-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Las tortas son buenas, sin llegar a ser exquisitas. El t\xE9 es muy bueno y el caf\xE9 ... cuando llega es aceptable. Precio/calidad? Caro para lo que dan. El servicio me pareci\xF3 p\xE9simo y eso que hab\xEDa solo 4 mesas ocupadas. No creo que vaya a cenar despu\xE9s de eso."
+    date: 25-10-2008
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Nunca fu\xED a cenar, pero como casa de t\xE9 es increible, me gusta muchisimo este lugar. Muy bien ambientado y la atenci\xF3n es excelente (v\xED como alg\xFAn mozo compa\xF1aba a una clienta a elegir las tortas para acompa\xF1ar su t\xE9... pasa eso en otro lugar?). El t\xE9 de cardamamomo y el cheese cake de lima (s\xED, no es muy oriental, pero lo preparan perfectamente bien) son dos opciones para tener en cuenta. D\xEDas de frio, t\xE9 rojo con jengibre. Los precios son accesibles y, de ser posible, no vayan en hora pico para poder disfrutar del peque\xF1o patio delantero sin las molestias de la calle."
+    date: 25-09-2008
+    user: http://mi.guiaoleo.com/members/39194
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelente alternativa para los que gustan de la comida oriental elaborada. platos muy sabrosos y muy bien presentados. el lugar esta muy bien ambientado. la atenci\xF3n muy buena. aboslutamente recomendable. volveremos!"
+    date: 12-09-2008
+    user: http://mi.guiaoleo.com/members/25602
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la comida y muy bien presentada. El lugar tiene una ambientaci\xF3n con luces tenues y excelente m\xFAsica. De lo mejor del barrio chino."
+    date: 28-08-2008
+    user: http://mi.guiaoleo.com/members/45278
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida muy bien presentada y sabrosa. No es japonesa tradicional, pero el toque de autor no desvirt\xFAa lo esencial. Si bien el lugar est\xE1 muy bien decorado e iluminado con la luz justa (una media luz ideal para lograr un ambiente relajado), las mesas est\xE1n demasiado cerca y le resta intimidad a la cena."
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/7483
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: |-
+      Bueno que decir de este lugar... por un lado se contrapone la impactante imagen del lugar y la delicia de los postres, ya que fui a la hora del te ( Praline de chocolate muy recomendable), con el muy lento y mal servicio, luego de que llegue tardaron 15 min en traerme la carta y 30 min en venir a tomarme el pedido, y no habia gran cantidad de gente q justificara la demora.
+      Por lo demas... y si uno se arma de paciencia es un excelente lugar para conocer, intimo, de musica muy agradable, con unos postres al nivel del lugar.
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La ambientacion del lugar no es muy oriental, pero es muy agradable, apto para una cena intima. Para recomendar de entrada, las empanadas chinas acompa\xF1adas con una salsa de soja con hojitas de menta, son una delicia. De plato principal, los langostinos con leche de coco, tambien un manjar. Tambien pedimos un arroz con camarones, que venia envuelto de huevo revuelto frito. Todos los platos bien abundantes y con sabrosas combinaciones de ingredientes. Y para finalizar, la variedad de te, no muy amplia, pero exoticas, hacen que se haga la digestion con mucho placer."
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/32454
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3, disfrut\xE9 del lugar, que me pareci\xF3 muy c\xE1ldio(estuvimos en el sector no fumadores)\xEDntimo,la atenci\xF3n me pareci\xF3 excelente.\r\n\
+      La comida tiene muy buen sabor,muchos platos se pueden compartir, muy buena presentaci\xF3n\r\n\
+      Volver\xEDa a ir"
+    date: 31-05-2008
+    user: http://mi.guiaoleo.com/members/35684
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida es muy buena, el servicio excelente. Las mesas estan muy juntas, encima me toco un gringo griton al lado. Cuando se vac\xEDa un poco el local es m\xE1s agradable. Es para ir en pareja."
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/41106
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hermoso lugar para ir en pareja, buena m\xFAsica y hermosamente iluminado. Cuenta con una sala de exposiciones que al momento de ir expon\xEDa una muestra fotogr\xE1fica muy bien preparada. La comida me pareci\xF3 muy buena, no es precisamente china sin\xF3 mas bien Asi\xE1tica de Autor, los langostinos BudhaBA me resultaron exquisitos, pero al tempura le faltaba sabor, de ah\xED la calificaci\xF3n de Muy Bueno y no Excelente. Los fines de semana cuenta con espacio para fumadores. La atenci\xF3n muy correcta, y en lo personal incluir\xEDa alg\xFAn rosado en la carta de vinos. No es econ\xF3mico."
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/15021
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bien ambientado y con musica suave, es ideal para una salida en pareja. La comida es de excelente calidad, riqu\xEDsimo el Pat\xE9 Imperial (especie de empanada china rellena con pollo) y los langostinos BuddhaBA perfumados en leche de coco(el plato m\xE1s caro de la carta). Una muy buena opci\xF3n para comer comida china \"gourmet\"."
+    date: 26-04-2008
+    user: http://mi.guiaoleo.com/members/36390
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente ambientaci\xF3n, es un lugar m\xEDstico. Los platos son muy abundantes .La atenci\xF3n excelente"
+    date: 06-04-2008
+    user: http://mi.guiaoleo.com/members/32099
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar muy lindo y silencioso. la atencion es capacitada pero trajo con mucha diferencia de tiempo los platos de cada persona. la comida y la presentacion de la misma muy buena. es para volver.
+    date: 18-03-2008
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fuimos un martes a la noche,en principio no habia nadie pero al pasar los minutos se lleno mdianamente para ser un dia de semana teniendo en cuanta de q tiene un acapacidad aproximada de quince mesas,la comida  muy rica y abundante,la atencion fue esmerada,recomiendo para cerrar la cena en lugr de postre un cafe glaciar.
+    date: 19-02-2008
+    user: http://mi.guiaoleo.com/members/28441
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "10 puntos. Comida china fusi\xF3n de autor, una propuesta original y un lugar con toda la onda y unico en este tipo de variante. Para conocer y no te va a defraudar."
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la comida exquisita (realmente un concierto de sabores), el servicio excelente (muy atento el mozo sin ser cargoso, siempre pendiente de todo), y el ambiente muy interesante (las mesas y presentaciones muy pensadas). muy recomendable para ir en pareja, especialmente antes de las 9 que no hay mucha gente y el un ambiente intimo. no menos de $100 entre dos (noche). definitivamente voy a regresar.
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/39607
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar me pareci\xF3 excelente, igualmente s\xF3lo fu\xED al Sal\xF3n de Te, todo de primerisima calidad, atenci\xF3n, productos y ambiente."
+    date: 14-12-2007
+    user: http://mi.guiaoleo.com/members/20219
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La variedad, originalidad y calidad de los platos es excelente. El ambiente es ideal para una noche rom\xE1ntica pero se adapta para ir con amigos por las diferentes alternativas. \r\n\
+      El mozo muy atento, nos recomend\xF3 platos y siempre estuvo presente sin ser pesado.  Super recomendable! "
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/36466
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Excelente lugar para ir tranquilos... en el sector fumadores junto al estanque con peces, ambiente muy chill out, m\xFAsica suave y una muy buena atenci\xF3n."
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/6671
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es riqu\xEDsima. Fuimos varios y pedimos distintos platos para probar. Los langostinos excelentes,las gyozas, todo \xE9xcelente. La atenci\xF3n muy buena. Nos ayud\xF3 el mozo con las sugerencias, acerca del tama\xF1o de los platos, y el pedido tard\xF3 poco. El ambiente lind\xEDsimo. Parece que por un rato uno se transporta a Oriente. M\xE1s que recomendable. Es la segunda vez que voy y no nos defraudaron."
+    date: 18-10-2007
+    user: http://mi.guiaoleo.com/members/32555
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: |-
+      Muy sabrosa comida china moderna. Una increible casa reciclada a museo-restaurante.
+      El carre de cerdo con salsa agridulce imperdible al igual que el CAIPISAKE.
+      Armate de paciencia porque tardan muuucho en hacer los platos. Precios un poco elevados como para ir seguido.
+    date: 11-10-2007
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: El ambiente y el servicio estan muy buenos, pero la comida es pesima.  La salsa thai de las langostas no tenia nada de sabor -salsa de una botella parecia. El satai de lomo es un brochette con un poco de salsa de mani al lado. Las entradas eran mejores, pero tampoco recomendables. No regresaremos.
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/21236
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es bueno, pero puede mejorar.\r\n\
+      Pedimos ir a la parte de sector fumador y habia muchisimo olor: fumo, si, pero no me gusta lo antihigienico. "
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/11021
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Desde el ingreso, el ambiente envuelve con su calidez.\r\n\
+      La cantidad de mesas hace que el servicio sea prolijo y diligente. El espacio entre mesas brinda intimidad y la presentacion de platos es impecable. Si bien la carta es acotada, los sabores son muy bien logrados. Se sugiere para ir en pareja, muy recomendable. "
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/6103
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida y la atenci\xF3n fueron pasables aunque el espacio es muy limitado. El olor a flores era mucho y no me parec\xEDa buena compania para mi cena."
+    date: 24-03-2007
+    user: http://mi.guiaoleo.com/members/20565
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: calidad absoluta en comida, la atencion del mezo fue impecable,no es caro en cuanto la relacion a precio servicio producto, digno de reincidir.
+    date: 04-02-2007
+    user: http://mi.guiaoleo.com/members/20961
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Est\xE1 muy bien ambientado. Es muy tranqui, con un toque de m\xFAsica.La comida es excelente. Hay que tener cuidado porque algunos platos son muy abundantes como el oshi. No se pierdan el museo."
+    date: 09-01-2007
+    user: http://mi.guiaoleo.com/members/16038
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar distinto, muy bien ambientado. Es para comer excelente comida china. "
+    date: 04-12-2006
+    user: http://mi.guiaoleo.com/members/13211
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: En general muy bien todo, ambiente tranquilo, aperitivos recomendables, y abundantes los platos, las entradas se pueden compartir.
+    date: 05-10-2006
+    user: http://mi.guiaoleo.com/members/2844
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy lindo con muy buena opci\xF3n para los no fumadores en el jard\xEDn de oqrquideas. La comida est\xE1 buena, aunque los sabores sean lejos de Asia. El servicio fue muy atento y nos ofrecieron dos copas de champagne para disculparse de la demora en espera para la mesa que hab\xEDamos reservado. Un lugar para probar y conocer."
+    date: 30-09-2006
+    user: http://mi.guiaoleo.com/members/7381
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy buena, mai ke kai es un pescado en salsa de maracuy\xE1 y mangos muy recomendable. El lugar es muy ameno."
+    date: 05-08-2006
+    user: http://mi.guiaoleo.com/members/10904
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "El lugar es muy lindo, especialmente el sal\xF3n de orqu\xEDdeas que es s\xF3lo para no-fumadores. Una pena que la comida no acompa\xF1e, ya que si bien el ambiente es muy \"asi\xE1tico\" la comida est\xE1 occidentalizada y lejos de los sabores que uno va a buscar a ese lugar."
+    date: 04-08-2006
+    user: http://mi.guiaoleo.com/members/1628
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 muy bien puesto, el ambiente es bueno, la comida es relativamente buena. \r\n\
+      La atenci\xF3n es muy lenta, pocos mozos y tardan mucho con los platos. \r\n\
+      Para cambiar y probar algo nuevo, esta bien."
+    date: 28-07-2006
+    user: http://mi.guiaoleo.com/members/7779
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente, hac\xEDa mucho que no disfrutaba de una comida tan rica, en un ambiente muy agradable, prolijo y tranquilo. \r\n\
+      Me qued\xE9 con ganas de conocer m\xE1s la casona. \r\n\
+      Parece que la onda es ir los fines de semana."
+    date: 26-07-2006
+    user: http://mi.guiaoleo.com/members/10558
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente en la preparaci\xF3n de los platos y su presentaci\xF3n. Lo malo es la poca rotaci\xF3n que sirven, de rest\xF3.\r\n\
+      Se recomienda."
+    date: 18-06-2006
+    user: http://mi.guiaoleo.com/members/9209
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Un lugar distinto. La casona es espectacular, con museo incluido. La comida excelente. Muy recomendable.
+    date: 05-06-2006
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es atractivo y difiere del dominante en Chinatown. Los platos son -cuando menos- interesantes y la carta de t\xE9s para no ignorar. \r\n\
+      La atenci\xF2n es de tan \"cool\", un tanto g\xE9lida. \r\n\
+      Claramente orientado a parejas. Con precios m\xE1s populares, seguramente ir\xEDamos m\xE1s seguido."
+    date: 21-05-2006
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida: muy buena a buena, algunos platos muy escasos pero en general buena.\r\n\
+      El Servicio: poco profesional y un poco lento.\r\n\
+      La decoraci\xF3n excelente, muy lindo. Especial para parejas."
+    date: 21-04-2006
+    user: http://mi.guiaoleo.com/members/6980
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es transportarse a un universo ex\xF3tico, delicioso y desconocido, en medio de Buenos Aires. Cuando salimos por la puerta fue como volver a la realidad. Genial."
+    date: 27-03-2006
+    user: http://mi.guiaoleo.com/members/8854
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy lindo restaurante en el barrio chino, se esmeran en servir bien y la comida es rica, oriental en el sentido amplio. Marcela.
+    date: 14-01-2006
+    user: http://mi.guiaoleo.com/members/5849
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar tranquilo con una ambientaci\xF3n muy bonita. La comida realmente muy buena y bien presentada."
+    date: 31-12-2005
+    user: http://mi.guiaoleo.com/members/5631
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar m\xE1gico en Buenos Aires. \r\n\
+      Desde el jard\xEDn, pasando por la galer\xEDa de arte hasta la vajilla y la esmerad\xEDsima atenci\xF3n. \r\n\
+      La comida excelente, y el t\xE9 con dulcer\xEDa china una maravilla de buen gusto y sabor."
+    date: 26-08-2005
+    user: http://mi.guiaoleo.com/members/4027
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Buen ambiente, excelente comida, agradable iluminaci\xF3n. Intimo."
+    date: 30-07-2005
+    user: http://mi.guiaoleo.com/members/3107
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Equilibrio perfecto entre muy buena cocina y ambiente. Buen\xEDsimo el salm\xF3n Osaka."
+    date: 27-05-2005
+    user: http://mi.guiaoleo.com/members/2130
+    ambiente_rank: excelente

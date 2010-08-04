@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente y tranquilo restaurante del hotel, buen ambiente, muy buena y amable atenci\xF3n, vale la pena para escaparse del ruido de la city. Lo recomiendo"
+    date: 28-04-2009
+    user: http://mi.guiaoleo.com/members/15227
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Todo bueno (comida, servicio y ambiente), aunque sin destacar en ninguna de las facetas. El risoto de salm\xF3n estaba rico, pero sin llegar a lo que uno espera de un plato de 50 pesos. Ten\xEDa bastante expectativas, a tenor de la puntuaci\xF3n que ten\xEDa en la Gu\xEDa, y he salido algo defraudado. Hay muchas mejores opciones en ese rango de precios."
+    date: 10-10-2008
+    user: http://mi.guiaoleo.com/members/38518
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy rico, muy buena presentaci\xF3n, ambiente tranquilo, platos originales."
+    date: 04-09-2008
+    user: http://mi.guiaoleo.com/members/9432
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy bien 10 . Buena comida, buen ambiente, excelente atenci\xF3n dieron forma a una insuperable velada. Para recomendar y para volver."
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/36011
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me enter\xE9 que todos los jueves de octubre habia una promocion de sushi con sake a $40 p/p, excelente presentacion de los platos, exquisito el sushi, ambiente calido, tranquilo, excelente atencion, volvere todos los jueves y luego ire a probar los otros platos que son muy apetecibles a la vista.  "
+    date: 04-10-2007
+    user: http://mi.guiaoleo.com/members/9471
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es hermoso y muy tranquilo, ideal para un mediodia distinto y salir un poco del comun de los comederos del microcentro. El menu ejecutivo a un precio justo si contemplamos la calidad y elaboraci\xF3n de cada paso del menu. \r\n\
+      La atencion muy cordial y atenta. Lo recomiendo."
+    date: 25-07-2007
+    user: http://mi.guiaoleo.com/members/14242
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Como la mayor\xEDa de los restaurantes de hoteles de categor\xEDa, el ambiente es muy agradable. El servicio es de lo peor que he experimentado. La comida no es abundante, pero es buena. Los precios de algunas cosas son un abuso: un porr\xF3n chico de cerveza nacional catorce pesos. L\xE1stima, no lo recomiendo ni volver\xE9. "
+    date: 11-04-2007
+    user: http://mi.guiaoleo.com/members/16287
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente ambientaci\xF3n y muy buena presentaci\xF3n de los platos. \r\n\
+      \xC1ltamente recomendable. Muy privado."
+    date: 08-01-2007
+    user: http://mi.guiaoleo.com/members/10633
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Mucha privacidad en un ambiente excelente
+    date: 08-01-2007
+    user: http://mi.guiaoleo.com/members/16435
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n, un clima muy tranquilo, la comida muy apetecible. El precio es muy bueno, es para volver a comer."
+    date: 20-06-2006
+    user: http://mi.guiaoleo.com/members/9471
+    ambiente_rank: excelente

@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Impecable lugar para el mediod\xEDa. Buenos pescados, carta muy variada, y espacio agradable, con buena distancia entre las mesas.  Para comer bien, y poder hablar tranquilo."
+    date: 18-01-2010
+    user: http://mi.guiaoleo.com/members/6819
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida no est\xE1 mal, buena ambientaci\xF3n. P\xE9sima atenci\xF3n. Quiero destacar ya que no fue una sola vez sino que se repiti\xF3 en las 3 \xFAltimas veces, por temas de trabajo me toco volver. Los mozos no le ponen ni medio de onda, se olvidan de los pedidos, equivocan los pedidos, te los traen tarde. Lo bueno es que si sos uno de los comensales a los cuales les lleg\xF3 a tiempo y lo que pediste, vas a comer bien ya que la comida es muy buena y abundante (no en demas\xEDa, pero abundante)."
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/26295
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pedemonte es realmente un lugar para recomendar.\r\n\
+      Las porciones no s\xF3lo son generosas, sino que adem\xE1s tienen en claro lo que significa un bife \"a punto\".\r\n\
+      El ambiente es por dem\xE1s agradable y nos han atendido maravillosamente bien. "
+    date: 21-11-2007
+    user: http://mi.guiaoleo.com/members/35861
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Fuimos un grupo de seis personas.\r\n\
+      No hab\xEDa entrada, ya se hab\xEDa terminado, ni tampoco tuvimos para tomar agua mineral. Tampoco funcionaba el aire acondicionado, no se si era para ahorrar electricidad.\r\n\
+      La verdad que no sab\xEDamos qu\xE9 hacer con esta situaci\xF3n."
+    date: 11-12-2006
+    user: http://mi.guiaoleo.com/members/14298
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida fue abundante y gustosa. A la torta tibia de manzana le faltaron los frutos rojos. La atenci\xF3n fue buena, aunque quiz\xE1 un poco lenta. Buen ambiente."
+    date: 04-10-2006
+    user: http://mi.guiaoleo.com/members/12541
+    ambiente_rank: muy bueno

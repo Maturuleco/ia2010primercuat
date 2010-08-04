@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El sector privado con servicio de mesa est\xE1 muy bien, uno puede abstraerse un poco de la sensaci\xF1on \xA8shopping\xA8. La comida no es gran cosa, aunque los platos calientes son realmente abundantes. La atenci\xF3n, acorde a un servicio de shopping en horario de oficina."
+    date: 11-02-2009
+    user: http://mi.guiaoleo.com/members/54165
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "buena opcion del food mall del shopping, correcto servicio, comida acorde y con variedad, no se quedan solo en el sushi.\r\n\
+      el salon es peque\xF1o pero bien ambientado y atendido."
+    date: 24-01-2008
+    user: http://mi.guiaoleo.com/members/7696
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: No es gran cosa, el ambiente lo menos, dentro de un shopping, tiene un reservado pero es solo a la carta y no para los combos, sin esmero en la atencion, hay mejores opciones por la zona en todo sentido.
+    date: 20-12-2007
+    user: http://mi.guiaoleo.com/members/40289
+    ambiente_rank: malo/regular

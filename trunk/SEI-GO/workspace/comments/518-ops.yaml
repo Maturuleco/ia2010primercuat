@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Me cambiaron dos veces la opci\xF3n de pastas, porque no ten\xEDan y no se cocinaban bien. La carne parecia suela, la tuvimos que cambiar por la ensalada que no ten\xEDa los ingredientes que dec\xEDa la carta. No lo recomiendo para nada, y eso que no somos muy exigentes."
+    date: 18-02-2010
+    user: http://mi.guiaoleo.com/members/72304
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar espectacular, asi muchos a\xF1os que no iba y est\xE1 hermoso, un s\xEDmbolo para la Ciudad de Buenos Aires, la terraza es muy linda, es muy c\xF3modo el acceso, la comida muy rica !"
+    date: 19-01-2010
+    user: http://mi.guiaoleo.com/members/49950
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Sabado por la noche, salon completamente vacio, las rabas tenian un rebozado muy extra\xF1o, ademas no eran frescas.El carpaccio tenia una vinagreta de mostaza incomible, los verdes estaban mal presentados.\r\n\
+      Las pastas fuera de punto (semi crudas y algunas pegadas).\r\n\
+      Vajilla de mala calidad, copas pesimas.\r\n\
+      La camarera atenta y educada.\r\n\
+      no volveria."
+    date: 27-09-2008
+    user: http://mi.guiaoleo.com/members/36967
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tanto la comida como la atenci\xF3n han sido excelentes, en cuanto a los vinos faltan etiquetas m\xE1s acordes a la gastronom\xEDa ofrecida, el lugar es maravilloso."
+    date: 15-06-2008
+    user: http://mi.guiaoleo.com/members/46348
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida muy buena, aunque el servicio fue p\xE9simo. Repetimos la orden al mozo 4 veces y asi y todo nos han traido la mitad de las cosas.  Desatentos y muy muy informal la atenci\xF3n, aunque el lugar tiene un ambiente unico y una vista al rio unicas. Es recomendable solo para gente paciente."
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/22908
+    ambiente_rank: excelente

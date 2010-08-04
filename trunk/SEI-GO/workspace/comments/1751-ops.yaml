@@ -1,0 +1,293 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buenas hamburguesas. El lugar est\xE1 muy bueno, sobre todo para ir en pareja a cenar y despu\xE9s quedarse tomando algo."
+    date: 12-04-2010
+    user: http://mi.guiaoleo.com/members/13584
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: un menu con precios elevados, pero los platos son muy buenos.El lugar, ruidoso pero es normal, es un bar..y a eso sumemos que la gente es gritona.sali conforme
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/78372
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Los platos son buenos pero caros, la atenci\xF3n fue normal y el lugar es ruidoso."
+    date: 20-01-2010
+    user: http://mi.guiaoleo.com/members/68234
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Lo que probamos era muy rico, las porciones grandes, sobre todo las ensaladas, pero la verdad que muy caro para lo que pedimos.
+      El lugar lindo, ambiente tranquilo.
+      La verdad que en verano las mesitasde afuera estan bueno ya que la calle no es muy ruidosa.
+    date: 23-12-2009
+    user: http://mi.guiaoleo.com/members/38076
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: me encanta este lugar. la comida siempre es rica, abundante y precios accesibles. en cuanto a las camareras siempre se encuentran charlando en la barra con lo cual es dificil conseguir su atencion. por el resto todo excelente.
+    date: 23-09-2009
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: lindo ambiente, y mala la comida cara x lo que te sirven
+    date: 19-09-2009
+    user: http://mi.guiaoleo.com/members/67994
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Todo muy rico, los langostinos y el salm\xF3n muy frescos, y la combinaci\xF3n de la ensalada de salm\xF3n espectacular.  Ya fui otras veces a comer picada para 2, abundante y muy rica.  El ambiente agradable, m\xFAsica tranquila (siempre fui antes de las 12) y buena atenci\xF3n. recomendable!"
+    date: 27-08-2009
+    user: http://mi.guiaoleo.com/members/32100
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es muy bonito e \xEDntimo, el problema es que la m\xFAsica es muy alta lo cual impide una conversaci\xF3n de bajos decibeles. Si bien la comida no es mala, nos sirvieron una picada en un plato de porcelana bastante pobre. Las mozas son igualmente muy simp\xE1ticas y atentas. Es un lugar para conocer  y m\xE1s para tomar un caf\xE9 que para una cena abundante."
+    date: 13-07-2009
+    user: http://mi.guiaoleo.com/members/65610
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy buen ambiente y la comida es buena. para destacar los tragos, y el ambiente. la atencion depende del dia, pero en general es aceptable. recomendable
+    date: 20-04-2009
+    user: http://mi.guiaoleo.com/members/39607
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Desde hace a\xF1os, cuando queremos comer bien en Belgrano R-Colegiales en un lugar divertido que combina cancheramente bar, caf\xE9 y restaurant, nos encaminamos a The Oldest. La atenci\xF3n var\xEDa con la renovaci\xF3n del plantel, en cambio la comida guarda la consistencia de siempre. Algunos platos, por ejemplo la ensalada con salm\xF3n ahumado, son mejores y m\xE1s nobles que en muchos rest\xF3s pretenciosos y engrupidos que han crecido como los hongos y algunos ya han muerto merecidamente. Otros m\xE9ritos: ojear diarios y revistas mientras esperamos la comida y la invitaci\xF3n de la casa: caf\xE9 o delicioso Bellini."
+    date: 01-03-2009
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es excelente, la comida muy rica y la atenci\xF3n es muy buena. Recomiendo muchisimo este lugar para cenas romanticas y ricas meriendas."
+    date: 21-01-2009
+    user: http://mi.guiaoleo.com/members/54880
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "muy ricos los platos que ofrece, muy recomendable la omelette de jamon y queso. el lugar es muy agradable en todo horario y para todo tipo de comidas: desayuno, almuerzo (fast food o a la carta), t\xE9, cena o para ir a tomar algo."
+    date: 23-11-2008
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar con buena m\xFAsica, buen ambiente y donde la comida se destaca, tanto en sabores como en presentaci\xF3n. Adem\xE1s de cenar se pueden tomar buenos tragos."
+    date: 07-11-2008
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy buenas las picadas y la variedad de cervezas, en un muy buen ambiente, los precios un poco altos.
+    date: 28-09-2008
+    user: http://mi.guiaoleo.com/members/19883
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La picada es excelente, muy completa. Luego la comida fue buena. Los sorrentinos no fueron de lo mejor, pero estuvieron por encima de la media. Lo mas destacable de la velada fue el cierre, el capuccino de los mas ricos que he probado. Buen lugar para ir con poca gente buscando un trago y charlas.
+    date: 02-09-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me pareci\xF3 excesivo el precio que nos cobraron por comer una picada con cerveza."
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/49082
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Los platos son abundantes, se podria decir que para compartir entre una pareja. Es recomendable tomar cerveza ya que hay una gran variedad. Para cenar lo ideal son los box.
+    date: 24-06-2008
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos a las 10 de la noche y estaba super tranquilo, a las 12 explota. La comida excelente al igual que la atenci\xF3n. Lo malo: las mesas muy pegadas. Muy ruidoso a la 1/2 noche, no se puede hablar sin gritar. Mucho gaterio. Volver\xE9, pero al medio d\xEDa."
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/14091
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Para almorzar el fin de semana. Accesible y agradable. Carta suficientemente variada.
+    date: 10-05-2008
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buen lugar, salvo porque hay cantidad de mas de mesas y aveces se hace "imposible transitar. Salvo eso, lugar ALTAMENTE recomendable.
+    date: 30-03-2008
+    user: http://mi.guiaoleo.com/members/38095
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar chico pero acogedor. Bien ambientado, con buena m\xFAsica y a un volumen adecuado. Ideal para ir a tomar caf\xE9s, capuccinos o tragos elavorados; aunque tambi\xE9n sobresalen los platos elaborads(aunque son pocos). Son recomendables las pastas y el flan de manzana con nueces (consejo: agregarle crema). Otro punto destacable, es que est\xE1 abierto a cualquier hora."
+    date: 04-03-2008
+    user: http://mi.guiaoleo.com/members/23697
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "ambiente acogedor y buen servicio, la pr\xF3xima vez probar\xE9 las comidas de cocina.-"
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/13823
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El capuccino italiano es hermoso de rico. Lo comimos con unas tostadas con manteca y dulce de leche, son un poquito escasas pero muy ricas. El ambiente es agradable, ideal para ir con la pareja de uno. Adem\xE1s pasan partidos de futbol a veces por la pantalla gigante, sino de Rugby. Est\xE1 lleno de chetos huecos pero si uno se abstrae, la pod\xE9s pasar muy bien. "
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/23969
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Riquisimos los \xF1oquis tricolor. Yo vivia por la zona, pero sigo volviendo. Ideal para un almuerzo tranquilo. \r\n"
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Soy del barrio, as\xED que es lugar obligado de todos los finde. Es excelente desde todo punto de vista. Los platos exquisitos, los tragos enormes y bien hechos, los postres (probar si o si \"muero por chocolate)y la musica acorde al lugar. Recomendado para cenar con tu chico/a, o tomar algo con friends.\r\n\
+      ALTAMENTE RECOMENDABLE."
+    date: 25-10-2007
+    user: http://mi.guiaoleo.com/members/34540
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui de noche a comer un sandwich (\"california\") de crudo r\xFAcula queso crema y pan de campo. \r\n\
+      Estaba excelente, muy bueno! muy fresco muy rico.\r\n\
+      Y me tome un bloody mary, la barra del lugar esta muy muy buena tienen variedad y se pone lindo para tomar algo en la barra post cena. \r\n\
+      Un bar tranquilo pero con estilo. Eso si, temprano hay ni\xF1os, familia y gente grande. Para quien no guste de esto, vaya de noche."
+    date: 23-10-2007
+    user: http://mi.guiaoleo.com/members/6823
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Voy siempre con amigas, el ambiente da para charlar, recomiendo fucchilli a la italiana, exquisito plato, de postre como siempre uno que se llama \"muero por chocolate\", es especial para golosos! \r\n\
+      la atenci\xF3n es excelente, las camareras son muy amables!, los tragos son de otro mundo! ideal para ir en pareja o con amigos!"
+    date: 16-10-2007
+    user: http://mi.guiaoleo.com/members/33883
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los tragos son excelentes lo mejor que tiene ese lugar. "
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/32966
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 muy lindo, mucha onda. Las chicas q atienden se esmeran para atender bien. \r\n\
+      Lo prefiero como lugar para ir a tomar algo m\xE1s que a comer."
+    date: 07-06-2007
+    user: http://mi.guiaoleo.com/members/21261
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "\xA1La comida es muy buena! Las chicas tienen muy buena atenci\xF3n, son muy divertidas."
+    date: 22-04-2007
+    user: http://mi.guiaoleo.com/members/22076
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Como siempre, el lugar es muy bueno y la comida tambi\xE9n. La atenci\xF3n depende de qui\xE9n te atienda. Es un lugar para volver siempre."
+    date: 30-03-2007
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sinceramente, Este Pub/Rest\xF3 se ha transformado en una de mis opciones m\xE1s frecuentes para comer con amigos( de m\xE1s esta decir que soy del barrio), para invitar a una chica a un lugar lindo, donde se come bien se pueden tomar buenos tragos y con un ambiente agradable, y adem\xE1s la atenci\xF3n es buena y gentil, y su comida de una calidad muy superior a la de cualquier pub que visitado, e incluso a la altura de un resto de primer nivel.\r\n\
+      \r\n\
+      Los lunes es casi un cl\xE1sico con amigos ir a cenar y comer su men\xFA promo de pastas que es muy econ\xF3mico( su canasta de pancitos es muy buena), cambia todas las semanas y siempre es muy sabroso y sorprendente. Otros d\xEDas, he comido salm\xF3n muy bien preparado, pollo en diversas formas y sabores, y muy buenas ensaldas.\r\n\
+      Verdaderamente, se merece un nuevo voto, y con un punto m\xE1s por mantener su calidad, y nunca perderla a\xFAn con mesas llenas."
+    date: 12-03-2007
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La ambientaci\xF3n de esta vieja casona reciclada en el coraz\xF3n de Belgrano R te transporta y permite relajar un rato. La m\xFAsica es muy buena. La comida no tanto. El servicio es lento. La barra de tragos super variada, pero el daikiri o los tragos frozen no los recomiendo."
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/19840
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es muy c\xF3modo y confortable. Lleg\xE1mos quince personas, todas juntas, y enseguida nos hicieron lugar. Lo malo, o muy malo, fue el daikiri, que era como un helado y se ca\xEDa de la copa; se cay\xF3 todo. Adem\xE1s estaba muy fr\xEDo y no ten\xEDa gusto a nada; una pena. "
+    date: 22-12-2006
+    user: http://mi.guiaoleo.com/members/6529
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El mejor bar donde se sirven los mejores tragos de Buenos Aires. Muy recomendado los Daikiris: son terribles, nunca visto en otro bar. Muy buena onda del lugar. "
+    date: 14-12-2006
+    user: http://mi.guiaoleo.com/members/14435
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar muy bueno en donde se destaca su ambientaci\xF3n y su servicio. "
+    date: 21-11-2006
+    user: http://mi.guiaoleo.com/members/13729
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente lugar para pasar un buen momento con amigos.
+    date: 07-10-2006
+    user: http://mi.guiaoleo.com/members/12711
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Vivo a la vuelta del lugar y soy habitu\xE9. Para desayunar, almorzar, merendar o cenar. La atenci\xF3n es excelente salvo cuando hay mucha gente que tardan un poco m\xE1s. \r\n\
+      Recomiendo los tagliatelle verdi del pac\xEDfico y los tragos."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/12041
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El pollo estaba muy bueno, con una papa rellena exquisita. La atenci\xF3n es correcta. El lugar es lindo y pasan muy buena m\xFAsica."
+    date: 10-09-2006
+    user: http://mi.guiaoleo.com/members/10904
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Vivo en EEUU hace tres a\xF1os. La noche anterior a viajar, pas\xE9 por mi lugar, The Oldest Caballito.\r\n\
+      Fui clienta fiel durante mucho tiempo, recomiendo acercarse a la barra y charlar con los chicos y los lugare\xF1os. Es un lugar m\xE1gico. Espero volver a ver a Diego y Javier, tomar sus ricos tragos y reirnos otra vez, un lugar que recomiendo ya que conoc\xED linda gente y buenas amistades."
+    date: 28-04-2006
+    user: http://mi.guiaoleo.com/members/8058
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar, hace tiempo que voy ah\xED, hasta ahora todo lo que probe me pareci\xF3 buen\xEDsimo. \r\n\
+      A veces la atenci\xF3n no es muy buena, pero el lugar y la comida lo valen. \r\n\
+      Otro punto muy bueno es que est\xE1 abierto a cualquier hora y la cocina no cierra temprano."
+    date: 01-04-2006
+    user: http://mi.guiaoleo.com/members/7084
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 bueno para compartir en pareja o con amigos. \r\n\
+      Lo \xFAnico que a pesar de haber llegado temprano esper\xE9 para comer y por un postre cincuenta minutos y nunca lleg\xF3. \r\n\
+      Tuve que cerrar la cuenta sin el postre. Tardan mucho en atenderte. \r\n\
+      \xA1Hay que ir con paciencia!"
+    date: 14-02-2006
+    user: http://mi.guiaoleo.com/members/6437
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "The Oldest es un muy lindo pub, donde tambi\xE9n se puede comer muy bien. \r\n\
+      Los lunes presentan un buen plato de pasta (siempre distinto y muy bien preparado) con bebida a precios promocionales. \r\n\
+      El resto de los d\xEDas se puede comer bien,  a un precio mayor, aunque su fuerte son los tragos que estan muy bien preparados. \r\n\
+      Las camareras son muy atentas y el lugar muy lindo. Recomendable."
+    date: 02-01-2006
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy lindo, tanto para el d\xEDa o noche, afuera es muy agradable para desayunar."
+    date: 27-12-2005
+    user: http://mi.guiaoleo.com/members/5577
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El mejor pub de Buenos Aires. Con el mejor clima para llevar a una chica.
+    date: 25-12-2005
+    user: http://mi.guiaoleo.com/members/5565
+    ambiente_rank: excelente

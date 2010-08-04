@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "fresco y muy buen sushi a precio logico: 68 el combinado de 30 piezas de salmon. para pedir delivery, porque el salon es peque\xF1o e impregnado de olor a pescado."
+    date: 02-11-2009
+    user: http://mi.guiaoleo.com/members/46178
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Materia prima de primer nivel, siempre pedimos delivery y es excelente en calidad precio y atenci\xF3n. Sin dudas lo recomiendo."
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/29229
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Un lugar peque\xF1o pero de buen gusto. La atenci\xF3n amable. Una pena la comida. El arroz mal preparado. En lugar de Philadelphia usan queso blanco! Una opci\xF3n muy econ\xF3mica, pero no muy buena idea para los que buscan calidad."
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/70364
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos por los comentarios de Gu\xEDa Oleo y salimos decepcionados. La comida no era lo buena que esper\xE1bamos y comparado con otros lugares la calidad es menor pero es buena. En algunos casos hasta nos sirvieron los platos sin la salsa de soja. Tampoco fue tan barato ya que gastamos casi lo mismo que en otros lugares. La atenci\xF3n estuvo bien y el lugar es muy c\xE1lido pero falta un toque oriental. Definitivamente no volver\xEDa: algo tan b\xE1sico como los harumakis o los gyoza no saben bien aunque el roll de salm\xF3n y queso filadelfia estaba muy rico"
+    date: 21-09-2009
+    user: http://mi.guiaoleo.com/members/47346
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: un ambiente muy agradable , mercaderia de primer nivel ,100% recomendable ...
+    date: 31-08-2009
+    user: http://mi.guiaoleo.com/members/68376
+    ambiente_rank: muy bueno

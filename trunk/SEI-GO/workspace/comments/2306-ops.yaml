@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excellent food.  Good service.  Not the prettiest decor, but clean.
+    date: 11-01-2008
+    user: http://mi.guiaoleo.com/members/38099
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la pizza, much\xEDsimo queso. Viene con perejil y otras especias. La masa es ancha pero viene bien cargada."
+    date: 24-03-2006
+    user: http://mi.guiaoleo.com/members/7232
+    ambiente_rank: muy bueno

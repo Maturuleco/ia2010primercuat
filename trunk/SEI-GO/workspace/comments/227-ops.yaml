@@ -1,0 +1,94 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Si bien la comida es muy buena, deberian hacer algunas reformas porque tiene algunos detalles que lo harian un bodegon pero intenta ser mas pretensioso. No es una cosa ni la otra.
+      La comida es muy buena, las porciones grandes aunque con precios elevados para lo que brindan. El servicio no se destaca porque, generalmente, solo hay un mozo para el restaurante.
+    date: 28-10-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buen lugar bien ambientado, solom que en la decoracion le falta el afiche del INIDEP con las especies del mar argentino
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/44762
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es un excelente. Tuvo un altibajo hace unos meses pero se ha recuperado. Excelente para pescados, el pulpo muy bueno. Precios razonables.
+    date: 02-06-2009
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un remanso para tratar negocios al mediod\xEDa.-Comida y atenci\xF3n excelentes.-"
+    date: 19-11-2008
+    user: http://mi.guiaoleo.com/members/47438
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un lugar calido que conserva el clasico ambiente espa\xF1ol. Los pescados y mariscos excelentes. Muy recomendable la merluza negra. Es increible lo fresca que es. Muy rica toda la comida en general."
+    date: 15-09-2008
+    user: http://mi.guiaoleo.com/members/27596
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF3n y excelente calidad en el plato elegido (lenguado con salsa de espinaca). El postre un hallazgo: trio de helados de almendra, dulce de leche e higo. Es recomendable por su calidad pero es caro ($65 por persona al mediod\xEDa)."
+    date: 22-04-2008
+    user: http://mi.guiaoleo.com/members/1628
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: exelente,un lugar para tener en cuenta.
+    date: 21-04-2008
+    user: http://mi.guiaoleo.com/members/11825
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Buenos productos, buena cocina. Las raciones, desiguales, suelen ser excesivas. Tal vez por ello los precios se han elevado mucho, en un restaurante que tiene un servicio \"familiar\" y un ambiente no muy selecto. "
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/16143
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Mantiene su nivel, con buena calidad de ingredientes y correcta atencion.
+    date: 26-11-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente calidad de materias primas cocinadas de manera cl\xE1sica da como resultado un excelente producto. \r\n\
+      Es un placer saborear pescado bien fresco. Excelente relaci\xF3n precio-calidad."
+    date: 19-10-2007
+    user: http://mi.guiaoleo.com/members/20413
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gusto mucho el lugar en el fondo de la galeria. Mucha seguridad. Jardines muy lindos. Atencion rapida con notables buenas intenciones. Cochinillo perfecto. El resto cumple adecuadamente la expectativa. El pezon sevillano es para probar. "
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/19430
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente.
+    date: 20-04-2007
+    user: http://mi.guiaoleo.com/members/21892
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "En otro lugar esto que comimos me hubiese costado el doble. Pero eleg\xED lo m\xE1s caro del men\xFA. Sin contar que el vino que tom\xE9 estaba regalado en comparaci\xF3n con otros restaurantes (y tienen una carta m\xE1s que enorme y variada)me parece muy baja la calificaci\xF3n de cada \xEDtem que tienen en esta p\xE1gina sobre este restaurant, por eso es que me anim\xE9 a escribir."
+    date: 29-11-2006
+    user: http://mi.guiaoleo.com/members/13940
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui con grandes expectativas que no fueron del todo colmadas.  El lugar tiene un aire algo pretencioso, la comida tiene algunos altibajos.  Muy buena calidad de ingredientes, pero el punto del pescado no siempre es el \xF3ptimo.  Mi evaluaci\xF3n de la comida esta entre regular y buena, sin embargo \"in dubio pro Reo\".  Ambiente no adecuado a un lugar con estos niveles de precios."
+    date: 20-10-2006
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "Desastrosa relaci\xF3n precio/calidad. Muy caro. Para no volver jam\xE1s."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/1627
+    ambiente_rank: bueno

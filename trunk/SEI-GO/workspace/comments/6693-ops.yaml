@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena relaci\xF3n precio-calidad y muy buena atenci\xF3n. La comida buena sin nada especial y el ambiente es bueno aunque algo ruidoso. Buena carta de vinos."
+    date: 26-03-2010
+    user: http://mi.guiaoleo.com/members/67320
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Mas o menos el bolihito
+    date: 04-02-2010
+    user: http://mi.guiaoleo.com/members/76673
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos con mi familia y es imprescionante la calidad y la atenci\xF3n de todo el personal. El ambiente muy comfortable y los precios accesibles para la calidad que manejan."
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/56585
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un desastre, cobran 90 pesos una tabla para dos,si fuera bueno no est\xE1 mal pero el chinchulin de goma, la molleja finita como si fuera fiambre al igual que el cerdo de piedra y seco.El vac\xEDo tambi\xE9n incomible y la pechuga de pollo seca.La empanada cortada a cuchillo con pedazos de grasa.El servicio muy malo. No vuelvo ni a pasar por la puerta."
+    date: 02-12-2009
+    user: http://mi.guiaoleo.com/members/29105
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "excelente comida  de parrilla, muy buena atenci\xF3n vista al r\xEDo, no bullicioso, ya lo esoy frecuentando"
+    date: 19-11-2009
+    user: http://mi.guiaoleo.com/members/72382
+    ambiente_rank: muy bueno

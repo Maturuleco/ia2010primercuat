@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La pizza es rica, aunque antes era mejor, le ponen poco queso y es chica la pizeta. Las empanadas si son ricas. Hay que tener un poco de paciencia porque tardan
+    date: 14-04-2010
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: no probe las pizzas, pero lejos las peores pastas que probe en mi vida. una porcion de ravioles con una coca chica 32 pesos. eran realmente incomibles, pura masa dura y de lo mas insipidos. ademas sirven las pastas en un plato de carton!!!!! nunca mas
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/63502
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La pizza de r\xFAcula, jam\xF3n crudo, tomate seco y lascas de parmessano es simplemente buen\xEDsima. No hay mejor opci\xF3n si es que uno tiene que almorzar en un shopping."
+    date: 05-02-2010
+    user: http://mi.guiaoleo.com/members/36831
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La masa de la pizza es fina tirando a muy. La pizza de crudo y rucula con tomates secos es buena, la de vegetales es decididamente mejorable. Consejo: pidan cubiertos de metal, imposible cortar con cubiertos de plastico."
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: malo/regular

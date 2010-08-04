@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es c\xF3modo, pero al estar la puerta de ingreso abierta en la intersecci\xF3n de las avenidas el ruido de la calle era un poco molesto. \r\n\
+      La comida es aceptable. Los mozos son atentos."
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/33232
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: buenas porciones, los mozos se esmeran por atender bien.
+    date: 14-09-2007
+    user: http://mi.guiaoleo.com/members/30166
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Se puede comprobar el esmero por la satisfacci\xF3n del cliente y la gran calidad de productos."
+    date: 05-10-2006
+    user: http://mi.guiaoleo.com/members/12566
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "T\xEDpico pizza-cafe de barrio. Carta muy amplia. Buena comida y abundante, aunque cara."
+    date: 04-03-2006
+    user: http://mi.guiaoleo.com/members/6781
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Utilizo siempre delivery y es excelente el servicio.
+    date: 18-11-2005
+    user: http://mi.guiaoleo.com/members/4863
+    ambiente_rank: muy bueno

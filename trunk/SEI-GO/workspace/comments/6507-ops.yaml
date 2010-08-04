@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Bar y restaurant de barrio. Las minutas son muy buenas, como as\xED tambi\xE9n los cl\xE1sicos de bar (tostados, licuados, etc.). Siempre hay una tele con alg\xFAn partido. El ambiente es c\xE1lido y la atenci\xF3n tambi\xE9n. La relaci\xF3n precio-calidad es un chiste en comparaci\xF3n con el promedio de los bares de la zona. Buena y recomendable opci\xF3n al paso."
+    date: 08-04-2010
+    user: http://mi.guiaoleo.com/members/75519
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "T\xEDpico bar de barrio, muy accesible con cafeteria destacada, con buenos platos del d\xEDa, empanadas caseras al horno o fritas muy recomendables, como tambi\xE9n las milanesas a la fugazzeta, o las pastas. Ideal para ver f\xFAtbol, escuchar m\xFAsica o compartir con amigos."
+    date: 15-10-2009
+    user: http://mi.guiaoleo.com/members/70521
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Bar de barrio, siempre muy concurrido con muchas mesas y televisores pasando los partidos. Todo en un ambiente m\xEDnimo y reducido. Los que van son todos habitu\xE9s del barrio que van por el plato del d\xEDa con una inigualable relaci\xF3n precio/calidad. La carta es m\xEDnima y no existe, debiendo elegir de las opciones escritas con tiza en las paredes, pero no importa porque todos saben que es lo que siempre hay. La atenci\xF3n de la \xFAnica moza es muy amable y distendida. Buena opci\xF3n para comer comida sencilla y casera cuando no se tienen ganas de cocinar en casa."
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: bueno

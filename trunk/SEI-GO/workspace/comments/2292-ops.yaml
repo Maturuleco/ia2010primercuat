@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Es muy bueno el lugar para cualquier tipo de desarrollo socioart\xEDstico. El restaurante presenta una amplia variedad de platos y los precios est\xE1n adaptados a los bolsillos del p\xFAblico."
+    date: 10-01-2007
+    user: http://mi.guiaoleo.com/members/18664
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy buena la comida, el servicio y el ambiente. \r\n\
+      La \xFAnica nota baja fue que la carta no estaba actualizada (ten\xEDan muy pocas de las comidas referidas)y nos terminaron ofreciendo un men\xFA preestablecido (del que nadie nos hab\xEDa hablado) que finalmente result\xF3 muy bueno.\r\n\
+      Recomiendo."
+    date: 21-07-2006
+    user: http://mi.guiaoleo.com/members/10829
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: El servicio es malo.
+    date: 12-12-2005
+    user: http://mi.guiaoleo.com/members/5419
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente.
+    date: 20-11-2005
+    user: http://mi.guiaoleo.com/members/5107
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me gustaron mucho los pinchos de pollo y puerro, acompa\xF1ados con vino blanco.\r\n\
+      Muy bueno todo."
+    date: 02-11-2005
+    user: http://mi.guiaoleo.com/members/4632
+    ambiente_rank: excelente

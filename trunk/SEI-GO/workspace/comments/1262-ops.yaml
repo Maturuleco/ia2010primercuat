@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "D\xEDa martes 23/12 noche cerrado! a pesar que en la guia dice abierto..."
+    date: 23-12-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fuimos con los muchachos del trabajo y nos encanto, muy buena comida, exquisita la pizza y nos mato la pantalla gigante. Super recomendable. Nos dijeron que los finde es resto y disco, iremos y veremos que  pasa.
+    date: 28-01-2008
+    user: http://mi.guiaoleo.com/members/39251
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Las pastas y pizzas libres al mediodia, fueron bastante malas. "
+    date: 09-08-2007
+    user: http://mi.guiaoleo.com/members/29170
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos 9 matrimonios de aprox. 40 a\xF1os, la pasamos muy bien, la comida excelente, la atencion, espectacular, solo un peque\xF1o detalle: el show en vivo puede ser mejor. El resto excelente, muy recomendable."
+    date: 26-05-2007
+    user: http://mi.guiaoleo.com/members/16900
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente!!
+    date: 03-07-2005
+    user: http://mi.guiaoleo.com/members/2463
+    ambiente_rank: excelente

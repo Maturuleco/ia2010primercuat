@@ -1,0 +1,69 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida mal\xEDsima. Las fajitas sin ninguna onda, la carne estaba dura, con un poco de aj\xED y de cebolla, mal condimentado. El llamado d\xFAo de brownies era un bizcochuelo de chocolate con helado berreta y ba\xF1ado en una a\xFAn m\xE1s fea salsa de frutilla. Pagamos carisimo para comer re mal. La atenci\xF3n tambi\xE9n sin onda. Para nada recomendable. No vuelvo ni aunque me inviten!!"
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/82981
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ambiente tranquilo, comida muy buena, antencion muy buena. Nos pedimos el atracon que era para 4 para comer entre 2 (nos avisaron que era mucho) pero como somos de buen comer nos parecio espectacular y algo sobro (no mucho). Lo recomendamos y en algun momento volveremos.
+    date: 21-05-2010
+    user: http://mi.guiaoleo.com/members/83947
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos 4 y cenamos el \"Atrac\xF3n Mezcal\" (16 tortillas para armar) Excelente. Abundante y muy sabroso. La atenci\xF3n es muy buena, el ambiente muy agradable (mesas separadas)y tuvo el bonus de los mariachis!! (Encima, por mi cumplea\xF1os, me cantaron Las Ma\xF1anitas!!). La \xFAnica contra fue que est\xE1bamos arriba (sal\xF3n fumador) y hab\xEDa una mesa muy numerosa y bastante ruidosa. Iremos nuevamente."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/24472
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Nos pareci\xF3 caro para el plato, el TACO BANDERA era desabrido y escuchamos 20 veces aproximadamente la misma canci\xF3n de Calamaro. La ambientaci\xF3n dejo mucho que desear solo sombreros para dar un aire mexicano, anteriormente fuimos a ay jalisco no te rajes, nos pareci\xF3 igual en cuanto a los platos tradicionales, mas sabrosos y econ\xF3micos, eso si es mas al paso. No vale la pena"
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/78076
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente ambientaci\xF3n- La comida mexicana exquisita. La atenci\xF3n muy buena. EXCELENTE EL SHOW DE LOS  MARIACHIS."
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/77832
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      La verdad me encanto el lugar, la comida riquisima y el servicio muy bien tb!
+      Espero volver pronto!!!
+    date: 17-01-2010
+    user: http://mi.guiaoleo.com/members/75248
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Realmente una tristeza, mala la atenci\xF3n, y p\xE9sima la comida.\r\n\
+      Nos tuvieron que cambiar de mesa xq est\xE1bamos sentados sobre una c\xE1mara s\xE9ptica y sub\xEDa un muy mal olor.\r\n\
+      Los pedidos tardaron mucho en llegar a la mesa y cuando llegaban estaban fr\xEDos. La comida distaba mucho de ser mexicana, mal preparada, mal condimentada y precios caros.\r\n\
+      El servicio desastroso, hubo que ir a la barra a buscar cubiertos. Una vez expresada la queja, ni siquiera hubo disculpas y el trato empeor\xF3.\r\n\
+      NO recomiendo ir a este lugar."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/73982
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un desastre, el servicio es lamentable. La calidad de la comida es pobre, sufrimos una demora importante a la hora de que nos tomen los pedidos y de traer los platos, adem\xE1s de otras desatenciones. \r\n\
+      A pesar de pedir una encuesta de evaluaci\xF3n de calidad, cuando se les manifestaron ciertas sugerencias para mejorar el servicio, no demostraron ning\xFAn inter\xE9s en escuchar a su cliente, m\xE1s bien todo lo contrario. \r\n\
+      Mezcal result\xF3 ser una muy mala elecci\xF3n y una experiencia que no quisiera volver a repetir."
+    date: 11-12-2009
+    user: http://mi.guiaoleo.com/members/73559
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Jamas volvere ese lugar desastroza atencion.  Cuando traian lo que se acordaban siempre quedaba algun comenzal sin su pedido, el servicio  un desastre desde la copita de entrada hasta la cuenta ni hablar del precio por la escases de los platos , y la comida nada del otro mundo yo hago tacos mas ricos en mi casa 0 recomendable, horrible ir a un restaurant y ver toda la gente con cara de traste y sus platos vacios esperando su pedido DESASTRE !!!!!
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/72896
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "el lugar muy lindo pero muy ruidoso, pocos mozos para muchas mesas, aun as\xED atentos aunque algo dispersos, la comida muy rica, los postres aceptables aunque nada especial"
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/44899
+    ambiente_rank: bueno

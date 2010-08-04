@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La atenci\xF3n bien.\r\n\
+      La comida, medio pelo. En otro barrio el mismo plato te lo cobran la mitad y encima ni estaba rico.\r\n\
+      Relaci\xF3n precio calidad: Muy caro."
+    date: 18-05-2009
+    user: http://mi.guiaoleo.com/members/999
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena relacion precio-calidad. Son muy recomendables las pastas y empanadas. Prefiero pedir delivery que ir a comer al lugar aunque lo hice en algunas oportunidades y la atencion es buena.
+    date: 12-10-2008
+    user: http://mi.guiaoleo.com/members/52829
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En general es el lugar de encuentro de los mediodias con compa\xF1eros de la oficina. Muy buenas pizzas, en especial la de provolone y la fugazzeta rellena con jamon y queso. La atenci\xF3n es muy cordial y esmerada y los platos salen con rapidez. Hay tambien una carta con platos variados y muy buenos pero que resultan algo caros si se trata de almuerzos sin muchas pretensiones. La carta de vinos es extensa y el ambiente, si bien lo han ampliado, puede llegar a ser bastante ruidoso."
+    date: 15-08-2008
+    user: http://mi.guiaoleo.com/members/45712
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida era una de las opciones de men\xFAes que tienen al mediod\xEDa que incluyen plato pricipal, bebida (gaseosa, agua o vaso de vino) y postre \xF3 caf\xE9, o t\xE9.\r\n No cobran cubierto.\r\n\
+      A la noche no hay men\xFAes, cobran cubierto y resulta un poco caro.\r\n\
+      Lo m\xE1s destacable es que voy bastante seguido al mediod\xEDa y hay men\xFAes de los m\xE1s variados y SIEMPRE, pida lo que pida, desde pizza hasta mollejitas al verdeo, es todo riqu\xEDsimo."
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/27865
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buenas las empanadas.
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/6663
+    ambiente_rank: excelente

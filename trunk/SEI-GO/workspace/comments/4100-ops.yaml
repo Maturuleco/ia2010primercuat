@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: el local es hermoso y la atencion es muy amable,lamentablemente la marquise de chocolate y el cuadradito de coco que comi no ameritan una segunda visita
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/39071
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ofrecen un solo plato del d\xEDa. esto hace m\xE1s improbable que sea el restaurant elegido, teniendo en cuenta la variedad de ofertas m\xE1s completas en esa zona de Palermo. De todos modos, el plato de hoy (canelones) estaba sabroso y el lemon pie que ven\xEDa de postre... riqu\xEDsimo. Insisto tal como dije en mi comentario anterior, a mi juicio lo mejor del lugar son las cosas dulces"
+    date: 09-10-2009
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Fuimos a la tarde con amigas, el servicio de la moza fue lo justo y necesario, accedia a los pedidos, pero no tenia iniciativa de atender. El capuccino llego frio y los jugos calientes.
+      No creo que vuelva.
+    date: 18-08-2009
+    user: http://mi.guiaoleo.com/members/20990
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui a celebrar el cumple de una amiga con un grupito y tomamos el t\xE9 con cosas caseras muy ricas en un ambiente agradable y simp\xE1tico que hizo de marco propicio para pasarla muy bien y extender la charla. L\xE1stima que cierran tan temprano..."
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lo mejor del lugar son las cosas dulces. tanto cuadrados como tortas y galletitas realmente son muy sabrosos. Invit\xE9 amigas para festejar mi cumplea\xF1os y fue una rica merienda. En otra oportunidad almorc\xE9 y la verdad es que la comida era bastante insulsa, nada sabrosa. Insisto: aprovechar la reposter\xEDa."
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "probamos tartas y tortas estaban muy bien la due\xF1a ana muy bien es muy atenta y amable con todos los clientes."
+    date: 21-10-2008
+    user: http://mi.guiaoleo.com/members/46573
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buena para una comida liviana de mediodia, tambien lleve unos escones para le tarde que estan exelentes.
+    date: 15-06-2007
+    user: http://mi.guiaoleo.com/members/9160
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Sorpresivamente, la tarta de espinaca y calabaza, tenia espinaca de verdad. Ademas, knishes de papa, grisines de queso, las ensaladas de verdes...Y los dulces, una sinfonia aparte...Para almorzar o para tomar el te: excelente!"
+    date: 08-05-2007
+    user: http://mi.guiaoleo.com/members/14467
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "encargu\xE9 dos veces las tortas con deco infantiles, son de excelente calidad, riquisimas, la atenci\xF3n es excelente. Recomiendo las masas secas, son buenisimas. Recomendable por calidad y buen precio.!!!! Ana siempre presente."
+    date: 25-04-2007
+    user: http://mi.guiaoleo.com/members/16466
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bien atendido por su due\xF1a Ana, riqu\xEDsimo todo. Muy buena presentaci\xF3n."
+    date: 22-08-2006
+    user: http://mi.guiaoleo.com/members/11362
+    ambiente_rank: excelente

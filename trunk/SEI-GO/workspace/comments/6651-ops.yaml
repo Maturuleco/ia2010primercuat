@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Decision lamentable la mia al pretender encontrar en este lugar, una alternativa valida en la zona de almagro para comer una parrillada. Es pesima, quemada (arrebatada) gorda como pocas veces y dura. Todo mal, encima, sali todo impregnado en olor a humo y grasa. HORRIBLE !!!
+    date: 20-06-2010
+    user: http://mi.guiaoleo.com/members/26762
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Cordial atenci\xF3n, buena carne, y un ambiente familiar. Las mesas est\xE1 bien ubicadas."
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/73817
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Restaurante con una carta muy variada parrilla, pastas y pescados. Ambiente muy agradable y tranquilo con mesas y boxes. La atenci\xF3n es muy correcta y al final de la comida nos invitaron caf\xE9 o una copa de vino espumante. Es un lugar para volver."
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La verdad muy buen lugar sorprende la calidad de la carne el ambiente bastante comodo es recomendable.
+    date: 31-10-2009
+    user: http://mi.guiaoleo.com/members/71263
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: carta variada de comidas,buena atencion y una carne exquisita
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/69707
+    ambiente_rank: muy bueno

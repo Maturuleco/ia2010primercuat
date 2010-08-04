@@ -1,0 +1,157 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "La atenci\xF3n es excelente! Todos muy simp\xE1ticos, la moza s\xFAper atenta. Comimos afuera, que hab\xEDa un sistema de calefacci\xF3n espectacular.\r\n\
+      La comida estuvo bien, nada espectacular. Platos simples, con muchos fideos, arroz blanco y papas fritas como acompa\xF1amiento... Volver\xEDa quiz\xE1s para probar platos con pescado, que me imagino que deben estar mejor. Muy buena la cremonada, una limonada riqu\xEDsima!!\r\n\
+      Recomendaci\xF3n: ir al mediod\xEDa, el men\xFA ejecutivo es muy bueno, abundante y barato!"
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/28008
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comida muy fresca y bien elaborada. Algunos platos dan para compartir. Atenci\xF3n muy amable y ambiente grato."
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/82456
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Muy buen lugar, impecable el mero relleno! las mozas super atentas y amables, los anticuchos bastante salados pero bien cocidos, tiernos y sabrosos.
+    date: 23-05-2010
+    user: http://mi.guiaoleo.com/members/61274
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Me parecio una excelente opcion de comida peruana en un lugar donde este genero no abunda. La pase super bien, el servicio es muy atento, muy buena relacion calidad precio y el aji de gallina es exquisito. Exitos!
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/5507
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Como amantes de la cocina peruana y habitu\xE9s de muchos de estos restaurants de Buenos Aires, las comparaciones fueron inevitables. As\xED, podemos contar que las papas a la huanca\xEDna estuvieron h\xEDper sabrosas y que el arroz chaufa con mariscos es un plato riqu\xEDsimo y muy abundante. Los tiraditos de pescado, sin embargo, no nos convencieron ni en consistencia ni en sabor. Con buena atenci\xF3n -las mozas est\xE1n entrenadas para quedarse siempre en el sal\xF3n y estar atentas a todo pedido- y un ambiente tranquilo y simp\xE1tico, vale la pena volver cada tanto."
+    date: 21-02-2010
+    user: http://mi.guiaoleo.com/members/30026
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: ambiente ruidoso platos escasos por el preciio y mal asesoramiento de la mesera que dijo que eran para compartir La comida es rica  Quieren aparentar mas  nivel de lo que es Poco recomendable
+    date: 19-02-2010
+    user: http://mi.guiaoleo.com/members/58209
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un lugar tranquilo, muy bien atendido sin cargosear y con muy buena comida. Relaci\xF3n precio/calidad muy favorable."
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/45638
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "excelente la comida y la atenci\xF3n muy buena, las chicas explican la carta con paciencia y recomiendan algunos platos del d\xEDa. Todo muy rico y muy fresco. Los postres excelentes tambi\xE9n... para volver!"
+    date: 07-02-2010
+    user: http://mi.guiaoleo.com/members/7541
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Los mejores mariscos que probe en mi vida.
+      
+      Tambien tienen muy buenas entradas.
+    date: 18-01-2010
+    user: http://mi.guiaoleo.com/members/75223
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida y buen\xEDsima la atenci\xF3n. Los platos muy bien servidos, muy sabrosos. Realmente comimos muy bien, y el lugar es muy agradable.Volveremos a probar otros platos."
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/44899
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente, fresca y muy sabrosa. No pueden dejar de probar el pisco, dir\xEDa que es el acompa\xF1amiento ideal (mejor que el vino) para \xE9ste tipo de cocina. La atenci\xF3n, impecable. El personal conoce perfectamente la carta, sabe qu\xE9 recomendar y est\xE1 siempre atento a las necesidades del comensal. Definitivamente, una experiencia que debe repetirse."
+    date: 01-12-2009
+    user: http://mi.guiaoleo.com/members/18217
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Relaci\xF3n costo beneficio optimo para un men\xFA ejecutivo del medio dia.\r\n\
+      Volver\xE9."
+    date: 16-11-2009
+    user: http://mi.guiaoleo.com/members/15480
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente opci\xF3n para conocer la comida peruana, platos bien preparados con productos muy frescos (no son abundantes). Atenci\xF3n muy cordial y atenta. Ambiente tranquilo y posee un agradable patio."
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida fue muy buena, tardaron un poco en traerla pero vali\xF3 la pena la espera."
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/69762
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente comida. todo muy fresco, sabroso y abundante. la atenci\xF3n de la moza fue muy amable. todos quedamos muy satisfechos con nuestros pedidos: picante de mariscos, ceviche mixto, mero relleno y tallarines con mariscos. muy recomendable la limonada antes que las gaseosas. y los postres si bien no tiene gran variedad son muy buenos, tanto el suspiro lime\xF1o como el mousse de maracuya."
+    date: 14-09-2009
+    user: http://mi.guiaoleo.com/members/16898
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: muy pero muy mala atencion de la moza. Informo mal el menu ejecutivo y sirvio tarde todos los platos.
+    date: 27-07-2009
+    user: http://mi.guiaoleo.com/members/65755
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un lugar agradable y bien ambientado. El tama\xF1o de las porciones no es muy abundante, pero el sabor si est\xE1 muy bien. La atenci\xF3n es correcta. El mouse de Maracuy\xE1 es para recomendar."
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/29820
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La atencion fue excelente, supieron asesorarnos muy bien sobre los platos a elegir. El precio esta totalmente acorde y la comida es muy rica.
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/47543
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Destaco la atenci\xF3n del mozo, que nos explico en detalle cada uno de los platos. Las porciones son chicas, la relaci\xF3n precio-calidad es buena. La mousse de maracuya exiquisita!! A corregir: carta de vinos."
+    date: 07-05-2009
+    user: http://mi.guiaoleo.com/members/57769
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Comimos tamales (buenos) ceviche (muy bueno!!) y un lenguado a la chorrillana que estaba delicioso, tanto el pescado como el acompa\xF1amiento. Las porciones no son demasiado abundantes, pero son suficientes, y es muy buena la relaci\xF3n precio calidad. Sobresale el servicio, el mozo que nos atendi\xF3 super atento y dispuesto a explicarnos todos los platos y los ingredientes. De postre nos gust\xF3 el mousse de Maracuya. Para volver."
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/10321
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El sabor de la comida y la cantidad de la porcion es muy correcta. Especialmente los principales. Probe Mero a lo macho y me gusto mucho. El cebiche estandar, no buscan originalidad como en otros restos. El servicio es realmente malo pues se olvidan de todo aunque tienen la actitud de explicarte los platos si los consultas. El lugar peque\xF1o y lindo."
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/21908
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Estaba convencida de que ninguna cocina peruana superaba la de Primavera Trujillana, hasta hoy. Comida muy rica, abundante, servicio correcto y lugar muy c\xF3modo, mesas bien separadas y de buen tama\xF1o. Recomiendo la limonada (\"cremonada de lim\xF3n\"), rica y muy vistosa por la espuma que trae. Hermoso patio interno que ba\xF1a de luz natural el sal\xF3n. Volveremos."
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/6903
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Gran variedad de ceviches y postres (la crema volteada es excelente).
+    date: 28-02-2009
+    user: http://mi.guiaoleo.com/members/48224
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF2n. El mozo estuvo siempre atento a lo que necesitaramos y nos explico con lujo de detalles que contiene cada plato. Muy rica la comida y muy abundate los platos principales. Recomiendo la Causa rellena y el Aj\xEC de Camarones."
+    date: 23-01-2009
+    user: http://mi.guiaoleo.com/members/36472
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: comimos muy rico tardan en traer la comida pero vale la pena esperar, las papas a la huancaina son muy rica, mas que en otros peruanos de la zona el pisco tambien esta bueno
+    date: 03-01-2009
+    user: http://mi.guiaoleo.com/members/3627
+    ambiente_rank: bueno

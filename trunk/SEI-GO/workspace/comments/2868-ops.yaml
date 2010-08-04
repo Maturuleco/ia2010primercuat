@@ -1,0 +1,67 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Nos gust\xF3 el lugar, fuimos con unos amigos que ya lo conoc\xECan. La comida es rica,abundante y a precios accesibles. Buena carta de vinos y buenos postres. Tiene sal\xF3n fumador, muy buena alternativa."
+    date: 12-10-2007
+    user: http://mi.guiaoleo.com/members/33904
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la verdad la comida muy buena.el lomo,estaba como se lo pedi.a punto.y el servicio muy bueno.y lo mejor fue la musica,el lugar tiene una onda bhoemia espectacular.y estoy de acuerdo que la onda sea tipo pub.el lugar y la zona de la ubicacion da para un resto-bar.pub..salu2
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/31725
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      ayer estabamos paseando por palermo soho, pasamos, escuchamos musica y entramos. El lugar es demaciado chico para tenerlo como pub, los tragos eran intomables y se noto mucho la falta de personal.
+      Espero que puedan mejorar la atencion. No lo recomendamos.
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/31560
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Llegamos al lugar teniendo en cuenta la cantidad de buenos comentarios, pero lo cierto es que nuestra experiencia fue malisima. Habia solo dos mesas ocupadas, lo cual nos llamo la atencion pero de todas formas entramos. Pedi el lomo envuelto en jamon serrano que era el recomendado y me lo trajeron crudo (no jugoso), le pedi al mozo que lo cocinara mejor, a los diez minutos nuevamente volvio crudo por dentro y arrebatado por fuera, volvi a pedir que lo calentaran y el lomo llego en estado lamentable y por supuesto que seguia crudo. Ni hablar de que el jamon serrano era jamon cocido, detalle menor. En definitiva de terror, definitivamente el peor lugar al que fui a cenar en los ultimos tiempo.
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/31442
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: excelente lugar para pasar un buen momento
+    date: 11-07-2007
+    user: http://mi.guiaoleo.com/members/26504
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente ambiante y atencion. Comi solomillo la verdad que la carne es buenisima se nota mucha la buena calidad. muy recomendable
+    date: 08-07-2007
+    user: http://mi.guiaoleo.com/members/26271
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La ambientacion es muy bohemia : una hermosa casona del 1900 con un vitraux imposible y decorada con cuadros de Mafalda, el Che, Charly, Evita y otros fetiches porte\xF1os.Solo \xE9sto justificaria la visita,pero ademas es un excelente restaurant-muy buena la parrilla-.De lo mas grato en Palermo."
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/26410
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "UNA DE LAS MEJORES PARRILLAS DE BUENOS AIRES.EXCELENTES CARNES Y CUIDADO EN LA PRESENTACION.ORIGINAL Y DELICIOSA LA TABLITA DE GUARNICIONES;LO M\xC1S: LOMO Y SALMON ROSADO.\r\n\
+      MOZOS MUY GENTILES."
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/25819
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: EL servicio fue lo primero que me altero. Tardaron horas en sacar una parrillada para tres personas y no puedo explicar lo que tardaron en armarme la mesa. En el interin me robaron la cartera y el resto no se hizo responsable de nada, no me dio una solucion. Los mozos hicieron lo que pudieron, pero estaban desbordados. Cuando, despues de una hora y media, llega mi comida, el pollo estaba crudo. Tal vez, fue mala suerte, pero fue uno de los peores servicios que recibi en mucho tiempo. El resto de la comida zafaba y el ambiente, en general, no era malo. Igual, no lo recomiendo para nada.
+    date: 02-07-2007
+    user: http://mi.guiaoleo.com/members/1377
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La calidad de los productos es \xF3ptima, sobre todo de las distintas carnes. \r\n\
+      Las tapas con qwue se acompa\xF1an los platos son exquisitas, originales y muy variadas.\r\n\
+      Las coociones responden a la perfecci\xF3n al punto solicitado. \r\n\
+      La atenci\xF3n es muy cordial y esmerada.Por lo tanto, es una de las mejores parrillas que merece recomendarse, sobre todo, a los turistas extranjeros interesados en conocer las famosas carnes argentinas."
+    date: 10-06-2007
+    user: http://mi.guiaoleo.com/members/24333
+    ambiente_rank: excelente

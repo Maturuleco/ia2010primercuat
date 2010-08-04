@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buena pizza, buenos platos del dia, una de las pocas pizzerias tipo "de barrio" que se salvan de la ola "fashion palermo". Recomiendo para delivery y para comer en las mesas de afuera.
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/81850
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es tranquilo, poca gente, te atienden r\xE1pido, y la comida est\xE1 bien y a buen precio, sobretodo teniendo en cuenta que las porciones son bastante generosas."
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/68959
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lindo lugar, tranquilo, fuimos a cenar de noche tarde y nos atendieron como si fueran las 3 de la tarde....sin problemas.\r\n\
+      Los fideos a la bolognesa RIQUISIMOS, los \xF1oquis de mi novio estaban espectaculares, salimos re pipones :)\r\n\
+      Lo recomiendo, econ\xF2mico por la cantidad de las porciones, y comida muy rica."
+    date: 04-01-2009
+    user: http://mi.guiaoleo.com/members/35771
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La pizza a piedra es rica, sin demasiadas pretenciones. Buenas empanadas (aunque precocidas). La cerveza vino bien fria, buen detalle.
+    date: 07-08-2008
+    user: http://mi.guiaoleo.com/members/22134
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: pizzas riquisimas, una masa fina, a la piedra, con ingredientes de primera calidad
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/43207
+    ambiente_rank: muy bueno

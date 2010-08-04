@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "el lugar es peque\xF1o y un poco precario, pero eso no molesta para nada. Lo que no me gust\xF3 es q los arrolladitos (en si, sabrosos) estaban recalentados en microondas y por lo tanto con temperaturas desparejas. El hummus estaba rico, el tabule normal. Aceptable, pero no te va a hacer feliz."
+    date: 02-10-2008
+    user: http://mi.guiaoleo.com/members/51823
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "No lo recomiendo. Si bien la comida es sabrosa, la variedad de platos es MUY escueta y las porciones son MUY chicas. Tuve que repetir varios platos para sentirme satisfecha, ya que las porciones son m\xEDnimas y no tienen guranici\xF3n. Lo peor de todo: Muchas (y no s\xE9 si todas) las cosas que llegaron a la mesa fueron calentadas en el microondas... nada hecho en el momento: un Papel\xF3n!!.\r\n\
+      El resultado: no fue nada barato y por menos dinero se come much\xEDsimo mejor en otros restaurants \xE1rabes de la zona."
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/33978
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Un lugar muy \xEDntimo, inclusive cuando vas al ba\xF1o porque se escuchan los ruidos del ba\xF1o en el comedor. Hay una se\xF1ora muy amable que atiende las mesas. La cominda no es la mejor comida arabe en la ciudad pero era saborosa igual. "
+    date: 22-08-2007
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "La comida es completamente casera y nada super elaborada. La atencion de la due\xF1a es maravillosa. Tal cual como decia el otro usuario, uno parce un invitado en la casa de esta se\xF1ora. Las hojas de parra rellenas fueron lo que mas me gusto. "
+    date: 22-08-2007
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo casero, muy sabroso, la due\xF1a es realmente muy agradable. Como en casa. Recomendable."
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/23402
+    ambiente_rank: muy bueno

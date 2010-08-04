@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es muy rica y casera.\r\n\
+      Hay una gran variedad de sandwiches algunos originales. Recomiendo el de salm\xF3n con queso blanco y ciboulette.\r\n\
+      La decoraci\xF3n es una monada, todo hiper delicado.\r\n\
+      Lamentablemente las camareras estan en otra, no te traen la panera, escasean las servilletas. Se olvidan de algunos platos. Una l\xE1stima! Tuvieron varias oportunidades pero con esa actitud le sacan las ganas a cualquiera."
+    date: 15-06-2010
+    user: http://mi.guiaoleo.com/members/80868
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es espectacular el lugar!!!!!! lo super recomiendo1 te sentis en un cafe parisino!! divino puesto!! bien calido!! La comida es riquisima y casera...y siempre estan las due\xF1as que parecen divinas!!!! \r\n\
+      Felicitaciones entre Palmas!"
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/51214
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: buena opcion para hacer algo distinto sin dejar de ser regular. muy bueno.
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/75972
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es divino! te sentis como en el libing de tu casa! la comida es riquisima, casera y muy axesible! y siempre atendido por las due\xF1as que son dos hermanas que son divinas!!!!!!!"
+    date: 27-07-2009
+    user: http://mi.guiaoleo.com/members/51214
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Uno de los mejores lugares para almorzar durante horario de trabajo en Buenos Aires. La comida casera genial, la atenci\xF3n de las chicas inigualable!! Esta clase de lugar era un nicho que estaba faltando en el centro. Comida barata y muy buena!!!"
+    date: 19-02-2009
+    user: http://mi.guiaoleo.com/members/58696
+    ambiente_rank: bueno

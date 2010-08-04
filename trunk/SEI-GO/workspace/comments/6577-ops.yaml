@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es muy calido, la atenci\xF3n impecable. La comida es muy buena calidad y los precios son razonables. Con el descuento del club la naci\xF3n se convierte en una excelente opci\xF3n (ojo solo lo aplican a la noche, despu\xE9s de las 20.00 hs). Voy a volver a probar otros platos. Excelentes vino por copa"
+    date: 23-06-2010
+    user: http://mi.guiaoleo.com/members/23830
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "exquisito y con una atenci\xF3n de primera. la variedad de vinos es muy amplia"
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/19232
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos con un amigo un dia martes y estaba vacio el lugar, a pesar de las reticencias de mi amigo x la falta de comensales decidimos probar y la verdad que el men\xFA es sencillo pero la comida es muy sabrosa. Pedimos un rissotto con rucula y un sandwich de lomito q acompa\xF1a con aros de cebolla y papas. Ambos platos estaban deliciosos. Y el precio bastante accesible."
+    date: 11-05-2010
+    user: http://mi.guiaoleo.com/members/81861
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo fuimos a probar con amigos porque tenia el descuento de club la nacion....pedi un sandwich de salmon con rucula y crema de eneldo que la verdad estaba muy rico. Lamentablemente me molesto mucho que al pedir la cuenta nos se\xF1alan un cartelito peque\xF1o que decia que DECIDIERON aplicar el descuento de club la nacion solo por la noche a partir de las 20:00hs. Yo me fui a las 19:00hs. Fea la actitud."
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/14443
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un placer en todo sentido porque se disfruta del lugar , de la comida y de la atencion : que m\xE1s?!!\r\n\
+      el pollo a la naranja estuvo muy rico , suave la salsa y la ensaladas muy fresca. La atencion super esmerada !  Se puede conversar bien. Los postres caseros muy tentadores, prob\xE9 el mejor cuadrado de coco y dulce de leche.\r\n\
+      A volver!"
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/55042
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente opci\xF3n y relaci\xF3n calidad precio. Platos bien hechos y bien servidos, vinos a muy buen precio. Nos invitaron con Nespresso.Para volver."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/71801
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: La cena estuvo muy buena, pero se opaco bastante por la tarea de la moza quien se olvido de unos de los platos que solicitamos. A pesar de ello el lugar es recomendable ya que la relacion precio-calidad es muy razonable. Buena cantidad de vinos no conocidos para probar de bodegas boutiques...
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/64077
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Destaca el ambiente tranquilo, el servicio es del estilo \"slow food\". La propuesta es acotada pero variada. Muy cuidados los sabores. Ampl\xEDsima carta de vinos a precio justo."
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/71993
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Voy seguido y a mi me encanta.  La comida es muy buena (todos los platos que prob\xE9 me han gustado).  Es una buena opci\xF3n para ir el fin de semana al medio d\xEDa.  La relaci\xF3n precio-calidad es totalmente positiva.  Lo recomiendo."
+    date: 25-10-2009
+    user: http://mi.guiaoleo.com/members/46398
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "PRO: Los platos est\xE1n muy bien elaborados, siempre con ingredientes frescos, tienen propuestas muy interesantes y variadas. CONTRA: Las mesas est\xE1n muy juntas y cuando se llena se torna algo bullicioso. LO MEJOR: Los men\xFAs ejecutivos y Cheddar&Chicken. LO PEOR: La disposici\xF3n de las mesas y el bullicio."
+    date: 01-10-2009
+    user: http://mi.guiaoleo.com/members/68770
+    ambiente_rank: muy bueno

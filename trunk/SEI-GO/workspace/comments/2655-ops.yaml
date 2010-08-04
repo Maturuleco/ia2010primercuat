@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "visite este lugar varias veces. La ambientaci\xF3n es fiel a la propuesta: Stencils por todos lados. Hay un peque\xF1o ambiente donde se exponen cuadernos de artistas que hacen cosas bajo esta est\xE9tica y est\xE1 bueno. Es ideal para ir a tomar una cerveza a la terraza o en las mesas de afuera (aunque la calle es bastante ruidosa). Las veces qeu com\xED sandwichs, me parecieron bastante pobres. Pedimos picada una vez, no era muy variada. Adentro es demasiado oscuro... la atenci\xF3n bastante floja"
+    date: 30-03-2008
+    user: http://mi.guiaoleo.com/members/42573
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Las veces que lo visit\xE9 fue con amigos a tomar una cerveza. Para eso el lugar es increible. Recomiendo la terraza. Un solo d\xEDa pedimos una picada que nos pareci\xF3 demasiada b\xE1sica en comparaci\xF3n con el ambiente."
+    date: 28-02-2008
+    user: http://mi.guiaoleo.com/members/40501
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "El lugar est\xE1 muy bueno, es muy original. Qu\xEDz\xE1s le faltaria apenas un poco de luz. El servicio fue muy bueno.\r\n\
+      Pero la comida... fui con la intenci\xF3n de comer una buena picada o unas tapas, nada del otro mundo y no tenian nada! el queso roquefort estaba en mal estado y las papas fritas tardaron una eternidad en salir. \r\n\
+      Los tragos buenos.\r\n\
+      El precio fue elevado por lo que comimos."
+    date: 12-09-2007
+    user: http://mi.guiaoleo.com/members/13896
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente bar, muy buen ambiente y muy buena m\xFAsica."
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/20314
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un ambiente muy bueno. Excelente m\xFAsica, atenci\xF3n cordial y correcta. "
+    date: 04-03-2007
+    user: http://mi.guiaoleo.com/members/19402
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente ambientaci\xF3n, muy buena m\xFAsica en vivo, esmerada atenci\xF3n, terraza copada, un lugar con onda."
+    date: 25-10-2006
+    user: http://mi.guiaoleo.com/members/13012
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida norte\xF1a de Deborah es excelente."
+    date: 16-08-2006
+    user: http://mi.guiaoleo.com/members/11193
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar distinto con excelente m\xFAsica y un ambiento de lo mejor."
+    date: 16-07-2006
+    user: http://mi.guiaoleo.com/members/10176
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la m\xFAsica, el servicio y la comida."
+    date: 15-07-2006
+    user: http://mi.guiaoleo.com/members/10260
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy bien todo.
+    date: 07-07-2006
+    user: http://mi.guiaoleo.com/members/10689
+    ambiente_rank: excelente

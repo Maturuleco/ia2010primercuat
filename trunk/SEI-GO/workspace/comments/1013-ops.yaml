@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida no era muy sabrosa y las porciones chicas, habia una banda que tocaba a excesivo volumen y despu\xE9s te daban un sobre para colaborar. Los precios mas altos de lo que dice la p\xE1gina."
+    date: 08-11-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Mi peor experiencia por lejos! La comida tardo exactamente 55 minutos en llegar a la mesa, y encima trajeron el pollo crudo! Lo volvieron a traer luego de 30 minutos mas, con un sabor espantoso y sin ningun condimento! Tuvimos que irnos sin cenar. Ademas, anunciaban un show de blues a las 21 hs (motivo de mi visita), el cual comenzo 22.35... Realmente una verg\xFCenza!!! Una pena, porque la onda de lugar y la ambientacion son muy buenos..."
+    date: 27-05-2008
+    user: http://mi.guiaoleo.com/members/45490
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Comimos parrillada. No es buena la calidad. Los chinchulines parec\xEDan chicles, y en gral las achuras no parec\xEDan frescas. La carne dejaba mucho que desear.\r\n\
+      El servicio en gral bien. La banda de funky muy buena. El ambiente est\xE1 muy bien. Tiene varios sectores si no se quiere estar encima de la banda. Si mejoraran la calidad de la comida el lugar ser\xEDa ideal."
+    date: 05-04-2008
+    user: http://mi.guiaoleo.com/members/27164
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar. La banda me sorprendio, la pizza muy buena y el ambiente rustico mas el buen servicio cerraron el trato. Recomiendo el lugar para un domingo a la noche con buenos amigos. "
+    date: 25-02-2008
+    user: http://mi.guiaoleo.com/members/40933
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy lindo lugar, me han sorprendido las excelentes bandas en vivo si es que apetece un poco de BUEN blues y funk. Si bien no fui a cenar, la atencion fue buena. El ambiente muy lindo, acorde a San Telmo. Chico el lugar, pero no est\xE1 sobre-vendido."
+    date: 05-05-2007
+    user: http://mi.guiaoleo.com/members/22908
+    ambiente_rank: excelente

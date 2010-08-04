@@ -1,0 +1,94 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un restaurant como los de antes. Al entrar ya se siente ese olorcito al restaurant tradicional, los mozos vestidos con uniforme te sugieren que es lo mejor a medida que les informas tu pedido y se lo acuerdan de memoria. La comida es exquisita, platos abundantes y ricos. Hace tiempo que no disfrutaba una comida de verdad en un restaurant.
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78239
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Qu\xE9 tristeza ! Volv\xED a LIGURE despu\xE9s de m\xE1s de 10 a\xF1os. Tdo est\xE1 m\xE1s viejo : la actitud de los mozos y,por sobre todo, la comida:pescado reseco, espinacas congeladas echadas en agua hirviendo, sin condimento alguno, milanesitas de lomo (??) de color gris\xE1ceo y no doradas como deber\xEDa ser. La presentaci\xF3n de los platos pobre. Mi \xFAnica recomendaci\xF3n: EVITEN IR !"
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/76433
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "25 a\xF1os despu\xE9s...Ligure! El sal\xF3n y los mozos resistieron con nobleza el paso del tiempo, ameno uno, amables los otros. El divorcio lleg\xF3 con la comida: todas las carnes secas (lomo, matambrito, conejo, abadejo), todas las salsas crudas (verdeo, puerros, vino blanco). Fuentes de acero con corralito de papa duquesa y emplatado in situ con demi-glace enmascarando piezas y guarniciones a criterio del camarero. El flan de naranjas (con 4 cucharitas) fue lo \xFAnico rescatable. Cl\xE1sico y moderno es posible, aunque en el Ligure no se enteraron."
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/33309
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Este restaurante es un clasico y ha sido en general, desparejo, alternando muy buenos platos con otros olvidables. En este caso, ambas caracteristicas estuvieron en el mismo plato: un mondongo extraordinariamente cocido y tierno y con horrible gusto acido de la salsa.Los mozos siempre bien, el lugar mereceria una lavadita de cara. Igual, en alguna ocasion, volvere; quizas ese dia me toque algun punto alto de la carta.Se conjuga la gastronomia y el azar."
+    date: 09-09-2009
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un cl\xE1sico de Buenos Aires, donde los mozos parecen estar desde su apertura, tienen oficio y son muy atentos, la comida muy bien y el ambiente conserva su estilo habitual."
+    date: 23-08-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Despu\xE9s de muchos meses retorn\xE9 al Ligure; esta vez en compa\xF1\xEDa de amigos del exterior. Quer\xEDa que conocieran un restaurante porte\xF1o tradicional. Les encant\xF3 el sitio, el ambiente y la atenci\xF3n. La cocina estaba un poco despareja: algunos platos fueron excelentes y otros no tanto. Los bocaditos de acelga continu\xE1n siendo imbatibles como abrebocas. En mi opini\xF3n, un sitio que vale la pena revisitar de tanto en tanto."
+    date: 29-04-2009
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un cl\xE1sico donde se puede comer platos tradicionales, abundantes y bien hechos, con un extenso y variado men\xFA en donde a\xFAn se puede comer: cordero, conejo, sesos, adem\xE1s de buenas carnes y pastas con estilo \"casero\". \r\n\
+      Ambiente cl\xE1sico y tradicional, no \"fashion\" y muy buena y dedicada atenci\xF3n de sus mozos.\r\n\
+      Lo visito regularmente desde hace 46 a\xF1os y jam\xE1s me fall\xF3 ni me desepcion\xF3. Muy recomendable para quienes valoramos un amplio men\xFA de cocina tradicional."
+    date: 16-11-2008
+    user: http://mi.guiaoleo.com/members/54554
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un clasico de Buenos Aires, vinos muy caros sin razon, comida bien elaborada, antes siempre lleno hoy est\xE1 bastante vacio."
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/15227
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si tienen ganas de los sabores de antes, entonces el Ligure es una muy buena opci\xF3n. Est\xE1 igual desde siempre y mantienen los cl\xE1sicos: carr\xE9 de cerdo con ciruelas, conejito al vino blanco, mondongo a la espa\xF1ola. Nada fashion, pero delicioso!"
+    date: 11-06-2008
+    user: http://mi.guiaoleo.com/members/1628
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Si est\xE1 cansado de las cartas con ingredientes incomprensibles y quiere volver a los viejos restaurantes familiares, Ligure es el m\xE1s indicado. La atenci\xF3n del mozo fue un descanso de los remanidos \xB4cabashero\xB4 y amaneramientos por el estilo. Las porciones eran abundantes, tanto que no pudimos terminarlas, por lo que nos las envolvieron para llevar. Los gustos son contundentes, nada de experimentaci\xF3n ni cocina gourmet. Cocina y punto. Muy recomendable."
+    date: 27-12-2007
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Entrar al Ligure, es entrar a uno de los restaurantes m\xE1s antiguos y tradicionales de Buenos Aires, existe desde 1932. Lo que Ligure ofrece es esto: comida y ambiente tradicional con un servicio acorde. No hay que esperar cocina de autor, ni presentaciones decorativas o m\xEDnimas, los platos son generosos y est\xE1n cocidos de acuerdo a los canones tradicionales. El espacio entre las mesas es reducido, lo que hace menos agradable la visita, especialmente si el lugar est\xE1 muy concurrido. La oferta de vinos es razonable con vinos de precios intermedios, alineados con la clase y calidad de comida que ofrece el lugar. "
+    date: 27-11-2007
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar tradicional de Bs As que conserva su esencia. Muy buena calidad de comida, precios acordes. "
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/20413
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Conserva su estilo y distinci\xF3n. \r\n\
+      Se ha desfasado un poco en los precios, hacia arriba, y los vinos son caros."
+    date: 24-07-2007
+    user: http://mi.guiaoleo.com/members/27719
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Un viaje hacia el pasado.Iba en los 70.Tradicional y bien preparada comida a la manera de anta\xF1o.Comimos centolla al champagne y ven\xEDa \"ornamentada \" con \xA1pur\xE9 duquesa!Riqu\xEDsimo.Le baj\xE9 puntaje al rubro \"servicio\"por una discusi\xF3n con los mozos que entendieron que ped\xEDa centolla para 2,cuando en realidad era para \"compartir\".Lo dej\xE9 all\xED para no arruinar el domingo,y aunque eso me sali\xF3 40 pesos m\xE1s,estaba muy rico.Me hubiera gustado aunque sea \"partir\" la diferencia,pero en fin,dec\xEDa que el resto estuvo muy bueno.Ambiente familiar,con la sensaci\xF3n de que se conocen todos.Volver\xE9 y tendr\xE9 m\xE1s cuidado con el mozo. "
+    date: 08-07-2007
+    user: http://mi.guiaoleo.com/members/13145
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar tradicional, c\xF3mo los de antes. Muy recomendable."
+    date: 30-12-2006
+    user: http://mi.guiaoleo.com/members/15476
+    ambiente_rank: excelente

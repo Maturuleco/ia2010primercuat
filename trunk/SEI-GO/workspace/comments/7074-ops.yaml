@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "El lugar escondido, pero digno de ser encontrado. Excelente ambientaci\xF3n, la atenci\xF3n super buena, los tragos como a vos te gusten, la comida lo \xFAnico flojito pero no malo. Para volver."
+    date: 31-05-2010
+    user: http://mi.guiaoleo.com/members/83123
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "el lugar esta escondido por el barrio chino con una puerta que no dice nada. por dentro es muy lindo, con las mesas un poco pegadas, pero c\xE1lido.\r\n\
+      los tragos son muy ricos y la comida esta bien: platos abundantes y precios razonables.\r\n\
+      una buena opci\xF3n entre las pocas que ofrece belgrano de este tipo."
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/29633
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy interesante el lugar. La entrada es la t\xEDpica de un club privado sin se\xF1as ni apariencia de lo que uno se encuentra adentro. Muy bueno por dentro y clima tranquilo para una noche de martes, miercoles o jueves. Viernes y Sabados se llena (espacio no tan grande) y a veces no dejan pasar."
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/71320
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es incre\xEDble, desde la entrada estilo club secreto, hsta el ambiente casi oscuro, y la m\xFAsica acorde. Los tragos muy bien preparados, y no es caro en relaci\xF3n precio/calidad."
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/76996
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un bar super cool que est\xE1 \"escondido\". Comimos una pizza muy rica y tomamos bloody mary. El bar se especializa en tragos. Volvimos y volveremos."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/38977
+    ambiente_rank: excelente

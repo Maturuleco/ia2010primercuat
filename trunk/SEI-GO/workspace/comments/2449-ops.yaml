@@ -1,0 +1,103 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Una buena opci\xF3n para los mediod\xEDas laborales.\r\n\
+      Siempre vamos con el grupo del trabajo al local que abrieron en la calle Arenales.\r\n\
+      El salad tiene una buena variedad y todos los d\xEDas renuevan las opciones de plato principal. Todo es bien casero.\r\n\
+      Las tortas y macitas son una delicia, especialmente una que bautizamos \"empalagoza\" una masa bien finita, dulce de leche riqu\xEDsimo y merengue italiano.\r\n\
+      Un reproche: a las tartas saladas no le encontraron la vuelta. Siempre parece que les faltara alg\xFAn condimento.\r\n\
+      Igualmente super recomendable para pasar un rato ameno. Ojo! hay que reservar."
+    date: 05-05-2010
+    user: http://mi.guiaoleo.com/members/80868
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy rica comida, abundante y sabrosa, amable la atenci\xF3n, adecuado el precio, lo que no siempre sucede en la zona. L\xE1stima que el lugar es un poco chico, no da para ir en grupos numerosos..."
+    date: 15-09-2008
+    user: http://mi.guiaoleo.com/members/50455
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar guarda la tradici\xF3n del antiguo Bambi con el inmejorable toque de distinci\xF3n de \"Maria\"...los sabores de las recetas de \"Maria del Carmen\" siempre estar\xE1n en mi memoria...no se lo pierdan"
+    date: 24-08-2008
+    user: http://mi.guiaoleo.com/members/34067
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Bueno, primero aclarar que no es un restaurant hecho y derecho. Esto lo confirma el hecho de que cierra a las 21.30 hs, a\xFAn los viernes y sabados.\r\n\
+      Es mas bien una casa de comidas, con algunas mesas donde sentarse a comer. La comida es buena y abundante. Por el tema de los horarios, no volveriamos para ir a cenar, pero si estuvieramos en una casa cerca, eventualmente, podriamos pedir comida, o masas, que dicen que son exquisitas y compr\xE9 pero aun no prob\xE9."
+    date: 06-06-2008
+    user: http://mi.guiaoleo.com/members/16017
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida es buena y todo en la carta tiene un estilo casero caracteristico del lugar.
+    date: 18-02-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un cl\xE1sico de toda la vida y sigue siendo excelente."
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/23846
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La verdad que la comida es exquisita. Casera y con un toque original. La atencion es muy buena y el ambiente cordial. Lo \xFAnico que le criticar\xEDa es que de noche cierra a las 21.30. Igual lo recomiendo en todo sentido."
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/23491
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente cocina y amable atenci\xF3n en plena Recoleta. Dif\xEDcil de encontrar lugares en los que el precio y la calidad teng\xE1n una relaci\xF3n tan satisfactoria."
+    date: 26-03-2007
+    user: http://mi.guiaoleo.com/members/20616
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fue una grata sorpresa comer en un ambiente tan agradable, una comida bien hecha y en pleno Recoleta donde en general se paga un alto precio por un servicio y una comida que no siempre lo vale y s\xF3lo porque es un lugar \"turistico\".  \r\n\
+      Volver\xE9 a ir con visitantes o sola en otras oportunidades y lo recomiendo calurosamente."
+    date: 24-01-2007
+    user: http://mi.guiaoleo.com/members/16938
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sigue con la tradici\xF3n del siempre recordado Restaurante Bambi. Muy bueno."
+    date: 19-01-2007
+    user: http://mi.guiaoleo.com/members/16548
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno, como sucesor de Bambi que tambi\xE9n es excelente."
+    date: 23-07-2006
+    user: http://mi.guiaoleo.com/members/10446
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Com\xED blanco de pavita con casta\xF1as y pur\xE9 de batatas.\r\n\
+      Este plato est\xE1 fuera de lista, debe ser solicitado para una fecha determinada."
+    date: 24-05-2006
+    user: http://mi.guiaoleo.com/members/8770
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo caser\xEDsimo y muy rico."
+    date: 07-04-2006
+    user: http://mi.guiaoleo.com/members/7567
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente. Contin\xFAa la tradici\xF3n del Bambi de siempre. Un hallazgo en Recoleta."
+    date: 04-04-2006
+    user: http://mi.guiaoleo.com/members/7515
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El secreto mejor guardado de Recoleta. \r\n\
+      La mejor comida, excelentes las tortas y sandwiches, la atenci\xF3n es muy c\xE1lida.\r\n\
+      En fin, para almorzar diariamente si se est\xE1 en el barrio o pedir por tel\xE9fono.\r\n\
+      \xDAltimamente lleno de turistas,  con lo cual el secreto est\xE1 transpasando las fronteras.\r\n\
+      Un lugar muy hot."
+    date: 31-03-2006
+    user: http://mi.guiaoleo.com/members/7401
+    ambiente_rank: excelente

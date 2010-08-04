@@ -1,0 +1,100 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Comimos un menu ejecutivo, nos parecio aceptable en relacion precio calidad, la pasamos bien...
+    date: 01-07-2010
+    user: http://mi.guiaoleo.com/members/84799
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida estuvo excelente. Nos asesor\xF3 muy bien en cuanto a las cantidades el mozo, y su atenci\xF3n fue  muy buena. Lo recomiendo y seguro que volveremos!!Relaci\xF3n precio-calidad muy buena."
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/15402
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La parrilla argentina es lo mas!!!
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/81691
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Lo positivo es la comida que es de calidad y rica.\r\n\
+      Lo neutro es la decoraci\xF3n que es un agregado poco coherente de cosas del campo y de los pubs ingleses.\r\n\
+      Lo malo es el servicio que es desastroso.\r\n\
+      En una mesa de 4 personas, estabamos transparentes. Nuestra mesa no tuvo ninguna atencion correcta.\r\n\
+      Esperamos para tener la carta, esperamos para pedir, esperamos para tener condimentos, esperamos para tener pan... \r\n\
+      Son 5 los mozos que nos atendieron en 2 horas. \r\n\
+      Lo unico que no tuvimos que esperar es para tener la cuenta (a pagar en effectivo solamente).\r\n\
+      Estaba transparente, no me ver\xE1n nunca m\xE1s!"
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/73128
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pretencioso, la carne mediocre aunque buenas las achuras, ricas las ensaladas, no volver\xEDa. No se disfruta de buena carne y es muy caro para lo que ofrecen."
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/46282
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comimos el men\xFA ejecutivo, una empanada de carne cortada a cuchillo, una entra\xF1a con ensalada verde, un panqueque de postre, todo por $ 32, el precio y la calidad excelente."
+    date: 16-06-2009
+    user: http://mi.guiaoleo.com/members/20889
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy bueno el chorizo y las mollejas, siempre es muy bueno, la carne no es la mejor pero igualmente voy seguido ya que me gusta mucho el lugar y las achuras
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/8023
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "la verdad, el hombre es el \xFAnico animal que tropieza 2 veces con la misma piedra, la verdad nunca me parecio bueno La Dorita en Palermo, por que iba a ser este bueno? como dijeron por ac\xE1 el parrillero no tiene un buen concepto del punto de la carne, y la gente del servicio no sabe transmitir, la ensalada....verdura de 4ta, las papas ricas, lo unico que vale la pena el el chorizo relleno( tampoco como para ir), precios MUY ALTO, para una carne muy standard. Sinceramente, si fuese un resto de 20 pesos, da para ir pero cuesta 4 veces mas. Si comiste alguna vez un buen asado, este no es el lugar"
+    date: 30-01-2009
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Mi corte de parrilla preferido es la entra\xF1a. Y la verdad en La Dorita est\xE1n necesitando un manual de los grados para cocinar la carne y llegar a los distintos puntos. El pur\xE9 provenzal es bueno. Nada del otro mundo."
+    date: 22-12-2008
+    user: http://mi.guiaoleo.com/members/55839
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me pareci\xF3 excelente la relaci\xF3n calidad/precio, la verdad es que com\xED entrada, plato principal, postre, bebida y caf\xE9 todo por 30 pesos sin ning\xFAn cargo adicional de servicio de mesa ni nada. La canasta de pan ten\xEDa pancitos caseros, el mozo era junior pero muy amable y bien predispuesto, la parrilla fue muy buena y las porciones abundantes. Un hallazgo. Tambi\xE9n hab\xEDa opciones de pasta. El helado del postre es de Persicco. Para recomendar."
+    date: 12-11-2008
+    user: http://mi.guiaoleo.com/members/7407
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos al lugar porque pasamos por la esquina y nos gust\xF3. M\xE1s nos gust\xF3 la comida, la atenci\xF3n, el lugar o sea todo hizo que nuestro almuerzo fuera de lo mejor. Realmente es para volver y para visitar La Dorita de enfrente que tiene una terraza muy linda."
+    date: 09-11-2008
+    user: http://mi.guiaoleo.com/members/8720
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar es muy ruidoso, pero la comida es buena, la atencion esperada. Esta bueno ir con amigos. Los precios estan acorde a la propuesta, nada diferente.
+    date: 01-11-2008
+    user: http://mi.guiaoleo.com/members/54070
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Si uno viene a buscar buena carne a la parrilla, buenas achuras, servido todo en su punto justo, y con buena relaci\xF3n precio calidad: este es lugar. Bajo estos preceptos La Dorita es definitivamente muy bueno en comida, bien la atenci\xF3n, pero muy ruidoso el ambiente"
+    date: 28-10-2008
+    user: http://mi.guiaoleo.com/members/2647
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      excelente la comida, las pastas caseras al igual que la salsa riquisima.
+      El ambiente es agradable. La atencion es muy buena. Da gusto encontrar un lugar asi.
+    date: 05-10-2008
+    user: http://mi.guiaoleo.com/members/52523
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "No solo las carnes son buen\xEDsimas en la Dorita, las pastas son bien caseras y las salsas riqu\xEDsimas, super recomendable."
+    date: 03-10-2008
+    user: http://mi.guiaoleo.com/members/20889
+    ambiente_rank: excelente

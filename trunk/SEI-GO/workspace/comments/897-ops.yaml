@@ -1,0 +1,38 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "A las tres de la ma\xF1ana pedimos Milanesas con fritas y  nunca nos arrepentimos.\r\n\
+      Todo recien hecho ! de primera y de yapa nos convidaron unos kesitos espectaculares !"
+    date: 05-09-2009
+    user: http://mi.guiaoleo.com/members/53254
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Un lugar que se qued\xF3 en el tiempo y casi como si no quisieran seguir trabajando a excepci\xF3n del mozo que tuvo que salir a tapar la mala voluntad de los due\xF1os.\r\n\
+      Pedimos balones que eran copas todas distantes en forma y tama\xF1o y que argumentaron que era la medida de bal\xF3n que ellos utilizan y no la que el resto del mundo usa.\r\n\
+      La pizza normal, nada del otro mundo.\r\n\
+      Una pena... un lugar para el olvido."
+    date: 10-01-2009
+    user: http://mi.guiaoleo.com/members/37320
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Viv\xEDa muy cerca cuando soltero y si paso por all\xED no puedo dejar de comer en la barra unas salchicas con papas y un par de balones.\r\n\
+      L\xE1stima que ya no es el de antes.\r\n\
+      Lo noto bastante desprolijo, pero la cerveza tirada es muy buena.\r\n\
+      Necesitar\xEDa una \"cosm\xE9tica\" en el sal\xF3n "
+    date: 13-06-2007
+    user: http://mi.guiaoleo.com/members/18568
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Gente muy agradable, comida muy buena en un sitio muy afable para conversar y picar.
+    date: 15-02-2007
+    user: http://mi.guiaoleo.com/members/18367
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Relacion calidad/precio muy buena, con buen ambiente y buen trato.
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/18369
+    ambiente_rank: muy bueno

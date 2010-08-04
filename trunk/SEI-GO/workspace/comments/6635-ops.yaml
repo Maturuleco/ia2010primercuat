@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: la provoleta era pasable, la milanesa a la napolitana estaba rica pero dejaba bastante que desear. no creo que vuelva a ir pero igual no se comio mal.
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/83545
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Destaco dos cosas de esta parrilla. Est\xE1 abierta las 24 horas del d\xEDa, y sus precios son relativamente econ\xF3micos.\r\n\
+      El ambiente y el servicio distan mucho del ideal, pero no es ese el motivo por el que diariamente la gente hace cola en este restaurante. El delivery es una buena opci\xF3n ya que ofrece porciones abundantes a buen precio.\r\n\
+      En resumen, no busquen ambiente ni servicio, solo encontrar\xE1n carne de calidad aceptable a precios accesibles."
+    date: 06-06-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Es uno de los pocos lugares de Capital que te sirven parrillada hasta altas horas de la madrugada. La calidad de la carne var\xEDa, aunque en general es muy buena en relaci\xF3n al precio que se paga. La ambientaci\xF3n es tipo fonda. Un lugar muy recomendable."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78187
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pedimos 3 tablas con 3 cortes de carnes y una de achuras para seis personas, m\xE1s 2 papas fritas. Todo estaba ok. Volver\xE9."
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/38977
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Excelente calidad de carnes a muy buen precio.
+      Lugar recomendado para comer muy bien, sin lujos y a buen precio
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/64804
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: El lugar es ideal para ir con grupos grandes y gastar poco. La calidad de la carne no es buena pero no se puede esperar mas siendo libre al precio que esta. Por lo que en relacion precio calidad esta bien pero prefiero poner un poco mas y comer mejor
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/76245
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Por el precio y la calidad, es muy buena la propuesta.Ademas, esta abierto hasta horas muy extensas. Cuando quieran comer algo bueno y baratito de parrilla, no se lo pierdan. RECOMENDABLE
+    date: 05-01-2010
+    user: http://mi.guiaoleo.com/members/2062
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Sin ninguna duda una de las mejores parillas de la zona. La comida siempre guarda cualidad, aunque no esta TAN regular como se dice. Definitivamente las achuras est\xE1n mejores que la carne. Papas fritas \xE0 evitar \x96 casi siempre llegan tibias y blandas. Bastante bueno el vino de la casa."
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/74295
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La mejor parrilla de la zona. Estan abieros casi todo el dia, lo cual da varoedad de horarios para ir a probarla. 100% recomendable.
+    date: 26-12-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Excelente, para desayunar, jajja. Tipo 5-6, cuando salis de bailar unos choris y provoleta, genial!!
+    date: 12-12-2009
+    user: http://mi.guiaoleo.com/members/21549
+    ambiente_rank: muy bueno

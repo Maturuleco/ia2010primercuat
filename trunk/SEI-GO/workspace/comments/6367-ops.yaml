@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Como casi todo lugar de Palermo, considero que el precio es alto en comparaci\xF3n a lo que brindan. La brochette, muy seca y casi sin vegetales. La bondiola marinada, excelente.  Cuando el local est\xE1 a pleno el servicio decae."
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/38755
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: Fuimos el domingo al mediodia. Parrilla de barrio con onda palermitana. Muy buena la atencion de la camerera.La comida normal. Los membrillos asados que ofrecen estaban buenos. Pero al ser asados uno se imagina salidos de las brasas contrastando con un toque de crema. Deberian modificar el nombre del postre.
+    date: 31-05-2010
+    user: http://mi.guiaoleo.com/members/82878
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Ambiente ruidoso, m\xFAsica inadecuada, atenci\xF3n destemplada. El matambre casi p\xE9simo. Las papas a la crema llenas de agua. Mi calificaci\xF3n 4."
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: hola la verdad comimos parrillada y no me convencio la atencion es buena y esmerada , pero las papafritas estaban con aceite viejo , y el pan duro , la parrillada para 4 me parecio muy pobre 1 solo chorizo y una sola morcilla
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/77386
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Comimos una colita de cuadril con morrones asados, realmente muy buena y muy abundante.Excelente punto de la carne.
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/15972
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Arrancamos mal, pan, manteca llego la ensalada, pero la camarera se olvido las bebidas. 
+      Pedimos una tapa de ojo de bife, bien jugosa y llego entre apunto y cocido. En cantidad estaba bien pero no el punto deseado. La ensalada tenia muchas hojas en mal estado. no volvere
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/77241
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Habiendo comido muy bien en otros tiempos, decidimos entrar para disfrutar los clasicos platos parrillero. Pedimos una ensalada completa, pero le faltaba absolutamente todo, un poco de zanahoria, 2 cubos de remolacha y muchas hojas verdes.... Asi no era la completa... y el huevo? y la papa? Luego llego el matambrito tiernizado que parecia una suela de zapatos. Seco, quemado por debajo, no se podia comer. Pedimos el cambio y nos trajaeron, despues de 30 minutos un \"pedazo\" de entra\xF1a, asqueroso. Solicitamos que lo envuelvan y lo llevamos para el perro. Para nada recomendable y muy caro."
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/46083
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: Calidad por debajo de la media en esa zona. Muy irregular, alterna algunos buenos platos con otros malos. La ambientacion tipica de la zona y la atencion super esmerada de una camarera.Para ir muy de vez en cuando, pero.....
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: No lo recomiendo en absoluto. Es el tipico lugar donde te arrancan la cabeza con los precios y la comida precisamente no lo justifica ni por la calidad ni por la cantidad. No vayan!!
+    date: 10-11-2009
+    user: http://mi.guiaoleo.com/members/71869
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: El chorizo sabia horrible, pedi que me cambien la ensalada de papa (me trajeron una mixta con tomates medios pasados, el carre estaba ok. No voy a volver, hay lugares mejores.
+    date: 04-10-2009
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: bueno

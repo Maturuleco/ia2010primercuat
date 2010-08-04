@@ -1,0 +1,236 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El servicio que brinda el restaurante deja mucho que desear. Durante la semana la atenci\xF3n es muy buena y los platos se sirven sin demora. El \xFAltimo fin de semana estaba tan lleno de gente que tardaron como 2 horas en servirnos y la camarera no era servicial. \r\n\
+      Honestamente no recomiendo ir el fin de semana si quieren tener una cena placentera. \r\n\
+      Lo que se observa es que no miden la cantidad de comensales respecto a su personal de servicio."
+    date: 03-07-2010
+    user: http://mi.guiaoleo.com/members/84740
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Viernes a la noche,lugar repleto y ruidoso.\r\n\
+      El ba\xF1o de mujeres ten\xEDa un solo inodoro, hab\xEDa cola. Los tragos ricos y generosos. La comida bien, el show de Teppanyaki algo pobre pero la pasamos bien."
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/84453
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Una opcion distinta para disfrutar del show en el teppanyaki y, si tienen suerte, les toca alguien simpatico sera aun mejor. La comida es de nivel medio, no sorprende ni defrauda. Es recomendable ir de a varios y compartir platos.
+    date: 21-06-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Recomiendo a los amantes de sushi ir a la barra, los sushiman estan a disposicion de hacer probar nuevos gustos que no estan en la carta, imperdible!!!!Al ambiente le falta mejorar la extraccion de olores debido al humo de las planchas de las mesas de 8.Volveremos!!!!!
+    date: 04-06-2010
+    user: http://mi.guiaoleo.com/members/48418
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy rico el sushi, Estaba excelente!!! mu sabroso despues pedimos un wok de pollo y uno de carne era chico pero un manjar...lo que si nos parecio un poco caro ya que te cobran servicio de mesa (de 7 pesos cada uno) y no te sirven ni pan.
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/38776
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fui varias veces y normalmente el servicio es bien, no muy bueno y no muy malo. Tienes que tener suerte que recibis un mozo bueno y un cocinero con ganas y experiencia. La ultima vez que fuimos el mozo olvido a traer arroz, y estaba hablando como si nosotros fueron amigos de su barrio. El chef hizo todo sin ganas, demasiado salado, y casi no dijo ni una palabra. En tepanyaki la presentacion y show es todo y me parece que el gerente esta fallando en su eleccion de empleados.
+    date: 23-05-2010
+    user: http://mi.guiaoleo.com/members/82827
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fuimos con un grupo de 8, nos acomodaron en una mesa de 10 con una pareja que habia entrado sin reserva. la pasamos muy bien excenlente la comida y servicio. atendidos por el mozo Ra\xF9l q nos explico paso a paso la carta y recomendo los mejores platos, mientras tenia lo que parecia un evento en las q habia casi 20 personas, sonamos pense, pero bien todo a tiempo y sin ningun problema. el show muy divertido,la comida abundante. Volveremos Recomiendo, hacer reserva, y pedir Por chefs, Andres, Carlos. o el mozo q nos toco Raul"
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/81842
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lugar para ir una vez a conocer por el show del teppan, y pasar una noche diferente. De todas formas hay cocineros que le ponen mucha m\xE1s onda que el que nos toc\xF3. \r\n\
+      La comida no es nada fuera de lo com\xFAn, pero es MUY abundante (insisto, MUY): cada plato del teppan viene con sopa, ensalada, langostinos grillados, arroz, y t\xE9 verde (la carta dec\xEDa tambi\xE9n helado...nunca lo trajeron). Dato \xFAtil: la mayor\xEDa de las bebidas tienen refills. \r\n\
+      Pedimos un roll de sushi que no era nada espectacular, ten\xEDa de todo y MAYONESA arriba!!\r\n\
+      Es bastante caro a la noche, pero el men\xFA ejecutivo era barato."
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/28008
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui al mediodia....com\xED muy bien. Todo muy fresco y variado. Excelente el boat surtido (tabla en forma de barco con degustaci\xF3n de sushi,tempura,ensalada,sopa de miso,etc...etc...). De postre helado o Nespresso. Muy importante: recargan la bebida cuantas veces quiera. Vuelvo..."
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/18842
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui al mediod\xEDa, \xE9ramos 2 y comimos muy bien el men\xFA ejecutivo. Uno de Teppanyaki (\"show\" incluido) y otro men\xFA que viene un barco muy variado. Te traen una ensalada, una sopa, el teppanyaki adem\xE1s de rico es muy generoso ya que el primer paso del show es un chao fan. De postre helado de Freddo, terminamos muertos. No hab\xEDa mucha gente, con lo cual la atenci\xF3n fue muy buena. Muy buena opci\xF3n para comer el men\xFA ejecutivo, el men\xFA parec\xEDa bastante caro."
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/15655
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "FUimos para festejar el cumplea\xF1os de un adolescente. FUe una opci\xF3n muy divertida y los chicos lo disfrutaron bastante. EL show est\xE1 bien, pero seg\xFAn gente que conoce Benihana de otros pa\xEDses, ac\xE1 el show es muuuy moderado. El plato incluye los acompa\xF1amientos y un t\xE9 al final de la comida. S\xF6lo sirvieron los platos que se piden aparte, los que estaban incluidos en el precio hubo que reclamarlos. Pienso que depende del mozo que te toque, el nuestro fue flojo. Y al final la cuenta estaba mal. Lo corrigieron, pero son detalles que habr\xEDa que controlar, sobre todo en un lugar tan show off."
+    date: 19-04-2010
+    user: http://mi.guiaoleo.com/members/19272
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui a cenar con mi mujer y nos cocino un chef en la mesa. La pasamos muy bien y el show del chef era buenisimo !!! Los rolls tienen 10 piezas y estan muy bien armados y ricos. No comimos postre porque era un mont\xF3n de comida. Lo recomiendo."
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/80523
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos con mi marido el Sabado a la noche primero tomamos unos mojitos exquisitos en la Barra,luego pasamos a la mesa de Tepanyaky estabamos muy interesados en conocer este tipo de cocina en vivo,el Chef Andres nos brindo un show excelente,nos fuimos muy contentos.
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/80165
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Lo mejor de todo son los tragos del happy hour que usan bebidas premium importadas y la tiene super clara el barman Franco. El Benihana Mojito es el mejor trago del mundo !!! Comimos Gyosas que son empanaditas japonesas y tambien un katsu como son como milanesitas de pollo y bife buenisimas !!!Les recomiendo el happy hour a full !!!
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/80169
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me sente con mis amigas en las mesas donde te cocina el chef y estuvo todo b\xE1rbaro. Yo comi el plato que combina lomo con langostinos y todo excelente. Tambi\xE9n probamos el sushi y el mejor fue el acevichado roll y el philly caliente. El chef hizo los platos delante nuestro y fue increible !!! Tomamos el cocktail benihana punch que es muy rico. Los recomiendo para pasar un buen momento entre amigas y hacer un programa distinto."
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/80163
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      El sushi es muy pobre, faltos de sabor y los sashimis a temperatura ambiente. El pulpo parecia un chicle.
+      Lo bueno la sopa de miso. Muy caro por la calidad de los alimentos
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/70028
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Uramaki acevichado se desarmaba.\r\n\
+      El roll Philadelphia era m\xE1s queso blanco que salm\xF3n.\r\n\
+      En el men\xFA no aparec\xEDa la opci\xF3n de t\xE9 verde, o sea que si no pregunt\xE1bamos no \xEDbamos a probar.\r\n\
+      El men\xFA era bastante incompleto comparado con otros restaurantes japoneses y la relaci\xF3n precio-calidad no era buena."
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/57329
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Atencion: Todo tardo siglos en venir, un agua nunca vino. mosos desbordados. Cuando vino mi trago el moso lo volco sobre mi servilleta y ni siquiera ofrecio cambiarmela tuve que atajarlo en otra pasada. SUSHI: Malo. pedimos 5 rolls distintos, demasiados ingredientes juntos, no hay de salmon solo, todos vienen con kanikama y se imaginan las proporciones (eso si precio de salmon). Ademas 2 venian con Mayonesa arriba!!! que no figura en la carta y se desarmaban y las piezas cortadas de distinto tamano en un mismo roll. Confundieron uno de los rolls pero hubiera llevado siglos cambiarlo."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/67143
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "A favor:ambiente agradable,excelente la atenci\xF3n de Mauricio(camarero) quien nos explico al detalle todo el servicio, y de Sebasti\xE1n(teppan) y la comida sin sobresalir es una opci\xF3n interesante para conocer,y probar cosas diferentes.\r\n\
+      En contra: la relaci\xF3n calidad-precio no es acorde. Los postres no merecen mayor atenci\xF3n.\r\n\
+      Anecd\xF3tico: Vuelvo y recomiendo sobre todo a grupos de amigos que quieran disfrutar del show del teppanyaki."
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Un lugar para conocer...Fui directamente a comer en el Teppan...ya que creo que no hay en Buenos Aires otro lugar que lo ofresca. La explicacion del camarero..mauricio..no deja dudas. Es muy divertido el show del cocinero y muy amable por cierto.. Como un Benihana premiun que incluia carne y langostinos...las porciones no estan acordes al precio pero vale la pena conocer el lugar....
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/37537
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buenas opciones de sushi; el de langostino empanado estaba muy rico y tambi\xE9n me gust\xF3 el trago Exotic Mojito. Muy simp\xE1tico el mozo y agradable lugar para comer afuera en estas noches lindas de verano"
+    date: 04-03-2010
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "No me gust\xF3.\r\n\
+      Los rolls no son ricos, parecen un rejunte de lo que hab\xEDa en vez de ser sushi de autor.\r\n\
+      El sashimi fresco.\r\n\
+      No volver\xEDa."
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/52113
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Al entrar percibi un fuerte olor que provenia del teppan, como el tepan mucho no me atrae y queria probar el sushi y otros platos me sente en la barra.
+      Fui atendido por un camarero y el sushiman.
+      De entrada me pedi unos rolls, platos principales era un wok con carne y otro con pollo.
+      Si bien la porciones son grandes un plato vino no muy caliente y el otro plato que traia un langostino que le faltaba descongelar y lo saltearon igual, un error bastante grave y la sensacion realmente fea.
+      La carta de sushi no me gusto mucho, pero si la atencion del sushiman y el roll que comi.
+    date: 25-02-2010
+    user: http://mi.guiaoleo.com/members/62543
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui a almorzar al mediod\xEDa y me sent\xE9 en las mesas con planchas llamadas tepan donde te cocinan ahi mismo. Yo com\xED el menu de lomo y mi amigo el de pollo. La verdad que la comida fue excelente calidad y las porciones enormes. El menu te viene con sopa, ensalada, arroz salteado y vegetables. Lo mejor de todo es que el cocinero te hace un show mientras cocina que parece salido del circo soleil. Voy a volver a la noche con mis amigos y copar toda una de las mesas."
+    date: 23-02-2010
+    user: http://mi.guiaoleo.com/members/77284
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: excelente calidad de comida, con excelente show
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/76921
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Fuimos para el dia de los enamorados con reserva previa. Los platos son abundantes de muy buena calidad. Para recomendar los langostinos.
+      El ambiente es muy lindo y la experiencia de tener al cocinero frente a uno haciendo trucos nunca la habiamos vivido.
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/40341
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Fuimos 8 personas y tuve la oportunidad de probar todos los platos principales hechos a la plancha.\r\n\
+      Los acompa\xF1amientos (verduras, ensalada y sopa) estaban muy bien. El sushi de salmon estaba bueno mientras que el de atun rojo horrible.\r\n\
+      Los mariscos no tenian gusto fresco, y tanto el pollo como la carne sabian hervidos en lugar del tradicional gusto que da el teppan (plancha). Una desilusi\xF3n y un pesimo valor. No pienso volver."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/5088
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Realmente muy buena experiencia, a pesar de las pocas expectativas que le tenia a este lugar. Fuimos atendidos en la barra por el sushiman quien nos sirvio una degustacion de sashimis, niguiris, rolls y tiraditos espectaculares. El ambiente un poco frio, la atencion fue muy buena.
+    date: 02-02-2010
+    user: http://mi.guiaoleo.com/members/75542
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hab\xEDa estado en Benihana de Fort Lauderdale y \xE9ste no tiene mucho que envidiarle. La calidad de la comida excelente, el mozo algo lento. El cocinero que nos hizo los platos en el tepanyaki, muy bueno. La diferencia es que en el de Fort Lauderdale el show con los cuchillos es impresionante. La relaci\xF3n precio - calidad es muy buena."
+    date: 01-02-2010
+    user: http://mi.guiaoleo.com/members/61335
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Toda una novedad por nuestros pagos, aunque alguna vez Sensu, a mediados de los `90, quiso imponer (inspir\xE1ndose precisamente en Benihana). El Teppan es muy curioso, y da para pasar un rato agradable en buena compa\xF1\xEDa.  La calidad de la cocina me gust\xF3, y el Surf Side (preparaci\xF3n de mariscos), muy bien hecha."
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/6819
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Comi en la mesa alrededor del Teppan, muy lindo show y diferente. La comida no es barata pero es de muy buena calidad, el servicio fue muy bueno. Recomiendo reservar. Voy a volver sin duda.
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/15111
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "todo es muy bueno, el servicio, los mozos , la comida pero al pagar la cuenta la felicidad termina, no hay nada barato y por no pedir un plato de 70 pesos por persona te cobran una especie de multa de 10 pesos, inconcebible para un lugar que presume de nivel, los vinos car\xEDsimos sin posibilidades de alguno barato, en fin casi todo bueno pero muy caro con relacion a este tipo de restaurante lo que har\xE1 que con el tiempo la gente deje de concurrir cuando acabe la novedad"
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/47228
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Buenisimo me encanto el show. La comida de 10 y abundante
+    date: 24-01-2010
+    user: http://mi.guiaoleo.com/members/75490
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "dificil de calificar, el sushi fue muy bueno, al igual que la tempura. Los postres no estaban mal, pero no ten\xEDan presentaci\xF3n y varios gustos de helado no estaban disponibles. La ambientaci\xF3n (normal, casi t\xEDpico de tenedor libre, con el control del A/C al lado de la mesa jejeje), la carta un poco confusa. La valilla muy linda, las copas de vidrio (para un buen vino amerita una mejor copa). Punto aparte para la atenci\xF3n, no fue buena realmente, la chica se olvidaba las cosas, demoraban mucho en el refill de la gaseosa, se olvid\xF3 una entrada ... no creo volver, pero fue una linda noche."
+    date: 22-01-2010
+    user: http://mi.guiaoleo.com/members/3967
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: Fui por la noche a una de esas mesas con la plancha en el medio donde te hacen el show, el cual esta bien y es una curiosidad. La comida es rica pero escasa ( la sopa y la ensalda q te dan sin cargo son olvidables ). El ambiente es prolijo pero nada mas, podrian haberle puesto mas onda. El sushi esta bien, pero para nada destacable, por el precio que tiene hay lugares mejores. Conclusion, esta bien para ir una vez y ver el show , si van varios amigos juntos y ocupan toda una mesa alrededor de la plancha seguro que se van a divertir. Dudo que vuelva.
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/15246
+    ambiente_rank: bueno

@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: No vuelvo jamas,toda la parrilla marcada o del dia anterior,atencion de favor,lento,el ambiente es de campo,pero el resto,no existe
+    date: 20-06-2010
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Buenisima la carne y las papas de otro planeta. Calida atencion y calido ambiente, ni hablemos del precio. Altamente recomendado.
+    date: 03-06-2010
+    user: http://mi.guiaoleo.com/members/83202
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente lugar, altamente recomendable! muy buena atenci\xF3n y riqu\xEDsima comida!!"
+    date: 02-06-2010
+    user: http://mi.guiaoleo.com/members/83023
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Una parrilla donde lo principal es la buena carne y no tiene pretensiones gourmet palermitanas. Ademas de la calidad de la carne hay que mencionar las papas fritas \"de verdad\" (no son congeladas ni marcadas). El servicio es muy eficiente y amable. Cuando cerraron el local anterior me preocup\xE9 ^hasta encontrarlo de nuevo porque era como una sucursal de mi casa. El local es sencillo pero limpio. Recomendable 100%"
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/790
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Era cliente en Los Tatas de Honduras. Los mismos due\xF1os, la misma calidad de comida, los precios son insuperables, en un lugar mucho mas lindo con hogar, patio."
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/82712
+    ambiente_rank: excelente

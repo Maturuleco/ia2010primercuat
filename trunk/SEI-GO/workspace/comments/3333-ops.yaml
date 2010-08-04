@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "Fui con una amiga. La Honey Beer es una cerveza muy buena, aunq las cervezas artesanales all\xED son bastante caras. Deber\xEDan bajar un poco el volumen de la m\xFAsica y hacer algo con el ruido ya que es un lugar al que me gustar\xEDa volver. La atenci\xF3n de los camareros fu\xE9 buena y los tragos hechos en la barra excelentes."
+    date: 20-08-2008
+    user: http://mi.guiaoleo.com/members/50053
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: La comida de terror. Bife durisimo y recocido (lo habia pedido jugoso)
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/733
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buenas opci\xF3n para salida con amigos y llevando como intenci\xF3n tomar buenas cervezas y pasar un rato agradable en un lugar informal. Para cenar, la comida es regular en calidad y superlativa en el precio adem\xE1s de ser un ambiente extremadamente ruidoso."
+    date: 31-07-2008
+    user: http://mi.guiaoleo.com/members/45712
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Lo mas destacable de este pub son los happy hours extendidos por $22 , ojo a temperatura ambiente, y el servicio que a pesar de estar completo estaba casi siempre presente. Las papas fritas buller con queso una aceptable opci\xF3n como entrada,vienen con queso y cebolla de verdeo. Ruidosisimo bar,hab\xEDa que gritas para poder escuchar al otro enfrente. Tambien lo malo es que hab\xEDa mucho olor a tabaco.No volver\xEDa."
+    date: 20-06-2008
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelentes cervezas artesanales. muy buenas pizzas.
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/15476
+    ambiente_rank: excelente

@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es uno de los reconocidos como bares notables de la ciudad de buenos aires.la edificaci\xF2n es muy linda y un bar con mucha historia.\r\n\
+      lamentablemente, mi experiencia fue mala, ped\xEC un tostado y un cortado. el cortada no tiene mucha ciencia asi que estuvo bien, mientras que el tostado solo era una sola unidad y helado. \r\n\
+      la atenci\xF2n no es destacada, diria que casi no hay atenci\xF2n.\r\n\
+      en cuanto a los ba\xF1os totalmete deplorables,muy sucios.\r\n\
+      no es recomendable."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/68299
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Si bien es un lugar basicamente bar/confiteria, la calidad de la comida del restaurant es absolutamnete olvidable o, mas bien, deplorable.Si no lo quieren hacer, es mejoir que dejen de funcionar como restaurant y mantengan el bar/cafe que esta bien. Sinceramente uno de los peores almuerzos del centro y no pedimos nada extra\xF1o, una ensalada (horrible) y una pechuga de pollo, seca, insipida y triste. Que  lo hagan conmas \"ganas\" o que solo vendan cafe y te."
+    date: 17-10-2008
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Uno de los m\xE1s lindos de los caf\xE9s tradicionales de Buenos Aires. El lugar es precioso, muy cl\xE1sico, al estilo de La Ideal o el 36 Billares, pero m\xE1s ingl\xE9s. Los precios son apenas caros, algo com\xFAn en pleno microcentro, pero la merienda (t\xE9 en hebras, muchas tostadas, queso crema y dulce) es b\xE1rbara. Para ir a tomer el t\xE9 de las 5 o a desayunar tranquilo un d\xEDa."
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/40514
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Bar y restaurante tradicional de Buenos Aires y de la calle Florida. El local tiene una decoraci\xF3n elegante tradicional, con sillas muy c\xF3modas, como para quedarse todo el d\xEDa en ellas. Los mozos atienden muy bien. En mi opini\xF3n el Richmond es un sitio ideal  para disfrutar de un clarito o un whisky acompa\xF1ado de los ingredientes de la casa. Muy buenos tambi\xE9n los sandwiches de pan de miga. Muy recomendable para llevar visitantes del exterior, para que se tomen una idea del Buenos AIres de mediados del siglo pasado. En resumen un sitio con encanto y una muy buena atenci\xF3n."
+    date: 14-02-2008
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Uno de los lugares mas cl\xE1sicos de Buenos aires, para tomar un rico t\xE9. Un lugar cargado de historia."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno

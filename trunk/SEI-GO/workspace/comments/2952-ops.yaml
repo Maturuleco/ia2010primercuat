@@ -1,0 +1,67 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Malo malo malo....yo cocino mejor, para hervir fideos con salsa blanca
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      La pasta como dijo mucha gente debe ser de un paquete, cualquiera puede hacerlo. Mis amigos comieron pollo y parecia mas elaborados. 
+      Las bebidas excesivamente caras. La musica estaba fuerte, pero teniendo en cuenta que es un boliche pasa. El poste muy malo.
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/35980
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Muy malo en todo sentido
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/15972
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: OBVIAMENTE a este resto no vas x la comida, y tampoco solo. Se salva que fuimos con mucha gente y se hace divertido cualquier lugar. OJO!!! depende q busques... quizas tengas suerte!!! jajajajaj Si buscas comer rico, go away!!!!
+    date: 08-08-2008
+    user: http://mi.guiaoleo.com/members/3919
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Mal\xEDsimo para ir a comer. La m\xFAsica muy fuerte. El servicio, parec\xEDa de un bar de retiro. La comida fr\xEDa, poca, y no era buena. El postre mal\xEDsimo, la bebida un afano! No vayan ni lo recomienden. Y eso que era jueves y hab\xEDa poca gente. \r\n\
+      No vuelvo m\xE1s."
+    date: 18-10-2007
+    user: http://mi.guiaoleo.com/members/28259
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: horrible la comida horrible el servicio la verdad es un comedero espantoso los postres tenian todos las mismas salsas y el helado, barato y de mala calidad!
+    date: 05-09-2007
+    user: http://mi.guiaoleo.com/members/24948
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es escasa. El postre estuvo muy bueno.\r\n\
+      El ambiente es tan ruidoso que no se escuchaba a la persona que ten\xEDas al lado. El show muy corto.\r\n\
+      No me gust\xF3 para nada.  "
+    date: 28-07-2007
+    user: http://mi.guiaoleo.com/members/28298
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "fui al cumplea\xF1os de una amiga, las pastas parecian de paquete la salsa vieja y muy liquida, el postre helado era obviamente comprado, el sevicio pobre y desprolijo no lo recomiendo para comer si para ir a tomar algo o bailar, "
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/13347
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ambiente excelente, show muy bueno, m\xFAsica poco variada, comida buena (pero poca). "
+    date: 26-04-2007
+    user: http://mi.guiaoleo.com/members/24911
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena atenci\xF3n, ambiente agradable, la moza muy dedicada y atenta, la bebida un poco cara(es la mala costumbre que tienen los restaurantes de Argentina) y el ba\xF1o estaba limpio y con personal permanente. A la hora de la cena, la musica estaba muy fuerte.\r\n\
+      En general recomendable, despues de cenar se transforma en boliche con muy buena musica de los 70\xB4y 80\xB4."
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19002
+    ambiente_rank: muy bueno

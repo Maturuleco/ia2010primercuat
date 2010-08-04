@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Una adevertencia al desprevenido, al tratarse de un hostel y no un restaurant por si mismo, el dia que concurri para conocerlo me lleve un fiasco, solo habia de plato pizza libre y algunos productos de cafeteria, lo disponible depende del dia si aun quieren probarlo llamar para confirmar menu
+    date: 13-11-2007
+    user: http://mi.guiaoleo.com/members/33660
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Buen ambiente, comida muy buena y piola. Eso s\xED, el servicio es muy lento."
+    date: 21-12-2006
+    user: http://mi.guiaoleo.com/members/14935
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo mejor es el ambiente muy canchero y con el toque bohemio de un rest\xF3 cool de San Telmo. \r\n\
+      La comida estaba rica pero lamentablemente lleg\xF3 fr\xEDa, por falencias en el servicio, un aspecto que podr\xEDan mejorar para ganar puntos porque vale la pena tener en cuenta este lugar, que adem\xE1s tiene muy buenos precios de men\xFA de mediod\xEDa."
+    date: 17-08-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy buena comida y ambientaci\xF3n. Tiene que mejorar el servicio."
+    date: 11-05-2006
+    user: http://mi.guiaoleo.com/members/1864
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hermoso lugar, tiene un parque absolutamente silencioso, lo que lo hace un oasis en pleno centro. \r\n\
+      Adem\xE1s, al estar incorporado a un hostel, tiene un ambiente cosmopolita interesante. Lo \xFAnico bajo es la atenci\xF3n, que podr\xEDa mejorar."
+    date: 05-05-2006
+    user: http://mi.guiaoleo.com/members/8258
+    ambiente_rank: excelente

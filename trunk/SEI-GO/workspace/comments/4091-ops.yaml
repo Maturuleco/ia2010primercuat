@@ -1,0 +1,21 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: un desperdicio que no tengan un buen servicio de bar con sushi o algunos bocados en la terraza los dias lindos.
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/60105
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente servicio. Ambientaci\xF3n elegante y moderna. Atenci\xF3n personalizada y amplia informaci\xF3n sobre la confecci\xF3n de los platos. Las entradas de comida de fusi\xF3n fueron excelentes en sabor, con ingredientes de primera, aunque un poco escasas. La degustaci\xF3n de postres incluy\xF3 una extensa variedad para todos los gustos, desde creme brulee hasta queso de cabra, bree y exquiteses de chocolate. Altamente recomendable!!!!!"
+    date: 07-11-2008
+    user: http://mi.guiaoleo.com/members/54166
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Realemente excelente. La comida es exquisita, el ambiente es muy calido, al igual que la atencion. Estan en todos los detalles.
+      Todo estuvo a la altura de las circunstancias, desde los platos hasta el vino recomendado. Y la degustacion de postres de chocolate, riquisima. Para ir con amigos o en pareja. Es super recomendable, sin dudas que volvere.
+    date: 01-10-2008
+    user: http://mi.guiaoleo.com/members/44985
+    ambiente_rank: muy bueno

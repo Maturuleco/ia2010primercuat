@@ -1,0 +1,763 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: el ambiente y servicio estuvieron de 10. la entrada y el postre excelentes, pero el plato principal no tan bueno. el precio es muy caro!
+    date: 15-06-2010
+    user: http://mi.guiaoleo.com/members/83735
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Comimos el men\xFA de degustaci\xF3n. La comida estuvo bastante buena, aunque el postre no estaba a la altura del resto del men\xFA. El ambiente excelente. El servicio, con fallas inaceptables para un restaurante de esta categor\xEDa a nivel mundial (Relais & Chateaux): demoras inexplicables, olvidos, y desatenci\xF3n total hacia el final de la cena. Es mi segunda visita a este restaurante y en ambas senti lo mismo, no se si vuelva...."
+    date: 14-06-2010
+    user: http://mi.guiaoleo.com/members/83677
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me sorprendi\xF3 gratamente el nivel del servicio y la variedad de platos que ofrece el men\xFA. La carta de vinos es la mejor que he visto. Es cierto que es muy caro pero la experiencia lo vale. Lo negativo: 1- nos ofrecieron una copa de un espumante determinado como aperitivo, sin comentarnos otras opciones. Pensamos que era una cortes\xEDa pero luego las adicionaron a la cuenta. Tal vez me hubiese gustado m\xE1s otra cosa, nunca lo sabr\xE9. 2- La ambientaci\xF3n del sal\xF3n necesita una renovaci\xF3n. 3- Nuestras copas se vaciaban antes de que las volvieran a llenar."
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/8976
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la verdad es que fui unas cuantas veces a comer alli y nunca fallo. La comida es execelente sin lugar a dudas es el mejor restoran de bs as. El unico que esta a la altura internacional. El servicio de 5 estrellas y realmente vale la pena pagar TANTO!
+    date: 02-06-2010
+    user: http://mi.guiaoleo.com/members/83191
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Correcto pero no a la altura del  precio y super inflado por los criticos gastronomicos.No se entiende. Bien, normal, pero caro. No entiendo tanto comentario exagerado sobre este lugar.
+    date: 04-05-2010
+    user: http://mi.guiaoleo.com/members/80968
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente en todo sentido. Realmente sigue siendo el mejor restaurant de Buenos Aires al estilo Palace. Fantastico servicio !
+    date: 28-04-2010
+    user: http://mi.guiaoleo.com/members/46303
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la mejor comida de buenos aires. el mejor pan.servicio super.muy buen precio/calidad al mediodia.
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/81971
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hace mucho tiempo ten\xEDa ganas de ir a probar la \"Experiencia Bourgogne\", porque creo que es mucho de eso y no tanto de \"ir a comer afuera\".  Reserv\xE9 una mesa para las 22 horas.  Llegu\xE9 a las 21:50 y me pidieron aguardar en el antesalon, ofreciendome una copa.  Ped\xED un espumante nacional y mi mujer un Cosmopolitan.  a las 22:25 nos dieron la mesa en sal\xF3n fumadores (hab\xEDa aclarado que quer\xEDa no fumadores).  De los 7 pasos del men\xFA 2 fueron excelentes (el postre y el risotto) y el resto estuvieron s\xF3lo bien.  La sorpresa? al llegar la cuenta, inclu\xEDa las dos copas del comienzo... una l\xE1stima."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/79219
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Seleccion de quesos de La Bourgogne de Punta del Este es muy superior! Y prefiero Foie Gras de Chila. Un lugar muy muy caro pero que no esta a la altura de las pretenciones. Que dificil que es comer buena comida francesa en la Argentina!
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/84413
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Solo hab\xEDa escuchado y le\xEDdo comentarios del lugar. Todos buenos.  Y no hay manera de negarlos. La atenci\xF3n es exelente desde el primer momento en que llegas. La comida, es \"exquisita\" la combinaci\xF3n de sabores en su ponto justo, hacen de La Bourgogne un restaurant que cierra desde la arista que lo mires. M\xE1s que recomendable."
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/18025
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Increible experiencia, la mesa de quesos, los maridajes , la excellencia en cocina.Super recomendable!
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/77875
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El servicio fue impecable.La carne en su punto justo.
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/19797
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Carisimo,pero, lejos...el mejor lugar de Buenos Aires
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/76058
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelente todo. Dir\xEDa que es objetivamente el mejor restaurante de BA. Demasiado caro para este pa\xEDs. Comparado con Europa o EEUU ser\xE1 barato, pero para Argentina es excesivo. El men\xFA degustaci\xF3n de 7 pasos est\xE1 muy bien, pero le falta un plato m\xE1s salado -quiz\xE1s un solomillo- y le sobra uno de los 3 postres. Probablemente el insignificante sorbete corta sabores (5 paso) podr\xEDa desaparecer y en todo caso no deber\xEDa contar como uno de los pasos!"
+    date: 14-01-2010
+    user: http://mi.guiaoleo.com/members/57149
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Como siempre y sin lugar a dudas, la mejor comida y la mejor atenci\xF3n. Siempre para volver y disfrutar."
+    date: 22-12-2009
+    user: http://mi.guiaoleo.com/members/74970
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Volvi\xF3 a caer el nivel. La ensalada de mar, mucho m\xE1s pobre en cantidad y presentaci\xF3n, sin las necesarias hojas verdes, siendo una ensalada. Las costillas de cordero vineron en su punto, pero la carne fria, en plato sin calentar y la guarinici\xF3n inexistente. Con el te de menta no nos trajeron petit fours. Pero lo peor fue que en la cuenta nos cobraban por error un plato principal que no hab\xEDamos pedido! Que suerte que nos fijamos! Vamos (\xEDbamos) para nuestro aniversario desde hace 15 a\xF1os. No volvemos."
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/73811
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Desde que uno entra se siente y se respira \"se\xF1orialidad\", la comida est\xE1 en su punto y no le sobra ni le falta nada al sabor. La presentaci\xF3n es sin palabras. La atenci\xF3n es adecuada. Vale pagar lo que se cobra."
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/72112
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente!! la comida, el servicio y el ambiente deifnitivamente vale la pena pagar para comer aqui. Hacer reserva ya que estaba lleno y era un miercoles por la noche.IMPECABLE
+    date: 30-09-2009
+    user: http://mi.guiaoleo.com/members/9517
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un restaurante imprecionante, ambiente, comida y servicio entre los mejores del mundo si lo analizamos a nivel internacional por valor dolar este es el mejor y lo tenemos en Buenos Aires.
+    date: 25-09-2009
+    user: http://mi.guiaoleo.com/members/69483
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Sino es el mejor restaurant de Bs. As., esta cerca de serlo...muy recomendable
+    date: 01-09-2009
+    user: http://mi.guiaoleo.com/members/68427
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Sobresale por la calidad del servicio y la gran cocina. Todo es un detalle que sorprende. El ambiente no es ninguna maravilla.
+    date: 31-07-2009
+    user: http://mi.guiaoleo.com/members/12927
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente en todo sentido. Servicio dedicado al comensal. Comida de primera... Todo un placer. Hay que ir, s\xED o s\xED."
+    date: 07-07-2009
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Fuimos gracias al menu Coas Gourmet Oro, con un precio fijo ($180) conveniente que incluida entrada, plato, postre, media botella de vino, agua y cafe y nos permitieron elegir cualquier plato de la carta (con excepcion del foi gras y las otras). Muy buena comida y excelente atencion. Para no perderselo.
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/52829
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente servicio, fuimos con 8 personas y en el momento de servir los platos hab\xEDan 6 mozos serviendonos casi todo simultaneamente. Fuimos con el men\xFA COAS Gold y realmente fue una experiencia inolvidable. La calidad de la comida y las opciones excelente. El bufet de quesos una muy buena opci\xF3n. Un lugar para volver en ocaciones especiales."
+    date: 22-06-2009
+    user: http://mi.guiaoleo.com/members/10599
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Nuevamente encauzado, este restaurant vuelve a posicionarse, en mi opini\xF3n, entre los mejores de la ciudad, con una f\xF3rmula sencilla y eficaz: excelente cocina, materias primas de primera, y atenci\xF3n desestructurada y eficiente. A veces en estos lugares basta con dirigirse amablemente al servicio, con buena onda, para romper el acartonamiento imperante, y lograr  perfecta armon\xEDa entre gastronom\xEDa y atenci\xF3n,  obteniendo as\xED una experiencia inolvidable.  Es caro, por ah\xED MUY caro, pero en \xE9ste nivel se justifica ampliamente."
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/37371
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Realmente la comida excelente, opacada solamente por su excesivo precio. Lo que si es lamentable es la atenci\xF3n. Apenas pasados los postres los mozos desaparecen por arte de magia. Adem\xE1s, como es t\xEDpico en estos restaurantes, la bebida queda un tanto alejada de la mesa y que se dignen a servirla es realmente milagroso. En otro tipo de restaurante hubiera tildado el servicio como bueno, pero en un lugar que pretenda ser el mejor restaurante del pa\xEDs es inadmisible."
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Despu\xE9s de leer los comentarios que ponen bien a este restoran -teniendo en cuenta la relacion calidad precio- pienso que Buenos Aires est\xE1 lleno de cholulos que nunca comienron en fuera de Argentina."
+    date: 15-05-2009
+    user: http://mi.guiaoleo.com/members/60923
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La Bourgogne fue y sigue siendo el mejor restaurante de BA. Esta ultima visita prob\xE8 las ranas a la provenzal que resultaron perfectas, el rack de cordero que resulto perfecto y finalmente las crepe suzette que resultaron verdaderamente muy buenas. La experiencia de mi pareja fue sumamente satisfactoria tambien comiendo langostinos, conejo y degustacion de chocolates. Para remarcar la atencion que es verdaderamente de alto nivel, guantes blancos, metre, mozas, mozos y sommelier de gran calidez y profesionalismo y un ambiente que aunque muy pulcro necesita a mi criterio una renovacion. Soberbio"
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/6990
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Pedimos el menu degustacion, creo que nos equivocmos porque es tal la mezcla de sabores y texturas que uno se marea. Hab\xEDa algunos muy buenos como el: \"Noisette d'Agneau \xE0 L' Estragon Frais acompa\xF1ado con Tempranillo Q, y otros con combinaciones desacertadas como por ejemplo:  \"P\xE9toncles Po\xEAles en coquilles-Chipirones \xE0 l'Huile de Chorizo\" la verdad que el marisco con gusto a chorizo no nos gust\xF3. El sal\xF3n no est\xE1 bien logrado, el piso flotante no condice con la categor\xEDa del hotel. El servicio muy bueno al igual que la gran variedad de panes, postre, quesos y petits fours."
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/8416
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente es la palabra que describe a este Restaurante. Ambiente, Servicio y Comida sintonizan en perfecta armonia para una propuesta de nivel superior, cuyo precio est\xE1 acorde a los mejores de Europa.\r\n\
+      Entrada: Ensalada de mar, aunque compartimos, estaba perfectamente servida, la materia prima era de primerisima calidad y su sabor lo reflejaba.\r\n\
+      Lomo a la pimienta flambeado en cognac, terminado en la mesa agreg\xF3 a la experiencia el hecho de esparcir por el ambiente el aroma del licor.\r\n\
+      Creppes Suzzete: Summum de la sutileza.\r\n\
+      T\xE9, preparado en la mesa con hierbas cortadas en el momento. REC!"
+    date: 07-04-2009
+    user: http://mi.guiaoleo.com/members/10495
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Me defraudo hace mucho que lo queria conocer y fue una desilusi\xF3n. La ensalada de pato estaba bien Foie gras tenia el gusto de la refrigeraci\xF3n. El plato degustaci\xF3n de Kobe se sirvi\xF3 \x93fr\xEDo\x94 imperdonable en un lugar como este. Luego de darle temperatura estropearon el punto de la carne. La oferta de pan era excelente claro que lamentablemente no todos eran frescos algunos estaban para tostadas. Los postres bien pero luego del Kobe estropeado. Hecha la fama y \x85.."
+    date: 05-03-2009
+    user: http://mi.guiaoleo.com/members/59353
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente cocina y servicio. Desde la recepcion con copa de champagne, bocaditos, panes, mantecas, tempura. Todo muy bien presentado. Hay platos principales que los terminan de armar en un carrito al lado de la mesa. Los mozos son totalmente profesionales y serviciales, y atienden con una sonrisa. La ambientacion creo que habria que renovarla y hacer el lugar un poco mas acogedor.
+    date: 22-01-2009
+    user: http://mi.guiaoleo.com/members/25520
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Impecable todo. Entre las recomendaciones del CHef eleg\xED el ciervo en reducci\xF3n, casi INEFABLE de lo exquisito.Cada bocado para disfrutar al extremo.Los postres manjares. La carta de vinos sorprendente (tama\xF1o libro).Indudablemente lo mejor de BUenos AIres."
+    date: 08-01-2009
+    user: http://mi.guiaoleo.com/members/54735
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El mejor restaurant de Buenos Aires, los platos son deliciosos, la atencion es excelente y la carta de vinos inigualable. Los sabores de los platos son unicos e irrepetibles. Destacable el servio del vino. Critica: el cafe, demasiado fuerte para ser el ultimo sabor que te llevas luego de la comida."
+    date: 19-12-2008
+    user: http://mi.guiaoleo.com/members/57769
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Una lastima. Tenia muchas expectativas con este restaurante, teniendo en cuenta que soy chef y que me habia oido hablar muy bien de \xE9l. Fui con cuatro personas mas y a mi fue a la unica que le fue bien. Pedi un lomo a la pimienta, que estuvo muy bueno, de entrada unos langostinos inmejorables. Del resto todo fue malo y empeor\xF3. Las ostras las abrieron mal y venian pedacitos de la cascara adentro.  El cordero no sabia a nada, el salmon menos, no parecen productos frescos. "
+    date: 18-12-2008
+    user: http://mi.guiaoleo.com/members/41485
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Sin dudas el mejor resto de Argentina. La comida, el ambiente y el servicio es Espectacular... Muy recomendable.
+    date: 10-12-2008
+    user: http://mi.guiaoleo.com/members/25988
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida increible, cada bocado un sabor esquicito, las salsas lo mejor, el ambiente esta un poco antiguo
+    date: 30-11-2008
+    user: http://mi.guiaoleo.com/members/42861
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Encontre lo q fui a buscar servicio calidad y excelente comida Tomamos la degustacion y maridaje de vinos Para destacar los salseados Comida dentro de la caracteristica francesa con toqes modernos No me parecio caro en relacion comparandola con iguales restaurants y servicio en NY,SPablo o LON cuestan mas del doble de lo q pagamos aca por igual excelencia de cocina Mejoraria la ambientacion Los platos salieron todos en tiempo y porciones mas que razonables para una degustacion Muy buena pasteleria buen detalle el brioche q dan cuando nos retiramos Para personas que sepan valorar la experiencia
+    date: 20-10-2008
+    user: http://mi.guiaoleo.com/members/37366
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Necesita urgente una modernizaci\xF3n la ambientaci\xF3n el lugar. El mobiliario, si bien en perfecto estado, es de los a\xF1os '80. Esas dicroicas...Menu de 6 pasos y atenci\xF3n, excelente. Estaria bueno que te llamen por tu nombre, son detalles. Pero en otros restaurants de este tipo en el extranjero te hace sentir bien que te digan \"Sr Fulano, alg\xFAn tipo de pan en especial?\""
+    date: 14-10-2008
+    user: http://mi.guiaoleo.com/members/52913
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Ambiente simpatico, servicio excelente, pero comida buena, nada mas. La pechuga de pato estaba bien rosada pero demasiado dura. El postre se llama \"D\xE9lice d'\xE9pices\" pero todavia estoy buscando las especias. La \"d\xE9gustation de cr\xE8mes brul\xE9es\" esta riquisima (es mi postre favorito ;-) Carrisimo comparativo a la calidad de la comida. La cocina no esta muy inventiva. Debo precisar que soy franc\xE9s y conozco muchos restaurantes gastronomicos franceses."
+    date: 10-09-2008
+    user: http://mi.guiaoleo.com/members/51355
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Solo admite una palabra para describirlo: Perfecci\xF3n. Cada paso del men\xFA degustaci\xF3n nos iba mostrando un mundo de sabores delicadamente combinados, y nos iba generando una experiencia inolvidable... Y los vinos, impecables. Sobresale la entrada caliente de langostinos envueltos en hilos de papa y el carro de quesos. El servicio es m\xE1s que impecable: profesionales y discretos. Bien por Alejandro el Sommelier y por Cristian el Maitre. Excepcional!"
+    date: 07-08-2008
+    user: http://mi.guiaoleo.com/members/34790
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: realmente es excelente.junto con bengal lo mejor de bs as.
+    date: 05-08-2008
+    user: http://mi.guiaoleo.com/members/46573
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la verdad que es excelente todo, me gusto todo el lugar , la comida y el servicio , un lugar unico que hay que conocer!! la verdad excelente!!!!
+    date: 31-07-2008
+    user: http://mi.guiaoleo.com/members/36333
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: |-
+      Fui con muchas expectativas, y la verdad me decepciono un poco.
+      Me encanto el lugar, y el servicio es muy bueno, con mucho cuidado en los detalles. Sin embargo, me parecio que todo era muy anticuado. La calidad de los productos se notaba que era buena, pero los platos parecian salidos de los ochentas. Entiendo que los precios sean elevados por eso pero no me parece que se justifique gastar tanto por una experiencia que en general no disfrute tanto. Ademas habia poca gente, lo que mataba el ambiente. No volveria.
+    date: 28-07-2008
+    user: http://mi.guiaoleo.com/members/49276
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Deberian tener un puntaje mayor a "excelente" para estos casos. degustacion de 7 pasos. se fueron mejorando uno a uno, cuando pense que eran inmejorables. las sopas, los ravioles de conejo, el pato, los pescados y el carro de quesos!!! que maravilla. el sommelier, los camareros, el maitre, todo es magico. una experiencia que hay que vivir antes de morir! el precio deberia ser aun mas alto, para aquellos que todavia no lo valoran!!
+    date: 15-07-2008
+    user: http://mi.guiaoleo.com/members/13474
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: me parecio un lugar muy elegante y a la vez calido es para recomendar sobre todo para una celebracion importante como un aniversario.
+    date: 15-07-2008
+    user: http://mi.guiaoleo.com/members/47257
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es el mejor restaurante de Buenos Aires
+    date: 09-07-2008
+    user: http://mi.guiaoleo.com/members/44660
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Con suerte quedan estos lugares que dan realmente momentos de alta gastronomia ! Un servicio impecable
+    date: 11-06-2008
+    user: http://mi.guiaoleo.com/members/46303
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Lo mejor restaurante en Buenos Aires. EL menu de medio dia es un regalo. No se puede comer asi en ningun cuidad del mundo con esa relacion precio calidad....
+    date: 26-05-2008
+    user: http://mi.guiaoleo.com/members/36353
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: la verdad una verguenza!!! pedi cordero y estaba abombado!!!! pedi un lomo jugoso y me traen uno cocido, no voy nunca mas no recomendable! una lastima era lo mejor que tenia buenos aires.
+    date: 16-05-2008
+    user: http://mi.guiaoleo.com/members/34243
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El servicio fue mejorando a medida que nos acercamos al postre. La atencion de los camareros muy impersonal, desprolija y mucha demora en la atencion. Estabamos ubicados en una mesa redonda (6 personas) en el centro del salon principal y era bastante incomodo las voces de las otras mesas (muy ruidoso). El sommelier no nos dio ninguna sugerencia pese a que la carta de vinos es extensa y muy completa. . Los platos muy elaborados pero a mi entender no justifica el precio de los mismos. Para recomendar la carta de postres: la degustacion de chocolate realmente un placer."
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/7695
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La Bourgone es uno de los 3 mejores restaurantes de Buenos Aires, no lo digo yo, as\xED es en cualquier guia especializada que se consulte. Tambi\xE9n es car\xEDsimo. Considero que en un restaurante que se atreve a cobrar $100 un plato, ning\xFAn plato puede dejar cierta disconformidad. Mismo criterio con el servicio. Que a 1 plato de 6 le falte suficiente salseado o que en un servicio, 2 platos salgan con un peque\xF1o delay es observable en un local de esta categor\xEDa. Por supuesto que ser\xEDa una exageraci\xF3n bajar 1 punto en una escala de 4 por esto.Si fuera una escala de 10, deber\xEDa poner un 9. Vale la pena"
+    date: 23-04-2008
+    user: http://mi.guiaoleo.com/members/12257
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "fuimos un grupo de 6 personas.Comimos de casi todo, y la comida en general estuvo muy buena, salvo el bife a la pimienta que estaba \"imposible\" de picante y cognac;yo lo prob\xE8 y acuerdo en el exceso de alcohol.Demoraron 40 minutos en traer la comida porque,seg\xF9n el maitre, el lugar se llen\xF2 de repente.(imperdonable)El resto de los platos, muy buenos.Me sorprendieron por lo abundantes.Ojo con las aguas francesas.....aqu\xEC nada es gratis.En suma volveremos...por la revancha.Esperaba una excelencia que no tuvo.Ah!muy buena la carta de vinos y en precio."
+    date: 21-04-2008
+    user: http://mi.guiaoleo.com/members/13145
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sin duda el mejor lugar de Buenos Aires. odo perfecto, todo cuidado, desde el pan con varias variantes, la presentaci\xF3n de los platos, la definici\xF3n de los sabores, la alta calidad de la materia prima. Espectacular la atenci\xF3n y el sommelier que sabe la inmensa propuesta de vinos. Destacan los Vinos Naturales que nos recomendaron, \xFAnicos, excelentes."
+    date: 08-04-2008
+    user: http://mi.guiaoleo.com/members/3380
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es el restaurant m\xE1s fino que conoc\xED donde, como dicen otros comentarios, no existe la fusi\xF3n: Platos t\xEDpicos franceses. Te atienden de manera inmejorable, los mozos, sommeliers y hay hasta personas que especialmente se ocupan de servir algunos platos como el frances que te lleva el pato a la mesa y lo corta y arma el plato en el momento. Es muy caro pero vale la pena ahorrarse 5 cenas en otro lugar para ir a comer a la bourgogne; el mejor restaurant de Buenos Aires."
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/6823
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "A la altura de un hotel 5 estrellas, y coherente con el estilo del hotel. No tuvimos ninguno de los inconvenientes que se\xF1alan otros comentarios de la gu\xEDa. El servicio nos pareci\xF3 correcto, auque podr\xEDamos conceder que le faltar\xEDa un poco, si se lo compara con otros lugares de similar categor\xEDa. La carta es acorde al lugar: ning\xFAn eclecticismo fashion, cero \"fusi\xF3n\". S\xF3lo platos bien preparados, que cumplen ampliamente con lo que prometen. Para algunas ocasiones."
+    date: 27-02-2008
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: los platos no condicen con un restaurant de esa categoria,te invitan 2 copas de champgne y te las cobran 35 $ c/u ,no cubrio nuestras espectativas,no volveria,me sigo quedando con tomo i
+    date: 24-02-2008
+    user: http://mi.guiaoleo.com/members/40865
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Nos decepciono porque parecia que tenia que ser el mejor de Bs.As. El servicio de mesa fue correcto pero la comida anticuada con poca elaboracion.\r\n\
+      Estos restaurantes se diferencian por los peque\xF1os detalles y en el caso de \"La Bourgogne\" no fueron correctos, se les olvido ofrecernos la copa de bienvenida que tuvimos que reclamar, tuvimos que reclamar la carta de vinos cuando ya teniamos el primer plato servido en la mesa.\r\n\
+      No nos gusto el restaurante, que si bien es correcto, no cumple con las expectativas que un restaurante de esta categoria genera ni en cuanto a comida ni el servicio. "
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/39384
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: El chiste del lomo flambeado es justamente que te lo flambeen en el acto, vinieron con la excusa de que no podian flambearlo ahi porque se les acabo el gas y entonces lo flambearon en la cocina.Es un bochorno que en un restaurant de esta categoria te salgan con semejante excusa, de cuarta!
+    date: 29-01-2008
+    user: http://mi.guiaoleo.com/members/39108
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar increible, la atenci\xF3n y la comida han sido acorde al establecimiento."
+    date: 19-01-2008
+    user: http://mi.guiaoleo.com/members/38528
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy Buena la Comida, Muy bien atendidos, Provisoriamente atienden en el salon de Planta baja del Hotel pues estan refaccionando el Restaurant.
+    date: 13-01-2008
+    user: http://mi.guiaoleo.com/members/38508
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Ya antes me hab\xEDa defraudado , pero la lectura de tantas cr\xEDticas favorables me impuso volver. Fue un error, sin duda. La cocina es muy pretenciosa, pero muy mala, p\xE9sima si se tiene en cuenta el precio que cobran. El servicio es casi rid\xEDculo para la categor\xEDa del hotel Alvear -el mejor de Bs.As.- Lo \xFAnico a la altura fue la excelente carta de vinos... an\xE9cdota: mientras cenamos vimos c\xF3mo rechazaban se\xF1ores por no llevar saco ni aceptar ponerse uno que ofrec\xEDan, hasta que lleg\xF3 uno en camisa que... tras hablar con alguien entr\xF3 sin saco. NO VOLVERE"
+    date: 13-01-2008
+    user: http://mi.guiaoleo.com/members/16143
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una cocina superlativa con platos e ingredientes especiales. Servicio de excelente nivel y una carta de vinos y cavA que pocos deben tener: de todas partes del mundo y precios y calidades para satisfacer hasta al m\xE1s exigente.\r\n\
+      La mano de Jean Paul se nota hasta en los detalles."
+    date: 27-12-2007
+    user: http://mi.guiaoleo.com/members/20197
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      La verdad no tengo nada malo que decir. fue una muy buena cena tdo delicioso y la atencion de los camareros muy buena.
+      tengo pensado volver....
+      sigan asi...
+    date: 02-12-2007
+    user: http://mi.guiaoleo.com/members/36379
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es la primera vez que vamos a cenar a La Bourgogne. Una maravilla. El servicio excelente, los mozos muy gentiles y delicados, la comida espectacular, los pescados de una suavidad extraordinaria, los postres de chocolate...para desmayarse! Muy buenos los vinos y el champagne (seguimos los consejos de la sommelier. Una noche de ensue\xF1o, realmente. Rosanna"
+    date: 29-11-2007
+    user: http://mi.guiaoleo.com/members/36225
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Un lugar excelente para ir cenar, la carta predecible pero muy bien realizada, comida francesa en el alvear no podia ser menos.el servicio deslumbro, pero asi tambien te cobran.
+      Los postres lo mejor!
+    date: 22-11-2007
+    user: http://mi.guiaoleo.com/members/36144
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "excelente en todos los sentidos, la comida anticuada, igual que toda la comida francesa cl\xE1sica pero, a pesar de ello calidad excelente"
+    date: 18-11-2007
+    user: http://mi.guiaoleo.com/members/34758
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente en todos los t\xE9minos. Da gusto pagar lo que sale. Los platos, el ambiente, el servico todo con la calidad de un 5 estrellas. Y, como era mi cumplea\xF1os, tuvieron la delicadeza de traer una \"tortita\" (ganache de chocolate amargo con base de pralin\xE9 de avellanas y almendras tostadas y miel)con una bengala y una vela. Es de lo mejor de Buenos Aires, desde el agua \"Perrier\" hasta el espacio entre las mesas y la delicadeza de los mozos (siempre atentos pero no cargosos). Una linda manera de festejar."
+    date: 03-11-2007
+    user: http://mi.guiaoleo.com/members/12015
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la comida excelente como debe de ser de un relais & chateaux, todo a la perfeccion, el somelir muy bueno junto a la carta, el mejor de buenos aires..
+    date: 24-10-2007
+    user: http://mi.guiaoleo.com/members/31095
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: aburrido, con comida hiper grasa, pates, mantecas, cremas, una antiguedad.
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/34336
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Simplemente el mejor lugar que fui a comer en toda mi vida, una experiencia \xFAnica, interminables sorpresas ( la mesa de quesos, las degustaciones, la carta de vinos, etc..)\r\n\
+      LUGAR EXTREMADAMENTE RECOMENDABLE"
+    date: 24-09-2007
+    user: http://mi.guiaoleo.com/members/10904
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El mejor resto de buenos aires. fui varias veces y siempre mantiene la excelencia. la carta no tiene ningun plato que no sea espectacular. la carta de vinos es de lo mejor, los postres deliciosos y la atencion la mejor de buenos aires por lejos.  el ambiente esta cuidado pero no es nada exclusivo ni diferente. imperdible !
+    date: 14-09-2007
+    user: http://mi.guiaoleo.com/members/33989
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fomos em um grupo de 10 pessoas.Comida excelente(menu degusta\xE7\xE3o), acompanhada de bons vinhos(incluidos no pre\xE7o). \xD3timo o servi\xE7o. Valeu cada centavo pago."
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/32032
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: todo es perfecto, pese a que era lunes habia bastante gente, mientras comia habia alguien q tocaba el piano, la comida perfecta, y el servicio el mejor de esta ciudad, todos muy atentos, para todo lo que dan no es tan caro, en total nos pasaron como 6 platos y eso que no pedimos entrada jee, el lugar perfecto para ocasiones especiales, felicitaciones Jean Paul Bondoux, saludos
+    date: 27-08-2007
+    user: http://mi.guiaoleo.com/members/8637
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: el servicio es impresionante!!!!!!!todos son muy profesionales, saben lo q estan vendiendo. el maitre y el somelier son de lo mejor que me atendieron en bs as, perfectos los maridajes y la comida es impecable, junto con la mesa de quesos......todo IMPECABLE. solo la musica (un pianista en vivo q se retira a las once) y los panes nos decepcionaron. se lo recomeido a todos...es una experiencia culinaria la carne de ciervo con salsa de chocolate.......
+    date: 25-08-2007
+    user: http://mi.guiaoleo.com/members/29285
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Claramente dentro del top 5 de Buenos Aires. La perfecci\xF3n se ve en los detalles, y la calidad en la simpleza. El servicio es excelente y muy profesional,sin exageraciones ni imposturas, y siempre dispuesto a ayudar. La comida de primera, el punto es punto, el cocido tambi\xE9n, los ingredientes, los mejores. La carta de vinos, merece un estudio aparte, la m\xE1s completa de estas latitudes. Para las grandes ocasiones es una opci\xF3n re contra v\xE1lida, y hasta obligada."
+    date: 19-08-2007
+    user: http://mi.guiaoleo.com/members/22266
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Dicen q todo extremo es malo por eso les aseguro La Bourgogne es el equilibrio perfecto.
+      Nada q criticar. Todo excelente. Super recomendable. No se lo pierdan.
+    date: 18-08-2007
+    user: http://mi.guiaoleo.com/members/11398
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy rico, buen ambiente, recomendado!!! "
+    date: 18-08-2007
+    user: http://mi.guiaoleo.com/members/29901
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sobresaliente en todo sentido. Jean Paul sigue manteniendo un alt\xEDsimo nivel tanto en sus platos cl\xE1sicos como los de la carta que va renovando. Hoy quisiera destacar dos aspectos: la atenci\xF3n es impresionante: prolija, desapercibida; exacta en los tiempos: perfecta. Lo otro: la mesa de quesos, previa al postre es la mejor de Buenos Aires. Aplausos.- "
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/23140
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es muy dif\xEDcil encontrar el equilibrio entre lo sencillo y lo opulente, entre lo delicado y lo extravagante y entre lo justo y lo excesivo. La Bourgogne lo logra. La comida es impecable, al mejor nivel que puede ofrecer nuestro pa\xEDs. La atenci\xF3n es esmerada, educada, simp\xE1tica, profesional y especialmente sutil. La ambientaci\xF3n es cl\xE1sica, simple y despojada pero elegante, con el nivel de vajilla y equipamiento que requiere esta clase de restaurantes.\r\n\
+      Imperdibles y lujuriosos los postres, deliciosas e inesperadas las \"invitaciones del chef\" y soberbia la carta de vinos y alcoholes.\r\n\
+      La cuenta es importante pero vale cada peso gastado \"invertido\" en ella."
+    date: 04-08-2007
+    user: http://mi.guiaoleo.com/members/6990
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo es excelente, la comida, el servicio, etc. El men\xFA de medio d\xEDa muy recomendable. La ambientaci\xF3n del lugar un poco decepcionante; tal cual un sal\xF3n de hotel adaptado a restaurante."
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/1469
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Primera vez que voy, la verdad es que todo muy rico y una atencion muy profesional, lo mejor, los postres, eso si es carisimo, pero va deacorde a lo que ofrecen.
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/16066
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Porsupuesto que en un hotel 5* el lugar es impecable. El servio es como personalizado, super atentos, no se puede exigir mas.
+      La entrada que comimos fue caviar y ostras, un manjar!
+      La comida esta muy buena, pero disfrute tanto la entrada que ya la comida no me apetecia mucho.
+      El postre y el cafeincreibles.
+      La verdad que es para ir en una ocasion super especial y pasar una velada de 10
+    date: 12-07-2007
+    user: http://mi.guiaoleo.com/members/39388
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Standart internacional, como comer en un excelente restaurant frances.\r\n\
+      Atencion excelente, tanto el maitre como el sommelier y los mozos.\r\n\
+      Supera las expectativas, siempre se recibe algo mas de lo esperado. "
+    date: 11-07-2007
+    user: http://mi.guiaoleo.com/members/37024
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es uno de mis lugares preferidos! La comida y la atencion son exelentes!!!!
+    date: 08-07-2007
+    user: http://mi.guiaoleo.com/members/11208
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: He ido en reiteradas ocasiones, es un lugar excelente para cenas de negocios o una cena romantica, siempre ha mantenido su calidad en cuanto a comida y servicio, Todos son muy profesionales, obviamente todo esto viene acompanado del precio por cubierto. Muy recomendable.
+    date: 06-07-2007
+    user: http://mi.guiaoleo.com/members/26563
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente calidad, excelente atencion. Previo a la entrada nos sirvieron una vieira gratinada y unos bocaditos salados, posterior al principal un refrescante sorvette y previo al postre unos platos de dulces exquisitos. Todo esto extra a los platos solicitados.. esto es lo que se llama un excelente servicio de alta calidad, los platos son todos muy bien logrados y perfecto equilibrio. Solo nos molesto un poco el aire acondicionado que enfrio el plato principal, el plato en si no estaba tan caliente para mantener el calor de la coccion. El resto, impecable.
+    date: 05-05-2007
+    user: http://mi.guiaoleo.com/members/9836
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lo mejor que hay en Buenos Aires.\r\n\
+      Me encant\xF3 la atenci\xF3n de los mozos es increible, es muy recomendable."
+    date: 16-04-2007
+    user: http://mi.guiaoleo.com/members/21669
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La contundencia de un n\xFAmero uno al servicio del paladar y los gustos mas exigentes. Cansado de buscar sin \xE9xito lugares en donde realmente se honre el arte gastron\xF3mico, encontr\xE9 La Bourgogne. Sin lugar a dudas, mediante un excelente servicio, un ambiente suntuoso y unos platos incre\xEDbles, devuelven la esperanza a los que creemos que la excelencia debe prevalecer ante cualquier moda pasajera. Es un verdadero lujo."
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/18970
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Como siempre y sin lugar a dudas, la mejor comida, la mejor atenci\xF3n , muy bien ganado el primer puesto."
+    date: 27-03-2007
+    user: http://mi.guiaoleo.com/members/16108
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente como siempre.Disfrutamos de la cena y de la agradable interpretaci\xF3n del pianista."
+    date: 27-02-2007
+    user: http://mi.guiaoleo.com/members/6305
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es excelente. El plato del d\xEDa es sin dudas lo mejor del d\xEDa, y en nuestro caso fue codorniz rellena con manzana verde, panceta, pollo, foie gras y algunas otras cositas... Una delicia! Adem\xE1s la atenci\xF3n es profesional de verdad. El ambiente no es superlativo, pero tiene a favor que las mesas est\xE1n bien separadas una de la otra y por lo tanto uno puede conversar agradablemente. Es un lugar super-formal, digno miembro de Relais & Chateaux."
+    date: 24-02-2007
+    user: http://mi.guiaoleo.com/members/1628
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos con la enana para el dia de san valent\xEDn. La burgogne es unico sin duda, al mejor nivel europeo. Alta cocina francesa, compite con los del pasaje del correo, pero en los demas aspectos gana lejos. Servicio impecable, atenci\xF3n, asistencia, ambientacion y todos los detalles. Con tanta degustaci\xF3n terminamos llenos y mareaditos, as\xED que nuevamente, no puedo comentar mucho mas."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente servicio y comida. Recomiendo invitar a alguien especial.
+    date: 12-02-2007
+    user: http://mi.guiaoleo.com/members/15005
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Great place. "
+    date: 03-02-2007
+    user: http://mi.guiaoleo.com/members/16337
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Buen\xEDsima comida. Todav\xEDa sigue siendo la favorita de mis invitados. Servicio bastante bueno. El ambiente, de verdad que he visto muchos mejores, pero zafa. Muy recomendable. "
+    date: 29-01-2007
+    user: http://mi.guiaoleo.com/members/17375
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo fant\xE1stico hasta en los m\xEDnimos detalles. Correcta relaci\xF3n calidad/precio. No hace falta postre, con lo que sirven con el caf\xE9 o t\xE9 alcanza."
+    date: 09-01-2007
+    user: http://mi.guiaoleo.com/members/11820
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un gran restaurante sin lugar a duda.
+    date: 23-12-2006
+    user: http://mi.guiaoleo.com/members/22464
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sin lugar a dudas lo mejor de Buenos Aires desde hace a\xF1os. Un poco seria la decoraci\xF3n. Atenci\xF3n insuperable. A la altura de lo mejor de Par\xEDs o New York."
+    date: 21-12-2006
+    user: http://mi.guiaoleo.com/members/16232
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "ao chegarmos, ficamos 10 minutos sem que ningu\xE9m viesse nos atender. ap\xF3s esse lapso inicial, tudo transcorreu muito bem: as entradas,os pratos principais (o cervo estava maravilhoso), o atendimento, o ambiente, tudo perfeito."
+    date: 16-12-2006
+    user: http://mi.guiaoleo.com/members/15263
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Siempre frente a una salida me pregunto \xBFQu\xE9 quiero este mediodi\xEDa o esta noche? Si quiero comer buena comida francesa (del Langue d'Oeil  ya que hay poco del Langue d'Oc, ser\xE1 que es m\xE1s \"campagnard\"), que me atiendan bien, y que est\xE9n en todos los detalles es PERFECTO. No vayan buscando la comida de Paul Bocusse. Invite a comer a alguien a quien verdaderamente quiera agasajar y que le guste algo sofisticado y p\xE1sela bien sin medir en gastos."
+    date: 05-12-2006
+    user: http://mi.guiaoleo.com/members/23846
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es exquisita, la atenci\xF3n es impecable, mejor no podr\xEDa ser. \r\n\
+      Mejorar\xEDa un poco la decoraci\xF3n.\r\n\
+      En fin, es imperdible. Ideal para una noche rom\xE1ntica."
+    date: 04-12-2006
+    user: http://mi.guiaoleo.com/members/16175
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un lugar imperdible de la cocina de alta gama y calidad, el precio s\xF3lo para los que saben que lo bueno se paga. Recomendable."
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/14104
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo mejor sin duda para deleitarse, es tan complicado explicar todo que es m\xE1s f\xE1cil ir y vivirlo en persona. La comida, el servicio, la ambientaci\xF3n, todo es increible."
+    date: 23-11-2006
+    user: http://mi.guiaoleo.com/members/13364
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Une cuisine de grande qualit\xE9. Un tr\xE8s bon service, le menu du midi \xE0 100$ tout compris (dessert et vin) est vraiment un des meilleurs rapport qualit\xE9 prix de la ville."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/13413
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lejos lo mejor que hay en Buenos Aires para salir a pasarla bien.\r\n\
+      No s\xF3lo la comida es incre\xEDble, la atenci\xF3n, el lugar, los empleados, todo de primera l\xEDnea. \r\n\
+      La carta de vinos es muy buena."
+    date: 14-10-2006
+    user: http://mi.guiaoleo.com/members/13035
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Esta re cool... la pasamos genial en mi cumplea\xF1os. El ambiente genial igual que la comida."
+    date: 19-08-2006
+    user: http://mi.guiaoleo.com/members/21536
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo mejor lejos de Buenos Aires.\r\n\
+      Los mozos atentos como ningunos. \r\n\
+      La comida espectacular como siempre. \r\n\
+      La ambientaci\xF3n puede quedar un poco antigua, pero el que come ah\xED sabe que el conjunto de las cosas hace que este restaurante sea lo mejor de Buenos Aires. Gran carta de vinos, para todos los gustos y precios. No se olvide requerir atenci\xF3n de un somellier para la elecci\xF3n.\r\n\
+      Para mimarse un poco."
+    date: 15-08-2006
+    user: http://mi.guiaoleo.com/members/11955
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La excelencia de siempre sin inovaci\xF3n ni creatividad. \r\n\
+      En La Bourgogne sab\xE9s lo que te espera, pero se podr\xEDa arriesgar un poco, \xBFno?\r\n\
+      El ambiente es el punto debil del restaurante. \r\n\
+      Est\xE1n en proceso de renovaci\xF3n y modernizaci\xF3n. \xBFSeguir\xE1n con la comida?"
+    date: 07-04-2006
+    user: http://mi.guiaoleo.com/members/4
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un lugar que cuida todos los detalles. Si se trata de asegurar una noche excelente La Bourgogne es lo indicado.
+    date: 01-03-2006
+    user: http://mi.guiaoleo.com/members/7874
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es el mejor restaurante de Buenos Aires en cuanto al servicio. \r\n\
+      Maitre, mozos y compa\xF1\xEDa hacen de tu comida un momento inolvidable, no hace falta ni siquiera mover el me\xF1ique para requerir algo, siempre hay excelente predisposici\xF3n para todo, y todos muy amenos. \r\n\
+      En cuanto la comida, la mesa de quesos es imperdible, el resto del men\xFA no est\xE1 a la altura de los alt\xEDsimos precios, igualmente son platos de muy buena calidad. Recomendable para pasar un momento de lujo."
+    date: 30-01-2006
+    user: http://mi.guiaoleo.com/members/6194
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelencia en cada detalle de una cocina perfecta: una de las mejores comidas que he disfrutado."
+    date: 12-01-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelencia en ambientaci\xF3n, servicio y comida. para disfrutar y recomendar."
+    date: 10-01-2006
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El mejor restaurante de Buenos Aires.
+    date: 23-12-2005
+    user: http://mi.guiaoleo.com/members/5600
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente.
+    date: 02-12-2005
+    user: http://mi.guiaoleo.com/members/5599
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente, lejos el mejor restaurante de Buenos Aires. Vale el precio.
+    date: 20-10-2005
+    user: http://mi.guiaoleo.com/members/4422
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Uno de mis preferidos. La mejor cocina. \r\n\
+      Le faltar\xEDa un poco al ambiente. Es el lugar ideal para festejar algo en pareja."
+    date: 26-09-2005
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El mejor lugar para sentirste bien atendido, desde la calidez del lugar, la atencion de la sommelier y la comida, excelente.
+    date: 01-09-2005
+    user: http://mi.guiaoleo.com/members/30793
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Por un lado est\xE1n todos los restaurantes mejores o peores pero restaurantes al fin. Por otro est\xE1 La Bourgogne, otra cosa."
+    date: 20-07-2005
+    user: http://mi.guiaoleo.com/members/525
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente, pero imperdonable que no hubiera Foie Gras, siendo que la carta no tiene m\xE1s de 15 \xEDtems.\r\n\
+      Destacable el somellier, recomend\xF3 un vino excelente y muy accesible."
+    date: 20-06-2005
+    user: http://mi.guiaoleo.com/members/17087
+    ambiente_rank: bueno

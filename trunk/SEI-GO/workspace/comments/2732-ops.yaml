@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La pizza es muy rica y a la piedra
+    date: 25-07-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Una pizza m\xE1s. Ahora, la fugazza es una pieza que hay que respetarla. Es genovesa o napolitana, pero cualquiera de las dos son un santuario de la pizza cl\xE1sica boquense. Eso de ponerle \"parmesano\", es un error. En el barrio hay mejores opciones y de mejor precio. El delivery (como casi siempre ocurre), te llega la pizza con la escasa muzzarella amontonada sobre uno de los bordes."
+    date: 17-12-2008
+    user: http://mi.guiaoleo.com/members/25936
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La pizza es rica y esta bien lograda la masa, ni muy gruesa ni muy fina, con el punto de crocantez justo. Vale aclarar que en esta sucursal no hay lugar para quedarse a comer, es una sucursal delivery.
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/8978
+    ambiente_rank: bueno

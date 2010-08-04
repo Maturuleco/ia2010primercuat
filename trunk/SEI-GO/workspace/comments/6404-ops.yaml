@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno todo. La ambientaci\xF3n es muy agradable y cuidada, con mesas suficientemente separadas. El servicio muy atento y la comida excelente. Lo \xFAnico, que es que agregar\xEDa a la lista de vinos, algunos de valor inferior.\r\n\
+      Con el descuento La Naci\xF3n, la relaci\xF3n precio/calidad es optima. Volver\xE9."
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/22200
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Verdaderamente decepcionante. Muy malo el servicio, en primer lugar el mozo se \"olvid\xF3\" de traer la entrada. Luego al levantar la mesa se le cayeron los cubiertos sobre mi, muy descuidado. La comida, si bien era sabrosa, bastante escasa y cara para lo que era. Sobre el final y concientes del p\xE9simo servicio prestado, intentaron subsanar los errores ofreci\xE9ndonos un postre gratis pero lo hicieron una vez que estabamos retir\xE1ndonos del lugar. Que vayan estrellas de la tv y futbolistas famosos, yo no vuelvo m\xE1s."
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/45317
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos dos personas, compartimos ensalada Cesar con pollo, salm\xF3n rosado grill\xE9 con guarnici\xF3n y cheese cake con frutos rojos. Absolutamente todo, excelente. Suelo ir seguido, con lo cual prob\xE9 varios platos y siempre, uno mejor que el otro. Precios son acordes a alta calidad de los productos y el descuento de restaurant.com me permite ir m\xE1s seguido."
+    date: 06-04-2010
+    user: http://mi.guiaoleo.com/members/63180
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena sorpresa, acorde con los comentarios que hab\xEDa le\xEDdo anteriormente . El aspecto del lugar simula lujo superfluo y caro , pero es un lugar muy agradable y econ\xF3mico teniendo en cuenta la calidad de la comida . Al mediod\xEDa el men\xFA que cuenta con entrada/plato ppal/bebuda/postre llega a $42 con muy buena calidad . Pedir comida y que sepan entregarla en su punto justo, y con porciones razonables a un precio adecuado parece una quimera hoy en d\xEDa"
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/78994
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ya fui varias veces al mediod\xEDa. Considerando las opciones de la zona, la relaci\xF3n calidad/precio es EXCELENTE. La atenci\xF3n tambi\xE9n es muy buena. Si sus vecinos dejaran de mirarse el ombligo, quiz\xE1s entender\xEDan por qu\xE9 les bajan los cubiertos. Ojal\xE1 sigan as\xED..."
+    date: 19-01-2010
+    user: http://mi.guiaoleo.com/members/23085
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Buenos tragos y buena atencion - lo cual es algo casi excepcional para Palermo- hasta que nos solicitaron nos cambiemos de mesa en el momento del postre porque arriba habia un evento de "estrellitas televisivas" y querian bajar al area en el que estabamos nosotros....Obviamente, nos fuimos antes de tiempo y sin postre. Una lastima, la comida y tragos eran bastante adecuados para la relacion calidad/precio pero eso no amerita cambiarnos de lugar cuando al llegar nos sentamos donde nos indicaron. Impresentable! Ni siquiera en Los Angeles, capital global del cholulaje, pasa esto!
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/51255
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La decoraci\xF3n de la superficie vidriada no me invitaba a entrar pero no me dej\xE9 llevar por su aspecto exterior y me encontr\xE9 con un agradable lugar, mozos super atentos y una buena carta tanto para pedir unas tapas como por sus platos de cocina. La relaci\xF3n precio/calidad es optima."
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/1162
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar, con muy buen nivel en los detalles. La atenci\xF3n es muy esmerada y la comida tiene detalles dificiles de encontrar al medio d\xEDa en Palermo Hollywood donde parece ser que todo tiene que ser cantidad y no calidad. Muy recomendable para un buen almuerzo de nivel y a un precio muy accesible."
+    date: 13-08-2009
+    user: http://mi.guiaoleo.com/members/62571
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "excelente relaci\xF3n precio calidad. el servicio es de primera, los mozos te atienden enseguida, no demoran en traerte las bebidas, ni al final la cuenta, cosa que me molesta esperar. Los platos est\xE1n muy bien presentados, la carta de vinos es de primera, muy variada y vinos raros. para volver sin ninguna duda"
+    date: 07-08-2009
+    user: http://mi.guiaoleo.com/members/67105
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      el menu ejecutivo me parecio impecable.
+      es muy abundante, comidas frescas y varias opciones.
+      el lugar es divino, muy amplio, y lo que me encanto es el espacio que hay entre mesas.
+    date: 05-08-2009
+    user: http://mi.guiaoleo.com/members/66954
+    ambiente_rank: muy bueno

@@ -1,0 +1,524 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La verdad es que Palermo est\xE1 lleno de restaurantes mexicanos...en Veracruz me sent\xED como si fuera amigo de la casa. La atenci\xF3n de los due\xF1os se nota,las camareras bien adiestradas, invitaciones de tragos a doquier.\r\n\
+      Sin ser un lugar de lujo tiene preenciones de una buena opci\xF3n, bien merecida. Lo recomiendo. \r\n\
+      Y en la esquina,casi pegado, los m\xE1s ricos lomitos \"El Lobo feroz\", terribles, grandes y riqu\xEDsimos!!!"
+    date: 03-06-2010
+    user: http://mi.guiaoleo.com/members/60971
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Destaco la calidez del ambiente, objetos de decoraci\xF3n t\xEDpicos bien distribuidos.\r\n\
+      El servicio me pareci\xF3 malo, la camarera solo realiz\xF3 una sugerencia inicial y luego teniamos que pedirle que nos explicara que conten\xEDa cada plato (ya que no se especificaba en la carta), se percib\xEDa su fastidio.\r\n\
+      La comida buena, bien condimentada, sencilla, un tanto escasa. No volver\xEDa."
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/50283
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "la comida es muy buena cuando entras parece que est\xE0s en Mexico, sin dudarlo.Lo recomiendo a quein le guste la comida mexicana picante o no ya tiene esa opcion."
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/80453
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Con una atenci\xF3n muy amable, Vera Cruz no lleg\xF3 a satisfacer nuestras expectativas con la comida. Los burritos y los tacos estaban muy secos y las cazuelas que acompa\xF1anban a los mismos no estaban buenas. La carta de vinos es reducida y aunque los precios no son altos, no creo que regresemos."
+    date: 04-04-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Resulta raro que un plato mexicano tan com\xFAn como la fajitas se prepare tan mal. La salsa agria era simple crema de leche vertida del recipiente y la salsa de chocolate ... sin palabras. No volvemos m\xE1s. Caro y malo."
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/78187
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Com\xED que qued\xE9 pip\xF3n. Las cazuelitas para armarte tacos con pollo, carne y cerdo, buenisimas... pero ponerle con la salsa de CHOCOLATE, no sab\xE9s como garpa! Las margaritas dulces, 10 puntos... No s\xE9 porque tiene tantas malas criticas, es un golazo este lugar, quiz\xE1 ahora est\xE1 un poco m\xE1s caro que antes, es el unico detalle malo que le veo. No ser\xE1 cocina mexicana de la m\xE1s can\xF3nica para los exigentes, pero yo la pas\xE9 muy bien las 5 o 6 veces que fui."
+    date: 15-02-2010
+    user: http://mi.guiaoleo.com/members/75453
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El local, el \xFAnico ba\xF1o, las paredes, las manos de la camarera...todo una mugre!La comida era espantosa, seca, vieja y sin gusto.  Cuando pedimos la cuenta nos trajeron un pedazo de papel blanco cortado a mano que parec\xEDa la cuenta de la verduler\xEDa...la verdad no s\xE9 c\xF3mo permiten habilitar lugares como \xE9ste"
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/62535
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida y el ambiente est\xE1n bien, pero no destacables. Sin embargo, si bien visualizamos buena voluntad, fue evidente la falta de conocimiento de la carta y el conocimiento m\xEDnimo y b\xE1sico de la comida mexicana por parte de la \xFAnica camarera. Adem\xE1s cuando llegamos los vasos estaban sucios y tuvieron que cambiarlos y tuvimos que reclamar la cuenta dos veces luego de varios minutos. Claramente no es el mejor restaurant de comida mexicana."
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/75358
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos 4 personas. La comida no es "
+    date: 09-01-2010
+    user: http://mi.guiaoleo.com/members/7462
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La atenci\xF3n fue muy cordial, el mozo nos asesor\xF3 muy bien. La comida tiene buenos tama\xF1os como para compartir, refleja la idea de comida mexicana. Ofrecen platos t\xEDpicos, la preparaci\xF3n con mole les sale muy bien. Tienen variedades de cervezas, con lo cual es muy bueno ya que combina perfecto con este tipo de comida. La ambientanci\xF3n es tipicamente mexica, color por todas partes. Un lugar recomendable."
+    date: 05-01-2010
+    user: http://mi.guiaoleo.com/members/6293
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La peor comida mexicana de mi vida. Las Enchiladas son sin sabor, los nachos tan mojada que parecen m\xE1s a un pur\xE9 y el queso no esta horneado suficientemente."
+    date: 01-12-2009
+    user: http://mi.guiaoleo.com/members/73036
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida se deja comer pero no es nada del otro mundo. Ahora bien, la atenci\xF3n fue desastrosa. Ped\xEDamos un margarita salado y ven\xEDa dulce, ped\xEDamos frozen y ven\xEDa comun. Todo demoraba y confund\xEDan las cosas. Pedimos unos nachos con guacamole para picar antes de comer, y tras remarcarle a la moza varias veces que lo quer\xEDamos antes de los principales, lleg\xF3 todo junto.\r\n\
+      \r\n\
+      Para rematar, al pedir la cuenta nos trajeron la factura con el total en una sola l\xEDnea, con las comandas de los mosos para que tengamos el detalle.\r\n\
+      \r\n\
+      No vuelvo mas."
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/56950
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Voy habitualmente con amigas. la atencion de las camareras/os es excelente!!!! la comida rica y abundante y el precio bueno. lo unico que le faltaria para ser perfecto es un peque\xF1o show que ambiente mas el lugar."
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/69060
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui dos veces con mi novia. La primera comimos una picada con vino. Estuvo muy rica y nos sirvi\xF3 para tener una idea de la comida mexicana. Volvimos a la semana y pedimos un menu con nachos, fajitas, cerveza y postre. Pero la calidad de la comida no nos result\xF3 muy buena y la cervaza era horrible (era cerveza con sabor a miel). Creo que s\xEDrvi\xF3 la experiencia. Pero no volver\xEDa."
+    date: 24-07-2009
+    user: http://mi.guiaoleo.com/members/55774
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es muy tranquilo y ameno, la comida safa,en comparaci\xF3n a los otros mexicanos a los q fui,es mala. Es barato, y la atenci\xF3n, no s\xE9 si fue porq hab\xEDa poca gente, pero me result\xF3 cargosa, la camarera interrumpi\xF3 la conversaci\xF3n exactamente 7 veces en una hora y media para ver si estaba todo bien."
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida no era gran cosa. Era lo mismo que realizo en casa comprando las cosas en el super. Deber\xEDan colocar m\xE1s nachos y no mesquinarlos. No es gran cosa. Sirve para aquel que nunca prob\xF3 la comida mexicana poder darse cuenta de lo que se trata y luego poder relizarlo en su propia casa."
+    date: 19-07-2009
+    user: http://mi.guiaoleo.com/members/51326
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena la comida y la atenci\xF3n. Te orientan enseguida y comes tranqui, sin mucho ruido. Para aconsejar"
+    date: 26-06-2009
+    user: http://mi.guiaoleo.com/members/64868
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Totalmente recomendable el Mole de este lugar, soy mexicano y en verdad tienen un buen mole, solo hay que especificar que no sea tan picoso y comerlo con pan o tortilla de harina, ya que el ma\xEDz deja mucho que desear."
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/62800
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nos gusto mucho el restaurante, eramos un grupo de 7 y nos sentimos bien atendidos. La moza muy atenta conoc\xEDa todo el men\xFA y recomendo bien que elegir para ser nuestra primera vez. La comida muy rica y algunas salsas bastante picantes.Lo recomiendo y espero volver pronto."
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/63175
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Es la segunda vez que visito el lugar. Esta vez tambien ped\xED el men\xFA armado para compartir (para 2 personas. Es por lejos superior el men\xFA de $90 que la picada mexicana, ya que si bien la comida es casi la misma, el primero incluye un vino y 2 postres, asi que termina siendo mas abundante y economico. La atencion es lo mejor del lugar. La decoracion es muy pobre. Es un lugar para ir a comer rico con poca plata, pero que no tiene nada sobresaliente."
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/36627
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "Nos gust\xF3 todo, en especial es de destacar la excelente atenci\xF3n de Macarena y Dar\xEDo. La m\xFAsica mexicana muy agradable y a un vol\xFAmen muy bueno porque no molestaba y permit\xEDa conversar c\xF3modamente."
+    date: 20-02-2009
+    user: http://mi.guiaoleo.com/members/53855
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fui a comer a este restaurante el dia sabado 17 y volvi a ir el  martes 20 ambas veces pedi la tabla mexicana y no solo la comida sino la atencion fueron muy buenas,  contestaron todas las dudas sobre los platos la comida estaba muy rica y respetaba mucho la tradicion mexicana ademas les dije que me gustaba el picante y me dieron unas salsas especiales traidas de mexico que no todos los lugares tienen, muy recomendable para ir con amigos y el precio es accesible y los platos abundantes
+    date: 20-01-2009
+    user: http://mi.guiaoleo.com/members/48594
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: la atencion es muy buena, el lugar comun, chiquito pero pasable, la comida de mexicana no tenia mucho, el guacamole fue un chasco, lamentablemente no volveria a ir otra vez
+    date: 05-12-2008
+    user: http://mi.guiaoleo.com/members/12651
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No es accesible para usuarios de silla de ruedas, tiene un peque\xF1o escalon, seguido de un descanso y un escalon muy alto. Buena voluntad de parte de los empleados. El ba\xF1o no es accesible."
+    date: 04-12-2008
+    user: http://mi.guiaoleo.com/members/55654
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      La comida es muy buena y bien mexicana, el servicio es excelente, todo es explicado detalladamente e inclisive te traen distintas salsas para que pruebes, elijas y no tengas que "sufrir" el picante si no es de tu agrado.
+      El ambiente es acogedor y parece un pedacito de mexico y la relacion precio producto es mas que buena, es muy buena, teniendo en cuenta que toda es comida elaborada en el momento y la variedad es grande. En sintesis, lo recomiendo ampliamente, es uno de esos lugares para ponerlo en el circuito de salidas semanales o mensuales.
+    date: 22-11-2008
+    user: http://mi.guiaoleo.com/members/55269
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n en Vera Cruz sigue siendo incre\xEDble. Tanto su due\xF1o como los mozos son muy agradables, ante cualquier pedido la respuesta es inmediata. Un placer. Hasta nos preguntaron qu\xE9 m\xFAsica quer\xEDamos escuchar y nos deleitaron con canciones tradicionales mexicanas. La comida sigue siendo buen\xEDsima, las picadas para dos personas es nuestra mejor opci\xF3n, traen de todo en muchas cazuelitas. El picante cuando lo ped\xEDs 'muy picante' lo es! Genial!"
+    date: 26-10-2008
+    user: http://mi.guiaoleo.com/members/24319
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fui porque ac\xE1 lo recomendaban, la verdad es q la comida en poco se asemeja a la mexicana, una variedad de cazuelitas con carnes varias, q mas bien parecia estofado, poca cantidad y variedad, lechuga y arroz? Eso no era muy tipico, adem\xE1s las tortillas fr\xEDas y solo 2 por persona, si ped\xEDs m\xE1s, te las cobran! Mal, he ido a Mexico y a otros resto mexicanos y \xE9ste no les llega ni a los talones a ninguno de los q conoc\xED. Los mozos s\xED muy amables, no tienen la culpa de lo que ofrecen."
+    date: 25-10-2008
+    user: http://mi.guiaoleo.com/members/53461
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Veraz Cruz nunca decepciona. Suelo ir una vez al mes, siempre los domingos, desde hace aproximadamente 4 a\xF1os y nada hace que no vuelva. Muy, muy buena la comida y excelente la atenci\xF3n."
+    date: 19-10-2008
+    user: http://mi.guiaoleo.com/members/14091
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "la picada es variada y sirve para iniciarse en la cocina mexicana. Los rellenos de carne y pollo fueron excelentes, no tanto el de verdura. Hubiera sido util algunas tortillas m\xE1s que las que dieron. Igual lo recomiendo"
+    date: 14-09-2008
+    user: http://mi.guiaoleo.com/members/13948
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es chico pero muy c\xE1lido. La atenci\xF3n que recibimos fue excelente. Comimos una picada mexicana bastante variada que creo que permite hacerse una idea del tipo de comida de ese pa\xEDs, por lo menos para quienes no conocemos mucho sobre el lugar. Muy recomendable."
+    date: 18-07-2008
+    user: http://mi.guiaoleo.com/members/48576
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es rica. El lugar es tranquilo. vale la pena conocerlo.
+    date: 28-06-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Uno de los mejores en capital tanto en sabor de la comida, como la amable y cuidada atenci\xF2n del camarero como tambi\xE8n su cordial due\xF1o que nos expico cada uno de los platos (gracias sebasti\xE0n o cristi\xE0n creo que ese era su nombre) recomendable 100%"
+    date: 26-06-2008
+    user: http://mi.guiaoleo.com/members/46720
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Lamentable, los frijoles parecian agrios , sin el mas minimo sabor mexicano y encima frios, parecia un licuado de poroto.Ni parecido a lo que comi en Mexico. La atenci\xF3n es aceptable, el problema es su comida y los precios. Pedimos un plato para compartir y costaba 60 pesos! y encima lo tuvimos que dejar por que no tenia gusto a nada.Imposible recomendar algo asi."
+    date: 29-03-2008
+    user: http://mi.guiaoleo.com/members/42909
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: Tienen una carta con platos tradicional, pero el elaboracion simplemente es mal. Segun mi experiencia, no es autentico de la comida mexicana, es un imitacion utilizando ingredientes de baja calidad. Que lastima, porque el servicio es atentivo y amable, y el ambiente es muy comodo.
+    date: 13-03-2008
+    user: http://mi.guiaoleo.com/members/7210
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Com\xED en casi todos los restaurantes mexicanos de Capital y Vera Cruz hizo la diferencia, no s\xF3lo por la calidad de la comida, sino principalmente por la excelente atenci\xF3n de su personal, especialmente de sus due\xF1os, quienes estuvieron presentes en todo momento.\r\n\
+      La comida fue muy abundante y quiero remarcar la entrada de los platos a la mesa, en momentos justos y con una excelente presentaci\xF3n.\r\n\
+      El ambiente es agradable, lo hace sentir como si estuviera comiendo en el comedor de su casa. La ambientaci\xF3n acorde con la tem\xE1tica del restaurant.\r\n\
+      Totalmente recomendable!!!"
+    date: 28-02-2008
+    user: http://mi.guiaoleo.com/members/29040
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: mediocre
+    date: 24-02-2008
+    user: http://mi.guiaoleo.com/members/40916
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lugar olvidable, no vuelvo m\xE1s! precios muy elevados por lo que sirven y la comida es muy insulsa. No repito esta desagradable experiencia. "
+    date: 26-01-2008
+    user: http://mi.guiaoleo.com/members/38836
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar y muy buena la degustaci\xF3n de picada mexicana eramos 4 personas y nos encanto muy buena la atenci\xF3n de la moza que nos dio todas las indicaciones nada que envidiarle a otros de la zona que ya se les fue la mano con los precios..."
+    date: 23-01-2008
+    user: http://mi.guiaoleo.com/members/38697
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No me gust\xF3 para nada, la comida no tiene sabor mexicano, y ademas car\xEDsimo!!!"
+    date: 09-01-2008
+    user: http://mi.guiaoleo.com/members/36141
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Car\xEDsimo, porciones \xEDnfimas. No vuelvo m\xE1s!"
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/21574
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "calido, peque\xF1o pero enorme dentro de la gastronomia mexicana, perfil bajo pero tranquilamente compite con maria felix o frida entre otros. calidez en el trato y conocimiento en la comida. ambiente normal, buen precio."
+    date: 12-12-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida de este resto es maravillosa. S\xFAper elaborada, cuidada y muy muy rica!. Se puede elegir entre picoso y suave, pero lo suave no pierde lo gustoso. Hemos ido a muchos restaurantes mexicanos, pero este los supera (lejos) en comida. No tiene mucha onda la decoraci\xF3n, pero no se dejen enga\xF1ar por eso! es altamente recomendable. Adem\xE1s, la atenci\xF3n es excelente, desde su due\xF1o, hasta sus camareros, todos m\xE1s que amables. La pas\xE9 muy bien, muy relajado todo"
+    date: 28-11-2007
+    user: http://mi.guiaoleo.com/members/15102
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Una verdadera decepcion. Fui por los comentarios de la p\xE1gina y como mexicana que soy lamento que no conozcan nuestra comida y crean que lo que sirven aqui tiene algo de mexicano. No encontre ningun sabor de mi tierra. Les falt\xF3 mucho de la hospitalidad mexicana y la relaci\xF3n precio - calidad no compensa. No lo recomiendo, hay opciones mucho mejores."
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/34077
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "comimos el menu para dos y dos margaritas, en total fueron 108$. \r\n\
+      la atenci\xF3n muy buena y la comida es buenisma y muy mexicana.\r\n\
+      Altamente recomendable entre tanta opci\xF3n ''palermera''.\r\n\
+      \r\n\
+      \r\n\
+      excelente atenci\xF3n y excelente comida!"
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/24319
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Los mejores en comida mexicana, lejos.
+    date: 26-09-2007
+    user: http://mi.guiaoleo.com/members/32886
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena la comida, sabroza y abundante. El mozo te explica absolutamente todo lo del plato y te da la opcion de el picante aparte. Recomendable.
+    date: 12-09-2007
+    user: http://mi.guiaoleo.com/members/29717
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Excelente la atencion, el chico que nos antendi\xF3 muy buena onda, nos sugiri\xF3 la degustacion para 2 persona.A la comida en gral. le faltaba un poco de gusto, el pollo parecia de empanadas, eso queno se sabe que es, la salsa roja estaba fria y habia solamente UNA salsa picante. El guacamole si estaba bueno, y el postre ( el sobrero negro) estaba rico y era grande, pero supuestamente tenia tequila y eso nunca se noto. NOs atendieron r\xE1pido y muy bien, pero la comida no le hizo honor.. no volver\xEDa."
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/18174
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Siguen siendo los mejores.                   "
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/10596
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "MUY CARO. Y con la sensaci\xF3n de haber sido enga\xF1ado por el precio, porque te dicen que la picada sale 30 (pero no te aclaran que es POR PERSONA, pero la picada es para 2, entonces cuesta 60).\r\n\
+      En sintesis, el lugar es bueno, pero el precio que cobran esta muy lejos del nivel que presentan.\r\n\
+      Adem\xE1s, los ba\xF1os est\xE1n preparados con MUY POCO ESMERO, sin decir que son sucios, el aspecto es de  MUY MALA CATEGORIA, como para pagar un precio de primera.\r\n\
+      No vuelvo nunca mas. Quien quiera ir averigue muy bien el precio primero. "
+    date: 02-09-2007
+    user: http://mi.guiaoleo.com/members/31060
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Comimos 5 Personas y con el men\xFA fijo que elegimos comimos muy bien.\r\n\
+      Quiero destacar la atenci\xF3n tanto del mozo como de sus due\xF1os. Para ir con amigos o en pareja."
+    date: 18-08-2007
+    user: http://mi.guiaoleo.com/members/2760
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Nada que envidiarle a los demas restaurantes mexicanos de la zona, un ambiente agradable, la comida muy buena para recomendar la picada mexicana comes un poco de cada cosa. Ah tienen negra modelo y tortillas de maiz!!!!!!! vamos a volver
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/29836
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena opci\xF3n para salidas entre amigos o en pareja ya que el lugar es muy calido, la comida muy bien lograda y elavorada el pastel 3 leches es inmejorable una carta muy amplia y precios acordes a lo consumido."
+    date: 14-08-2007
+    user: http://mi.guiaoleo.com/members/29619
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "De lo mejor en comida Mexicana en Buenos Aires realmente para recomendar y no quedar mal fui un sabado por la noche y nos atendieron rapidisimo lo mas destacable la m\xFAsica y las enchiladas suizas."
+    date: 13-08-2007
+    user: http://mi.guiaoleo.com/members/29547
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Todo muy bueno no opino lo mismo que los usuarios anteriores me parecio abundante y el precio acorde a lo consumido soy cliente desde hace un a\xF1o y siguen manteniendo el nivel ha buenisima la pico de gallo que te dan con los nachos, y ahora tienen show de mariachis!"
+    date: 12-08-2007
+    user: http://mi.guiaoleo.com/members/29477
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Realmente mal. Poco y nada de sabores mexicanos. La antenci\xF3n regular, hubo que esperar muchisimooooo. Un s\xE1bado a la noche no te queda mas guacamole???. Un ambiente sobrecargado y saturado. Hasta el margarita lo preparan mejor en cualquier bar de Bs.As. Definitivamente para no volver. Ademas por lo que es...muy caro!"
+    date: 01-08-2007
+    user: http://mi.guiaoleo.com/members/28232
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos para el d\xEDa del amigo y comimos el menu \"libre\" que de libre no tiene nada... te traen una entrada minima y dps unas cazuelas con cosas para ponerle a los tacos. Es muy muy poco y muy malo, te pijotean con la cantidad. La comida no tiene gusto y se nota que usan todo lo mas barato. No vayan. "
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/18648
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos 5 personas y comimos todos muy bien, la atenci\xF3n fue muy buena. Adem\xE1s de tener Show con Mariachis. Comimos con vino y con postre y el precio era razonable. Lo recomiendo. "
+    date: 13-07-2007
+    user: http://mi.guiaoleo.com/members/21130
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es agradable. La comida es rica pero los platos no son muy abundantes. Fu\xED con dos amigas m\xE1s y comimos una entrada y 3 platos compartidos para poder probarlos. La atenci\xF3n es buena. Ah! los tragos margaritas estaban bastante buenos!"
+    date: 13-07-2007
+    user: http://mi.guiaoleo.com/members/26907
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Pocas veces me pasa de comer afuera y  que todo sea tan feo. Desde la ambientaci\xF3n improvisada hasta el nosabor de los platos, la experiencia en veracruz es deprimente. El Guacamole era palta pisada, los tacos, con la masa mojada, las salsas sin gusto y el panqueque de postre, casi no ten\xEDa DDL! \r\n\
+      De Mexicano no tiene nada, parece que el chef (si se le puede llamar as\xED) ley\xF3 en alg\xFAn lado los ingredientes necesarios y los combin\xF3.\r\n\
+      Encima, a 40 pesos por persona, es un robo. Realmente mi peor experiencia gastron\xF3mica del a\xF1o. Hay lugares mil veces mejores en el mismo barrio."
+    date: 24-06-2007
+    user: http://mi.guiaoleo.com/members/25299
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: La verdad...no quiero desalentarlos,pero de mejico tiene poco y nada. Ademas de ambiente sobrecargado en exceso y muy poca luz (tal vez para no ver los platos??) la comida deja mucho que desear y llega siempre fria... Hay muchos lugares en Palermo como para caer en este...
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/23084
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar para mi el mejor restaurante de comida Mexicana de Buenos Aires y lo digo con raz\xF3n vivi en mexica 7 a\xF1os sigan as\xED."
+    date: 29-04-2007
+    user: http://mi.guiaoleo.com/members/22366
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La verdad no se si la comida tiene o no much\xEDsimo de comida mexicana, a mi me encant\xF3, y me parecio abundante."
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/19930
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es chiquito pero muy lindo. El mozo fue muy amable. Nos explic\xF3 todo lo que le pedimos. Siempre estaba pendiente de que no nos faltara nada. El pollo encacahuetado estuvo riqu\xEDsimo. Vamos a volver muchas m\xE1s veces."
+    date: 04-03-2007
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fu\xED con mi novio por primera vez, con fin de festejar como ocaci\xF3n especial nuestro aniversario, realmente estoy contenta de haber optado por Vera Cruz. Ante mi ignorancia por la comida mexicana s\xF3lo puedo decir que fue muy rico todo lo que comimos, una calidez increible en la atenci\xF3n, nos trajeron los platos a tiempo desde la entrada hasta el postre. Tiene una muy linda ambientaci\xF3n, la pasamos muy bien y lo recomiendo para toda persona que quiera disfrutar una buena comida en un buen lugar!!"
+    date: 02-03-2007
+    user: http://mi.guiaoleo.com/members/19383
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La atenci\xF3n y el ambiente fue bueno, como as\xED tambi\xE9n la comida t\xEDpica mexicana. La not\xE9 sabrosa y bien preparada.\r\n\
+      Pero pedimos el t\xEDpico trago Margarita y estaba hecho con Gancia, lim\xF3n y el borde de las copas ten\xEDa azucar en vez de sal.\r\n\
+      P\xE9sima preparacion del trago."
+    date: 13-02-2007
+    user: http://mi.guiaoleo.com/members/18578
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "La comida no es mala, pero de mexicana tiene poco y nada. Nada de picante, nada de sabores nuevos y nada de las miles de salsas tan comunes en la cocina de Mexico. La atenci\xF3n resulto muy buena y el local muy normal. Sin embargo mas all\xE1 de todo, la relaci\xF3n precio/calidad/cantidad es buena."
+    date: 05-12-2006
+    user: http://mi.guiaoleo.com/members/6990
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Result\xF3 una experiencia grata. La comida es sabrosa y la atenci\xF3n es buena. El guacamole podr\xEDa mejorarse. Me llam\xF3 la atenci\xF3n que el lugar estaba tranquilo y con poca gente."
+    date: 11-11-2006
+    user: http://mi.guiaoleo.com/members/7262
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tuve la suerte de ir a M\xE9xico y disfrutar su comida. En ning\xFAn otro lugar la comida se le parece tanto. Ingredientes como el Cilantro y el aderezo Guacamole le dan ese toque distintivo si est\xE1n tan bien realizados. el precio es alto, si, pero la m\xFAsica de fondo, la ubicaci\xF3n, la calidez, la atenci\xF3n lo hacen perfecto para una primer cita, segunda cita, cena de amigos, aniversarios, cumples y todo lo que merezca una excelente comida."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/22404
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente ambiente y realmente uno de los pocos lugares donde la comida mexicana, tiene realmente sabor a M\xE9xico. El problema es que cuando se llena, a los que no fuman, se les hace imposible quedarse.\r\n\
+      \r\n"
+    date: 07-09-2006
+    user: http://mi.guiaoleo.com/members/10596
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los ba\xF1os eran impresentables, muy sucios. En cuanto a la carta de vinos tuvimos que cambiar nuestro pedido tres veces dado que no contaban con variedad. \r\n\
+      La comida muy rica y la atenci\xF3n bastante buena pero para lo que era el lugar el precio era excesivo."
+    date: 04-08-2006
+    user: http://mi.guiaoleo.com/members/10979
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buen lugar.
+    date: 28-07-2006
+    user: http://mi.guiaoleo.com/members/10645
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Las enchiladas suizas son las mejores de Palermo Soho.
+    date: 18-07-2006
+    user: http://mi.guiaoleo.com/members/10276
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "El lugar tiene mucha onda, los mozos son divinos y los precios para nada caros (de hecho los tragos tienen precios incre\xEDbles). \r\n\
+      Pero la comida, que no es fea, no tiene nada que ver con lo verdaderamente mexicano."
+    date: 12-07-2006
+    user: http://mi.guiaoleo.com/members/10039
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pedimos las enchiladas, el men\xFA enumeraba un mont\xF3n de ingredientes que ten\xEDa el plato.\r\n\
+      Y vino con una cobertura de espinaca que no estaba en el men\xFA. \r\n\
+      Adem\xE1s la comida en general no ten\xEDa mucho sabor."
+    date: 15-06-2006
+    user: http://mi.guiaoleo.com/members/9542
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Restaurante muy chico y demasiado oscuro. Las pocas velas que hay siempre se apagan.
+      La comida es regular.
+    date: 09-06-2006
+    user: http://mi.guiaoleo.com/members/9183
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar para ir a comer con amigos o pasar una velada \xEDntima y picante con la pareja.\r\n\
+      Buena relaci\xF3n calidad/precio.\r\n\
+      El servicio es bueno, nos trajeron nueve de diez platos que pedimos. \r\n\
+      \xA1Pobre Hern\xE1n!\r\n\
+      Nunca pidan mojito porque no lo saben preparar, fue y volvio 3 veces. Andale!"
+    date: 02-06-2006
+    user: http://mi.guiaoleo.com/members/7861
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n fue excelente, me sent\xED como en casa, la comida muy bien elaborada y los platos realmente muy bien presentados. \r\n\
+      El precio acorde a lo consumido. \r\n\
+      Volver\xEDa sin dudar."
+    date: 29-05-2006
+    user: http://mi.guiaoleo.com/members/8764
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Bun\xEDsima la comida, para recomendar. La atenci\xF3n muy bien."
+    date: 29-05-2006
+    user: http://mi.guiaoleo.com/members/8898
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El precio fue un poco caro, pero la comida estaba rica.\r\n\
+      La atenci\xF3n es excelente, m\xEDnimamente nos preguntaron siete u ocho veces si estuvo rico."
+    date: 25-05-2006
+    user: http://mi.guiaoleo.com/members/8785
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida era muy rica, la atenci\xF3n muy buena. \r\n\
+      Ojo con la salsa de tomate que sirven con los nachos que es muy picante. \r\n\
+      Y si piden de postre el sombrero de Jorge, sepan que es un panqueque fr\xEDo.\r\n\
+      Recomendacion: Si llegan antes de las 22 hs, no hace falta reservar."
+    date: 06-05-2006
+    user: http://mi.guiaoleo.com/members/8471
+    ambiente_rank: excelente

@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Propizio queda en Charcas y Pueyrred\xF3n, y esa es su principal virtud: el ambiente es algo flojo, el servicio normalito, la carta es corta y no es particularmente barato. Sin embargo, puede presumir de tener una dign\xEDsima fugazzetta y milanesas gigantes para compartir entre tres humanos (yo solo doy cuenta de ella). Pedir platos del resto de la carta levanta mucho el precio y no se justifica. Tal vez no merece una visita especial, pero quienes est\xE9n por la zona de Facultad de Medicina y quieran salir del paso (especialmente si son muchos y quieren compartir para gastar poco) pueden intentarlo!"
+    date: 04-05-2010
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena comida y muy abundante. Buena relacion precio calidad
+    date: 08-01-2010
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Para almorzar r\xE1pido y bien, sin estridencias y sin sobresaltos, con opciones de men\xFA del d\xEDa a precios razonables"
+    date: 13-02-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Debo admitir que ten\xEDa un preconcepto malo del lugar, pero la comida me pareci\xF3 muy buena y abundante. Me sorprendi\xF3 el espectro de precios, con platos desorbitantemente caros (que no lo valen) y buena comida muy econ\xF3mica. El servicio es bueno, con reservas. Ideal para un finde al mediod\xEDa."
+    date: 22-11-2008
+    user: http://mi.guiaoleo.com/members/49610
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Me gusto el lugar y la comida muy rica.
+      El salon para chicos es extremadamente chico y solo tiene un pelotero.
+      El mozo muy lerdo, tardaba mucho en atender y eso que  no habia mucha gente.
+    date: 18-05-2008
+    user: http://mi.guiaoleo.com/members/44304
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: excelente comida la mejor y muy buen servicio a los mexicanos
+    date: 04-03-2008
+    user: http://mi.guiaoleo.com/members/41303
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Adhiero en un 100% a la opini\xF3n del usuario Maquinicora. A m\xED ayer me pas\xF3 exactamente lo mismo! El encargado Elvio no me dej\xF3 sentarme junto a la ventana porque \"ten\xEDan que mantelar la mesa\". Pero eran las 11 AM, ten\xEDa tiempo de tomar un caf\xE9 y chequear mis mails sin \"romper su estructura\". As\xED que me fui a otra mesa. A la noche volv\xED y me ofrecieron almorzar gratis otro d\xEDa, pero no me interesa... Por eso creo que es como Maquinicora lo describe: si no se tiene m\xE1s de 40 a\xF1os y/o se va a almorzar/cenar, el trato es desigual. Chapeau al mozo 10, especialista en calmar clientes enojados, jaja."
+    date: 11-02-2008
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es buena, pero la atenci\xF3n es mala: hay que estar llamando a los mozos, tardan bastante en traerte las cosas."
+    date: 11-12-2006
+    user: http://mi.guiaoleo.com/members/13732
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La atenci\xF3n de los mozos es buena, la ambientaci\xF3n est\xE1 ok. \r\n\
+      Lo mejor es la comida, que suele ser muy abundante y rica. \r\n\
+      El precio es elevado, pero la mayor\xEDa de las veces lo vale."
+    date: 22-04-2006
+    user: http://mi.guiaoleo.com/members/7913
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Tienen muy buen delivery.
+    date: 02-12-2005
+    user: http://mi.guiaoleo.com/members/5209
+    ambiente_rank: excelente

@@ -1,0 +1,98 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "es un lugar cl\xE1sico para comer platos cl\xE1sicos.\r\n\
+      es dif\xEDcil encontrar a alguien con menos de 50 a\xF1os pero cada tanto vale la pena. la atenci\xF3n es impecable y los platos ricos y abundantes."
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/29633
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un clasico / Siempre tiene publico en cualquier horario / Nos encanta ir ya que el lugar tiene magia / es una esquina excelentemente ubicada / La atencion es super profesional y rapidisima !!!/ La comida siempre esta a punto / siempre volvemos
+    date: 12-08-2009
+    user: http://mi.guiaoleo.com/members/67343
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Es un bar de los clasicos de Belgrano, se come barbaro y abundante, es economico, siempre esta lleno de gente, y el ambiente es muy familiar, la atencion es rapida y muy buena.
+      Para una tarde linda tarde en Belgrano
+    date: 09-08-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Esquina tradicional de Belgrano.  Voy siempre con mi familia.  La comida es fresca y el precio razonable.
+    date: 09-08-2009
+    user: http://mi.guiaoleo.com/members/67183
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Lindo lugar, linda gente, buena comida, muy mala atencion, no vuelvo.
+    date: 28-03-2009
+    user: http://mi.guiaoleo.com/members/49212
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Voy siempre a este lugar. Los mozos son amables, la comida es muy buena para el nivel de precios, que es acomodado.\r\n\
+      Me gusta el ambiente tranquilo y la gente que lo frecuenta. "
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/36645
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Comida sin chiste. El mozo de mal humor. Tal vez no fue un buen d\xEDa. Hab\xEDa mucha gente, por lo que supongo que no elegimos bien la comida ni el horario. Habr\xE1 que intentarlo de nuevo."
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/36914
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "era LA confiter\xEDa tradicional de belgrano. digo, era, porque ahora no tiene nada que ver con lo que era antes. la comida sigue siendo \"buena\" (antes era mucho mejor), pero el servicio empeor\xF3 bastante."
+    date: 07-10-2007
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La atenci\xF3n en Zurich es p\xE9sima. Debe ser la \xFAnica confiter\xEDa de Buenos Aires en la que retiran la silla del cliente cuando \xE9ste va al ba\xF1o. No s\xF3lo no piden disculpas por esto, sino que ante la queja, agreden al cliente (especialmente el se\xF1or de anteojos de la caja) y no ponen a su disposici\xF3n el libro de quejas. Una experiencia horrible. No volver\xE9."
+    date: 18-05-2007
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un cl\xE1sica esquina de Belgrano, con p\xFAblico mayormente de alta edad (probablemente un tradicional bar, restaurante elegido por los vecinos) pero con una propuesta de comida amplia y de buena calidad. \r\n\
+      No hay platos gourmet pero no hay malas sorpresas."
+    date: 19-01-2007
+    user: http://mi.guiaoleo.com/members/14566
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El sandwich es fabuloso; la atenci\xF3n fue b\xE1rbara; los desayunos tambi\xE9n son muy ricos y abundantes. Es un cl\xE1sico de Belgrano, el cual no hay que dejar de conocer y acercarse a disfrutar una merienda o un desayuno. "
+    date: 03-12-2006
+    user: http://mi.guiaoleo.com/members/14534
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Para caer todo el d\xEDa a tomar caf\xE9, cenar, almorzar. La edad promedio es de cincuenta y cinco."
+    date: 02-08-2006
+    user: http://mi.guiaoleo.com/members/10872
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un cl\xE1sico de la zona, para ir a toda hora o a cenar si no hay mucha hambre. \r\n\
+      Buena cocina, buenos men\xFAes, la atenci\xF3n de los mozos es excelente (llevan d\xE9cadas en el lugar). \r\n\
+      No es para catalogar de restaurante pero es de los mejores bares/confiter\xEDas."
+    date: 01-05-2006
+    user: http://mi.guiaoleo.com/members/7933
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es \"el\" bar de Belgrano para desayunar, tomar el caf\xE9 o una cerveza tirada por la tarde y comer algo para aplacar el hambre.  Lugar tradicional con mozos de siempre que conocen a los clientes."
+    date: 29-03-2006
+    user: http://mi.guiaoleo.com/members/7229
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El sandwich de lomo es riqu\xEDsimo. Siempre que hay hambre, la \"Zurich\" es un lugar seguro, donde te atienden amablemente y te vas con la panza contenta."
+    date: 12-03-2006
+    user: http://mi.guiaoleo.com/members/6964
+    ambiente_rank: muy bueno

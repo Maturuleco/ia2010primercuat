@@ -1,0 +1,16 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buena parrilla urbana, con ambiente destacado y buena carne, muy bien presentados los platos y la atenci\xF3n merece una menci\xF3n especial. Poseen sector fumadores pero no est\xE1 debidamente aislado, lo que implica que todo el ambiente se llene de humo. Un detalle que deben resolver."
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Muy buena carne, embutidos y achuras.
+      Muy calido ambiente.
+      Precios mas que razonables
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/82515
+    ambiente_rank: muy bueno

@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Not a place to dinner. Few options in the menu, but the food was very good. However it takes too long to serve it.
+    date: 15-05-2009
+    user: http://mi.guiaoleo.com/members/62433
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente opci\xF3n para almorzar. El men\xFA del mediod\xEDa es siempre una opci\xF3n gourmet muy deliciosa. Recomiendo los quiches, muy sabrosos (no son simples tartas). Una pena que cierra los domingos.-"
+    date: 22-04-2009
+    user: http://mi.guiaoleo.com/members/61843
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena alternativa tanto para un desayuno o t\xE9 como para un almuerzo tranquilo.\r\n\
+      El ambiente es muy agradable, la atenci\xF3n justa y la comida (si bien est\xE1 enfocada m\xE1s a desayuno y/o t\xE9, tiene una variedad razonable de alternativas saladas) interesante.\r\n\
+      Un pena que no habra los domingos, ya que ser\xEDa una excelente opci\xF3n para desayunar."
+    date: 20-01-2009
+    user: http://mi.guiaoleo.com/members/15970
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es muy agradable para tomar un t\xE9 junto a la compa\xF1ia de amigos y una charla amena. En cuanto al servicio de mesa, muy deficiente. No ten\xEDan varias cosas de lo que ofrec\xEDan en la carta y no avisaron antes de ordenar. De todos modos les doy una nueva oportunidad este fin de semana que vuelvo a ir."
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/49791
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Un lindo lugar, bien ambientado.
+      Fui 3 veces a desayunar pero en ninguna oportunidad logre que me sirvieran un cafe con leche decente, no asi cuando fui a almorzar, donde el plato estaba muy sabroso y bien presentado.
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/3409
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un local peque\xF1o pero bien ambientado, con una buena variedad de pasteler\xEDa. Tambi\xE9n cuenta con algunos platos salados. Las cosas son muy ricas (recomiendo la torta Marquisse) y los precios son adecuados."
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un reducto agradable para pasar un mediod\xEDa tranquilo, el servicio es muy bueno, la est\xE9tica del lugar despejada, la comida esmerada. Para volver. "
+    date: 30-08-2007
+    user: http://mi.guiaoleo.com/members/30868
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un rincon de Paris en Buenos Aires, en lugar calido para pasar un lindo rato.  "
+    date: 22-08-2007
+    user: http://mi.guiaoleo.com/members/30278
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Mb la comida, la presentacion, el servicio y el ambiente, peque\xF1o p\xE8ro calido.\r\n\
+      Lamentablemente, pedi wok de vegetales y langostinos que figuraba como plato del dia en el pizarron, afuera.  Por mas que busque, no fue posible encontrar un solo langostino.  Hechala protesta me dijeron que no estaba en el menu.\r\n\
+      El mozo se deshizo en disculpas. Igual le dare otra oportunidad.\r\n\
+      El lugar es muy lindo."
+    date: 03-05-2007
+    user: http://mi.guiaoleo.com/members/2878
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar peque\xF1o con pretenciones de caf\xE9 mezclado con bistr\xF3. Las opciones del men\xFA son correctas para un break r\xE1pido durante el d\xEDa. No espere m\xE1s que eso. Un plus, cuando no hay mucha gente, es el lugar que, aunque chico, es c\xE1lido."
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/14566
+    ambiente_rank: muy bueno

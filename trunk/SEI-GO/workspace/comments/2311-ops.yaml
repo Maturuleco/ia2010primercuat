@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un lugar muy anemo y tranquilo, con buena atencion. Vamos todas la semanas y siempre mantiene el nivel.
+    date: 07-10-2009
+    user: http://mi.guiaoleo.com/members/46208
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: el lugar es agradable y la comida abundante. El servicio es bueno. Los precios aceptables, dentro del standar.
+    date: 28-09-2009
+    user: http://mi.guiaoleo.com/members/28622
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Voy seguido.  Es un restaurante de minutas de barrio.  Realmente uno se siente comodo y come bien.  Recomendable.
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/64431
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Se come bien sin ser una experiencia inolvidable y los platos del men\xFA son buenas  sugerencias a precios muy razonables"
+    date: 28-05-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena y abundante. Sin embargo, tardan much\xEDsimo en traer el pedido (he llegado a esperar 40 minutos por un plato no demasiado elaborado). El hecho de que tarden puede estar algo justificado porque la comida parece ser hecha en el momento. El ambiente es agradable a toda hora del d\xEDa. Los ba\xF1os podr\xEDan estar m\xE1s limpios y ventilados."
+    date: 03-12-2008
+    user: http://mi.guiaoleo.com/members/55586
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente comida, muy abundante, para compratir
+    date: 18-11-2008
+    user: http://mi.guiaoleo.com/members/40998
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buen sitio, de afuera no dice mucho pero la calidad de la comida es muy buena. para volver...
+    date: 02-06-2008
+    user: http://mi.guiaoleo.com/members/7875
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente restor\xE1n. Exquisita carta para lo sencillo del lugar. Precios m\xE1s que buenos, comida abundante y muy buena atenci\xF3n. Me encanta y voy cada vez que puedo. No defrauda."
+    date: 26-03-2008
+    user: http://mi.guiaoleo.com/members/42359
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      muy buena comida por el precio.hay pastas con salsa x $15 
+      es del tipo cafe con ventanas grandes pero arman las mesas para cenar con manteles y copas.
+      esta bueno para comer bien sin gastar mucho y sin tantas pretenciones de lugar
+    date: 14-01-2008
+    user: http://mi.guiaoleo.com/members/38793
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy rica la comida, los platos son super gigantes, tranquilamente comen 2 personas. La atencion es buena, depende que mozo te toque. Los ba\xF1os siempre estuvieron limpios y oprdenados, al igual que el restaurante en su totalidad. Te atienden apenas llegas, asi que el servicio es bueno y rapido.\r\n\
+      Si pedis delivery (al menos el que queda en Rivadavia y Rincon) te llega la comida tan caliente como recien recien terminada de elaborar.\r\n\
+      Tal vez es un poco mas caro que otros pero la comida es muy rica asi que vale la pena!"
+    date: 23-12-2007
+    user: http://mi.guiaoleo.com/members/37361
+    ambiente_rank: bueno

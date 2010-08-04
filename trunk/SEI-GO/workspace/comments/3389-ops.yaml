@@ -1,0 +1,73 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Pesimo!
+      
+      Para traer dos tablas tardaron mas de una hora, la tabla de fiambres era mitad mortadela, las rabas y cornalitos de cuarta y frios!
+      
+      Impresentables!
+    date: 07-03-2010
+    user: http://mi.guiaoleo.com/members/77981
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "excelente la atencion. la cocina p\xE9sima, eramos 4 y salieron lso platos incompleto y tardaron 45 min. en el menu ejecutivo. el encargado (se\xF1or calvo) no dio explicaciones ni tuvo atencion alguna. El postre estuvo en bandeja 15 minutos sin que lo traigan a la mesa. De un menu ejecutivo se espera rapidez no la demora de un plato de carta y sobre todo porque eramos 8 sobre 30 mesas que tiene el local. no volveremos."
+    date: 08-01-2010
+    user: http://mi.guiaoleo.com/members/65755
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fu\xED a merendar con un amigo: barbaro el ambiente genial muy tranquilo, la vista espectacular, los sillones muy c\xF3modos, la m\xFAsica justa y al vol\xFAmen adecuado. El servicio con un sonrisa en la cara, educado y a tiempo. Lo recomiendo para tomar un cafe con tostadas. Espero volver pronto."
+    date: 25-11-2009
+    user: http://mi.guiaoleo.com/members/70751
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos un grupo de amigos por la noche, eramos 8. Las mesas ocupadas eran 3. Tardaron m\xE1s de 45 minutos para traer los platos y ni siquiera los trajieron todos juntos!!. La carta tiene poca variedad,pero buenos sabores. La atenci\xF3n fue muy mala y el tema del show en vivo al menos le recortar\xEDa el tiempo."
+    date: 12-09-2008
+    user: http://mi.guiaoleo.com/members/31176
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Fuimos a almorzar un lindo dia de sol, con vista al Yatch Club. Lindisimo!!! Pedimos el menu del mediodia (entrada, plato principal, bebida y postre) entre dos mas una tapa de gambas (camarones, con ajo y ciboulette). Excelente! muy rico todo. La atencion fue muy buena. Aparte de la amabilidad la atencion fue rapida a pesar de ser hora pico. Volveremos!
+    date: 14-05-2008
+    user: http://mi.guiaoleo.com/members/8366
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: No tengo nada que decir de la comida, solamente que deberian quitar que  ofrece comida para celiacos, pq no es asi, ningun tipo de cuidado.
+    date: 09-04-2008
+    user: http://mi.guiaoleo.com/members/46056
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un bar con onda en Puerto Madero Este donde si el clima acompa\xF1a te sent\xEDs en otro mundo.\r\n\
+      Fuimos con unas amigas a tomar algo y nos atendieron b\xE1rbaro.\r\n\
+      Una buena opci\xF3n para tomar tragos junto al dique , tambi\xE9n est\xE1 buena la pantalla de videos donde pasan musica.\r\n\
+      Como rest\xF3 no lo probamos pero como bar lo recomiendo."
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      El lugar tiene muy buena onda, buen servicio y buena vista. Para ir a tomar algo es muy recomendable. 
+      La musica es muy buena
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/13183
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos el domingo tipo 7 pm.\r\n\
+      Comimos dos sandwiches y tomamos un t\xE9 y una gaseosa. \r\n\
+      En 1\xBAlugar la moza se equivoc\xF3 y me trajo un sandwich de carne en vez de pollo, lo que hizo que demorara unos 20 minutos m\xE1s en traerme el plato correcto, luego me quisieron cobrar una torta que no hab\xEDa comido y finalmente al traerme el ticket correcto me encuentro con la m\xF3dica suma de 80 pesos por \xE9sas cuatro cosas. ( los sandwiches eran de pollo, con lechuga y tomate nada m\xE1s). M\xE1s all\xE1 de \xE9sto, hay que partir de la base que el cubierto sale 10 $ c/u. Nunca m\xE1s. Lindo lugar, pero 1\xBA y \xFAltima vez."
+    date: 03-02-2008
+    user: http://mi.guiaoleo.com/members/30566
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Pesimo! la peor comida de buenos aires, de freezer, sin sabor. una estafa. "
+    date: 26-01-2008
+    user: http://mi.guiaoleo.com/members/33737
+    ambiente_rank: bueno

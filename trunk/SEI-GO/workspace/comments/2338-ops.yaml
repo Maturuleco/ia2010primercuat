@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: la atencion es muy buena al igual que la variedad de platos en la carta. el ambiente remite a los viejos bodegones con aire familiar. los precios son acordes a la gran abundancia que posee cualquier plato que se pida.
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/80426
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Exselente lugar!!!!!! los productos son de primera la atencion es espectacular y el precio es un regalo \xA1\xA1\xA1\xA1ALTAMENTE RECOMENDABLE!!!!!"
+    date: 05-08-2009
+    user: http://mi.guiaoleo.com/members/63498
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buen servicio de la camarera, comida muy fresca y sabrosa, porciones abundantes. Hay bastantes platos de cocina para los que a veces nos cansa la parrilla. El precio es acorde con el servicio.
+    date: 01-11-2008
+    user: http://mi.guiaoleo.com/members/48263
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida, ambiente casero, l\xE1stima que no haya empanadas al horno, solo tienen fritas.\r\n\
+      Pero las porciones son super abundantes y la carne muy tierna"
+    date: 15-07-2008
+    user: http://mi.guiaoleo.com/members/47506
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Se avivo.Hasta hace un tiempo, antes de agrandarse era un lugar accesible y se comia bien, ahora se ve que tenemos que pagar la remodelacion y aparte la comida de baja calidad.No vovemos mas........
+    date: 10-05-2008
+    user: http://mi.guiaoleo.com/members/21985
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Parrilla de barrio muy bien atendida, cortes de carne muy buenos y para compartir, hay porciones de medio, excelentes papas fritas, todo en un ambiente muy familiar y sobre todo con mucho cuidado en la limpieza. Ha sido refaccionado recientemente. Es para comer rapido y bien.
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/41206
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "\xFAltimamente cambio bastante. Dej\xF3 esa imagen de parrilla de paso. Esta mucho mejor puesta, tiene mas lugar. La atenci\xF3n y el trato es muy amable. La comida es buena. Se recomienda."
+    date: 07-02-2008
+    user: http://mi.guiaoleo.com/members/30355
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena atenci\xF3n y buenas carnes, para recomendar un lugar economico es ideal."
+    date: 05-12-2007
+    user: http://mi.guiaoleo.com/members/12973
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Voy habitualmente. El lugar fue refaccionado ultimamente y quedo agradable. La carne es excelente como tambien el punto de coccion. Tambien son buenas las pastas y minutas. Es recomendable especialmente por su relacion precio/calidad. Muy cordial la atencion de sus due\xF1os. "
+    date: 28-11-2007
+    user: http://mi.guiaoleo.com/members/36184
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Las fotos no son actuales. Si bien es una parrilla de barrio, est\xE1 mucho mejor que lo que muestran las fotos, con mesas y sillas de madera r\xFAstica. \r\n\
+      Lugar ideal para familias del barrio que quieren salir a comer y gastar poco. La atenci\xF3n de la mesera excelente. Ah! y los ba\xF1os estaban limpios"
+    date: 21-07-2007
+    user: http://mi.guiaoleo.com/members/20269
+    ambiente_rank: bueno

@@ -1,0 +1,266 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buen lugar tradicional para ir a comer pizza de molde; la barra y el sal\xF3n llenos de habitu\xE9s. La pizza es muy rica. Yo suelo ir a la barra y nunca me atendieron mal; la relaci\xF3n precio calidad es incre\xEDble; el sal\xF3n es \"pintoresco\"; tiene detalles tradicionales pero no busca ni comodidad ni ambientaci\xF3n.\r\n\
+      \r\n   Es un lugar para ir a comer pizza rica, con buenos precios y la ventaja de que esta abierto a toda hora."
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/81890
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Cuidado con Kentucky! Eramos dos y cometimos el grave error de pedir una pizza grande, mitad napolitana y mitad fugazzeta. \r\n\
+      La pizza es muuy rica, bien gordita como en las viejas \xE9pocas, pero es una BOMBA!!!! Nos cay\xF3 a los dos muy mal, la de fugazzeta es rellena: una bola de queso, literalmente. Para comer con moderaci\xF3n: una o dos porciones m\xE1ximo. \r\n\
+      Teniendo en cuenta la cantidad de porciones, no es caro. Ideal para ir con amigos a cualquier hora."
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/28008
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Clasica pizzer\xEDa porte\xF1a, pizza al paso del estilo de Las Cuartetas, El Palacio de la Pizza, Burgios, etc. Muy buena pizza al molde, para los que quieren disfrutar de una bruta y gorda pizza con el eterno y melancolico sabor de una pizzeria de los a\xF1os"
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/74150
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un tipico lugar, pizzas exelentes. No perderse la de Provolone
+    date: 28-01-2010
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Una de las mejores pizzas de Buenos Aires. Ideal a toda hora del d\xEDa, ya sea de paso o con amigos. Siempre abierta, qu\xE9 m\xE1s si es como tocar el cielo con las manos a las 6 de la ma\xF1ana. Totalmente recomendable."
+    date: 09-01-2010
+    user: http://mi.guiaoleo.com/members/18887
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No recomendable. La pizza puede que sea de regular a buena. Pero uno de los que compart\xEDa mesa conmigo tuvo la p\xE9sima idea de pedir torta: estaba realmente agria. En el lugar no se sorprendieron para nada cuando les dijimos. Ofrecieron otra torta \"un poco m\xE1s nueva\". Por supuesto, nadie se atrevi\xF3. No volver."
+    date: 04-10-2009
+    user: http://mi.guiaoleo.com/members/65958
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buena pizza en pacifico, porciones de dorapa en la barra
+    date: 10-08-2009
+    user: http://mi.guiaoleo.com/members/13262
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      La pizza en excelente, unica, cuando pedis una porcion en la barra, recien sacada del horno no tiene comparacion alguna, los mozos son medios agrios, pero me parece que es parte del ritual./
+      simplemente hay que dejarse llevar por la gente, el olor y disfrutar de una verdadera pizza./
+    date: 09-08-2009
+    user: http://mi.guiaoleo.com/members/67207
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "el ambiente es excelente tomando en cuenta que desde afuera mismo se nota que es una cl\xE1sica pizzer\xEDa porte\xF1a, con sus respectivos clientes tomandose un vino con pizza en la barra, el humo, etc.\r\n\
+      La atenci\xF3n no es buena, hacen lo justo y necesario para que consigas tu comida y bebida pero, de nuevo, me parece que es parte del encanto.\r\n\
+      no me result\xF3 un lugar caro: com\xED dos porciones de pizza y una porci\xF3n de fain\xE1 y me las termin\xE9 si apenas, estaban riqu\xEDsimas y eran dos porciones muy cumplidas.\r\n\
+      la cerveza es cara, al igual que en la mayor\xEDa de los lugares (stella $18)"
+    date: 29-04-2009
+    user: http://mi.guiaoleo.com/members/46116
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza es muy rica, aunque algo cara. La atenci\xF3n es bastante mala, algo que parece ser un com\xFAn denominador en todas las sucursales de esta pizzer\xEDa. Lo positivo que tiene la sucursal de palermo es el sal\xF3n fumador, que aisla un poco del excesivo olor a fritanga que emana de la cocina, algo que tambi\xE9n comparten todas las sucursales."
+    date: 06-04-2009
+    user: http://mi.guiaoleo.com/members/3167
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Sin duda, una de las mejores pizzer\xEDas de la ciudad. Muy por encima de otras con mejor prensa. Los precios, por ser una pizzeria, son elevados. La masa es exquisita. La muzzarella, chorrea. Excelente. Concurrimos con mi esposa asiduamente y lo vamos a seguir haciendo. Con los mozos, depende quien te toque..."
+    date: 21-03-2009
+    user: http://mi.guiaoleo.com/members/50841
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Me decepcion\xF3.  Me dio la sensaci\xF3n de que en casa puedo hacer una pizza mejor.  El jam\xF3n parec\xEDa reci\xE9n sacado de la heladera y las aceitunas estaban fr\xEDas, por lo cual la sensaci\xF3n al masticar todo el conjunto era despareja."
+    date: 11-01-2009
+    user: http://mi.guiaoleo.com/members/5442
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Cl\xE1sica pizzeria de Palermo, sin ostentaciones donde se come buena pizza.Como toda pizzaria de anta\xF1o es un lugar simple donde el centro es la pizza y no la decoraci\xF3n.Buena."
+    date: 01-01-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Pizza al corte en pizzeria de anta\xF1o. Muy buena. La muzzarella que trabajan es muy buena, da como resultado una pizza muy bien lograda. Muy sabrosa, la masa en su punto justo. La variedad es muy amplia. Con promos de mostrador. El lugar... esquina tipica de palermo, de pizzeria clasica, ambientada en los a\xF1os `60, `70. A pesar de que se pueden encontrar detalles muy historicos y a tono, como en las heladeras donde hay mas moscato que gaseosas, y en los ba\xF1os letrinas, el lugar esta retocado con modernismos innecesarios. Ideal para indecisos, el mozo me eligio la bebida! Muy buen servicio."
+    date: 14-10-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza de Kentucky es a mi juicio muy buena, especialmente la napolitana, y la fugazzeta rellena, plet\xF3rica de queso aceitoso, s\xED, pero no indigesto, y de buen sabor. Hasta ahora de las variedades que he probado, ninguna me defraud\xF3. El ambiente \"malo\" es parte del estilo, diferente a otros lugares. Como comentario extra, si bien la pizza es muy buena, es superada por otra pizzer\xEDa de semejante estilo, pero superior pizza, que es G\xFCerr\xEDn."
+    date: 11-07-2008
+    user: http://mi.guiaoleo.com/members/47382
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Sin dudas , una de las mejores pizzerias (la de Godoy Cruz, OJOOOOOO ) la atencion es excelente, la pizza de lo mejor. Sin dudas muy recomendable
+    date: 15-04-2008
+    user: http://mi.guiaoleo.com/members/43450
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Uno de los pocos lugares que queda donde se puede comer bien por menos de $10. La atenci\xF3n no es muy esmerada que digamos, pero se puede pasar un rato agradable en un lugar tradicional de la ciudad."
+    date: 22-02-2008
+    user: http://mi.guiaoleo.com/members/21690
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es donde se respira el aire de bodeg\xF3n de Buenos Aires, se recomienda para ir al menos una vez en la vida, para saber como eran las pizzerias hace 30 a\xF1os atr\xE1s. Puede que hayan gritos, y quizas el ambiente no parezca limpio pero lo es, de todos modos la comida lo supera todo, la mozza es superior a muchas otra pizzer\xEDas con mejores instalaciones y a mi entender es la segunda mejor fugazza con queso de Bs As."
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/27658
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Una gran pizza bien rica y contundente, el resto parte del circo de un vieja pizzeria porte\xF1a, los mozos patean las puertas para abrirlas, el piso lleno de papeles, etc, para ir con amigos y pasar un rato divertido"
+    date: 30-01-2008
+    user: http://mi.guiaoleo.com/members/21530
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "A la pizza la salva el queso, que a pesar de destilar aceite es de buen sabor. La atenci\xF3n es de regular para abajo, pero lo mas impactante es la suciedad del lugar, los ba\xF1os deber\xEDan clausurarlos.\r\n\
+      Reconozco que Kentucky ha sido un cl\xE1sico de la zona, pero evidentemente se ha venido un poco abajo. Por lo expuesto el precio me result\xF3 excesivo."
+    date: 13-01-2008
+    user: http://mi.guiaoleo.com/members/15021
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Solo cumple para comer una pizza r\xE0pido,el ambiente,la atenci\xF2n y sobre todo la higiene no ayudan en los mas m\xECnimo.Safa un poco mas que la sucursal de Urquiza."
+    date: 28-12-2007
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente pizzer\xEDa cl\xE1sica en Palermo. Fuimos de casualidad con amigos y novias en una salida informal, y la pizza no defraud\xF3. \r\n\
+      La \"doble muzzarella\" es una pizza muy rica tanto en cuanto a la masa como a la muzzarella; la de verdura est\xE1 un escal\xF3n m\xE1s abajo (en cuanto gusto personal) pero sin embargo, tambi\xE9n estaba bien preparada (ambas a media masa). La faina ten\xEDa un excelente sabor y era barata. Los precios de las pizzas no resultaban caros, m\xE1s si tenemos en cuenta que eran muy buenas. Tiene una moderada cantidad de cervezas para seleccionar, pero la carta de vinos es pobr\xEDsima, tanto en cantidad como en calidad, pero claro..., es una \"pizzer\xEDa cl\xE1sica\"; y si tenemos en cuenta este \xFAltimo detalle, no tiene que sorprendernos que el ambiente no sea el ideal para llevar a la madre en su d\xEDa, a la novia o esposa en el d\xEDa del aniversario de la pareja o para una primera cita (obvio). \r\n\
+      Ahora, para comer una pizza muy rica y a precio adecuado con amigos o novia, al paso, es altamente recomendable, ya que no para citas formales. En cuanto a la atenci\xF3n es \"adecuada\" al lugar. Aprobado."
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/31209
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: La pizza es muy buena, el servicio pesimo, el ambiente sumamente ruidoso.
+    date: 25-10-2007
+    user: http://mi.guiaoleo.com/members/23400
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Kentucky sigue siendo una de las cl\xE1sicas y buenas pizzerias de esta ciudad, aunque he notado en esta \xFAltima visita que sus precios han trepado has en exceso, y que su masa que en lo crocante y esponjoso es perfecta( media masa), respecto a su sabor se ha vuelto un tanto incipida como si le faltara un toque de sal a la masa. Eso si la muzza, sigue teniendo sabor y es abundante. La atenci\xF3n, regular seg\xFAn quien te atienda, el luagr es pintorezco, tiene su estilo.\r\n\
+      Sigue siendo para muy bueno, pero antes era excelente. toque de atenci\xF3n gente, ponganse las pilas. "
+    date: 24-08-2007
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La pizza me result\xF3 exquisita, una de las mejores que prob\xE9, con mucha y muy rica muzzarella. \r\n\
+      El lugar es una pizzer\xEDa de paso y no se puede pretender un gran ambiente. De todas formas eso no excusa la incomodidad para llegar a los toilettes en el subsuelo que, aunque limpios, no est\xE1n en muy buenas condiciones."
+    date: 31-07-2007
+    user: http://mi.guiaoleo.com/members/31361
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "A pesar de la comida haber bajado la calidad, y el precio elevarse, como empez\xF3 a ser de costumbre en todos los restaurantes; este en especial mantiene un ambiente cl\xE1sico de Buenos Aires, con unos mozos que te roban una sonrisa con sus comentarios. La decoraci\xF3n es \xFAnica, y la pizza tambi\xE9n, para aquellos que les gusta la maza gruesa. Los dem\xE1s platos son muy ricos adem\xE1s de abundantes."
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/29073
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena la doble muzzarela, abarata mucho el costo la gaseosa grande y tambien las fainas que el mozo se olvido de cobrarnos.
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/20907
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena relaci\xF3n precio/calidad. Si est\xE1s de paso por ah\xED, ten\xE9s hambre y poca plata, es ideal. No recomendar\xEDa a alguien que vaya especialmente a comer ah\xED. \r\n\
+      El ambiente se qued\xF3 en los 70\xB4s, pero en contexto no molesta."
+    date: 28-06-2007
+    user: http://mi.guiaoleo.com/members/41106
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Un lugar que hace unos meses era excelente y de repente comenzo a decaer... La comida es buena (aunque antes era mejor) pero car\xEDsima para lo que es. Ademas es lugar no es nada del otro mundo.. tipica pizza bar de los de antes... El mozo, de terror... no solo te tira los vasos y platos.. sino que aun con la temperatura de estas noches, te deja la puerta abierta y no la quiere cerrar... Una lastima!"
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/23084
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar ha deca\xEDdo. La calidad de la pizza ya no es como antes.\r\n\
+      Adem\xE1s, el servicio de delivery es p\xE9simo. Ped\xED una pizza de jam\xF3n. Vivo a 3 cuadras de ah\xED y sin embargo, dos horas m\xE1s tarde la pizza no hab\xEDa llegado.\r\n\
+      No es un lugar recomendable para pedir delibery."
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/21294
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La atenci\xF3n es p\xE9sima.\r\n\
+      Estuvimos en una mesa en la calle esperando quince minutos a que nos atiendan, despu\xE9s conseguimos mesa adentro y esperamos otros 20 minutos, despu\xE9s en traernos la comida tardaron m\xE1s de media hora.\r\n\
+      Tienen solo dos mozos.\r\n\
+      La pizza es rica, nada del otro mundo."
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/22270
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos a cenar pizza, es un lugar t\xEDpico porte\xF1o. Si vas con la idea de ir a un lugar antiguo, te lo recomiendo.\r\n\
+      Como vivimos cerca, pedimos por delivery y las porciones son abundantes y nada caras. Las milanesas antes eran gigantes, ahora grandes. La parrillada la subieron un poquito de precio, pero con una mejor calidad. \r\n\
+      Recomiendo pedir, no te vas a arrepentir...y si vivis lejos y no sos muy delicado de la comida no te arrepentis..."
+    date: 16-04-2007
+    user: http://mi.guiaoleo.com/members/21647
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La faina es generosa y gruesa como nos gusta. La pizza de muzzarella es una de las mejores que probamos, crocante y con toneladas de queso. El ambiente no es el mejor y los ba\xF1os carecen de limpieza, pero la experiencia es buena para cuando se quiere probar una buena pizza."
+    date: 13-01-2007
+    user: http://mi.guiaoleo.com/members/16626
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Una pizzer\xEDa al mejor estilo porte\xF1o, con fotograf\xEDas que ambientan muy bien al lugar. \r\n\
+      La comida es excelente, el \xFAnico problema es la atenci\xF3n."
+    date: 25-12-2006
+    user: http://mi.guiaoleo.com/members/15442
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La mejor pizza que com\xED en Buenos Aires. Es un lugar precioso, muy porte\xF1o."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/12024
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Cl\xE1sico espacio porte\xF1o, lleno de gente mayor y mozos de museo. \r\n\
+      Nos gustaba mucho ir a almorzar y cenar, como para sacarnos del apuro. El tema fue que, la \xFAltima vez que fuimos, salimos asqueados de la cantidad de muzarella que ten\xEDa la pizza. Sobre todo, porque parte de ella, estaba dura y fr\xEDa, como puesta a lo \xFAltimo, as\xED nom\xE1s. \r\n\
+      No volvimos m\xE1s. La atenci\xF3n es correcta. El precio est\xE1 bien."
+    date: 18-08-2006
+    user: http://mi.guiaoleo.com/members/9248
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "B\xE1rbara la muzzarella con fain\xE1 en el mostrador."
+    date: 24-05-2006
+    user: http://mi.guiaoleo.com/members/8475
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La pizza est\xE1 bien. \r\n\
+      La muzzarella de mostrador es recalentada en horarios no pico(punto en contra). Pero la relaci\xF3n precio-calidad la hace buena."
+    date: 31-03-2006
+    user: http://mi.guiaoleo.com/members/7411
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena pizza.
+    date: 27-03-2006
+    user: http://mi.guiaoleo.com/members/6405
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente pizza, los ravioles son sublimes, perfectos para comerlos con manteca.
+    date: 25-12-2005
+    user: http://mi.guiaoleo.com/members/5512
+    ambiente_rank: bueno

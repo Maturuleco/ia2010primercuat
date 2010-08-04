@@ -1,0 +1,615 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Si se pueden dar el lujo de ir, lo recomiendo ampliamente. La comida es excelente y los platos son muy abundantes as\xED que se pueden compartir. Me encant\xF3."
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/84331
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente todo, una cocina italiana elegante en un ambiente que acompa\xF1a toda la propuesta. Uno de los mejores de BA."
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/79802
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos al local de Las Ca\xF1itas. Nos atendieron b\xE1rbaro, super cordiales y siempre atentos a lo que necesitabamos. Los platos abundantes y exisitos los capeletis con gruyere fundido.Para terminar el volcan de chocolate riquisimo. Caro pero no defrauda. Vale la pena."
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/72040
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente como siempre!! Excelente atencion, la comida es imperdible! Recomiendo los sorrentinos!!
+    date: 12-04-2010
+    user: http://mi.guiaoleo.com/members/76659
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Restaurant caracter\xEDstico de Posadas, con platos suculentos, generosos, que ameritan compartirse.\r\n\
+      La atenci\xF3n es buena, expeditiva. La relaci\xF3n precio/comida resulta negativa. Es evidente que el concurrente es un p\xFAblico turista o bien connacionales a los que poco le importa saber los precios de los diferentes platos."
+    date: 08-04-2010
+    user: http://mi.guiaoleo.com/members/79628
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: me parece carisimo en relacion a lo que comes,no vuelvo mas
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/78948
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Las porciones son para compartir, por lo que el precio no es tan elevado, pero erea deplorable que el aire acondicionado no anduviese. Fui un mes antes y ante mi queja por la falta de refrigeracion, me informaron que estaba en arreglo y al dia siguiente estaria arreglado. Un lastima  por que el entorno desdibuja la calidad de la comida.
+    date: 29-01-2010
+    user: http://mi.guiaoleo.com/members/77743
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un plato de ravioles $130, un lomo $170, las entradas a $90 y ponen cuadraditos de manteca La Serenisima como si estuviera desayunando en un avion o en una estacion de servicio?! La calidad de la comida es la misma que se comen en el microcentro al mediodia por $40. Mozos de los de antes, s\xED, todos mayores de 50 a\xF1os,  demasiados confianzudos. Iluminaci\xF3n de la decada del "
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/72228
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Compartiendo los platos no es tan caro, no es barato.Los \xF1oquis no tienen rival.\r\n\
+      Mozos profesionales.\r\n\
+      No bajan la calidad."
+    date: 07-12-2009
+    user: http://mi.guiaoleo.com/members/17214
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Mucho ruido en el sal\xF3n, mesas amontonadas. Creo que lo que ocurre es que siendo de zona norte uno est\xE1 acostumbrado a otro tipo de restaurante. M\xE1s all\xE1 de que la calidad de los platos es muy buena los precios son alt\xEDsimos. (Los platos son para compratir, las porciones son muy grandes) Para resumir, es lo que se llamaba un restaurante de clase alta en los 80s. Se qued\xF3 en el tiempo."
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/19217
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El sal\xF3n muy ruidoso y las mesas extremadamente juntas. La ambientaci\xF3n muuuy 80`s. Al igual que la mayoria de los clientes.La comida muy buena y aunque los platos son para compartir me parecio excesivamente cara. No volver\xEDa. Aunque est\xE1 bueno conocerlo. Un clasico de otra \xE8poca."
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/72359
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      se come bien Pero realmente hay mucho ruido en el ambiente, tanto que no te permite hablar con los de tu mesa.
+      no merece ese nivel de precios 
+      no vuelvo mas
+    date: 01-09-2009
+    user: http://mi.guiaoleo.com/members/68896
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Comida de excelente calidad y muy buena atencion
+    date: 24-08-2009
+    user: http://mi.guiaoleo.com/members/68044
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fui porque me dijeron que se comia bien. La verdad es que si, pero tengo las siguientes observaciones ya que no era lo que estaba buscando. El ambiente es para ir en familia muchas luces, mucho ruido y mesas encimadas, no para ir en pareja. La comida esta muy bien elaborada. Algunos platos son para compartir como por ejemplo los ravioles y no justifico el precio ($102 ravioles de cordero) porque el plato esta justo y es preferible pedir una entrada antes. carta de vinos buena sin ser excelente. servicio de mesa $9 por persona. Tiene guardarropas. No vuelvo. Espero les sirva el comentario.
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/247
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Espectacular la comida, y el servicio muy bueno. Fuimos para celebrar el aniversario de boda y la pasamos muy bien, porque la comida es excelente un risotto con frutti di mare y unos ravioli de y el servicio atento pero discreto. Compartimos risotto con marisco y ravioli de salmon: ambos espectaculares. Nos quedamos con ganas de probar otros platos. Volver\xE9 y lo recomiendo"
+    date: 08-06-2009
+    user: http://mi.guiaoleo.com/members/14216
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Volv\xED luego de casi un a\xF1o. El servicio de mesa (pan normal para bajo, con s\xF3lo una manteca sancor para  untar) lo cobran 9 pesos. A diferencia de antes, ya no hay platito m\xE1s chico a la izq del principal para el pan (algo que no se puede dar en un restaurant de esta categor\xEDa). \r\n\
+      Ravas, muy buenas, la salsa con la que la acompa\xF1a es para destacar. Los ravioles de cordero que ped\xED, estaban adecuados al precio ($98 para compartir). Lemoncello tibio. No vuelvo."
+    date: 28-04-2009
+    user: http://mi.guiaoleo.com/members/61253
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Decepcionante. Hace tiempo que no iba y me sorprendi\xF3 por la baja en la calidad de sus productos y en lo desproporcionado de sus precios. El pan que sirven es vergonzoso para un lugar de m\xE1s de $100 el cubierto. No volver\xE9 por mucho tiempo..."
+    date: 28-04-2009
+    user: http://mi.guiaoleo.com/members/36392
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Un clasico de la Recova de Posadas, con un publico predominante de turistas y ejecutivos. 
+      Es sorprendente que sostengan la politica de platos abundantes para compartir lo cual quita independencia a los comensales a la hora de elegir. El servicio es muy correcto. Los platos muy sabrosos, el postre Capocheto riquisimo!
+    date: 27-04-2009
+    user: http://mi.guiaoleo.com/members/25520
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente ambientacion, armonia en todo el salon. la atencion es impecable en todo sentido y muy esmerada ademas. la comida no puede ser mejor. las porciones son muy abundantes y sabrosas. VUELVO
+    date: 03-04-2009
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: fui por trabajo me hicieron quedar muy bien con los extrangeros. la comida deliciosa.gracias,sigan asi.
+    date: 24-10-2008
+    user: http://mi.guiaoleo.com/members/53363
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: la verdad no lo conocia , habia escuchado  muchos comentarios excelentes y malos, ahora que fui, es para mi lejos en calidad el mejor restaurante italiano en argentina
+    date: 28-09-2008
+    user: http://mi.guiaoleo.com/members/52098
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      La comida es realmente Excelente.
+      Los precios son altisimos, dirigidos a turistas.
+      Tengo 2 quejas: 1) los platos (de pastas, sobre todo) son para compartir... entre 3 !! a quien se le ocurrio eso?
+      la mayoria de las mesas son de 2 o 4 comensales, y que los platos sean para 3 hacen realmente incomodo el pedido.
+      2) con el pan no traen ningun adhereso, queso blanco.. etc. solo manteca. con esos precios se podrian esmerar un poquito.
+      El resto, 10 puntos.
+    date: 19-09-2008
+    user: http://mi.guiaoleo.com/members/13584
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Una decepcion. Hace varios meses que no concurria. Ya los mozos (y son los de antes) pasan los platos del servicio cruzando la mesa. Ya no preguntan si alguien quiere pimienta, ni si todo esta Ok. Ya no se fijan si faltan bebidas(vg.vino)Los platos compartidos a duras penas.El precio plus ya no se justifica. La comida es un todo que fue olvidado.
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/45464
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Panera mala, destaca pizza como panera a parte, entrada, berenjena rellena, casi pastel de berenjena y carne, muy abundante y por cantidad casi plato principal, es muy rica, pero demasiada condimentada. El plato principal que pedimos, ravioles relleno con cordero, es de sabor fuerte, algo pesado. El mozo apura mucho los pedidos, y volco el vaso de agua en el plato de mi se\xF1ora, y tuvimos que pedir que nos sirva un plato nuevo... Los platos son para compartir, pero rondan 100 pesos cada uno. Un lugar para ir con muchos para probar varias cosas. Postre fue buena, en presentacion y en el sabor."
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/25706
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos a cenar en m\xE1s de una oportunidad y siempre todos los platos fueron exquisitos. Pecado irse sin llevarse una torta, son realmente un manjar."
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/60641
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: es un lugar que hace honor a su trayectoria y renombre. recomendable.
+    date: 09-07-2008
+    user: http://mi.guiaoleo.com/members/47254
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Que sea caro es lo de menos, el menu lo vale, es de primera. El ambiente acompa\xF1a maravillosamente, MOZOS preparados y atentos al detalle, exelente opcion en recoleta, para quedar bien con alguien"
+    date: 16-05-2008
+    user: http://mi.guiaoleo.com/members/36514
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buen lugar, sabia que era caro pero no pensaba que era para tanto, $150 un plato de pastas con frutos de mar, todo muty rico y abundante, pero no deja de ser un plato de pastas, la porcion de pulpo $200, los vinos, si bien la carta es muy buena, deja algo pendiente, tienen dos vinos de $50 o menos y despues si queres otro tener que subir el precio a mas de $100. Muy buenos los postres, hay que reservar y con ganas de esperar.
+    date: 27-03-2008
+    user: http://mi.guiaoleo.com/members/23825
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "A los opin\xF3logos gourmet este restaurant los sobrepasa por lo simple e increible de sus platos. No pueden creer que algo tan simple como unos ravioles se pueda transformar en algo m\xE1gico. Recomiendo todo, absolutamente todo y a los que dicen que es caro, se equivocan, hay que saber pedir y compartir. Si hacen esto \xFAltimo es hasta barato."
+    date: 23-03-2008
+    user: http://mi.guiaoleo.com/members/1812
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida exquisita, ademas los platos muy abundantes, un clasico que no falla, mucha gente, pero vale la pena esperar.
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/21393
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Incre\xEDble como siempre. Esta vez me sorprendieron con el brocoli!!! Nunca lo hubiese pedido y ahora no veo la hora de volver a comerlo!\r\n\
+      Las porciones son maravillosamente abundantes! Siempre sorprende por su excelencia! Vale la pena!!!!"
+    date: 24-02-2008
+    user: http://mi.guiaoleo.com/members/15532
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La atenci\xF3n no es buena. Tuvimos que esperar 20 minutos para que nos atiendan, y nos atendieron porque nos paramos a inquirir a un mozo. El mozo no fue servicial, y, adem\xE1s fue irrespetuoso (cuando le consultamos sobre si nos pod\xEDa traer pan de pizza para ir picando, nos dijo \"pero ojo que lo tienen que pagar\").La comida es muy buena, pero en absoluto justifica los exhorbitantes precios (las rabas estaban $ 74!).Durante toda la comida tuvimos que soportar gente agolpada a nuestro alrededor esperando su turno. Para resumir: fu\xED confiado en algunos consejos de amigos, pero me defraud\xF3."
+    date: 14-02-2008
+    user: http://mi.guiaoleo.com/members/41349
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Es lejos lo mejor de buenos aires, pero es excesivamente caro, para unos pocos elegidos que lo pueden pagar
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/39772
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar ruidoso, donde todos gritan no hablan. La pasta es muy rica, la atenci\xF3n y la ambientaci\xF3n es buena. Pero cuando me fui me zumbaban los oidos de tanto bochinche."
+    date: 23-01-2008
+    user: http://mi.guiaoleo.com/members/38528
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Piegari es ideal para ir en grupo. Los platos son abundantes y con un plato y una entrada comen cuatro personas facilmente. Los mozos mismos se encargan de informar sobre la abundancia de los platos y sugieren compartir. 'el' plato de piegari son las pastas cuerda de guitarra. parece mentira que algo tan simple pueda ser tan superior al resto. pedimos risotto primavera y he probado mejores. Si bien es caro, al ir en grupo de 4 o 5 se puede amortizar bien y darse un gustito!
+    date: 20-01-2008
+    user: http://mi.guiaoleo.com/members/40428
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: En un ambiente muy destacado, una comida que no defrauda.Es algo caro.Para ir de tanto en tanto.
+    date: 17-12-2007
+    user: http://mi.guiaoleo.com/members/36588
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Solo parta turistas desprevenidos, no vuelvo.\r\n\
+      La atenci\xF3n desordenada totalmente superada por la capacidad, los platos enormes sin la prevenci\xF3n del mozo, sobr\xF3 de todo. resulta caro para la calidad."
+    date: 29-11-2007
+    user: http://mi.guiaoleo.com/members/37516
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      Tanto la atencion por parte de los camareros como la distribucion de las mesas tuvieron un desmejoramiento pronunciado a partir del boom turistico. 
+      Se agregaron mesas, se reemplazo la vajilla por otra de menor calidad y los camareros (seguramente por la sobreexigencia) perdieron o se olvidaron de como atender y en algunos casos la educacion. El tema del espacio y el ruido es para tenerlo en cuenta. La comida sigue siendo muy recomendable pero no justifica por todos los otros puntos en contra. En Septiembre de 2007 fue la ultima vez que fuimos dandonos por vencidos
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/7695
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Las pastas son riqu\xEDsimas, especialmente los insuperables cuerdas de guitarra que simplemente con oliva y tomate constituyen una delicia, al igual que el tiramis\xFA. Muy buen servicio a cargo de mozos profesionales y de indudable experiencia. La \xFAnica objeci\xF3n son los precios bastante elevados, si bien los platos son para compartir, y el ambiente ruidoso por la cercan\xEDa de las mesas."
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente pastas (entre las mejores de Buenos Aires). Mesas muy juntas.\r\n\
+      Precios exagerados, casi abusivos. "
+    date: 12-08-2007
+    user: http://mi.guiaoleo.com/members/29470
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida es exquisita, las porciones son para compartir.
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "el ambiente es comun, la atenci\xF2n regular, llegu\xE8 cinco minutos m\xE0s tarde y me hicieron esperar una hora y media como era la primera vez que iba me qued\xE8 a esperar, la gente se amontona, es muy ruidoso el lugar, y los precios son demasiado altos por lo brindan IRRECOMENDABLE.\r\n\
+      Por el mismo precio hay servicios mucho mejores,\r\n\
+      este lugar es como el refr\xE0n cria fama y echate a dormir."
+    date: 27-07-2007
+    user: http://mi.guiaoleo.com/members/28142
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Un lugar para gente mayor. 1/2 hora de espera, que se compensa con un trago de cortesia. 
+      Pedimos de entrada unas rabas que tenian mucha aceite, las pastas muy buenas y abundandes. Todo es para compartir.
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/14809
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Un lugar realmente caro, la comida es bastante buena pero no se si vale la pena tan alto precio, los mozos no son del todo atentos y el lugar esta muy colmado de mesas.
+      Nos acomodaron en sector fumadores sin consultarnos.
+    date: 09-07-2007
+    user: http://mi.guiaoleo.com/members/17123
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es buena, pero nada del otro mundo. Nos toc\xF3 una mesa muy inc\xF3moda, un banco contra la pared. Falla la ventilaci\xF3n: nos fuimos con olor a comida. Un punto a favor: los platos son para compartir. "
+    date: 21-06-2007
+    user: http://mi.guiaoleo.com/members/6425
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buena calidad de comida, lindo ambiente y atencion acorde. lastima los precios, no se justifica volver por lo que se cobra respecto de la calidad, por este precio hay mejores opciones, debe ser el tema del nombre/moda/farandula etc....muy buenas las berenjenas y la ubicacion es fenomenal.
+    date: 14-06-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La calidad de las pastas es excelente.\r\n\
+      El lugar se ha trasnformado en un sitio ruidoso y ha bajado mucho la categoria en cuestion de atencion y de ambiente. \r\n\
+      Solo regreso porque me encantan sus pastas.\r\n\
+      Los precios me parecen por demas elevados "
+    date: 11-06-2007
+    user: http://mi.guiaoleo.com/members/13183
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy buena, una buena lista de vinos, alguna copa de champagne o licor de invitacion acompa\xF1an muy bien a una generosa panera. Porciones para compartir.La atencion es buena con mozoss profesionals y no pseudo modelos improvisados. \r\n\
+      Lo unico q encontre negativo es que han puesto muchas mesas y se ha vuelto sumamente ruidoso y concurrido por personajes no muy agradables.Para ir a comer temprano e irse antes del tsunami pseudo humanoide."
+    date: 10-06-2007
+    user: http://mi.guiaoleo.com/members/23844
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Piegari ofrece pastas como en poco lugares van a poder encontrar en Buenos Aires. Con una oferta de variedad de salsas excelentes.\r\n\
+      Los platos son para compartir sin excepci\xF3n, lo que hace sentir menos sus excesivos precios.\r\n\
+      Las mesas son muchas y est\xE1n todas muy juntas, lo que hace que el lugar sea muy bullicioso y uno tenga que escuchar no s\xF3lo su conversaci\xF3n, sino tambi\xE9n la de otros.\r\n\
+      A\xFAn as\xED, no deber\xEDan dejar de conocerlo."
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/1357
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: el ambiente es ruidoso con aire viciado. La cantidad de mesas ocupadas supera la superficie del sitio como para tener una experiencia agradable. Los precios son acorde a la zona pero no acorde al nivel de los platos (comida muy simple).
+    date: 18-05-2007
+    user: http://mi.guiaoleo.com/members/23001
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar es muy ruidoso y falta el aire, la comida es buena pero las salsas son un poco pesadas, es un clasico al que se peude volver.
+    date: 02-05-2007
+    user: http://mi.guiaoleo.com/members/22464
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Una de las mejores mesas de la ciudad. Gran variedad de comidas y excelente la calidad. Imperdibles el pan de pizza y las pastas. Las porciones son muy generosas y para compartir entre 2 o 3. El ambiente agradable y la atencion correcta. Es caro pero el mejor. Que no decaiga.
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/12826
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "EXCELENTE ATENCI\xD3N Y UN LUGAR PARA DISFRUTAR CON AMIGOS Y GENTE DE BUEN COMER.\r\n\
+      DESDE FORMOSA VIAJ\xC9 A CAPITAL A DISFRUTAR DE ESTE EXCELENTE LUGAR UBICADO EN LA MEJOR ZONA DE BUENOS AIRES.\r\n\
+      MI COMENTARIO SER\xCDA: SIGAN ASI!LOS ARGENTINOS Y LOS EXTRANJEROS SE MERECEN EL NIVEL DE ESTE LUGAR.-"
+    date: 28-03-2007
+    user: http://mi.guiaoleo.com/members/20711
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es muy ruidoso. El risotto de mariscos es excelente. Con respecto al lomo, la carne era dura, los var\xE9nikes parec\xEDan capelettis. La atenci\xF3n es buena, pero no es acorde al precio. Poco restaurante para tanta fama y tanto precio, no condice con el estilo de la Recova de Posadas.  "
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/19894
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Un lugar mediocre de pastas donde de ninguna manera se justifica el precio.
+    date: 06-03-2007
+    user: http://mi.guiaoleo.com/members/9509
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Platos excesivamentes abundantes obliga a compartir, cubierto de $ 6.00, muy alto, s\xF3lo ofrecen pan com\xFAn, sin ning\xFAn producto para untar, conviene revisar la cuenta, abon\xE9 sin mirar y me facturaron 1 botella de vino de m\xE1s, (cuantas veces lo haran), al reclamar x telefono me informan que en la pr\xF3xima visitan me la descontar\xE1n (estoy obligado a volver?)"
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/19486
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es buena, los mozos muy serviciales, la ambientacion es buena pero no tenes intimidad entre las mesas. Lo mejor las cintas de guitarra al pomodoro y la meluza negra.
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/10684
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n, la comida inmejorable!"
+    date: 30-01-2007
+    user: http://mi.guiaoleo.com/members/17220
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No me parece bien que las porciones haya que compartirlas porque son excesivamente abundantes. \r\n\
+      Prefiero elegir mi propio plato. \r\n\
+      Relaci\xF3n costo/beneficio muy alta."
+    date: 26-01-2007
+    user: http://mi.guiaoleo.com/members/16540
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "No me agradan los cigarrillos y menos durante las comidas. Por eso, para los fumadores hay una divisi\xF3n bien armada para los que deseen fumar. Como dijeron anteriormente, es para compartir hasta los postres. En cuanto al servicio, depende los d\xEDas. "
+    date: 13-01-2007
+    user: http://mi.guiaoleo.com/members/11188
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      alguein me puede explicar porque este restaurante tiene fama de ser bueno?, la comida no es mala, claro que para hacer una pasta tampoco se necesita ser adria, las porciones son para compartir y la materia prima es muy buena.
+      pero quien se creen que son, ambiente desordenado, mozos que no saben para donde van, gente parada, dando codazos a los que estan comiendo tranquilos y tiene que bancar sus nervios por esperar mesas, que cierren las puertas y sean un poco mas amables con el cliente! parecia la guardia de un hospital, un lugar no recomendable en lo mas minimo.
+    date: 20-11-2006
+    user: http://mi.guiaoleo.com/members/24408
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Soy uruguaya y era mi primera visita.\r\n\
+      Viernes de noche, mientras esper\xE1bamos nos convidaron con champagne.\r\n\
+      La mesa estuvo disponible r\xE1pidamente.\r\n\
+      Panes deliciosos, el risotto sin duda el mejor que he comido. Otro tanto el tiramis\xFA.\r\n\
+      La atenci\xF3n es impecable, para nada pesada, coloquial sin ser \"confianzuda\"."
+    date: 10-11-2006
+    user: http://mi.guiaoleo.com/members/13587
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy abundante todo. \r\n\
+      Hay que ponerse de acuerdo con otra persona para ordenar. Es hasta antiest\xE9tico. Espacio reducido y muy ruidoso. Toillettes precarios."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/13583
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "\xA1Comimos de todo!"
+    date: 24-10-2006
+    user: http://mi.guiaoleo.com/members/13005
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Siempre est\xE1 lleno, hay que ir con paciencia pero los platos son siempre frescos y a punto. Es verdad, tambi\xE9n son abundantes, por lo cual hay que ir preparado. Elegante y sensillo a la vez, por lo popular quiz\xE1s. Un cl\xE1sico de la buena comida mediterr\xE1nea-italiana."
+    date: 17-10-2006
+    user: http://mi.guiaoleo.com/members/1179
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Era medianoche y solicitamos un s\xF3lo plato para comer: raviloes scroffa.\r\n\
+      La porcion era generosa, para compartir.\r\n\
+      Bien de textura y sabor, con un toque de m\xE1s en cuanto a la pimienta.\r\n\
+      La atenci\xF3n era mala, desganada, m\xE1s bien \"pesada\".\r\n\
+      Nos hac\xEDa el favor de atendernos.\r\n\
+      Nos trajo una panera impresentable. Incompleta para el estandar habitual de ese restaurante y con panecillos mordidos.\r\n\
+      En fin."
+    date: 24-08-2006
+    user: http://mi.guiaoleo.com/members/5806
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Comida italiana de primer nivel. Lamentablemente los platos son gigantes, obliga a compartir. Hay bastante espera por lo general, pero lo vale.
+    date: 15-08-2006
+    user: http://mi.guiaoleo.com/members/8076
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Aviso que la comida, que es excelente, es para compartir. \r\n\
+      Soy clienta desde hace muchos a\xF1os, pero no han podido solucionar el problema de tanto ruido lo que no hace amena la sobremesa."
+    date: 07-08-2006
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Platos muy abundantes (para dos). Un lugar con comida bastante cl\xE1sica, pero siempre en su punto y sabor. \r\n\
+      Ideal para llevar extranjeros, quedan fascinados. \r\n\
+      Todo plato que incluya pescado o mariscos tiene precios muy elevados. \r\n\
+      Recomendable para comer bien seguro y siempre. \r\n\
+      Hay ruido de las mesas que a uno lo rodean. Atenci\xF3n buena, demasiada confianzuda para mi gusto (mozos saludando clientes)."
+    date: 10-06-2006
+    user: http://mi.guiaoleo.com/members/11955
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Se come muy bien. La cocina es excelente, pero los precios est\xE1n fuera de lugar. \r\n\
+      Se puede ir a Marcelo, (rest\xF3 del hijo de Piegari) y se come igual pero m\xE1s barato."
+    date: 30-05-2006
+    user: http://mi.guiaoleo.com/members/8138
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Simplemente decepcionante. Aunque la comida es buena, el ambiente es descuidado, hay mala ac\xFAstica y es mediocre la atenci\xF3n por parte de los mozos. \r\n\
+      La relaci\xF3n precio/producto es mala."
+    date: 21-04-2006
+    user: http://mi.guiaoleo.com/members/8123
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Las pastas nada del otro mundo, excesivamente caro, extramadamente ruidoso, no lo vale, es para la gilada, no vuelvo.
+    date: 10-04-2006
+    user: http://mi.guiaoleo.com/members/16821
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es el mejor restuarnte italiano de Buenos Aires. La calidad de sus platos es \xFAnica. Recomiendo el pulpo a la gallega (ojo que es muy caro), el risotto de Mariscos y, por sobre todo, las pastas.\r\n\
+      Los posters tambien son muy beunos.\r\n\
+      \r\n\
+      El ambiente es de gente garnde, con poca onda, pero la comida bien lo vale.\r\n\
+      \r\n\
+      Recomendaciones, las porciones son para compatrit, entre 2 o 3 y hasta 4, dependiendo lo que pidan.\r\n\
+      \r\n\
+      Ir temprano, por que de lo contrario hay que esperar.\r\n\
+      \r\n\
+      La atencion es muy bueno, pero las mesas estan muy juntas."
+    date: 09-02-2006
+    user: http://mi.guiaoleo.com/members/6503
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Muy caro para lo que es. 
+      Comimos pasta y pizza de entrada. 
+      Esta bien, pero no creo que sea correcto lo que cobran. 
+      Me molesta tener que salir y ponerse de acuerdo para pedir platos entre dos. 
+      Muy abundante todo.
+    date: 02-02-2006
+    user: http://mi.guiaoleo.com/members/4874
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Demasiado caro. Fui con extranjeros y les gust\xF3, pero hasta a ellos les pareci\xF3 caro. Adem\xE1s es muy ruidoso."
+    date: 02-12-2005
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un lugar para gente mayor, donde sin duda se come bien, pero se paga demasiado por su nombre. Hay mucho bullicio.
+    date: 15-10-2005
+    user: http://mi.guiaoleo.com/members/3287
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Su publicidad trasciende las fronteras argentinas, por lo que vine desde Per\xFA con la intenci\xF3n de disfrutar de su comida. \r\n\
+      Las pastas no me sorprendieron, el lomo al champignon, en cambio, estaba muy bueno. \r\n\
+      El precio muy alto para el promedio argentino, prob\xE9 mucho mejores platos en restaurantes con mucho menor costo y mejor servicio. Mucha bulla."
+    date: 06-10-2005
+    user: http://mi.guiaoleo.com/members/7015
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La mejor comida italiana que haya probado! El servicio r\xE1pido y expedito, pero las mesas est\xE1n demasiado juntas."
+    date: 27-08-2005
+    user: http://mi.guiaoleo.com/members/3568
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Las pastas excelentes igual que las salsas. Buen ambiente aunque algo aglomerado. Servicio bueno.
+    date: 20-07-2005
+    user: http://mi.guiaoleo.com/members/2878
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida no estuvo bien sol\xEDa estar mejor."
+    date: 10-07-2005
+    user: http://mi.guiaoleo.com/members/2664
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida y ambientaci\xF3n es buena, pero lamentablemente hay demasiado bullicio, es muy dificil escuchar a quienes te acompa\xF1an. Las mesas estan tan juntas que los mozos deben pasar de lado, la espera es eterna y muy mal atendida. Realmente no volveria, la relaci\xF3n costo servicio es un desastre, demasiado caro para la atenci\xF3n, el lugar y lo que consumis. Demasiada prensa para un lugar que no lo vale."
+    date: 08-07-2005
+    user: http://mi.guiaoleo.com/members/2537
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "No me sorprendieron las pastas como me hab\xEDan dicho. El ambiente es bastante t\xEDpico de personajes de Recoleta."
+    date: 04-07-2005
+    user: http://mi.guiaoleo.com/members/3
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Demasiada gente y demasiada recomendaci\xF3n para un restaruante mediocre en el que cobran caro. \r\n\
+      Es verdad que los platos son para 2 y un poco m\xE1s, pero prefiero un plato bueno menos generoso que tanto espamento."
+    date: 20-06-2005
+    user: http://mi.guiaoleo.com/members/27
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El Mozo fue lo mejor que nos toc\xF3, entrando al local el que serv\xEDa por el lado de 9 de julio. Bastante ruido y eso que el local estaba en un 35%. Poco espacio, inc\xF3modos los ba\xF1os."
+    date: 01-05-2005
+    user: http://mi.guiaoleo.com/members/1709
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Riqu\xEDsimo!! Porciones gigantes (para compartir) pastas secas italianas en su punto y sus salsas muy bien elaboradas. Cr\xEDtica: tienen que hacer algo con la espera. Todos muy amontonados."
+    date: 11-04-2005
+    user: http://mi.guiaoleo.com/members/1413
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Incomparable en la atenci\xF3n, y la comida excelente!!"
+    date: 20-03-2005
+    user: http://mi.guiaoleo.com/members/1399
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente comida y trato muy amable.
+    date: 27-02-2005
+    user: http://mi.guiaoleo.com/members/994
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente y para recomendar. El servicio es bueno, el lugar acogedor, como agente de viajes lo tengo como uno de los mas recomendados en Buenos Aires.
+    date: 20-02-2005
+    user: http://mi.guiaoleo.com/members/2322
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "excelente comida, muy mal servicio y lo mas grave es que las mesas est\xE1n demasiado juntas. hay muy poco espacio para sentarse"
+    date: 04-02-2005
+    user: http://mi.guiaoleo.com/members/721
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy bullicioso. Con el local lleno es imposible escuchar al que ten\xE9s al lado..."
+    date: 25-01-2005
+    user: http://mi.guiaoleo.com/members/632
+    ambiente_rank: bueno

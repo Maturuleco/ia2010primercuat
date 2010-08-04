@@ -1,0 +1,42 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Muy malo. Conozco muchos restaurantes por Palermo, pero nunca fui a uno tal malo. Primero, te hacen elegir las tapas y te traen la que quieren. \r\n\
+      Los tragos son intomables, la m\xFAsica no la pod\xE9s disfrutar. \r\n\
+      La verdad, un robo."
+    date: 15-08-2006
+    user: http://mi.guiaoleo.com/members/11174
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Sin ser un fan\xE1tico de las tapas, les digo que la comida estaba excelente con mucho gusto. \r\n\
+      Hay poca variedad pero saben lo que hacen con sus platos. \r\n\
+      El servicio es regular porque hay un s\xF3lo mozo para todo el sal\xF3n, pero le pone la mejor onda. \r\n\
+      Y el ambiente es ameno y esta bien decorado, con m\xFAsica a tono. \r\n\
+      Una mala, anunciaban shows los mi\xE9rcoles, pero ayer nos clavaron."
+    date: 19-07-2006
+    user: http://mi.guiaoleo.com/members/10032
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El ambiente parece ser bueno desde lejos, pero una vez que se ingresa al local el olor a suciedad del ba\xF1o inunda todo.\r\n\
+      La m\xFAsica realmente desentona con el lugar (pusieron radio a un alto volumen toda la noche). Las porciones son muy peque\xF1as a\xFAn considerando que se trata de tapas, no se condicen en absoluto con el precio."
+    date: 13-06-2006
+    user: http://mi.guiaoleo.com/members/10066
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui a cenar con un grupo de amigos y es recomendable los platos que ofrecen. \r\n\
+      A pesar de no tener gran variedad, son de excelente creatividad. \r\n\
+      Son buenos y vienen en la cantidad justa y necesaria para una persona. \r\n\
+      No es buena la entrada, pedimos una tabla para seis y en verdad era para dos.\r\n\
+      Aceptable atenci\xF3n e interesante show. Recomendable."
+    date: 03-06-2006
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy agradable. muy tranquilo en d\xEDas de semana, por lo menos. La m\xFAsica, genial."
+    date: 17-05-2006
+    user: http://mi.guiaoleo.com/members/8587
+    ambiente_rank: muy bueno

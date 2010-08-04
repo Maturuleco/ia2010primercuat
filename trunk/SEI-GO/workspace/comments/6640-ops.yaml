@@ -1,0 +1,38 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Para ser comida r\xE1pida y relativamente barata, esta muy muy bien. El ambiente es agradable, pero el servicio deja bastante que desear. Fui dos veces esta semana y la chica que me atendi\xF3 una vez me atendi\xF3 mas o menos, tardando bastante para cualquier cosa y hoy se olvid\xF3 lo que le hab\xEDa pedido, se arm\xF3 un peque\xF1o malentendido y la comida tard\xF3 bastante."
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/78791
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      el temaki esta muy rico, un cucurucho de arroz relleno de sushi...ingenioso y muy rico.
+      tenes que pedir 3 temakis para estar satisfecho.
+      medio caro sale cada temaki.
+      el servicio es pesimo...mucha demora en traerte el pedido.
+      pero vuelvo...
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/8758
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy satisfactorio mi almuerzo en este restaurante. Solamente habia comido previamente temakis en Sensu en Unicenter. En Kono,el temaki es mucho mas economico (menos de la mitad), y la calidad y sabor son muy parecidas. El temaki es un tipo de sushi en forma de cucurucho; y que en este local se prepara bastante rapidamente. Recomiendo este lugar; donde como novedad tambien se elabora un temaki dulce.
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Comimos con mi pareja Temakis de camarones, salm\xF3n tempura y demases. De entrada nos comimos unos rolls surtidos. La comida, excelente. Muy rica. Re lindo lugar para ir con amigas antes de ir a bailar por el barrio o para ir con tu pareja. La atenci\xF3n fue muy buena tambi\xE9n, Lamento que no tengan buenos postres. Recomendado para comer buen Sushi, bien ubicado y a un excelente precio!"
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/75595
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy rica, nunca hab\xEDa probado los temakis y me parecieron exquisitos. El lugar es tranquilo, es chico y agradable.\r\n\
+      La atenci\xF3n es regular, pero suma mucho que la comida te traen enseguida y no hay que esperar nada.\r\n\
+      Un fast food de comida japonesa, recomendado para los principiantes en este tipo de comidas."
+    date: 21-11-2009
+    user: http://mi.guiaoleo.com/members/72545
+    ambiente_rank: bueno

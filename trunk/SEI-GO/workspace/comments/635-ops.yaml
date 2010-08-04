@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Lei los comentarios antriores...si es un tipico bar ingles o irlandes! claroq ue va a haber mucha gente! asi son los bares alla! la gente se lleva su  pinta a la calle y toma de pie en la vereda!
+      Estos lugares son tipicos para tomar mucho alcohol a la salida de la oficina y hasta bien tarde! , no se espera una buena atencion!
+      Si se quiere comer bien y tener un buen servicio se va un restaurante!
+      Bueno...eso opino. Yo voy para recordar los atiborreados bares londinences.ha! y soy un cliente! , para los mal pensados que piensan que escribio uno del local!
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/78961
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos en grupo, lo mejor es que el dos por uno dura hasta tarde, lo malo es que cada vez que se pide algo te cobran el servicio. Pedimos una pizza y una picada, car\xEDsimas y daban lastima. Se llena de gente, para conseguir una mesa hay que ir muy temprano."
+    date: 11-12-2009
+    user: http://mi.guiaoleo.com/members/73084
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es bueno el 2x1 de cerveza y si bien no hay variedad de vinos por copa, est\xE1n a una buena temperatura, dado que los mantienen en conservadoras. La m\xFAsica est\xE1 buena y se llena de gente. La atenci\xF3n es un poco lenta."
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/45999
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pedimos un gancia y trajeron una copa larga llena de hielo con gusto a lim\xF3n de botella. Como habia happy hour volvimos a pedir otro, esta vez sin hielo y sin lim\xF3n (simplemente gancia) trajeron un vaso de wisky lleno de hielo y con gancia rebajado con agua!!!! una verguenza... Volveremos pero a tomar una cerveza"
+    date: 18-08-2008
+    user: http://mi.guiaoleo.com/members/12897
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Tiene buenos tragos y lo bueno tambien es el happy hour hasta  tarde ( hasta las 12 creo). Esta ambientado con poca luz y la musica suena  bastante fuerte. Para ir a tomar algo mas que para ir a cenar.
+    date: 24-07-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Buenos tragos,regular comida y servicio.M\xFAsica demasiado alta que adorna un ambiente en las tinieblas.S\xF3lo un punto m\xE1s de reuni\xF3n para el despu\xE9s de la oficina.Lo bueno: el happy hour hasta casi la medianoche."
+    date: 13-05-2008
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar esta igual que hace a\xF1os, lugubre, la atencion es para nada buena y ni hablar del espacio. Lo unico rescatable es la barra."
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/37163
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Excelente el nivel de cocteler\xEDa. \r\n\
+      Buena ambientaci\xF3n, p\xE9sima atenci\xF3n."
+    date: 25-02-2007
+    user: http://mi.guiaoleo.com/members/18970
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenos tragos (de alcoholes importados) con precios muy acordes y un happy hour hasta las doce de la noche todos los d\xEDas. Lindo ambiente, bien relax con buena m\xFAsica arriba y buena electr\xF3nica \"de autor\" en el underground."
+    date: 01-02-2007
+    user: http://mi.guiaoleo.com/members/6990
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buen lugar. Se llena, lo que provoca complicaciones para las meseras.
+    date: 07-07-2006
+    user: http://mi.guiaoleo.com/members/2479
+    ambiente_rank: excelente

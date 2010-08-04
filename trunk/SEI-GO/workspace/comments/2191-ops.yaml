@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Todo muy lindo, todo muy rico, la atenci\xF3n es buena pero todo muy caro."
+    date: 08-01-2010
+    user: http://mi.guiaoleo.com/members/57086
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Ideal para almuerzos sanos y en horario de trabajo. La atenci\xF3n es buena y muy \xE1gil el servicio. Tienen comida sana y variada. El lugar invita a comprar la comida y almorzar en otro lugar, tiene pocas mesas y es chico."
+    date: 28-08-2009
+    user: http://mi.guiaoleo.com/members/64213
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Es una excelente opcion para comer sano, y super rico. El lugar es impecable, en limpieza y la atencion es muy buena.  Los precios son super correctos.
+      El lugar es un poco chico, pero esta muy bien igual.
+    date: 04-08-2009
+    user: http://mi.guiaoleo.com/members/6135
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es una muy buena opci\xF3n para el mediod\xEDa. La comida es excelente, si bien el lugar es un poco chico y la atenci\xF3n algo apurada, compensa ampliamente con sus platos."
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/54429
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lugar peque\xF1o para comer, al mediodia durante la pausa de la oficina. La relaci\xF3n precio calidad es regular, ya que la comida es buena pero los precios son excesivos, especialmente los de los sandwiches.  "
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/62145
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comer en Compa\xF1\xEDa es el \xFAnico restaurant que conozco en la Ciudad de Buenos Aires con comida especial para cel\xEDacos, en amplia variedad (pastas, tartas, empanadas, postres, milanesas,ensaladas,etc. incluyendo platos vegetarianos y diet\xE9ticos, adem\xE1s de ser aptos para cel\xEDacos). La comida es de excelente calidad, muy confiable, el lugar es muy limpio y de ambiente agradable, y la atenci\xF3n es excelente. Ahora puedo variar el tipo de plato que como al mediod\xEDa.\xA1Muchas gracias, \"Comer en Compa\xF1\xEDa\", por hacer m\xE1s agradable la vida cotidiana del cel\xEDaco!"
+    date: 15-05-2009
+    user: http://mi.guiaoleo.com/members/62379
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es superfresaca y super liviana. Excelente para los m,ediodias en microcentro. el servicio es excelente y como bien dice el nombre uno nunca \"comera solo\" en este lugar sino que siempre \"comera en compa\xF1ia...\""
+    date: 06-05-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      La comida muy buena, el ambiente familiar pero un poco chico.
+      Excelente opcion para quien trabaja por la zona y quiere llevarse para comer en la oficina.
+      Comida muy fresca, natural y siempre rica.
+    date: 22-07-2008
+    user: http://mi.guiaoleo.com/members/25250
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la comida es super fresca y natural,
+    date: 26-05-2008
+    user: http://mi.guiaoleo.com/members/21377
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "bastante limpio y r\xE1pido... la comida es natural, y hay gran variedad. pero no es wow."
+    date: 12-02-2008
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno

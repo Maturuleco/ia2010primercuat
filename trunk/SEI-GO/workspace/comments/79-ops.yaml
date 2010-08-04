@@ -1,0 +1,265 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      todo muy bueno, la atencion, la gente, siempre atentos a todo
+      la comida muy sabrosa
+      y el postre
+      platos normales
+      
+      pero todo muy rico
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/69939
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen resto,con aire frances, supervisado por su due\xF1o, donde sobresale la belle cuisine francesa. Es una opcion interesante, donde Ud podra degustar platos tipicos de la cocina francesa. Hay que efectuar reservas dado que el lugar es peque\xF1o, no m\xE1s de diez mesas, de ahi la tipica denominacion de bistr\xF3."
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/79628
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "muy bien, coincido con los demas comentarios, es decir: poco lugar entre mesas pero todo lo demas bien; excelente relacion precio/calidad/cantidad, un poco floja la carta de vinos, muy bien el cafe y la atencion, medida y justa; sin incomodar pero atenta y dispuesta; en contra, como en la mayoria de lugares, se quedan con el comprobante de la cuenta; volveremos..."
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/71896
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente lugar con un servicio personal y buena comida. Postre de manzana fue maravilloso. Felicitaciones al chef, volveremos!
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/38133
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Peque\xF1o restaurante fiel exponente del concepto bistr\xF3. Una carta franca, muy acotada con opciones de platos del d\xEDa, sujeta a la tradici\xF3n francesa: impecables puntos de cocci\xF3n, texturas y sabores en el conejo y el braseado de cordero. Correcta atenci\xF3n, ambiente intimista sin pretensiones. Tal vez el punto m\xE1s flojo sea la carta de vinos: corta, con pocas opciones. Si piensan en ir: RESERVEN!!"
+    date: 23-12-2009
+    user: http://mi.guiaoleo.com/members/16579
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "fui a comer el sabado con dos amigos y me sorprendi cuando le pregunte al mozo como era el nombre del chef frances... y me contesto que no habia franceses en la cocina. la ultima vez que fui a comer fue en el a\xF1o 99 ya que vivo y trabajo en Paris, simplemente quiero decir que de los 15 dias que llevo en Bs As hoy no senti que hubiera estado fuera de Paris."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/69496
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy grata velada gracias al esmerado servicio y la exquisita comida en este excelente bistr\xF3 con lo mejor de la tradici\xF3n francesa en la selecci\xF3n de platos; se lucen las creaciones de una carta corta pero representativa y muy efectiva en cuanto a ingredientes y factura. Para recomendar"
+    date: 19-09-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Magn\xEDfico exponente de lo m\xE1s tradicional de la cocina Francesa en Buenos  Aires. Un cl\xE1sico de cl\xE1sicos, que como los grandes vinos, se ha puesto mejor con los a\xF1os (y ya lleva como diez en el barrio de Recoleta). Otro claro ejemplo de la f\xF3rmula: pocas mesas + pocos platos =  calidad insuperable. Comenc\xE9 con un tradicional \x93kitche lorraine\x94, riqu\xEDsimo. De los principales, eleg\xED los Rolls de cordero braseado, en larga cocci\xF3n, y terminado al horno envuelto en masa brioche, que conserv\xF3 intacto todos sus jugos: sublime!! Eso si, los postres no mantienen el nivel. Precios acordes con la calidad"
+    date: 15-08-2009
+    user: http://mi.guiaoleo.com/members/2647
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Es un lugar peque\xF1o y con pocas mesas pero que tiene su encanto. La carta es muy corta y lo que sorprende es que un s\xE1bado no tengan conejo, uno de los cuatro platos principales. Los mozos son muy atentos pero les falta algo de profesionalidad : nos explic\xF3 que los pates de la entrada eran tres, uno conocido y el resto desconocidos, al menos para \xE9l. La comida es buena, pero sin nada especial que destacar, el cordero guisado sin mucho sabor . La creme brulee muy sabrosa."
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Exquisia la comida pero las porciones demasiado peque\xF1as, podrian ser un poco mas abundantes. El resto excelente."
+    date: 09-01-2009
+    user: http://mi.guiaoleo.com/members/26240
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Sigue siendo un buen restaurante, pero nada m\xE1s que eso. Tiene platos diferentes y eso lo distingue; las porciones son peque\xF1as y es algo que hay que tener en cuenta para relacionarlo con el precio. La selecci\xF3n de vinos es escasa y, para la oferta que hay, son costosos."
+    date: 16-12-2008
+    user: http://mi.guiaoleo.com/members/27719
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida estaba muy buena pero la botella de tinto demasiado caliente. Un clasico de Recoleta
+    date: 01-11-2008
+    user: http://mi.guiaoleo.com/members/53938
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente pate casero,el gigot de cordero exacto en el punto pedido, muy buena la cr\xE9me brul\xE9e y con servicio de descorche (llevamos nuestro vino preferido).-Muy recomendable.-"
+    date: 23-07-2008
+    user: http://mi.guiaoleo.com/members/47438
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Lo probamos por primera vez hoy elegiendolo por la guia. El lugar es chico pero agradable. Te atienden muy bien con cuidado en los detalles. Los platos son exquisitos, muy bien presentados. Es un buen lugar para ir en pareja o conversar con un amigo acompa\xF1ados por un buen vino. Para recomendar a los que saben comer."
+    date: 03-07-2008
+    user: http://mi.guiaoleo.com/members/47028
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un muy buen lugar para ir a comer en pareja, la antenci\xF3n e smuy dedicada, la calidad y presentaci\xF3n de los platos excelente y la ambientaci\xF3n ideal para pasar un muy buen momento y poder hablar. El lugar es muy reducido (24 cubiertos aprox.) pero el espacio entre mesas es adecuado.\r\n\
+      He ido varias veces y segurir\xE9 yendo."
+    date: 16-06-2008
+    user: http://mi.guiaoleo.com/members/35296
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: El servicio es excelente al igual que la comida, la carta corta pero perfecta, no falta ni sobra nada, no alcanzan las palabras para felicitarlos y ya estan recomendados a todos mis conocidos.  Muchas gracias
+    date: 31-05-2008
+    user: http://mi.guiaoleo.com/members/45654
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Peque\xF1o y encantador rinc\xF3n franc\xE9s con pocas mesas. La comida es exquisita y el ambiente acogedor. super recomendable."
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Estaba un poco frustrado porque me hab\xEDa costado bastante conseguir mesa (es muy chico, hay que reservar con tiempo...), pero la experiencia fue muy buena.\r\n\
+      La comida excelente (sobre todo el boef bourguignon) y la atenci\xF3n impecable.\r\n\
+      Ideal para ir en pareja o en grupos chicos.\r\n\
+      Ojo que la carta es del tama\xF1o del lugar: chica.\r\n\
+      Recomiendo ampliamente."
+    date: 07-04-2008
+    user: http://mi.guiaoleo.com/members/15970
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Eramos 5. Comimos dos entradas entre los 5, un plato principal cada uno y tres postres. Respecto a la comida, toda muy rica (sobre todo el cordero braseado) pero para mi gusto un poco salado (los principales). En la carta deber\xEDa aparecer la guarnici\xF3n con la que vienen los platos y que aparezcan todos los platos que hay. La panera es excelente. La atenci\xF3n es muy buena. El lugar es chico pero agradable, tal vez faltar\xEDa un poco de separaci\xF3n entre las mesas.\r\n\
+      Buena relaci\xF3n precio/calidad. "
+    date: 10-03-2008
+    user: http://mi.guiaoleo.com/members/39367
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Muy buen bistro !!! lo unico que es chico , pero al ser chico la atencion es de maravillas .
+      la comida sale al punto que lo pedis , ya que te preguntan como lo deseas , carta un poco corta pero buenos platos muy recomendable!!!
+    date: 26-02-2008
+    user: http://mi.guiaoleo.com/members/28001
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es chico pero acogedor. Las mesas est\xE1n un poco juntas, pero cualquier incomodidad aparente es superada por la cordial atenci\xF3n de los mozos, que est\xE1n todo el tiempo pendientes de las necesidades del comensal.\r\n\
+      La comida es rica y con una buena presentaci\xF3n. Los platos no tardan demasiado en salir y los postres son una delicia.\r\n\
+      Ideal para ir en pareja a pasar una velada inolvidable."
+    date: 14-02-2008
+    user: http://mi.guiaoleo.com/members/22575
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: una excelente opcion, hacia bastante tiempo que no aparecia por este simpatico bistro y no entiendo bien porque motivo, la comida excelente, mucho profesionalismo y precio calidad optima, no pasara mucho tiempo para que regrese
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/30992
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena Bistro francesa, con ambientacion de restaurant de barrio.  Menu simple pero con buenos detalles, ingredientes de calidad.  Servicio muy bueno.  Una agradable experiencia, muy recomendable.
+    date: 12-09-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La calidez en la atenci\xF3n es poco usual.\r\n\
+      La comida es excelente. Tal vez la carta demasiado reducida. "
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/24607
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelente bistrot, muy aut\xE9ntico y agradable, c\xE1lido, para comer bien, sin grandes pretensiones ni los precios rid\xEDculos de otros \"restaurantes franceses\" de cocineros que nunca han salido mas all\xE1 de la Provincia de Buenos Aires"
+    date: 25-08-2007
+    user: http://mi.guiaoleo.com/members/16143
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy bueno todo, muy recomendable, sencillo, delicado, intimo y calido. la comida fue excelente, la atencion 10 puntos, lo unico que cambiaria un poco seria el tema ba\xF1os, pero todo muy bien igual... "
+    date: 05-07-2007
+    user: http://mi.guiaoleo.com/members/25988
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar escondido en el cual he comido el mejor conejo de los ultimos a\xF1os, ademas la terrine y la creme brulee estaban excelentes. Para recomendar "
+    date: 14-06-2007
+    user: http://mi.guiaoleo.com/members/4900
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente bistr\xF3 en el que se experimenta la dedicaci\xF3n de su due\xF1o, siempre presente."
+    date: 21-03-2007
+    user: http://mi.guiaoleo.com/members/10526
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me lo hab\xEDan recomendado en una degustaci\xF3n de vinos. El ambiente es c\xE1lido. El ser relativamente chico lo hace m\xE1s \xEDntimo. Excelentemente atendido, con partcipaci\xF3n activa del due\xF1o. Com\xED un Cordero confitado. No se me ocurren adjetivos. Era espectacular, un manjar. Tambi\xE9n lo hacen braseado y se le ve\xEDa una pinta b\xE1rbara. La cr\xEAme brul\xE9e tambi\xE9n era exquisita. Realmente recomendable. El \xFAnico detalle es que tuvimos que pedir que le bajaran un poco la temperatura al vino tinto, cosa que hicieron inmediatamente. Algunos vinos estaban recargados un 100 respecto al valor de s\xFAper o vinoteca. Otros 50. Me gust\xF3 mucho y voy a volver a probar los otros platos."
+    date: 22-02-2007
+    user: http://mi.guiaoleo.com/members/797
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "era muy bueno cuando abri\xF3, cayo mucho la comida."
+    date: 26-11-2006
+    user: http://mi.guiaoleo.com/members/11691
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Descubr\xED este lugar por recomendaci\xF3n de un amigo. Me pareci\xF3 \xFAnico, me hizo recordar unas vacaciones en Paris. Es un t\xEDpico bistr\xF3. Imperdible."
+    date: 13-11-2006
+    user: http://mi.guiaoleo.com/members/13490
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La comida tuvo resultados mixtos. El guiso y el lomito estuvieron muy buenos, pero el pescado estuvo bastante seco. Los postres estuvieron buenos, sobre todo la Cremme Brule.
+    date: 04-11-2006
+    user: http://mi.guiaoleo.com/members/11433
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar distinto en Recoleta.\r\n\
+      Carta corta pero bien equilibrada, buena atenci\xF3n y ambiente acorde. \r\n\
+      Carta de vinos mejorable y mesas algo chicas, pero buena comida y a precios razonables."
+    date: 28-10-2006
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cuenta con pocas mesas y no tiene \xE1reas no fumadores, eso me molest\xF3.\r\n\
+      La comida excelente. Los postres son una tentaci\xF3n. "
+    date: 18-06-2006
+    user: http://mi.guiaoleo.com/members/9442
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 mucho. Ambientaci\xF3n sencilla, sobria y de buen gusto. \r\n\
+      Pese a lo reducido del lugar se puede conversar muy bien. \r\n\
+      Servicio correcto, atento y sobrio. Porciones muy razonables. Adecuada relaci\xF3n precio/calidad/cantidad. Volver\xE9"
+    date: 01-05-2006
+    user: http://mi.guiaoleo.com/members/8329
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente por donde lo mires. Todo Bien.
+    date: 26-03-2006
+    user: http://mi.guiaoleo.com/members/5957
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El pescado mas o menos, pero me encant\xF3 el pate.  \r\n\
+      Seguro que vuelvo a probar otro plato."
+    date: 09-10-2005
+    user: http://mi.guiaoleo.com/members/3887
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me pareci\xF3 un excelente lugar, t\xEDpico bistro franc\xE9s. Muy buena relaci\xF3n precio-calidad."
+    date: 10-09-2005
+    user: http://mi.guiaoleo.com/members/3890
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Extraordinaria relaci\xF3n calidad/precio\r\n\
+      Bodega aceptable aunque algo escueta."
+    date: 15-06-2005
+    user: http://mi.guiaoleo.com/members/2162
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: DE LO MEJOR en comida francesa, siempre se come bien y no es tan pesada para ser comida champagnarde. Lastima lo reducido que es el lugar.
+    date: 21-05-2005
+    user: http://mi.guiaoleo.com/members/2613
+    ambiente_rank: muy bueno

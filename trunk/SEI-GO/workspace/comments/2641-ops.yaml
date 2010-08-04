@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Una experiencia interesante. Aparentemente no les gusta recibir clientes nuevos, la atenci\xF3n es de lo peor. Capaz a los habitu\xE9s les va mejor. Para no volver"
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/76761
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida estaba muy rica, pero entre el precio y los Octagenarios camareros sin ganas de atender caras nuevas, me quede sin ganas de volver.
+    date: 05-07-2008
+    user: http://mi.guiaoleo.com/members/41367
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: tradicional, tranquilo. muy buenas pastas y ensaldas muy abundantes. los mozos muy bien dispuestos.
+    date: 23-05-2007
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Sin pretensiones desmesuradas. Men\xFA y atenci\xF3n de afortunado viejo estilo. \r\n\
+      Quien a\xF1ore los viejos buenos tiempos, se sentir\xE1 bien a gusto. Si estuviese en Palermo, se hubiese convertido en esos lugares que -sobreviviendo a las tentaciones de las reformas de la arquitectura fashion- se tornan \"de culto\" de cierto publico \"bourgeois-boheme\"."
+    date: 14-07-2006
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno

@@ -1,0 +1,21 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Qu\xE9 dif\xEDcil es comer en el microcentro! Ni hablar de que sea una experiencia placentera que se parezca remotamente a c\xF3mo deber\xEDa ser la atenci\xF3n y el servicio en un restaurante; hay que conformarse con pasable, barato y r\xE1pido. Este lugar logra las 3 cosas con un tibio \"bueno\" raspando..."
+    date: 08-01-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Buen lugar, con buena propuesta, en un barrio que tiene pocos lugares para comer.
+    date: 19-08-2006
+    user: http://mi.guiaoleo.com/members/2881
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un t\xEDpico bodeg\xF3n de barrio pero con un ambiente m\xE1s moderno. \r\n\
+      Las pastan son muy recomendables y el precio es bastante accesible. \r\n\
+      Un lugarcito para descubrir."
+    date: 31-05-2006
+    user: http://mi.guiaoleo.com/members/10396
+    ambiente_rank: muy bueno

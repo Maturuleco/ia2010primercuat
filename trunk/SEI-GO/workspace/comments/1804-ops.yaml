@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy ricas pizzas. Sobre la atenci\xF3n en sal\xF3n, no s\xE9 porque s\xF3lo utilizo el servicio de delivery."
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/72167
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Preferentemente para delivery. No son muy amables con el trato hacia el p\xFAblico, y entre el staff del restaurant tampoco. Hay buenas pizzas econ\xF3micas para comer en casa. "
+    date: 02-09-2007
+    user: http://mi.guiaoleo.com/members/11521
+    ambiente_rank: malo/regular

@@ -1,0 +1,67 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Parrilla excelente, productos de calidad en su justo punto. Tambi\xE9n buenas las pastas. Charly, el due\xF1o, siempre atento y servicial lo mismo que los mozos. Muy recomendables y en precio los men\xFAes del mediod\xEDa. Para ir y pasarlo bien. Es preferible reservar porque se llena."
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/73068
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Estuve con mi pareja el s\xE1bado 22/05/2010. La rva estaba todo tal cual se me inform\xF3 telefonicamente. Atenci\xF3n servicial. Muy agradable, muy recomendable. Buena parrilla para ir en pareja o con amigos."
+    date: 31-05-2010
+    user: http://mi.guiaoleo.com/members/82878
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar muy bien ambientado y atendido.\r\n\
+      Las achuras estaban muy buenas. Despues comi asado cortado fino que estaba en su punto justo,las papas fritas cortadas tipo espa\xF1olas riquisimas y secas.\r\n\
+      ahi que ir temprano porque se llena"
+    date: 27-05-2010
+    user: http://mi.guiaoleo.com/members/9360
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "EXCELENTE parrilla. Muy rica la comida, con la carne a punto; se destacan las mollejas, entra\xF1as y un plato llamado Pamplona de lomo, que se derrite en tu boca. Volveremos!"
+    date: 05-05-2010
+    user: http://mi.guiaoleo.com/members/49410
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente el punto de las carnes. Muy buena relacion precio / calidad.
+    date: 29-04-2010
+    user: http://mi.guiaoleo.com/members/81057
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Desde la comida, la atenci\xF3n, el lugar, todo tiene una calidad y una calidez especial.\r\n\
+      Es como el lugar que todos quisi\xE9ramos tener en casa para pasar un buen momento comiendo un excelente asado, siendo perfectamente atendidos."
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/78733
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tercera vez que vamos, excelente parrilla, buen precio. Las papas fritas y la provoleta super buenas. Recomendable la ensalada Besares. No te olvides del Flan con dulce de leche al final como para cerrar. En definitiva, excelente parrilla a un precio m\xE1s que razonable. Y una esmerada atenci\xF3n. Volveremos."
+    date: 05-04-2010
+    user: http://mi.guiaoleo.com/members/77930
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      por fin un lugar de excelencia en el barrio,se come barbaro y se nota que todo esta hecho con profesionalidad.La atencion es inmejorable con MOZOS como los de antes que saben lo que hacen.
+      Comi unas mollejas como nunca en mi vida,las recomiendan enteras y bien doradas "increibles",las carnes que degustamos muy tiernas y sabrozas y los puntos de coccion los que pedimos(parrillero superpreciso),comimos tambien una pamplona de cordero para recomendar y unos ravioles de salmon rosado (las pastas son caseras)que estaban barbaros.
+      es dificil conseguir lugar,tuvimos q esperar,pero vale la pena.
+    date: 21-03-2010
+    user: http://mi.guiaoleo.com/members/78736
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Esta esquina parece signada por las malas elecciones gastron\xF3micas. A su nueva encarnaci\xF3n, BesAres, no le auguro mejor suerte. Propone una carta de nula inspiraci\xF3n y precios exagerados (una ensalada b\xE1sica para acompa\xF1ar una milanesa cuesta $25), y nada de lo que se sirve parece preparado con verdadero cari\xF1o por la cocina. Todo en este lugar suena a \"empresario no gastron\xF3mico ten\xEDa unos pesitos libres y se puso un Rest\xF3\". La atenci\xF3n es p\xE9sima (los mozos, ociosos por lo vac\xEDo del lugar, se pasaron todo mi almuerzo hablando de futbol a los gritos a metros de mi mesa). Le doy meses de vida.."
+    date: 07-03-2010
+    user: http://mi.guiaoleo.com/members/19299
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: bueno merece ser senalado
+    date: 21-02-2010
+    user: http://mi.guiaoleo.com/members/70064
+    ambiente_rank: bueno

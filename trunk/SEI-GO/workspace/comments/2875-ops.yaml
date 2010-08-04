@@ -1,0 +1,362 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La vista del lugar es increible, pero es lo \xFAnico lindo en este restaurant...al pedir el ojo de bife, no tenian, y me lo cambiaron por otro corte, los ravioles eran 5, y eso que salian $59!!!! Relaci\xF3n precio producto muy muy mala.\r\n\
+      Ls mozos bien, atentos.Hay miles de lugares mejores por lo que cobra este restaurant."
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/16432
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Desprop\xF3sito. Con s\xF3lo una palabra se puede definir este restaurant.Tiene, quiz\xE1s, la mejor vista de Bs. As. y no la aprovechan! De noche la iluminaci\xF3n es terrible! Se refleja la barra, la puerta del ba\xF1o y la de entrada en los ventanales que dan al R\xEDo, Retiro y Pto. Madero! No se entiende c\xF3mo no repararon en eso que es b\xE1sico! La atenci\xF3n, lamentable; hay que pedir por favor que te atiendan y, cuando lo logr\xE1s, tardan en traer el pedido: para una tabla de fiambres tardaron 40 min! Los precios excesivos para la calidad de la comida y encima no cumplen con la promoci\xF3n del club la naci\xF3n."
+    date: 14-04-2010
+    user: http://mi.guiaoleo.com/members/75519
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Debo destacar, aunque muchos lo han hecho la vista, la cualo es probablemente la mejor 
+      que tenga un restaurant en buenos Aires.
+      La atencion es buena, aunque los platos tardan un tiempo mas que considerable (visto y considerando que el lugar estaba casi vacio).
+      Los precios son excesivos y la calidad de la comida es buena, pero tampoco excelente.
+      Es ideal para ir con una pareja, no asi con amigos.
+      Bello lugar pero tampoco me convertiria habitue del mismo.
+    date: 06-04-2010
+    user: http://mi.guiaoleo.com/members/62062
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Un lugar de visita ocacional para una romantica velada. Agradable, privado, y exquisito. Deleita en todos los sentidos.
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/78403
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una vista hermos\xEDsima desde un emblem\xE1tico edificio de Buenos Aires. En realidad este es el punto m\xE1s destacable del lugar ya que la comida es s\xF3lo buena y la atenci\xF3n no es muy profesional. A\xFAn con el descuento de Club La Naci\xF3n los precios son elevados. No creo que vuelva s\xF3lo por ver la ciudad desde las alturas."
+    date: 22-02-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Gracias a la privilegiada vista, es a mi entender, el restaurant con mejor ambiente de Capital Federal. L\xE1stima que los platos no est\xE1n a su altura, son degustaciones a un alto costo monetario que no concuerda con la calidad de los mismos. El servicio es bueno.\r\n\
+      En s\xEDntesis, es un lugar para ir y conocer, pero no para regresar."
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Al opinar sobre este rest\xF3, resulta muy dificil detenerse en otra cosa que no sea la vista, ya que es espectacular, desde el piso 19, esos amplios  ventanales con vista al r\xEDo, permiten evadirse de la vor\xE1gine de la city porte\xF1a. Sumado a ello, la comida es muy buena, excelentemente presentada y prciones adecuadas. La atenci\xF3n es correcta. Ideal para olvidarse de Buenos Aires estando en sus propias entra\xF1as."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Lo unico destacable es la vista por lo cual es aceptable ir una sola vez. En lo que respecta a la comida es muy pobre y las porciones son muy muy peque\xF1as (Un plato con exactamente cuatro ravioles $55). \r\n\
+      Es recomendable para una sola vez."
+    date: 16-11-2009
+    user: http://mi.guiaoleo.com/members/37701
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "es un restaurant con una linda vista, pero el valor de los platos no se corresponde con lo que se come. Las porciones son muy peque\xF1as, fuimos tres personas, los ravioles estaban secos y sin salsa, la trucha era un porci\xF3n peque\xF1ita y estaba mal descripto el plato en la carta, los fideos estaba pasados y s\xFAper salados. Nos encant\xF3 la vista pero reserven una mesa al lado de la ventana porque si no no se puede disfrutar, y eso es lo \xFAnico destacable del lugar!!"
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/57146
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Todo lindo, sobre todo el ambiente, es silencioso, se puede hablar perfectamente, lo que no es poco . Intimo.
+      La vista es maravillosa.
+    date: 01-10-2009
+    user: http://mi.guiaoleo.com/members/49531
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos 2 parejas, pasamos una noche excepcional, el lugar impecable, la luz es tenue, la m\xFAsica sumamente agradable, los mozos excelentes, uno nos recomend\xF3 los spaghettis al huevo con mariscos,que terminamos pidiendo y estaban deliciosos. Es verdad que los platos no son abundantes pero tampoco te qued\xE1s con hambre. La degustaci\xF3n de postres 100% recomendable,la carta dice que es para 2 pero entre 4 no pudimos terminarla y estaba muy buena. Solo debe decir que hac\xEDa bastante calor y los precios son altos. Lo recomiendo para una noche especial, donde vale la pena gastar."
+    date: 26-08-2009
+    user: http://mi.guiaoleo.com/members/61320
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar se destaca por la vista fui de noche y de dia y en cualquiera de los 2 horarios esta buenisimo! La atencion muy buena y la comida tambien.Lo que si les comento para que sepan cuando quize dejar propina para la chica no me la asepto porque dice que la empresa se queda con el 50% de la propina y con eso pagan a al personal me parecio una verdadera verguenza... y bueno vivimos en Argentina!! Salvo eso el lugar es recomendable. saludos
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/75426
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La verdad que el lugar excelente en cuanto a ambientaci\xF3n y vista. Pero la relaci\xF3n precio-calidad un desastre, el tama\xF1o de las porciones minusculo, tanto del plato pricipal como de los postres, me senti estafada."
+    date: 27-04-2009
+    user: http://mi.guiaoleo.com/members/61615
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Sin dudas lo mas destacable del resto es la ubicaci\xF3n y vista privilegiada a Puerto Madero (ubicado en Corrientes y Alem, frente al Luna Park), con una atenci\xF3n correcta de mozos amables pero de poca experiencia. Los precios son exagerados ($50 por Sorrentinos, porci\xF3n muy escasa) pero los vinos se encuentran a precios accesibles ($42 Alamos Cabernet). Tambi\xE9n exageran el precio de los postres. Sin dudas para quien privilegie ubicaci\xF3n y vista, y una comida decorosa, pero \"sin relacion precio-calidad\"..."
+    date: 26-03-2009
+    user: http://mi.guiaoleo.com/members/50942
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar se va en pretensiones. La comida y el servicio es regular. Mozos sin experiencia ni ganas. El lugar es triste y est\xE1 mal iluminado. Los precios son excesivos para lo que sirven. La cocina se ve demasiado y no est\xE1 preparada para que se vea. La vista es buena (podr\xEDa ser mejor ya que son ventanas y no un gran ventanal como son los restaurants en altura) pero no compensa todas las otras deficiencias. No volver\xEDa ni lo recomiendo"
+    date: 19-03-2009
+    user: http://mi.guiaoleo.com/members/8418
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Reserv\xE9 para San Valentin y ped\xED que me dieran mesa al lado de la ventana. Cumplieron. La atencion fue buena, justa. La comida tard\xF3 lo correcto entre plato y plato.\r\n\
+      Lo que es indiscutible es que tiene un ambiente muy bueno pero la comida no lo vale.\r\n\
+      Dato importante; hay valet parking, lo que hace que el gasto del estacionamiento en la zona a 9.80 la hora se evite.\r\n\
+      Mi novio pidio lomo y la verdad que estaba bastante duro.\r\n\
+      \r\n\
+      S\xF3lo para ocasiones especiales o para bolsillos de clase alta. Ah, o para aprovecharlo con Club La Nacion"
+    date: 13-02-2009
+    user: http://mi.guiaoleo.com/members/53183
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Precios algo elevados, pero lo valen para una ocasi\xF3n especial!!  Desmiento comentarios anteriores en los cuales se hace referencia a un mal servicio o una comida de baja calidad. Estuvimos muy bien atendidos, a todos nos deleit\xF3 la comida, un efectivo valet parking, y lo mejor de todo, una vista incre\xEDble!!  10 puntos.-"
+    date: 30-12-2008
+    user: http://mi.guiaoleo.com/members/55614
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida bastante floja, los platos de la carta no son atractivos en sus descripciones y los que pedimos tampoco eran ricos, platos demasiado simples para los precios del restaurante. El servicio fue lamentable, p\xE9simo. Pedimos una entrada que nunca lleg\xF3, los principales llegaron directamente luego de 40 minutos, y as\xED una sucesi\xF3n de hechos entre falta de ganas y de capacitaci\xF3n de todos los mozos. \r\n\
+      Y los precios no tienen ninguna relaci\xF3n con el servicio que brindan. \r\n\
+      En definitiva, no vayan, por muchos menos van a comer mucho mejor en otro lados."
+    date: 09-12-2008
+    user: http://mi.guiaoleo.com/members/12325
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Para no volver. El aire acondicionado un desastre. Las camareras y el camarero DE TERROR. Si fuese un restaurante de barrio o una cantina de la boca podr\xEDamos decir que la comida es buena, pero un plato de fideos a $ 50 y dos bochitas de helado com\xFAn a $ 26 hace que para ese segmento de precios la comida sea mala. La vista no es nada del otro mundo, solamente es alto y nada m\xE1s ya que solo se ven pastizales, aguas turbias y algunos edificios. La decoraci\xF3n pobre al igual que la vajilla."
+    date: 26-11-2008
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Hace bastante que no iba, el servicio sol\xEDa ser regular, lamentablemente ahora la atenci\xF3n es completamente p\xE9sima.\r\n\
+      La chica que nos atendi\xF3 mostr\xF3 el m\xE1s absoluto desgano y desinter\xE9s. El highlight fue cuando nos indic\xF3 que si pediamos una tabla iba a demorar 20', porque \"los chicos de cocina estaban comiendo\"... sin palabras."
+    date: 28-10-2008
+    user: http://mi.guiaoleo.com/members/40197
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Un lugar con una vista espectacular, precios bastante elevados aunque el nivel de la comida es muy bueno. Prob\xE9 un abadejo con salsa de almendras muy bien preparado y mis acompa\xF1antes tambi\xE9n se fueron satisfechos con la calidad de sus platos, solomillo y lenguado, respectivamente.Las moza que nos toc\xF3 en suerte, se notaba algo inexperta pero gentil."
+    date: 21-10-2008
+    user: http://mi.guiaoleo.com/members/40133
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es espectacular, la vista muy linda, y el ambiente excelente para una velada romantica. La comida muy buena, pero el lugar se merece algo mejor. El servicio correcto, pero lamentable que se olvidaran de traernos la entrada (de repente cay\xF3 el mozo directamente con el plato principal). La vista parece ser lo \xFAnico que realmente justifica el alt\xEDsimo precio."
+    date: 10-09-2008
+    user: http://mi.guiaoleo.com/members/11097
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un poco caro para lo que ofrecen. El lugar es increible y muy oportuno para un festejo rom\xE1ntico. Hay lugares donde se come much\xEDsimo mejor por much\xEDsimo menos. No conozco otro lugar con esa vista (piso 20 sobre el R\xEDo)"
+    date: 23-08-2008
+    user: http://mi.guiaoleo.com/members/22695
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Salvo la vista el lugar es muy malo.Pedimos dos platos y nos trajeron otros,cuando reclamamos nos dijeron que nos les quedaba lo que solicitamos, por eso nos traian otros.
+      nunca vi algo igual. pagamos las bebidas y nos fuimos obvio no volvemos
+    date: 04-04-2008
+    user: http://mi.guiaoleo.com/members/18226
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos anoche tipo 11 pm.\r\n\
+      Salvo el lugar que es espl\xE9ndido y con una vista incre\xEDble, todo lo dem\xE1s deja mucho que desear.\r\n\
+      Tardaron exacta 1/2 hora en traerme los platos, los cuales estaban mal presentados y sin gusto. El pan de entrada estaba gomoso y la salsa era extremadamente picante.\r\n\
+      El mozo ten\xEDa cero onda y parec\xEDa que hab\xEDa que suplicarle cada vez que necesitabamos algo.\r\n\
+      Conclusi\xF3n: es muy caro por el servicio que se ofrece. Solo es razonable el men\xFA de desayuno.\r\n\
+      Un lugar para conocer si se quiere, pero no para volver."
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/30566
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida fue rica...la porciones son peque\xF1as...sin embargo el lugar es muy lindo."
+    date: 14-02-2008
+    user: http://mi.guiaoleo.com/members/40240
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "El lugar cuenta con una hermosa vista; cosa que hace a este lugar unico y lindo de conocer. Pero lamentablemente la comida no acompa\xF1a a la categoria que pretende: platos pesimamente elaborados, preparados y  presentados. La carta de comidas es corta y poco variada. La carta de vinos por el contrario es muy extensa, tanto que se ve que no tienen el espacio fisico suficiente para tener todos los vinos de la carta. Lo unico rescatable, a parte de la vista, es el servicio. Que compensa la evidente falta de capacitacion con cordialidad y esfuerzo, gracias a el hemos pasado una noche inolvidable."
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/40110
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: el lugar es muy recomendable. solicite una reserva ya que elegia el lugar para hacer una propuesta de matrimonio, nos dieron una mesa destacada y nos sentimos muy comodos. comimos muy rico, el precio no es mas caro que en los populares lugares de puerto madero y tiene una especialidad sobresaliente sobre estos. la vista es increible, pero el lugar tiene una potencialidad a nuestro gusto aun no aprovechada, no se si intenta ser moderno o refinado, es un poco de ambas cosas pero se queda ahi. el dia que definan una u otra ambientacion sera un lugar perfecto, de todas maneras 10 puntos. es un lugar altamente recoemndable, nosotros con champagne, aguas, entrada, paltos pricnipales y postre gastamos 200 pesos. es un lugar para conocer si se puede pagar
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/36058
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lo m\xE1s destacable del lugar es la espectacular vista que ofrece tanto de d\xEDa como de noche. \r\n\
+      Adem\xE1s el ambiente es muy tranquilo, con m\xFAsica agradable ideal para una cena rom\xE1ntica. El servicio fue correcto y atento. Lo m\xE1s flojo es la comida que solo acompa\xF1a sin destacarse."
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Evidentemente, le han prestado atenci\xF3n a los comentarios de esta p\xE1gina, ya que en principio sorprendi\xF3 la carta de vinos, por la variedad y lo completa.\r\n\
+      Los platos tardaron lo justo mientras nos deleit\xE1bamos con la vista de a\xE9rea que proponen las ventanas.\r\n\
+      Los platos estaban muy buen servidos! abundantes y en particular el salm\xF3n era un porci\xF3n enorme y muy sabroso.\r\n\
+      Hablando con el mozo, nos coment\xF3 que sab\xEDan de los comentarios de esta p\xE1gina, y que se hab\xEDa hecho una reestructuraci\xF3n del men\xFA, tanto en variedad como en forma de servirlo."
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/10722
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente ambientacion, comida y atenci\xF3n. Evidentemente los comentarios negativos del lugar han sido recibidos por los directivos y modificados. \r\n\
+      Atenci\xF3n intachable y muy buena comida."
+    date: 27-09-2007
+    user: http://mi.guiaoleo.com/members/32850
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "El ambiente es excelente, me encanta, obviamente se disfruta mucho la vista, y es muy bueno para cena rom\xE1ntica (buena iluminaci\xF3n, excelente vista, buena distancia entre mesas), la atenci\xF3n fue realmente cordial, descontracturada (c\xF3mo a mi me gusta), no-molesta y eficiente. \r\n\
+      Si bien no tom\xE9 vino (ni siquiera mir\xE9 la carta) me pareci\xF3 caro realmente: el servicio de mesa 6 pesos (s\xF3lo unos panes normales con crema \xE1gria), termin\xE9 gastando 80 pesos (sin propina) por plano pricipal, postre y agua.\r\n\
+      El postre estaba muy bueno (tentaci\xF3n de chocolate blanco y negro) pero no guarda relaci\xF3n con el plano principal. Cuando el postre era MUY abundante, el plano principal no lo era, de hecho, era escaso y no ten\xEDa gran sabor realmente (aunque debo reconocer que el solomillo estaba bien cocinado). La califici\xF3n de buena para la cocina es porque no guarda relaci\xF3n entre el precio (car\xEDsimo) y el plano en s\xED (porci\xF3n peque\xF1a y nada del otro mundo).\r\n\
+      Recomendable para ir una vez cada tanto, principalmente si se quiere sorprender a alquien."
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/3967
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El cordero estaba fr\xECo y crudo, ped\xEC jugo de naranja y me trajeron Cepita de naranja o algo peor, detalle imperdonable, mas all\xE1 de la campanada, timbre o no se que demon\xEDaco artefacto usaban p/llamar al mozo.\r\n\
+      Torta negra de postre, dur\xEDsima.\r\n\
+      Es una l\xE1stima, fui muchas veces pero \xE9sta no se bien que pas\xF3.\r\n\
+      Igual voy a seguir insistiendo."
+    date: 08-03-2007
+    user: http://mi.guiaoleo.com/members/20435
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Muy malo. Quiero recalcar que cualquier chef conoce que se debe retirar la piel del morr\xF3n porque es muy indigesta. El peque\xF1o souffl\xE9 de verdura que acompa\xF1aba el salm\xF3n, estaba seco(cuando lo ped\xED crudo), era pura masa y estaba lleno de morr\xF3n rojo con toda su piel (incre\xEDble e incomible). El servicio es muy inexperto. La mesa estaba mal puesta y las copas sucias.  Lo mejor fue la vista de nuestro hermoso Buenos Aires. "
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19057
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente ambiente. Una vista de Buenos Aires como pocas. Los platos derrochan presentaci\xF3n, pero carecen de sabor. La atenci\xF3n es por dem\xE1s buena, los mozos son algo inexpertos, pero cubren esa falla con actitud. Recomendable a quien quiera un lugar rom\xE1ntico o busque desconectarse. "
+    date: 30-01-2007
+    user: http://mi.guiaoleo.com/members/17264
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Pocas veces he estado en un lugar tan recomendado por amigos y con tan malo servicio y comida. La atenci\xF3n carece de profesionalismo y conocimiento del producto. Pedimos la carne a punto y nos encontramos con un entrecote seco y duro, incomible. Al pedido de cambio traen una pasta. Lo m\xE1s gracioso fue la cuenta: el entrecote y la pasta que supuestamente los sustituy\xF3 estaban incluidas. No falt\xF3 nada: los cubiertos (seis por persona) y lo m\xE1s gracioso, el adicional de leche del cortado. \xBFAlguien vi\xF3 una cosa igual en un restaurante de un cierto y supuesto nivel? No vayan es el peor restaurante de Buenos Aires que hasta ahora conoc\xED. "
+    date: 25-01-2007
+    user: http://mi.guiaoleo.com/members/17050
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "EL ambiente del lugar es muy recomendable para una noche rom\xE1ntica. Velas, ara\xF1as t\xE9nues y m\xFAsica funcional acorde. El servicio fue muy bueno, el camarero que nos atendi\xF3 fue muy amable. La comida estaba muy bien presentada. El precio me pareci\xF3 acorde, ya que es un lugar de muy buen nivel. Recomiendo reservar con tiempo para tener mesas al lado de las ventanas. "
+    date: 22-12-2006
+    user: http://mi.guiaoleo.com/members/14993
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar tiene una vista preciosa del R\xEDo de la Plata. Vale la pena conocerlo. El ambiente es muy tranquilo. La entrada y el plato principal estaban muy ricos. No me gust\xF3 el postre, medio insulso. "
+    date: 27-11-2006
+    user: http://mi.guiaoleo.com/members/13131
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar se destaca, principalmente, por su ubicaci\xF3n: privilegiada. Un piso diecinueve, con un ventanal maravilloso sobre puerto madero. Esa vista al r\xEDo, no es algo que tenga cualquier restaurante. Sin embargo, el resto de los items no acompa\xF1a debidamente este lujo.\r\n\
+      La carta es corta, como corresponde a lugares de este nivel, sin embargo, es bastante variada. La comida result\xF3 dispar, buenos algunos platos y otros definitivamente no. La atenci\xF3n fue en general correcta pero desinformada. Afirmar, con convencimiento, que un vino tinto se sirve a temperatura ambiente, con un term\xF3metro que marca vientisiete grados, me pareci\xF3 muy poco acorde a la buena y amplia carta de vinos que ofrecen.\r\n\
+      La ambientaci\xF3n es minimalista, poca decoraci\xF3n, mesas comodas, velitas rom\xE1nticas y flores frescas de rigor; nada para destacar. Interesante para sorprender a alguien que no lo conoce, pero no lo suficientemente interesante como para volver."
+    date: 01-11-2006
+    user: http://mi.guiaoleo.com/members/6990
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me pareci\xF3 una l\xE1stima que un lugar tan lindo tuviera una atenci\xF3n y una comida p\xE9simas. Es la primera vez que me pasa que al precio que figura en el men\xFA, se traslade al precio final de la cuenta, el item cubiertos (cinco por persona). No es tanto por la cantidad, sino por el hecho de que no figure en ning\xFAn lado."
+    date: 11-09-2006
+    user: http://mi.guiaoleo.com/members/11996
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Me hicieron pasar una de las peores noches de mi vida. \xBFNo existe alguna autoridad que supervise la gastronom\xEDa en Buenos Aires? Invit\xE9 a una colega del exterior, la atenci\xF3n fue horrible, con un mozo que ha elegido un sexo diferente al suyo y maltrata sutilmente a las mujeres. \r\n\
+      La comida fue muy escasa y los precios siderales. \xBFC\xF3mo hacer para que estos abusos no perjudiquen a los incautos?"
+    date: 07-07-2006
+    user: http://mi.guiaoleo.com/members/9975
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9simo. Sin palabras. Uno de los peores lugares que jam\xE1s visit\xE9."
+    date: 18-06-2006
+    user: http://mi.guiaoleo.com/members/9389
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "\xBFQu\xE9 decir? Peor no se puede atender. \r\n\
+      Pedimos un vino tinto y nos trajo el mismo pero blanco, pedimos una sprite, trajo una sprite zero. \r\n\
+      En ningun momento fue ni un poquito cort\xE9s.\r\n\
+      Sali\xF3 car\xEDsimo y ni siquiera me trajeron factura.\r\n\
+      Comida muy discreta, muy cara, pero eso si, con muy linda vista.\r\n\
+      Ah, tambien hab\xEDa reservado con anticipaci\xF3n pero en lugar de darme una mesa junto a la ventana me eligieron una del medio y el lugar no estaba lleno. Lamentable experiencia."
+    date: 14-06-2006
+    user: http://mi.guiaoleo.com/members/9720
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Lugar al que me encanta llevar a extranjeros al almuerzo.
+    date: 07-06-2006
+    user: http://mi.guiaoleo.com/members/626
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un lugar m\xE1gico con vista a la ciudad y al rio, la comida podria mejorar. la atenci\xF3n es buena"
+    date: 08-05-2006
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El servicio es lamentable, mozos muy j\xF3venes y totalmente inexpertos. \r\n\
+      De entrada se olvid\xF3 la panera ($4 por persona) y cuando, pasado un tiempo de hacer el pedido, la reclamamos no pregunt\xF3 si quer\xEDamos que nos la trajera. \r\n\
+      Al servir el pancito se le cay\xF3 uno al piso y al recoger la mesa unos cubiertos terminaron tambi\xE9n en el suelo. \r\n\
+      El lomo no estaba mal pero no era nada del otro mundo, incluyendo la presentaci\xF3n. \r\n\
+      Los fideos muy secos, el oleo ni se notaba, ya que estaban totalmente sosos y pegados de lo secos que estaban; tuve que pedir que les pusieran un toque de crema. \r\n\
+      A la hora del postre en lugar de traer la carta nos coment\xF3 las dos variantes que hab\xEDa: helado o helado con frutas (sofisticada elaboraci\xF3n para semejante lugar). Le preguntamos por alguna otra opci\xF3n de las que hab\xEDamos visto en el men\xFA y la respuesta fue que s\xF3lo hab\xEDa lo dicho y, textual: \"se ve que calcularon mal al hacer las compras\". \r\n\
+      El maitre desbordaba simpat\xEDa, decir que se parec\xEDa a \"Largo\" no es exagerar.\r\n\
+      No quiero seguir porque en otras mesas vimos un par de detalles que tambi\xE9n restan.\r\n\
+      Conclusi\xF3n: No vale en absoluto la pena ya que el servicio es p\xE9simo y la comida es un poco escasa y no es nada de otro mundo para el precio del lugar. \r\n\
+      Eso si, la vista es linda, si toca junto a una ventana, pero como ni en eso pudimos tener suerte, no volver\xEDa a ir nunca m\xE1s. Por lo que seguir\xE9 yendo al de Olleros que es realmente excelente en cuanto a atenci\xF3n, comida y ambiente."
+    date: 06-05-2006
+    user: http://mi.guiaoleo.com/members/8292
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La verdad es que fui a principio de a\xF1o y no me gust\xF3 mucho, pero volv\xED a ir esta semana y el lugar cambi\xF3 much\xEDsimo. \r\n\
+      Reserv\xE9 por tel\xE9fono y la telefonista fue muy amable. Me respetaron la reserva. \r\n\
+      La atenci\xF3n de los mozos fue acorde al lugar y la comida muy bien presentada y muy rica. \r\n\
+      El precio me pareci\xF3 dentro de todo acorde a la zona. \r\n\
+      Tengo que comentar que a mi s\xED me aceptaron tarjetas de cr\xE9dito, pues yo pague con una. "
+    date: 21-04-2006
+    user: http://mi.guiaoleo.com/members/7895
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es regular, los precios no condicen ni con la calidad, ni con la atenci\xF3n. \r\n\
+      Faltan platos del men\xFA. No lo recomiendo."
+    date: 16-03-2006
+    user: http://mi.guiaoleo.com/members/4422
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar es bonito, el servicio p\xE9simo, no se advierte higiene alguna en la cocina (est\xE1 a la vista de todos). \r\n\
+      Recalco que el servicio es p\xE9simo, habr\xEDa que despedir a todos los camareros y tomar nuevos.\r\n\
+      La comida es pretenciosa, escasa, no demasiado rica y en definitiva, car\xEDsima para lo que es el lugar."
+    date: 02-03-2006
+    user: http://mi.guiaoleo.com/members/6742
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy pocas opciones. Excelente ambiente, aunque es m\xE1s recomendable de d\xEDa que de noche."
+    date: 26-02-2006
+    user: http://mi.guiaoleo.com/members/6663
+    ambiente_rank: excelente

@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Horrible atencion, el mozo un nabo a cuerda, se olvid\xF3 por completo que existiamos, cuando se percat\xF3, no s\xE9 que pas\xF3 con el horno, 40 minutos esperando una pizza socorrooo!!!\r\n\
+      never more, ni boracho ni hebreo.\r\n\
+      bye!"
+    date: 22-03-2009
+    user: http://mi.guiaoleo.com/members/21473
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: 3 empanadas artesanales de verdad,maza casera y el relleno es fresco nada disimulado.La pizza es mas que rica,muy sana a la piedra,es para ir a comer con amigos.
+    date: 16-10-2008
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Festejamos el cumple 89 de la abuela.Eramos 14 y reservamos.Miniempanaditas de entradas\r\n\
+      , los platos todos se compartes sin excepci\xF3n o te llev\xE1s lo que queda sin problemas. El sabay\xF3n tibio reci\xE9n hecho, copita de espumante sin cargo para el brindis. Satisfechos todos y precios agradables. Sencillo y abundante con sabor."
+    date: 10-05-2008
+    user: http://mi.guiaoleo.com/members/9571
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ambiente muy bueno, la pizza es a la piedra y excelente. Mucha muzzarella y la fugazzetta rellena una especialidad. Atencion del mozo muy buena. Recomendable para los que gustan de la buena pizza. "
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/31082
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es muy bueno el lugar y el ambiente en el cual se come.
+    date: 03-08-2006
+    user: http://mi.guiaoleo.com/members/10803
+    ambiente_rank: excelente

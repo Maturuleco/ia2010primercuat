@@ -1,0 +1,22 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El sushi estaba rico, el tama\xF1o de las piezas, las ahicaria un poquito. Nos atendieron muy bien, el lugar es muy ameno."
+    date: 04-06-2010
+    user: http://mi.guiaoleo.com/members/80713
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida es excelente, pero lamentablamente el servicio es malo, tardan mucho, la chica que nos atendi\xF3 tenia malas formas y nos llegaba el olor a desodorante del ba\xF1o."
+    date: 07-05-2010
+    user: http://mi.guiaoleo.com/members/50632
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Excelente lugar para comer sushi...solo sushi!!! los demas platos sugeridos no estan para nada logrados.
+      El ambiente es muy ameno , pero tienen que mejorar mucho la atencion , ya que hay solo una chica que sabe lo que hace y que es muy amable pero siempre hay otras chicas nuevas que no saben donde estan paradas (lo que me paso la ultima vez ).
+      Repito solo es bueno si vas a comer Sushi.
+    date: 29-03-2010
+    user: http://mi.guiaoleo.com/members/81191
+    ambiente_rank: excelente

@@ -1,0 +1,69 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy buena opcion para el mediodia en el centro de la capital porte\xF1a. Gran variedad de platso del dia y de la semana a muy buen precio. Recomendado"
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un excelente lugar para sentarse a comer (en serio) en Microcentro. Los platos son abundantes y los precios convenientes. El sal\xF3n es un poco ruidoso y a veces queda chico. La atenci\xF3n es correcta y efectiva. Buena oferta de men\xFAes para el mediod\xEDa."
+    date: 11-05-2010
+    user: http://mi.guiaoleo.com/members/69568
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar tiene buenos precios No se puede hablar por el nivel de ruido Tardaron cerca de 40 minutos el traer comida de men\xFA. La relaci\xF3n calidad / precio-tiempo es p\xE9sima"
+    date: 31-03-2010
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Una de las mejores opciones para los mediodias en el microcentro en cuanto a costo/beneficio. Alta variedad de platos (ensaladas, carnes, pastas, etc.) en abundantes porciones a un muy buen precio que incluye 1 bebida y postre.
+      El ambiente es ruidoso, dado el gran numero de gente que asiste al lugar. La atencion es buena, solo que a veces un poco lenta debido a la cantidad de comensales pero nada como para preocuparse.
+    date: 11-11-2009
+    user: http://mi.guiaoleo.com/members/35019
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La palabra \"m\xE1gico\" le queda bien a 333: salgo de ah\xED medio fascinado y tres cuartos sorprendido, no puedo entender d\xF3nde est\xE1 el truco. \xBF\xA1C\xF3mo ofrecen un men\xFA tan completo (hay ensaladas, carne, pollo, pescado, pastas) reforzado por interesantes platos del d\xEDa y un \"especial de la semana\", m\xE1s rica panera, bebida y postre, a ese precio!? Se est\xE1 un poco inc\xF3modo (en el microcentro, \xBFd\xF3nde no?), pero el ambiente es agradable y el servicio es muy bueno incluso cuando el local est\xE1 lleno. Todo lo que prob\xE9 estuvo bien preparado y fue abundante, postres incluidos. \xA1Ojal\xE1 se mantenga as\xED por a\xF1os"
+    date: 27-10-2009
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No parece un restaurante de microcentro. Lo m\xE1s valioso es la relaci\xF3n precio-calidad. S\xFAper recomendable en todo sentido! Ofrecen 4 menues ejecutivos por dia, bien variados y elaborados. Los postres son fabulosos (recomiendo el almendrado, el flan y la natilla).\r\n\
+      Si sos cliente habitual, encima, el caf\xE9 es atenci\xF3n de la casa. No son improvisados. \r\n\
+      Ojo en hora pico a mediod\xEDa, hay ruido ambiente y probabilidad de espera."
+    date: 07-11-2008
+    user: http://mi.guiaoleo.com/members/42019
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente ambiente, decoraci\xF3n de platos y muy buen sabor en la comida.\r\n\
+      Es un ambiente joven, llevado adelante por gente con ideas innovadoras, lo que lleva a un resultado impecable."
+    date: 09-06-2008
+    user: http://mi.guiaoleo.com/members/46070
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Una excelente opcion en el microcentro, la calidad de la comida es increible, parece siempre recien hecha.
+      El precio es increible y mas si se lo compara con otras opciones de la zona, ademas la comida esta muy buena y las mozas muy atentas.
+    date: 21-04-2008
+    user: http://mi.guiaoleo.com/members/19959
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen ambiente, excelente musica acompa\xF1ada de una muy buena comida...todos quedamos muy conformes."
+    date: 06-03-2008
+    user: http://mi.guiaoleo.com/members/41403
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n de menu gourmet al mediod\xEDa, excelente relaci\xF3n precio/calidad. Com\xED unos bifecitos muy buenos y de postre una natilla de rechupete.\r\n\
+      Volver\xE9."
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/15797
+    ambiente_rank: excelente

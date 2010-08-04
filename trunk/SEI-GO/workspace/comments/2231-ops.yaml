@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Comida buena que si bien no sobresale, cumple razonablemente.  Excelente carta de vinos y seleccion de vinos por copa.
+    date: 28-11-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Una reducida pero bien armada carta, con platos pensados para diferenciarse de la rutina de comida diaria. Un s\xF3tano bien decorado, luminoso y con un ambiente agradable. "
+    date: 29-05-2007
+    user: http://mi.guiaoleo.com/members/15718
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Los fiambres son muy buenos, un lugar muy recomendable para probar alguno vino y escuchar buena m\xFAsica...La atenci\xF3n es realmente excelente."
+    date: 17-05-2007
+    user: http://mi.guiaoleo.com/members/10904
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos a almorzar, primero nos dieron la carta, al rato aparece el camarero diciendo que s\xF3lo tablas o sandwiches (deber\xEDan haber avisado al llegar). \r\n\
+      No ten\xEDan agua mineral fr\xEDa, el vino (rosado) tampoco ten\xEDa la temperatura adecuada. El camarero no ten\xEDa idea de nada. Gastamos mucho y tardamos dos horas en comer un sandwich cada uno. \r\n\
+      Para olvidar para siempre."
+    date: 20-01-2007
+    user: http://mi.guiaoleo.com/members/16659
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un s\xF3tano. Si se llena, puede ser un poco ruidoso, pero la comida es muy buena y la carta se renueva frecuentemente."
+    date: 11-04-2006
+    user: http://mi.guiaoleo.com/members/7687
+    ambiente_rank: muy bueno

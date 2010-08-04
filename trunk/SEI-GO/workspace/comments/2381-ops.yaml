@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El ambiente es familiar,la atencion es muy amena y la comida es muy buena,muy recomendable.
+    date: 02-03-2008
+    user: http://mi.guiaoleo.com/members/41241
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "muy buena la atenci\xF3n"
+    date: 29-11-2007
+    user: http://mi.guiaoleo.com/members/9010
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me pareci\xF3 un lugar familiar y agradable."
+    date: 14-06-2006
+    user: http://mi.guiaoleo.com/members/9313
+    ambiente_rank: muy bueno

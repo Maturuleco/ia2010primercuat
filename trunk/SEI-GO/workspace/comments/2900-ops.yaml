@@ -1,0 +1,206 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El restaurante tiene un lindo ambiente, la comida me parecio buena, la atencion tambien, es recomendable y la promo de la tarjeta lo hace accesible. Una aclaracion solo aceptan American Express.
+    date: 11-05-2010
+    user: http://mi.guiaoleo.com/members/22354
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      entramos de casualidad y solo tiene parrilla.
+      la antencion es... alguien que te trae un plato. no es buena pero no llega a ser mala.
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/49708
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui al mediod\xEDa, buenos precios. Est\xE1 bien ambientado y la atenci\xF3n correcta. La comida muy rica, buen precio, pero las porciones son peque\xF1as, a menos que pidas plato principal y postre. Lugar para volver, pero no muy seguido..."
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Hacia bastante que no pasaba y la verdad que esta vez dejo que desear.  El asado especial (y era sugerencia) estaba frio, fuera de punto y pura grasa, lo deje casi todo y no me ofrecieron cambiarlo. el tibio de manzana en el microondas queda horrible.  La camarera medio pelo.  El precio barato. La provoleta muy buena.  El ambiente que supo ser impecable esta muy deteriorado y venido abajo... les sugiero una lavadita de cara.
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/63764
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Parrilla correcta en Belgrano, no decepciona ni maravilla. Los tragos son baratos y buenos. Atenti a las sugerencias, que son solo dos de 7 en la carta.
+    date: 22-07-2009
+    user: http://mi.guiaoleo.com/members/6964
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El lugar esta muy bien puesto, es sumamente agradable y tranquilo. Cero ruido y la atencion es tranquila. Los platos vinieron bastante rapido, y si bien atendimos la sugerencia del mozo, no fue de lo mejor. El precio no es un buen punto, pero lo compensa con el lugar y la atencion. Probablemente vuelva.
+    date: 22-07-2009
+    user: http://mi.guiaoleo.com/members/68713
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena parrilla de Belgrano, la comida es fresca y en su punto, la atenci\xF3n es esmerada aunque la moza que nos toco en suerte no ten\xEDa mucha idea de los platos del d\xEDa de p\xE1rrilla y comenti\xF3 algunos errores al explicar a pesar de su buena voluntad. Las mesas algo juntas y los precios no pueden considerarse econ\xF3micos."
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/47331
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      La verdad una sorpresa.  Trabajo en belgrano, y hace un tiempo tenia ganas de probar esta parrilla.  Tiene 2 menues de mediodia, a 29 y 34 pesos, con bebida y postre.  Tanto lo que comimos nosotros, como los cortes de carne que se veian en otras mesas, tenian un aspecto barbaro.
+      
+      Super recomendable, muy bien atendido, y un lugar muy comodo, con buen espacio entre las mesas.
+      
+      Volvere.
+    date: 18-05-2009
+    user: http://mi.guiaoleo.com/members/8422
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos despues de leer los comentarios de Guia Oleo y nos gust\xF3 mucho. La comida muy buena, todo fresco y en su punto, los mozos: excelente atenci\xF3n, todo el tiempo atentos SIN molestar. Volveremos!!"
+    date: 02-04-2009
+    user: http://mi.guiaoleo.com/members/1124
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Lo elegi de la lista de OLEO y sinceramente nos gusto. La comida a punto, el servicio muy atento.
+      Volvere con toda seguridad. Lo unico que me parecio fuera de lugar es la eleccion de pago, 10% de descuento en efectivo. Creo que en rubro gastronomico no podemos aceptarlo.
+    date: 16-03-2009
+    user: http://mi.guiaoleo.com/members/22342
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Este lugar fue un hallazgo mientras camin\xE1bamos por Belgrano. \r\n\
+      El ambiente, el servicio, la comida fue impecable. El pollo estaba en su punto justo y lo trajeron a la mesa mientras todav\xEDa siseaba por el calor la parrilla.\r\n\
+      Es un lugar altamente recomendable, vamos a volver."
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/49817
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente parrilla. Comimos en el primer piso hacia la calle, tranquilos, sin ruidos y con una atenci\xF3n excelente. Muy bueno el cordero patag\xF3nico y la pamplona de lomo. Muy recomendable."
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/46200
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: el lugar muy bien ambientado, excelente la acustica, muy buena la antecion de los camareros y del sommelier, la comida bien, lo unico criticable es que siendo temprano tenian bastantes faltantes de platos, me parece que para un lugar asi no deberia suceder. los postres muy buenos. en fin muy buena experiencia
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/24039
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La verdad, volvi nuevamente a esta hermosa parrila que sin ninguna duda es la  mejor a mi entender o una de las mejores.\r\n\
+      El ojo de bife es ESPECTACULAR OMO ASI TAMBIEN EL COCHINILLO. \r\n\
+      La atencion es sobresaliente, siempre hay un mozo atento a lo que pasa en todas las mesas, no como en otros rtestaurant que un solo mozo atiende y hay que esperarlo hasta que viene. La m\xFAsica es acorede al lugar.\r\n\
+      Muy buena eleccion de postres por parte de la cocina.\r\n\
+      No creo que alla otra parrilla de similares caracteristicas"
+    date: 23-04-2008
+    user: http://mi.guiaoleo.com/members/25411
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El rest\xF3 me gust\xF3. La comida es buena, bien preparada y bien presentada. La panera, rica (falto un dip). El servicio es es esmerado. El ba\xF1o estaba algo desprolijo. El caf\xE9 es muy rico pero bueno, vino solo... hubiera sido mejor que viniera con algo dulce para acompa\xF1ar. Considero, en definitiva, que es un lugar recomendable."
+    date: 22-04-2008
+    user: http://mi.guiaoleo.com/members/29189
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimotres personas y para compartir(entre otras cosas) hemos pedido a sugerencia del mozo un asado de tira porque ven\xEDan tres, cuando las trajo una estaba llena de grasa y pedimos que trajera otra,la respuesta fue\"por eso eran tres tiras\",no las cambi\xF3. Cuando ordenamos el caf\xE9, pedimos tres vasitos de agua, nos dijo\"les traigo una botella de agua\", como la rechazamos, entonces trajo los 3 vasos de agua. Pedimos la cuenta y le avisamos al mozo que ten\xEDamos un descuento del 20% por pago con tarjeta de un banco,primero lo neg\xF3, ante nuestra insitencia averigu\xF3 y era as\xED."
+    date: 19-03-2008
+    user: http://mi.guiaoleo.com/members/42065
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena carne y muy buen servicio.
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/29433
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: La comida es muy buena y esta preparada al punto que se ordena. el ambiente es fabuloso calido y muy agradable. no obstante es preferible no sentarse cerca de la parrilla por el ruido y los comentarios de los parrilleros. la atencion deja mucho que desear, se esmeran pero no alcanza.
+    date: 14-02-2008
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente parrilla: muy bien presentado, porciones abundantes, el servicio de camareros impecable y el asesoramiento del sommelier de primera. El problema era que la carta de vinos era un tanto excesiva en precio.\r\n\
+      La disposici\xF3n de las mesas (algumas, sobretodo la que me toc\xF3)no era muy c\xF3moda: estaba pegada a otra.\r\n\
+      Altamente recomendable."
+    date: 08-01-2008
+    user: http://mi.guiaoleo.com/members/27926
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar esta muy bien puesto, el ambiente es agradable aunque un poco ruidoso. La parte inferior tiene el problema del calor de la parrilla, pero se puede estar. Es recomendable.
+    date: 28-10-2007
+    user: http://mi.guiaoleo.com/members/23854
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: La comida es rica,no es espectacular pero es buena, el ambiente es bueno aunque ruidoso, no es para una cena relajada. La atencion es buena
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/19730
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es muy buena, buena calidad de todos los ingredientes (basta decir que el caf\xE9 es Illy). Imperdible la provoleta y la pamplona de lomo! Los camareros son muy atentos, pero el ambiente se queda algo corto: las mesas muy pegadas. Es m\xE1s tranquilo el primer piso!\r\n\
+      Volvemos. "
+    date: 04-07-2007
+    user: http://mi.guiaoleo.com/members/20908
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Exelente atenci\xF3n, los mozos estan atentos en todas la mesas, la comida excelente, la carne muy tierna, las ensalas especiales de la casa vienen muy bien condimentadas de la cocina...el ambiente es muy cordial y muy top...se nota que es un lugar gourmet...\r\n\
+      Sumamente recomendable. "
+    date: 21-06-2007
+    user: http://mi.guiaoleo.com/members/25411
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno todo
+    date: 06-06-2007
+    user: http://mi.guiaoleo.com/members/24155
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El plato solicitado fue el plato especial del d\xEDa y promocionado por la casa que estaba bien, acompa\xF1ado con unas ensaladas normales. La carta de postres es escasa en variedad con nada para resaltar. Lo que resulta insoportable es la carta de vinos con su especialista inclu\xEDdo. El vino m\xE1s econ\xF3mico es de $37 de una bodega desconocida de Salta y luego le sigue en valor un Familia Gasc\xF3n con un valor superior al 150 con respecto a cualquier supermercado. El que acostumbra a comer con vino se siente estafado y desmerece al resto que este restoran ofrece, que en l\xEDneas generales es para concurrir en forma cotideana."
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/14585
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Se trata de un local de dimensiones peque\xF1as, cuarenta comensales, muy bien decorado, aunque algo ruidoso. La atenci\xF3n fue excelente, muy pendientes y cordiales.\r\n\
+      La carta de vinos se encuentra integrada solo con vinos de alta gama, cuentan con sommelier para acesorar. Es importante tener en cuenta que se parte de un valor de cuarenta pesos. Deber\xEDan contar con vinos de medio nivel. Nos llam\xF3 la atenci\xF3n que en ninguna mesa se estaba consumiendo.\r\n\
+      La comida es de muy buena calidad, preparada casi a la vista y en el momento.\r\n\
+      Correcta carta de postres para una parrilla fashion. Un lugar recomendable. "
+    date: 15-04-2007
+    user: http://mi.guiaoleo.com/members/13437
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La carne no era tierna y las verduras grilladas eran muy aceitosas. Los lugares fashion y la comida se pueden dar la mano. La provoleta y los aderezos(chimichurri y salsa criolla) estaban muy bien preparados. Muy buen caf\xE9. La marca Illy volvi\xF3 a estar presente en la Argentina, en buena hora. "
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/20266
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno. "
+    date: 05-04-2007
+    user: http://mi.guiaoleo.com/members/21066
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar. La comida es exquisita. Brillantemente preparada y en su punto justo.\r\n\
+      Cosa dificil de lograr en Parrilla.\r\n\
+      La atenci\xF3n es Muy buena. Est\xE1n muy atentos sin resultar pesados.\r\n\
+      El \xFAnico problema es que a las 12:00 de la noche cerr\xF3 la cocina y no pudimos pedir postres calientes (panqueques). LAMENTABLE PARA ESE NIVEL DE RESTO."
+    date: 29-03-2007
+    user: http://mi.guiaoleo.com/members/20741
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente parrilla. El ambiente es c\xE1lido e \xEDntimo y la atenci\xF3n es fant\xE1stica: est\xE1n en cada detalle. La comida es incre\xEDble; carne de primera calidad. Recomendad\xEDsimo."
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/18622
+    ambiente_rank: excelente

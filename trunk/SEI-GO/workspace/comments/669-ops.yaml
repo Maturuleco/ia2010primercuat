@@ -1,0 +1,367 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui a probar por primera vez la legendaria pizza de angel\xEDn que comieron Frank Sinatra y compa\xF1\xEDa y sal\xED desilusionado. Entramos y hab\xEDa un ambiente ruidoso. El mozo lleg\xF3 tarde y no prestaba atenci\xF3n, hubo confusiones en las bebidas y la fain\xE1 lleg\xF3 al mismo tiempo que la cuenta (un largo rato desp\xFAes de haberla pedido) esta estaba fr\xEDa, quemada en la punta y era una porci\xF3n miserable. La muzarella estaba excelente, pero la fugazza era lamentable. No volver\xE9..."
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/82689
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n para redescubrir la tradicional pizza porte\xF1a. No tiene pretensiones \"gourmet\". Ideal para el que busca una buena relaci\xF3n precio - calidad"
+    date: 21-03-2010
+    user: http://mi.guiaoleo.com/members/76899
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor pizza de Baires, el horno a le\xF1a le da un gusto especial. La variedad de sabores que se encuentran son unicos, la incomparable canchera, la portuguesa o la raulito. Sino miramos el ambiente, y solo disfrutamos de la pizza no tiene comparacion."
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/56626
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Siempre que estoy de paso por Av. C\xF3rdoba con tiempo, voy y como en la barra, l\xE1stima que all\xED no hay canchera de muzza para el corte. Yo recomiendo ir con amigos pedir una canchera de muzza y la torta de ricota de postre que es exquisita, la empanadas tambi\xE9n son muy buenas. Un cl\xE1sico. La bebida, como en muchos lugares, es cara y no hay gran variedad, es la materia pendiente."
+    date: 18-11-2009
+    user: http://mi.guiaoleo.com/members/34487
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "A veces voy porque siempre me siento m\xE1s c\xF3modo en bolichones ruidosos y atestados que en un restaurant modernoso de Palermo. A eso habr\xEDa que sumarle la historia que tiene (se proclama creador de la pizza canchera y por alg\xFAn motivo lleva m\xE1s de 60 a\xF1os en el rubro). El problema es que cada vez me cuesta m\xE1s recordar las virtudes que alguna vez tuvo Angel\xEDn: la pizza es regularcita, no son generosos con los ingredientes, la variedad es muy acotada, el precio puede terminar siendo car\xEDsimo. La propuesta me recuerda a un vampiro: no vive ni ha muerto, tiene un magnetismo muy propio y es mejor escaparle la primera vez cuando todav\xEDa est\xE1s a tiempo."
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La verdad es que este clasico de Buenos Aires se va quedando sin onda. Solo vale la pena comer al paso. La pizzas son ricas, alcanza? Puede ser...
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/22134
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Volv\xED porque me gustaba mucho el lugar, a pesar de lo que opinan otros, y porque no ten\xEDa un mal recuerdo de la pizza. El lugar sigue igual y est\xE1 bien que as\xED sea. Lo que no puedo entender es como se puede hacer una pizza tan mala y unas empanadas tan insulsas; que tengan solo torta de ricota de postre (que no me atrev\xED a probar) y que no tengan otro vino que el de la casa (intomable) o una sola opci\xF3n en botella 3/4 (intomable y m\xE1s caro). Incre\xEDble que se sostenga."
+    date: 14-10-2009
+    user: http://mi.guiaoleo.com/members/40783
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Si bien la pizza es buena es lugar actualemente carece de encanto alguno. Tampoco el precio acompa\xF1a. La \xFAnica exepci\xF3n es comer al paso, manera en la cual conserva su encanto."
+    date: 19-09-2009
+    user: http://mi.guiaoleo.com/members/18887
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La pizza es de lo mejor de la ciudad, las empanadas tambi\xE9n...adem\xE1s no te cae mal...vas, com\xE9s y com\xE9s y te levant\xE1s b\xE1rbaro al otro d\xEDa. En cuanto a la atenci\xF3n, los mozos son pro pero quieren que te vayas r\xE1pido...el ambiente es espantoso...lo rescatan la firma de Duvall y de Palito, pero dista de ser agradable...la parte de adelante tiene algo de pintoresco, junto con el \"turco\" que te acomoda el auto...es para ir entre amigos, no para llevar turistas ni chicas."
+    date: 08-09-2009
+    user: http://mi.guiaoleo.com/members/23812
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Para ir con muchos amigos (siempre que voy, somos por lo menos seis) y pedir un par de pizzas cancheras que son gigantes y m\xE1s ricas que las otras. La de muzza es especial y tiene un gusto \xFAnico."
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/10903
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es UNA t\xEDpica pizzer\xEDa de barrio y con historia!  Creador de la Pizza Canchera!!!! Es parte de la cultura argentina, me gusta disfrutar de los mejores restaurantes, pero nada como una tipica pizzeria al estilo Angelin y comer sus increibles pizzas sentado y siendo atendidos por mozos de profesi\xF3n, los que dicen Pecsi! \xF3 parados en la barra, o yendola a buscar! 10 Puntos y ojal\xE1 conservemos estas reliquias y eminenecias gastron\xF3micas de nuestra historia/cultura. X suerte No todos los lugares deben ser al estilo Palermo Hollywood o Pto Madero etc!"
+    date: 27-06-2009
+    user: http://mi.guiaoleo.com/members/64874
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La carta es casi inexistente. Ni siquiera ofrecen postres de ningun tipo.\r\n\
+      El valor agregado del lugar es comer en un local fundado en 1938 y donde no han hecho practicamente ninguna mejora desde esa epoca.\r\n\
+      La Pizza es muy buena aunque no tanto como la del Cuartito por ej. \r\n\
+      Recomiendo la sidra tirada. La sirven bien fria. Vale la pena.\r\n\
+      La paradoja de este lugar es que lo mejor que tiene es la \"p\xE9sima\" ambientacion del local, la rusticidad de los mozos y la carta que de tan breve parece un menu ejecutivo.\r\n\
+      Las paredes del local tienen la firma de muchos famosos que han pasado por sus mesas."
+    date: 22-06-2009
+    user: http://mi.guiaoleo.com/members/64625
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La pizza es muy rica, el lugar es decadente, y muy apretado, me parece muy caro para la clase de servicio q ofrecen, los camareros excelentes.
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La supuesta \"mejor pizza de buenos aires\" tiene s\xF3lo el nombre. La pizza era prepizza de s\xFAper y de las malas. La atenci\xF3n, de favor. y los precios, caros. Dicen que en mostrador es mejor pero lo que es para comer en el local, malo malo. Tal vez fue un mal d\xEDa para el pizzero..."
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/61985
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Muy buena pizza, de las mejors de Bs As! Realmente muy rica. El lugar para comer? impresentable... Inclusive no se entiende como lo habilitaron... Entiendo y me gustan las tradiciones, pero con todo el trabajo que tienen, podr\xEDan presentar la pizzer\xEDa un poquito mejor."
+    date: 26-02-2009
+    user: http://mi.guiaoleo.com/members/15655
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un lugar chico, con olor mezcla a frito y le\xF1a\r\n\
+      Pizza excelente y empanadas muy buenas\r\n\
+      No hay que dejar de pasar"
+    date: 04-02-2009
+    user: http://mi.guiaoleo.com/members/18568
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Es un lugar que me encanta, las personas que atienden ves que estan atentas a uno, miran a los ojos, y no se equivocan.
+      El chopp lo sirven bien frio, no conozco otro lugar que lo sirvan igual. 
+      El ambiente es excelente para lo que uno va a buscar, comer rico, barato y sintiendose parte de una tradicion.
+    date: 04-02-2009
+    user: http://mi.guiaoleo.com/members/57712
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Definitivamente la mejor pizza que com\xED en buenos aires. Desde ya que no es un lugar con glamour pero tiene ese gustito especial de los bodegones en los que se come tan rico que todo lo dem\xE1s parece superfluo. Adem\xE1s de comer a la carta y sentado se puede pedir pizzas por porci\xF3n, as\xED que si uno est\xE1 volviendo del centro un poco tarde y con hambre (y si encuentra lugar para dejar el auto) puede comerse una porci\xF3n al paso y llegar con menos hambre a la casa."
+    date: 02-02-2009
+    user: http://mi.guiaoleo.com/members/58343
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui por primera vez hace pocos d\xEDas. Com\xED de parado porque no daba para el comedor que tiene atr\xE1s, dec\xEDa, sal\xF3n con aire acondicionado y lo \xFAnico que hab\xEDa eran unos ventiladores, as\xED que mejor estar en el mostrador de adelante. La pizza es buena, pero como dicen otros ac\xE1 no es tampoco LA pizza y los precios son bastantes elevados para lo que es el lugar. S\xF3lo para quienes viven cerca y piden delivery o bien si est\xE1s de paso."
+    date: 25-01-2009
+    user: http://mi.guiaoleo.com/members/28652
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No se si la mejor, angelin es una marca registrada de pizzer\xEDa porte\xF1a, bien de barrio y super familiar. Cortita y al pie, para paladares exigentes con solo 20 minutos para comer bien y al paso. \xBFTe quer\xE9s sentar? \xBFQuer\xE9s que te sirvan? And\xE1 a otro lugar."
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/11229
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: la pizza de cancha es la mejor que comi en mi vida
+    date: 19-05-2008
+    user: http://mi.guiaoleo.com/members/45124
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es una t\xEDpica pizzer\xEDa de barrio que sol\xEDa visitar con mis viejos. Por desgracia pizzer\xEDa de este estilo se fueron perdiendo o mutando a restaurantes que tienen mucha pompa y terminan no siendo ni restaurante ni pizzer\xEDa.\r\n\
+      Ojal\xE1 Angel\xEDn siga as\xED manteniendo la esencia.\r\n\
+      La pizza es buena y los precios normales."
+    date: 27-04-2008
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "A mi gusto est\xE1 lejos de ser la mejor pizza de la ciudad. Es del mont\xF3n. No me genera nada en especial. Las empanadas fritas son muy grasientas. Dar\xEDa para una porci\xF3n de dorapa si and\xE1s con muchas ganas, y nada m\xE1s. El local y la atenci\xF3n desastrosos. Ser\xE1 todo muy t\xEDpico .... pero por lo que cobran deber\xEDa haber un m\xEDnimo de confort y cordialidad. En lo personal, por m\xE1s tradicional que sea, si me tratan mal o estoy inc\xF3modo, no voy m\xE1s. Por lo que te dan, es caro sin vueltas."
+    date: 04-03-2008
+    user: http://mi.guiaoleo.com/members/43050
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Qu\xE9 se puede decir de Angelin? Habr\xE1 muchas cr\xEDticas y elogios en igual cantidad. Lo importante: su pizza es caracter\xEDstica e inigualable. No digo que sea \"la mejor\" porque en definitiva cada paladar considera a su parecer qu\xE9 es lo mejor, pero indudablemente es inigualable y \xFAnica. El servicio? El ambiente? Esos par\xE1metros no entran en juego en un lugar como este. A Angel\xEDn se va a comer pizza y punto. Si es de parado en el mostrador de entrada, mejor a\xFAn. Juzguemos a cada lugar por lo que pretende dar: Angel\xEDn da una de las m\xE1s caracter\xEDsticas pizzas de Buenos Aires, y eso es inobjetable."
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/9181
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Demasiado inflado y promocionado.\r\n\
+      \r\n\
+      Un desastre la pizza y por sobr toda las cosas car\xEDsima. \r\n\
+      Es la pizza mas cara de buenos aires.\r\n\
+      Cualquier pizza de medio pelo es mucho mejor que esta."
+    date: 31-01-2008
+    user: http://mi.guiaoleo.com/members/34330
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Tal vez la atenci\xF3n no sea la mejor y el ambiente est\xE1 un poco pasado de moda, pero no deja de ser un cl\xE1sico de Buenos Aires al que hay que conocer. La pizza es muy buena y bastante caracter\xEDstica, uno podr\xEDa comerla con los ojos cerrados y saber que es de Angel\xEDn. Se recomienda la tarta de ricota de postre. Las empanadas no son buenas. Para ir en familia o con amigos. No creo que sea un lugar para impresionar a una chica."
+    date: 28-01-2008
+    user: http://mi.guiaoleo.com/members/11475
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      La mejor salsa de pizza que probe en mi vida.
+      Realmente particular. El lugar es deprimente pero vale la pena de parado por la tarde. Me comi 6 porciones.
+    date: 07-11-2007
+    user: http://mi.guiaoleo.com/members/35321
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad insisti bastante con el lugar, pero me cans\xF3. Tardan mucho en atender, a veces ni prestan atencion a lo que se pide. El ambiente es muy ruidoso y ultimamente al menos lo pintaron, pero ya ni es pintoresco. El precio es caro para una pizza. En la carta siempre dice que tienen cerveza 3/4 pero nunca hay y el precio del chopp es carisimo. No es lo que era hace unos cuantos a\xF1os"
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/4105
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La pizza no es buena y los precios son excesivos. El  lugar es un bodeg\xF3n y sus precios son los de un restaurante de alta cocina. Si de todos modos se insiste es preferible probar la barra o pedir el delivery, la atenci\xF3n en el lugar es p\xE9sima, pareciera ser que lo atienden como un favor especial. "
+    date: 14-10-2007
+    user: http://mi.guiaoleo.com/members/6647
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: Clasico, con excelentes pizzas y muy buenas empanadas. No visiten el bano y no vana tener problemas. No se pueden perder de la fugazzeta.
+    date: 16-09-2007
+    user: http://mi.guiaoleo.com/members/2276
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Angelin sigue haciendo buena pizza porte\xF1a, especialmente la canchera, pero los precios que est\xE0n cobrando son disparatados, especialmente si se tiene en cuenta que jam\xE0s mejoraron ni el lugar ni la atenci\xF2n, algo que pienso que deber\xECan hacer p\xE0ra perdurar. Sin duda las mejores opciones son el delivery (para los que vivimos por la zona) o la vieja y querida costumbre de comer \"de dorapa\" al corte."
+    date: 12-09-2007
+    user: http://mi.guiaoleo.com/members/16130
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Las empanadas fritas de lo mejor. La pizza tiene un sabor caracter\xEDstico e inconfundible con el dorado \xFAnico del horno a le\xF1a. Es cierto que la atenci\xF3n hay que tomarsela con humor, entiendo a quien dice que no por ser un cl\xE1sico se debe ser maleducado.... bueno, va en gustos, yo lo encuentro hasta divertido, es parte del ambiente. "
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/12257
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      La pizza no es nada buena pero si muy cara. Cosas que en general no me importarian como la iluminacion (tubos de luz blanca que titilan), estar encerrado en 4 paredes despintadas y sin una sola ventana, pasan a ser importantes. 
+      Encima la cerveza es carisima.
+    date: 03-07-2007
+    user: http://mi.guiaoleo.com/members/16837
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar tradicional por excelencia.\r\n\
+      Las empanadas son superlativas\r\n\
+      La pizza de cancha no tiene contra\r\n\
+      La fugazza con un toque de verdeo es sensacional\r\n\
+      Uno de los mostradores para comer de parado mejor surtido y atendido de Buenos Aires "
+    date: 07-06-2007
+    user: http://mi.guiaoleo.com/members/18568
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Hace d\xE9cadas que voy a \"lo del gordo\", hoy ya no est\xE1 en el mostrador. Es una pizza distinta y con mucha personalidad. Claro el lugar y la atenci\xF3n un verdadero desastre, no por cl\xE1sico se debe ser sucio y maleducado. La otra es el precio, no tiene sentido. De todas formas de vez en cuando me pego un delivery. Son los unicos (creo) que hacen la de 16 porciones. Pero ha variado la calidad de la salsa en la de cancha, que fue la que lo hizo famoso. "
+    date: 12-05-2007
+    user: http://mi.guiaoleo.com/members/25936
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El due\xF1o es un maleducado."
+    date: 17-03-2007
+    user: http://mi.guiaoleo.com/members/20133
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza es buena, sin gran vuelo. El ambiente es horrible y ruidoso. La atenci\xF3n esta m\xE1s cerca del ambiente que de la pizza. Para comer de parado en el sal\xF3n de adelante est\xE1 bien. No mucho m\xE1s."
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Tiene una fama exagerada.
+    date: 13-02-2007
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "No me importa lo que digan de Angel\xEDn. Soy de La Plata y con mi esposa, cada vez que la venimos a la Capital, pasamos por \xE9ste lugar. Es cierto, la atenci\xF3n y el lugar no son gran cosa, pero el sabor de la pizza es inconfundible e inigualable. Lo dem\xE1s es relleno. Venite a comer con nosotros, Ernesto Manzi.  "
+    date: 02-02-2007
+    user: http://mi.guiaoleo.com/members/17441
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La peor pizza de Buenos Aires y la m\xE1s cara. Por favor, no pisen este lugar.\r\n\
+      Estuve a punto de denunciarlos a Defensa del Consumidor, lo digo en serio. "
+    date: 05-01-2007
+    user: http://mi.guiaoleo.com/members/15798
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lo que antes pod\xEDa pasar por pintoresco, se ha vuelto decadente. Han hecho un cl\xE1sico de la mugre y la mala atenci\xF3n. Para peor, la pizza, que era lo m\xE1s rescatable, es cada vez peor y m\xE1s cara. No me ver\xE1n por un buen tiempo. "
+    date: 14-12-2006
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Angel\xEDn es para m\xED: sin\xF3nimo de pizza al paso. Se come bien, las pizzas son ricas y las empanadas son muy aceitosas, pero muy sabrosas. Debo destacar la fant\xE1stica pizza primer aniversario y, sin lugar a dudas, la fugazzetta. Imprescindible comer parado porque el sal\xE7on del fondo es de terror. Recomiendo ampliamente probar de postre una de las mejores tortas de ricota de la ciudad. Si se anda por Avenida C\xF3rdoba en horarios vespertinos no se olviden de pasar."
+    date: 11-11-2006
+    user: http://mi.guiaoleo.com/members/6990
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: Muy buena pizza pero el lugar es decadente.
+    date: 05-10-2006
+    user: http://mi.guiaoleo.com/members/12737
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Por m\xE1s que el lugar sea decadente y la atenci\xF3n p\xE9sima, la pizza sigue siendo una de las m\xE1s ricas de Buenos Aires. \r\n\
+      Y ese sabor inconfundible de Angel\xEDn vale el hecho de cenar en un lugar \xE1spero en calidez y sucio; con una atenci\xF3n a veces pat\xE9tica.\r\n\
+      \r\n\
+      lo mejor es pedir delivery :D"
+    date: 08-09-2006
+    user: http://mi.guiaoleo.com/members/10596
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la pizza. \r\n\
+      Justamente, esas diferencias con otras pizzer\xEDas, esas cosas que por ah\xED nos resultan chocantes, son las que le imprimen personalidad y m\xEDstica al lugar. \r\n\
+      La comida est\xE1 bien, el precio es aceptable. \r\n\
+      Y lo mejor, que es aut\xE9ntico."
+    date: 22-06-2006
+    user: http://mi.guiaoleo.com/members/9512
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una de las pizzas tradicionales de Baires. Antes me gustaba mas. Hay que ir para conocer ese tipo de pizza. Voy desde chico, volver\xE9. Es la pizza que recomendaban mis ancestros."
+    date: 17-06-2006
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Hazte fama y echate a dormir. \r\n\
+      Parece que esta frase fue concebida por un comensal que concurri\xF3 a este establecimiento. \r\n\
+      La pizza bastante regular, nada del otro mundo y el lugar y la atencion no existen. Pagu\xE9 mucho y no sal\xED para nada satisfecho."
+    date: 20-05-2006
+    user: http://mi.guiaoleo.com/members/6323
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La pizza es buena pero nada del otro mundo. Vale la pena ir para conocer, pero el ambiente deja mucho que desear. Mucho calor, poca higiene y servicio bastante flojo.
+    date: 02-02-2006
+    user: http://mi.guiaoleo.com/members/4175
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Todo est\xE1 sobredimensionado. La pizza es agradable, aceptable y nada m\xE1s, cumple pero no sobresale.\r\n\
+      El ambiente es r\xFAstico, \xE1spero; no tiene personalidad.\r\n\
+      El servicio es casi inexistente."
+    date: 01-02-2006
+    user: http://mi.guiaoleo.com/members/5806
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La verdad que la fugazzeta sigue siendo una delicia, llena de aceite, pero con mucho queso y cebolla.\r\n\
+      El resto, la pizza de siempre de un lugar visitado por grandes como el mism\xEDsimo \"La Voz\" el gran Frank Sinatra."
+    date: 30-11-2005
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: La mejor pizza de Buenos Aires.
+    date: 19-09-2005
+    user: http://mi.guiaoleo.com/members/4031
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Recomiendo sobre todo comer en la parte de adelante, parado en la barra. El servicio en el sal\xF3n es lento... una l\xE1stima porque la comida es excelente. Uno de los \xFAltimos hornos a quebracho para pizza en la ciudad."
+    date: 24-07-2005
+    user: http://mi.guiaoleo.com/members/151
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Me hab\xEDan hecho mucha propaganda de esta pizza, que result\xF3 ser rica, pero como muchas otras en la ciudad; no es nada s\xFAper y es bastante cara. La atenci\xF3n fue p\xE9sima, teniendo que tolerar hasta comentarios maleducados del personal. El lugar bastante poco acogedor y ruidoso. Es el t\xEDpico lugar con mucha fama que no es respaldada por la realidad. Vayan a otra pizzer\xEDa m\xE1s linda, que van a gastar menos y comer una pizza similar."
+    date: 14-05-2005
+    user: http://mi.guiaoleo.com/members/1807
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es insuperable la pizza, respeta el esp\xEDritu atorrante que le dio origen. Es parte de la historia de Buenos Aires. Recomendable."
+    date: 16-04-2005
+    user: http://mi.guiaoleo.com/members/1662
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Riqu\xEDsimas las pizzas!!!!"
+    date: 12-03-2005
+    user: http://mi.guiaoleo.com/members/1187
+    ambiente_rank: muy bueno

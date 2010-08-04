@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "He sido desilucionado por Acapulco. El lomo ten\xEDa un gusto y textura extra\xF1a, como de pasado de fecha.\r\n\
+      El encargado del lugar neg\xF3 el comentario pero la verdad es que no me ofrece ninguna confianza. Luego me sent\xED mal del estomago."
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/77568
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente un ambiente agradable y familiar....buenos precios y la mejor atenci\xF3n!!!!....Fuimos atendidos por Osmar y el \"sanducero\"....Gracias!"
+    date: 31-10-2009
+    user: http://mi.guiaoleo.com/members/71767
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buena opcion para ir despues del teatro, la parrillada estaba buena abundante y buenos sabores Buena relacion precio calidad. Tipica parrilla del centro turistico calle lavalle. Mejoraria la atencion del mozo le faltaba informacion. Nada especial pero aceptable
+    date: 29-10-2008
+    user: http://mi.guiaoleo.com/members/37366
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Habiendo recorrido varios lugares del centro durante estos a\xF1os, debo destacar la calidad de la mercader\xEDa y la atenci\xF3n. Son muy pocos los lugares que pueden mantener la calidad de los platos en el tiempo, y este es uno de esos lugares, por eso lo elijo para disfrutar de mi almuerzo los dias de trabajo. Cabe desatacar que son pocos los lugares donde \"los due\xF1os\" est\xE1n comprometidos e involucrados con el servicio, lo que garantiza la calidad del mismo."
+    date: 02-07-2008
+    user: http://mi.guiaoleo.com/members/47042
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Si bien la comida era sabrosa, las porciones eran m\xECnimas. Pedimos 2 mini bife de chorizo y si que eran minis (encima medio duros). La suprema maryland que pedimos era la mitad en tama\xF1o a otros restaurants. Los vinos estan acorde a todos lados. No pedi postre porque era exagerado su valor. El caf\xE8 era rico. La verdad no volver\xECa a ir"
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/36446
+    ambiente_rank: malo/regular

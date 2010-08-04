@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Me encanto poder visitar este restaurant. Todos fueron muy amables conmigo, el servicio fue espectacular. Siempre con muy buena onda y muy respetuosamente. La comida estuvo muy rica y los postres me encantaron. El ambiente es relajante.
+    date: 13-06-2010
+    user: http://mi.guiaoleo.com/members/83619
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente servicio. Ambiente familiar. El mejor caf\xE9 de Buenos Aires y buen\xEDsimas tortas. Muy buena relaci\xF3n costo-servicio.\r\n\
+      \xA1\xA1\xA1Imperdibles las tartas de manzana y ricota!!!"
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/83444
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "B\xE1rbaro. Me encant\xF3 el caf\xE9 con torta, sugerencia de la casa. Para un d\xEDa agradable excelente el patio exterior."
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/83602
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me encant\xF3 el lugar. Ideal para un descanso mientras uno compra en los outlets de la zona. Excelente atenci\xF3n. Patricia y Carlos te hacen sentir como en casa."
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/83601
+    ambiente_rank: excelente

@@ -1,0 +1,29 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar distinto en Villa Urquiza, qu recrea los bares de anta\xF1o; y con la posibilidad en algunos viernes del a\xF1o de acceder a un buen show l\xEDrico y/o de tango. Recomendable."
+    date: 11-12-2009
+    user: http://mi.guiaoleo.com/members/74624
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Un lugar de comida casera,a buenos precios.
+      Mozo atento,ambiente tranquilo.No muy grande el lugar,pero al menos hay buen espacio entre mesas.
+    date: 21-07-2008
+    user: http://mi.guiaoleo.com/members/25646
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Para comer como en casa y disfrutar de un excelente show los viernes a la noche.
+    date: 18-09-2007
+    user: http://mi.guiaoleo.com/members/12629
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      La comida es muy buena, sencilla, podriamos decir casera. 
+      No hay gran variedad y los dias de show demora bastante. Pero el show es bueno, a veces espectacular, sobre todo cuando actua un tenor romantico que canta un poco de todo desde boleros hasta opera. Absolutamente recomendable.
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/32285
+    ambiente_rank: bueno

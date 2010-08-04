@@ -1,0 +1,37 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Bueno para ir si queda cerca por algun motivo. La comida no es mala pero no vale tanto la pena
+    date: 05-04-2009
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Voy cada tanto, me queda muy cerca. El lugar no es malo. He visto cr\xECticas muy negativas del servicio, y yo sin embargo nunca tuve problemas en la atenci\xF3n. La pizza es buena. El resto de los platos son bastante caros en relaci\xF3n a lo que ofrecen. El ambiente es agradable, pero un poco ruidoso. No da para cena \xEDntima, pero para una pizza de tanto en tanto est\xE1 bien."
+    date: 07-03-2009
+    user: http://mi.guiaoleo.com/members/10321
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Buena comida y punto. Cuando abri\xF3 ten\xEDa mucho mejor servicio y eso se notaba en la cantidad de p\xFAblico que ten\xEDan que ahora mengu\xF3. Para destacar el sector para chicos."
+    date: 12-10-2008
+    user: http://mi.guiaoleo.com/members/14579
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Los almuerzos a la pasada son aceptables.\r\n\
+      Desayunar un caf\xE9 con leche y medialunas no es un placer pero est\xE1 bi\xE9n.\r\n\
+      Cenar en este lugar es, por decir algo, evitable.\r\n\
+      La atenci\xF3n es mala. Pero se nota que falta conducci\xF3n en los responsables del sal\xF3n.\r\n\
+      La comida es toda igual, es como comer en un avi\xF3n, todo tiene m\xE1s o menos el mismo gusto.\r\n\
+      Por mi cercan\xEDa laboral es un lugar que suelo usar, pero la verdad no recomiendo m\xE1s que un caf\xE9 o al mediod\xEDa un plato del d\xEDa para seguir tu camino. \r\n\
+      No es un lugar para salir a comer."
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/34511
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es amplio y luminoso, pero la atenci\xF3n es muy mala. El mozo parece que pone de su bolsillo la plata para comprar las masitas que acompa\xF1an el caf\xE9, ya que las mezquina. Adem\xE1s es muy caro y la decoraci\xF3n de los platos muy grasa. Lo que es destacable es el espacio para los chicos. "
+    date: 20-11-2007
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: bueno

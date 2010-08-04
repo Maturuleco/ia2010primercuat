@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un tenedor libre, econ\xF3mico y aunque no existe demasiada variedad de platos, en relaci\xF3n calidad/precio est\xE1 muy bien. Si estas apretado a fin de mes y queres salir a cenar, esta es una buena opci\xF3n."
+    date: 05-03-2008
+    user: http://mi.guiaoleo.com/members/42155
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Fuimos varias veces con amigos a cenar, es un lindo lugar, comes bien de todo un poco y a buen precio, lo que si es conveniente hacer reserva ya que si no la espera se hace tediosa.Recomendable
+    date: 27-08-2007
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Todo en orden. \r\n\
+      No es para destacar, pero es una buena opci\xF3n para una cena arreglada en el momento."
+    date: 22-03-2007
+    user: http://mi.guiaoleo.com/members/12902
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Hay bastante variedad pero toda la comida estaba fr\xEDa."
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19006
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo peor que he conocido y comido en a\xF1os. P\xE9sima atenci\xF3n, poco falt\xF3 para nos tirar\xE1n por la cabeza el pan y los vasos.\r\n\
+      El asado desabrido, lleno de grasa y hueso. Me toc\xF3 una empanada medio rancia, al igual que unos postres. Las guarniciones se ve\xEDan muy feas. Punto y aparte lo asqueroso de los ba\xF1os, hediondos, inundados y con el piso lleno de papel higi\xE9nico. nunca m\xE1s. "
+    date: 20-10-2006
+    user: http://mi.guiaoleo.com/members/12995
+    ambiente_rank: bueno

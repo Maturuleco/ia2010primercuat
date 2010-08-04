@@ -1,0 +1,128 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La mejor cerveza negra tirada.
+    date: 02-09-2009
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      EL lugar siempre me gusto para un after office, La cerveza que tienen asi como la musica que pasan es excelente.
+      Sin embargo la tabla para 9 no alcanzo y las papas paprika estaban demasiado picantes. Lo recomiendo solo como Pub y para seguir disfrutando de la onda irlandesa.
+    date: 15-05-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar siempre me gust\xF3 y la Cerveza, como en todo pub Irlandes es EXCELENTE. Lamentablemente se llena mucho y cuesta sentarse, y adem\xE1s el servicio es demasiado lento."
+    date: 23-04-2009
+    user: http://mi.guiaoleo.com/members/60982
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Posee una escueta cartas de alimentos.Si diferente las papas picantes con P\xE1prika.\r\n\
+      Las cervezas tiradas estaban tibias.Aceptable s\xF3lo para pasar despues de la oficina."
+    date: 06-03-2009
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un pub tradicional del bajo. Para ir a tomar con amigos y pasar un rato agradable, La onda es Pub irland\xE9s."
+    date: 11-10-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: El lugar es muy bueno para el After Office, mucho extranjero, variedad de cervezas, igualmente no es muy amplia la oferta gastronomica como la etilica. Buen lugar para ir con amigos a tomar algo, pero comiendo poco.
+    date: 17-09-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy buena opci\xF3n para disfrutar de un par de birras entre amigos despu\xE9s de la intensa jornada laboral. Los contras? Se llena muy r\xE1pido y es dif\xEDcil conseguir lugar."
+    date: 21-08-2008
+    user: http://mi.guiaoleo.com/members/33364
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente es muy bueno, la m\xFAsica y la decoraci\xF3n son lo mejor del lugar. Lo peor, en mi opini\xF3n, es la rapidez con que se llena, l oque hace muy dif\xEDcil conseguir mesa. Me encanta el daikiri de frutilla de ah\xED. tambi\xE9n tienen gran variedad de cervezas. Ideal para ir con amigos."
+    date: 05-03-2008
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "B\xE1rbaro para ir a tomar una cerveza pero no para tomar un trago cl\xE1sico como puede ser un martini. Un barman por ah\xED!!! Para almorzar mejor ir a otro lugar, de comida irlandesa ni el olor, bien criollo el men\xFA pero europeamente frugal."
+    date: 04-03-2008
+    user: http://mi.guiaoleo.com/members/11229
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Excelente lugar y ambiente. Eso si, ser\xEDa conveniente, muy conveniente, que los barmans tomen cursos de barman. Pat\xE9tico el daiquiri de frutilla que ped\xED.\xBFDesde cu\xE1ndo se hace con licor de frutilla y una medida tradicional de cokteler\xEDa de ron? El daiquiri de frutilla lleva una medida y 1/2 de ron y nada de licor de frutilla. El trago cost\xF3 $11.- y cuando ped\xED que lo rectificaran me cobraron $9.- m\xE1s, una verg\xFCenza. Muy buen ambiente, pero mala cokteler\xEDa. Recomiendo quedarse con las cervezas. Dificilmente puedan hacer algo mal ah\xED."
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/39086
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: De los pubs de BA, el mejor ambientado tipo irlandes. La comida es muy cara para lo que es, pero para tomar unas cervezas con una picada esta bien
+    date: 20-09-2007
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Kilkenny... la verdad que me encanta, pero siempre seguire sosteniendo que en este lugar deberian contratar algunos empleados mas para la barra en los fines de semana. La atencion es exelente, salvo que hay que ser paciente cuando el lugar esta lleno, buena musica, buena gente, buenas cervezas, ideal para ir con amigos.
+    date: 10-04-2007
+    user: http://mi.guiaoleo.com/members/35924
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui 1 sola vez con amigos a tomar tragos y la verdad estaban muy buenos, de lo mejor que he probado. No se si tuve suerte con el barman o si son todos asi, pero me sorprendio lo rico que estaban. El ambiente: no se piensen que es un restaurant, es un pub y punto. Supongo que el ambiente general a veces sera bueno y a veces se llenara de gatos, como casi todos los lugares de ese estilo."
+    date: 06-04-2007
+    user: http://mi.guiaoleo.com/members/15446
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cocteler\xEDa de nivel superlativo, ambiente excelente. \r\n\
+      El servicio se ve opacado los d\xEDas de mayor concurrencia. Muy bueno."
+    date: 25-02-2007
+    user: http://mi.guiaoleo.com/members/18970
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena onda, lugar para ir a tomar algo con amigos, escuchar buena m\xFAsica y conocer gente nueva. \r\n\
+      Recomendable los mi\xE9rcoles y viernes."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/12052
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El m\xE1s reconocido after office de los jueves en Buenos Aires. El ambiente es excelente. "
+    date: 20-07-2006
+    user: http://mi.guiaoleo.com/members/14199
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente lugar de paso para los viernes, a mi juicio el d\xEDa adecuado. Buenos tragos, gente copada y es interesante como para empezar la noche e ir a otro lado post tres o cuatro de la ma\xF1ana."
+    date: 07-07-2006
+    user: http://mi.guiaoleo.com/members/7715
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Iba a este lugar hace tres a\xF1os, volv\xED hace poco y me pareci\xF3 espantoso, lleno de gatos, turistas levantando gatos y viejos verdes. Un desastre."
+    date: 15-02-2006
+    user: http://mi.guiaoleo.com/members/6616
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me agrad\xF3 mucho el lugar, la atenci\xF3n y la gente."
+    date: 17-12-2005
+    user: http://mi.guiaoleo.com/members/5376
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 el ambiente. Es\r\n\
+      ideal para ir con amigos\r\n\
+      y realizar reuniones. Muy agradable, realmente."
+    date: 12-08-2005
+    user: http://mi.guiaoleo.com/members/3317
+    ambiente_rank: excelente

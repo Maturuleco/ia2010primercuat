@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Gran jamon crudo, comentario inevitable, por el resto todo bien
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/48778
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Tienen que ir a comer un bife de chorizo a este lugar. Por suerte sigue intacto de la invasion de turistas por mas que est\xE9 en pleno Palermo. Los bifes vinieron bien jugosos. Y como en un lugar como estos uno nunca pide una \"ensalada de verdes\" los pedimos con papas fritas a caballo!!! Buena la fritura, ninguno se quejo mas tarde. La atencion excelente. Simpatiquisimos ambos mozos."
+    date: 04-07-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Disfrut\xE9 de un almuerzo como los de antes en un lugar que se mantiene como un baluarte de los buenos tiempos porte\xF1os de charla con amigos alrededor de una buena mesa con comida casera riqu\xEDsima por precios m\xF3dicos, todas cosas que ya no se encuentran en el medio de la locura fashion de nuestra ciudad postmoderna... Altamente recomendable, aunque el ambiente sea un poco decadente"
+    date: 13-06-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelente lugar, genuino y autentico. Comida simple y abundante a precios muy moderados. Lo mejor del barrio para almorzar
+    date: 07-04-2009
+    user: http://mi.guiaoleo.com/members/60013
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: alucinante la comida, es mi bodegon preferido de palermo. 100% Recomendable
+    date: 07-12-2008
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Aparte de la excelente comida, no perderse uno de
+      los mozos mas simpaticos de la ciudad, lastima que sea hincha de River!
+    date: 06-07-2008
+    user: http://mi.guiaoleo.com/members/33031
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Vale la pena conocerlo aunque sea por uno de crudo y queso en franc\xE9s con una cervecita (con los \"torgelones\" colgados ahi a la vista). No pidan otra cosa que buena comida y abundante preparada por los que m\xE1s saben de gastronomia en este pa\xEDs, los gallegos, totalmente alejada de la movida fashion circundante."
+    date: 05-12-2007
+    user: http://mi.guiaoleo.com/members/14320
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: a los que quieran comer bien y abundante como cocina la abuela este es el lugar, no busquen ni elegancia glamour ni ese tipo de pavadas que ofrece palermo es comida de verdad sin nombres raros ni tantas vueltas
+    date: 03-08-2007
+    user: http://mi.guiaoleo.com/members/26182
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen jam\xF3n crudo y abundante. Un lugar que esquiv\xF3 toda la movida fashion de la zona. Hay que ir."
+    date: 19-06-2006
+    user: http://mi.guiaoleo.com/members/3239
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me alarm\xF3 la escasez y el maltrato de los mozos, uno de los cuales, pr\xE1cticamente se me ri\xF3 en la cara. \r\n\
+      Salvo la conducta del due\xF1o, Don Emilio\r\n\
+      un verdadero se\xF1or y del se\xF1or Pocho."
+    date: 11-05-2006
+    user: http://mi.guiaoleo.com/members/8397
+    ambiente_rank: malo/regular

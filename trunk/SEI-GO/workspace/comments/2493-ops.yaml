@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente opci\xF3n en cuanto a precio-calidad-cantidad-higiene. Esto \xFAltimo es una de las cosas m\xE1s destacables siendo un lugar tan concurrido en microcentro. Servicio: r\xE1pido e hiper buena onda. Contra: a veces en horario pico equivocan los pedidos, pero son muy correctos y tienen la mejor predisposici\xF3n para enmendar este tipo de errores. Comida: las tartas, sandwiches y minutas son de excelente calidad... y ricas. Las facturas y el pan supieron ser mejores, pero siguen siendo lo mejor de la zona, lejos. Ambientaci\xF3n: onda comedor de patio de comidas, pero con la tele y el diario, zafan"
+    date: 16-04-2010
+    user: http://mi.guiaoleo.com/members/75519
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar para comer r\xE1pido algo en el microcentro. Las facturas que elaboran son muy suaves y ricas. Un poco caro en general para el autoservicio que brindan."
+    date: 31-07-2006
+    user: http://mi.guiaoleo.com/members/345
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Autoservicio. Platos abundantes. Poca variedad. Muy ruidoso.
+    date: 08-03-2006
+    user: http://mi.guiaoleo.com/members/2340
+    ambiente_rank: bueno

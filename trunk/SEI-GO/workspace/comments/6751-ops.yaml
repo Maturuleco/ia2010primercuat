@@ -1,0 +1,39 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "LLegamos 8:30 (un jueves) y no hab\xEDa nadie, nos fuimos 10:15 y tampoco hab\xEDa nadie.\r\n\
+      La pizza era muy rica se notaba que el toque casero. La atenci\xF3n fue buena, le\xEDmos comentarios que la comida demoraba pero no fue as\xED. pero el lugar es medio raro, no es r\xFAstico sino desprolijo, desordenado, parece un poco sucio.\r\n\
+      El precio no estaba mal pero nos llam\xF3 la atenci\xF3n que mientras estuvimos no entr\xF3 nadie y hubo un solo llamado para pedir a domicilio."
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/55002
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar muy bien dise\xF1ado .. algo peculiar en el barrio. La onda exelente y los calzones de vegetales salteados con muzzarella eran exquisitos. La pizza bien a la piedra algo no tan facil de encontrar, Los postres eran pocos pero el que nos ofrecieron una torta helada de mousse blanco y negro con frutos rojos.. era muy buena."
+    date: 12-11-2009
+    user: http://mi.guiaoleo.com/members/72067
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos varias veces y siempre nos atendieron muy bien.La comida es real casera(los vi amasar pasta y panes)por esto tuvimos que esperar 10 minutos mas pero.....valio
+    date: 09-11-2009
+    user: http://mi.guiaoleo.com/members/71981
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9simo.\r\n\
+      Fui 2 veces, y en ambas oportunidades aguard\xE9 una hora por la comida y no hab\xEDan ni pasta, ni canelones, ni lasagna (es la especialidad).\r\n\
+      \r\n\
+      Fui por pasta y no ten\xEDan. Solo les quedaban \"calzones\". Estaba crudo, y el queso fr\xEDo. Muy malo.\r\n \r\n\
+      Trajeron el pan a la mesa a los 40 minutos, que no estaba fresco.\r\n\
+      \r\n\
+      No lo recomiendo en absoluto."
+    date: 07-11-2009
+    user: http://mi.guiaoleo.com/members/64806
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: LA comida realmente es muy casera exquisita. El servicio tiene su espera, pero la realidad es que es todo del momento. Muy simpatica la moza.
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/71910
+    ambiente_rank: excelente

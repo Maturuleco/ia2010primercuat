@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Fue una noche perdida , estabamos entusiasmados para comer sandwich de Pavita , elegimos uno con anana , y otro con palmitos , y no tenian lo que prometia en la carta , era puro tomate y lechuga no es para recomendar . y la pavita es al escabeche y no el blanco
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/80670
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es un tipico lugar de la barrio de Boedo. El lugar sencillo pero calido, querido en la zona y con mucha historia. La pasamos muy bien. Es para volver.
+    date: 07-08-2009
+    user: http://mi.guiaoleo.com/members/65533
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "me hubiese encantado conocerlo, pero a fuera que estaba lindo, el mozo pasaba por al lado de mi esposa mis dos hijos y yo, como si fueramos fantasmas.\r\n\
+      optamos por entrar al salon que estaba vac\xEDo, y el de la caja ladr\xF3, ya los atienden.\r\n\
+      nos tubimos que ir, lamentable..."
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/21473
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es verdad que los sandwiches de pavita ya no son lo que eran,pero es una delicia ir al Trianon,ahora remodelado, y sentarse en ese lugar tan pintoresco.El cafe con masitas una delicia, y ni qu\xE9 hablar de los \"crustulli\",una confitura originaria de Calabria que me recuerda tanto los sabores de la infancia!!"
+    date: 07-01-2008
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Confiter\xEDa muy famosa por ser la creadora del sandwich de pavita. Es m\xE1s la fama que el producto en s\xED. No es malo, pero tampoco gran cosa. "
+    date: 06-12-2007
+    user: http://mi.guiaoleo.com/members/33737
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Se come muy bien. Tanto la pizza y las minutas son buenas. La mayoria de los platos que comi son recomendables. Su fuerte es la pizza.
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/22617
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Las variedades y los sandwiches de Pavita son imperdibles.
+    date: 26-01-2007
+    user: http://mi.guiaoleo.com/members/17002
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fui el s\xE1bado a tomar un caf\xE9 y ped\xED para llevar docena de sus afamados sandwiches de pavita. Me sent\xED estafado. Porque hasta dud\xE9 de que le hubieran puesto la pavita, transparente y pegada al pan con unas gotas de mayonesa. No s\xE9 si alguna vez fueron \"especiales\" pero lo que llev\xE9 era impresentable."
+    date: 02-12-2006
+    user: http://mi.guiaoleo.com/members/3437
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un cl\xE1sico de Boedo. Las pizzas volvieron a su nivel (ya que habian deca\xEDdo un poco). Imperdible no tomarse algo en la vereda. El caf\xE9 lo encontr\xE9 muy rico. De hecho, voy siempre a tomarlo all\xED. Recomendable...aunque los mozos tardan mucho (porque son pocos)"
+    date: 04-11-2006
+    user: http://mi.guiaoleo.com/members/1662
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Los sandwiches americanos y los de pavita se llevan todos los aplausos. Excelentes.\r\n\
+      Muchas veces pido delivery y son precisos en los tiempos y en lo que entregan, no como otros que ped\xEDs algo y te traen otra cosa."
+    date: 08-10-2006
+    user: http://mi.guiaoleo.com/members/16275
+    ambiente_rank: muy bueno

@@ -1,0 +1,233 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Platos abundantes, carta simple pero con varias opciones. El servicio atento y los precios razonables.
+    date: 10-01-2010
+    user: http://mi.guiaoleo.com/members/7696
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La cerveza tirada estaba a temperatura ambiente... las rabas fr\xEDas... la salsa con wasabi arruin\xF3 todo. El servicio, desganado... La esquina es lindisima, el restor\xE1n.... con muchas dudas"
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/20313
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Platos bien abundantes, pero sin mucho vuelo. La carta presenta varias opciones pero todas giran en torno a los mismos ingredientes: lomo, pollo, papas. Falta cerdo o pescado, y otras guarniciones m\xE1s renovadas. Se come rico pero deber\xEDa ser m\xE1s variado. Postres bien, ojo con el volc\xE1n de chocolate! rico, pero las dos veces que fui me lo dieron cortado y el chocolate era de bajo nivel."
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/66385
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Bad bad bad.  Have been several times in the past; this time was horrible; will not return.  Went on a Sunday afternoon, tables on the sidewalk were full but inside was virtually empty.  Many waitstaff were on duty, but it seemed as though there was no manager.  It took almost an hour for an order of drinks, nothing else, to reach our table.  We stayed only because we were seated outside and enjoyed the weather while we waited.  Went inside to use the restroom, the whole of the interior of the restaurant (not the restroom) smells like urine.
+    date: 12-04-2009
+    user: http://mi.guiaoleo.com/members/37094
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar en un zana estrategica del Soho.Los jovenes camareros, atentos, hacen los que pueden...la comida sin grandes sorpresas. S\xED algo me shockeo:el lamentable estado de los sanitarios!!!!!! nunca visto!"
+    date: 09-04-2009
+    user: http://mi.guiaoleo.com/members/60987
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fui a picar algo antes de la cena, no tiene demasiadas opciones de tapas, lo que la mayoria de la gente elegia q fue tambien mi opcion fueron las papas rusticas ( un bol mas q abundante) acompa\xF1ado por aderezos, esto con una buena cerveza es una excelente opcion para una tarde de charla o un after, pero a mi gusto deberria agrandar las opciones de tapeo que hoy por hoy es lo q mas consume la gente, el servicio es atento y el lugar muy lindo, volvere."
+    date: 28-02-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "bien sin pretensiones, la table peque\xF1a pero bien armada con producos de buena calidad, si nosabes adon de ir para comer algo sencillo y barato es el lugar indicado, vi la carta de cena y creo que es caro para no aceptar tarjetas, ho no pod\xE9s salir con + de 200 cash para pagar la cena!"
+    date: 14-12-2008
+    user: http://mi.guiaoleo.com/members/1863
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "comi bien, pedi algo simple y me gust\xF3, la atencion es buena y es una esquina amena como para comer afuera en un dia lindo frente a la plaza."
+    date: 13-12-2008
+    user: http://mi.guiaoleo.com/members/23324
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui con mi familia y comimos bien. Las rabas fritas son muy buenas y la porci\xF3n es abundante.\r\n\
+      El sandwich de atun tambi\xE9n fue sabroso y bastante grande. \r\n\
+      La atenci\xF3n estuvo normal, un poco lenta y la relacion precio/calidad me pareci\xF3 buena."
+    date: 08-12-2008
+    user: http://mi.guiaoleo.com/members/5877
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar est\xE1 bien ubicado y casi siempre est\xE1 lleno (los fines de semana especialmente). La comida es normal y el servicio desparejo."
+    date: 26-10-2008
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es rica, pero nada del otro mundo, con respecto al lugar podria estar mejor cuidado, la iluminacion es mala, no es bueno comer en penumbras, y lo que si es muy malo es q no reciban tarjetas en estas \xE9pocas."
+    date: 02-09-2008
+    user: http://mi.guiaoleo.com/members/40084
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Mala atencion, da la sensacion de medio sucio. Los sandwiches que pedimos eran realmente sosos.  A parte pedimos una cosa y nos trajeron otra y para cambiarlo tardaron un monton.
+      No vale la pena.
+    date: 30-07-2008
+    user: http://mi.guiaoleo.com/members/48268
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "hace a\xF1os que no voy a un lugar con tan mala atencion como ac\xE1!!!!!!!!!!!\r\n\
+      linda la ubicacion y en cierto modo la ambientaci\xF3n, lo cual deja de ser un m\xE9rito a la hora de atender mal a los clientes, porque lindas ubicaciones hay muchas... basicamente: habia 7 mozos para idem vantidad de mesas ocupadas, pero los muchachos se dedicaban a tener charlas en la barra y reirse en lugar de estar atentos a los clientes...\r\n\
+      no vayan!!! en bs as hay mil lugares mejores, y muy bien ubicados!!!"
+    date: 24-02-2008
+    user: http://mi.guiaoleo.com/members/10380
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un lugar para pasar la tarde y tomar un cafe, no para almozar ni cenar. La atenci\xF3n deja mucho que desear."
+    date: 08-01-2008
+    user: http://mi.guiaoleo.com/members/38053
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Nunca me sent\xED tan inc\xF3modo. Para empezar ordenamos dos sandwiches de pollos con palta creo (por suerte se me est\xE1 borrando de la mente) y los panes se me desintegraban en las manos, as\xED que m\xE1s que sandwich com\xED un revuelto de pechuga seca con palta y pan. Luego pedimos por favor que nos pusieran una sombrilla (almorzamos en las mesas de la calle). Finalmente tuvimos que ver como un gorri\xF3n defecaba en la mesa.\r\n\
+      Muy mala experiencia por la cual pagamos $80 y s\xF3lo comimos dos sandwiches muy malos."
+    date: 26-12-2007
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: No vayan! haganse el favor!
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena carta de vinos, los platos tiennen muy rico gusto, se nota la buena mano del chef y una buena panera y atencion.
+    date: 20-11-2007
+    user: http://mi.guiaoleo.com/members/27642
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "el lugar no es nada del otro mundo, un poco carito. Para un sandwich es demasiado. Hay otros lugares para visitar... "
+    date: 14-10-2007
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "A no confundirse, le sac\xE1s la ubicaci\xF3n (esquina privilegiada) y segu\xECs de largo. Los precios caros, interesantes sandwiches es cierto, pero la relaci\xF3n precio calidad no da ni ahi. Es para tomarse un cafecito al sol...nada m\xE1s.  "
+    date: 18-08-2007
+    user: http://mi.guiaoleo.com/members/16482
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Desayunamos caf\xE9,  tostadas y medialuna. El precio fue excesivo (muy por arriba de la media de la zona) y la calidad muy mala. A no confundirse, una buena ubicaci\xF3n no es garant\xEDa de nada y este es el caso. Altamente olvidable. "
+    date: 21-07-2007
+    user: http://mi.guiaoleo.com/members/27468
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Los pinchos de carne y pollo bastante duros y sobrecocidos... las verduras que acompa\xF1aban estaban bien... las patatas rusticas estaban recien hechas y bien cocidas, les faltaba algo de picor... o al menos alguna buena salsa donde mojarlas! El servicio normal... bien al estilo de la zona, no te prestan demasiada atencion, tenes que ser actor de cine para que no te ignoren... La decoracion y ambiente estan OK, aunque la musica demasiado fuerte para estar cenando. "
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/26496
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy bien ubicado. S\xFAper concurrido. Tiene tambi\xE9n mesas en la vereda. Ideal como para ir a tomar algo o para pedir, m\xE1ximo, unas tapas. La comida es bastante desabrida y olvidate que te traigan la panera. "
+    date: 13-03-2007
+    user: http://mi.guiaoleo.com/members/2340
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Entre a Bart\xF3k confundi\xE9ndomelo con un bar de la zona. Ped\xED una limonada y estaba tan \xE1cida que casi no se pod\xEDa tomar. Conclusi\xF3n, la termin\xE9 rebajando con sprite. Despu\xE9s ped\xED un daikiri que no ten\xEDa gusto a nada, reclam\xE9 y el mozo me mir\xF3 de mala gana y me trajo el trago todo aguado (metieron el mismo en la licuadora). Vino y me dijo: \"Ahora es pleno sabor\", haciendose el lindo. Segu\xEDa siendo un asco, la \xFAnica diferencia es que ahora ten\xEDa gusto a remedio. El tostado era rico, pero estaba recontra fr\xEDo. Experiencia espantosa, no vuelvo ni gratis.  "
+    date: 15-01-2007
+    user: http://mi.guiaoleo.com/members/17310
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ruidoso adentro, inc\xF3modo el patio; Los mozos, pocos e ineficientes aunque serviciales. La comida pesada y grasosa."
+    date: 30-12-2006
+    user: http://mi.guiaoleo.com/members/15490
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La atenci\xF3n depende del humor de los mozos y he tenido experiencias dis\xEDmiles.\r\n\
+      Los sandwichs son muy buenos. La ambientaci\xF3n est\xE1 bien lograda."
+    date: 24-12-2006
+    user: http://mi.guiaoleo.com/members/7675
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La verdad es que el ambiente es feo, demasiado fashion, quiz\xE1s sea por eso que los mozos te atienden a media m\xE1quina hasta para traerte un t\xE9, no entiendo bien la onda que le quieren poner al lugar.\r\n\
+      Muy de mal gusto un detalle: servir un t\xE9 o caf\xE9 y no poner ni un platito de esos que vienen con los amaretis, o alg\xFAn bocadito del estilo. Horrible ese detalle."
+    date: 04-09-2006
+    user: http://mi.guiaoleo.com/members/11749
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Comi o pior pescado de minhas f\xE9rias nesse restaurante (parecia que eu estava lambendo o lodo do fundo de um rio). \r\n\
+      L\xE1 \xE9 um lugar para se tomar tragos, comer uns tapas e olhar as pessoas passeando por Palermo. O lugar foi ampliado, mas esqueceram de investir no menu. As pessoas que trabalham l\xE1 s\xE3o esfor\xE7adas..."
+    date: 29-08-2006
+    user: http://mi.guiaoleo.com/members/11568
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La verdad que me encant\xF3 el lugar. El ambiente es muy bueno, los appetizer riqu\xEDsimos y el servicio es excelente.\r\n\
+      Perfecto para ir y pasar un buen momento con amigos.\r\n\
+      La verdad es que lo recomiendo."
+    date: 11-08-2006
+    user: http://mi.guiaoleo.com/members/9466
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nos atendieron muy bien, pese a que los mozos parec\xEDan apurados y eso que el lugar no estaba lleno. \r\n\
+      Por momentos sent\xED como que quer\xEDan liberar la mesa pronto. \r\n\
+      Comimos muy bien, s\xF3lo que como sugerencia les dir\xEDa que el brownie se sirve tibio."
+    date: 12-03-2006
+    user: http://mi.guiaoleo.com/members/705
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La comida no es muy buena, siempre esta lleno.
+    date: 01-03-2006
+    user: http://mi.guiaoleo.com/members/42995
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Tuve una experiencia violenta porque me echaron grit\xE1ndome: \"Drogadicta voy a llamar a la polic\xEDa\". Todo esto sucedi\xF3, por pedirle al encargado, que le pidiera a sus clientes que retiraran los autos que obstru\xEDan las rampas para discapacitados."
+    date: 18-02-2006
+    user: http://mi.guiaoleo.com/members/6481
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n fue muy mala.\r\n\
+      Los platos llegan a la mesa frios, los camareros son un poco atolondrados y lentos hasta para traer la cuenta, tiene precios altos para la calidad del servicio."
+    date: 19-11-2005
+    user: http://mi.guiaoleo.com/members/3651
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El servicio como muchos de los rest\xF3s de Buenos Aires, francamente malo.\r\n\
+      Corren mucho y atienden peor. \r\n\
+      Te revolean la carta, te abren un vino por otro. \r\n\
+      Un comentario del barman: No pidan mojito porque tendr\xE1n un pasto aplastado intomable. \r\n\
+      Luego viene el mozo a ofrecerte soda para rebajarlo como si el problema fuera el alcohol. \xA1NO! \r\n\
+      \xA1Ens\xE9\xF1enle a preparar uno como la gente porque el que \xE9l hace es veneno!\r\n\
+      \xA1Los vinos blancos a temperatura por favor! No enfriados dos minutos antes."
+    date: 11-09-2005
+    user: http://mi.guiaoleo.com/members/3749
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Buen lugar para disfrutar del sol mientras almorz\xE1s, l\xE1stima que el servicio sea tan malo que en una oportinidad haya tenido que reclamar dos veces que me alcanzaran servilletas. La comida es relativamente pasable. Con excepci\xF3n de unas lechugas mal lavadas, todo bien."
+    date: 07-09-2005
+    user: http://mi.guiaoleo.com/members/2208
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Poca relaci\xF3n entre lo que cuesta y el sabor del plato. \r\n\
+      Una pena que el servicio sea tan malo. "
+    date: 20-08-2005
+    user: http://mi.guiaoleo.com/members/3436
+    ambiente_rank: excelente

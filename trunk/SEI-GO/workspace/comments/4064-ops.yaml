@@ -1,0 +1,190 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Sin demasiadas pretensiones. Es un restaurante donde se puede comer relativamente bien, pero no sobresale ni el sabor de la comida, ni la atenci\xF3n, ni en ambiente. Precios acordes, buen tiempo de espera, carne tierna, ambiente aceptable y atenci\xF3n correcta. No deslumbra, pero tampoco falla."
+    date: 27-06-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Buenos platos, tanto la carne como el pescado con variedad de salsas. Vuelvo
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/76960
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buenos platos de mariscos. Voy a volver para probar mas cosas.
+    date: 13-06-2010
+    user: http://mi.guiaoleo.com/members/73933
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No sabemos muy bien que pas\xF3 con este lugar: la tabla Vito Dumas, uno de sus caballitos de batalla, otrora delicosa y abuntante, era escasa y estaba mal presentada. La atenci\xF3n de los mozos, incre\xEDblemente buena unos meses atr\xE1s, un verdadero desastre. Tal vez haya sido una mala noche, pero creo que no volveremos."
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/84367
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es rica y el servicio es amable, el lugar es agradable.
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "La tabla Vito Dumas rica y bien presentada. Nada de lujo pero el precio es accesible. Atenci\xF3n buena y r\xE1pida. Lo \xFAnico que no fue gran cosa el panqueque de manzana.\r\n\
+      Voy a volver para probar los otros platos con pescados y mariscos que parecen interesantes."
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/70212
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Posee la extra\xF1a combinaci\xF3n de especializarse en parrilla y pescados & mariscos. Esta vez prob\xE9 dos pescados y estuvieron buenos, y hay apetecibles opciones de salsas. La copa helada de postre es suculenta. Para volver y recorrer m\xE1s la carta!"
+    date: 07-03-2010
+    user: http://mi.guiaoleo.com/members/65580
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Tabla Vito Dumas lo unico rico. Tabla de pescados y verduras grilladas: Abstenerse. Vino: El mas barato es caro. Atencion deficiente.-"
+    date: 26-02-2010
+    user: http://mi.guiaoleo.com/members/77854
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos al mediodia, el lugar lind\xEDsimo, una carta super variada, buenos precios, excelente la comida y muy buena atencion! Lo super recomiendo para familia, amigos o con la pareja cuando uno tiene ganas de comer algo distinto y ser bien atendido. Voy a volver, me quedaron mil platos por probar!"
+    date: 16-02-2010
+    user: http://mi.guiaoleo.com/members/74254
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: lo visite po que andaba con ganas de comer mariscos.pedimos una tabla vito dumas y una paella.todos los platos son abundantes,el lugar es exelente
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/73001
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La verdad la comida muy fresca, muy rico todo. Muy recomendabe y excelente relacion precio/calidad.
+    date: 13-12-2009
+    user: http://mi.guiaoleo.com/members/73609
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Aunque no es una zona gastron\xF3mica hot, es un buen lugar para tener en cuenta. Fui con cuatro amigos, comimos una sugerencia (suerte de miniparrillada, con entra\xF1a, matambre y tira, m\xE1s verduras grilladas), un vac\xEDo y una bondiola. La carne en gral estaba bien. Tambi\xE9n la ensalada. La \xFAnica contra: papas fritas congeladas. As\xED y todo, muy buena relaci\xF3n precio-calidad. Carta de vinos corta y conservadora."
+    date: 10-12-2009
+    user: http://mi.guiaoleo.com/members/7026
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Restaurante de barrio,sencillo,atenci\xF3n acorde,comida buena,es para volver,relaci\xF3n precio/calidad aceptable"
+    date: 06-12-2009
+    user: http://mi.guiaoleo.com/members/69902
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Justo hoy estaba con antojo de mariscos y, buscando aca, encontr\xE9 a Segundo. Las opiniones vertidas por uds son muy ciertas, la comida es muy buena, los precios son normales (pedimos paella para dos y sobro la mitad!!!), lastima la carta de vinos, muy breve, lo mejor que habia era un Norton Roble, pero dentro de todo el lugar es muy recomendable. Para ir con amigos y mucho apetito!!!"
+    date: 27-11-2009
+    user: http://mi.guiaoleo.com/members/53041
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Llegamos 22 hs. y tuvimos que esperar porque el sal\xF3n principal estaba lleno. La atenci\xF3n del mozo fue muy buena y correcta.\r\n\
+      La comida fue abundante. Buena relaci\xF3n precio/calidad.\r\n\
+      En algunos trozos de carne falt\xF3 cocci\xF3n. \r\n\
+      Recomiendo el restaurante. Volveremos m\xE1s adelante. RQeS4j5NXc"
+    date: 07-11-2009
+    user: http://mi.guiaoleo.com/members/64293
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Super rica la paella. Rabas mas que aceptables. Excelente atenci\xF2n."
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/38175
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen restaurante. Mucha variedad en la carta; en la que predominan los pescados y mariscos. No son preparaciones gourmet, pero la calidad y sabor de los platos son muy destacados. Muy especial y dedicada la atencion. Los precios son totalmente competitivos, y las porciones muy abundantes. El ambiente es grato, con objetos y fotos de los a\xF1os 50 y 60 en las paredes. Buena alternativa gastronomica en la zona."
+    date: 05-10-2009
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me pareci\xF3 muy buena la calidad de la comida, especialmente los pescados.Sabrosos. La atenci\xF3n buena. Es un restaurante de barrio muy recomendable. Lo unico tuvimos que esperar 50 minutos para entrar, y no te ofrecen ni una copa. Me gusto relaci\xF3n precio/calidad."
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/51705
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos por los comentarios de la guia, sobre todo a comer pescado y la verdad que fue una magnifica noche. Excelente lugar, muy buena la entrada de la casa con mariscos que no me acuerdo como se llama, un pescado a la plancha muy bueno y una paella expectacular. La atencion es perfecta, nos asesoraron y nos atendieron de primera y despues de todo esto, "los precios", realmente baratos, para la calidad y la atencion. Altamente recomendable, sin lugar a dudas volveremos y seguido.
+    date: 29-08-2009
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me gustaron much\xEDsimo las pastas"
+    date: 23-08-2009
+    user: http://mi.guiaoleo.com/members/68101
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Todo bueno, Servicio , ambiente y comida. El pulpo no es el de Tankat pero es bueno. 
+      Lugar comodo y sencillo con buena relacion calidad precio.
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/2878
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Comimos una parrillada para 2 personas que viene con proveleta y ensalada mixta a un precio razonable de $42, todo estaba muy rico y en su cocci\xF3n justa, la atenci\xF3n de los mozos fue muy buena, muy atentos y tiene mesas para fumadores afuera que son climatizadas. Volver\xEDa sin dudarlo."
+    date: 14-07-2009
+    user: http://mi.guiaoleo.com/members/37174
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena alternativa para el barrio, destacable la buena atenci\xF3n."
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/19883
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF2n, la tabla Vito Dumas riquisima, la cazuela de mariscos tambi\xE8n, es para recomendar. Los mozos muy atentos"
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/63188
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La atenci\xF3n buena, con mozos que te atienden como si fueras habitue. La carta de vinos aceptable para el tipo de establecimiento (familiar), la ambientaci\xF3n un poco ruidosa y con poco espacio"
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/61097
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno el lugar, y la atencion del mozo, la comida salio rapida y de muy buena calidad, el precio realmente es bueno en funcion de la comida. La verdad con nuestros amigos quedamos muy satisfechos, es para volver.
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/60650
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Disiento con los comentarios le\xEDdos en este medio los cuales me incentivaron a visitar el lugar.\r\n\
+      Lo mejor de la noche fue la entrada (tabla Vito Dumas) con rabas algo duras y scampis pasados de cocci\xF3n.\r\n\
+      Como plato principal solicite un pollo a la cazadora y me trajeron pollo al champig\xF1on (?), no me queda claro si fu\xED v\xEDctima de un error del mozo, o de un cocinero con pocas luces. Lo cierto fu\xE9 que mi plato principal adem\xE1s de no ser el solicitado, carec\xEDa de fundamento respecto al sabor.\r\n\
+      La decoraci\xF3n de los platos muy esmerada, pero para decoraci\xF3n me voy a BsAs Design. No volver\xE9 jam\xE1s."
+    date: 06-03-2009
+    user: http://mi.guiaoleo.com/members/59519
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es una sorpresa, por la excelente atenmci\xF3n, una ambientaci\xF3n sin lujos pero grata y por la cocina, que desmiente el gtran cartel de \"parrilla\" en la puerta, pues si bien hay carnes (y pastas), lo principal lo constituyen los platos de pescados y mariscos. Todo lo que probamos es fresco, rico y bien hecho. La relaci\xF3n precio calidad es inmejorable. \xBFDonde si no se puede comer en Beunos Aires un pulpo a la gallega por $36?"
+    date: 13-02-2009
+    user: http://mi.guiaoleo.com/members/5889
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un muy buen restaurant, sin muchas aspiraciones, pero de muy buena relaci\xF3n precio calidad.La atenci\xF3n es buena."
+    date: 08-02-2009
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la tabla de mariscos, frescos y en su punto justo de cocci\xF3n. Salm\xF3n tambi\xE9n bien cocido, fresco, y gambas al ajillo muy sabrosas. Buena atenci\xF3n; el mozo nos supo orientar muy bien acera de los platos. El lugar sin ser especial, es muy agradable, buena separaci\xF3n entre mesas, no se escucha las conversaci\xF3n de los vecinos. Muy recomendable; volveremos."
+    date: 30-01-2009
+    user: http://mi.guiaoleo.com/members/9184
+    ambiente_rank: muy bueno

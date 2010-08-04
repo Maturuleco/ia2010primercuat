@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buen lugar para pedir pizza o empandas. El delivery es rapido y la comida es buena, no es un expectaculo fuera de lo comun, pero es mejor que muchas pizzerias del lugar.
+    date: 04-01-2010
+    user: http://mi.guiaoleo.com/members/74944
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es una tipica pizzeria de barrio, no mucho mas que eso. Los platos son accesibles y con alrededor de 20 pesos podes comer cualquier cosa.
+    date: 20-10-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui dos veces a comer, es un lugar para comer barato y abundante. Pedi 1 milanesa napolitana y revuelto de gramajo y la comprat\xED con mi novio.La comida es buena, el ambiente es de pizzeria de barrio."
+    date: 05-08-2008
+    user: http://mi.guiaoleo.com/members/49476
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Comimos pizza libre con unos amigos. La pizza estaba muy rica, nada del otro mundo, pero rica. Buena atencion, y comimos hasta que no queriamos mas, no como en otros lugares que dejas de comer cuando no te traen mas. Barato!!!
+    date: 23-09-2007
+    user: http://mi.guiaoleo.com/members/24247
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Este lugar es muy familiar, sencillo, la atencion es barbara, rapida cuando pueden...y muy recomendable para aquellos que desean pagar poco y comer mucho. "
+    date: 25-08-2007
+    user: http://mi.guiaoleo.com/members/30541
+    ambiente_rank: excelente

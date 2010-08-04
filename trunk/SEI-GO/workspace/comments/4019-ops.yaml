@@ -1,0 +1,38 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Un lugar para comer sushi alejado de palermo. El sushi es fresco, pero no tienen todas las variedades que aparecen en la carta. La atencion correcta y el ambiente es agradable. Tienen que mejorar la oferta de bebidas, solo una marca de cerveza y ningun vino.
+    date: 27-03-2009
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un restaurant chico pero muy agradable. La atenci\xF3n es excelente, el sushi fresco y de entrada, sirven un cuenco con arroz y salm\xF3n riqu\xEDsimo, por cuenta de la casa. Para recomendar!"
+    date: 06-03-2009
+    user: http://mi.guiaoleo.com/members/49505
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      commimos sushi libre muy fresco, piezas acordes.
+      y muy  buena variedad.
+      el l ugar  es  tranquilo,y bien  atendido.
+      vamos 2 veces por semana lo recomiendo
+    date: 16-02-2009
+    user: http://mi.guiaoleo.com/members/57534
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      El menu de Sushi Libre es muy bueno. Arrancan con una bandeja variada y despues se va pidiendo. No es el mejor sushi que comi, pero si es muy rico.
+      El lugar es chiquito y la atencion es muy buena.
+      Conviene conseguir el descuento de alguna pagina de cupones que estan online, para que el menu del Sushi Libre salga mas barato. Sino, no vale la pena ir porque el menu libre sale 99 mas bebida. (Con descuento 65 + bebida)
+    date: 02-02-2009
+    user: http://mi.guiaoleo.com/members/38778
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "No es el mejor ni el peor lugar, pedimos delivery y lleg\xF3 en menor tiempo. El arroz estaba pasado y apelmazado, el pulpo estaba duro y mal cortado, no ten\xEDa mal sabor en general pero es para sacarse la duda una vez y la pr\xF3xima pedir en otro lado."
+    date: 03-01-2009
+    user: http://mi.guiaoleo.com/members/31222
+    ambiente_rank: bueno

@@ -1,0 +1,192 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida es abundante y el sabor bastante aceptable! el pollo tanto en el chow mien como en el chow fan, no es del todo rico. el resto todo ok, el delivery es rapido!
+    date: 17-05-2010
+    user: http://mi.guiaoleo.com/members/82066
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente lugar. La atencion fue muy buena, siempre la moza estuvo predispuesta a explicarnos cada plato. Los platos son los tipicos de la cultura japonesa y estan muy bien servidos. Te reciben con una entrada muy peculiar y te despiden con masitas y un lindo te de jazmin. Muy recomendable.
+    date: 12-11-2009
+    user: http://mi.guiaoleo.com/members/72146
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "T\xEDpico restaurante chino de barrio.\r\n\
+      La comida es buena y vino enseguida, las porciones muy abundantes. \r\n\
+      Se notaba que la moza no ten\xEDa experiencia pero fue correcta"
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/55002
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Hay \"Restoranes\" en esta gu\xEDa los cuales deber\xEDan estar en otra categor\xEDa, ya que al estar con restoranes propiamente dichos van a tener calificaciones bajas. Este es un lugar para pedir delivery con comida china decente, nada del otro mundo. Ahora bien para ir a comer no es recomendable en absoluto, es lugar es un poco lugubre y con mucho olor a frito. Recomiendo poner estos boliches en otra categor\xEDa porque la comida no es mala, pero no creo que sea un restoran.-"
+    date: 01-10-2009
+    user: http://mi.guiaoleo.com/members/36057
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pedimos Chaw fan con camarones, el plato era abundante, bastante aceptable, salvo los camarones que estaban pasados de cocci\xF3n."
+    date: 30-08-2009
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida muy rica y abundante, el lugar no es el tipico chino.
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Esta vez fue delivery tardaron 1h 15 min en venir pienso que fue demasiado con respecto a  la comida muy sabrosa y llego caliente
+    date: 08-05-2009
+    user: http://mi.guiaoleo.com/members/46465
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "En consonancia con los comentarios de abajo, un ambiente com\xFAn, pero con atenci\xF3n esmerada y comida china de gran calidad, f\xE1cilmente apreciable por los conocedores. Las porciones son DOBLES (s\xED, dobles, pedir un solo plato por cada dos comensales). Precios correctos y accesibles (como en casi todos los lugares de comidas chinas). Se recomienda el delivery. Por la noche es inmediato (menos de 20 minutos para 5 platos elaborados)."
+    date: 26-08-2008
+    user: http://mi.guiaoleo.com/members/43673
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: Bastante mas caro que los otros locales de comida china, la comida es muy rica pero el servicio es muy malo, y te dan la impresion de molestarlos.
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/7368
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      La comida es muy buena y el delivery llega a horario.
+      Pedimos comida vegetariana y repetaron muy bien el pedido
+    date: 28-06-2008
+    user: http://mi.guiaoleo.com/members/46851
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un ambiente mas bien familiar y con pocas caracteristicas de la cultura china. Pero para quien NO esta interesado en la ambientacion y SI en la calidad de la comida este es el lugar. Todos los platos excelentes y el servicio bastante aceptable. El precio es el justo. Es como una especie de bodegon pero en vez de comer guiso comimos comida china, y la pasamos muy bien.
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/46238
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es un restaurante tipico de comida china, en el que los platos estan en un promedio mas que aceptable, el servicio es bueno, y el ambiente muy simple. Si uno busca calidad, abundancia y precio economico, este tipo de restaurantes es lo que mejor se ajusta.
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/32454
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El viernes fui por primera vez. La mayoria fue por Delivery. La verdad es para recomendar.
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/22617
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Comida rica y barata. No es la mejor casa de comida china, tampoco es la peor. Correcta para delivery.
+    date: 24-01-2008
+    user: http://mi.guiaoleo.com/members/24434
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos el viernes a la noche, habia muy poca gente asi q comimos bien, rapido y barato. "
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/14842
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buenos precios, porciones para compartir, muy tranquilo. Recomendable.
+    date: 24-06-2007
+    user: http://mi.guiaoleo.com/members/20802
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Porciones para compartir. Festejamos un cumplea\xF1os, invitamos a todos. Eramos 12 y nos sali\xF3 realmente muy econ\xF3mico. Llevamos torta, nos dieron platos para servir sin inconvenientes. "
+    date: 17-06-2007
+    user: http://mi.guiaoleo.com/members/9571
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar digno, limpio, y aceptablemente atendido. La comida es fresca, hecha en el momento, servicio r\xE1pido y platos muy abundantes. El ambiente no es de lo m\xE1s acertado pero es prolijo."
+    date: 20-05-2007
+    user: http://mi.guiaoleo.com/members/23465
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy rico, abundante y una atenci\xF3n rapid\xEDsima. "
+    date: 29-04-2007
+    user: http://mi.guiaoleo.com/members/19379
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Este es un bodeg\xF3n de comida china, barato y rico. \r\n\
+      Los platos salen r\xE1pidos, son abundantes y sobre todo son muy naturales. Vale la pena llegar hasta all\xED para comer bien y barato. Recomendable."
+    date: 31-03-2007
+    user: http://mi.guiaoleo.com/members/11409
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy gustosa y sumamente abundante. Es practicamente una obligaci\xF3n compartir los platos.\r\n\
+      El servicio es bueno, gente muy atenta. Una pena el lugar: olor a ba\xF1o en el sal\xF3n. "
+    date: 04-01-2007
+    user: http://mi.guiaoleo.com/members/6200
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fui con mi novia un viernes, el espacio no tiene mucha onda pero la comida es bastante buena, sin llegar a ser excelente. Buen precio.
+    date: 15-12-2006
+    user: http://mi.guiaoleo.com/members/5216
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Leyendo los comentarios sorprender\xEDa conocer el lugar. \r\n\
+      Platos para compartir s\xED o s\xED. \r\n\
+      El lugar es com\xFAn. Vale la comida."
+    date: 16-11-2006
+    user: http://mi.guiaoleo.com/members/9571
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es muy bueno. Las porciones son m\xE1s que abundantes y una comida excelente. "
+    date: 30-09-2006
+    user: http://mi.guiaoleo.com/members/7291
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El servicio es aceptable, la comida es la tradicional china: abundante, fresca y sabrosa.\r\n\
+      Es barato y la relaci\xF3n precio/calidad es m\xE1s que buena."
+    date: 23-09-2006
+    user: http://mi.guiaoleo.com/members/12319
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Suelo pedir delivery y el servicio es muy bueno, las comidas son muy frescas y riqu\xEDsimas. El lugar no es muy lindo pero la atenci\xF3n es b\xE1rbara."
+    date: 28-06-2006
+    user: http://mi.guiaoleo.com/members/9643
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Las porciones son realmente muy abundantes, el servicio de delivery (nunca com\xED en el lugar) es medio lento. Los wan tan eran de lo mejor que prob\xE9, pero el resto no era de gran calidad y nos cay\xF3 a todos muy pesado. No repetir\xEDa este lugar."
+    date: 21-06-2006
+    user: http://mi.guiaoleo.com/members/9221
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Est\xE1 bien para delivery, el lugar tiene poca onda. La atenci\xF3n es buena. Las porciones son como para dos."
+    date: 15-05-2006
+    user: http://mi.guiaoleo.com/members/8880
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buenos los platos y la atenci\xF3n, muy abundante y buen precio como suele ser la comida china. \r\n\
+      El ambiente no es demasiado acogedor pero los ba\xF1os est\xE1n bastante mal: \xA1Para lavarse las manos hab\xEDa un pan de jab\xF3n y para secarse una valerina en el de mujeres y en el de hombres un repasador!"
+    date: 11-05-2006
+    user: http://mi.guiaoleo.com/members/8642
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Se nota que se manejan mucho con delivery y quizas faltar\xEDa un poco de onda en el sal\xF3n de comida. \r\n\
+      Pero la verdad es que el lugar es altamente recomendable, los platos est\xE1n muy bien preparados y son tan abundantes que no se llegan a terminar."
+    date: 11-03-2006
+    user: http://mi.guiaoleo.com/members/6988
+    ambiente_rank: muy bueno

@@ -1,0 +1,28 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena Pizza, buena atencion y el lugar muy bien ambientado.
+    date: 16-05-2008
+    user: http://mi.guiaoleo.com/members/45102
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "lo primero que me gust\xF3 fue la rampa de la entrada porque fui con mi hijo en el cochecito... \r\n\
+      El ambiente del lugar es excelente y la atenci\xF3n tambi\xE9n. La variaci\xF3n de comidas no es muy grande, es mas que nada pizzer\xEDa, pero es muy recomendable."
+    date: 05-12-2007
+    user: http://mi.guiaoleo.com/members/36482
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Pedimos pizza napolitana y calabresa.
+      Nada especial.
+    date: 09-10-2007
+    user: http://mi.guiaoleo.com/members/29962
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La verdad que figura como comida aut\xF3ctona y s\xF3lo posee cuatro platos t\xEDpicos. Es m\xE1s pizzer\xEDa para delivery que comida aut\xF3ctona. La comida estuvo bien, pero el ambiente no es gran cosa. "
+    date: 04-05-2007
+    user: http://mi.guiaoleo.com/members/22688
+    ambiente_rank: bueno

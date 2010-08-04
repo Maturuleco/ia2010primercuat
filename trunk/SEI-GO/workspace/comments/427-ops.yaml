@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelentes pizzas para comer en casa. No escatiman en ingredientes sino todo lo contrario. Dir\xEDa que en cuanto a relaci\xF3n calidad/precio son las mejores del barrio."
+    date: 06-08-2009
+    user: http://mi.guiaoleo.com/members/66532
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Pido siempre delivery de esta Pizzer\xEDa/rotiser\xEDa. La verdad es que la comida es super fresca. No esperen nada gourmet o finas presentaciones. Es una pizzer\xEDa de barrio que tiene delivery. La verdad es que tiene una buena calidad a precios accesibles."
+    date: 16-06-2009
+    user: http://mi.guiaoleo.com/members/19964
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: recomiendo la pizza de provolone y la de requefort. Precios accesibles.
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/62649
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente pizzer\xEDa, como las \"de antes\". Es evidente que los que van lo hacen exclusivamente por el lugar, por cuanto a esa altura Av.Cordoba no tiene mucho que ofrecer.\r\n\
+      Una muy buena opci\xF3n si no queres ir al hasta el centro y siempre encontras lugar."
+    date: 20-12-2008
+    user: http://mi.guiaoleo.com/members/10516
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Rica pizza, un poco grasosa, pero rica. Tienen delivery tambien
+    date: 08-12-2008
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: malo/regular

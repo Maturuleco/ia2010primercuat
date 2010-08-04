@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "llegu\xE9 a las 9:30 con reserva y me fui a las 11:50 sin haber comido. Un desastroso servicio y una p\xE9sima actitud del due\xF1o."
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/78905
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos 8 amigas a comer, fue un desastre. Esperamos una hora y media, los sorrentinos estaban crudos, los lomos, uno a la mostaza y dos al plato, de las dos rodajas chicas, una era dura y la otra normal, la guarnici\xF3n :pures abundante.El cerdo laqueado, dos fetas estaba fr\xEDo y la papa rellena se la olvidaron, cuando la trajeron era una papa hervida con una feta de queso derretida encima.Todas salimos disconformen, pero no eramos la \xFAnica mesa en quejarnos por el servicio y por la comida.Un consejo no vayan, encima caro y eso que pagamos con el descuento de la tarjeta del diario la nacion."
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/78906
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Una experiencia inolvidable, por lo menos para los que estan de dieta. Comimos de entrada unas ricas gambas con una ensalada empapada y unas mollejas muy buenas. Luego cometimos el error de no pedir de inmediato el segundo plato. Sobre las 23.00 h nos dimos cuenta que ya no salian platos de la cocina y nadie (excepto bettita con sus amigas) estaba comiendo. Asi segu\xEDa todo 1 hora mas. Los camareros desaparecieron ya que no se atrevian acercarse a las mesas. Despues de casi 2 horas de espera nos fuimos sin comer. En la caja dijeron \"cocinero nuevo\"....Si se atreven ir, asegurense que haya otro."
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/69429
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es buena. El lugar est\xE1 muy bien ambientado. Lo que fue malo es la atenci\xF3n. Si bien hay buen trato, entre plato y plato tardaban mucho, y lo del postre fue una exageraci\xF3n (40 minutos tardaron en traer lo pedido, que solo era una banana cortada con dulce de leche, chocolate y una bocha de helado). En l\xEDneas generales est\xE1 bueno, pero el precio est\xE1 por sobre lo que es el lugar."
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/78453
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Un lindo lugar con buenos precios y comida razonable
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: muy bueno

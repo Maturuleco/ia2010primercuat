@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: La pizza es simplemente exquisita, recomiendo las empanadas de carne cortadas a cuchillo.
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/79113
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Se puede pedir. La pizza es de un tama\xF1o y sabor razonable. Entregan r\xE1pido y caliente."
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/34885
+    ambiente_rank: malo/regular

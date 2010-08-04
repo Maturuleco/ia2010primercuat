@@ -1,0 +1,753 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: muy lindo el ambiente, la comida es un poco cara por lo que es. La limonada riquisima.
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/77791
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sin palabras ....Excelente comida y atenci\xF2n , ambiente rom\xE0ntico.Es un lugar que no se puede dejar de conocer."
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/82252
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Vivo en San Isidro y es mi destino favorito en palermo. Prob\xE9 toda la carta y no me canso de ir. Platos originales, sanos y de excelente calidad. Los mejores panes de Bueno Aires. El ambiente es muy c\xE1lido. Te sent\xEDs como en tu casa."
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/61967
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Este comentario sintetiza 2 visitas. El men\xFA es mayoritariamente vegetariano con presencia de pescados. La comida es sustanciosa y sabrosa, con car\xE1cter. La primera vez comimos pasta integral con vegetales al wok y croquetas de quinoa. La segunda, los dos comimos lo mismo: una crocante polenta cubierta por capas de ricotta con toques de az\xFAcar negra y tomates, zucchini y berenjenas cortadas en brunoise y cocidas en su punto exacto. Todo coronado por un pu\xF1ado de hojas de r\xFAcula. Delicioso. El ambiente amplio permite la conversaci\xF3n \xEDntima. La atenci\xF3n muy amable. Tentadora panera."
+    date: 21-04-2010
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos con mi novio, \xE9l sali\xF3 contentisimo y yo no pienso volver. El tapeo clasico es minusculo (por 50$ uno espera picar algo m\xE1s). Los platos principales son abundantes, pero los ingredientes no son los que figuran en la carta (el plato enia aceitunas y no lo dec\xEDa en la carta). El aspecto del lugar es bueno: carta impresa en bolsas de papel, musica cubana de fondo, velas en las mesas y flores preciosas. No vuelvo porque me atendieron mal y el gusto de la comida dej\xF3 mucho que desear. Fui un martes y el lugar estaba lleno (llamativo)."
+    date: 13-04-2010
+    user: http://mi.guiaoleo.com/members/15791
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "me lo habian recomendado muchisimo, hasta que fui. excelente lugar,la comida genial, muy bien acompa\xF1ada de aromas,musica y atencion del personal.uno de los mejores lugares de palermo y de la ciudad.los precios estan muy bien y no se pierdan de pedir los ravioles de salmon sin masa. gracias artemisia."
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/79003
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Muy buena la comida. Lento y nada amable el servicio
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/25436
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nos lo hab\xEDan recomendado mucho, asi que fuimos. Es un lindo lugar, agradable, con techos altos, lindos cuadros, buena luz, mesas separadas. Al principio te reciben con unas rodajas de distintos panes caseros excelentes, acompa\xF1ados con una especie de hummus. La comida, es rica, natural y est\xE1 bien preparada .Las porciones me parecieron muy abundantes. Muy atenta atenci\xF3n de la camarera. Los precios estaban bien para la calidad de la comida. La carta de vinos es reducida y economica. Recomendable para comer algo sano y sabroso en un ambiente relajado. Mi mujer seguramente volvera con alguna de sus amigas, ya que hubiera probado toda la carta\x85."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lindo restaurante con m\xFAsica tranquila y ambiente relajado. Los platos son abundantes y se nota que los preparan con productos frescos, muy buenas combinaciones de sabores. Ideal para comer rico y sano (panes caseros)"
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/77518
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida, muy sabrosa, algo diferente con un toque casero. La atenci\xF3n impecable. Muy recomendable."
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: La comida es realmente excelente. Muy buenas combinaciones y mucha creatividad en los platos, que son abundantes. Toda la comida es muy natural y la espera por preparar los platos en el momento sin duda lo vale. El ambiente es bonito y simple con buen espacio entre las mesas. No se cobra cubierto, hay una buena relacion precio/cantidad. Muchos platos de la carta llamaron nuestra atencion y sin duda volveremos a probarlos.
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/68861
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Recomendable! El lugar es intimo, mesas separadas, buena musica. Los mozos son muy atentos. Los platos muy abundantes, excelente mercaderia y bien presentados. Precio aceptable.
+      Fue un grato momento, por lo cual volveremos.
+    date: 02-02-2010
+    user: http://mi.guiaoleo.com/members/73322
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En un ambiente relajado y c\xE1lido, con una separaci\xF3n adecuada entre mesas, Artemisia ofrece una cocina natural e ingeniosa. Los platos son muy creativos y abundantes. El tapeo es exquisito y con una variedad muy sabrosa(mini brochetes capresse,ensalada de lentejas,ajos confitados, champignones rellenos ,bruschetas de queso y puerro,aceitunas rebozadas y dip de zanahoria). Los ravioles de salm\xF3n sin masa, son para no perd\xE9rselos y el helado de jengibre, una delicia. En resumen, un agasajo de sabores caseros y diferentes para el paladar."
+    date: 10-01-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Super recomndable para quien le gusta comer bien, muy casero y elaborado en el momento.
+      muy buena la limonada! y las tapas de entrada.
+    date: 04-01-2010
+    user: http://mi.guiaoleo.com/members/74540
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Vuelvo y me sigue encantando. La comidad es muy rica y super original. El ambiente y la atenci\xF3n super bien. Es muy recomendable."
+    date: 26-12-2009
+    user: http://mi.guiaoleo.com/members/74179
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy orginal y muy sabrosa. Imperdibles los panes caseros mientras se espera la comida. El ambiente es s\xFAper c\xE1lido y tranquilo, hay buena distancia entre mesas entonces es c\xF3modo y no muy ruidoso. El personal muy atento en todo. Fuimos muchas veces y seguiremos yendo. Lo recomiendo mucho."
+    date: 10-12-2009
+    user: http://mi.guiaoleo.com/members/3688
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Probe casi toda la carta, aunque un poco acotada.
+      los ravioles de salmon son EXCELENTES, sin masa.
+      Mejoraria la atencion de las mozas, con respecto a la tardanza en traer los platos creo que es porque la elaboracion es al momento y no tienen nada precocido
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/51331
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La tranquilidad del lugar, los cuadros , y la musica hacen un lugar muy agradable.La comida, cuando llega, es extremadamente sabrosa y con una mezcla de sabores muy bien elegida por el cheff. La atenci\xF3n deja mucho que desear. Si no se tiene apuro muy recomendable"
+    date: 11-11-2009
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Artemisia nunca me defrauda. La comida sigue siendo excelente tanto en la preparaci\xF3n de los platos como en cantidad y presentaci\xF3n. La atenci\xF3n siempre es amable a\xFAn cuando el local est\xE1 lleno y el ambiente agradable."
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Fue una buena experiencia, a pesar de ser 100% carnivoro, me sorprendi con la propuesta de esto lugar.
+      Los platos son abundantes, pedimos el tapeo clasico, y la lasagna de polenta grillada.
+      Muy buenos! el postre flojito!
+    date: 14-10-2009
+    user: http://mi.guiaoleo.com/members/70337
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente comida! Cada vez que voy me sorprenden con algo nuevo...Desde los panes hasta el postre!todo sano, rico, creativo y en el lugar se respira ese aire joven que le da una onda especial ...Imperdible el plato de quinoa  y arroz yamani  crujiente.Imperdible el postre de zapallo con nuez y helado.
+    date: 16-08-2009
+    user: http://mi.guiaoleo.com/members/67742
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me lo hab\xEDan \xE1ltamente recomendado, asique fui.La comida, es rica, sabrosa y est\xE1 bien preparada.Las porciones no me parecieron demasiado abundantes. Podr\xEDa estar mejor calefaccionado el ambiente, ya que hac\xEDa mucho fr\xEDo y la espera para cada pedido es demasiado larga."
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/38512
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui por primera vez, me gusto mucho el lugar, me parecio muy interesante la propuesta gastronomica y correcta la variedad de la carta. Muy amable la atenci\xF3n de la camarera. Los precios estaban bien para la calidad de la comida y las porciones abundantes."
+    date: 17-06-2009
+    user: http://mi.guiaoleo.com/members/1912
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El s\xE1bado fuimos a cenar con mi marido y comimos realmente delicioso ! todo incre\xEDble. La ambientaci\xF3n tiene mucha onda !! Exquisito todo lo que prob\xE9, un manjar, bien casero y de calidad. Hacen una limonada con jengibre espectacular !!!. Lo super super recomiendo una y mil veces !!!"
+    date: 04-05-2009
+    user: http://mi.guiaoleo.com/members/61967
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Me parecio un lugar encantador por la onda ,la calidad de la comida y por la atencion amable y simpatica de la camarera que nos atendio.El mouse de maracuja es IMPERDIBLE!!!Es un lugar para volver y para recomendar a los amigos
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/61702
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Panes muy ricos, la ensalada del dia tambien pero lamentablemente tenia aceitunas y no lo decia en la carta. El servicio un poco lento, en la carta dice que los platos estan elaborados en el momento, pero si pedis dos ensaladas y un plato simple no deberia tardar 45 min.\r\n\
+      Deberian ense\xF1arles a las meseras y al encargado a explicar los platos. No tienen idea."
+    date: 07-03-2009
+    user: http://mi.guiaoleo.com/members/35480
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo lugar con m\xFAsica tranqui bossa. La comida sabrosa y bien presentada adem\xE1s abundante. La atenci\xF3n muy amable. No tienen bebidas. solo agua, vinos y limonada.Para conocerlo"
+    date: 02-01-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lindo lugar, las entradas muy ricas, pero el plato principal (ravioles hechos con salm\xF3n) dej\xF3 que desear: estaban muy fuertes, el conjunto ravioles + salsa + modo de preparaci\xF3n me pareci\xF3 demasiado pretencioso, y el resultado no acompa\xF1a.  Los postres que prob\xE9, sin embargo, muy ricos todos."
+    date: 18-12-2008
+    user: http://mi.guiaoleo.com/members/19604
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Tanto el jugo de manzana organico como los capelettis de muzarella y calabaza son dignos de probar. Las verduras de las ensaladas crujen dando una sensacion de productos frescos. Comida sana y muy rica. Para volver y recomendar.
+    date: 21-11-2008
+    user: http://mi.guiaoleo.com/members/19
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La calidad de las comidas sigue siendo excelente como siempre. Los platos est\xE1n hechos con ingredientes naturales y son sabrosos y muy bien elaborados. La atenci\xF3n es atenta y amable y el ambiente es bueno y distendido, pero a pesar de que las mesas est\xE1n bastante separadas, es algo ruidoso cuando est\xE1 lleno."
+    date: 08-11-2008
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un lugar agradable con techos altos, mesas separadas. Muy rica comida natural. Precios accesibles. Carta de vino reducida y economica. Recomendable para comer algo sano y sabroso en un ambiente relajado.
+    date: 28-10-2008
+    user: http://mi.guiaoleo.com/members/25520
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy sabrosa, los platos son abundantes. Muy rico el hummus que acompa\xF1a al pan.\r\n\
+      La atencion es buena, pero las mozas tardan mucho en atenderte...se toman su tiempo.\r\n\
+      Tener en cuenta q los platos se hacen en el momento, quiza tarden un poco en salir."
+    date: 24-10-2008
+    user: http://mi.guiaoleo.com/members/48268
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy bueno, unos platos exquisitos en un ambiente relajado..para volver!!
+    date: 02-10-2008
+    user: http://mi.guiaoleo.com/members/26240
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "a favor: cocina natural y sana, pero a la vez creativa, abundante y sabrosa; ambiente agradable, mesas separadas, atencion correcta; la lasa\xF1a de polenta estaba muy buena, tambien los ravioles de brocoli; rico pan casero con pure de garbanzos; para tomar, limonada con jengibre o jugo de manzana organico. en contra: sillas incomodas; no hay gaseosas -solo morgade pomelo (?)-; me vinieron dos escarbadientes adentro de la comida; los raviolones de salmon no me parecieron del todo logrados; los precios en alza amenazan con deteriorar la relacion $ / calidad. aun asi, el balance es positivo."
+    date: 27-09-2008
+    user: http://mi.guiaoleo.com/members/46178
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Antes de visitar Artemisia ten\xEDa la idea de que la comida vegetariana era en alg\xFAn aspecto aburrida. Nada m\xE1s lejos de la realidad, ya que qued\xE9 sorprendido no s\xF3lo por la calidad y lo abundante de sus platos sino por la espl\xE9ndida ambientaci\xF3n y la atenci\xF3n del lugar.\r\n\
+      Platos muy recomendables son el tapeo cl\xE1sico, el cous cous y el crocante de calabaza.\r\n\
+      La atenci\xF3n de las mozas y los due\xF1os es muy dedicada.\r\n\
+      Un \xFAnico detalle a mejorar ser\xEDa el aumentar la cantidad de panes que sirven en la mesa. Realmente son caseros y esquisitos e invitan a acompa\xF1ar los platos con ellos."
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cuando uno entra a este lugar, ni se imagina que se va a encontrar con una cocina tan rica y tan cuidada a precios mas que razonables. Si bien, es cocina naturista, ofrece variadas opciones para todos los gustos. Las porciones son abundantes y balanceadas y exquisitamente presentados. El ambiente es muy agradable, tanto en lo visual como ac\xFAstico. La atenci\xF3n es buena aunque hay que advertir que al ser cada plato preparado en el momento, los tiempos de espera pueden prolongarse hasta una hora o mas. Pero vale la pena la espera. Recomendados: lasagna de polenta, el cous cous y los postres."
+    date: 09-08-2008
+    user: http://mi.guiaoleo.com/members/47442
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Si bien este restaurante no es 100% vegetariano, ya que ofrece pescados, las opciones vegetarianas son deliciosas, abundantes y est\xE9ticamente presentadas. La experiencia resulta muy agradable."
+    date: 18-07-2008
+    user: http://mi.guiaoleo.com/members/47661
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una alternativa excelente para aquellos que amamos la comida natural, se demuestra aca que para comer rico y sano no es necesario una simple ensalada de lechuga y tomate, se pueden elaborar platos realmente sorprendentes muy bueno el ambiente, la atenci\xF2n, es para volver y recomendar"
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/41621
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar ideal para cenar afuera cuando alguien del grupo no come carnes: el men\xFA es vegetariano y atractivo al mismo tiempo (algo no habitual) e incluye algunos platos con pescado. Las porciones son abundantes. Una contra: todos los platos est\xE1n coronados con s\xE9samo, inclusive las pastas. Comida sencilla, sabrosa, sana."
+    date: 30-06-2008
+    user: http://mi.guiaoleo.com/members/16076
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Artemisia es un lugar que gracias a su ambientaci\xF3n y atenci\xF3n es muy c\xE1lido, equilibrado, original y con onda sin caer en lo exc\xE9ntrico, donde uno se siente bienvenido. La comida es rica y cuidada, y a pesar de que este tipo de cocina no es lo que elijo normalmente, me result\xF3 una muy buena opci\xF3n vegetariana y sana."
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El lugar es una invitacion al disfrute, tanto el ambiente, como la musica y en especial cada plato que esta elaborado en el momento y con la mayor atencion...y eso se siente. Una recomendacion...para ir en pareja!
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/45335
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Exquisita la comida, sin excepci\xF3n. Todo se prepara en el momento, por lo que puede haber demoras hasta que llega el pedido. El ambiente es c\xE1lido y las mesas est\xE1n separadas entre s\xED, sobre todo en la parte m\xE1s cercana a la puerta (que, por otra parte, est\xE1 cerrada con llave, lo que hace que el que quiera entrar tenga que tocar timbre). \r\n\
+      Vimos confusiones en entregas de pedidos a las mesas, y hubo gente que se enoj\xF3 mucho por la demora, pero a nosotros por suerte nos atendieron muy bien. Muy recomendable."
+    date: 17-05-2008
+    user: http://mi.guiaoleo.com/members/44867
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ambiente c\xE1lido y nada ruidoso, decoraci\xF3n y muebles r\xFAsticos con flores naturales y sencillas. Excelente atenci\xF3n. La comida sorprende por su originalidad, sencillez y buen sabor, es comida casera fina, de primer nivel. Para arriesgarse y probar nuevos sabores."
+    date: 24-04-2008
+    user: http://mi.guiaoleo.com/members/40086
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un ambiente muy agradable y bien logrado, tranquilo y arm\xF3nico. Comimos pastas y fueron muy buenas. La ateci\xF3n excelente, tuve un problema con el vino y no dudaron en cambiarlo.\r\n\
+      Es un lugar muy recomendable para ir"
+    date: 08-04-2008
+    user: http://mi.guiaoleo.com/members/43106
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: espectacular opcion para platos caserisimos, originales, naturisimos. Recomiendo las opciones de polenta que tienen que son figurita dificil. Ambiente tranqui onda relax para grupetes de amigos, con comodidad o en pareja, atencion prolija. y si... los platos demoran pero totalmente justificado!!! realmente se esmeran en todo, la enana y chuchis quedaron fascinadas, me parece lo disfrutaron mas que yo.
+    date: 01-04-2008
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un lugar realmente excelente, muy relajado el ambiente, mucho espacio entre las mesas. Ideal para ir en pareja. Los gustos de los platos son muy originales. Imperdible
+    date: 20-03-2008
+    user: http://mi.guiaoleo.com/members/42494
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy lindo, bien ambientado, amplio, la m\xFAsica romp\xEDa un poco el clima tranquilo del lugar. La comida es excelente, muy rica, un poco caro teniendo en cuenta q pedimos ensaladas, pero todo, inclu\xEDdo el postre, era riqu\xEDsimo. La atenci\xF3n fue muy amable y siempre atentos. Un lugar muy recomendable."
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me gust\xF3 much\xEDsimo este restaurante. La comida es excelente, con sabores \xFAnicos e irreproducibles. Los platos son sumamente originales y las porciones abundantes van muy bien con los precios que no son para nada caros. La calidad de la comida bien lo vale. Adem\xE1s el servicio tambi\xE9n es muy bueno dado que no sirvieron unos panes caseros deliciosos y nos trataron del mejor modo. Lo \xFAnico que quiz\xE1s se deba observar es la tardanza en servir los platos pero tal hecho se comprende si se tiene en cuenta que los platos se hacen en el momento. El lugar es hermoso y muy original. Super recomendable."
+    date: 26-02-2008
+    user: http://mi.guiaoleo.com/members/12853
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar ideal para pasar una buena noche
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/39608
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Me encanta el encanto de Artemisia me da mucha paz el lugar y me siento como en el comedor de mi casa.
+      Los felicito.
+      Lili Gerszonowicz
+    date: 18-02-2008
+    user: http://mi.guiaoleo.com/members/40556
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Ambiente zen, para ir relajado. La atenci\xF3n es amable y c\xE1lida, los platos tardan bastante en llegar pero el surtido de panes saborizados y el dip de zanahoria ayudan a la espera. La carta es m\xE1s que interesante, la carta de vinos es bastante amplia y accesible, y los precios - sin ser baratos - no contradicen la calidad de lo que te brindan. Un hallazgo la limonada con jengibre para aquellos que no gustan del alcohol."
+    date: 12-02-2008
+    user: http://mi.guiaoleo.com/members/13937
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Uno de mis lugares preferidos, para pasar una noche perfecta.
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/39645
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: me encanto el lugar, la atencion y la comida, super recomendable.
+    date: 16-01-2008
+    user: http://mi.guiaoleo.com/members/38418
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui un miercoles, poca gente, tranquilo. Muy buena musica, ambiente de relax. Comida: Excelentisimo ravioles de salmon, la limonada de bebida y los panes caseros. No asi el crocante de calabaza, no recomendable. El personal muy atentos y serviciales. Gracias.!!!"
+    date: 09-01-2008
+    user: http://mi.guiaoleo.com/members/3919
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: El lugar es muy lindo. Buen ambiente y mejor comida. Con un menu corto pero interesante, platos abundantes y naturales, y muy buenas combinaciones de sabores... Artemisia es absolutamente recomendable. Coincido con que es un poco mas caro de lo que figura en la guia y coincido tambien en el servicio desprolijo y muy descoordinado. Los platos tardan bastante porque se realizan en el momento pero si hay paciencia, vale la pena. Riquisima la limonada con jengibre, el pan, las bruschettas y el pescado thai. Volvere para probar otros platos.
+    date: 05-01-2008
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente, la atenci\xF3n es super cuidada, y el ambiente es agradable y tranquilo. Los precios son normales, dada la excelente calidad de los productos. El unico punto en contra es la carta de vinos que no es muy variada. Igualmente, a la hora de las bebidas, optamos por una limonada con Jengibre que es excelente. "
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/36309
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "la verdad, no soy partidario de lo naturista, pero me pareci\xF3 excelente. Muy recomendable."
+    date: 07-11-2007
+    user: http://mi.guiaoleo.com/members/19997
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Excelente la comida. El lugar muy agradable.
+      Lo super recomiendo.
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/14188
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El precio fue muy superior a lo esperado de la lectura de esta guia, $40 por persona sin consumir postre y sin considerar el vino.
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/23312
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es excelente, con una carta no demasiado extensa de platos naturales muy bien elaborados. El ambiente y la atenci\xF3n muy c\xE1lidos y tranquilos. \r\n\
+      Vale la pena probar la limonada con jenjibre."
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Un lugar muy agradable, musica suave, la comida muy casera, riquisima y variada.
+      La limonada muy buena!
+      Negativo: La atencion medio desordenada, hubo que repetir un par de pedidos porque los olvidaron, al ser la comida casera se tarda mucho asi que ir sin apuro, la carta de postres necesitaria un poco mas de variedad.
+      En general, muy bueno, rico y recomendable.
+      Volveremos.
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/24634
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente comida. La elaboracion es impecable, los platos muy sabrosos y la carta es super interesante. \r\n\
+      La ambientacion es tranqui pero impecable y se come acompa\xF1ados de muy buena musica acorde. Super recomedable!"
+    date: 17-10-2007
+    user: http://mi.guiaoleo.com/members/12757
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Me gusto mucho, la carta es un poco acotada, pero creo que todos los platos valen la pena y son muy sabrosos y excelentemente preparados.
+      El precio hoy por hoy es un precio promedio.
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/40281
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es ideal, con un ambiente muy cuidado, tranquilo, \xEDntimo. La comida excelente desde la entreda hasta el postre (riqu\xEDsima la limonada). Gran presentaci\xF3n. El personal muy atento. Cada vez que viajo a Bs. As. los visito. Es 100 recomendable."
+    date: 25-09-2007
+    user: http://mi.guiaoleo.com/members/32996
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La carta es limitada, la comida y el servicio son buenos, lastima la ambientacion, deberian mejorarla, un poco caro para lo que ofrecen. "
+    date: 21-09-2007
+    user: http://mi.guiaoleo.com/members/29395
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 el lugar, mucha onda y sobre todo espectacular la comida...\r\n\
+      lleve a unos amigos espa\xF1oles que son vegetarianos y quedaron sorprendidos por la originalidad y frescura de los platos.No dejen de probar las tapas!!! y la limonada. Lo recomiendo."
+    date: 19-09-2007
+    user: http://mi.guiaoleo.com/members/32995
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es increible. \r\n\
+      La combinaci\xF3n de r\xFAstico y moderno, la atenci\xF3n y lo sabroso de la comida combinan muy bien. Los precios son muy accesibles y los platos abundantes."
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/32313
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hac\xEDa mucho tiempo que no cenaba con tanto gusto en un rest\xF3 de Palermo como en \xE9ste. Recomiento el tapeo, el crocante de calabaza, los ravioles de br\xF3coli y queso de cabra (que comi\xF3 mi hermano), muy buena selecci\xF3n de vinos... ademas suena siempre musica muy suave y la atenci\xF3n es muy c\xE1lida! un placer!"
+    date: 06-09-2007
+    user: http://mi.guiaoleo.com/members/31997
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Buena comida, una atenci\xF3n y clima excelentes."
+    date: 06-09-2007
+    user: http://mi.guiaoleo.com/members/29006
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena comida, muy rica, muy diferente. la atenci\xF3n excelente y el caf\xE9 para terminar la cena muy bueno. volveremos (sin maridos/ esposos que solo comen carne!)"
+    date: 25-07-2007
+    user: http://mi.guiaoleo.com/members/27847
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La verdad que no me pareci\xF3 tan caro teniendo en cuenta que la comuda y la bebida es excelente."
+    date: 19-07-2007
+    user: http://mi.guiaoleo.com/members/27578
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Simplemente: M A L O.-\r\n\
+      Apunta arriba, fashion, top, exclusive. \r\n\
+      pero nada de eso. Bueno si lo \xFAnico que tiene de eso es el precio de los platos. Un hurto y mal. Miserables platos. Esta bien que sean naturistas, pero los naturistas Comen!!!! no degustan.\r\n\
+      El pan, lo m\xE1s barato, te lo pijotean y el queso tambi\xE9n, con eso digo todo. Adem\xE1s no me parece nada sabroso ni elaborado el men\xFA. Lo miserable no puede ser sabroso. Por favor por ese precio elijan otra cosa, por dios..."
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/27266
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Los ravioles de Salmon son EXCELENTES!!! fui por los comentarios y realmente me gusto, la limonada tambien muy buena, podrian mejorar la atencion que es un poco descuidada, pero me gusto y mucho. 
+      Muy interesante la propuesta, no me gusto la carta en bolsas.
+    date: 03-07-2007
+    user: http://mi.guiaoleo.com/members/8023
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 la onda del lugar y la comida!! Voy a volver!!"
+    date: 17-06-2007
+    user: http://mi.guiaoleo.com/members/24874
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fu\xED por los comentarios de guia \xF3leo, as\xED que agradezco a todos los que dedican el tiempo para escribir los comentarios y darme un pantallazo de los lugares nuevos a conocer. En este en particular quise agasajar a mi novio y amigos y por suerte result\xF3, porque lo pasamos muy bien.Me encant\xF3 el lugar. El personal es muy atento, la comida muy buena, fresca y bien presentada. Con un precio equilibrado. Digno de recomendar."
+    date: 14-06-2007
+    user: http://mi.guiaoleo.com/members/23004
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fui recomendado por un amigo. Decepci\xF3n total. El lugar a penumbras y sucio.  El tapeo es abundante, pero de dudosa calidad. Las pastas de salmon tiene demasiado gusto a pescado (un poquito pasado tal vez). lo que si esta bueno es la limonada con jenjibre. El postre no lo pude pedir porque no tenian en ese momento (solo hay 4 o 5) El servicio es lento y poco profesional"
+    date: 13-06-2007
+    user: http://mi.guiaoleo.com/members/24516
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar excelente, fuimos con dudas, nunca hab\xECamos ido a comer comida naturista y quer\xEDamos algo rico y livianito. Incre\xEDble, platos que salen de lo com\xFAn, una carta con pocos platos y muy ricos, lugar muy calido y buena atenci\xF3n. Prueben la limonada con jengibre!!!"
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/14948
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La camida es casera y natural hecha en el momento, un manjar. Ya fui varias veces y probe casi todos los principales. Los ravioles de salmon sin masas es una exquisitez. Los panes sabrosos y los dip tambien. Los due\xF1os siempre estan en el lugar. Super recomendable."
+    date: 13-05-2007
+    user: http://mi.guiaoleo.com/members/21908
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lugar muy tranquilo. Incre\xEDble la onda y la comida que es muy rica. Todo muy casero y hecho en el momento con ingredientes de primera calidad. Lo recomiendo. "
+    date: 03-05-2007
+    user: http://mi.guiaoleo.com/members/22610
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La carta es acotada y las opciones rondan en lo mismo (cocina naturista y light) pero si les ped\xEDs algunas modificaciones te las hacen sin problemas, lo cual esta bueno. El lugar es lindo y agradable. Linda musica. Un poco caro."
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/19530
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No sab\xEDa que elegir, todo era tentador. Lugar excelente que te genera el deseo de volver y volver. Los panes son muy buenos y es para m\xED el mejor lugar de comida natural."
+    date: 31-03-2007
+    user: http://mi.guiaoleo.com/members/20909
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 el lugar. Es relajado, muy lindo ambientado y todo muy sabroso. A mi me encanta la comida tipo naturista y creo que alguien que no le encante podr\xEDa probar los platos de Artemisia y le gustar\xEDa seguramente. El tema es que no hay Coca Cola ni caf\xE9 (si, vino y cerveza) y puede resultar un poco extremo para algunos. A mi me gust\xF3 muchisimo y lo super recomiendo."
+    date: 21-03-2007
+    user: http://mi.guiaoleo.com/members/16892
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Encantador el ambiente, muy \xEDntimo, buena m\xFAsica, detalles originales. Fui con prejuicio con respecto a la comida natural y me gust\xF3 mucho."
+    date: 11-03-2007
+    user: http://mi.guiaoleo.com/members/19811
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Super\xF3 ampliamente los elogiosos comentarios de quienes me lo recomendaron. La comida me deleit\xF3 por su exquisitez y creatividad; me pareci\xF3 una propuesta increible para aquellos que gustamos del sano y buen comer. El esmerado servicio del lugar tiene la impronta jovial de los due\xF1os, igual que el ambiente en donde est\xE1n cuidados cada uno de los detalles (vajilla de anta\xF1o, siempre flores...) Precio: gast\xE9 much\xEDsimo menos (qu\xE9 suerte!) que en cualquier lugarsucho de por ah\xED.\r\n\
+      En fin: me gust\xF3 tanto como para adoptarlo,disfrutarlo y recomendar, pero s\xF3lo a la gente que quiero."
+    date: 06-03-2007
+    user: http://mi.guiaoleo.com/members/19620
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Decoraci\xF3n banal. Buena atenci\xF3n. Men\xFA no apropiado para noches calurosas: es excelente comida, pero de invierno. Deber\xEDan tener preparado un men\xFA m\xE1s adaptado al verano, adem\xE1s de las ensaladas. Hac\xEDa mucho calor y los diferentes acondicionadores de aire, fueron encendidos cuando lleg\xF3 mucha gente. Resulta antiecon\xF3mico, pues con un ambiente fresco nos hubi\xE9ramos quedado. As\xED, huimos hacia la calle tan pronto como pudimos. No tienen buen trato con el cliente."
+    date: 27-01-2007
+    user: http://mi.guiaoleo.com/members/17128
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La chica que nos atendi\xF3 supo muy bien como guiarnos en la elecci\xF3n de los platos. El ambiente es muy tranquilo, relajado y la comida sabrosa y s\xFAper original."
+    date: 24-01-2007
+    user: http://mi.guiaoleo.com/members/16477
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buenas tapas, tanto por la calidad, como por la variedad de las mismas. Adem\xE1s preparan una limonada con jengibre que es excelente, se sirve en botellones de un litro y cuesta nada m\xE1s que $5."
+    date: 18-01-2007
+    user: http://mi.guiaoleo.com/members/15499
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Para empezar las entradas son de sabor regular, te las acompa\xF1an con una parva enorme de rucula que desnaturaliza el sentido de las mismas. Las pastas son escasas con una salsa bastante desagradable, adem\xE1s ta agregan cosas que no figuran en el men\xFA (como por ej: cuzcuz???). La atenci\xF3n de la moza fue muy desatenta, se equivocaba de platos y bastante antip\xE1tica. El ambiente es muy bullicioso a pesar que le quieran dar una onda tranqui con la m\xFAsica que pasan. Ah me olvidaba! para coronar la visita, nos cobraron de m\xE1s en la cuenta con respecto a la carta. Por lo expuesto, es m\xE1s que obvio que no volver\xE9."
+    date: 25-11-2006
+    user: http://mi.guiaoleo.com/members/8127
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Voy siempre, me encanta el clima \xEDntimo que se genera en este lugar.Es ideal`para disfrutar una buena charla en un encuentro con amigos. \r\n\
+      La comida es muy sabrosa, original y se nota que est\xE0 realizada en el momento por eso a veces demora un poco.Vale la espera. Lo recomiendo!"
+    date: 21-11-2006
+    user: http://mi.guiaoleo.com/members/13805
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un restaurante que logra un muy buen ambiente, para distenderse y disfrutarlo. La comida es buena, pero lo principal es que tratan de estar en todos los detalles y en su gran mayor\xEDa, lo logran. Recomendable."
+    date: 17-10-2006
+    user: http://mi.guiaoleo.com/members/11293
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "A pesar de ser un carnivoro empedernido me gust\xF3.\r\n\
+      La comida es natural y muy liviana\r\n\
+      Altamente recomendables los ravioles de salm\xF3n y el tapeo.\r\n\
+      El precio esta bien."
+    date: 06-10-2006
+    user: http://mi.guiaoleo.com/members/7082
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Muy buena la comida, artesanal, elementos naturales, demoran, pero es logico porque elaboran los platos en el momento. Riquisimo los panes caseros, aceitunas emparedadas, ajos, la limonada, el helado de canela...
+      Fui varias veces con diferentes amigos y siempre salieron sorprendidos. Es un lugar para disfrutar y quedar bien invitados. 
+      No debieran permitir fumar.
+    date: 20-09-2006
+    user: http://mi.guiaoleo.com/members/12187
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy agradable. Tiene mucho espacio entre las mesas y la m\xFAsica a un volumen acorde. El pan con el dip de hummus estaba sensacional. Las pizzetas son  bastante sabrosas, aunque una de ellas ten\xEDa la masa quemada. El plato principal era bastante abundante y de un sabor agridulce. La camarera fue cordial e hizo un buen \"tourguiding\".\r\n\
+      Hay dos cosas que no me gustaron: la demora en el servicio y la puerta de acceso que est\xE1 cerrada con llave, adem\xE1s de que no hay ning\xFAn matafuegos y/o plano de evacuaci\xF3n en caso de emergencias a la vista."
+    date: 13-09-2006
+    user: http://mi.guiaoleo.com/members/12040
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Perfecto! Comida exquisita en serio, sin las tonter\xEDas de Palermo fashion. Buen\xEDsimo el tapeo. Imperdible el helado de jengibre sobre base crocante, y la limonada. Atenci\xF3n c\xE1lida, sin mozos pesados ni gestos grandilocuentes. Se disfruta de la buena cocina y con onda. Felicitaciones a todos los que laburan all\xED!."
+    date: 09-09-2006
+    user: http://mi.guiaoleo.com/members/9928
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Exquisita la comida, muy natural y sabrosa, con porciones de buen tama\xF1o y muy bien decorada. \r\n\
+      A veces demoran un poco en servir, pero vale la pena esperar unos minutos."
+    date: 12-08-2006
+    user: http://mi.guiaoleo.com/members/11123
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un muy buen lugar para pasar una velada tranquila. \r\n\
+      El ambiente es excelente, espacioso, silencioso. Dista de lo que lamentablemente ofrecen muchos otros restaurantes. \r\n\
+      La comida es muy sabrosa, bien servida, muy original, hay muchas propuestas interesantes para probar. \r\n\
+      El precio es bueno (no cobran servicio de mesa), aunque hay que considerar que este tipo de comida no es de ingredientes caros. Posiblemente, la \xFAnica observaci\xF3n es que la atenci\xF3n es un tanto \"parsimoniosa\" por no decir lenta, aunque se condice con la onda del lugar."
+    date: 29-07-2006
+    user: http://mi.guiaoleo.com/members/8419
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me qued\xE9 con las ganas del postre porque no hab\xEDa helado de jengibre que se anunciaba en la carta. \r\n\
+      El lugar es muy c\xE1lido y con poco ruido a pesar de que estaba lleno."
+    date: 01-07-2006
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy lindo el ambiente, buena atenci\xF3n y comida, especialmente los panificados."
+    date: 16-06-2006
+    user: http://mi.guiaoleo.com/members/9184
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es muy agradable, es posible tener una conversaci\xF3n sin ruidos molestos y con el restaurante lleno. La atenci\xF3n es cuidadosa y considerada y la comida muy original y excelente."
+    date: 21-05-2006
+    user: http://mi.guiaoleo.com/members/8691
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy lindo el lugar, la comida realmente tiene sabor casero y en cada plato se nota la dedicaci\xF3n. \r\n\
+      Los vegetarianos como nosotros encontramos un lugar donde comer sano y rico."
+    date: 17-05-2006
+    user: http://mi.guiaoleo.com/members/8885
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida nos encant\xF3. Todos los sabores y la calidad ofrecida es excelente. La entradita que te dan es s\xFAper artesanal. Nos sentimos muy a gusto.\r\n\
+      Ser\xEDa bueno que agrandaran el espacio no-fumador."
+    date: 10-05-2006
+    user: http://mi.guiaoleo.com/members/8599
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Si bien el sitio es agradable y su carta tan bohemia como reza, los sabores no son muy logrados. \r\n\
+      La espera entre platos es importante. Destaco la buena panificaci\xF3n y la original degustaci\xF3n de la entrada."
+    date: 27-04-2006
+    user: http://mi.guiaoleo.com/members/6103
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Todo muy rico, pero demoran demasiado. Hasta para traer la cuenta tardaron mucho. El lugar es precioso, muy c\xF3modo y espacioso. Los pancitos de la entrada una delicia. El tinto de la casa es muy rico."
+    date: 22-03-2006
+    user: http://mi.guiaoleo.com/members/7173
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un lugar ideal para pasar un muy buen momento con amigos o en pareja.
+    date: 10-03-2006
+    user: http://mi.guiaoleo.com/members/7021
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fu\xED a trav\xE9s de los comentarios de la gente en Guia Oleo y nos sorprendi\xF3. \r\n\
+      Muy sabrosos todos los platos y originales. Se recomienda."
+    date: 12-02-2006
+    user: http://mi.guiaoleo.com/members/2204
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "De todo lo que comimos, era impresionante poder distinguir los sabores tan claramente. Muy buenas combinaciones. \xA1Riqu\xEDsimo todo! Muy buen servicio y el ambiente muy amplio, c\xF3modo y tranquilo. Obviamente, seguir\xE9 yendo."
+    date: 19-01-2006
+    user: http://mi.guiaoleo.com/members/4957
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Probamos el tapeo, los arroces y unas pastas. Todo estaba riqu\xEDsimo. El vino que nos recomendaron, tambi\xE9n. Muy creativos los postres. De diez."
+    date: 22-12-2005
+    user: http://mi.guiaoleo.com/members/3084
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es m\xE1gico, muy bien ambientado. El servicio es muy bueno y los platos son abundantes."
+    date: 15-12-2005
+    user: http://mi.guiaoleo.com/members/5338
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida es realmente incre\xEDble. \r\n\
+      Cada cosa que com\xED (y fui muchas veces) es muy originales y abundante.\r\n\
+      La panera casera con dip de la entrada es incre\xEDble. \r\n\
+      Postres tambi\xE9n muy buenos. \r\n\
+      El lugar es muy lindo, la atenci\xF3n depende de quien atienda, hay gente con muy buena onda y una moza terriblemente antip\xE1tica. La limonada es muy rica pero el caf\xE9 no se puede tomar. \r\n\
+      Realmente para recomendar, es uno de mis lugares preferidos."
+    date: 14-10-2005
+    user: http://mi.guiaoleo.com/members/4979
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelentes sabores y presentaci\xF3n, comida muy casrera , mucha calidad y calidez."
+    date: 14-07-2005
+    user: http://mi.guiaoleo.com/members/2629
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Pas\xF3 a ser uno de mis restaurantes preferidos. Excelente comida, muy buena atenci\xF3n, muy buena m\xFAsica, a un volumen perfecto."
+    date: 10-07-2005
+    user: http://mi.guiaoleo.com/members/3103
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Qued\xE9 sorprendida con la exquisita y original comida. Vale la pena. Para recomendar."
+    date: 02-04-2005
+    user: http://mi.guiaoleo.com/members/1338
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida deliciosa, el lugar grande pero bien ambientado.
+    date: 18-03-2005
+    user: http://mi.guiaoleo.com/members/3870
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buen estilo, pero a mi gusto deberian poner las luces mas tenues durante la noche. Excelente atencion y variedad de comida.
+    date: 31-10-2004
+    user: http://mi.guiaoleo.com/members/325
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un ambiente muy calido que invita tanto a compartir una charla entre amigos, en pareja o en familia. Es una amibiente totalmente amplio, tranquilo y que deja una sensaci\xF3n de serenidad, ayudado por su musica y sus aromas."
+    date: 08-07-2004
+    user: http://mi.guiaoleo.com/members/89
+    ambiente_rank: excelente

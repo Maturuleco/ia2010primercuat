@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pedimos tres entradas diferentes, gui\xE1ndonos por el men\xFA del d\xEDa, y no ten\xEDan ninguno de los platos. Despu\xE9s trajeron dos empanaditas...\xA1Para tres personas!. Yo, en lo particular, ped\xED ravioles de pollo con estofadito y vinieron ravioles de verdura con estafadito; la carne era ceb\xFA a\xF1ejo. En total gastamos 120 pesos que no los valieron bajo ning\xFAn punto. Saliendo del lugar me entero que una de las personas que vino conmigo hab\xEDa ido hace unos a\xF1os y tambi\xE9n sali\xF3 disconforme."
+    date: 09-11-2009
+    user: http://mi.guiaoleo.com/members/71824
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pedimos \xF1oquis a la bolognesa y pollo al verdeo, los dos platos estaban pasables nada de otro mundo, esperaba m\xE1s..., los precios son razonables."
+    date: 30-05-2009
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Pedimos brochette de pollo y lomo con papas rejilla y el pollo estaba crudo,a\xFAn despu\xE9s de haber tardado un tiempo bastante considerable.El ambiente con un marcado olor a comidas.Pero lo realmente destacable es que la atenci\xF3n de los mozos es muy buena y super profesional,algo que no se ve actualmente en muchos lugares.Qu\xE9 pena!"
+    date: 27-05-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Mala la calidad de la comida.el matambre al plomo era justamente un plomo,el asado de toro viejo y duro como piedra.Pero eso si a la hora de pagar te cobran como si fueran Rodisio.En fin no se claven es de cuarta.
+    date: 24-05-2009
+    user: http://mi.guiaoleo.com/members/23403
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "He ido muchas veces en dos a\xF1os. Decid\xED que nunca m\xE1s. La parrillada seca, algunos cortes de carne pasados con mal gusto. Lo \xFAnico que rescatamos fue el pollo."
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/52926
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida es muy buena y abundante, la brochette a punto y el bife de lomo lo mismo, la porcion de papas fritas es demasiado para uno y la ensalada muy abundante, el lugar muy tanquilo y los mozos muy atentos.
+    date: 31-08-2008
+    user: http://mi.guiaoleo.com/members/39392
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena parrilla, sobre todo las achuras que no es f\xE1cil conseguir un lugar donde sean confiables.M\xE1s all\xE1 de la comida, con la que qued\xE9 muy conforme, destaco la atenci\xF3n del mozo, siempre atento y bien dispuesto para cualquier requerimiento."
+    date: 30-08-2008
+    user: http://mi.guiaoleo.com/members/8815
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La parrilla es excelente, la carne es de primera calidad y la dedicaci\xF3n de los mosos es impecable. Con el cubierto, sirven unas empanadas criollas deliciosas que anticipan lo que viene a continuaci\xF3n. Fui 3 veces, dos de las cuales todo estuvo de primera y una no tanto por algunos detalles, pero el nivel general es muy bueno y pienso volver muchas veces."
+    date: 06-05-2008
+    user: http://mi.guiaoleo.com/members/31016
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Una muy mala parrilla, antes al menos la carne era decente, la \xFAltima vez que concurr\xED, el asado era muy malo, el vacio tambi\xE9n y a un comensal le trajeron el plato cuando ya habiamos terminado de comer. La ambientaci\xF3n tambi\xE9n es mala. Pedimos un vino de $50 y estaba tibio!!!. No vuelvo mas, por caballito hay mucho mejores parrillas y mas baratas.-"
+    date: 22-04-2008
+    user: http://mi.guiaoleo.com/members/36057
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gusta el lugar, es una parrilla de barrio donde se come muy bien siempre supervisado por el due\xF1o que es muy atento al igual que los mozos.El asado al asador es barbaro en realidad en su trabajo son muy buenos."
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/11825
+    ambiente_rank: muy bueno

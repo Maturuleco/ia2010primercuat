@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Por los comentarios parec\xEDa el mejor restaurant del centro por menos de $40, pero fue un fiasco. Las mesas sucias, precarias, la carne dur\xEDsima y las papas fritas llenas de aceite.El patio al aire libre no es m\xE1s que espacio libre del garage. El olor a fritanga de la ropa no se fue por un par de d\xEDas. Es barato, pero..."
+    date: 24-04-2009
+    user: http://mi.guiaoleo.com/members/40086
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Incre\xECble el pechito de cerdo, comido al aire libre y entre ladrillos antiguos, un hallazgo y todo gracias a la falta de carne vacuna, me anim\xE9 al cerdo. Muy buena atenci\xF3n, comes tranquilo y sin apuro en pleno centro, tendr\xEDan que abrir los fines de semana!!!!!!!!!!"
+    date: 04-04-2008
+    user: http://mi.guiaoleo.com/members/42943
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida, el servicio y el lugar es muy r\xFAstico pero con onda. El cajero muy amable y servicial. Un lujo. Muy recomendable."
+    date: 19-03-2008
+    user: http://mi.guiaoleo.com/members/42024
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente calidad y servicio. Recomendable para comer al aire libre.
+    date: 06-04-2007
+    user: http://mi.guiaoleo.com/members/21112
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Si bien la especialidad es la parrilla, las pastas tambi\xE9n son excelentes. Com\xED sorrentinos caseros con salsa cuatro quesos, y la porci\xF3n era exquisita y abundante. La atenci\xF3n me pareci\xF3 excelente, especialmente por su patio al aire libre, \xFAnico en la zona. Tambi\xE9n me gust\xF3 la decoraci\xF3n r\xFAstica del lugar y la candidez de la gente que atiende. "
+    date: 22-12-2006
+    user: http://mi.guiaoleo.com/members/15193
+    ambiente_rank: excelente

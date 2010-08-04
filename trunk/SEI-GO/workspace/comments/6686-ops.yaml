@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "el serivicio de delivery estubo bien, la milanesa parece que estuvo en freezer mas de 1 a\xF1o, las fritas con un ba\xF1o de aceite... malisima la comida. Chau"
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/7806
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Soy un eterno fan\xE1tico de las milanesas y supremas, y mi hambre no tiene l\xEDmites, as\xED que la Milanga deber\xEDa ser mi ed\xE9n. Pues no, nada m\xE1s lejos. Alguna vez puede ser aceptable, pero los disgustos son muy frecuentes: la demora en el delivery puede llegar a ser de 3 horas aunque te digan 40 minutos, la calidad no est\xE1 acorde con el precio (el tama\xF1o s\xED) y las guarniciones para las milanesas a compartir entre 5 no alcanzan ni para 2. La ultima vez batieron un record: en una Maryland estaban agrios la salsa de choclo, el morr\xF3n \xA1y la suprema! Un excelente ejemplo de c\xF3mo arruinar una muy buena idea por falta de cuidado al cliente y pensar s\xF3lo en el bolsillo."
+    date: 24-02-2010
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy buena la comida y sabrosa. un lugar para ir con amigos.
+    date: 08-10-2009
+    user: http://mi.guiaoleo.com/members/70030
+    ambiente_rank: bueno

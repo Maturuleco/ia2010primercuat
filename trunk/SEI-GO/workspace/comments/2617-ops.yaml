@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: Buenas tartas, mal ambiente.
+    date: 26-09-2007
+    user: http://mi.guiaoleo.com/members/27585
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es casera y del momento, los due\xF1os son muy gentiles pero el lugar deja que desear en cuanto a aspecto, mantenimiento, espacio y sobre todo limpieza. Ped\xED delivery varias veces, pero cuando me decidi a comer en el lugar me llev\xE9 una mala impresi\xF3n...no llam\xE9 m\xE1s."
+    date: 01-08-2007
+    user: http://mi.guiaoleo.com/members/23960
+    ambiente_rank: malo/regular

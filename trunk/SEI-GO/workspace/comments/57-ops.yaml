@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: el lugar no es lindo, se quedo con la decoracion, la comida es sencilla y buena, las fritas vinieron frias, no justifica el precio salvo que el kashrut se pague a precio de oro...
+    date: 07-05-2009
+    user: http://mi.guiaoleo.com/members/210
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La mejor parrilla kosher... es muy caro..osea, la carne casher es mas cara...pero las papas fritas, las bebidas, y las ensaladas??? "
+    date: 06-03-2008
+    user: http://mi.guiaoleo.com/members/36197
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      espetacular 10 puntos uno de lo mejor kosher del
+      mundo soy frances y yo se mucho de restaurant
+      kosher
+    date: 29-09-2007
+    user: http://mi.guiaoleo.com/members/33123
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Parrillada bien servida, carne en su punto y muy tierna. Ensalada con sus verduras bien limpias (lo que no ocurre en todos los restaurante). Hace mucho que no como una carne tan buena...El lugar sin muchas pretenciones, sencillo, del tipo barrial. El precio es estimativo ya que fu\xED invitada."
+    date: 05-05-2007
+    user: http://mi.guiaoleo.com/members/9726
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente parrilla kosher (y no es sencillo hacerla bien). La carne perfecta, la atenci\xF3n justa en un ambiente con mucho ruido."
+    date: 10-03-2006
+    user: http://mi.guiaoleo.com/members/5806
+    ambiente_rank: bueno

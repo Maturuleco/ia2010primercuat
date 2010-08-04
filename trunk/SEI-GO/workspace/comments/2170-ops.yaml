@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui por la tarde a merendar. El lugar chiquito, buena luz, ambiente tranquilo.\r\n\
+      Pido un tostado y un te. agarro el diario que estaba en e4l mostrador. La moza que me toma el pedido. Empieza a correr el tiempo, la moza hablaba con el encargado del local. Seguis corriendo el tiempo, ya habia llegado a la seccion deportes del diario. Seguia el tiempo.\r\n\
+      Media hora de espera, lo miro al encargado y me dice: \" \xBFy el tostado?\"\r\n\
+      Le respondo, el tostado no me lo traigas, ya espere bastante por el.\r\n\
+      Conclusion, despu\xE9s de 35 minutos de espera me retiro indignadisimo, malisima atencion, no recomendable"
+    date: 27-05-2010
+    user: http://mi.guiaoleo.com/members/82713
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comimos una Pizza a la piedra grande mitad Calabresa mitad provolone. Hay pocos lugares como este en Buenos Aires, donde a uno le den una pizza que tiene los ingredientes que tiene que tener, tirando a mayor abundancia. Muy bien servida, de gusto riquisimo y buena materia prima. Muy buen balance en relaci\xF3n al precio (que no es muy barato). El lugar es muy chico, pero la atenci\xF3n es muy buena. Ideal para delivery o para comer al mediod\xEDa temprano (si uno llega 13 en punto hay lugar). Las empanadas son para reocmendar tambi\xE9n."
+    date: 29-02-2008
+    user: http://mi.guiaoleo.com/members/24434
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "no dudo que la pizza es rica, ademas las referencias de este lugar son muy buenas y de hace a\xF1os. en mi caso no disfrute de una muy buena pizza, discreta y cara dado el gusto que pedimos (jamon crudo y rucula) estaba bien, pero en otros lugares mas, mucho mas economicos disfrute de ese sabor mucho mas. de todas formas es un lindo, informal y sencillo lugar para ir a comer una pizza en pareja o con pocos amigos, ya que es un sitio chico."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/36058
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui con amigos y la verdad que la pasamos b\xE1rbaro. El lugar es muy chico pero la atenci\xF3n que recibimos por parte del personal fue muy buena, as\xED como tambi\xE9n las pizzas. Si quieren una pizza de cuatro quesos con abundante roquefort, es el lugar adecuado. Muy bueno."
+    date: 10-04-2007
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tanto las pizzas como las empanadas son muy buenas, y la atenci\xF3n es impecable. El \xFAnico problema es que tiene pocas mesas, as\xED que se llena muy r\xE1pido, pero vale la pena esperar. "
+    date: 17-12-2006
+    user: http://mi.guiaoleo.com/members/11506
+    ambiente_rank: excelente

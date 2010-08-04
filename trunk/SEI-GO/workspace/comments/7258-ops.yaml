@@ -1,0 +1,92 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una opci\xF3n econ\xF3mica para el medio d\xEDa."
+    date: 07-06-2010
+    user: http://mi.guiaoleo.com/members/8
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar muy acogedor, decorado con toques muy personales ya que las fotos gigantes le dan personalidad y un estilo moderno que le hace honor al nombre. La comida estuvo muy bien: muy buen pat\xE9 casero para untar las tostadas de focaccia, rica entrada de mollejitas con hongos y generosa porci\xF3n de ojo de bife en su punto justo, bien presentado, acompa\xF1ado de cunas de papa. El buen servicio de Cristina tambi\xE9n contribuye a pasar una linda velada. Muy recomendable!"
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy agradable y decorado con buen gusto.La atenci\xF3n de Cristina fue muy eficiente. Respecto de la comida: rico el pat\xE9 y variedad de panes servidos en diferentes momentos de la cena. sabrosa la entrada de mollejas con champignons. De plato principal com\xED bondiola de cerdo. La carne era demasiado grasosa y el plato que se supone agridulce era empalagoso, ya que la carne no ten\xEDa sal ni otros aderezos que contrarrestaran el ba\xF1o de almibar y el sabor dulce de la guarnici\xF3n de batatas y peras. Sugiero agregar m\xE1s opciones de plato principal y mejorar la oferta de postres."
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar unico que representa muy bien su nombre. Las mesas, las sillas, los cuadros e incluso el televisor en una pantalla gigante forman un espacio ideal para una cena especial. La comida muy buena, a pesar que mi plato no era perfecto. La atenci\xF3n muy cuidada. Vale la pena"
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un tranquilo y muy bonito lugar con una comida muy desarrollada, a pesar que el cordero no era tierno.La atenci\xF3n excelente."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar para una comida \xEDntima y muy buena atenci\xF3n"
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/81630
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "excelente comida y atenci\xF3n.\r\n\
+      muy buen ambiente"
+    date: 05-05-2010
+    user: http://mi.guiaoleo.com/members/70868
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena cocina y agradable ambiente en un salon muy acogedor
+    date: 05-05-2010
+    user: http://mi.guiaoleo.com/members/54069
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Ambiente peque\xF1o,c\xE0lido y armonioso,muy buena atenci\xF2n,la comida realmente diferente, con buenos toques y sabores, pasamos una noche en familia como para repetir, recomendable"
+    date: 04-05-2010
+    user: http://mi.guiaoleo.com/members/81429
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar esta muy original desde los cuadros y la ambientacion retro pero moderna, el servicio fue muy cordial y sobre todo la comida estaba riquisima, raro encontrar pulpo a la espa\xF1ola en un resto de palermo, super recomendable."
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/81261
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente me brindaron una excelente atenci\xF3n y calidad de servicio, en un ambiente moderno en pleno Palermo Hollywood! Me pareci\xF3 ideal tanto como para disfrutar de un encuentro con amigos como de una cita rom\xE1ntica. Adem\xE1s una salida distinta, en un Hotel, siempre da gusto sentirse una especie de turista en la ciudad de uno. Los platos super sabrosos y abundantes lo cual cuenta y mucho! En pocas palabras, altamente recomendable a un precio muy conveniente!! Gracias!!!!"
+    date: 16-04-2010
+    user: http://mi.guiaoleo.com/members/80468
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Excelente atencion. Evento realizado en la terraza, muuuy agradable. Nos hizo sentir realmente comodos, sin notar el tiempo transcurrido. Luego el cafe en el salon de planta baja muy acogedor.Para volver, sin duda.
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/80253
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Precioso lugar, decorado con buen gusto, moderno y alegre con detalles antiques pero sin ser pretencioso. La comida de lo mejor. Precios razonables. Como no es grande se puede conversar y disfrutar con tranquilida. Para volver y recomendar!!
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/80316
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Espectacular! Cocina creativa y simple. Sabores increibles! Excelente atenci\xF3n!"
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/80622
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen estilo, se identifica con lanzamientos extra\xF1os; entremezclados con el buen comer y el exacto lugar para compartir un buen momento."
+    date: 22-02-2010
+    user: http://mi.guiaoleo.com/members/77233
+    ambiente_rank: excelente

@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar esta re bien ambientado, es peque\xF1o pero acogedor! El servicio es cordial y los platos abundantes y de excelente calidad!"
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/34975
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: lugar calido, pero demasiado chico, las mesas entan my cerca entre si, mucha demora, atencion correcta.
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/78574
+    ambiente_rank: malo/regular

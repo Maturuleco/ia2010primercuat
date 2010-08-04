@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente servicio y atenci\xF3n."
+    date: 10-04-2006
+    user: http://mi.guiaoleo.com/members/7649
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena la atenci\xF3n."
+    date: 21-12-2005
+    user: http://mi.guiaoleo.com/members/3435
+    ambiente_rank: excelente

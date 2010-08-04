@@ -1,0 +1,99 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Buena deco y muy rica la comida.
+      Para relajarse...
+    date: 04-03-2009
+    user: http://mi.guiaoleo.com/members/59549
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "el ambiente es excelente, es ideal para ir en pareja. La atenci\xF3n no podr\xEDa ser mejor, super atentos y cordiales. La comida riquisima, los postres son una delicia!\r\n\
+      \r\n\
+      BUENISIMO!"
+    date: 03-10-2008
+    user: http://mi.guiaoleo.com/members/52403
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es buena, pero nada de otro mundo. La pizza es mediocre, las papas fritas a los cuatro quesos tienen demasiado roquefort. La carne es m\xE1s que aceptable.\r\n\
+      \r\n\
+      Para ser un restaurante anexo a un gimnasio, muy bueno."
+    date: 19-05-2008
+    user: http://mi.guiaoleo.com/members/42197
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Decoraci\xF3n muy original y agradable, atenci\xF3n excelente, como para distenderse despu\xE9s del trabajo."
+    date: 06-02-2008
+    user: http://mi.guiaoleo.com/members/40406
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy lindo el lugar, es una muy buena opcion para los que tenemos tickets!!. excelente relacion precio/calidad. "
+    date: 10-10-2007
+    user: http://mi.guiaoleo.com/members/21631
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente ambiente, muy buena decoraci\xF3n. Lugar agradable para comer, buenas porciones, poca variedad en la carta, pero los platos que ofrecen son buenos. \r\n\
+      Ofrecen meriendas muy ricas y completas a precios muy accesibles! Es recomendable ya que en conclusi\xF3n, es un lindo lugar, con buena comida y con un precio econ\xF3mico."
+    date: 04-04-2007
+    user: http://mi.guiaoleo.com/members/22176
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen lugar, es muy recomendable. La comida es excelente y el ambiente es muy bueno. Para destacar el sector vip de arriba, donde se puede ir a comer, mientras nuestros hijos juegan, sin cargo, al play station. "
+    date: 06-12-2006
+    user: http://mi.guiaoleo.com/members/14224
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La carta de vinos es pobre en cantidad y calidad (no hay ning\xFAn vino de menos de veinte pesos). En la puerta del restaurante est\xE1 la propaganda de la tarjeta de cr\xE9dito, pero reci\xE9n te enter\xE1s que no trabajan con tarjetas cuando te traen la cuenta.  \xA1Una burla!. No lo recomiendo.  \xA1No voy m\xE1s!"
+    date: 10-11-2006
+    user: http://mi.guiaoleo.com/members/13221
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comimos bien y nos atendieron bien. El ambiente es lo m\xE1s destacado."
+    date: 31-10-2006
+    user: http://mi.guiaoleo.com/members/13089
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno, despu\xE9s de comer uno se puede quedar a tomar unos tragos y escuchar buena m\xFAsica. Lo recomiendo."
+    date: 09-10-2006
+    user: http://mi.guiaoleo.com/members/12734
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n."
+    date: 18-09-2006
+    user: http://mi.guiaoleo.com/members/12121
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar, ambientaci\xF3n, m\xFAsica y sobre todo la atenci\xF3n. \r\n\
+      La comida casera hace que sientas que com\xE9s en tu casa."
+    date: 11-09-2006
+    user: http://mi.guiaoleo.com/members/11924
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena onda y buen\xEDsima comida."
+    date: 11-09-2006
+    user: http://mi.guiaoleo.com/members/11921
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen ambiente, buena m\xFAsica."
+    date: 09-09-2006
+    user: http://mi.guiaoleo.com/members/11920
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es muy buena y las porciones son muy abundantes. La relaci\xF3n precio, calidad, cantidad es optima. El ambiente es muy bueno y el servicio excelente."
+    date: 08-09-2006
+    user: http://mi.guiaoleo.com/members/11854
+    ambiente_rank: muy bueno

@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La atenci\xF3n es mala. Es la primera vez que el due\xF1o te trata peor que los mozos, el ruido es insoportable, por lo menos la comida zafa (un poco). \r\n\
+      Se llena porque en once solo hay 2 pizzerias kosher. Horrible lugar, no lo recomiendo para nada!"
+    date: 01-07-2007
+    user: http://mi.guiaoleo.com/members/25709
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Buena pizza kosher, es el lugar donde mejor la hacen.
+      Buen sabor, parecida al estandar tradicional.
+      Sobresale la de fugazzeta con queso.
+      El servicio es muy simple.
+      El ambiente es sencillo, agradable, aunque sobresale el "ruido" de las conversaciones.
+    date: 18-07-2006
+    user: http://mi.guiaoleo.com/members/5806
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena las pizzas y tambi\xE9n las pastas. Recomiendo la fugazzeta."
+    date: 01-03-2006
+    user: http://mi.guiaoleo.com/members/7374
+    ambiente_rank: bueno

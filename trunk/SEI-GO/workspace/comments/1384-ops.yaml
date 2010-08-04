@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Las pastas son caseras, agradables pero nada extraordinario, las salsas bastante flojas, el ambiente fresco falta calefacci\xF3n y algo ruidoso por la proximidad de las mesas."
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Con respecto a la manteler\xEDa, no se encontraba en buenas condiciones, estaban sucios los manteles. El servicio del mozo fue regular, no soy partidaria que me sirvan la comida en el plato, no daba informaci\xF3n muy clara de vinos y tampoco de las salsas para acompa\xF1ar la lasagna. En lineas grales. el ambiente estaba un tanto descuidado."
+    date: 11-04-2009
+    user: http://mi.guiaoleo.com/members/60978
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: las mejores pastas lejos, se nota la dedicacion y la mano casera de todo, la atencion es buena, los platos muy abundantes y las salsas justas para cada especialidad de pasta, los mozos son muy atentos y la carta esta muy bien explicada como para no tener dudas a la hora de pedir. Me gusta, voy siempre, es un clasico del barrio, solo falta un poco de esmero en la decoracion, pero uno va a comer, no?
+    date: 22-08-2008
+    user: http://mi.guiaoleo.com/members/9996
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: pesima atencion , el lugar no estaba muy completo y luego de esperar 20 minutos para que nos traigan el menu me retire , jamas el mozo se hacerco  prebio habernos visto que nos hubicamos en 1na mesa de 4 personas , quiero aclarar que fue 1n domingo al mediodia a las 14 hs y no teniamos ningun apuro , simplemente que nos atiendieran
+    date: 13-07-2008
+    user: http://mi.guiaoleo.com/members/47450
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Caimos de casualidad, la comida era rica, pero hab\xEDa un solo mozo para todas las mesas"
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/48059
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena comida, todo casero y abundante.. recomendable..
+    date: 22-04-2008
+    user: http://mi.guiaoleo.com/members/14555
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Para nada ruidoso. Ambiente tranquilo, familiar, c\xE1lido. El mozo no escuchaba bien pero trajo lo que se le pidi\xF3. Muy rica pasta, se nota al saborear que son caseras de verdad. Las salsas son una bomba. Rico pan. sin quejas..para volver siempre. Adem\xE1s buen precio."
+    date: 20-04-2007
+    user: http://mi.guiaoleo.com/members/20559
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Ambiente ruidoso. Las pastas tardaron cuarenta minutos en llegar y llegaron fr\xEDas. Servicio lento, lent\xEDsimo."
+    date: 31-03-2007
+    user: http://mi.guiaoleo.com/members/6234
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 bien ambientado y la comida y servicio es acorde. Se puede decir que todo tiene coherencia. L\xE1stima que cuando llegas te sirven margarina con la panera , en vez de manteca! Es un detalle que dice mucho y te hace pensar q si abaratan costos en eso, \xBFqu\xE9 pod\xE9s esperar pa despu\xE9s?"
+    date: 05-03-2007
+    user: http://mi.guiaoleo.com/members/13599
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Las pastas excelentes, creo que algunos de los comentaristas fueron a otro lugar, porque result\xF3 ser abundante y muy ricos los sorrentinos. Por \xFAltimo les aconsejo probar la salsa alfer, algo simple pero muy sabrosa."
+    date: 11-01-2007
+    user: http://mi.guiaoleo.com/members/18232
+    ambiente_rank: bueno

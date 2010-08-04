@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Es a mi gusto un lugar ideal para hacer la previa, nada de comida elaborada.
+      Los mozos son muy coordiales, el ambiente es bueno, pero para ver la pantalla gigante hay que sentarse cerca porque de lejos no se ve. En cuanto a la comida lo mejor son las pizzas y los sandwiches de lomito.
+      En cuanto a los licuados son magistrales, como los que me hacia mi vieja cuando era chico.
+      Los precios son un tanto elevados, aunque los licuados valen la pena...
+    date: 17-04-2009
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una de las mejores pizzas a la piedra y uno de los salones mejor iluminados de la ciudad (excelente alternativa al tradicional e intimista Bar Tol\xF3n de enfrente). La atenci\xF3n es realmente extraordinaria. El mozo Andr\xE9s es un verdadero pingazo, uno de los mozos m\xE1s gentiles y profesionales de Buenos Aires, y sus compa\xF1eros Fernando y Orlando no desentonan en calidez humana y calidad de servicio. Un lugar donde prevalece la buena onda de su gente y la buena pizza. Ideal para reuniones de amigos o familiares. Lo recomiendo con may\xFAsculas."
+    date: 03-09-2008
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buen lugar para comer algo sin pretenciones. Los licuados son un poco azucarados. Es una cafeter\xEDa pizzer\xEDa que te saca del paso bastante bien."
+    date: 09-12-2007
+    user: http://mi.guiaoleo.com/members/36914
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un lugar como para salir del paso. Comida com\xFAn y corriente, con precios acordes."
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/20593
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La pizza es rica. Los precios un poco altos. Sobre todo en las bebidas.
+    date: 08-07-2007
+    user: http://mi.guiaoleo.com/members/7262
+    ambiente_rank: bueno

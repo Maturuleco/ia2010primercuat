@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No entiendo las criticas malas. Fuimos 4, yo comi un ojo de bife envuelto en panceta, delicioso y papas fritas a la provenzal riquisimas. Mis amigos comieron bife de chorizo ( gigantesco) y entra\xF1a. Todo perfecto y muy buena atencion. Importante es el 40 % de descuento de La Nacion. Con vino terminamos pagando 55 pesos por persona. Recomendable"
+    date: 30-06-2010
+    user: http://mi.guiaoleo.com/members/84608
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buen lugar para un almuerzo al paso. Tienen un menu ejecutivo respetable y la atencion es atenta.
+    date: 03-05-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Despues de leer las criticas estaba optimista que seria un buen lugar para despues del teatro. Que decepcion! Una palabra para describir la comida: horrible. Asi de simple. Desabrida, sin gusto y para nada interesante. La atencion es malisima, zero onda y tardan horas en atenderte. Lo unico que no esta malo es el ambiente, ya que tiene una onda medio bodegon con fotos viejas de la ciudad, pero se nota que eso es solo para atraer los turistas. Es verdad que no es caro, pero igual la relacion precio/calidad es malisima si se considera lo malo q es la comida. No recomendable para nada."
+    date: 23-04-2010
+    user: http://mi.guiaoleo.com/members/14032
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un muy buen lugar, con excelente ambientacion, el servicio de mesa es el adecuado, la comida muy rica. El precio es acorde al lugar, y ni hablar si usas el descuento del Club La Nacion. Lo unico para corregir, a mi gusto, es que las gaseosas te la sirven de dispenser (como los de Mc Donalds) y eso no me agrado. Despues, 100% recomendable.
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/11049
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lindo lugar con una decoraci\xF3n que nos transporta a los viejos almacenes de otras \xE9pccas. La comida es buena y la atenci\xF3n es eficiente y r\xE1pida. Es una buena opci\xF3n a la salida del teatro."
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Soy cliente del local y les cuento que posee WiFi y carta en Braile, un compa\xF1ero de trabajo es ciego y fu\xE9 una grata sorpresa. El viernes fui con un familiar y como siempre me sent\xED muy c\xF3modo."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78407
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Sin dudas el mejor de las opciones que tenemos a la hora de almorzar, por lo menos para la pandilla de nuestra ofi, por precio y calidad en el menu y la atencion es nuestro favorito, recomendable 110% tambien para celebrar los aniversarios no se olviden del mio jaja
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/78162
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es definitivamente precioso, hay una b\xFAsqueda de objetos de anta\xF1o maravillosa. Los mozos son atentos y tanto la comida, sobre todo la carne es de primera. Excelente la carta de vinos, muy recomendable, fuimos con mi mujer luego de ver la obra Art y volveremos. Saludos"
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/78008
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente el servicio y la comida. Habia un m\xFAsico tocando tango en vivo, muy bueno."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/56056
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "El ambiente sin duda es muy lindo. El servicio bueno. Pero la comida regular. La sopa del d\xEDa muy acuosa. Los bifes de lomo a la pimienta y con champi\xF1ones sin sabor. Los champi\xF1ones de lata. Lo mejor el cordero que gust\xF3 a los ni\xF1os. No volveremos. Hay descuento Club de la Naci\xF3n."
+    date: 24-02-2010
+    user: http://mi.guiaoleo.com/members/69429
+    ambiente_rank: muy bueno

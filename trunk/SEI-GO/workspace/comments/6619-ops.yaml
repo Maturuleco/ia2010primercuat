@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Me han hablado maravillas de este lugar, sin embargo la propuesta no parecio de otro mundo. sandwiches regulares en pan regular.
+    date: 22-06-2010
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Me encantaron los sandwichs, los ingredientes son de calidad, propuesta interesante.
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Subway esta en uade funcionando hace tiempo y funciona mejor ahi, pero esta es una buena opcion que no lleva mucho tiempo. Lo que si, en otros lados del mundo los s\xE1ndwiches llevan mas relleno que en Argentina, quiza algo para corregir."
+    date: 28-09-2009
+    user: http://mi.guiaoleo.com/members/69544
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "No se pierden de nada si no pasan a comer por aqu\xED.Pan con sabor a nada y a poco...\r\n\
+      Solo es una opci\xF3n r\xE1pida con menos espera que la competencia."
+    date: 17-09-2009
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular

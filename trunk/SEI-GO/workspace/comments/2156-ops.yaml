@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida lleg\xF3 completamente fr\xEDa despu\xE9s de 50 minutos de espera. La intenci\xF3n de la camanrera era buena pero estaba sobreocupada."
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/30752
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Unos compa\xF1eros han pedido ah\xED en varias oportunidades y la presentaci\xF3n de la comida no es agradable. Las pastas imposibles de comer. Las fritas aceitosas. T\xEDpico lugar descuidado de Bs As, con los platos de siempre y sin cuidado en la preparaci\xF3n."
+    date: 04-06-2008
+    user: http://mi.guiaoleo.com/members/31781
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es un pub, de comida mediterranea s\xF3lo tiene las pizzas. La carta es pobre. \r\n\
+      Las pizzas son ricas pero peque\xF1as. La m\xFAsica demasiado alta. El servicio de mesa lento y deficiente. \r\n\
+      Los precios son baratos pero no es un lugar que elegir\xEDa para deleitarme con buena cocina."
+    date: 03-11-2007
+    user: http://mi.guiaoleo.com/members/23597
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar y ubicacion. \r\n\
+      Ambiente calido y amigable! "
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/24594
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Llegamos por casualidad, y nos encontramos con un lugar muy ameno para comer. La comida estuvo muy bien, muy rica y la atenci\xF3n no fue excelente pero s\xED, muy precisa. Recomendable. "
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/23377
+    ambiente_rank: bueno

@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me sorprende la calificaci\xF3n tan baja porque la verdad es que las opciones de men\xFA de mediod\xEDa no estaban nada mal: com\xED una milanesita con pur\xE9 rica y econ\xF3mica"
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Imprsentable. El barman de terror. Los tragos son de Bailanta. Lo unico bueno, las mujeres que hab\xECa"
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/61929
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Muy agradable Pub Irland\xE9s para tomar unas cervezas con amigos, afteroffice.  Un poco lento el servicio y muy dificil conseguir lugar."
+    date: 23-04-2009
+    user: http://mi.guiaoleo.com/members/60982
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un verdadero desastre. La cerveza con un sabor que parec\xEDa del a\xF1o 20 servida al d\xEDa de hoy en vasos sin lavar desde esa misma \xE9poca. La atenci\xF3n decadente tambi\xE9n. Eramos un grupo grande, nos tuvimos que ubicar como pudimos y despu\xE9s alguien del lugar nos sac\xF3 varias sillas diciendo que pertenec\xEDan a otra \"zona\" y varios se tuvieron que quedar de pie, sin ofrecernos ninguna soluci\xF3n. TODOS en la barra atendiendote como si te estuvieran haciendo un favor. Las papas fritas, eran papas...NO fritas...directamente de la huerta cortadas al plato."
+    date: 08-03-2009
+    user: http://mi.guiaoleo.com/members/59464
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Es un boliche para ir a tomar tragos y bolichear. No da para "cenar". es para ir y tomar algo y bailar cuando pinta.
+    date: 04-01-2008
+    user: http://mi.guiaoleo.com/members/38244
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es muy oscuro para el d\xEDa, la atenci\xF3n es mediocre, la comida es regular. "
+    date: 25-06-2007
+    user: http://mi.guiaoleo.com/members/14799
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "De terror. Fui a tomar algo, ped\xED una cerveza Antares, que siempre tomo en otros lugares, y el vaso estaba mal lavado o la cerveza estaba en mal estado. Se negaron a cambi\xE1rmela por la misma u otra. Para colmo, me exigieron que la pague, bast\xF3 un trago para darme cuenta que algo estaba mal. Tuve que discutir veinte minutos para que me dejaran ir. Por favor, no vayan. El servicio al cliente son palabras que \xE9sta gente no conoce. "
+    date: 31-01-2007
+    user: http://mi.guiaoleo.com/members/17361
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy decepcionado. Fu\xED, porque desde afuera llama la atenci\xF3n y parec\xEDa ser bueno. La atenci\xF3n es mediocre; podr\xEDa decirse que es buena, pero por momentos la mesera desaparec\xEDa y volv\xEDa a los quince minutos. No me gusta perder ese tiempo pendiente de que aparezca alguien. Me gusta levantar la mirada y ver a mi mesero. La comida est\xE1 bastante bien, pero muy mal el management: hab\xEDa un men\xFA ejecutivo por veinticinco pesos (aclaremos que no es barato un ejecutivo a este precio en la city) y cuando ped\xED la entrada, me dijeron que no hab\xEDa ninguna entrada de las que aparec\xEDan en el men\xFA, acotando: \"Pero el precio lo dejaron igual\". El entrecotte no era m\xE1s que un churrasco, la carne era de muy mala calidad. Una decepci\xF3n el lugar, lo \xFAnico que zafa es el ambiente. "
+    date: 05-12-2006
+    user: http://mi.guiaoleo.com/members/14115
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 muy bueno."
+    date: 18-08-2006
+    user: http://mi.guiaoleo.com/members/11965
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La atenci\xF3n muy mala, y los tragos feos. El lugar es lo unico que zafa."
+    date: 15-07-2006
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno

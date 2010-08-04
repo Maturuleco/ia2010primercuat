@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: la mejor pizeria de buenos aires, toda mercaderia de primera calidad
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/79439
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: la pizza de palmitos mala ,la de jamon pasable y la napolitana sin gusto .las empanadas pasables . todo muy caro para la calidad que tiene.
+    date: 13-11-2009
+    user: http://mi.guiaoleo.com/members/71722
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "No comimos en el restaurante. Tentados por la guia, decidimos ir para comprar empanadas para degustar en casa. Son riquisimas, super recomendadables. Asi como las empanadas fritas  santiag\xFCe\xF1as de \"Martita\" son lo maximo; en empanadas al horno; estas son las mas ricas que he probado. Son jugosas y muy gustosas. El ambiente, del lugar: practicamente no existe; y se come parado. Volveremos para probar las pizzas, que seguramente seran de la misma calidad de las empanadas"
+    date: 03-07-2008
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelentes empanadas sobre todo las de carne y la gallega. la fugazzeta es riquisima. Muy bueno para tenerlo en cuenta como delivery.
+    date: 06-04-2008
+    user: http://mi.guiaoleo.com/members/42995
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hay mejores Pizzerias, pero si viv\xEDs por el barrio: Fugazzeta rellena insuperable, Napolitana muy buena, buena fain\xE1. Servicio en la barra (no hay mesas) y delivery r\xE1pido y correcto."
+    date: 02-04-2008
+    user: http://mi.guiaoleo.com/members/43016
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Terrible. En realidad, Pizza con pollo, mayonaise y ketchup. Blurgh.
+    date: 21-11-2007
+    user: http://mi.guiaoleo.com/members/35888
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pedimos delivery. \r\n\
+      La fugazzetta rellena es muy recomendable. De esas tipicas de Buenos Aires que se encuentran en aquellas pizzerias de anta\xF1o."
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/7262
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: flojo, me la habian recomendado y me lleve una gran decepcion la pizza no dice nada la muzarella no tiene gusto y las empanadas son discretas.
+    date: 22-05-2007
+    user: http://mi.guiaoleo.com/members/20595
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Buenis\xEDmas las pizzas, muy rica la masa y la calidad de los ingrendientes.\r\n\
+      Precios acordes, deliverys dentro de los tiempos esperados.\r\n\
+      Lo unico, traigan las pizzas cortadas!"
+    date: 05-05-2007
+    user: http://mi.guiaoleo.com/members/12323
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Las mejores empanadas de la ciudad.
+    date: 25-02-2007
+    user: http://mi.guiaoleo.com/members/18070
+    ambiente_rank: muy bueno

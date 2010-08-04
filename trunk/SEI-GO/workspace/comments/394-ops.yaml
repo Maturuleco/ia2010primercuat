@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Verdadero sushi japones, viajo mucho por negocios a japon y otros paises, conozco los distintos tipos de sushi.
+      Aqui el estilo es bien tradicional estilo japones de los pocos que hay aqui.
+      Todo muy sabroso y acorde.
+      Muy recomendable
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/78372
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida es aceptable, pero hay demasiadas contras: las piezas de sushi son \xEDnfimas, tardan a\xF1os en traer la comida (cualquiera sea), la variedad de platos es escasa y cuando fui no hab\xEDa bebida cola com\xFAn (s\xF3lo light) y la \xFAnica cerveza era Quilmes. No recomendable."
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/42197
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un reducto escondido de verdadera cocina japonesa. Carta variada, con alternativas interesantes, m\xE1s all\xE1 del sushi. Productos muy frescos y elaboraci\xF3n esmerada on demand. Muy buen sashimi, maki y niguiri. Una alternativa muy recomendable, al nivel de los mejores de Buenos Aires. Atenci\xF3n personalizada y atenta; el sushiman haciendo sus artes en la barra. Ambiente correcto, sin lujos. M\xE1s que c\xF3modo si uno busca intimidad, ya que lo visitamos un s\xE1bado por la noche y \xE9ramos los \xFAnicos comensales. Relaci\xF3n precio/calidad acorde a este tipo de oferta gastron\xF3mica."
+    date: 30-05-2009
+    user: http://mi.guiaoleo.com/members/34206
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La mejor variedad y frescura en pescados. Mucha demora en la preparaci\xF3n del sushi, lo que indica que todo se prepara en el momento. Vayan con paciencia."
+    date: 01-04-2009
+    user: http://mi.guiaoleo.com/members/60587
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy rico.Lo recomiendo.
+    date: 12-02-2009
+    user: http://mi.guiaoleo.com/members/58402
+    ambiente_rank: excelente

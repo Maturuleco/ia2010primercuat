@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Los precios solo son aceptables con el descuento de algunas tarjetas, el lugar ofrece una atencion rapida y una comida razonablemente buena.
+    date: 09-06-2010
+    user: http://mi.guiaoleo.com/members/23110
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ofrece descuentos as\xED que los precios est\xE1n algo inflados, pero es una de las pocas opciones tipo restaurant en el Patio. Los woks son ricos, la trucha con guarnici\xF3n el best value. El sal\xF3n es lo mejorcito del patio, pod\xE9s charlar tranquilo."
+    date: 23-05-2010
+    user: http://mi.guiaoleo.com/members/7407
+    ambiente_rank: bueno

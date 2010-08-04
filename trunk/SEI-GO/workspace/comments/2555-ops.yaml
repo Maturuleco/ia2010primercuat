@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Las mesas en el local est\xE1n muy juntas y son pocas. Yo ped\xED un par de veces ensaladas para llevar, el precio correcto pero siempre me toca alguna misteriosa \"cosita dura\" en la ensalada. Igualmente las ensaldas son super abundantes, ricas y frescas. Si ped\xEDs para llevar, conviene ir a comprar al local porque el delivery es lento."
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/46001
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Ped\xED una promoci\xF3n de tarta con guarnici\xF3n. La tarta no tenia gusto, la ensalada debo decir que estaba muy rica y armada a mi gusto.\r\n\
+      La atenci\xF3n es buena, el lugar es muy lindo pero chico, incomodo para moverse."
+    date: 07-11-2008
+    user: http://mi.guiaoleo.com/members/52984
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El ambiente es muy inc\xF3modo. Las mesas est\xE1n demasiado cerca unas de las otras. Com\xED uno de los platos del d\xEDa que era fideos saltados con verduras. El cocinero no ten\xEDa la menor idea del plato: lo que me trajeron fue fideos con tres verduritas agregadas arriba: estaba realmente incomible. Ni siquiera result\xF3 barato. Por ese dinero se come un buen men\xFA de mediod\xEDa en muchos lugares. No lo recomiendo. "
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: malo/regular

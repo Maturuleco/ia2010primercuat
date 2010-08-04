@@ -1,0 +1,37 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9simo!! Tostado con puro pan, casi sin queso, y medialunas a\xF1ejas.\r\n\
+      La atenci\xF3n podr\xEDa ser mejor.\r\n\
+      No vuelvo!"
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/28008
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es un desastre la atencion!! El mozo con buena itencion pero uno solo para todo el local.\r\n\
+      Las papas fritas llegaron cunado mi hijo termino de comer la milanesa, mi se\xF1ora recibio su plato cuando todos terminamos. Es un lastima!!"
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/75569
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: tomando precio calidad esta muy bueno,el hambiente exselente,i siempre con buenas promociones,volvere!!!
+    date: 24-01-2010
+    user: http://mi.guiaoleo.com/members/70626
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Malisimo!
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/73887
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Todas las veces comi algo de la  parrilla ; me  parece que al responsable( parrillero), le falta \" un toque\" para acreditarse como tal.\r\n\
+      No la pega en el punto, a veces como \"marcada\" y seca,\xF3 a veces , excesivamente jugosa...\r\n\
+      Las chicas, muy buenas y  serviciales.\r\n\
+      Esperar\xE9 un tiempo antes de volver ( si por ahi cambian de parrillero / proveedor de carnes )"
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/74603
+    ambiente_rank: bueno

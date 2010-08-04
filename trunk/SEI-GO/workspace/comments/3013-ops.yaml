@@ -1,0 +1,28 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Carisimo!!!!!!!!!! la comida es mala, sabor a plastico!
+    date: 19-10-2009
+    user: http://mi.guiaoleo.com/members/4274
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "tipico se shopping. la atencion esta bien. es amable y rapida (x suerte, ya q uno espera ser atendido fugazmente p/ no esperar). eso si: es caro y no amerita la experiencia. en el patio d comidas hay muchas otras opciones mas/menos caras que valen muchisimo mas la pena. el salteado que comimos estaba pasado y recocido. todo lo demas no parecia fresco o recien hecho (unas mini mini croquetitas de pollo y 3 piezas de sushi parte de un menu) como deberia ser la comida japonesa. una pena. no reincido. no recomiendo."
+    date: 26-05-2009
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Es excesivamente caro. 
+      Por la calidad de los rollos, vaya al barrio chino: consigue lo mismo por menos de la mitad.
+    date: 29-09-2007
+    user: http://mi.guiaoleo.com/members/32543
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "No es destacable. \r\n\
+      Pero esto no se debe mas que al hecho de estar en un shopping. Cumple bien su funci\xF3n si uno quiere comer sushi, no mucho m\xE1s."
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/15499
+    ambiente_rank: malo/regular

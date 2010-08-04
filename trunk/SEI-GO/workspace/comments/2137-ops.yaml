@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Pedimos dos Parrilladas. Una de Vegetales que estaba muy bien, pero la de carnes era bastante mala, todos los cortes sobrepasados de cocci\xF3n, carne dura, llena de grasa, y de mala calidad. Encima tardaron una hora en traer la comida. El lugar adem\xE1s est\xE1 bastante descuidado y la atenci\xF3n es mala.  Una pena que en un lugar tan bien ubicado no puedan ofrecer una propuesta  mejor."
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/2647
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es buena y el ambiente tranquilo y agradable. La atenci\xF3n, no pasa de normal y algo desatenta."
+    date: 05-04-2008
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Te cobran una fortuna por servicio de mesa; el vino estaba picado, pedimos la comida y la entrada tard\xF3 veinte minutos y los platos principales (que por su tama\xF1o parec\xEDan entradas) cerca de una hora y no estuvieron del todo bueno. \r\n\
+      Mediocres para ser el tiempo que esperamos."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/34740
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena la parrillada para dos personas, con abundancia de mollejas.
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/23697
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Soy habitue de Pat\xE9, sin duda lo mejor de la zona del boulevard de Palermo, porciones abundantes. Las mollejas al verdeo son excelentes. \r\n\
+      El ambiente es hermoso, aunque cabe mencionar que no hacen las refracciones necesarias, con lo cual no es muy agradable a la vista en ciertos detalles."
+    date: 03-06-2007
+    user: http://mi.guiaoleo.com/members/24140
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Aceptable. Sin cosas para destacar. "
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/17053
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy lindo, c\xF3modo y tranquilo para charlar con amigos. La comida es buena. El precio es accesible y el servicio es bueno. Recomendable. "
+    date: 01-06-2007
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena calidad de la carne y las verduras grilladas. Servicio amable y discreto en un ambiente agradable. Todo correcto y como para volver a probar otras opciones.
+    date: 05-04-2007
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Las porciones son muy peque\xF1as.\r\n\
+      Pedimos sorrentinos y nos trajeron cuatro de y peque\xF1os."
+    date: 01-09-2006
+    user: http://mi.guiaoleo.com/members/13079
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Todo correcto, el ambiente es tranquilo y agradable, la atenci\xF3n es cordial y respetuosa (el mozo s\xF3lo aparece cuando se lo llama, como debe ser). \r\n\
+      Buena cocina. Nada del otro mundo en general, pero de todos modos recomendable."
+    date: 31-05-2006
+    user: http://mi.guiaoleo.com/members/3388
+    ambiente_rank: muy bueno

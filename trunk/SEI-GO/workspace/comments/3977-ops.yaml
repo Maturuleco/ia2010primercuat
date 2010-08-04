@@ -1,0 +1,130 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos porque vinos que armaron una degustacion de pasos con 5 vinos diferentes. Fue un momento extraordinario. Buena comida con buenos vinos en un ambiente calido y gente muy amena. Que rico el solomillo con el syrah !, gran combinacion.
+    date: 06-05-2010
+    user: http://mi.guiaoleo.com/members/81726
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un lugar para descubrir, nos encanto el ambiente y la onda de la gente. La comida fue muy buena, una bondiola de cerdo que era lo mas tierno que probe en mi vida y de postre nos comimos una mousse de chocolate y manteca de mani que era increible. Que buen momento pasamos. Volveremos sin lugar a dudas
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/80588
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Hemos ido a varios lugares como estos "puertas cerradas" pero la verdad que este nos parecio el mejor. Tiene esa ambiguedad de estar en la "casa" de alguien pero con un servicio muy cuidado y una calidad de comida unica. Es divino el lugar. Valio la pena.
+    date: 26-03-2010
+    user: http://mi.guiaoleo.com/members/79407
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Este lugar es encantador! Que bueno el menu de pasos, nos toco un carre de cordero marinado en un curry casero que estaba impresionante. Y tambien comimos una original torta de chocolate con chiles. Muy buenas las opciones en vinos, tenian de todo. El camarero fue muy atento y el chef nos recibio de maravillas. Nos encanto la propuesta.
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/78768
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Llegamos ahi por los comentarios que vimos del lugar. Es una joya afuera de los tipicos circuitos gastronomicos. Vale la pena cambiar un poco. Fuimos sin saber lo que ibamos a comer y salimos fascinados por los sabores y la presentacion de los platos. Nos encanto el quincho con parrilla que tienen atras! muy bueno para hacer asados con amigos.
+    date: 18-03-2010
+    user: http://mi.guiaoleo.com/members/78610
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Que lindo momento nos hicieron pasar los chicos de este lugar! pasamos un aniversario perfecto ! el mero con papas y mascarpone era impecable, muy originales los pancakes de coco y los vinos que nos recomendaron cerraron una velada para el recuerdo.Nos encanto poder comer el postre en patio, es precioso!. La atencion fue muy correcta y calida.
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78532
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos a pesar de algunas criticas no muy felices que vimos. Sinceramente o fuimos a otro lugar o han cambiado radicalmente. La comida es de lo mejor que probamos en Buenos Aires y el ambiente es super calido, tanto como su cocinero y camareros. Gran lugar.
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78438
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Que linda experiencia !!, buena comida, lindo lugar y excelente musica !! muy buena seleccion de soul y jazz. El risotto que que comi era increiiiible y ni hablar del souffle de dulce de leche que me dejo sin palabras.
+      Super recomendable
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/77708
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Un lugar totalmente diferente, buena comida, buen ambiente, gente muy atenta para atender. Me encantan los menues de pasos, toda una experiencia!
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/76387
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Una experiencia buenisima. Eramos 2 parejas y todos quedamos conformes. El punto del salmon, excelente y el postre fue lo mejor de todo. Muy buena atencion y nos encanto que el chef nos explique cada paso.
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/76151
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fuera de lo comun !! somos de Espana y nos los habia recomendado un amigo argentino. La verdad que fue todo una gran sopresa.Muy bueno, cuando estemos por Buenos aires de nuevo, volveremos.
+    date: 09-01-2010
+    user: http://mi.guiaoleo.com/members/75106
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Me defraudo , lo primero fue el clima bastante apagado.Nos recibio el mozo con unos panes y aceite de oliva hasta hora bien, luego siguio con la ensalada donde prevalecia el sabor al queso , el vino bien para este plato,  continuamos con los medallones de lomo que primero se hab\xEDan pasado y en el cual prevalecia el salado horrible y por ultimo pensaba un final feliz pero era una tarta cortada en tri\xE1ngulo con una bocha de helado.No vale el precio de lo que pagamos."
+    date: 22-12-2009
+    user: http://mi.guiaoleo.com/members/74319
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lugar muy intimo. Lindo y distinto
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/49531
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "la comida es excelente, sin palabras; las porciones, si bien no son grandes, al ser 3 pasos uno queda m\xE1s que satisfecho, de hecho tuve que hacer un esfuerzo para comer el tentador postre. El servicio es muy personalizado y se ocupan de que uno est\xE9 a gusto y disfrute de cada paso. El ambiente es muy prolijo, pero bastante sencillo, no es acorde al nivel de la comida."
+    date: 22-08-2009
+    user: http://mi.guiaoleo.com/members/36627
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida excelente, mor\xED con el soufle de puerros\r\n\
+      Para repetir"
+    date: 30-05-2009
+    user: http://mi.guiaoleo.com/members/63156
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Mucho menos de lo que esperaba. La ambientacion es pobre y poco cuidada, de alguna manera presagia lo que sucedera despues. La comida es a lo sumo regular y si tenemos en cuenta el rango de precios y la modalidad ea directamente mala. Los platos. sin imaginacion y mal confeccionados, hasta tuvimos que mandar a calentar el plato principal. Eramon 6 a nadie le gusto, Obviamente no volvere.
+    date: 17-05-2009
+    user: http://mi.guiaoleo.com/members/61380
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |
+      Una gran desilucion.
+      La comida muy floja,
+      La sopa de cebollas sin gusto, los ravioles servidos estaban salados,crudos y frios. El postre con peras sin madurar
+      Todo presentando sin esmero ni imaginacion.
+      El ambiente no condice con el sitio web. El lugar es triste y sin ninguna propuesta.
+
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/62441
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: el precio total fue 150 incluyendo una degustacion de espumantes que variaba con cada plato. Excelente!
+    date: 07-05-2009
+    user: http://mi.guiaoleo.com/members/62353
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Me encanto el lugar !! un casa barrio de afuera y adentro la sorpresa de un lugar divino !! la comida acompano totalmente la velada. Volveria
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/60817
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida me encanto, fue mas de lo que me esperaba. Platos simples pero con gustos fuera de serie. Altamente recomendable. Es una esxperiencia distinta. Me gusta la idea del menu de pasos, para nosotros funciono. Volveremos
+    date: 20-03-2009
+    user: http://mi.guiaoleo.com/members/60193
+    ambiente_rank: bueno

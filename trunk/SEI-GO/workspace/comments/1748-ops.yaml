@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Soy del B\xB0 y voy sabado por medio a almorzar; el ambiente y el servicio en a planta alta son excelentes y las comidas son muy razonables para un lugar que no debe tener como aspiracion ser el mas reconocido de CABA."
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/19189
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "el ambiente y el servicio son exelentes pero deja mucho que decear la atencion del encargado para con los mozos y el personal de la empresa si quieren triunfar deberian cambiar a esta persona ya que no es para un lugar de este prestigio su nombre es javier gonzalez y desde ya espero que lo tengan en cuenta este humide comentario lo digo como profecional y due\xF1o de negocio"
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/81629
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente Brochett mixta. Muy sabrosa la comida y a un buen precio. los mozos son muy copados. El ambiente es ideal para ir con amigos y pasarla bien. Los ba\xF1os no son LA LIMPIEZA pero safan...\r\n\
+      Es un lindo lugar. Recomiendo tambi\xE9n que prueben la milanesa parisienne... es muy buena!"
+    date: 07-02-2010
+    user: http://mi.guiaoleo.com/members/75399
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Es increible la milanesa parisien! la como siempre. El resto de los platos normales, pero este, super recomendable.
+    date: 02-03-2009
+    user: http://mi.guiaoleo.com/members/59651
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lamentable la atencion y el cuidado que le ponen al lugar. Los ba\xF1os destartalados por falta de mantenimiento y la atencion deja mucho mucho mucho que desear. \r\n\
+      Lo peor de mi experiencia fue que pedimos un bife de chorizo que en la carta figuraba q venia con una porcion de fritas que pedimos si se podia cambiar a una ensalada, lo hicieron pero para nuestra sorpresa a la hora de pagar nos cobraron la ensalada aparte y el plato nos termino saliendo 10 pesos mas! Inaudito. Encima insistian en que fue un error en la carta y no quisieron devolvernos el dinero. Lo peor, esto se hubiera evitado si la mesera me hubiese oido cuando le dije podemos CAMBIAR las papas por ensalada?\r\n\
+      Porque viene con papas... no? NO!!!"
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/8978
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Comi unos ravioles que parecian comprados en un supercado barato. El panqueque de manzana al rhum muy quemado y no muy bueno. El lugar es lindo. En la carta (no me acuerdo si en el vino o en otra cosa) me cobraron 2 o 3 pesos m\xE1s de lo que dec\xEDa la carta, lo deje pasar porque no era mucho pero quien sabe si fue a prop\xF3sito o no???"
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/47190
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es variada y toda de aceptable para arriba. Es un lugar sencillo para ir cualquier d\xEDa que no tengas ganas de cocinar, quieras comer bien por poca plata y siendo bien atendido. Adem\xE1s de pizza se puede comer minutas, parrilla o pastas que est\xE1n a la altura del tipo de restaurante que es (nada extraordinario). Los mozos, especialmente Gustavo son amables y cuidan al cliente habitual. Muy buena relaci\xF3n precio calidad para una zona con mucha y variada oferta. Todo muy limpito."
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/33502
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No se respeta el \xE1rea de no fumadores. El delivery funciona muy mal, te traen la pizza que se les ocurre (3 veces me pas\xF3 lo mismo) "
+    date: 21-08-2007
+    user: http://mi.guiaoleo.com/members/30135
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Atenci\xF3n correcta, el lugar cumple y la comida tambien. Recomendados los chivitos."
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19020
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es demasiada rica para no querer probarla, se la recomiendo. \r\n\
+      La limpieza es b\xE1rbara y la atenci\xF3n muy muy buena.\r\n\
+      El sal\xF3n de arriba es excelente con su vista panor\xE1mica."
+    date: 04-08-2006
+    user: http://mi.guiaoleo.com/members/10865
+    ambiente_rank: muy bueno

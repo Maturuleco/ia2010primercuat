@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La pizza es de otro mundo. Un fen\xF3meno Aldo."
+    date: 05-06-2009
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      la verdad ante tantos votos `positivos y dado que me encontraba por la zona decidi probar la pizza  en este caso fue una mitad nap con jamon y mitad jamon y morrones  
+      la cosa es que no me gusto para nada es una pizza
+      que no tiene nada de especial hay muchas mejores
+      esta seria una para salir del paso  nada mas  no la recomendaria
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La mejor pizza de la zona. Altamente recomendable.
+    date: 09-11-2007
+    user: http://mi.guiaoleo.com/members/35278
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Soy del barrio y hace un tiempo que vengo comprando pizza ahi. La verdad una de las mejores de la zona. Muy recomendable!
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/12897
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La pizza y la torta de ricota es muy buena. Es para recomendar.
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/22617
+    ambiente_rank: excelente

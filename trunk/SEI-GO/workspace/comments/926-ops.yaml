@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos a tomar pisco souer, que estaba correcto.  Me sorprendi\xF3 el  estado de deprolijidad y dejadez en que se encontraba el bar, que suele ser muy pintoresco y agradable, como la poca disposici\xF3n y desgano del personal que nos atendi\xF3."
+    date: 28-07-2009
+    user: http://mi.guiaoleo.com/members/30951
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy agradable y especialmente los Domingos por la noche que hay musica en vivo. JAZZ y es gratis. Es uno de los poquisimos lugares con musica buena y es el \xFAnico lugar que no cobra derecho de espectaculo ni entrada. La pasamos genial!!\r\n\
+      vamos todos los domingos. est\xE1 buen\xEDsimo"
+    date: 12-07-2009
+    user: http://mi.guiaoleo.com/members/65528
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "muy lindo lugar, con ambiente sencillo y agradable, muy linda decoraci\xF3n, buena atenci\xF3n y buena comida. lo \xFAnico que critico son los precios, pero por la zona, no sorprenden. de todos modos, es una buena opci\xF3n, pienso volver."
+    date: 26-06-2009
+    user: http://mi.guiaoleo.com/members/3167
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Increible el mal servicio y calidad de la comida. pedimos panqueques y los entregaron frios y demoraron una enternidad. no vuelvo nunca mas en mi vida!!!!!
+    date: 28-10-2008
+    user: http://mi.guiaoleo.com/members/50497
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Demoraron 15 minutos para tomar el pedido. Trajeron la bebida. Luego de esperar 30 minutos m\xE0s por los panqueques, me dirig\xEC al encargado para reclamarlos, el cual me contest\xF2 que hab\xECa mucha gente y que la cocina era muy chica. Incre\xECblemente los panqueques ya estaban listos sobre el mostrador a escasos 80 cm. del encargado. Obviamente nos los sirvieron fr\xECos. Y para ese entonces la bebida se encontraba tibia. No vuelvo."
+    date: 22-03-2008
+    user: http://mi.guiaoleo.com/members/42263
+    ambiente_rank: bueno

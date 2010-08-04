@@ -1,0 +1,126 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me encant\xF3 el ambiente franc\xE9s del lugar, la buena onda de las chicas que atienden y la posiblidad de explorar todo un mundo de t\xE9s."
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/28187
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un sitio peque\xF1o, refinado,con una amplia oferta de t\xE9s y platos peque\xF1os dulces o saladospara acompa\xF1ar.Atenci\xF3n excelente. Muy recomendable, especial para ir alrededor de las 17 horas, que es la hora del t\xE9!"
+    date: 15-02-2010
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar para tomar un exquisito te, ya sea por la variedad, calidad, ambiente y atenci\xF3n.-Lo recomiendo.-"
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/70916
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Hermoso lugar, te sentis en Paris. Ideal para tomar los mas exquisitos tes. Son verdaderos manjares. Lamentablemente para comer, prefiero otros lugares.
+    date: 14-08-2009
+    user: http://mi.guiaoleo.com/members/67174
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Tiene una excelente y amplia variedad de tes y la verdad es que son exquisitos. Lo unico que le criticaria es que en la carta no hay mucho mas que eso. Todo tiene un toque frances, hasta se podia escuchar a edith piaf sonando de fondo.
+    date: 01-06-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "En Chez Pauline uno encuentra una excelente variedad de t\xE9s que obviamente destacan por sobre el resto del men\xFA. Si bien uno va por los t\xE9s, que es impresionante, no hay mucha variedad de elementos para acompa\xF1ar, aunque los que est\xE1n son muy ricos. El servicio fue correcto salvo por el hecho de que se olvidaron de traer una torta de manzanas. El ambiente es simple pero c\xF3modo y relajado."
+    date: 14-01-2009
+    user: http://mi.guiaoleo.com/members/12853
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Una rareza para Bs As donde no hay muchas opciones de buen t\xE9. No s\xF3lo es bueno, sino que sobresale. Prob\xE9 una mezcla (llamada \"Holal\xE1\") en el local (espectacular!) y llev\xE9 una caja de Earl Grey."
+    date: 17-10-2008
+    user: http://mi.guiaoleo.com/members/32340
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La merienda pasarla en esta casa de te, es espectacular. Los dulces son de una frescura y una calidad inigualable y la variedad de tes, es exquisita.
+    date: 07-07-2008
+    user: http://mi.guiaoleo.com/members/11598
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No tiene una gran variedad de cosas, pero lo que tiene es muy bueno, muy frances.  Por otro lado la variedad de t\xE9s es muy grande.  Es un pedazo de Par\xEDs en Buenos Aires."
+    date: 12-04-2008
+    user: http://mi.guiaoleo.com/members/43264
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente nivel de te y comida. No soy un experto en materia de te pero disfrute mucho las infusiones de este lugar. El ambiente y atenci\xF3n merecen gan tanto gusto que dan ganas de quedarse a vivir adentro. Una nota aparte para la due\xF1a, una francesa que orienta acerca de los distintos tipos de te con una paciencia y pasi\xF3n admirables.\r\n\
+      Sin dudas volver\xE9."
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/41487
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n por parte de las chicas que te orientan y recomiendan. \r\n\
+      Muy buenos t\xE9s y el croque madam que prob\xE9. Una propuesta muy original y sin duda voy a volver."
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/19102
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar. Parece una cafeter\xEDa de par\xEDs. Los t\xE9s son exquisitos, y la cheese cake tambi\xE9n. La atenci\xF3n es ideal: paciente, cordial, y con conocimiento. No prob\xE9 la comida, pero los t\xE9s y pasteler\xEDa son para volver todos los d\xEDas."
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/29745
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: |-
+      No es un lugar para almorzar (pocas opciones y que no sobresalen), sino para un buen te con algo de patisserie. 
+      Imperdibles las variedades de te en hebras a un precio excelente. Para ir a tomar el te y olvidarse de todo por un rato.
+    date: 24-08-2007
+    user: http://mi.guiaoleo.com/members/15718
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Es un lugar muy hermoso y calido para tomar un t\xE9 por la tarde, la atenci\xF3n es excelente (las chicas responden muy amablemente a todas las dudas y consultas sobre los diversos blends, que son numerosos). Sin embargo, fui con muchas expectativas de saborear unos t\xE9s tan maravillosos como los que auspician en la p\xE1gina y \xE9stas no fueron gratamente satisfechas: considero que los t\xE9s estaban muy \"aguados\" y resultaba muy dificil percibir algunos sabores de los mismos (aunque los aromas eran agradables y muy satisfactorios), con lo cual la deuda fue con mi \"paladar\"; adem\xE1s en la ocasi\xF3n que fui, carec\xEDan  de tortas o pasteler\xEDa en general, por lo que s\xF3lo deb\xED conformarme con el t\xE9 mencionado. \r\n\
+      De los que he probado, recomiendo el Dolce Vita, del cual adquir\xED una hermosa \"latita\" de 50 gr.; una profunda desiluci\xF3n result\xF3 el \"Deep Africa\", con el cual me hab\xEDa ilusionado. No obstante esto, le dar\xE9 revancha a este bonito lugar... "
+    date: 04-08-2007
+    user: http://mi.guiaoleo.com/members/31209
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "es excelente toda la patisserie y las terrines, quizas le falte mas platos de comida "
+    date: 31-07-2007
+    user: http://mi.guiaoleo.com/members/28440
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente un lugar hermoso, nada pretencioso, sencillamente ideal para tomar el te con amigos y relajarse. Demas esta decir que el te es espectacular, el aroma del local y la gente que lo visita es el complemento ideal para disfrutar de esta milenaria infusion. No es poco comun ver a personajes como Marta Minujin en este local. "
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/20950
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La variedad de blends es tan amplia que marea, pero la atenci\xF3n es buena, paciente a la hora de explicar y recomendar. Ricas cosas dulces para acompa\xF1ar. "
+    date: 20-06-2007
+    user: http://mi.guiaoleo.com/members/11142
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Deliciosos t\xE9s, ir\xE9 de nuevo. Es un lugar muy bonito, peque\xF1o, agradable."
+    date: 29-05-2007
+    user: http://mi.guiaoleo.com/members/5327
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bien ambientado y la due\xF1a es muy simp\xE1tica. "
+    date: 04-04-2007
+    user: http://mi.guiaoleo.com/members/21043
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar incre\xEDble para pasar un buen rato en compa\xF1\xEDa de los mejores t\xE9s del mundo, la comida m\xE1s exquisita y una atenci\xF3n excepcional."
+    date: 01-04-2007
+    user: http://mi.guiaoleo.com/members/20921
+    ambiente_rank: excelente

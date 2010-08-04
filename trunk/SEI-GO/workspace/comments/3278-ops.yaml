@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si bien el ambiente no es lo que destaca en \xE9ste lugar, creo que \xE9ste no es el objetivo del mismo.\r\n\
+      En \xE9l se pueden disfrutar de sabrosos platos de comida vegetariana, es una buena opci\xF3n para aquellos que est\xE1n cansados de las t\xEDpicas ensaladas o bien las pascualinas. Los precios son razonables para la calidad que uno recibe en los platos. No pueden irse de all\xED sin haber probado la limonada con agua de rosas o bien los t\xEDpicos postres hindues."
+    date: 12-04-2010
+    user: http://mi.guiaoleo.com/members/75848
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida es rica, la relaci\xF3n precio/calidad es perfecta. La atenci\xF3n fue excelente. Al ambiente le falta un poco de onda. Cuentan con men\xFA al mediod\xEDa que es abundante teniendo en cuenta entrada, plato, postre y bebida. Recomendable como algo distinto."
+    date: 26-11-2009
+    user: http://mi.guiaoleo.com/members/2126
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Una gran opcion para almorzar algo sano y rico!!
+    date: 21-09-2008
+    user: http://mi.guiaoleo.com/members/42383
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Como siempre ah\xED o muchas veces me llevan el pedido. Es sumamente recomendable. Es comida fresca, limpia, tiene delicioso sabor que est\xE1 dado por la combinaci\xF3n de especias de la India. Se lo puede pedir sin picante o suave pues lo van preparando en el momento y no demora demasiado. Tambi\xE9n hay opci\xF3n de pedirlo sin sal para aquellos que no gustan o no pueden comer con sal. Es altamente recomendable."
+    date: 07-09-2008
+    user: http://mi.guiaoleo.com/members/50810
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar c\xE9ntrico, tranquilo. tal vez de dificil accesibilidad y conocimiento por estar dentro de una galer\xEDa. hay posibilidades de llevar o hacerse llevar comida a oficinas o casas cercanas.\r\n\
+      comida bastante casera y poco sofisticada, pero suave y balanceada en las proporciones de las especias. tal vez m\xE1s adaptable a un paladar rioplatense."
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/46505
+    ambiente_rank: bueno

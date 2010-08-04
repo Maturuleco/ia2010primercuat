@@ -1,0 +1,97 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Desde hace mucho es el \xFAnico lugar donde pedimos delivery de pizza. Es riqu\xEDsima, gigante y llega muy r\xE1pido. Las empanadas tambi\xE9n son muy buenas. Excelente opci\xF3n."
+    date: 21-08-2009
+    user: http://mi.guiaoleo.com/members/24319
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La pizza es muy rica, pero el local es muy peque\xF1o y ruidoso. La atenci\xF3n de las chicas, desganada y poco profesional. El delivery suele tardar mucho... y todo llega friiiiooooo... y es tan deprimente la pizza fria."
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/46257
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente pizza en calidad y variedad.
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/10763
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La pizza finita, muy rica. El servicio de delivery malo. Lleg\xF3 fria, no tibia, fria, y despues de 1 hora 15 minutos. Creo que tienen muchos pedidos y no tienen suficiente personal. Anteriormente fui al local de Belgrano y la atenci\xF3n fue tambien mala, dos chicas atendiendo y a las corridas. Una lastima porque la pizza es rica."
+    date: 25-05-2008
+    user: http://mi.guiaoleo.com/members/45395
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Siempre pedimos pizza y es grande,  abundante y el topping t\xE7son de producto de primera calidad. Muy recomendable para un fin de semana de pizza."
+    date: 11-05-2008
+    user: http://mi.guiaoleo.com/members/12712
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La pizza es muy finita, rica y se nota que trabajan con productos de 1\xBA calidad. Las empanadas parecen buenas; digo parecen, porque las trajeron tan fr\xEDas que resultaron incomibles. El lugar es muy chico y el ruido ambiente, es insoportable."
+    date: 04-05-2008
+    user: http://mi.guiaoleo.com/members/27591
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la materia prima de primera calidad, y se nota en el producto final ! muy originales las propuestas, especialmente la pizza de queso brie, ideal para delivery con amigos
+    date: 20-04-2008
+    user: http://mi.guiaoleo.com/members/28639
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "una de las mejores pizzas que he comido, me conozco toda la carta, una de mis preferidas es la napolitana con jamon, los productos que usan son de primera, una muy buena tambien es la de panceta y la de queso brie y rucula,los aderezos acompa\xF1an muy bien, la pizza grande es realmente grande... tardan mas de 40 minutos pero avisan, reciben tickets de almuerzo"
+    date: 04-04-2008
+    user: http://mi.guiaoleo.com/members/40084
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Da italiano digo que es la pizza con la masa mas parecida a la de italia,fui a ver el lugar que es un delivery ,muy profesional el pizzaiolo,mejor calidad de productos no hay.unica cosa que no me gusto fue que la pizzas son muy cargada de queso.Para ahora no encontre delivery mejor.
+    date: 03-03-2008
+    user: http://mi.guiaoleo.com/members/36418
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: La comida es rica, tienen buenas variedades pero el servicio es PESIMO. Tienen un serio problema de logistica.
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/41225
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      buen delivery, tardan pero avisan el tiempo real.
+      suelen llegar a temperatura.
+      tip: conviene tener el horno prendido para darle 5 minutos.
+      pedimos pizza de provolone. riquisima!
+      los productos son de excelente calidad.
+      recomendable para cuando queres comer sin sorpresas.
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/29962
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Pedi la pizza de queso brie y salm\xF3n ahumado. Excelente! La empanada Almac\xE9n es muy buena, mozzarella, tomates secos, panceta y champignones. El delivery tarda pero te avisan el tiempo real."
+    date: 15-07-2007
+    user: http://mi.guiaoleo.com/members/10876
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena calidad en tiempo y forma.
+    date: 11-03-2007
+    user: http://mi.guiaoleo.com/members/19842
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es muy rica, siempre y cuando uno tenga mucho tiempo para esperarla(m\xE1s de una hora). A tener en cuenta, a veces el chico que la trae la vuelca y queda toda para un costado. Una rica pizza de costado. "
+    date: 22-01-2007
+    user: http://mi.guiaoleo.com/members/14799
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Por pedir un d\xEDa dos pizzas, me mandaron de regalo un helado de Hagen Daas. Todos los sabores de pizza son muy ricos y tienen un gran delivery."
+    date: 18-01-2007
+    user: http://mi.guiaoleo.com/members/15436
+    ambiente_rank: muy bueno

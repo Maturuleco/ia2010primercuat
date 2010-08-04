@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buen restaurant de barrio, se come bien y tiene buenos precios. La atenci\xF2n es correcta y el ambiente es familiar, las mesas demasiado cerca. No recomendable para una cena \xECntima, pero si para comer rico y barato un d\xECa de semana."
+    date: 18-06-2010
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Palmitos buenos, la salsa golf regular, pero el arroz con mariscos EXCELENTE! mucho mejor que algunos lugares mucho mas renombrados. Ambiente familiar y calido de restaurant de barrio.
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/79111
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atencion es muy buena, la comida caserisima, hace a\xF1os que voy y hasta pido comida a domicilio,no se lo pierdan vale la pena,"
+    date: 23-09-2008
+    user: http://mi.guiaoleo.com/members/51846
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar con comida excelente, y atenci\xF3n de los propios due\xF1os. MUY RECOMENDABLE.\r\n\
+      Comida s\xFAper casera. Pastas Jud\xEDas."
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/23397
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Es una buena parrilla de barrio,
+      una de las mejores de esa zona.
+    date: 13-08-2005
+    user: http://mi.guiaoleo.com/members/3344
+    ambiente_rank: bueno

@@ -1,0 +1,378 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Rica comida, spaghettis alla putanesca muy buenos, todo super fresco. El tiramis\xFA bueno con caf\xE9 riqu\xEDsimo. Un poco caro para un ambiente modernoso pero un poco berreta."
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/53449
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Malo.
+    date: 24-06-2010
+    user: http://mi.guiaoleo.com/members/75215
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy rica comida en un lugar especial. Muy bueno para divertirse y pasar un muy buen rato..
+    date: 19-06-2010
+    user: http://mi.guiaoleo.com/members/84317
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      comida casera pero no muy rica y si muy cara para lo que es (los principales van de $38 a $50).
+      los camareros son buena onda pero el servicio en general es lento y mal organizado.
+      el ambiente tiene una onda cantina modernosa llena de cosas que no termina de convencer.
+      no se destaca por nada, no voy a volver.. no se justifica.
+    date: 18-06-2010
+    user: http://mi.guiaoleo.com/members/29633
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me hab\xEDan hablado muy bien del lugar y me decepcion\xF3 un poco. Se pasa de moderno. Pocos platos, que estaban bien pero esperaba mas. La ambientaci\xF3n ecl\xE9ctica y bizarra al l\xEDmite del buen gusto...\r\n\
+      No me enamor\xF3, aunque le dar\xE9 otra oportunidad"
+    date: 07-05-2010
+    user: http://mi.guiaoleo.com/members/67669
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Yo no se que tiene ese lugar pero te invade la buena onda! todos parecen felices,y vos llegas con el stress t\xEDpico y acelere diario, y de repente te bajan de un hondazo con una pasta  calentita y sabrosa, q se nota que tiene amor!!! los felicito, un ambiete muy divertido lleno de vida y arte....te vas con el estomago y el corazon contento!no se lo pierdan!"
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/81188
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La atenci\xF3n mal\xEDsima, t\xEDpica indiferencia de la cooltura palermitana que redunda casi en maltrato. Comimos unos fussili fierrito y unos boconcinos que daban miedo de lo feo y mal presentados que estaban, aparte del precio, obviamente. La carta de vinos escueta, pero bueno, algo menor para el todo que dej\xF3 mucho que desear.El ambiente es simp\xE1tico y la m\xFAsica acorde a la propuesta. La comida, por lejos, de la m\xE1s fea que hemos probado"
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/80029
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La comida realmente deja mucho que desear, los platos llegaron frios y con muy mala presentacion. La carta de vinos directamente no existe el mozo "te vende lo que quiere" no hay eleccion posible.El ambiente es muy ruidoso y descuidado parece falta de higiene, la atencion desinteresada y muy lenta.Es una falta de respeto como llega la adicion a la mesa,una falta de respeto a quienes nos consideramos clientes.
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/81725
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "muy buenas las pastas -caseras- asi como las salsas que las acompa\xF1an. recomiendo ir a il ballo del mattone \"originale\", que si bien es peque\xF1o se destaca por un ambiente pintoresco. voy a volver."
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/10221
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La pizzas es increible. Recomiendo la de Parmesano y r\xFAcula y la de cebollita y tomate. Hac\xEDa tiempo que no com\xEDa una pizza tan sabrosa!\r\n\
+      La atenci\xF3n de los mozos es fant\xE1stica. Todos los chicos tiene una onda genial. EL chico de rulos, el tano y la chica fueron super amables. \r\n\
+      Excelente la mousse de chocolate! \r\n\
+      Muy recomendable!!!"
+    date: 18-03-2010
+    user: http://mi.guiaoleo.com/members/45903
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es un tipo de comida de cantina media, muy mala relaci\xF3n precio calidad, y muy desprolija atenci\xF3n que dejan en claro que es \"el estilo del lugar\", cuesti\xF3n que no comparto para nada. El lugar es llamativo por el estilo hippie-punk-rotoso."
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/74794
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Simpplemente la mejor pasta de buenos aires. Fusili al fierrito con salsa scroffa son perfectos. La tenci\xF3n excelente como siempre en un ambiente de barrio muy tranquilo. Para volver todos los fines de semana!."
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/39396
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelente! me encanta este lugar, fuimos varias veces y siempre todo estuvo muy bien.
+    date: 25-02-2010
+    user: http://mi.guiaoleo.com/members/37942
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Fuimos con un grupo de amigos, la atencion del mozo fue esmerada, la comida es buena y el lugar tiene su onda. Es medio vizarro. las entradas estaban muy ricas, y la pasta seca es de buena calidad. todo estuvo bien.
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/77241
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "De esos lugares que nacen con magia.Uno puede enamorarse o decir esto no es para mi. Pero se come rico, con platos honestos y que te dejan diciendo \"com\xED muy bien\". Personajes los due\xF1os que te ayudan  pasarla mejor. OK no me banco mucho el ruido y la m\xFAsica fuerte. Pero este es tema personal.Mozas que es bueno tenerlas en otros resto por su simpatia y amabilidad.Si no le molesta, la luz un poquitito mas alta, pero poquito \xBFeh?  Gracias por el limoncello congelado y en damajuana del final. Muy bien,se merecen seguir creciendo en la cuadra. pero nunca se olviden de la esencia de como empezaron"
+    date: 02-02-2010
+    user: http://mi.guiaoleo.com/members/75680
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El precio es muy bueno, los mozos son muy atentos, la comida riquisma, muy rica. El ambiente es joven y te tira a relajarte y reirte con amigos. Muy muy bueno.
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/76034
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Carta corta ( pizarron) , platos abundantes y muy sabrosos, ambiente muy informal, ruidoso, musica y mucha gente joven. Los mozos se desviven por atenderte bien. Le faltaria tener algunos aperitivos un poco mas elaborados que fernet con cola. Pero es un lugar altamente recomendable para quien quiera comer en un restaurante diferente donde uno no puede aburrirse.
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/74809
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente!!!!! Para recomendar amplimente. Fuimos a cenar con mi chico y la pasamos excelente. la atencion es destacable. LO MEJOR!!! la ambientacion, LA PIZARRA/MENU y la soda en SIFON. Comimos "caramelo de mozzarella" y "brusquetas" y dsps "fussilli fierrito" y de postre AFRODITA (recomendacion de la camarera).... volveremos seguro!
+    date: 06-01-2010
+    user: http://mi.guiaoleo.com/members/29431
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tuvimos el impulso de averiguar si en Il Ballo hab\xEDa men\xFA de noche vieja para finalizar el 2009 y arrancar el nuevo a\xF1o con los muchachos del rest\xF3. Nos dijeron que s\xED y supieron cumplir y sobrepasar lo prometido. Es dif\xEDcil darle de comer a tanta gente esa noche y ponerle tanta onda. El men\xFA se bas\xF3 en platos simples pero muy ricos. El que nunca fue a Il Ballo no deber\xEDa perd\xE9rselo. Tiene mucha onda (sus due\xF1os y su gente se esmeran much\xEDsimo)."
+    date: 31-12-2009
+    user: http://mi.guiaoleo.com/members/61161
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar esta bueno, tiene onda.Comimos en el patio, es un poco chico pero estuvo bien.La comida y la atencion son muy buenas.A mis amigos extranjeros les gusto mucho la comida y el lugar tambien.
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/22855
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar al que adoro ir, los chicos que atienden son una gran familia y te hacen sentir como en casa; en un lugar diferente y divertido. la comida es riqu\xEDsima y los postres tambi\xE9n, bravo il ballo!"
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/74621
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Un buen lugar, se come en lo que va quedando del viejo Palermo, est\xE1 muy abierto a la calle, a\xFAn cuando se coma adentro. La comida es rica, el callia alta est\xE1 30 pesos y, adem\xE1s, los chicos que atienden son muy cordiales, demostrando que se puede ser moderno y no taaaan colgado."
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/2917
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Situado en el barrio de Palermo, Trattor\xEDa Il Ballo del Mattone mezcla la tipica comida italiana con muy buena musica y arte abstracto.\r\n\
+      Vanguardia por excelencia, Il Ballo del Mattone ofrece a sus comensales la posibilid de hacer de una cena o almuerzo una nueva experiencia que no se encuentra en otros restaurantes de Buenos Aires. Sin lugar a duda Il Ballo del Mattone en un lugar \xFAnico, confortable y agradable.\r\n\
+      Estimados les recomiendo Il Ballo, siempre que quieran comer una excelente comida Italiana y quieran ser atendidos con la mejor camarader\xEDa.\r\n\
+      Muchas gracias Il Ballo por la gran velada!"
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/71379
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Descubr\xED este lugar hace unos meses con compa\xF1eros de trabajo. Cuando queremos darnos un gusto nos hacemos una escapadita hasta Il Ballo... La comida es MUY buena, la presentaci\xF3n de los platos, la ambientaci\xF3n del lugar, cuando menos original y esmerada. La atenci\xF3n muy calida, los chicos que atienden siempre tienen la mejor onda. La m\xFAsica combina con la atenci\xF3n y la comida. Realmente un lugar para relajarse un rato y disfrutar."
+    date: 12-11-2009
+    user: http://mi.guiaoleo.com/members/72084
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "M\xE1s all\xE1 de lo escueta de la carta, el lugar es excelente. Excelente en cuanto a la comida, que si bien es simple -y algo escasos los platos a m\xED criterio-, es muy sabrosa. El lugar compensa lo peque\xF1o con c\xE1lido, \xEDntimo. Recomendable los d\xEDas de semana por la noche. La atenci\xF3n es sencilla pero esmerada. En fin, un lugar que no defrauda. Todo lo contrario, te obliga a volver."
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/18887
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Un lugar para disfrutar de la buena onda y la buena comida como en familia. Maravilloso
+    date: 29-08-2009
+    user: http://mi.guiaoleo.com/members/23262
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Excelentes los fusilli, al igual que la provoleta.
+      Carta de vinos escasa, con poca variedad.
+      Trato excelente
+    date: 22-08-2009
+    user: http://mi.guiaoleo.com/members/67957
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida muy rica, bien casera, la atenci\xF3n es amable e informal pero un poco lenta, el lugar tiene onda."
+    date: 15-08-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: El lugar es muy lindo, la comida muy rica y la atencion super calida. Tiene mucha onda el lugar, la musica y todo el clima me hace sentir super comoda. Ideal para ir con amigos y diverirse
+    date: 17-07-2009
+    user: http://mi.guiaoleo.com/members/54365
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar extravagante, un ambiente muy relajado, buena m\xFAsica, una comunidad dedicada al buen comer. Muy buenos sabores, sin vueltas, platos directos y efectivos. Excelentes las pastas de factura casera."
+    date: 27-06-2009
+    user: http://mi.guiaoleo.com/members/17990
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: Cada vez que voy me llevo una buena impresion. El lugar es para comer buena comida italiana estilo casera en un ambiente relajado y con una onda eclectica. No apto para sofisticaciones.  La atencion es dedicada pero suele ser algo lenta. Lo recomiendo para una noche en pareja.
+    date: 03-06-2009
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "lugar con muuuuuucha onda, y de la buena. Brillante la decoraci\xF3n + propuesta de arte. Buena la pasta seca, muy a punto. El helado con frutos nada del otro mundo. Volver\xE9 a pasar un nuevo relajado momento...."
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/62200
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar se destaca por su ambientaci\xF3n estilo trattoria italiana. Comimos las berenjenas a la \"parmigiana\" que resultaron un poco duras pero la salsa era muy rica. Buenas la pasta con hongos."
+    date: 07-05-2009
+    user: http://mi.guiaoleo.com/members/42568
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelente la pasta, casera a punto en cocci\xF3n y salsa muy buena. El pesacado bien condimentado y las verduras grilladas excelentes. La atenci\xF2n muy buena y el ambiente t\xEDpico de Palermo comiendo en la vereda una tarde de domingo, muy relajante. Vuelvo todos los domingos que pueda!"
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/39396
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encanta. Tiene un clima muy especial, se nota que hay una familia un poco exc\xE9ntrica por detr\xE1s. Los platos son pocos pero muy buenos, ricos y abundantes. La atenci\xF3n es b\xE1rbara."
+    date: 15-04-2009
+    user: http://mi.guiaoleo.com/members/40501
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Un buen lugar, comida rica, nada sofisticado, pero bueno es a lo que apuntan y por lo que cobrar, un lugar decorado sin pensar en nada, como se les canto por decir algo, y me parece muy bien, porque no re venden que son la mejor casa italiana de comida, es un lugar muy destacable y muy desenchufado. Comida rica!
+    date: 06-04-2009
+    user: http://mi.guiaoleo.com/members/60653
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Reserv\xE9 para cuatro en la vereda, llegamos y ah\xED estaba nuestra mesa con esas sillas con apoya brazos tan comodas. Nos atendi\xF3 y nos recomend\xF3 Sabina,una muy buena lasagna de salm\xF3n, los fusilli caseros y unos \xF1oquis de papa; se not\xF3 que era una noche de mucho trabajo pero no dej\xF3 de estar atenta a la mesa. Recomiendo compartir el tiramis\xFA. Muchas gracias por el Disarono! Es para volver y seguir probando sus platos. Recomiendo que la cocina habra mas temprano, mi ni\xF1o no lleg\xF3 ni a termonar su plato, eso si sus sillas le encantaron de cama!"
+    date: 01-04-2009
+    user: http://mi.guiaoleo.com/members/667
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos un dia de seman a la noche, 4 amigos y fue desagradable sentir que nos apuraban los platos, sin embargo luego tardaron una eternidad en tomarnos el pedido del postre y en traer la cuenta. La carta de vinos era muy escueta y no tenian todo lo que ofrecian, la comida fue buena en general pero la verdad es que por el precio que pagamos, podria haber comido mejor en otros lugares. NO fue una mala experiencia pero no volver\xEDa."
+    date: 12-03-2009
+    user: http://mi.guiaoleo.com/members/18341
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Una decoracion original, algo diferente, peo agradable. Muy buena atencion, siempre tratando de complacer. Muy buena comida, es para volver y continuar probando platos. Recomendable, para los que buscan algo diferente.
+    date: 20-02-2009
+    user: http://mi.guiaoleo.com/members/55267
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "la atencion fue excelente, respondieron a todos nuestros requisitos sin problema, estabamos festejando un cumplea\xF1os y nos regalaron una botella de vino, aparte las pastas riquisimas y platos abundantes, volveremos otro dia y seguro de noche para conocer, eso si la decoracion es reloca muy divertido"
+    date: 15-02-2009
+    user: http://mi.guiaoleo.com/members/44780
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es una muy linda cantina italiana, con un ambiente muy relajado, en el cual se pueden disfrutar de unas muy buenas pastas, caseras o secas, a un precio promedio de plato en $30 con salsas a eleccion. Es un lugar super recomendable y muy tranquilo, teniendo en cuenta en la zona populosa que esta.-
+    date: 06-02-2009
+    user: http://mi.guiaoleo.com/members/36057
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El imperio de lo kitch. Muy diverso y ameno. La atencion nada profesional, pero con la mejor onda, totalmente descontracturada. La comida es casera, pero nada especial.
+    date: 24-01-2009
+    user: http://mi.guiaoleo.com/members/733
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Mucha onda
+    date: 28-12-2008
+    user: http://mi.guiaoleo.com/members/56683
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Ambiente muy agradable y buena atenci\xF3n. Tanto las pastas como los platos elaborados tienen una calidad excelente y est\xE1n preparados con ingredientes frescos. Muy recomendable"
+    date: 27-12-2008
+    user: http://mi.guiaoleo.com/members/56665
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es excelente. El ambiente es tranquilo. Muy original la carta. Es recomendable para ir cada tanto ya que el precio es tirando a caro.
+    date: 21-12-2008
+    user: http://mi.guiaoleo.com/members/9673
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar es divertido y hay una sensacion como de buena onda. Los mozos atienden bien, y parecieran estar muy comodos trabajando en el lugar. La comida no es gran cosa y los precios son un poco elevados para lo que ofrecen.
+    date: 14-11-2008
+    user: http://mi.guiaoleo.com/members/17988
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente comida en un entorno muy magico y un servicio por demas simpatico. Super recomendable
+    date: 27-10-2008
+    user: http://mi.guiaoleo.com/members/53508
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: El lugar es feo pero pense que la comida podia ser buena,no lo recomiendo. los restos de masa y harina se encuentran hasta en la vereda ....un desastre
+    date: 22-10-2008
+    user: http://mi.guiaoleo.com/members/53309
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El ambiente es excelente, familiar, amable. No apto para gente fashion light y que busque solo que el "cliente tenga la razon". Un lugar para estar como en casa, con todo lo que eso signifique...
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/23262
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es barbaro, es restaurant chiquito con una ambientacion tipica de la zona. La atencion fue buena: la carta es la pizarra con los platos del dia que esta en la puerta y que la moza trae a la mesa para que lean los comensales! Muy rica la comida, bien caserita. Para volver."
+    date: 24-08-2008
+    user: http://mi.guiaoleo.com/members/44190
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Petit restaurant, muy acogedor y con servicio de primera. Una calidez f\xEDsica y gastron\xF3micamente indescriptible. \r\n\
+      Sin m\xE1s, vayan a conocerlo."
+    date: 21-08-2008
+    user: http://mi.guiaoleo.com/members/42867
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "la camarera que nos atendi\xF3 inicialmente se puso a hablar por tel\xE9fono como 10 minutos, tuvimos que pedirle a otra que nos trajera el men\xFA. Pedimos un vino rosado y no ten\xEDan una servilleta para la \"frapera\", nos trajeron un repasador completamente sucio, una verg\xFCenza"
+    date: 19-08-2008
+    user: http://mi.guiaoleo.com/members/16384
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nos atendieron super bien, los platos ricos y abundantes. Lindo para ir un fin de semana a almorzar...\r\n\
+      Para mejorar, los ba\xF1os..."
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/48268
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Energia. Il Ballo es uno de esos lugares donde uno se relaja y se siente atendido por amigos. No solo por la amabilidad, sino porque intentan todo el tiempo servirte lo mejor de lo mejor. No se huele el "ahorro" y si el esfuerzo y los aromas mas ricos de italia. Pan casero, cafe expresso del mejor y sobretodo, buen gusto. Dolores
+    date: 14-08-2008
+    user: http://mi.guiaoleo.com/members/49459
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "He vuelto innumerables veces. Lo he recomendando a gente de muy diversos gustos. Y siempre agradecieron la recomendaci\xF3n. La carta es moderada pero execelente y la relaci\xF3n precio calidad, inigualable. Un hallazgo. No se lo pierdan."
+    date: 31-07-2008
+    user: http://mi.guiaoleo.com/members/36444
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida, la atencion y me parecio muy bueno el hambiente aunque muy peque\xF1o, por suerte ya estan bariendo otro local a media cuadra.\r\n\
+      Muy!!!! Recomendable!!!"
+    date: 31-07-2008
+    user: http://mi.guiaoleo.com/members/11291
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Ingrese y no sabia si irme por el lugar, despues la comida tenia altisimo nivel profesional,maravillosa, la atencion muy buena
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar muy especial, con una atenci\xF3n excelente y una comida muy sabrosa. Es uno de los lugares que no se debe dejar de ir"
+    date: 26-07-2008
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es hermoso poder disfrutar de un lugar c\xE1lido, donde uno se sienta parte, donde no tenga que acartonarse o comer sin emitir sonido. Il ballo del Mattone es un lugar agradable, se siente como si uno fuera a comer a la casa de un amigo. Adem\xE1s es un lugar que conjuga gastronom\xEDa y arte de manera natural, sin forzar las cosas. Los precios son excelentes teniendo en cuenta la calidad y el lugar f\xEDsico en que se encuentra emplazado. Adem\xE1s de la comida me han ofrecido caf\xE9 y aperitivo invitaci\xF3n de la casa. Muy recomendable!"
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/46671
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Ragazzi por favor, me parecio regular el lugar, de trattoria solo la pinta tiene, ya que encargue un simple spaghetti y no tenian, pedi la sugerencia que ofrecian ellos que eran fetucinis, le encargue especificamente solo olio, aglio e peperoncino, pecato!! en vez de peperoncino le pusieron aji molido. No se puede sostener un lugar que se llame cantina italiana que no tenga un spaghetti y no tenga peperoncino.
+    date: 10-06-2008
+    user: http://mi.guiaoleo.com/members/41063
+    ambiente_rank: bueno

@@ -1,0 +1,127 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui varias veces y siempre com\xED excelentes pastas. El lugar es muy lindo, la atenci\xF3n es buena. Es bastante farandulezco, hay mucho famoso top cenando."
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/67669
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un restaurante muy elegante, con precios razonables. La atenci\xF3n es pesima, no es personal. Afuera esta muy bueno, recomiendo ir en auto, porque no se ven taxis. Los platos son peque\xF1os pero sabrosos. Saludos"
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/76793
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente experiencia, recomendable 100%.\r\n\
+      La atenci\xF3n es de primera, la comida en su punto y temperatura justa, una velada muy agradable. El precio razonable a la calidad y cantidad de los platos servidos. Volveremos...!"
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/72856
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy lindo lugar, con una barra incre\xEDble y una ambientaci\xF3n muy agradable. Las mesas est\xE1n separadas y se puede circular  bien y conversar con intimidad. La atenci\xF3n fue muy buena y la comida realmente rica. El precio es acorde al tipo de rest\xF3."
+    date: 28-07-2009
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una bella surpresa. Excelente restaurante. Estivemos dia 24/6 e al\xE9m de otimo servi\xE7o, boa carta de vinos,comemos um risoto, um penne e una pechuga de pollo que estavm excelentes."
+    date: 23-06-2009
+    user: http://mi.guiaoleo.com/members/64768
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Fui a comer el sabado al mediodia con un grupo de amigos, la verdad que por ser sabado no habia mucha gente, es mas solo habia 3 mesas ocupadas por ende la tencion fue buena. No me parecio gran cosa nada, no fue malo tampoco, pero no volveria, los malfatis estaban bien, y la pizza q pidieron mis amigos me parecio mejor que mi plato, el postre realmente fue malo, pedi un volcan y llego como bizcochuelo.-
+    date: 13-06-2009
+    user: http://mi.guiaoleo.com/members/25352
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: La pizza estuvo bien pero pesada. El servicio es muy bueno.
+    date: 25-05-2009
+    user: http://mi.guiaoleo.com/members/62688
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: comimos muy bien,lo unico malo es la poca iluminacion en las mesas,la barra de tragos es muy buena y tienen de todo.
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/62164
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un lugar no muy grande, y es bastante bullicioso. Mucha farandula. Todos se saludan con todos por los pasillos, pero no al punto de ser moleinsto. Para destacar la barra en la entrada, por si hay que esperar. La atencion no es de lo mas profesional, pero las chicas le ponen la mejor onda, al punto de ganarse la propina. Los arrolladitos de salmon rosado de la entrada son muy buenos, y la pizza es espectacular, bien fina y crocante; y cargada de elementos exquisitos. La de rucula y jamon crudo es un placer. El precio es algo caro, si se considera que al final, uno termino comiendo pizza.
+    date: 24-04-2009
+    user: http://mi.guiaoleo.com/members/34885
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: tuvimos una experiencia muy mala.  los platos tardaron, nos vino una cuenta de otra mesa, la iluminacion en los boxes es insuficiente y la camarera poco preparada.  no es la primera vez que nos vamos disconformes, ahora no volvemos mas.
+    date: 28-03-2009
+    user: http://mi.guiaoleo.com/members/60354
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me encant\xF2 en todos sus aspectos!Muchas opciones en el men\xF9 y todas las que probamos en la mesa deliciosas (pizza de r\xF9cula y salm\xF2n; sorrentinos, chipirones a la plancha y creme brule\xE8). La atenci\xF2n del mozo impecable, el caf\xE8 con unas masitas deliciosas. Super recomendable para una noche de verano la terraza de adelante que tiene un aire a terraza neoyorquina.\r\n\
+      Lo recomiendo"
+    date: 28-11-2008
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy lindo. muy buena atencion, impecable las pizzas(rucula y j.crudo) platos abundantes. ambientacion optima, ideal para compartir una noche de verano con amigos..
+    date: 28-11-2008
+    user: http://mi.guiaoleo.com/members/50336
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una buena opci\xF3n para aquellos que quieren disfrutar de ricas pizzas a la piedra, pero en un ambiente sofisticado y glamoroso. Adem\xE1s la carta cuenta con otras opciones que tambi\xE9n est\xE1n muy bien, como por ejemplo las pastas. La atenci\xF3n es m\xE1s que correcta y los precios est\xE1n acordes a los restaurantes de esa cuadra de Sucre. Recomiendo conocerlo!"
+    date: 28-11-2008
+    user: http://mi.guiaoleo.com/members/2996
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Buena la pizza de vegetales, finita y crocante.
+      Muy buena atencion. Los fideos al pesto buenos, pero poco abundantes y con poco pesto.Igual, volveria por la atencion y por la pizza.
+    date: 28-07-2008
+    user: http://mi.guiaoleo.com/members/23110
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Barra de tragos como para recomendar, muy profesional quien la atiende : Gory.  La pizza que comimos no ten\xEDa sabor. Es primer visita y seguro que volver\xE9, en busca de revancha con la cocina, ya que la atencion y ambientacion es muy buena."
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/26068
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "El modelo de atenci\xF3n: excelente! Mozos y comises muy atentos a todo lo que suced\xEDa en la mesa. Cenamos afuera, en un ambiente arm\xF3nico y tranquilo. \r\n\
+      Respecto al men\xFA, pizza de provoleta, salm\xF3n y r\xFAculas le faltaba sabor, ya que estos ingredientes cuentan con un marcado y fuerte sabor, y m\xE1s se parec\xEDa a un men\xFA hospitalario, motivo por el cual no veo relaci\xF3n precio-calidad. O bajan los precios con la calidad del men\xFA actual o dejan los precios como est\xE1n pero acomodan la calidad del men\xFA a lo que cobran (saladito...) \r\n\
+      Volveremos, quiz\xE1s \xE9se no fue un buen d\xEDa para el personal de cocina!"
+    date: 09-04-2008
+    user: http://mi.guiaoleo.com/members/21450
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 el lugar. Con dos salones con buena ambientaci\xF3n. Tiene opciones al aire libre en la entrada y en la terraza.Subir\xEDa un punto la luz. Es c\xF3modo el servicio de valet parking. La comida muy buena y la carta de vino con buenas opciones."
+    date: 05-04-2008
+    user: http://mi.guiaoleo.com/members/22781
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Un poco caro los precios de las entradas .
+    date: 04-04-2008
+    user: http://mi.guiaoleo.com/members/42725
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: E lugar era agradable y bien atendido, la comida realmente deja mucho que desear cualquier chef puede hacer un plato de fideos con pesto y realmente no tenian gusto a nada, se habra olvidado de ponerle un poquito de sal y aceite al agua? los ravioles de salmon estaban algo mejor pero era un poco masacote, quiza no pedimos sus mejores platos pero nadie puede excusarse cuando un plato simple de fideos no tiene gusto a nada
+    date: 11-01-2008
+    user: http://mi.guiaoleo.com/members/37505
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La verdad es que me parecio un lugar muy lindo, eramos cuatro y todos quedamos super conformes con el servicio y la comida. Todo MUY BUENO!!! Ademas era una noche muy linda y cenamos afuera. Recomiendo conocerlo. "
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/19131
+    ambiente_rank: muy bueno

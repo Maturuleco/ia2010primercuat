@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena atencion,ambiente moderno y agradable ,pero la comida me parecio sin gusto. Buenos \xF1oquis, pero el plato terminado es regular."
+    date: 15-06-2010
+    user: http://mi.guiaoleo.com/members/23110
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lo mas destacable es que el lugar es lindo para tomar algo y sobre todo que se esmeran por atenderte bien!!!La comida no sobresale... y la carta de vinos es corta y de los que figuran s\xF3lo tienen algunos pocos!!!S\xF3lo volver\xEDa por la buena atenci\xF3n!"
+    date: 14-05-2010
+    user: http://mi.guiaoleo.com/members/33562
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La atencion espectacular, la gente muy atenta y la ambientacion divina. Paramos a tomar unos tragos y la verdad que estuvieron barbaros, recomendadisimo el Amarti Martini y el otro no me acuerdo, pero tenia befeter y maracuya. Y despues comimos y la verdad que todo estuvo muy rico. Voy a volver
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/81865
+    ambiente_rank: muy bueno

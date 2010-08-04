@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un lugar agradable, para divertirse y pasarla bien, muy buenos espectaculos
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/56070
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El vino era de menor categor\xEDa que el que hab\xEDamos reservado (pero cobraron el men\xFA al mismo precio), el bife de chorizo no estaba en el punto de cocci\xF3n solicitado y adem\xE1s estaba duro. El caf\xE9 estaba quemado. La atenci\xF3n dejaba mucho que desear, y los cubierto estaban ubicados al rev\xE9s (los de entrada por dentro de los de plato principal). El sainete de parado se hace muy largo y el show de tango (for export) es el peor que vi (la coreograf\xEDa es muy sencilla, los cantantes est\xE1n bien pero no nada m\xE1s que bien, zafa la orquesta solamente). No lo recomiendo, hay cenas show de tango superiores."
+    date: 25-04-2008
+    user: http://mi.guiaoleo.com/members/40086
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No es un restaurante, sino un complejo montado para el turismo con una propuesta original, que aprovecha el \xE1mbito del barrio de la Boca, a espaldas de la misma Bombonera. La comida es buena, aunque me pusieron la misma ensalada en la entrada y el plato principal, pero se nota la calidad. El espect\xE1culo del conventillo es solo un entrem\xE9s para esperar el show principal. Vi algunos turistas que no hablaban castellano que sufr\xEDan un poco. La presencia de la cancha de Boca detr\xE1s del decorado es lo mejor de esa parte. El show es muy bueno. Por comentarios anteriores que le\xED aqu\xED, evidentemente se han esmerado, porque el vestuario es de primera, el cuarteto de tango muy bueno y los bailarines lo mismo. El ambiente es excelente. Si no fueran precios para turistas ir\xEDa m\xE1s seguido. "
+    date: 29-11-2007
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "EL expectaculo, la recorrida por el lugar , el sainete y todo excelente\r\n\
+      Mas que recomendable "
+    date: 27-06-2007
+    user: http://mi.guiaoleo.com/members/25462
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar \xFAnico en Buenos Aires, es como entrar a La Boca en los a\xF1os treinta.\r\n\
+      La comida buena, la ambientaci\xF3n de los conventillos es incre\xEDble, el sal\xF3n de tango es un museo. El sainete es muy logrado y divertido. \r\n\
+      El tango es hermoso con un gran bandoneonista."
+    date: 07-08-2006
+    user: http://mi.guiaoleo.com/members/10975
+    ambiente_rank: excelente

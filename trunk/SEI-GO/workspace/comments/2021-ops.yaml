@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Todo muy bueno.
+    date: 15-08-2006
+    user: http://mi.guiaoleo.com/members/5924
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Solicitamos una degustaci\xF3n de platos y vinos. \r\n\
+      Result\xF3 una noche especial. \r\n\
+      Tres cursos de comida m\xE1s el postre. Comimos ravioles de cardo confitado y pato con salsa de casta\xF1as y naranja.\r\n\
+      Todo maridado en forma excelente."
+    date: 18-06-2006
+    user: http://mi.guiaoleo.com/members/9404
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los mozos son acertados en sus recomendaciones. Los vinos est\xE1n servidos en su temperatura justa, algo poco com\xFAn en los restaurantes porte\xF1os.\r\n\
+      Impecable el Perpetuum Merlot de Gimenez Rilli, se los recomiendo.\r\n\
+      Voy al menos tres veces al mes y siempre  tengo ganas de volver .\r\n\
+      Una gloria los panes rellenos !!!"
+    date: 16-12-2005
+    user: http://mi.guiaoleo.com/members/5514
+    ambiente_rank: muy bueno

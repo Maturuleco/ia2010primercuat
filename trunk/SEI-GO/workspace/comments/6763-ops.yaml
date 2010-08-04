@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "He comido otras veces en Teodoro, siempre pescados o pastas, y me pareci\xF3 bien. Hoy tuve una desiluci\xF3n: tanto la entra\xF1a como las papas estaban \"marcadas\" y con mucho aceite. Creo que la lasa\xF1a no estaba hecha a la parrilla sino en una plancha con resto de cocciones anteriores."
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/83805
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos  un s\xE1bado a la noche, no hab\xEDa nada de gente, me parece que est\xE1 m\xE1s concurrido al mediod\xEDa, es un sal\xF3n con muchas fotograf\xEDas en sus paredes de artistas famosos, la calidad de la comida deja bastante que desear, a las 12.15 horas nos dijeron que ten\xEDan que cerrar,el servivio del  mozo regular.Sin duda no volver\xEDa.Tendr\xEDan que tener m\xE1s limpios los ba\xF1os."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/34719
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un restauran al que concurren los vecinos de la zona, muy familiar. El men\xFA es cl\xE1sico, pero todo lo que prob\xE9 estaba rico. Los precios son buenos."
+    date: 12-12-2009
+    user: http://mi.guiaoleo.com/members/78988
+    ambiente_rank: bueno

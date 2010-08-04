@@ -1,0 +1,164 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Se come bien, es rico y abundante. Es como para ir cada tanto, la atencion buena, con algunos detalles como traer caliente la comida seria mucho mejor.
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/2075
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Mu buena la atenci\xF3n, los platos sal\xEDan r\xE1pido, muy sabrosos y abundantes.\r\n\
+      Recomiendo las Sopas-Pucheros.\r\n\
+      Es un lugar sencillo, no hay que ir con muchas retensiones, el ambiente est\xE1 un poco descuidado, pero es c\xE1lido."
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/63396
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos con amigos a cenar a Antojito y la verdad es que tuvo puntos flojos: la mitad de los platos de la carta no estaban, mucho olor a fritanga, musica fuerte y mucha demora en los platos. A favor: la calidad de los platos, son muy abundantes y excelente precio/calidad. Es un mas un lugar para degustar comidas variadas e ir con amigos que para ir en pareja. Otra cosa para mejorar es la ambientacion que carece de calidez."
+    date: 23-10-2009
+    user: http://mi.guiaoleo.com/members/22323
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buenas comida, el ambiente calido, tiene pantalla gigante con videos salseros, buena atencion, un lindo lugar para reencontrarse con sus raices...
+    date: 14-09-2009
+    user: http://mi.guiaoleo.com/members/68971
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Lamentablemente fuimos un dia en que se les complico, nos dijeron que habia una sola cocinera y un mesonero enfermo. Rica comida, pero esperamos mas de 1 hora por una bandeja paisa. Como demoraba intentamos pedir unas arepas, empanadas o patacones para aguantar mientras tanto y ya no tomaban ordenes porque la cocinera estaba copada. Para compensar nos dieron una chupeta y un caramelo. Mucha gente, poco espacio, pesima atencion de mesoneros, no vuelvo ni lo recomiendo
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/63627
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Restaurante muy peque\xF1o y sencillo en su ambientaci\xF3n,ideal para un mediod\xEDa. Comida super casera y muy gustosa, platos abundantes y econ\xF3micos. Mozos muy atentos a la hora de explicar el estilo de cocina. Muy recomendable."
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen restaurante, la comida estuvo deliciosa, con los sabores t\xEDpicos de la comida Colombiana. La atenci\xF3n fue excelente, muy r\xE1pida y eficiente, adem\xE1s se siente un ambiente c\xE1lido y acogedor tanto por el lugar como por el personal del restaurante. Lo recomiendo para todas las personas que deseen disfrutar y degustar los platos tipicos y la amabilidad y cari\xF1o de ese hermoso pa\xEDs : COLOMBIA."
+    date: 28-03-2009
+    user: http://mi.guiaoleo.com/members/60387
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buenos los patacones y esmerad\xEDsima la atenci\xF3n. La ambientaci\xF3n no existe, pero creo que el delivery es una muy buena opci\xF3n a tener en cuenta."
+    date: 09-03-2009
+    user: http://mi.guiaoleo.com/members/13706
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida no es muy buena.  Poco sabrosa.  El lugar tiene una ambientaci\xF3n p\xE9sima.  El lugar es muy chico y no es agradable.  La atenci\xF3n en cuanto a los mozos es bastante aceptable.  Hay gente aparentemente del lugar que est\xE1 entrando y saliendo a cada rato.  No volver\xEDa a ir."
+    date: 20-11-2008
+    user: http://mi.guiaoleo.com/members/55725
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Deplorable. Tanto esperar reencontrarme con los sabores de un pueblo tan c\xE1lido y hospitalario, para encontrar esta trasnochada fantasia de resto colombiano. Insoportable barzucho de esquina, con m\xFAsica estridente e increibles personajes, nada tranquilizantes. "
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/2881
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Se respira aire colombiano, muy buena comida y atencion, no habia algunas cosas, pero no influye. muy esmerado el servicio. la comida vino muy rapida.lo unico malo es q el lugar es chico y hay q reservar seguro.recomendable
+    date: 18-07-2008
+    user: http://mi.guiaoleo.com/members/47658
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: Si bien en el lugar se respira aire colombiano, la atencion es esmerada y excelente, la comida fue toda un fiasco. Tardaron mucho en traerme una bandeja paisa con una carne de muy mal sabor, conozco la comida colombiana porque la comi alla y nada que ver. Una pena, si reconozco que los patacones eran exquicitos.
+    date: 12-04-2008
+    user: http://mi.guiaoleo.com/members/18795
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El ambiente no es de lo mejor y la comida nada de otro mundo. Fui con mi novio, a el le encanto la paisa que es algo asi como un guiso, en mi caso me parecio todo falto de sabor. Todo se compensa con la atencion, los camareros muy atentos en todo momento, dispuestos a explicarnos con lujo de detalles cada plato, siempre con una sonrisa.
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/39303
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente servicio y comida. Algo distinto para probar! Lo \xFAnico en contra: lo chiquito del lugar! Hay que ir con tiempo para poder encontrar una mesa! "
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/41107
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La verdad una linda experiencia, todo lo que nos trajeron riqu\xECsimo y fresco, los mozos muy amables y bien predispuestos y el precio un regalo, el mouse de maracuy\xE0 exquisito, lo \xF9nico que no hab\xECa en ese momento eran las hormigas culonas, otra vez ser\xE0. muy recomendable. "
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/35985
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      De verdad me gusto mucho, buena comida Colombiana, como hecha en casa.
+      Lo recomiendo valla y pruebe!
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/28042
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Servicio mucho mas que atento por parte del due\xF1o quien nos armo el menu de cada uno en 2 minutos. Todo muy rico. Comida simple. Las empanadas de carne y papa buenisimas."
+    date: 21-08-2007
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "La atencion del due\xF1o, fue exelente, nos explico todo de forma muy amable, oriundo de colombia, lo q hace q cuente sus platos con mucho cari\xF1o. \r\n\
+      Faltaron algunas cositas, pero vale la pena conocer el lugar. Es para aquellos q le gusta conocer comidas de diferntes lugares. Feliciataciones!!"
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/21549
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "A pesar del primer impacto visual no muy agradable, si se sienta en el fondo, se puede difrutar de la cordial atenci\xF3n del due\xF1o y hacerse guiar por \xE9l en la elecci\xF3n de los platos, ricos. Una buena opci\xF3n para probar comida diferente y nuevos sabores."
+    date: 01-07-2007
+    user: http://mi.guiaoleo.com/members/20910
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buena atencion (su propio due\xF1o), el lugar es sencillo, la comida tenia buen sabor y su presentacion es justa, no es caro y es una buena opcion para probar combinaciones de sabores que no tienen nada que ver con la comida Argentina."
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/26408
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me parecio un lugar increible si bien es chico estan muy bien utilizados los espacios, excelente la atencion del due\xF1o la comida es excelente , no la conociamos y la verdad que el due\xF1o nos asesoro muy bien y muy amablemente, es para volver a ir, los precios son muy accesibles. muy recomendable 100 "
+    date: 11-06-2007
+    user: http://mi.guiaoleo.com/members/24017
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos 3 con el \xE1nimo de probar. Compartimos los platos que nos eligi\xF3 Alfredo (ya no recuerdo los nombres, ver p\xE1gina en Internet). \r\n\
+      Ambiente agradable, con buena onda y para pasar un momento muy lindo. No es un ambiente snob."
+    date: 08-06-2007
+    user: http://mi.guiaoleo.com/members/24396
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Me atendieron de forma excelente, recomendando y explicando cada uno de lo platos y bebidas. La comida en s\xED, no era muy rica. Para probar una vez es divertido pero no volver\xEDa por la comida.  "
+    date: 30-05-2007
+    user: http://mi.guiaoleo.com/members/9989
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me gust\xF3 como me atendieron, me gust\xF3 el lugar y los precios son buenos, l\xE1stima que la comida tard\xF3 50 minutos en llegar a la mesa."
+    date: 28-05-2007
+    user: http://mi.guiaoleo.com/members/23511
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelentemente bien atendidos, nos recibi\xF3 el due\xF1o del local. Como nunca hab\xEDamos incursionado en la comida colombiana pedimos nos recomiende del men\xFA, y no fall\xF3.\r\n\
+      Entramos con unos patacones (como unas torrejas de pl\xE1tano) a los que se les agrega una salsa de tomate encima. Luego empanadas de maiz (la masa de maiz, relleno de carne y papa), arepas con queso (discos con un sabor similar al arroz con manteca y queso), muy sabrosas carima\xF1olas de queso y carne, acompa\xF1anado con una salsita de aj\xEDes picantita (ni tanto). Luego compartimos una sopa ajiaco, que es una sopa de pollo con un trocito de choclo, en la que nadan algunas hierbas colombianas (guasca) y bucean algunas alcaparras, que logran salir a flote cuando se revuelve para incorporar la isla de crema central (mmm, deliciosa!).\r\n\
+      Bebimos agua panela y los postres no dejaron de sorprendernos: mousse de maracuj\xE1 excelente, mouse de mango muy buena y una porci\xF3n de un dulce de caf\xE9, que es como un dulce de leche espeso con sabor a caf\xE9, que se come con cuchara o untado en queso (matrimonio).\r\n\
+      \r\n\
+      En general falt\xF3 sal, pero todo estuvo entre bi\xE9n y excelente.\r\n\
+      Muy buena opci\xF3n para comer algo distinto. Tengan en cuenta que todo es muy frito, no recomiendo ir un d\xEDa de panza floja.\r\n\
+      \r\n\
+      Precio? comimos 3 a 20$ por cabeza (incluyendo propina) Se puede pedir m\xE1s?"
+    date: 18-05-2007
+    user: http://mi.guiaoleo.com/members/12713
+    ambiente_rank: muy bueno

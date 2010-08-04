@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy buena comida tradicional, las humitas realmente bien hechas y el locro estaba bien hecho
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/70028
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Parrilla de barrio que alguna vez quiso ser peque\xF1o restaurante. Lo suyo es la carne, siempre en su punto."
+    date: 01-05-2009
+    user: http://mi.guiaoleo.com/members/49940
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Cocina y ambiente familiar. Gente del barrio.
+    date: 04-03-2009
+    user: http://mi.guiaoleo.com/members/59251
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un lugar de ambiente muy relajado, muy familiar, en el que uno sabe que va a comer bien. Vamos siempre y el mozo ya sabe que tomamos, que comemos y hasta el punto en el que queremos la carne, un genio. Los precios muy buenos, sin decoraciones inutiles de palermo hollywood ni cosas similares. Ir a comer bien en un lugar tranquilo y agradable es el motivo.
+    date: 15-11-2008
+    user: http://mi.guiaoleo.com/members/5086
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "muy familiar....uno se siente como en casa..muy atentos los due\xF1os y excelente el mozo...un interprete de la zona...para recomendar"
+    date: 03-03-2008
+    user: http://mi.guiaoleo.com/members/42226
+    ambiente_rank: bueno

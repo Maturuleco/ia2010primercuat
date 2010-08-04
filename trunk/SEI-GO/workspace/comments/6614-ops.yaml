@@ -1,0 +1,27 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      lugar barbaro, buena atencion recomendable cien por ciento
+      volveremos ,sigan asi
+    date: 27-05-2010
+    user: http://mi.guiaoleo.com/members/82649
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar esta barbaro, la comida exelente, totalmente recomendable el unico problema la atencion, fuimos el 1 de mayo al mediodia, habia dos o tres mesas ocupadas nada mas y el pedidodemor\xF3 cercade 3/4 de hora, esto sin contar que tardaron 15 minutos en traernos la carta."
+    date: 03-05-2010
+    user: http://mi.guiaoleo.com/members/76735
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente toda la comida y el lugar muy lindo.
+    date: 24-01-2010
+    user: http://mi.guiaoleo.com/members/75483
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Comimos pastas,los caseritos de salmon son excelentes, se ve que son caseros. El ambiente es muy calido. Es recomendable!
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/69448
+    ambiente_rank: excelente

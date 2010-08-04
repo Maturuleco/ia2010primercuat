@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Lugar
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/22591
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar no vale nada al igual que la atencion. en una epoca se podia pasar ante cualquier eventualidad pero ahora ni eso. la comida es tragable. "
+    date: 10-09-2009
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Siempre me recomendaban \xE9ste lugar para comer en especial pastas. Y a eso fu\xED, estando cerca nunca hab\xEDa ido, y los \xF1oquis caser\xEDsimos no nos defraudaron, quiz\xE1 los cortan demasiado chiquitos, pero est\xE1n bien y las salsas cl\xE1sicas y no tanto son recomendables. No esperen nada del ambiente, pero el servicio es bueno y r\xE1pido. Y los precios bastante accesibles. Ideal para familias."
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/62936
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      relamente no es la primera vez que vamos pero si la primera vez que entro en esta guia. 
+      La comida es excelente y preparada en el momento, se nota claramene a la hora de cenar. Nos sentimos muy comodos.
+      Cenamos siempre tranquilos y no tenemos que estar haciendo colas interminables que te quitan el apetito. 100% RECOMENDABLE !!!!! NO CAMBIEN !!!!
+    date: 09-04-2009
+    user: http://mi.guiaoleo.com/members/60933
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La carne es muy buena, al igual que la atenci\xF3n. Una muy buena opci\xF3n en la zona de Nu\xF1ez."
+    date: 07-04-2009
+    user: http://mi.guiaoleo.com/members/61019
+    ambiente_rank: bueno

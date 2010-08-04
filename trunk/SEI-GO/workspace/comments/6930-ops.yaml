@@ -1,0 +1,27 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los platos de su especialidad, la comida sure\xF1a, suelen ser excelentes. Traen los mejores productos ahumados y, pensando en lo caro que son, el precio de los platos no es tan elevado. El sandwich de salm\xF3n ahumado es una delicia, al igual que los fiambres de la tabla Patag\xF3nica (ciervo ahumado, salame de jabal\xED...). Ni hablar del volc\xE1n de chocolate! Es cierto que no ten\xEDan todo lo que ped\xEDamos (por ejemplo, varias cervezas o el fiambre de trucha), pero es un problema que tienen todos los restaurantes especializados. Ojo: los vinos son los b\xE1sicos indispensables: bajen la tabla con cerveza!"
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/59640
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La verdad que esperaba mas de este lugar. La picada prometia mas de lo que fue. El precio es algo excesivo para lo que ofrecen. A favor la variedad de cervezas y el ambiente tranquilo. Ojala que mejoren.
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      De terror.. pedi cordero braseado con salsa de hongos silvestres. (carne seca, recalentada de microondas, y los hongos silvestres era meros champignones) La terrina de papa, tibia por fuera, fria por dentro, tipico del microondas.
+      Pedi vino y agua, y me trajeron una sola copa... jaja.. bebia por turnos. la verdad, de octava, no vuelvo mas.
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78274
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La cena no me gust\xF3,el goulash con spatzle estaba semidesgongelado del freezer y recalentado en el microondas.La torta de manzana,sin sabor y el servicio lentisimo y desganado.A todo esto para nada barato."
+    date: 03-12-2009
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno

@@ -1,0 +1,95 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un lugar tranquilo, con musica suave y comida rica
+    date: 24-10-2008
+    user: http://mi.guiaoleo.com/members/31653
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Nada del otro mundo la comida , pero cara por las prestaciones del lugar, ambiente lugubre mal iluminado, poca ventilacion y una mala decoracion , se pueden ver puertas de un placard ... parece que el lugar fue una habitacion\r\n\
+      En resumen es caro como Las Ca\xF1itas pero como si estuviera comiendo en un bar de Puente La Noria\r\n\
+      como un pajarito (muy poco)"
+    date: 23-05-2008
+    user: http://mi.guiaoleo.com/members/45341
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Los ravioles estaban duros y ademas eran una miseria, cuatro ravioles. Si son de buen comer no se los recomiendo. Se van a quedar con hambre. La entrada salio $ 31 y eran tres arrolladitos de ricota. Nosotros somos de comer en puerto madero y quisimos probar esta alternativa. Vayan a puerto madero vana comer mucho mejor y van a pagar lo mismo. Porque nosotros gastamos lo mismo y comimos una miseria. La ambientacion fea y de mal gusto. Chicos sinceramente, van a tener que mejorar mucho si quieren cobrar esos precios. Nos sentimos estafados. Otra: que hace el placard ahi, pongale 1 cortina.-"
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/45584
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida fue apetitosa (las porciones razonables)  La ambientacion no nos gusto y no terminamos de entender que tipo de restaurante quiere ser Ej A la dama que me acompa\xF1o le regalaron una rosa de despedida pero entre platos no nos cambiaron los cubiertos Si mejoran algunos detalles puede ser una muy buena opcion"
+    date: 25-04-2008
+    user: http://mi.guiaoleo.com/members/3479
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Es simplemente como comer en una casa, no vale la pena objetar demasiado el ambiente. La comida es muy buena y sus precios favorables.
+    date: 23-03-2008
+    user: http://mi.guiaoleo.com/members/15
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Exquisita y original la comida, muy buena atencion y precios, el ambiente es calido y acogedor, con musica funcional agradable. Aconsejable para quien quiera esconderse del ruido y demas...
+    date: 17-02-2008
+    user: http://mi.guiaoleo.com/members/40474
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "A modo de cr\xEDtica constructiva propongo cambiar la decoraci\xF3n del lugar. Es muy mala. Si bien reservado, no deja de ser un restoran escondido en una casa, pero con estilo restoran grande.\r\n\
+      La comida es buena, pero no pude disfrutarla.\r\n\
+      La atenci\xF3n es esmerada."
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/31563
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me pareci\xF3 muy buena la idea de un restaurant a puertas cerradas. Los precios son excelentes en relaci\xF3n a la calidad de la comida. El ambiente precisa un retoque y aire acondicionado. Igualmente es para volver."
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/270
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy rico todo, y un ambiente calido
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/39549
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: se come muy bien
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/39551
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n, comida diferente pero deliciosa, ambiente \xEDntimo agradable y precios muy accesibles"
+    date: 01-02-2008
+    user: http://mi.guiaoleo.com/members/39317
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "excelente relaci\xF3n precio calidad."
+    date: 20-01-2008
+    user: http://mi.guiaoleo.com/members/38318
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Comimos excelentemente, pero tienen que adecuar el ambiente para hacerlo mas confortable, como por ejemplo, mejorar la extracci\xF3n de olores y colocar aire acondicionado."
+    date: 19-01-2008
+    user: http://mi.guiaoleo.com/members/29798
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar excepcional. Con un ambiente muy c\xE1lido y super tranquilo. La relaci\xF3n entre la calidad de la comida y el precio es inmejorable. Adem\xE1s la cortes\xEDa y amabilidad en la atenci\xF3n son de destacar."
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/37635
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es una ambiente muy agradable, familiar, con muy buena atenci\xF3n. La comida es muy casera y riqu\xEDsima. Una carta bien pensada y postres deliciosos. "
+    date: 28-12-2007
+    user: http://mi.guiaoleo.com/members/37767
+    ambiente_rank: excelente

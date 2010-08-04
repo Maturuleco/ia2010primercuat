@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Atendida por sus due\xF1os de una manera c\xE1lida y dedicada,encontramos este restaurante que ofrece una comida casera con productos de muy buena calidad.Los fines de semana, variedad de cervezas y tapeos para todos los paladares. Para volver y sentirse como en casa."
+    date: 08-12-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es agradable, bien decorado. La atenci\xF3n es buena. La comida es casera y rica, las porciones abundantes, las tapas tradicionales para dos est\xE1n muy bien servidas, la cerveza la trajeron bien fr\xEDa, hay una buena carta de cervezas artesanales. Hab\xEDa pocas mesas ocupadas y eso le quita un poco de ambiente."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/73418
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "un bar de picadas,con buena calidad de los productos y abundantes. Atenci\xF3n amable. Ambiente de barrio. Recomendable"
+    date: 23-10-2009
+    user: http://mi.guiaoleo.com/members/47757
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Riqu\xEDsimas picadas. Muy buena atenci\xF3n. Un lugar para disfrutar con amigos."
+    date: 31-08-2009
+    user: http://mi.guiaoleo.com/members/68388
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente picadas, abundantes y riquisimas.Lugar muy c\xE1lido.\r\n\
+      Muyyy recomendable"
+    date: 22-08-2009
+    user: http://mi.guiaoleo.com/members/68296
+    ambiente_rank: excelente

@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "me encant\xF3 este restaurante. \r\n\
+      La comida fue muy buena y nos dejaron intercambiar unos platos para mi amiga que es vegetariana. \r\n\
+      El servicio fue excelente y prob\xE9 por primera vez la cerveza Otro Mundo, muy recomendada. Es un lindo lugar para ir en grupo as\xED comparten un poco de todo. \r\n\
+      El ambiente podr\xEDa ser mejor, pero la comida y el servicio son buen\xEDsimos."
+    date: 11-01-2007
+    user: http://mi.guiaoleo.com/members/18000
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy rica y de buena calidad, las tablas son una excelente opci\xF3n, bien variada, ideal para ir con un grupo de amigos. La atenci\xF3n es buena, me recomendaron la cerveza Otro Mundo que sinceramente me pareci\xF3 riquisima (no soy tomadora de cerveza). Lo \xFAnico a mejorar es el tiempo de espera entre cada componente de las tablas."
+    date: 02-12-2006
+    user: http://mi.guiaoleo.com/members/15034
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar estaba vac\xEDo y sin embargo nos animamos a entrar y la verdad que vali\xF2 la pena. \r\n\
+      La comida es riqu\xEDsima y qued\xE1s bien lleno. \r\n\
+      Tienen la cerveza \"Otro Mundo\", que est\xE1 b\xE1rbara y no se consigue en muchos lugares.\r\n\
+      Nos atendi\xF3 quien supongo era el due\xF1o (adem\xE1s de una moza) y nos ayudaron a elegir y se preocuparon porque estemos c\xF3modos toda la noche. \r\n\
+      Muy recomendable el lugar."
+    date: 20-05-2006
+    user: http://mi.guiaoleo.com/members/9720
+    ambiente_rank: muy bueno

@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Precios para turistas, con un sabor poco destacable. Lo mejor es el ambiente, con una linda
+      vista y lugar privilegiado de la ciudad. El salon
+      de fumadores muy confortable.
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/32454
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El mozo ofrece pan de pizza como si fuera una atenci\xF3n de la casa, pero es un plato que se cobra. Pedimos 1 botella de vino rosado de $45, nos dijo el mozo de cambiarlo por uno de $60 porque no ten\xEDa el que solicitamos, luego vino a la mesa con 2 opciones de vino rosado de $80 porque tampoco ten\xEDa el de $60. Entonces decidimos elegir un Malbec de $45 que tomamos durante el almuerzo, pero en la adici\xF3n cargaron el vino rosado de $60 que no ten\xEDan. Al llamarle la atenci\xF3n sobre \xE9sto, enseguida el mozo fue a cambiar la adici\xF3n, prueban el sistema \"SI PASA, PASA\". Pobres los turistas extranjeros!"
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/77767
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Comida italiana de primer nivel. Todo muy cuidado, la atencion y el lugar impecables, y la comida buenisima. Todo muy muy bien hecho y rico, desde la burata (bufarela con crema) hasta los champignones salteados, las pizzas y las pastas. Muy recomendable con ambiente agradable y muy buena atencion. El cafe tambien es muy rico
+    date: 24-12-2009
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida correcta, pero la carta es muy acotada y sin nada novedoso. Como comer las pastas de una buena f\xE1brica de pastas pero afuera. El ambiente bien, aunque las mesas muy alineadas. Los ba\xF1os, un desastre."
+    date: 31-10-2009
+    user: http://mi.guiaoleo.com/members/19111
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: Puedo solo comentar la atencion. Llegue 10 pm me dijeron que tenia que esperar 5min , Al poco tiempo llego Mariano Grondona le dijeron lo mismo que a mi, Seguimos esperando cuando se desocupo una mesa lo llamaron a el y lo ubicaron.Soy un cliente de segunda
+    date: 09-08-2009
+    user: http://mi.guiaoleo.com/members/67260
+    ambiente_rank: muy bueno

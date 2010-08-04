@@ -1,0 +1,96 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El ambiente no es el mejor, algo anticuado y no muy bien mantenido. La atenci\xF3n fue normal. Simplemente servir lo pedido, pr\xE1cticamente sin sugerencias. Com\xED un Ojo de Bife, y lo trajeron en el punto pedido. Las ensaladas son escasas y demasiado caras. $25 por una ensalada verde, \x93servida en un plato de postre\x94. Solo volver\xEDa, si puedo pedir el men\xFA ejecutivo."
+    date: 27-11-2009
+    user: http://mi.guiaoleo.com/members/57493
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      La mejor definicion para lugares como este: TRAMPA PARA TURISTAS. El lugar es decadente (luz blanca de neon, piso gastado y pegajoso) el servicio bastante anonimo y sobretodo la carne "del monton"!
+      Que lastima que en una ubicacion tan premium (en frente del Convention Center) haya un lugar tan mediocre: la oficina de promocion turistica deberia hacer algo!
+    date: 17-11-2009
+    user: http://mi.guiaoleo.com/members/9918
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Todo regular y gris. La ensalada de mariscos sin sabor a nada, los morrones bien,gambas sin sabor.
+      Pero muy caro. Lo mejor lo bonita que han dejado la calle Reconquista-
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/55236
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida Muy buena, el ambiente tambi\xE9n esta muy cuidado. La excelente atenci\xF3n fue desperdiciada por la falta de stock de vinos que no tenian y de comida en la parrilla que hizo nuestra eleccion limitada."
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/41737
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Afortunadamente, la experiencia con la parrilla no fue mala como la que otros comentan.  El ojo de bife estaba muy bien, en su punto justo.  Pero est\xE1n claramente orientados al turismo extranjero y los precios son exorbitantes.  Por $ 100 por persona, sin sumar el vino, hay muchos lugares donde se come mejor y te atienden mejor.  No es recomendable en absoluto."
+    date: 05-03-2008
+    user: http://mi.guiaoleo.com/members/33603
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buena atenci\xF3n, nos permitieron llevar nuestros vinos, una carta con fotos y descripci\xF3n...hasta los gramos...interesante para una comilona. Bodeg\xF3n orientado al turista con una cava enorrrrrrrme. El due\xF1o estaba muy cortes....Espa\xF1ol. Muy buen recuerdo"
+    date: 28-12-2007
+    user: http://mi.guiaoleo.com/members/37972
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Se come bien, los mozos atentos aunque tardan un poco para traer los platos. "
+    date: 01-10-2007
+    user: http://mi.guiaoleo.com/members/21632
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos 2 personas, Vamos por partes. Comida: pedimos ruedo de carnes para 2/3 como dice la carta $80 es asado, vacio, chivito, Lech\xF3n, cordero, chorizo y morcilla de todo eso lo mejor el chorizo la morcilla y el vac\xEDo. En cuanto al chivito, Lecho\xF3n y cordero s\xF3lo te sirven las costillas y huesos porque obviamente se guardar\xE1n los cuartos delanteros y traceros de los animales para los pedidos por porci\xF3n. En s\xEDntesis, una estafa por ese precio, aunque sea podr\xEDan haber puesto una porci\xF3n de algo no?, ensalada las nazarenas : Muy rica $32, vino latitud 33 : $32 , Agua: $7, Postres: Frutillas con crema $19 ricas pero no valen eso ni siquiera en un lugar como ese, Torta Helada: muy rica $15, cubierto $6, Total para 2 personas $197, no volveria, no por el precio (un poco elevado para lo que ofrecen) sino porque es una parrilla y el punto bajo justamente lo tiene en la parrila y es imperdonable, que sigan enga\xF1ando a los pobres turistas. Por \xFAltimo si alguno va a ir, pidan por porci\xF3n quiz\xE1s tengan mejor suerte."
+    date: 14-03-2007
+    user: http://mi.guiaoleo.com/members/9756
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Estoy muy decepcionado con este restaurante, pedimos una rueda de carnes al asador con guarniciones. La carne que sirvieron estaba seca y dura. Tuvimos que quejarnos para que nos trajeran la misma rueda pero esta vez jugosa, tierna y con mejor aspecto. El precio carisimo para lo que fue: pagamos 40 por persona (sin entrada, ni vino, ni postre ni cafe). Con ese presupuesto comes mas y mejor en otros lugares."
+    date: 01-03-2007
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy bueno. O mesmo apos 20 anos.
+    date: 03-02-2007
+    user: http://mi.guiaoleo.com/members/18376
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excellent restaurant. If your looking for the typical Argentine steaks this is the place. Wide choice of meats and cuts and good wine list.
+    date: 18-12-2006
+    user: http://mi.guiaoleo.com/members/14818
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comida excelente, buen servicio y decoraci\xF3n.\r\n\
+      En resumen, un restaurante que debe estar entre los imperdibles para los visitantes de Buenos Aires."
+    date: 06-05-2006
+    user: http://mi.guiaoleo.com/members/8563
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Para m\xED, el mejor bife de lomo en Buenos Aires."
+    date: 11-11-2005
+    user: http://mi.guiaoleo.com/members/4753
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Demasiado orientado al turismo.
+    date: 10-09-2005
+    user: http://mi.guiaoleo.com/members/2787
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente el asado, en su punto y blando (raro para este tipo de corte). Atenci\xF3n dedicada, algo fr\xEDo su ambiente."
+    date: 13-08-2005
+    user: http://mi.guiaoleo.com/members/3383
+    ambiente_rank: bueno

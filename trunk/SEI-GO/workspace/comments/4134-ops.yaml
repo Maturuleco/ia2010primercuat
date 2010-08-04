@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida muy rica y abundante, la atencion muy buena, le falta un poco de iluminacion y algun filtro de aire, olia a humedad
+    date: 25-03-2009
+    user: http://mi.guiaoleo.com/members/7806
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Se como muy bien y muy abundante, tanto que no lo pudimos terminar. Pedimos entrada, parrilla, vino y caf\xE9. De cada plato comen 3 personas muy bien. La atenci\xF3n fue excelente. La comida es muy rica. Me pareci\xF3 muy pobre la carta de vinos."
+    date: 04-03-2009
+    user: http://mi.guiaoleo.com/members/36472
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La propuesta es interesante y los precios son razonables, pero en algunos casos el tama\xF1o de las porciones es insuficiente. El principal problema fue que trajeron la comida un poco fr\xEDa y a destiempo. El panqueque no vale la pena."
+    date: 31-01-2009
+    user: http://mi.guiaoleo.com/members/45479
+    ambiente_rank: bueno

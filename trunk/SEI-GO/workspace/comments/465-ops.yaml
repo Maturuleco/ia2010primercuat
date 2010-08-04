@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente la ambientaci\xF3n del lugar, la atenci\xF3n es normal. Ideal para ir a tomar algo."
+    date: 13-01-2007
+    user: http://mi.guiaoleo.com/members/18375
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es excelente, muy rom\xE1ntico, moderno. La comida muy rica, lo \xFAnico malo es el precio un poco caro y faltar\xEDa m\xE1s variedad de vinos y postres. Seguramente volver\xE9 muy pronto"
+    date: 06-08-2005
+    user: http://mi.guiaoleo.com/members/247
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente comida y muy buena ambientaci\xF3n (dise\xF1o, iluminaci\xF3n, musica tenue)"
+    date: 22-07-2005
+    user: http://mi.guiaoleo.com/members/2834
+    ambiente_rank: excelente

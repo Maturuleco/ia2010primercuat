@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El mejor pie de lim\xF3n que he comido en Buenos Aires! el trato del personal es muy amable y el lugar acogedor."
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/82932
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me pareci\xF3 un bar precioso. Tranquilo, calmo... La reposter\xEDa y la comida salada, excelentes. Atenci\xF3n s\xFAper amable y precios econ\xF3micos!"
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/79536
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Como no tiene vista al rio se encuentra algo escondido, pero vale la pena visitarlo. Es peque\xF1ito, con algunas mesas en la calle, pero moderno y acogedor. Claramente su especialidad es la pasteleria, tienen variedad de tortas y a la hora del almuerzo, sandwiches y tartas. La atenci\xF3n es amable y los precios adecuados. Especialmente recomendable para desayunar."
+    date: 21-02-2010
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos para tomar un caf\xE9 con torta, nos atendi\xF3 una chica muy amable, y nos asesor\xF3 de una manera muy acertada el due\xF1o, una persona muy atenta y amable.\r\n\
+      La torta recomendada era excelente, al caf\xE9 le faltaba un poco para que fuera de mi gusto. Muy recomendable, excelente patisserie."
+    date: 31-01-2010
+    user: http://mi.guiaoleo.com/members/33686
+    ambiente_rank: muy bueno

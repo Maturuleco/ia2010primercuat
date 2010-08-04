@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar esta bueno para ir un viernes o s\xE1bado que es cuando estan los Tributos a Arjona y Sabina!\r\n\
+      La atenci\xF3n es P\xC9SIMA, con personal poco capacitado que se ve desbordado f\xE1cilmente en cuanto se llena el lugar!\r\n\
+      La comida regular a buena. \r\n\
+      Gana solo por los Shows, los cuales es ideal para ir en pareja."
+    date: 27-03-2009
+    user: http://mi.guiaoleo.com/members/4168
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Una esquina muy linda de Palermo ideal para picar algo y tomar algo fresco, tienen muy buenos menues ejecutivos los sabados al mediodia y la onda del lugar es muy copada.
+      Para recomendar.
+    date: 30-12-2008
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El lugar es realmente lindo.. muy calido y confortable y muy bien acondicionado... la atencion tambien fue buena... pero lo que comimos la verdad que no fue de lo mejor... empezando que comimos una pasta frola porque fue lo "unico" que les quedaba. Eso en un bar de este tipo no es admisible (y encima de eso no era de las mejores pasta frolas que comi)
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es muy confortable, c\xE1lido y con decoraci\xF3n interesante. Los precios est\xE1n acorde a la zona y el lugar. "
+    date: 14-03-2007
+    user: http://mi.guiaoleo.com/members/20076
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es muy interesante, tanto para el d\xEDa como para la noche. La comida estuvo muy rica, l\xE1stima que tardan tanto en el servicio de mesa."
+    date: 12-12-2006
+    user: http://mi.guiaoleo.com/members/14336
+    ambiente_rank: excelente

@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Nos encant\xF3 el ambiente, familiar, acojedor y porte\xF1o. La comida muy rica pero sobre todo muy buena atenci\xF3n!"
+    date: 13-07-2007
+    user: http://mi.guiaoleo.com/members/26890
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente la pasamos muy bien. La atenci\xF3n fue excelente, como la comida y el lugar. Para recomendar y no quedar mal. "
+    date: 11-12-2006
+    user: http://mi.guiaoleo.com/members/14318
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente. Todo hermoso, los murales y la comida.
+    date: 22-04-2006
+    user: http://mi.guiaoleo.com/members/7911
+    ambiente_rank: excelente
