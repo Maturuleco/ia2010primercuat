@@ -1,0 +1,71 @@
+import java.util.Date;
+
+
+public class Comment {
+
+	private String resto;
+	private String serviceRank;
+	private String foodRank;
+	private String environmentRank;
+	private Date date;
+	private String user;
+	private String text;
+	
+	public Comment(String serviceRank, String foodRank, String environmentRank,
+			Date date, String user, String text) {
+		super();
+		this.serviceRank = serviceRank;
+		this.foodRank = foodRank;
+		this.environmentRank = environmentRank;
+		this.date = date;
+		this.user = user;
+		this.text = text;
+	}
+	
+	public String getServiceRank() {
+		return serviceRank;
+	}
+	public void setServiceRank(String serviceRank) {
+		this.serviceRank = serviceRank;
+	}
+	public String getFoodRank() {
+		return foodRank;
+	}
+	public void setFoodRank(String foodRank) {
+		this.foodRank = foodRank;
+	}
+	public String getEnvironmentRank() {
+		return environmentRank;
+	}
+	public void setEnvironmentRank(String environmentRank) {
+		this.environmentRank = environmentRank;
+	}
+	public Date getDate() {
+		return date;
+	}
+	public void setDate(Date date) {
+		this.date = date;
+	}
+	public String getUser() {
+		return user;
+	}
+	public void setUser(String user) {
+		this.user = user;
+	}
+	public String getText() {
+		return text;
+	}
+	public void setText(String text) {
+		this.text = text;
+	}
+
+	@Override
+	public String toString() {
+		String comment = "<"+ serviceRank+ ", "+ foodRank+", "+environmentRank+", "+date.toString()+">";
+		return comment;
+	}
+	
+	
+	
+	
+}

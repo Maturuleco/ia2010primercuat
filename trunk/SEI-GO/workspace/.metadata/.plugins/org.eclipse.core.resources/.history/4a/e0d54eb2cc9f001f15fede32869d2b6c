@@ -1,0 +1,14 @@
+import java.util.Date;
+
+
+public class Comment {
+
+	private String serviceRank;
+	private String foodRank;
+	private String environmentRank;
+	private Date date;
+	private String user;
+	privete String text;
+	
+	
+}

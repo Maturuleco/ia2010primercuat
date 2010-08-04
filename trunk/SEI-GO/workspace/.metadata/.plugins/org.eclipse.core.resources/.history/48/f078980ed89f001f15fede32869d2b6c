@@ -1,0 +1,13 @@
+import java.util.LinkedList;
+import java.util.List;
+
+
+public class StemmerManager {
+
+	private static List<String> words = new LinkedList<String>();
+
+	
+	
+	
+	
+}
