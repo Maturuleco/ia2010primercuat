@@ -117,6 +117,7 @@ public class ParserComments {
 		processText = processText.replaceAll("\\?", " ");
 		processText = processText.replaceAll("\\(", " ");
 		processText = processText.replaceAll("\\)", " ");
+		processText = processText.replaceAll("\\|", "/");
 		return processText;
 	}
 
