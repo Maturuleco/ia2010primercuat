@@ -818,3 +818,39 @@ HandlerActivation(commandId=org.eclipse.jdt.ui.edit.text.java.copy.qualified.nam
 HandlerActivation(commandId=org.eclipse.jdt.ui.edit.text.java.copy.qualified.name,
 	handler=ActionHandler(org.eclipse.jdt.internal.ui.actions.CopyQualifiedNameAction@3d18ff),
 	expression=AndExpression(LegacyEditorActionBarExpression(org.eclipse.jdt.ui.CompilationUnitEditor),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1bbdd48)),sourcePriority=4210689)
+!SESSION 2010-08-04 17:19:44.966 -----------------------------------------------
+eclipse.buildId=M20071023-1652
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -Xms512M -Xmx512M
+Command-line arguments:  -os win32 -ws win32 -arch x86 -Xms512M -Xmx512M
+
+!ENTRY org.eclipse.jface 2 0 2010-08-04 17:19:56.263
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2010-08-04 17:19:56.263
+!MESSAGE A conflict occurred for F12:
+Binding(F12,
+	ParameterizedCommand(Command(org.eclipse.ui.window.activateEditor,Activate Editor,
+		Activate the editor,
+		Category(org.eclipse.ui.category.window,Window,null,true),
+		org.eclipse.ui.internal.ActivateEditorHandler@1e68ce4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F12,
+	ParameterizedCommand(Command(com.instantiations.designer.core.commands.switch,Switch between Source/Design Views,
+		Switch between the Source and Design views.,
+		Category(com.instantiations.designer.core.actions.category,WindowBuilder Pro,WindowBuilder Pro actions,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(F12,
+	ParameterizedCommand(Command(com.swtdesigner.commands.switch,Switch between source and designer,
+		Switch between source and designer,
+		Category(com.swtdesigner.actions.category,SWT Designer,SWT Designer actions,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
