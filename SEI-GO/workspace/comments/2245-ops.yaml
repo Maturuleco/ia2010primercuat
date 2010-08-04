@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un ambiente muy calido y una atencion exelente, recomendable, y de noche al pagar me invitaron con champagne (algo poco visto en lugares de alta gama).
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/83266
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Las Dalias se distingue por ofrecer muy buenos platos caseros, en un ambiente reducido sin pretensiones y con buena atencion. Excelente el clasico lomo a la crema con champignones.
+    date: 21-04-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar acogedor para comer como en casa. Platos abundantes y con estilo casero que dejan satisfecho a cualquier comensal. El personal a cargo del local es muy cordial y en todo momento lo hacen a uno sentir a gusto. Cabe destacar la excelente ubicaci\xF3n del local. En fin, una opci\xF3n poco reconocida pero m\xE1s que recomendable."
+    date: 14-04-2010
+    user: http://mi.guiaoleo.com/members/69568
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Este restaurante ha sido remodelado y ha ganado mucho en la calidad de la comida y en la ambientaci\xF3n. Todav\xEDa no veo gran cantidad de gente concurriendo a comer, pero creo que con el tiempo va a ganar muchos adeptos."
+    date: 07-11-2008
+    user: http://mi.guiaoleo.com/members/10877
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente comida en una zona privilegiada de Buenos Aires.
+    date: 30-11-2005
+    user: http://mi.guiaoleo.com/members/5128
+    ambiente_rank: excelente

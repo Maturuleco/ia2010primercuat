@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me sorprende enormemente los comentarios. La verdad es que fuimos con amigas un viernes a la noche, ya muy tarde. Nos hicieron a pedido una mesa afuera y no tuvieron ningun inconveniente. La pizza riqu\xEDsima (mitad de r\xFAcula y mitad napolitana), la ensalada muy completa y la atenci\xF3n de la moza muy bien, era atenta y divina.\r\n\
+      El ambiente est\xE1 bueno para ir a comer con amigos o en pareja pero muy informal. No se debe pedir m\xE1s de lo que un lugar puede dar, es para ir con amigos y estar tranquilo."
+    date: 09-10-2009
+    user: http://mi.guiaoleo.com/members/13878
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La pizza me sorprendio en su falta de gusto. La porcion de panceta tenia gusto gracias a la panceta, y la de fugazza gracias a la cebolla. Ahora la mozzarella que utilizan es una cosa insulsa completamente. Ademas de que la pizza estaba lejos de estar crocante. La atencion fue normal, nada del otro mundo. Y el lugar esta bueno,
+    date: 18-05-2008
+    user: http://mi.guiaoleo.com/members/45098
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "He ido a este Romario en ocasiones anteriores y gradualmente ha bajado la calidad de productos y servicio y han subido los precios de forma descontrolada. 1 pizza grande con jam\xF3n y huevo cuesta $34,50, es un poco excesivo para no ser un producto de EXCELENTE calidad, como lo fue en otros tiempos. Lo \xFAnico a destacar de la comida es que todo salio considerablemente r\xE1pido.\r\n\
+      Con respecto al servicio, para poder ordenar tuvimos que casi pararnos puesto que ninguna de las 2 chicas que \"atend\xEDan\" nos miraba.\r\n\
+      Con respecto al ambiente, la esquina donde esta ubicado es un muy buen lugar, de f\xE1cil acceso y transitado, y el lugar en s\xED mismo es agradable."
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/36325
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Vamos a comer una pizza? Listo. Este es el plan y SOLO para amigos informales. Para el resto busquen un lugar m\xE1s adecuado. No pretendamos m\xE1s y vayamos temprano. Olvidarlo el domingo por la noche salvo que vayan para saltar por una mesa. El servicio es normalito con chicas con buena prediposici\xF3n, mejor que el de Vicente L\xF3pez y Uruburu. La pizza normalita, ya no tienen, junto con las empanadas, ese gustito t\xEDpico de los Romarios de otros tiempos. Se han masificado. Ni hablar al que cuando se inaugur\xF3 e \xEDbamos, m\xE1s j\xF3venes, all\xE1 por el '94."
+    date: 17-11-2007
+    user: http://mi.guiaoleo.com/members/23846
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: nada del otro mundo. Es una version solapada de las casas de comida en cadena que alguien pone de moda. No vale la pena.
+    date: 16-11-2007
+    user: http://mi.guiaoleo.com/members/5952
+    ambiente_rank: bueno

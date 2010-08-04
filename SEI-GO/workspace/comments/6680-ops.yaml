@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Dentro del barrio es bastante bueno pero hay que tener en cuenta que es el unico. \r\n\
+      Cabe destacar unas entraditas que dan que estan buenas pero despues viene la ensalada. Los tomates cortados que parecian por la mitad, todos verdes. \r\n\
+      Las achuras quemadas y crudas a la vez... si usted cree que no es posible esto vaya y compruebe usted mismo.\r\n\
+      La entra\xF1a zafaba, nada del otro mundo... las fritas eran caseras asi que bien.\r\n\
+      La atencion PESIMA... una moza desatenta y poco amable, te sacaban las cosas antes de terminar la comida. Para nada recomendable."
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/83988
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Parrilla de barrio, amable atenci\xF3n, la mejor opci\xF3n en la zona.  Algunos cortes son para compartir. Muy rica la bondiola. Para cuando el vino bueno en jarrita?"
+    date: 13-04-2010
+    user: http://mi.guiaoleo.com/members/32957
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Vivo a dos cuadras de la parrilla y estoy en condiciones de afirmar que es el mejor hallazgo del barrio y de la zona! La relaci\xF3n precio - calidad es inmejorable, la comida es riqu\xEDsima y la atenci\xF3n excelente: tanto en el local como en el delivery (env\xEDan adem\xE1s del pedido, pan y algo de entrada, todo en bandejas muy prolijas). L\xE1stima que el lugar es algo peque\xF1o. M\xE1s que recomendable!"
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/15258
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Lo mejor del barrio, vivo a 6 cuadras y me encanta ir a comer a paja rota. Un lugar sin grandes pretenciones, con una muy buena materia prima, servicio correcto y ambiente familiar. Relacion precio-calidad excelente.
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/78701
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buena la atencion, la comida,y elambiente es muy familiar, los vecinos del barrio estamos muy contentos con estos chicos,lastima que el lugar no es muy grande
+    date: 19-02-2010
+    user: http://mi.guiaoleo.com/members/23419
+    ambiente_rank: bueno

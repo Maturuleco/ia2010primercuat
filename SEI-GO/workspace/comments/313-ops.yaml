@@ -1,0 +1,94 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: excelente la pizza y un postre clasico la sopa inglesa.
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/80556
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es muy buena. Hay que reconocerlo. El precio no est\xE1 mal. Hay por ah\xED peores y m\xE1s caras. Entre sema35 $na suele estar tranquila y los camareros se esmeran algo m\xE1s. Es recomendable si est\xE1s por la zona. He ido en m\xE1s de una oportunidad y es la que m\xE1s me gusta de Belgrano."
+    date: 25-11-2009
+    user: http://mi.guiaoleo.com/members/72658
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Suelo ir con frecuencia. Todav\xEDa no encontr\xE9 una pizza que la supere. Las empanadas tambi\xE9n son deliciosas, de un abundante relleno y una masa exquisita, inigualables. \r\n\
+      El \xFAltimo plato que degust\xE9 fue Trucha con salsa de esp\xE1rragos y me retir\xE9 realmente satisfecha con el almuerzo. El mozo que me atendi\xF3 fue muy protocolar, siempre con una sonrisa, Basilio se llamaba. \r\n\
+      No ofrece s\xF3lo un servicio, sino una experiencia."
+    date: 19-11-2009
+    user: http://mi.guiaoleo.com/members/72379
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Las pizzas y las milanesas muy ricas, pero la atenci\xF3n dej\xF3 mucho que desear- si bien estaba lleno el lugar no es muy grande. Nos dijeron que esperaramos 20 minutos para ocupar una mesa para 5, pero cada vez que se desocupaba una mesa de 2 sentaban gente con lo cual la espera fue de 45 minutos. Nos dejaron los cubiertos en la mesa adentro de una servilleta (\"rep\xE1rtanselos ustedes\"), despu\xE9s trajeron las bebidas, al rato trajeron los vasos (y faltaba uno) y cuando nos trajeron la comida le tuvimos que pedir los platos que todav\xEDa no los hab\xEDan tra\xEDdo. Desastre.\r\n\
+      Nunca m\xE1s vuelvo!"
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/36102
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: De las mejores pizzas al molde. Ideal para ir con amigos. No esperen una pizzeria fashion, es una pizzeria para ir a disfrutar muy buena pizza al molde. Abundante mercaderia (mucha muzzarella). Despues de Banchero, la mejor pizza al molde.
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/41522
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: las pizzas son muy buenas, como siempre. tipica pizzeria de barrio, ruidosa, llena de gente,....  si quieren ambiente impecable y atencion al instante no se los recomiendo. Si quieren comer una buena pizza SI!!!!!!!!
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/22767
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Porciones abundantes y muy sabosas, ambiente agradable, muy recomendable.
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/19693
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Todos los platos son para compartir. Excelente la calidad de todas las milanesas, supremas y pastas. "
+    date: 01-11-2007
+    user: http://mi.guiaoleo.com/members/34540
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Platos muy abundantes.
+    date: 07-10-2007
+    user: http://mi.guiaoleo.com/members/33582
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "la pizza es asquerosa, desagradable, embebida en aceite y el queso chorreandose, un asco, en cambio las empanadas estaban mas buenas de lo que esperaba. "
+    date: 12-08-2007
+    user: http://mi.guiaoleo.com/members/19384
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: Tenes lo que esperas. Muy buena comida en generosas porciones y un ambiente bien clasico. Los precios son bajisimos. No esperes un gran servicio ni platos elaborados, obvio por $15 por persona..
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/18200
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "La pizza tiene mucho aceite y a veces est\xE1 cruda."
+    date: 14-11-2006
+    user: http://mi.guiaoleo.com/members/7806
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un fiasco! "
+    date: 02-11-2006
+    user: http://mi.guiaoleo.com/members/25936
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Mal\xEDsimo, la pizza muy aceitosa, la atenci\xF3n pat\xE9tica. Para no ir nunca."
+    date: 02-11-2006
+    user: http://mi.guiaoleo.com/members/9970
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La verdad que es muy rica toda la comida. Voy casi todos los d\xEDas, nunca falta la oportunidad para ir a comer all\xE1."
+    date: 09-08-2006
+    user: http://mi.guiaoleo.com/members/11013
+    ambiente_rank: muy bueno

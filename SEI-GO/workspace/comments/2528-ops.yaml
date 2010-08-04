@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy recomendable para los mediodias. Ricos y originales sandwiches y ensaladas.
+    date: 27-11-2009
+    user: http://mi.guiaoleo.com/members/72188
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena opci\xF3n en la zona para los d\xEDas de semana al mediod\xEDa, con buenos ingredientes, naturales y sabrosos, y una excelente relaci\xF3n precio calidad."
+    date: 10-06-2009
+    user: http://mi.guiaoleo.com/members/17990
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si no tenes mucha plata y quer\xE9s evitar el PBT de jam\xF3n y queso o los panchos, te lo recomiendo. \r\n\
+      Sandwichs y ensaladas variadas muy ricos y originales y por un precio muy accesible. El lugar es peque\xF1o, pero es una buena opci\xF3n para almorzar los dias de trabajo."
+    date: 01-11-2007
+    user: http://mi.guiaoleo.com/members/13673
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buenas ensaladas.
+    date: 01-03-2007
+    user: http://mi.guiaoleo.com/members/19210
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Muy buena comida. 
+      Casera y original. Gran variedad en el rubro sandwiches.
+    date: 04-01-2007
+    user: http://mi.guiaoleo.com/members/15763
+    ambiente_rank: muy bueno

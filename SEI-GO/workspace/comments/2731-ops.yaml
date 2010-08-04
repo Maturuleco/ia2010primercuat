@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Comimos pastas, ravioles  que estaban muy bien y fideos con salsa 4 quesos donde parecia faltar el roquefort. La atenci\xF3n fue muy buena, el lugar es agradable. Te cobran el cubierto. "
+    date: 30-09-2007
+    user: http://mi.guiaoleo.com/members/19291
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La picada es excelente y fuera de lo normal. Trae milanesas de mozarella, aceitunas rebozadas, espectaculares brusquettas, queso azul y fetas de jam\xF3n crudo. La cerveza Isenbeck tirada es muy rica y ligera. El ambiente est\xE1  bueno. Lugar ideal para comer algo el domingo a la noche y terminar el fin de semana. "
+    date: 03-01-2007
+    user: http://mi.guiaoleo.com/members/12733
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una buena alternativa. Comida rica y abundante. Buen ambiente y atenci\xF3n acorde."
+    date: 09-08-2006
+    user: http://mi.guiaoleo.com/members/7262
+    ambiente_rank: muy bueno

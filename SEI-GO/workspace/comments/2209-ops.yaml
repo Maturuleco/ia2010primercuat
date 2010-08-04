@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Comida casera y abundante. Delivery hasta tarde
+    date: 01-02-2010
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "lugar peque\xF1o, buena onda, comida excelente y abundante, delivery hasta las mil quinientas"
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/10423
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "\xA1Gracias por hacer delivery hasta la 1:00 am!"
+    date: 22-10-2005
+    user: http://mi.guiaoleo.com/members/4441
+    ambiente_rank: muy bueno

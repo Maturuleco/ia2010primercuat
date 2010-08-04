@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un oasis en plano centro.
+    date: 19-01-2010
+    user: http://mi.guiaoleo.com/members/75228
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Momentos se destaca por 2 cosas: 1) Esta ubicado en la terraza de una galeria y, como no esta a la vista, lo conoces a traves del boca a boca. 2) Tiene una muy buena terraza, para cuando no hace mucho calor o frio. Los precios no son altos y la calidad de la comida no es diferente a la media de los restaurantes para comer al mediodia en el microcentro."
+    date: 12-01-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un bodegon caro. Tenes que ir a la caja a pagar, el lugar muy descuidado. La comida, la misma que en cualquier lugar pero con un precio de diez pesos m\xE1s para arriba por plato. Me desilusion\xE9. Esperaba o que los precios sean m\xE1s baratos para este tipo de menu o un menu mas desarrollado."
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/73989
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El ambiente (los, porque tiene varios) decepciona un poco. La locaci\xF3n es EXTRA\xD1\xCDSIMA. Es el piso de servicio de la Galer\xEDa G\xFBemes; un lugar perdido por los techos y asombrosamene deteriorado en comparaci\xF3n con la magnificencia de la planta baja. Mesas muy juntas; y hasta me toc\xF3 ver un gato merodeando entre las mesas. Olvidable.\r\n\
+      La carta no es muy extensa, y no hab\xEDa nada de pescado. Pero la comida es aceptable. Porciones normales, hecho todo con un toque casero que es lo m\xE1s destacable de este lugar. La atenci\xF3n es correcta y sobre todo r\xE1pida. Pero el lugar no invita a volver seguido."
+    date: 07-10-2009
+    user: http://mi.guiaoleo.com/members/12215
+    ambiente_rank: malo/regular

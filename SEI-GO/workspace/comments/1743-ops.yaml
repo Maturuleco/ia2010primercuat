@@ -1,0 +1,127 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La pizza Caribe con Anan\xE1s y muzzarella a la media masa, me pareci\xF3 rica comparada con otra visita a esta cadena de restaurantes caf\xE9. Los precios son altos en comparaci\xF3n con lo que ofrecen, el servicio es r\xE1pido a pesar de que era un s\xE1bado y hab\xEDa gente esperando.Un lugar que te saca de apuros."
+    date: 03-07-2010
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "A FAVOR: La comida realmente es de muy buen nivel. Casera y abundante. No escatiman con nada y eso da gusto. Recomiendo \xF1oquis con salsa 4 quesos, una exquisites. De postre prueben la mousse de chocolate, la mejor que he comido en mi vida. EN CONTRA: A mi consideraci\xF3n los precios est\xE1n un poco elevados, sobre todo el de las bebidas. Lo bueno sale caro, pero podr\xEDan rebajarlos un poco. Tambi\xE9n deber\xEDan ofrecer una entrada un poco m\xE1s completa. PUNTAJE FINAL: 8 Muy bueno."
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/77539
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Pedimos delivery de empanadas y pizza: todo lleg\xF3 r\xE1pido, bien y barato; la comida, muy rica, especialmente la empanada de carne que result\xF3 muy sabrosa y jugosa a pesar de ser al horno. Recomendable"
+    date: 19-08-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      La atencion es muy distraida, con el salon a un 25% tardaron 15 min en traer la carta, y otros 30 min en traer la comida.
+      La comida no es mala pero no se destaca, muy caro para lo que ofrece.
+    date: 08-04-2009
+    user: http://mi.guiaoleo.com/members/15435
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "He ido en diversas oportunidades, la mayor\xEDa de ellas, simplemente por la parte de cafeter\xEDa. En cu\xE1nto a lo que a comida respecta, no se destaca en absoluto. Precios un tanto violentos para la calidad y variedad de los platos que presentan.\r\n\
+      \r\n\
+      El lugar es bastante bullicioso, pero el ambiente es bueno. La atenci\xF3n no es notable, pero se rescata.\r\n\
+      \r\n\
+      Definitivamente, un lugar que se rescata, pero s\xF3lo para tomar caf\xE9 o desayunar/merendar."
+    date: 15-02-2009
+    user: http://mi.guiaoleo.com/members/56256
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo muy rico y servicio muy esmerado. El sal\xF3n estaba lleno porque jugaba Argentina-Nigeria, y a pesar de la gran afluencia de p\xFAblico nos atendieron de manera incre\xEDblemente r\xE1pida y eficaz. No pedimos gran cosa para comer, pero nuestra experiencia gastron\xF3mica fue excelente, as\xED que volveremos a probar algunos platos."
+    date: 22-08-2008
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Pesimo servicio. Los precios no guardan relacion con la calidad de comida que ofrecen. En esta ultima oportunidad comimos medio calzone Plaza DEL Carmen, y una cerveza. gastamos $60.- y al calzone le faltaba muzzarella. Nunca mas volvemos ya le dimos varias oportunidades.
+    date: 09-07-2008
+    user: http://mi.guiaoleo.com/members/27740
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: pizza buena el lugar es comodo , la atencion buena no hay mucho que destacar es un restaurant de barrio salvo la pizza las otras comidas me parecen un poco cara .
+    date: 20-06-2008
+    user: http://mi.guiaoleo.com/members/46465
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: Me parecio la comida muy comun para el precio que cobran, todo muy standard nada nuevo ni especial. La atencion aceptable pero elijo comer en un restaurant de verdad
+    date: 30-03-2008
+    user: http://mi.guiaoleo.com/members/42906
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Coincido ampliamente con las opiniones anteriormente expresadas: el precio de la carta es desmedido y no se justifica con la gastronom\xEDa que es sencillamente normal. El servicio fue bueno."
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/27926
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Como siempre esta cadena de restaurantes se caracteriza por sus precios desmedidos, siendo la comida en esta sucursal simplemente aceptable. No recomiendo postres ni ning\xFAn tipo de tortas."
+    date: 10-02-2008
+    user: http://mi.guiaoleo.com/members/8127
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Para armar tu propia ensalada y pasar un rato ,nada mas.Eso es lo que ofrece Plaza del Carmen,no les pidamos nada elaborado,no lo logran.
+    date: 25-11-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fui con mi papa y mi hermano, mi plato estaba bien, era un sandwich completo, un poco caro pero que lo valia, en cambio mi papa comio pollo a la provenzal, que eran dos pedazitos minimos de pollo y por el precio ($24) no lo valia en lo mas minimo, tendrian que ajustar un poco los precios, estan demasiado elevados.
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/22065
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Para ser un sabado y en el horario pico la verdad que la atencion de los mozoz fue de lo mejor (y eso que estaban a full atendiendo tanta gente). Nuestro pedido no tardo en venir. La pizza muy buena y las fritas que pedimos antes tambien. Muy buen detalle en plato con pancitos saborizados y pate como entrada. Muy bueno. Recomendable. "
+    date: 25-08-2007
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "No vuelvo a ir ni lo recomiendo. La comida es mala. El lugar no se destaca, carece de estilo. Rescato \xFAnicamente la atenci\xF3n que fue buena."
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/16233
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es internacional. Es rica, el lugar es agradable.
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Se espera demasiado y no tiene la mejor relaci\xF3n precio calidad. El resto OK."
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19020
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un lugar agradable con varios platos livianos. Tal vez un poco ruidoso.
+    date: 10-12-2006
+    user: http://mi.guiaoleo.com/members/14766
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Muy mala la comida, me trajeron una brochette fr\xEDa y cruda (no jugosa, sino CRUDA) a pesar de que expl\xEDcitamente le hab\xEDa pedido al mozo que estuviera bien cocida. El plato tard\xF3 bastante en llegar a pesar de que no hab\xEDa mucha gente, y la atenci\xF3n fue mediocre. "
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/36334
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar lindo y c\xF3modo. La comida me pareci\xF3 muy buena."
+    date: 21-10-2006
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: muy bueno

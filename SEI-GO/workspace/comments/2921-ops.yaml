@@ -1,0 +1,614 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es buena teniendo en cuenta que la idea es comer algo r\xE1pido y diferente a un sandwich. No podemos pretender tener una comida mexicana en todo su explendor a modo fastfood. Cuando uno va a MD no pretende comer la mejor hamburguesa. Me gust\xF3 como nueva alternativa."
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/34118
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un fast food mexicano muy gringo valga la redundancia,. Una opci\xF3n buena para comer algo distinto en el microcentro. Nada excepcional, pero igual es para visitarlo de tanto en tanto."
+    date: 02-06-2010
+    user: http://mi.guiaoleo.com/members/83306
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Muy caro para la comida que te sirven, totalmente sin gusto a nada. Lejos de lo que es la comida mexicana y los precios altos. Primera y ultima vez.
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/61882
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Soy un cliente regular de CBC, hay que admitir que la calidad sigue siendo la misma no mejoran, pero los precios aumentan, pero por 28 pesos se puede comer y quedar satisfecho.
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/80411
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: no me gusto, los tacos chorreaban agua, rapido feo...aunque sea considerado para mediodia es caro...no volvere
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida mexicana es muy rica en sabores y texturas. Tratarla como fast food, es un verdadero desperdicio. Para comer r\xE1pido en el microcentro sugiero otras opciones."
+    date: 17-03-2010
+    user: http://mi.guiaoleo.com/members/78217
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: como es un lugar de comida rapida, mas que el servicio que dan no se le puede pedir. La verdad la comida es rica, prefiero que los tacos tengan la tortilla (si es que se llama asi) crocante, pero elegir el contenido lo hace mas sabroso. Ahora con el burrito compre un combo y no me parecio gran cosa, pero no era nada mal.
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/59425
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los mejores burritos de la ciudad! Un sabor mas yankee (chatarra) que mexicano, pero aun asi, muy ricos. Mi elecci\xF3n: Fajita con arroz, frijoles, lomo en tiras, cerdo, cebollas y ajies, crema agria, guacamole y queso. Todo acompa\xF1ado obviamente de una bien fria cerveza corona con su correspondiente lime. El servicio es bastante rapido, el ambiente es bastante inc\xF3modo, preferible llevarselo. Advertencia: Despu\xE9s de un burrito es muy dificil retomar el trabajo... mejor irse a dormir una siesta!"
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/74150
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La verdad es que \xE9ste lugar es una muy buena opci\xF3n para comer algo diferente en el \xE1mbito del microcentro. Los ingredientes con que uno elige armar su burrito son siempre frescos y muy sabrosos. Los precios est\xE1n un poco por encima de las otras alternativas de comida r\xE1pida, pero bien vale pagar la diferencia. La atenci\xF3n siempre fue cordial y eficiente. Lo \xFAnico que tengo para destacar es que el local les queda peque\xF1o."
+    date: 05-02-2010
+    user: http://mi.guiaoleo.com/members/75848
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: No es nada expectacular, pero para ser fast-food mexicana esta bastante bien. Buena cantidad de opciones de ingredientes para agregar al burrito, q es enoooorme. Barato, rico y rapido. Muy buena atencion en el local del Dot Baires.
+    date: 12-01-2010
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Lo conoci en el shopping Dot y luego fui al de Belgrano.
+      Muy ricos los burritos, muy buena la opcion de armarlo a gusto.
+      Porciones grandes, no escatiman con los ingredientes y armado muy prolijo.
+      Muy buena opcion
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/38076
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy ricos los burritos y los tacos, con mucha variedad de rellenos para elegir, los ingredientes son de muy buena calidad, una muy buena opcion ahora en Belgrano.
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/37645
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo conoci hace un par de a\xF1os y vuelvo seguido por vivir en el barrio. Una excelente combinacion de mexico y EEUU, caracterizada por quien te atiende, un yankee con todas las letras. Vuelvo y vuelvo y vuelvo."
+    date: 25-09-2009
+    user: http://mi.guiaoleo.com/members/75853
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy recomendable lugar para almorzar en el centro, Palermo o zona DOT, burritos con variedad y calidad de ingredientes, muy frescos, muy bien armados y a buen precio, r\xE1pida y eficiente atenci\xF3n, se pueden llevar o comer en el lugar con variedad de bebidas sin caer en la cl\xE1sica gaseosa de los demas locales de comidas r\xE1pidas, un detalle: luego de armado el burrito y mientras uno abona y elige la bebida, el mismo se calienta en una plancha con su envoltorio."
+    date: 21-09-2009
+    user: http://mi.guiaoleo.com/members/16134
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "CBC ahora en el Dot! una excelente opci\xF3n la verdad, lo eligo siempre antes que las hamburguesas.\r\n\
+      La comida es de muy buena calidad y las porciones abundantes, no te lo arm\xE1s vos el burrito pero no escatiman en nada.\r\n\
+      La atenci\xF3n me parece muy cordial y en cuanto al ambiente, es el t\xEDpico de un patio de comidas.\r\n\
+      El de Lavalle, les qued\xF3 chico el local al mediod\xEDa, de noche esta re tranqui."
+    date: 17-08-2009
+    user: http://mi.guiaoleo.com/members/15712
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Burritos muy ricos. Los armas con los ingredientes que mas te gusten. Lo unico que cambiaria yo seria que la carne estuviera caliente, pero eso va a gusto de cada uno imagino.... Muy pero muy amable la atencion.
+    date: 15-08-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno. Me encanta la calidad y variedad de los insumos que utilizan. Se nota que es mercaderia muy fresca y de calidad. Ademas los burritos son inmensos y los sirven recargados. Para quienes no puedan concurrir al centro por algun motivo; tambien tienen un local en el nuevo shopping Dot; donde en un ambiente mas grato; se pueden degustar sus exquisitos burritos, tacos y quesadillas
+    date: 14-08-2009
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Me encanta para ir al mediodia. Todo muy fresco y de buena calidad.
+    date: 25-06-2009
+    user: http://mi.guiaoleo.com/members/59155
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Gran lugar para el mediod\xEDa, comer algo rapido. \r\n\
+      Lo mejor es poder armarte los burritos como queres."
+    date: 18-06-2009
+    user: http://mi.guiaoleo.com/members/64171
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Este lugar es ideal para ir al mediod\xEDa a comer. Lo \xFAnico malo es que si arman el burrito muy grande van a tener que ir a comprar un traje nuevo, o lo que es peor, van a tener que dormir 2 hs de siesta como m\xEDnimo."
+    date: 15-06-2009
+    user: http://mi.guiaoleo.com/members/14269
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El mejor burrito vegetariano que he comido en a\xF1os. Los nachos con queso son excelentes. El estilo de la comida es texmex de comidas rapida. La comida muy fresca. El lugar es muy lindo."
+    date: 15-06-2009
+    user: http://mi.guiaoleo.com/members/36032
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "excelente lugar: un fast food de burritos con productos de buena calidad y muy sabrosos para combinar armando combos unicos y a gusto!!! vale la pena: los burritos los arman bien armados y terminan siendo una comida super abundante. para un almuerzo calorico y riquisimo! la salsa q pedi (creo q era pico de gallo) para los nachos no era genial, pero igual para acompa\xF1ar estuvo todo bien. la atencion: super amable y cordial. me sorprendio para bien!"
+    date: 11-05-2009
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Opcion diferente para el mediodia. Ingredientes frescos pero ambiantacion mediocre
+    date: 11-05-2009
+    user: http://mi.guiaoleo.com/members/62323
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Los burritos todo muy fresco y de buena calidad.\r\n\
+      Tienen que mejorar los nachos y la salsa para ellos.\r\n\
+      Tienen que \xB4poner mas personal."
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/51681
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me encant\xF3. Particularmente me gusta la comida mexicana y este lugar es una buena opci\xF3n para algo r\xE1pido y abundante. Hay muchos ingredientes, todo fresco. Muy recomendable. Recomendable de noche, de d\xEDa se debe llenar de gente por cuestiones obvias. Vayan!"
+    date: 24-04-2009
+    user: http://mi.guiaoleo.com/members/60146
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atencion, comida fresquisima y con ingredientes de excelente calidad, al fin ingredientes picantes de verdad - si uno quiere- , el nuevo local de Godoy Cruz 1781 es grande, comodo y con una hermosa terraza. Precios accesibles. Buenisimo para ir solo, con amigos, pareja o con los chicos ya que abren los fines de semana al mediodia. Conoci a uno de los due\xF1os, lo que habla muy bien de su preocupacion por que el comenzal se sienta comodo y satisfecho. Definitivamente para volver!"
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/10693
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un fast food de comida mexicana, principalmente focalizada en burritos. Creo que es un lugar que no defrauda, los burritos son abundantes y los ingredientes frescos, la relaci\xF3n precio-calidad y la atenci\xF3n son los puntos m\xE1s destacables. El ambiente es chico, al mediod\xEDa se llena. No recomiendo los nachos, ya que b\xE1sicamente son burritos pero m\xE1s chicos. Una buena opci\xF3n para los mediod\xEDas de la city."
+    date: 07-04-2009
+    user: http://mi.guiaoleo.com/members/6194
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy rica la comida. Lo recomiendo.
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/61476
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me encanto el burrito. El combo ven\xEDa con nachos y gaseosa. Super abundante y sabroso. Tendr\xEDan que abrir sucursales. Lo recomiendo."
+    date: 06-02-2009
+    user: http://mi.guiaoleo.com/members/57806
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es una opcion distinta para comer a la salida del trabajo. El lugar es un fast-food de comdia mexicana obviamente y lo particular de este restaurant es que vos te armas los burritos como queres y le podes poner de todo porque tienen varias cosas para poder combinarlo como vos quieras. El ambiente es normal como el de todo fast food pero cabe destacar la limpieza del lugar.
+    date: 14-01-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Este lugar es un McDonald's versi\xF3n texmex, y la cola de pedidos parece una cinta transportadora. Sin embargo, sorprendi\xF3 que la atenci\xF3n fuera tan c\xE1lida (a diferencia de los locales de comida r\xE1pida), y sobre todo me encant\xF3 que el lugar tuviera opciones vegetarianas (y que no hicieran preguntas raras al respecto). El burrito en s\xED estuvo muy recomendable, a un precio relativamente accesible. El ambiente, por el contrario, result\xF3 un tanto deprimente, pero, considerando que es un local de fast-food, se convierte en una alternativa interesante a un lugar tradicional de hamburguesas."
+    date: 02-01-2009
+    user: http://mi.guiaoleo.com/members/47188
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Los burritos son buenisimos y los ingredientes muy frescos. Buena opcion para el mediodia.
+    date: 23-11-2008
+    user: http://mi.guiaoleo.com/members/18643
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Los burritos excelentes! los ingredientes son muy frescos y sabrosos. Recomiendo los nachos con guacamole y crema acida! El servicio es excelente, muy amable y atento, se nota la cultura yanki (sus duenos) de atencion al cliente. Ambiente discreto y prolijo. Una opcion distinta y super interesante en los rutinarios almuerzos portenos. Deberian extender el horario nocturno. Me encantan, los recomiendo!
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/40016
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "1) Los burritos: Ricos, frescos, variedad de ingredientes para elegir (poroto negro, tomate con cilantro y limon, guacamole, arroz, pollo, cebolla y morron asado, rucula, quesos, MUCHO!)\r\n\
+      2) El servicio: Excelente, pues se llena de gente y te atienden dinamicamente igual y uno se entretiene desde que hace la cola hasta que le entregan su burrito. (la cola te sirve para pensar de que lo vas a pedir esta vez). Adem\xE1s: mucho personal y muy atentos. Adem\xE1s II: Excelente packaging y GUIA PARA COMERLOS adecuadamente! \r\n\
+      3) El ambiente no es muy lindo pero si la gente que va. Todos a comer&disfrutar!"
+    date: 07-10-2008
+    user: http://mi.guiaoleo.com/members/6823
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy ricos los burritos, muy buena calidad en los ingredientes, frescos y sabrosos. El lugar es como un fast food de comida mexicana.
+    date: 03-10-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy ricos los burritos y buena relacion precio/calidad. Por suerte llegamos despues de la hora pico.
+    date: 08-09-2008
+    user: http://mi.guiaoleo.com/members/50931
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es la \xFAnica opci\xF3n en BA para comer burritos, son muy buenos y abundantes aunque antes eran mas sabrosos. El precio est\xE1 bien, creo que hay que elegir la opci\xF3n de $ 24 burrito a elecci\xF3n, nachos y bebida mediana. Es una buena copia del Chipotle de USA, pero el local es p\xE9simo, chico y ruidoso"
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/50405
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Burrito de carne con salsa pico de gallo. Muy abundante y fresco. Relaci\xF3n precio calidad: aceptable."
+    date: 14-08-2008
+    user: http://mi.guiaoleo.com/members/19028
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Lugar con buena onda, cada uno opta por el relleno su preferencia,buena idea para un fast food distinto.
+    date: 13-08-2008
+    user: http://mi.guiaoleo.com/members/30557
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Como fast food muy bueno, pero no como restaurante. Buen tama\xF1o, buenos precios pero no esperes sentir los sabores Mexicanos. El guacamole muy rico y la atencion muy simpatica y eficiente. Imagino que para almorzar al paso es muy buena opcion."
+    date: 06-08-2008
+    user: http://mi.guiaoleo.com/members/37664
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Burritos de gran tama\xF1o con muy buena elaboraci\xF3n y calidad en los ingredientes. Ello da como resultado una opci\xF3n de fast food inmejorable en el microcentro. Los due\xF1os son unos pibes norteamericanos que tienen claro el concepto de servicio al cliente; l\xE1stima el local, chico y \"encajonado\". Para ir al mediod\xEDa, no exactamente a la 1."
+    date: 17-07-2008
+    user: http://mi.guiaoleo.com/members/16130
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Este lugar nunca defrauda, siempre voy a comer burritos, y salgo satisfecha y llena. Me ha tocado ir de noche, dandome la ventaja de no encontrarme con el lugar lleno. El menu surfer, que incluye un burrito o 3 tacos, nachos y una bebida mediana sale $24..Si bien no cuestiono la calidad de la comida, podrian bajar un poco los precios..El resto es recomendable, el guacamole es mortal!El ambiente es muy lindo tambien, cambiaron la decoracion hace poco.
+    date: 02-07-2008
+    user: http://mi.guiaoleo.com/members/44625
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Incre\xEDble ambiente, s\xFAper energ\xE9tico y encima buena m\xFAsica!\r\n\
+      Al fin hay una opci\xF3n copada y diferente en el microcentro. GRACIAS CALIFORNIA BURRITO, quiero volver a la noche de Tacos el martes que viene."
+    date: 20-06-2008
+    user: http://mi.guiaoleo.com/members/46445
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Lo mejor del microcentro y una calidad \xFAnica. No dejan de sorprenderme estos burritos de california. Aunque en \"comida\" dice mexicana y la verdad es que es tex-mex, bien de USA!!!"
+    date: 18-06-2008
+    user: http://mi.guiaoleo.com/members/35785
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Simplemente el mejor lugar de comidas rapidas de Buenos Aires. El precio es muy bueno en relacion a la excelente calidad de la comida.
+    date: 28-04-2008
+    user: http://mi.guiaoleo.com/members/45495
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Es como un servicio rapido de comida mexicana, nos parecio bastante caro para lo que era, aunque era rico, pero el ambiente deja mcho q desear.
+    date: 26-04-2008
+    user: http://mi.guiaoleo.com/members/46490
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      comi un burrito  con los ingredientes que me ofrecio un flaco que calculo era yankee con la mejor onda me atendio 
+      pedi un burrito y una gaseosa y 20 pesos 
+      muy rico  pero el precio podria ser menor
+    date: 14-04-2008
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "no ten\xEDan TACOS, carne, guacamole, queso,  o crema.  Y margaritas solamente los martes??? No vale la pena."
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/43209
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      When I moved from San Francisco to Buenos Aires I didn't expect to be able to continue eating burritos so I was pleasantly surprised when I stumbled on CBC.
+      
+      Not bad. I give them points just for being someplace I can get rice and beans. The tortillas are too thick, however. I'm sure their supply chain is a nightmare. I'd give their burritos a C+ but when you've had enough steak, pizza, pasta and Freddo [believe me, the point will come eventually] CBC is a welcome trip home.
+    date: 03-04-2008
+    user: http://mi.guiaoleo.com/members/42817
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente. Es una masa redonda que se le va agregando opcionalmente arroz, carne en tiras, lomo, pollo o cerdo (hasta 2 tipos de carne), cebolla, morron, frijoles, guacamole, queso rallado, salsa picante,suave o fuego, queso agrio, zanahoria, tomate, lechuga, etc. Se arma al gusto de cada uno. Muy muy rico. Vale $17 el menu de burrito + bebida (nachos con guacamole por $4 mas). Lo unico malo es que al mediodia se forma mucha cola (aunque avanza rapido), hay pocas mesas y no hay aire acondicionado o esta muy suave (en verano te moris). Igual voy 2 veces por semana. "
+    date: 26-02-2008
+    user: http://mi.guiaoleo.com/members/41106
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena opci\xF3n para variar un poco el men\xFA de aquellos que trabajan en la zona. No hay variedad (si combinaciones) y cada uno se arma el burrito seg\xFAn los ingredientes que le van ofreciendo en el momento. La atenci\xEDon es buena (r\xE1pida) las porciones son abundantes."
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/18816
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Comida buena. A la hora que yo fui, alrededor de las 13 horas estaba repleto de gente, el servicio muy lento. Ambiente demasiado ruidoso.\r\n\
+      Recomiendo ir m\xE1s temprano y llevar la comida para comer m\xE1s tranquilo."
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Idea innovadora. La propuesta es consumir comida r\xE1pida pero de BUENA CALIDAD. Es un ambiente joven y desestructurado que sirve para comer con amigos o relajarse con colegas del trabajo."
+    date: 30-01-2008
+    user: http://mi.guiaoleo.com/members/1730
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n para comer tacos al mediod\xEDa. La comida es muy buena y fresca. Hac\xEDa un tiempo que no iba (fui por primera vez apenas abri\xF3) y no me extra\xF1\xF3 que estuviera tan lleno ahora. Si llegas despues de la 1 pm hay que esperar mucho y, como el lugar no es muy grande, corres el riesgo de no tener una mesa buena. Punto en contra: la cantidad de carne del taco. No escatiman con los otros ingredientes, pero si con la carne..."
+    date: 23-01-2008
+    user: http://mi.guiaoleo.com/members/10476
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena opcion para almorzar al mediodia en el centro. todos los ingredientes frescos y a la vista. Vas armando tu burrito practicamente con los ojos a medida que va avanzando la tortilla. Lo unico malo es el sal\xF3n. Muy chico para la cantidad de gente que va (igual atienden rapido). Recomiendo al que pueda, salir a almorzar a las 12:30 en lugar de las 13 asi consigue una mesita (sobre todo si van de a 4 o 6)."
+    date: 09-01-2008
+    user: http://mi.guiaoleo.com/members/27624
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente opci\xF3n par aun d\xEDa al mediod\xEDa. Porciones muy abundantes e ingredientes frescos."
+    date: 26-12-2007
+    user: http://mi.guiaoleo.com/members/14759
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "este lugar es EXCELENTE, una opci\xF3n distinta para comer en el centro, especialmente al mediod\xEDa como dijeron muchos que se llena a full. Los ingredientes son fresquisimos y el resultado final es \xF3ptimo, nunca com\xED algo tan rico en un fast food. El servicio es muy bueno las chicas son atentas y simp\xE1ticas, y los due\xF1os son 3 yanquis que est\xE1n por ah\xED limpiando, ordenando y atendiendo. Muy buena onda! Altisimamente recomendable, hace poco fui con una amiga en horario de almuerzo y le encant\xF3!"
+    date: 10-12-2007
+    user: http://mi.guiaoleo.com/members/27090
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Unos nachos con queso EXCELENTES. "
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/15837
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente opci\xF3n de comida r\xE1pida para el Microcentro. Los ingredientes son frescos y se destacan las muchas opciones que te dan, con distintos tipos de carnes y salsas. Importante, tienen Corona. Me tira un poquito atr\xE1s el look gringo, pero, bueno, bienvenidos. "
+    date: 04-12-2007
+    user: http://mi.guiaoleo.com/members/33466
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena comida, hasta ahora los mejores y m\xE1s suculentos burritos que prob\xE9 en Buenos Aires (salvo por Mar\xEDa F\xE9lix, pero el precio es diferente tambi\xE9n). Si bien la variedad no es amplia, es buena, con lo justo y necesario. Necesitan ampliar el local un poco m\xE1s y dar servicio m\xE1s r\xE1pido. "
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/23882
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Fui varias veces, mediodia y noche. Al mediodia es bastante incomodo debido a la falta de espacio.
+      A la noche esta vacio... es mas tranquilo para comer. 
+      La comida es buena pero un par de veces me paso que  algunos de los ingredientes ( carne) estaban un poco frios...
+      igual lo recomiendo como una alternativa para una comida rapida y distinta.
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/25630
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenos los burritos, lastima que el pico de gallo no era realmente picante. En la hora pico es bastante caotico pero te atienden bastante r\xE1pido."
+    date: 22-11-2007
+    user: http://mi.guiaoleo.com/members/35480
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelente calidad de comida... es muy rico, saludable y te llena... realmente comer\xEDa todos los d\xEDas ah\xED!!!"
+    date: 21-11-2007
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Rica comida para ser un fast food.
+    date: 16-11-2007
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hab\xEDa mucha gente debido a que era hora pico. La atenci\xF3n es r\xE1pida, pero aunque no lo hubiese sido juro que valdr\xEDa la pena la espera porque el burrito es EXCELENTE.\r\n\
+      Los martes es noche de tacos. Salen solo dos pesos y hay m\xFAsica en vivo. Hay much\xEDsimos extrangeros y mucha onda. Los due\xF1os pasean por el lugar y desde que uno entra tiene la sensaci\xF3n de que todos se conocen. \xA110 puntos a los Burritos de California! "
+    date: 06-11-2007
+    user: http://mi.guiaoleo.com/members/35785
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente \"fast food de comida mexicana\". Es la primera vez que voy y como no tengo experiencia en  este tipo de comida la camarera me supo explicar como es el sistema y que clases de comidas hay. \r\n\
+      El burrito se prepara con los ingredientes que uno elije. Se le pueden poner 2 tipos de carne y luego completar con arroz, frijoles, cebollas, aji\xE9s, salsas y dem\xE1s. Esto se completa con una bebida (gaseosa, cerveza, agua mineral o magaritas de la casa). Recomendable acompa\xF1ar con nachos con queso roquefort fundido. Lo \xFAnico que se le puede reprochar es que el local es chico y en las horas pico del medidod\xEDa suele haber cola para comer. Para la persona que ama la comida mexicana, es un lugar al que no puede dejar de ir. "
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/430
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente es muy bueno, con bandas en vivo los mi\xE9rcoles a la noche, y lleno de extranjeros. Te sent\xEDs un turista de vacaciones. La comida rica, aunque no hay una opci\xF3n de salsa realmente picante, lo cual es raro para un lugar de comida mex. Muy recomendable para ir con amigos a picar algo antes de una salida. \r\n\
+      No es para ir en pareja. "
+    date: 30-10-2007
+    user: http://mi.guiaoleo.com/members/29745
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar de paso pero buena opci\xF3n para alg\xFAn mediod\xEDa a la semana. \r\n\
+      Ambientaci\xF3n y lugar bastante fr\xEDos. Muy buenas las fajitas."
+    date: 19-10-2007
+    user: http://mi.guiaoleo.com/members/34141
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: buena la comida todo muy limpio, la atencion  correcta no habia buena predisposicion de parte de la empleada para explicar las diferentes combinaciones siendo la primera vez en comer comida mexicana , en la lista figuraba helado y no habia y tampoco cafe que tambien estaba en la lista. volveria solo por la comida nada mas
+    date: 19-10-2007
+    user: http://mi.guiaoleo.com/members/32600
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy fast food de comida al paso, recomendable. Lastima el lugar es es chico para la cantidad de gente que concurre. "
+    date: 18-10-2007
+    user: http://mi.guiaoleo.com/members/28450
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Realmente el unico lugar en baires que se come comida tex-mex. 
+      El servicio es al paso, el lugar es un poco chico para la cantidad de gente que va, pero realmente vale la pena, muy muy bueno.
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/8023
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fuimos a la noche, tipo 8:30pm (lei que de dia hay mucha espera), solo habia otras 3 o 4 personas. Comimos 2 California Burritos y unos nachos con queso. Te los arman a la vista con los ingredientes que vos elijas... MUY buenos y de generoso tama\xF1o, mi mujer no se termino el suyo (claro que yo la ayude a que desapareciera).\r\n\
+      Habiendo vivido mucho tiempo en USA, es la 1era vez desde que volvi, que encontre una buena comida mexicana en Baires, ya que hay otras opciones Mexicanas por Palermo Soho y zona Norte pero que se diluyen en la pretension y el \"figurismo\"... y ni hablar de los precios.\r\n\
+      En California Burrito Co, a mi entender esta la mejor comida mexicana de Baires y al mejor precio. Sin pretenciones, solo buena comida azteca."
+    date: 05-09-2007
+    user: http://mi.guiaoleo.com/members/16793
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Me parecio un lugar prolijo pero que no deslumbra, no deja de ser una opcion mas para los mediodias en el centro... un buen lugar para comer al paso y rapido. 
+      La relacion precio calidad es muy buena, ya que los productos si bien no son para nada sofiticados son de muy buena calidad.
+    date: 04-09-2007
+    user: http://mi.guiaoleo.com/members/14242
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El mejor lugar de Buenos Aires para comer comida TexMex. Con un calidad que debe preocupar a los restaurantes que se dicen Mexicanos en la ciudad. Muy buenos Burritos y mejor aun los nachos. Muy recomendable.
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar. Muy cuidadoso en la preparaci\xF3n de los ingredientes, los mejores burritos, seriamente adictivos y muy econ\xF3micos, para regresar una y mil veces. "
+    date: 20-08-2007
+    user: http://mi.guiaoleo.com/members/30510
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "excelente! volv\xED ayer despu\xE9s de 4 meses. No hay mucho para comentar, fu\xED a la 1 y a pesar de la cantidad de gente almorz\xE9 r\xE1pido y rico. La atenci\xF3n es muy buena sin dudas ! Lo mejor: gente de todos idiomas! Si trabajan por el Microcentro, es parada obligada (obvio, si te gustan los burritos y los nachos)"
+    date: 16-08-2007
+    user: http://mi.guiaoleo.com/members/3967
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Burritos estan buenos, pero los pueden preparar un poco mejor, ya que se deshace completamente el Burrito cuano lo levantes para comertelo con las manos (como se debe comer un Burrito) Pero, si me gusto la comida.
+    date: 15-08-2007
+    user: http://mi.guiaoleo.com/members/31423
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy rico, como estar en estados unidos comiendo un burrito con sour cream, muy fresco y economico.
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/8016
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena comida y porci\xF3n generosa.\r\n\
+      Excelente opci\xF3n considerando la calidad y cantidad en relaci\xF3n con el precio."
+    date: 01-08-2007
+    user: http://mi.guiaoleo.com/members/28619
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: fui alrededor de las 15hs porque antes se llena!! la verdad q cuando apenas entre al lugar tenia espectatibas de que iba a comer bien,pero me equivoque, comi excelentemente bien, la materia prima utilizada es sin dudarlo de primera calidad,la atencion es correcta,el sistema es muy rapido, sencillo y nunca pierde la prioridad para los que nos gusta disfrutar de las cosas sencillas pero de alta calidad gourmet!! vuelvo segurisimo y a los q van a los fast food se lo recomiendo con los ojos cerrado.
+    date: 30-07-2007
+    user: http://mi.guiaoleo.com/members/28149
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente todo! A pesar de que es un lugar chico y no ambientado sobre la regi\xF3n (comida Texmex), vale la pena probar los riqu\xEDsimos burritos. Es rapid\xEDsimo! Hac\xE9s una fila, te preguntan que vas a llevar: \"burrito California\" y ah\xED elej\xEDs las carnes (tira, pollo, cerdo...) y millones de cosas mas: arroz, tomates, guacamole (que lo preparan muy bien) albhaca, quesos, aj\xEDes, no se, de todo!... lo envuelven, pagas, y a la mesa a devorar!! eso s\xED... hay que ir temprano porque alrededor de las 12.30 se llena!\r\n\
+      Basta de Mc Donalds! que por 15 mangos te dan una hamburguesa diminuta. en California Burrito Co. (CBC) pagas $2 mas y te llenas de delicia! S\xFAper recomendado!! "
+    date: 26-06-2007
+    user: http://mi.guiaoleo.com/members/25372
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "rapido , bueno y sabroso....para volver seguido "
+    date: 21-06-2007
+    user: http://mi.guiaoleo.com/members/6025
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente opcion para almorzar en el centro.\r\n\
+      Muy buenas opciones para armarte el burrito como m\xE1s te guste. Si no hay mucha cola, almorz\xE1s en media hora. Muy recomendable."
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/25934
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me dijeron del lugar y por el nombre supe que sab\xEDan como hacer las cosas, eficiente, rico y barato. Genial cuando est\xE1s de paso por el centro y ya te aburriste de los Mc Donald\xB4s y derivados. Para volver a probar m\xE1s cosas. \xDAnica sugerencia, que los ingredientes de los burritos est\xE9n un toque m\xE1s calientes. "
+    date: 30-05-2007
+    user: http://mi.guiaoleo.com/members/15558
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy bueno para empezar con los sabores de mexico. no hay mucha variedad...burritos, tacos y nachos, pero esta bien para lo que es la propuesta. algo rapido, con muchas combinaciones, ambiente limpio y muy importante, buen precio. lo recomiendo para una salida informal o un almuerzo de emergencia en el centro.
+    date: 14-05-2007
+    user: http://mi.guiaoleo.com/members/18842
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Uno de los pocos restaurantes en Buenos Aires que sirven comida mexicana buena. "
+    date: 07-05-2007
+    user: http://mi.guiaoleo.com/members/23011
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Como cada uno se arma su propia fajita o burrito,el comentario es sobre la calidad de los productos,que me parecieron de primera.Todo rico,abundante,r\xE1pido y barato.Linda opci\xF3n"
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/13145
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una propuesta diferente con costo accesible. Es una buena opci\xF3n para el mediod\xEDa si uno est\xE1 apurado y no dispone de tiempo. Es buena la calidad de los productos y tiene buena onda para lo peque\xF1o que es."
+    date: 26-03-2007
+    user: http://mi.guiaoleo.com/members/11607
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un Fast Food diferente, comida mexicana onda gourmet. Buen\xEDsimos los burritos con cerdo, pollo o lomo de primera calidad. Mercader\xEDa muy fresca. Espectaculares las salsas y la atenci\xF3n. Genial el guacamole. Riqu\xEDsimos los nachos. Un lugar para volver. "
+    date: 20-03-2007
+    user: http://mi.guiaoleo.com/members/15797
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una opci\xF3n diferente para comer al medodia en el centro.-\r\n\
+      La verdad que no ten\xEDa grandes expectativas, me sorprendi\xF3 positivamente.\r\n\
+      Muy buenos los burritos y los nachos, se nota que es todo muy fresco-\r\n\
+      Local muy bien ambientado.\r\n\
+      Por unos pocos pesos m\xE1s, se come mucho mejor y diferente, que en un Burger o en un Mac-"
+    date: 20-03-2007
+    user: http://mi.guiaoleo.com/members/4439
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Atendido por dos norteamericanos, uno ni habla espa\xF1ol. Burritos como deben ser, una idea original, simple, buena y barata. Por la noche hay poca gente."
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/3579
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Ideal para el horario del almuerzo durante la semana, bien organizado para comer r\xE1pido y volver al laburo (siesta de por medio). La comida es buena y abundante, el local es peque\xF1o y no d\xE1 abasto. Muy original dentro de la oferta del centro. "
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/18657
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelentes burritos, tacos y nachos.La atenci\xF3n es  muy buena al igual que la limpieza del lugar.\r\n\
+      La mejor opcion para el mediodia en el microcentro."
+    date: 01-03-2007
+    user: http://mi.guiaoleo.com/members/13262
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy original, algo distinto en el centro y hasta en el pa\xEDs, ya que no hay restaurantes al estilo Taco Bell. \r\n\
+      Me sent\xED bien atendido, todo muy r\xE1pido y con un ambiente muy joven. Recomendaci\xF3n: No ir de 13 a 14, la cola llega hasta la puerta."
+    date: 01-03-2007
+    user: http://mi.guiaoleo.com/members/19198
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena comida por poca plata. Atenci\xF3n r\xE1pida. Propuesta diferente en el microcentro, para visitar seguido."
+    date: 28-02-2007
+    user: http://mi.guiaoleo.com/members/19150
+    ambiente_rank: muy bueno

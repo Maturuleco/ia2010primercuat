@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Restaurante de barrio, muy espacioso. La comida es buena y abundante y el servicio es r\xE1pido. Saca de apuros."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/42601
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui varias veces y en general tengo una buena impresi\xF3n del lugar. Es un restaurant de barrio y como tal lo califico. El servicio fue muy bueno si considero que hab\xEDa mucha gente y era s\xE1bado (me atendi\xF3 una moza). Tambi\xE9n la comida buena y abundante. Seguir\xE9 yendo"
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/10204
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: El pollo reseco, el mozo cero onda, la milanesa horrible, no vuelvo mas.
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/38923
+    ambiente_rank: bueno

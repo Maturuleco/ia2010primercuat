@@ -1,0 +1,14 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "mala la atecnion y la comida pesima, sirven 4 camarones minusculos con un arroz incomible de berreta. "
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/210
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es una buena opci\xF3n en el shopping, combinado con una salida al cine.\r\n\
+      La comida depende un poco de qui\xE9n est\xE9 cocinando y de la cantidad de cubiertos por atender, pero \xFAltimamente viene con un nivel parejo bueno. El servicio es amable y generalmente muy bueno."
+    date: 19-10-2007
+    user: http://mi.guiaoleo.com/members/33780
+    ambiente_rank: bueno

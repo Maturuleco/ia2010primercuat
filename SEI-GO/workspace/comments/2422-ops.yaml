@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El precio no es barato por una provoleta, un tomate partido al medio una porci\xF3n de fritas y media pirci\xF3n de mollejas con dos gaseosas y sin postre. Supongo que cobran el lugar donde est\xE1n..."
+    date: 26-01-2010
+    user: http://mi.guiaoleo.com/members/68234
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La moza recomend\xF3 especialmente vac\xEDo y asado. El vac\xEDo (abundante) era duro. Respecto al asado, a pesar que la carta dec\xEDa que las porciones eran para 2 personas, debimos repetir ya que claramente no era as\xED. No esper\xE1bamos sofisticaci\xF3n sino calidad de los alimentos que result\xF3 regular"
+    date: 06-12-2008
+    user: http://mi.guiaoleo.com/members/52387
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui un domingo al mediodia, el lugar parec\xEDa bueno. El servicio decepcionante, muy poca voluntad para atender por parte de la moza. La comida muy mala, ped\xED vac\xEDo y vine frio, las papas fritas, chorreaban aceite, incomibles. Nuncas mas, prefiero ir a otro lugar"
+    date: 05-10-2008
+    user: http://mi.guiaoleo.com/members/22094
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Car\xEDsimo para ser un carrito de la costanera modificado con aires de parrilla. Eramos 2 personas y comimos chinchulines, ensalada completa, papas fritas, una cerveza, un agua y bud\xEDn de pan como postre y terminamos pagando $100. Considerando que no comimos otros cortes, el precio es una barbaridad ya que por el mismo valor en Don Julio se come mejor y m\xE1s sustancioso."
+    date: 24-08-2008
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena parrilla, la carne es un manteca exelente lugar y ambientacion de la zona la mejor parrila lejos
+    date: 04-06-2008
+    user: http://mi.guiaoleo.com/members/42016
+    ambiente_rank: muy bueno

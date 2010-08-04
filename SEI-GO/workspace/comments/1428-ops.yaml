@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Excelente ambiente, muy buen servicio y para destacar los platos principales en particular exquisito el panini.
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/30014
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Uno de los rest\xF3s mas visitado cuando me junto con amigas. La comida esta muy bien, la ambientaciones es adecuada, aunque el sector fumadores esta medio desprolijo. El precio es muy conveniente. Algo para destacar es que deberian cambiar la carta, asi me sorprenden con algo nuevo. Recomiendo"
+    date: 05-09-2007
+    user: http://mi.guiaoleo.com/members/16191
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La atenci\xF3n es buena, se come muy bien, la ambientacion es re loca. Lo \xFAnico que cambiar\xEDa es la calefacci\xF3n, es p\xE9sima, cenamos con los abrigos puestos. "
+    date: 16-06-2007
+    user: http://mi.guiaoleo.com/members/891
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente y la atenci\xF3n dejan bastante que desear. \r\n"
+    date: 03-02-2007
+    user: http://mi.guiaoleo.com/members/17831
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente la ambientaci\xF3n, una buena opci\xF3n el patio. La carta es acotada, tambi\xE9n la de vinos. Igual es agradable y muy rica la presentaci\xF3n de platos. Buena experiencia. "
+    date: 27-01-2007
+    user: http://mi.guiaoleo.com/members/9788
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente ambientaci\xF3n. Hay que llegar temprano para conseguir las mejores mesas (arriba). Las tapas son buen\xEDsimas, igual que las pastas. Los precios son accesibles."
+    date: 24-01-2007
+    user: http://mi.guiaoleo.com/members/16309
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la comida, los panninis de lomo son de diez.\r\n\
+      El ambiente tambi\xE9n es espectacular."
+    date: 12-12-2006
+    user: http://mi.guiaoleo.com/members/14524
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Cuando ya pensaba que nunca me pod\xEDan volver a atender tan mal, el Rescate me sorprende como uno de los lugares con peor atenci\xF3n y cocina. \r\n\
+      Esto es m\xE1s sopresivo si aclaramos que nos atendi\xF3 (casi directamente) el mismo due\xF1o.\r\n\
+      Si quiere pasar una velada agradable pero sin comer y sin que lo atiendan, este es el lugar indicado. \r\n\
+      Si quiere comer bien entonces la opci\xF3n no aplica.\r\n\
+      Mucho que mejorar. Ba\xF1os sucios. Lindo ambiente."
+    date: 26-04-2006
+    user: http://mi.guiaoleo.com/members/7936
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El pollo crocante es simplemente milanesa de pollo a tiras. Decepcion\xF3. Es agradable para quien le gusta comer en sofa."
+    date: 03-11-2005
+    user: http://mi.guiaoleo.com/members/1627
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar muy bueno, cancher\xEDsimo, con mucha onda, sobre todo los \"livings\" de arriba. La comida muy rica. Fui 4 veces y siempre com\xED muy bien. A mejorar: la carta de vinos."
+    date: 09-09-2005
+    user: http://mi.guiaoleo.com/members/3852
+    ambiente_rank: excelente

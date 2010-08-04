@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente lugar, las mejores carnes for export y una atencion inigualable.
+    date: 08-04-2010
+    user: http://mi.guiaoleo.com/members/79767
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente Lugar !
+    date: 08-04-2010
+    user: http://mi.guiaoleo.com/members/79753
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fui porque me lo recomendaron,eramos 2.Las mollejas exquisitas,crocantes (por suerte porque soy fana), el bife enoooorme y a punto, la ensalada con mucho campignon.Comparti todo menos el volcan,es mi preferido,no se lo pierdan. La atencion,es buena,clima familiar. Le doy chances.
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/77016
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Mal servicio, pedi tabla de achuras y bife jonte, las achuras bien y rapido pero el bife lo espere 45 minutos, vino tibio y las papas fritas heladas. El aire acondicionado era insuficiente y hacia calor. La carta de vinos muy pobre. Por menos plata se come mejor en otros lados. No vuelvo.
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/73619
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pedimos TODO para compartir excepto la bebida (gaseosa, vale aclarar). La Ensalada capresse ten\xEDa muy buenos ingredientes, aunque escatimaron un poco con los bocconcinos. La comida en general estuvo bien, pero teniendo en cuenta que todo fue compartido (y las porciones son para compartir cuando no se tiene mucho hambre). En evaluaci\xF3n precio-calidad-cantidad me result\xF3 caro. No volver\xEDa."
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/76243
+    ambiente_rank: bueno

@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Restaurant de hotel. Una gratisima sorpresa la exquisitez de la comida. El lomo, en su punto justo, con mil hojas de papa, jamon y champignones, una verdadera delicia. Los bocatines de pollo con mostaza dijon tambien estuvieron excelentes. La atencion, del personal del hotel, buena tambien. El lugar, peque\xF1o, y la ambientacion apagada. Por entre las mesas van y vienen las personas que quieren usar el salon de eventos del hotel, que esta pegado al salon comedor. Conclusion : Caro para ir al mediodia, y no demasiado atractivo para cenar. Vaya solo si le interesa comer bien, y pagarlo."
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/34885
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Una sorpresa.
+      Realmente, hay que conocer ese lugar y esa comida.
+    date: 29-12-2005
+    user: http://mi.guiaoleo.com/members/5674
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Calidad de comida con sello original, sabores americanos.
+    date: 06-12-2005
+    user: http://mi.guiaoleo.com/members/5354
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Magn\xEDfica comida, en especial los platos Spa de pocas calor\xEDas."
+    date: 07-10-2005
+    user: http://mi.guiaoleo.com/members/4241
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un lugar con la intimidad necesaria para pasarla muy bien.
+    date: 17-09-2005
+    user: http://mi.guiaoleo.com/members/4069
+    ambiente_rank: excelente

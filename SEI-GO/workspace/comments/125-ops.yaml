@@ -1,0 +1,977 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "buena comida japonesa cl\xE1sica. Buena calidad. Los men\xFAes fijos del mediod\xEDa son muy buenos porque permiten comer bien y variado. El \xE1mbito es correcto."
+    date: 03-05-2010
+    user: http://mi.guiaoleo.com/members/56931
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Exelente lugar para comer verdadero sushi. No aconsejo esperar del lugar creaciones modernas. Por sobre todo es tradicional, pero muy rico y buena calidad. Siempre que voy nunca me defrauda.
+    date: 27-04-2010
+    user: http://mi.guiaoleo.com/members/32632
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buen lugar para comer sushi. Verdaderamente japones, uno aca no encuentra creaciones de un sushiman de palermo. El servicio es correcto y el lugar muy bien ambientado. Para ir.
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Esperaba otra cosa... Me lo recomend\xF3 alguien de la asocici\xF3n y fui con muchas expectativas, pero la comida no fue sabrosa, qiuz\xE1s es el aut\xE9ntico sabor, sin las adaptaciones al paladar argento..."
+    date: 09-04-2010
+    user: http://mi.guiaoleo.com/members/26778
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3!.  La atenci\xF3n es excelente, las porciones muy buenas y precio acorde.  Vuelvo sin dudarlo."
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/74285
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Gran variedad de piezas de sushi y otros platos, un lugar original con comida bien preparada
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Voy siempre, el sushi est\xE1 siempre muy bien y la atenci\xF3n es excelente."
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/78791
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "De las mejores alternativas para disfrutar de la gastronom\xEDa nipona. Uno espera respeto por la tradici\xF3n culinaria y del Nikkai sale muy conforme. Materia prima de primera calidad; carta variada; platos bien logradas en sabor y textura: por ejemplo, los cl\xE1sicos gyoza, el tempura de langostinos o algunas tentadoras preparaciones con pollo, cerdo y pescado. Por supuesto, muy buen sushi, sin la forzada artificiosidad occidental. Atenci\xF3n amable y correcto servicio de mesa; pickles, sopa de miso y te verde de cortes\xEDa, justifican una buena propina. Sal\xF3n limpio, sin lujos; espacio al l\xEDmite."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/34206
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hacia tiempo que queriamos ir a Nikkai. La verdad fue una excelente experiencia gastron\xF3mica, pudimos probar una gran variedad de platos y todos fueron excelentes. Para destacar la atenci\xF3n de Alan que nos aconsejo en todo momento y supo captar nuestros gustos. Volveremos ..."
+    date: 04-03-2010
+    user: http://mi.guiaoleo.com/members/1512
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hace mucho que c\xF3mo en este lugar y he probado muchos de sus platos, todos excelentes. Un amigo japones me lo hab\xEDa recomendado y ahora me toca a mi recomendarlo al resto. Es un verdadero lugar de comida japonesa, tanto en sus platos como en el ambiente. Me llama la atenci\xF3n el comentario de Aniat sobre el sushi, ya que el tama\xF1o de las piezas suele ser grande en comparaci\xF3n con la mayor\xEDa de los lugares en los que he comido."
+    date: 18-02-2010
+    user: http://mi.guiaoleo.com/members/77012
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "No es el mejor lugar para comer un buen sushi en Buenos Aires. Piezas peque\xF1as, no demasiado gustosas, carta de vinos corta, wasabi desmayado, atenci\xF3n no esmerada. Volver\xE9 a otros mejores lugares."
+    date: 15-02-2010
+    user: http://mi.guiaoleo.com/members/17085
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Comimos Sushi. La calidad era buena, una l\xE1stima que las tablas no tengan mucha variedad: por ejemplo, la tabla que lleva el nombre del lugar (para dos personas) no trae nada con piel de salm\xF3n ni queso filadelfia. Se destaca el sashimi, las porciones del mismo son generosas y frescas."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/76723
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Nada del otro mundo. Esperaba muchisimo mas de este lugar. Eramos dos matrimonios, pedimos sushi variado, sin vino sin postre y gastamos $600. Demasiado para lo q es el lugar. No lo vale
+    date: 31-01-2010
+    user: http://mi.guiaoleo.com/members/75215
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy rico el sushi.
+    date: 29-01-2010
+    user: http://mi.guiaoleo.com/members/82221
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Esperaba m\xE1s calidad, nada mejor que el sashimi para probar bien el corte, la frescura y contextura, sobre todo de salm\xF3n. No es gran gran cosa, hay mejores lugares."
+    date: 22-12-2009
+    user: http://mi.guiaoleo.com/members/17084
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "buena opcion, el lugar esta bien ambientado, la atencion es amable y el servicio mantiene la distancia justa para un mediodia; la comida estuvo muy buena, variada y acompa\xF1ada de un muy buen te verde; sopa de miso, algunas piezas de sushi, milanesa de cerdo, arroz con vegetales, ravioles al vapor/plancha; lo unico flojo el helado de sesamo, mas bien era una crema americana con algunas semillitas de sesamo, pero el resto para destacar; una opcion muy recomendable, excelente relacion calidad-precio; volveremos a probar a la noche"
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/71896
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente calidad!!! el mejor sushi que probe, bien original, tambien probamos el tempura, y unas brochetas de carne, todo muy bueno. Altamente recomendable. Lo unico, tengan en cuenta que desde afuera no llama la atencion y no tiene indicaci\xF3n alguna."
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/43424
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenos el sushi y el bento. Correcta atenci\xF3n. Carta de vinos normal. recomendable."
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/25134
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Un lugar muy particular, alta calidad.
+      El sushi es muy fresco y los platos calientes son muy sabrosos.
+      Una muy buena opcion para ir al medio dia
+    date: 08-10-2009
+    user: http://mi.guiaoleo.com/members/68967
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente como siempre. Ambiente tranquilo, atenci\xF3n correcta, comida excelente. Pedimos sushi y algo que se llama bento o algo asi. Es un men\xFA que trae sashimi, pescado a la plancha, verduras, arroz, sopa de miso, cerdo. Muy bueno para probar diferentes platos en peque\xF1as cantidades."
+    date: 19-09-2009
+    user: http://mi.guiaoleo.com/members/7930
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida es de excelentisima calidad
+    date: 11-08-2009
+    user: http://mi.guiaoleo.com/members/20401
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El men\xFA muy amplio, la comida fue excelente, la atenci\xF3n muy amena y la ambientaci\xF3n muy particular. Super recomendable"
+    date: 31-07-2009
+    user: http://mi.guiaoleo.com/members/26107
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El mejor sushi de Bs As. Lugar para ir sin ni\xF1os."
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/1648
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui 3 \xF3 4 veces. La calidad del sushi es lo mejor del lugar. La puesta del sal\xF3n es muy simple. Poca variedad en las piezas. La zona y la entrada al sal\xF3n son sin duda lo menos favorable. Los precios est\xE1n acordes a cualquier sushi mejor ubicado."
+    date: 05-07-2009
+    user: http://mi.guiaoleo.com/members/41094
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fui con unos amigos al restaurante el sabado por la noche, y el lugar me parecio fanastico en cuanto a la comida y la atencion personalizada del mozo que nos atendio. Probamos el gyoza, el tempura moriawase, y el combinado nikkai, todo excelente, ademas de la sopa miso q viene incluida con el sushi, demas esta decir q es muy fiel a la comida de japon. Lo bueno del restaurante es que te hacen una bonificacion en la cuenta de la cena, de maximo 2hs por ticket de los garages de la zona, les conviene avisar si tienen uno... Lo malo fue que 2 vinos que estaban en la carta, que pedimos, no habian.
+    date: 23-06-2009
+    user: http://mi.guiaoleo.com/members/64507
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Correct\xEDsima la atenci\xF3n en un lugar t\xEDpico de la cocina japonesa,donde todo se hace con un verdadero respeto, brindando al comensal los aut\xE9nticos sabores de Jap\xF3n.Buena carta de vinos a precios razonables y ambiente tranquilo sin ser lujoso.Un ejemplo de austeridad, en medio de los muchos lugares que florecen actualmente ofreciendo sushi como algo novedoso.Bien!!"
+    date: 23-04-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La primera vez que com\xED en la Asociaci\xF3n fu\xE9 1960, cuando era el \xFAnico restaurante japon\xE9s del pa\xEDs y al sushi le faltaban 30 a\xF1os para ponerse de moda. Siempre se ha comido excelentemente bien y a precios m\xE1s bajos que los dem\xE1s restaurantes japoneses.\r\n\
+      Muy recomendable. A mediod\xEDa hay men\xFAs completos a precios m\xE1s que razonables."
+    date: 21-04-2009
+    user: http://mi.guiaoleo.com/members/1154
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Restaurant que mantiene la calidad de sus productos. El sushi es del tama\xF1o correcto y de las variedades tradicionales. El lugar no es pretencioso y es c\xE1lido.  El servicio amable. Vale la pena el helado de gengibre pero acompa\xF1ado del de s\xE9samo que corta un poco el sabor picante y bien definido del otro. Volver\xE9 a probar alguno de los menues del d\xEDa cuyo precio es muy razonable."
+    date: 14-04-2009
+    user: http://mi.guiaoleo.com/members/52743
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una experiencia alejada de los lugares de moda para comer sushi. En eso radica mucho del encanto de Nikkai. El lugar es austero y nada pretencioso, con una atenci\xF3n impecable, amable y conocedora del tema (en las ant\xEDpodas de los mozos adolescentes de palermo). Una delicia para los sentidos, por sabor y presentaci\xF3n, es el combinado de sushi, tempura y sopa de miso que viene en una caja. Voy a volver muchas veces m\xE1s."
+    date: 13-04-2009
+    user: http://mi.guiaoleo.com/members/45739
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar parece (uno puede imaginar) una cantina japonesa. No tiene la sofisticaci\xF3n de otros japoneses pero la atenci\xF3n es impecable y los precios correctos. Las bandejitas que combinan distintas cosas (incluido tempura) son muy buenas. Lo malo del niguiri era que se desarmaba. El arroz no estaba bien hecho. Creo que vale la pena volver y probar m\xE1s cosas."
+    date: 13-04-2009
+    user: http://mi.guiaoleo.com/members/3858
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar japon\xE9s tradicional, con excelente comida, porciones muy abundantes y un servicio muy correcto. Pescados muy frescos y arroz inigualable, muy recomendable."
+    date: 28-03-2009
+    user: http://mi.guiaoleo.com/members/42197
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: sushi muy fresco, los makis, rolls y niguiris son de un corte un poco mas grande, mas gruesos que en otros lados. Sopa miso de cortesia. Pedimos tempuras de lagostinos, muy bueno, no se siente la fritura. Decoracion sencilla, atencion correcta. Precio razonable. Recomiendo para los dias de invierno tomar sake caliente, excelente!
+    date: 28-02-2009
+    user: http://mi.guiaoleo.com/members/40237
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Al mediod\xEDa se sirven unos men\xFAes maravillosos con los que se puede probar distintos platos japoneses tradicionales, a un precio bastante razonable. El sushi, el mejor de la ciudad, lejos."
+    date: 24-02-2009
+    user: http://mi.guiaoleo.com/members/37386
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Voy siempre que puedo. Es un lugar tranquilo, con muy buena atencion y los platos son todos excelentes. El sashimi es bueno pero no se pierdda otros platos deliciosos como el yakimeshi con o sin camarones, los gyoza( ravioles de cerdo) o los yakitori que son unas brochettes de entrada muy ricas. De postre el helado de te verde que es el mejor o alguna de las tantas tortas que ofrecen. Lo recomiendo a cualquiera que quiera una buena comida japonesa!
+    date: 16-02-2009
+    user: http://mi.guiaoleo.com/members/58012
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un restaurante al estilo japon\xE9s, pero no de calidad alta, el ambiente est\xE1 bien y la comida tambi\xE9n aunque no nos impact\xF3. El servicio es bueno, las mozas son agradables. El precio nos parece elevado para lo que se ofrece. No creo que volvamos a ir."
+    date: 10-02-2009
+    user: http://mi.guiaoleo.com/members/67574
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tendremos que volver. Fuimos por el sushi (muy bueno), pero al recorrer la carta sospechamos que de \"algo\" nos perdimos: variedad de platos t\xEDpicos de la comida nipona que demuestran que hay vida m\xE1s all\xE1 de los nigiris. La atenci\xF3n es correcta, la carta de vinos no muy completa y la ambientaci\xF3n estar\xEDa mejor si eliminaran los 2 \"brutos\" televisores que dominan la atenci\xF3n del sal\xF3n; una l\xE1stima. De postre, prueben el helado de wasabi: dulce y picante a la vez."
+    date: 31-01-2009
+    user: http://mi.guiaoleo.com/members/16579
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen sushi. lindo lugar. se pueden mejorar los ba\xF1os y el acceso a los mismos. buena relaci\xF3n calidad precio"
+    date: 21-01-2009
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fuimos a la noche haciendo caso a los comentarios anteriores con respcto al buen sushi, y la verdad es que es excelente. La atenci\xF3n de los mozos es depende de la suerte, nos atendio al principio uno que nos recomendo una muy buena opcion para degustar ( creo que se llamaba teyshoku bento o algo asi ) que es una especie de picada que viene de todo muy, completo. La sopita miso de cortes\xEDa es muy buena. Eso si cierra la barra de sushi temprano (12 pm.), asi que no vayan muy tarde."
+    date: 17-01-2009
+    user: http://mi.guiaoleo.com/members/19173
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La atenci\xF3n muy buena. Ambiente agradable. Acertadas las sugerencias de la camarera. La calidad de la comida es excelente"
+    date: 26-12-2008
+    user: http://mi.guiaoleo.com/members/56617
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Habiendo visitado Jap\xF3n doy fe que los platos son aut\xE9nticamente japoneses. La atenci\xF3n es correcta, la ambientaci\xF3n es sencilla y acorde al lugar y la relaci\xF3n precio-calidad resulta muy buena.\r\n\
+      Solo una vez tuve una mala experiencia con el tempura, donde se notaba la mala calidad del aceite, pero lo atribu\xED a que el restaurant estaba a punto de cerrar por vacaciones. El helado de t\xE9 verde es delicioso. Para quien quiere comer comida japonesa de verdad, sugiero no pedir sushi y en su lugar ordenar un teishoku."
+    date: 16-12-2008
+    user: http://mi.guiaoleo.com/members/28662
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar, tipico japones. El servicio fue malo, habia pocas mesas ocupadas y la moza nunca se acerco a nuestra mesa a preguntar si necesitabamos algo o a llenar alguna copa vacia. El sushi tardo una eternidad en venir.  Pedimos Nigiri (bueno) Ebi Tem Maki (regular) y 2 Temaki de Salmon (bueno). Por todos los review que lei, no me parecio nada del otro mundo, un japones mas, una buena opcion local, pero no tan cerca de algun japones internacional. Precio: alto. Carta de vinos: muy buena y los postres tambien. Conclusion: comida buena, precios caros y servicio malo."
+    date: 01-12-2008
+    user: http://mi.guiaoleo.com/members/16998
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La ensalada de salm\xF3n era mala, tomates sin gusto, repollo, zanahoria, etc. Cara, lo \xFAnica buenos los trozos de salm\xF3n. Los arrolladitos primavera estaban bien, como se comen en cualquier chino. El sushi es lo mejor! Pescados fresqu\xEDsimos, arroz en su punto, muy bien servido. El ambiente es familiar y tranquilo, sin la pose de sushi de Palermo y ahora tambi\xE9n San Telmo."
+    date: 04-11-2008
+    user: http://mi.guiaoleo.com/members/7930
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Combinado Nikkai, impresionante!!! los sashimi y niguris son incomparables, exquisitos, un festin para el paladar. Comida japonesa de calidad insuperable.
+    date: 03-11-2008
+    user: http://mi.guiaoleo.com/members/33737
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hacia por lo menos 10 a\xF1os que no iba a Nikkai, antes iba con los directores de una empresa japonesa y fueron ellos los que me ense\xF1aron a comer sushi. El lugar sigue siendo elegido por la comunidad japonesa y eso sigue siendo un indicador de que es un excelente lugar y nada inventado como la mayoria de los lugares de sushi de Palermo y zonas aleda\xF1as.\r\n\
+      Excelente calidad. Muy buen servicio. Seguro que no van a pasar otros 10 a\xF1os antes de mi proxima visita."
+    date: 01-11-2008
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy rico el sushi, no result\xF3 barato pero vale la pena"
+    date: 01-11-2008
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Somos de Provincia y buscabamos un restaurante de comida japonesa en Capital Fedaral asi que basandonos en las opiniones de guia \xF3leo fuimos a Nikkai! Les cuento que volveremos una y mil veces, la comida riqu\xEDsima y fresca, abundante, nos atendieron correctamente, el lugar es sencillo, muy estilo japo, pero vale la pena ir! realmente bueno el sushi!"
+    date: 29-10-2008
+    user: http://mi.guiaoleo.com/members/36767
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La calidad de la comida es muy buena. El sushi como dice otro comentario no es el tradicional para nosotros, entiendo que s\xED para los que conocen bien sobre este plato. El ambiente est\xE1 bueno y los televisores con el canal japones le dan un toque que aunque simple es apropiado."
+    date: 28-10-2008
+    user: http://mi.guiaoleo.com/members/45278
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy bueno el tonkatsu teishoku (combinado de milanesa de cerdo) y el nami sashimi de salm\xF3n, pero ya no son tan abundantes como antes. La atenci\xF3n siempre impecable, con varios mozos atentos que est\xE1n casi siempre disponibles (aunque a veces est\xE1n todos en la cocina...). Muy buenos los postres (torta de jengibre y helado de t\xE9 verde), una verdadera sorpresa de sabor."
+    date: 21-10-2008
+    user: http://mi.guiaoleo.com/members/33232
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar tradicional para comer sushi. No tienen la cantidad de variedades que tiene por ejemplo Sushi Club, es BIEN TRADICIONAL. El ambiente est\xE1 ok, no es glamoroso pero est\xE1 alineado a la tradici\xF3n japonesa. Es decir, no es para caretear, nada que ver. Es m\xE1s bien sencillo, pero bien. Saludos."
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/10480
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un sitio sencillo, con buena atenci\xF3n, que ofrece platos de muy buena factura. Lo mejor de todo, los helados de diferentes sabores para terminar el almuerzo o cena. Recomendable!!!"
+    date: 17-10-2008
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Com\xED muy bien en un ambiente simple pero no por eso desarreglado. Los menues de mediodia son una excelente opcion que permite probar varias cosas a la vez y no defraudan minimamente. Lo recomiendo para aquellos que se quieren alejar de todos los tristes reductos cuasifashions al estilo \"club\" o \"night\" que dicen llamarse japoneses y sinceramente no lo son."
+    date: 21-09-2008
+    user: http://mi.guiaoleo.com/members/6990
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena la comida, muy amable la moza y los precios mas que razonables. Excelente relaci\xF3n precio-calidad. Pobre la ambientaci\xF3n. Saquen los televisores con progamas de la tv japonesa, cambien los individuales de papel por manteles y pongan servilletas de tela, no de papel."
+    date: 18-09-2008
+    user: http://mi.guiaoleo.com/members/21461
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: la comida es excelente, se nota que es todo muy bien producido y con un sabor perfecto. la atencion es muy buena, y el precio es muy accesible. muy recomendable. mi restoran de comida japonesa preferido.
+    date: 28-08-2008
+    user: http://mi.guiaoleo.com/members/33141
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "A pesar de que la calidad de la comida ha bajado un poco (particularmente el pollo de la brochette del men\xFA 3, que en una \xE9poca era pechuga y ahora es tipo menudos...) sigue siendo un lugar muy recomendable para quienes est\xE9n en busca de comida ex\xF3tica, y sin ninguna duda el mejor restaurante japon\xE9s de Buenos Aires. Un lugar para volver cada tanto, especialmente para los amantes del buen sushi."
+    date: 11-08-2008
+    user: http://mi.guiaoleo.com/members/40086
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El sushi se nota que es muy fresco, se deshace en la boca. Las piezas medianas. Variado. Buen tama\xF1o. Como tardaban un poco en traer el sushi, tuvieron la iniciativa de recompensarnos con tempura y sopa para la entrada"
+    date: 10-08-2008
+    user: http://mi.guiaoleo.com/members/20238
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comimos muy bien, me pareci\xF3 buena la atenci\xF3n, los camareros con buena onda.Excelente sushi. Ambientaci\xF3n t\xEDpica japonesa. Para volver muchas veces."
+    date: 04-08-2008
+    user: http://mi.guiaoleo.com/members/49340
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es la mejor comida japonesa que he probado hasta el momento!!! La atenci\xF3n es correcta y afable a la vez. No hay que perderse la oportunidad de conocerlo."
+    date: 22-07-2008
+    user: http://mi.guiaoleo.com/members/47838
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos por varias recomendaciones y el lugar estuvo a la altura de las expectativas. Buen sushi, pero no el mejor que prob\xE9. Muy recomendable el yakimeshi con camarones, excelente relaci\xF3n precio calidad, y para compartir. Buena atenci\xF3n, lugar agardable, para volver... pero no por el sushi."
+    date: 17-05-2008
+    user: http://mi.guiaoleo.com/members/6903
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es agradable y la atencion muy buena,estan en peque\xF1os detalles que no se observan en otros lugares.Y lo importante la comida es EXCELENTE, mucha variedad de platos y por sobre todo muy frescos , recien elaborados.Para repetir y recomendar , no se van a ir defraudados..."
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/21985
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar me encanto. la ambientacion es sensilla pero recrea el ambiente japones. la comida es exquisita y abundante. el moso fue muy gentil y supo asesorar en las elecciones. recomiendo el helado de jengibre y las masitas de soja a la plancha.
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/44870
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar me result\xF3 agradable. La atenci\xF3n del mozo fue correcta. Comimos tempura de langostinos (7 langostinos, $44) que nos result\xF3 muy rica. El sushi, sin embargo, no fue lo que yo esperaba. El sabor me result\xF3 desabrido, sin sorpresas. La carta no explica mucho y en otros lugares donde he comido la variedad de sabores es mucho mayor. La cena nos result\xF3 bastante cara pero no lo hubiera sido si el sabor nos hubiera satisfecho. Los postres muy ricos todos, tanto los t\xEDpicos helados como postres a base de chocolate. Volver\xE9 para probar otras cosas de la carta que no sean sushi."
+    date: 04-05-2008
+    user: http://mi.guiaoleo.com/members/10485
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui al leer varios comentarios favorables ac\xE1 pero la verdad es que no sal\xED conforme. Tardaron bastante en atendernos y luego en traernos la comida. El sushi no me pareci\xF3 mejor que el de otros lugares como tantas veces le\xED aqu\xED y ninguno de los platos ten\xEDa sabor... a la salsa del tempura le puse soja como 3 veces para que tuviera m\xE1s gusto, el gohan ten\xEDa el mismo gusto a m\xE1quina que cuando lo hago en casa con la olla arrocera el\xE9ctrica. Los mariscos saltados con vegetales estaban cortados demasiado grandes. $150 dos personas sin vino. No creo que vuelva."
+    date: 19-03-2008
+    user: http://mi.guiaoleo.com/members/42049
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena opci\xF3n para desenchufarse, sobre todo al mediodia porque el lugar esta dentro de un edificio y no tiene ventanas a la calle. Buena atencion y comida. Los menues ejecutivo del mediod\xEDa son super recomendables. Volver\xE9 para probar otras cosas."
+    date: 05-03-2008
+    user: http://mi.guiaoleo.com/members/20381
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n ha desmejorado respecto de un par de a\xF1os. Pedimos tres platos, todos para compartir entre dos. Nos trajeron el sushi primero. Se llevaron la bandeja antes que pudiera terminar de comer y sin dar respiro nos trajeron el segundo plato, la sopa. Con media sopa tomada nos preguntan si ya pueden traer el tempura. Les decimos que no, que preferimos esperar y comer tranquilamente. El resultado fue un tempura fr\xEDo. No nos atendieron, nos despacharon. No pensamos regresar a cenar, para ello ahora hay mejores opciones."
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/39731
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El sushi estuvo muy bueno pero la carta no es muy amigable para permitir convinaciones mas a gusto de uno. La atenci\xF3n fue correcta pero la moza no ten\xEDa mucha idea para explicar las opciones ni para acosejar.\r\n\
+      El ambiente es c\xE1lido pero a mi gusto le sobran los televisores."
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/15539
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Fui proque vi muy buenas recomendaciones y valio la pena.
+      Buena atencion, rapida, eficiente. Muy bueno el suchi, muy fresco.
+      Volveremos a ir.
+    date: 18-02-2008
+    user: http://mi.guiaoleo.com/members/40563
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: es un lugar tipico de la colectividad japonesa, precio economicos en funcin de lo q son los japoneses, comida normal
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/13279
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me decepciono. En principio tuvimos 1 hora de demora para ingresar. La moza atenta pero se limito a traer lo q se le pedia, poco asesoramiento. La tabla de sushi escasa, el surtido tenia 1 roll de cada uno de los mas simples: olviden probar philadelpia, new york, etc. Los niguiri se desarmaban apenas al contacto con los palitos. La salsa de soja quedo llena de arroz suelto. Una pena! Fui pensando comer un buen sushi y realmente me decepciono. El precio: como en todos lados."
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/17265
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Otro restaurante japon\xE9s de alta calidad, fuera de las modas y vanidades: carta variada para explorar m\xE1s all\xE1 del sushi (que de todos modos es lo que m\xE1s se ve\xEDa) y buenas explicaciones de los platos, con diferencias y matices, por parte del personal.\r\n\
+      Teniendo en cuenta que se trata de una asociaci\xF3n de la colectividad, la austeridad del sal\xF3n no le resta para nada."
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar de comida t\xEDpica. Es un lindo y pintoresco restaurant, los platos aceptables. Algo para innovar para quienes no son habit\xFAes de este tipo de comida."
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/33737
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buen lugar, la atencion es muy buena, cordial pero no de lujo, acorde con los precios del lugar, los platos tardan menos de 10 minutos en llegar. La comida es exelente y una mencion aparte para el sushi que es de lo mejor. Con respecto a los precios los plato, con excepcion del sushi, rondan los 30 pesos con porciones muy buenas y el sushi parte de los 30 o 40 pesos las 15 piesas
+    date: 27-12-2007
+    user: http://mi.guiaoleo.com/members/37504
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "En principio muy bueno que tiene estacionamiento propio y es a voluntad, no tiene precio. El ambiente muy bueno, la decoraci\xF3n sencilla buena y lo mejor que las mesas tiene espacio entre una y otra, no estas comiendo encima del otro. La comida excelente, de lo mejor y la atenci\xF3n espectacular. "
+    date: 25-11-2007
+    user: http://mi.guiaoleo.com/members/36046
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Llegamos sin reserva un viernes a la noche y nos hicieron pasar r\xE1pidamente. Fuimos atendidos con mucha calidez y nos sorpendi\xF3 la velocidad con que trajeron nuestra comida, a pesar de que el lugar estaba lleno. El sushi, excelente, realmente fu\xE9 del mejor sushi que comimos. Tuvimos que pagar un adicional para que incluyeran los rolls philadelphia, un punto menos ya que est\xE1bamos pidiendo la tabla combinada de la casa. Coincidimos con casi todos respecto al ambiente, se parece m\xE1s a un comedor familiar que a un restaurante japon\xE9s, mucha luz directa y dos televisores con deporte. Por suerte el sonido de ambos estaba apagado. Pero el sushi... 10 puntos!"
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/11391
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Realmente muy recomendable. Un lugar tranquilo, bien ambientado, que me dej\xF3 la impresi\xF3n de que no importaba qu\xE9 pidiera de la carta, todo me iba a gustar. \r\n\
+      Todos mis amigos ya tienen el dato. Importante: Tiene estacionamiento."
+    date: 06-11-2007
+    user: http://mi.guiaoleo.com/members/25985
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno todo. Realmente muy bueno y recomendable. "
+    date: 30-10-2007
+    user: http://mi.guiaoleo.com/members/17873
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es simple y cuidado; el servicio muy correcto; la comida (en otra oportunidad hemos probado el sushi) es excelente: buenos productos, elaboraci\xF3n cuidada. "
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/33780
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "muy lindo lugar para olvidarse durante un rato del trabajo, para sorprender a quien quieras con una propuesta diferente, en un lugar diferente.\r\n\
+      El men\xFA es muy abundante, aunque deber\xEDan ser un poco m\xE1s variados. Bueno el sushi tambi\xE9n. M\xE1s que recomendable."
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/15655
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Si se busca comer el sushi original, es el lugar indicado. La forma de servir se aproxima a la manera tradicional japonesa. El arroz estaba en su punto justo y el pescado muy fresco. Quedamos conformes pero no maravillados, quiz\xE1 ten\xEDamos demasiado expectativa, pero nos pareci\xF3 que el ambiente no ayuda, en especial la iluminaci\xF3n, y son limitadas las variedades de sushi. "
+    date: 29-09-2007
+    user: http://mi.guiaoleo.com/members/33593
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Volvimos a Nikkai porque es realmente un lugar hermoso para ir, ademas de la muy buena comida que hacen. 
+      La atencion esta vez no fue de lo mejor, los mozos tardaron bastante en tomar el pedido y en traerlo. Lo mejor sin dudas es el ambiente.
+    date: 27-09-2007
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Desde que fu\xED por primera vez no paramos de ir con mi novia. Si queremos comer el aut\xE9ntico sushi con ingredientes de excelente calidad, vamos a Nikkai. \r\n\
+      Es para destacar la calidad del pescado fresco y el arroz en su punto, textura y condimento exacto. \r\n\
+      No como otros lugares de moda que no prestan atenci\xF3n a esos detalles. No esperen la variedad ni mamarrachos de sushi de estos lugares, en Nikkai s\xF3lo se come aut\xE9ntico sushi.\r\n\
+      Recomendable para entendidos y que quieren entender."
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/12311
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un buen lugar para ir,muy buena atenci\xF3n,tranquilo. Ambiente sencillo,tal vez no apto para una cena rom\xE1ntica. \r\n\
+      Con una entrada de arrolladitos primavera mas tabla de sushi (sabroso) de 40 piezas, para dos personas m\xE1s que suficiente.\r\n\
+      No es barato. Por su sencillez, buena atenci\xF3n y buena carta lo recomiendo."
+    date: 14-09-2007
+    user: http://mi.guiaoleo.com/members/31827
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "fuimos el sabado a la noche, la comida estuvo realmente muy fresca y sabrosa, el servicio es bueno y el ambiente tranquilo, SALVO ESOS DOS TELEVISORES QUE SACAN DE CONTEXTO AL LUGAR. Con el tema de las reservas tendr\xEDan que ser mas atentos al tomarlas ya que se gener\xF3 una peque\xF1a discusi\xF3n en la entrada."
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/31679
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente sushi, al igual que la atenci\xF3n. No nos fallaron en nada los excelentes comentarios que hab\xEDamos le\xEDdo en Gu\xEDa \xD3leo. Como ya lo dijeron muchos, el hermoso ambiente es arruinado por el televisor que emite el partido del s\xE1bado."
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/33466
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy linda la ambientacion, excelente la atencion. El sushi es realmente de primera calidad, aunque los precios son un tanto elevados para el tama\xF1o de las porciones. No es la mejor opcion para una cena intima ya que el ambiente es muy familiar. Tiene estacionamiento gratuito al lado, lo cual es muy positivo en la zona. Recomendable!!!"
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/19275
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Me llamo la atencion que en el 90 de las mesas estuviesen comiendo diferentes platos y no sushi. Yo si comi. Y la verdad que es excelente. El salmon se deshace en tu boca. Muy fresco. La atencion estuvo bien. El lugar no es de lo mas elegante.
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/31945
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la comida. El lugar cuenta con estacionamiento y men\xFA ejecutivo al mediod\xEDa."
+    date: 28-08-2007
+    user: http://mi.guiaoleo.com/members/15021
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es lindisimo y la comida es muy buena!!! no es barato (hay menues con precios interesantes al mediodia que son para aprovechar si se puede en dicho horario!), pero las porciones son mas que correctas y los sabores valen totalmente la pena. recomiendo las sopas, de las que hay variedad para elegir. riquisimas, abundantes, contundentes y geniales para los dias de frio! voy a volver a probar el sushi... "
+    date: 21-08-2007
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena pero la relacion entre porciones es extra\xF1a y algunas ni traen acompa\xF1amiento por ejemplo el Nuki teriyaki solo viene acompa\xF1ado por unas pocas verduras y tomate que casi son decoracion, asi que tuve que pedir que me traigan un bol de Arroz aparte y la porcion tampoco era demasiado grande asi que finalmente pedi unas Harumaki (Empanaditas de cerdo) y resulto ser casi tan abundante como el plato principal siendo una entrada, el sushi es EXCELENTE, las porciones son grandes y el precio es razonable, la ambientacion es muy familiar asi que si esperas una cena romantica quizas no sea el lugar mas indicado, el servicio fue bueno y correcto, en resumen el lugar es recomendable para una cena ocacional quizas no se los recomendaria para una ocasion especial porque es muy familiar, pero definitivamente voleria."
+    date: 18-08-2007
+    user: http://mi.guiaoleo.com/members/29990
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buen sushi. No me gust\xF3 tanto el lugar pero puedo decir que vale la pena ir y conocerlo. La atenci\xF3n es muy buena."
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/11766
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy bueno!
+    date: 23-07-2007
+    user: http://mi.guiaoleo.com/members/27762
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui un dia de semana y la verdad que todo me resulto muy rico, tanto la ensalada japonesa (verduras agridulces) con sabores muy cuidados y equilibrados, como los platos principales. El helado de te verde sintoniza la gama de sabores. Un detalle muy cuidado: la invitaci\xF3n de un excelente t\xE9 verde para culminar la velada. Realmente un muy buen lugar al que sin dudas voy a volver. Es importante mencionar la buena relaci\xF3n precio-calidad. "
+    date: 17-07-2007
+    user: http://mi.guiaoleo.com/members/1409
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Otro lugar al que fui recomendado por esta pagina, y salimos muy contentos, la atencion fue esmerada y el sushi de excelente calidad. Es para volver muy seguido.
+    date: 28-06-2007
+    user: http://mi.guiaoleo.com/members/26563
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La verdad que siempre que voy desde la comida hasta la atencion es excelente, especialmente al mediodia que se llena por el menu ejecutivo.
+    date: 20-06-2007
+    user: http://mi.guiaoleo.com/members/13910
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la calidad de la comida es inmejorable, el servicio es tal como me gusta, atentos pero sin estar molestando todo el tiempo. estuvimos sentados comiendo y conversando por mas de dos horas y nadie nos puso mala cara ni vino a apurarnos el servicio. excelente!
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/5576
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Sigue siendo mi eleccion para una noche autenticamente nipona. Hace 10 anios que voy y seguire siendo cliente. Exquisito sushi, preparado autenticamente y sin ruido ambiente.
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/24841
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Buen lugar, excelente comida, muy buena atenci\xF3n y los mozos, aunque un poco lentos, te explican lo que necesit\xE1s muy amablemente.\r\n\
+      Buen ambiente. La cocina cierra a media noche. "
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/15835
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un linda experiencia. La paciencia de los mozos para explicarte la preparaci\xF3n y significado de cada uno de los platos hacen que uno aprenda m\xE1s sobre esta hermosa cultura. No me pareci\xF3 excelente la comida ya que la preparaci\xF3n y sabor de los platos no eran nada fuera de lo normal. Me esperaba mucho m\xE1s sabiendo que es el comedor de una asociaci\xF3n japonesa. El lugar si bien no es lujoso y tiene detalles de club de barrio, genera un espacio \xEDntimo y relajado para poder disfrutar de una charla amena. Vali\xF3 la pena conocerlo pero no lo adoptar\xEDa como opci\xF3n de cabecera. "
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/14242
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encanta ir A Nikkai, realmente se come Sushi de verdad. Lo \xFAnico que le cambiar\xEDa al lugar son los 2 televisores que est\xE1n en el sal\xF3n: quedan fuera de lugar. El resto 10 puntos. "
+    date: 23-05-2007
+    user: http://mi.guiaoleo.com/members/23603
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la comida muy buena,atencion inmejorable,muy tradicional si te gusta lo exotico,la comida japonesa es el lugar ideal,muy tranquilo,muy ameno.no se sienten cerca de la puerta los dias de frio.prueben el sake inolvidable,y luego no intenten abrir las puertas del salon tirando,son corredizas...
+    date: 13-05-2007
+    user: http://mi.guiaoleo.com/members/21473
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Indispensable la reserva para poder acceder al comedor de la Asociaci\xF3n. Se destaca la limpieza del lugar con una c\xE1lida atenci\xF3n.\r\n\
+      Vale la pena conocerlo, volver\xE9 a probar los platos calientes."
+    date: 28-04-2007
+    user: http://mi.guiaoleo.com/members/1162
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente! La comida es fresca y de primera calidad. El sushi est\xE1 muy bien hecho,bocados grandes con bastante mas relleno y menos arroz que en otros lugares. El tempura, muy bueno y la carta es variada para todos los gustos. El ritual de la sopa como entrada (viene con todas las comidas), comer \"solo\" con palillos y el t\xE9 verde o de jazm\xEDn al final, que lo traen en tetera junto con las vasijas de porcelana, te hace sentir que est\xE1s realmente en el lugar correcto para vivir la comida japonesa. Un deleite!"
+    date: 22-04-2007
+    user: http://mi.guiaoleo.com/members/22029
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Nos atendieron y explicaron la composici\xF3n de los platos, con mucha calidez. Las porciones son muy razonables.\r\n\
+      Si bien no es rom\xE1ntico, el lugar es muy pl\xE1cido.\r\n\
+      Lo recomiendo."
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/21465
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es sobrio, un estilo m\xE1s bien familiar. Es ideal para probar platos t\xEDpicos m\xE1s all\xE1 del sushi. Algunos platos vienen explicados, otros no, lo cual se dificulta a la hora de elegir. El servicio es muy amable pero algo lento. El sushi muy bueno pero he probado mejores y m\xE1s variados. Para no perderse: el helado de t\xE9 verde, es exquisito."
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/15020
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "De todas las casas de comida japonesa a las que fu\xED, \xE9sta sin ninguna duda se destaca. S\xF3lo es necesario observar las proporciones de los ingredientes utilizados para reconocer la buena calidad del producto."
+    date: 11-04-2007
+    user: http://mi.guiaoleo.com/members/783
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n, sirven sopa de miso al comienzo y t\xE9 verde al finalizar (invitaci\xF3n de la casa ), Sushi exquisito al igual que los diversos platos de la cocina japonesa."
+    date: 06-04-2007
+    user: http://mi.guiaoleo.com/members/11188
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El mejor sushi que com\xED, en un ambiente muy sobrio pero incre\xEDble."
+    date: 31-03-2007
+    user: http://mi.guiaoleo.com/members/20828
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un muy lindo lugar para comer algo distinto y m\xE1s si gusta de la comida oriental. La atenci\xF3n fue de lo mejor y muy bueno el ambiente. Recomendable."
+    date: 26-03-2007
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Para ir en pareja, con amigos, e inclusive en familia. El lugar es c\xE1lido, sencillo y c\xF3modo, sobre todo espacioso entre las mesas. Aparte del Sushi que comimos, el cual estaba muy bien (aunque he comido mejores en la ciudad) probamos otras opciones de la carta, la cual no es extensa pero si completa. La atenci\xF3n es muy cordial, orientativa y generosa; y el servicio es delicado y completo, no nos falt\xF3 nada. Tomo la frase de una opini\xF3n anterior: vale la pena al menos una visita."
+    date: 23-03-2007
+    user: http://mi.guiaoleo.com/members/5180
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "A mi me pareci\xF3 unos de los lugares m\xE1s aut\xF3ctonos de la comida japonesa y con una calidad de primer nivel."
+    date: 21-03-2007
+    user: http://mi.guiaoleo.com/members/20355
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "No conozco un restaurante con una carta japonesa m\xE1s genuina que la de Nikkai: se nota claramente que est\xE1 ligada con la Asociaci\xF3n Japonesa.  Impecable el sushi y, sobre todo, las muchas alternativas fuera de lo que tradicionalmente se conoce de \xE9sta cocina. El ambiente, en lo personal, me gusta, pero acepto que no sea del gusto de todos. Es bastante usual encontrarse con ancianos japoneses almorzando en pantuflas (pero nunca sushi), lo que prueba justamente que se trata de algo en serio. La atenci\xF3n depende del mozo que nos toque, pero en general es buena o muy buena.  Seguir\xE9 yendo. "
+    date: 12-03-2007
+    user: http://mi.guiaoleo.com/members/6819
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Reservamos un sabado por la noche. Al llegar nos encontramos con un salon b\xE1sico, sin ambientaci\xF3n alguna. Los camareros tienen la mejor predisposici\xF3n, la atenci\xF3n es excelente. De entrada nos sirvieron una sopa con tofu buen\xEDsma. El Sushi a nuestro entender fue excelente!!! El t\xE9 verde del final muy bueno tambien, cabe destacar que \xE9ste como la sopa fueron cortes\xEDa de la casa. Un lugar para recomendar y volver!!! Palermitanos abstenerse. "
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/30584
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es ideal para quienes quieren comer comida japonesa m\xE1s all\xE1 del sushi. La lista es muy amplia y para todos los gustos, incluyendo platos con pescado cocido y otros tipos de carnes. "
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/17248
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me gust\xF3 todo. Atenci\xF3n, comida con precio m\xE1s que adecuado y el lugar.\r\n\
+      Pero... NO PUEDE HABER TV EN ESE LUGAR. Es de p\xE9simo gusto."
+    date: 02-03-2007
+    user: http://mi.guiaoleo.com/members/13352
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar t\xEDpico, parece que est\xE1s en Jap\xF3n.  Mucho por conocer, mucho para aprender."
+    date: 01-03-2007
+    user: http://mi.guiaoleo.com/members/8830
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es b\xE1sico, me gustaria que el mismo tenga m\xE1s onda pero la comida lo equilibra. Merece una visita"
+    date: 24-02-2007
+    user: http://mi.guiaoleo.com/members/19333
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Correcto establecimiento, la atenci\xF3n es grata, ambiente agradable y tranquilo. \r\n\
+      Los platos son ricos pero nada del otro mundo, est\xE1n a un precio adecuado. \r\n\
+      Es un lugar ideal para probar por primera vez comida japonesa."
+    date: 22-02-2007
+    user: http://mi.guiaoleo.com/members/14801
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la comida y la atenci\xF3n es esmerada."
+    date: 13-02-2007
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es la primera vez que voy. No soy gran experto en sushi pero me pareci\xF3 muy rico, con un precio m\xE1s accesible en comparaci\xF3n con otros restaurantes japoneses. Bien vale la pena volver para probar algo del variado men\xFA fuera del sushi.\r\n\
+      Un ambiente tranquilo, apacible y muy familiar. La atenci\xF3n es muy correcta por parte del personal. Lo recomiendo."
+    date: 25-01-2007
+    user: http://mi.guiaoleo.com/members/6012
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen sushi en un ambiente perfecto. Un sal\xF3n japon\xE9s escondido en medio de la ciudad. La atenci\xF3n es muy esmerada, todos son muy amables. Recomendable."
+    date: 23-01-2007
+    user: http://mi.guiaoleo.com/members/190
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Exelente comida japonesa. Men\xFA muy variado. Muy buen sushi y el resto de la carta no se queda atr\xE1s. Lo justo y necesario, ni m\xE1s, ni menos. Ambiente chico pero muy agradable (buen aire, poca gente, poco bullicio). Excelente, para recomendar."
+    date: 18-01-2007
+    user: http://mi.guiaoleo.com/members/15305
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una de las mejores opciones para el sushi en Buenos Aires y mejor opci\xF3n a\xFAn para comidas tradicionales de Jap\xF3n.\r\n\
+      Vale la pena ir varias veces y probar siempre cosas distintas.\r\n\
+      El ambiente es bueno, la atenci\xF3n en general es buena, dependiendo de la concurrencia (que no supera los cincuenta cubiertos).\r\n\
+      La carta de vinos no es muy completa, hay buenas etiquetas, pero pocas."
+    date: 27-12-2006
+    user: http://mi.guiaoleo.com/members/16017
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ambiente agradable, muy concurrido por personas que no son de la colectividad. Buen servicio y asesoramiento.
+    date: 24-12-2006
+    user: http://mi.guiaoleo.com/members/15091
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente sushi. Ambientaci\xF3n t\xEDpica japonesa. Para volver muchas veces."
+    date: 22-12-2006
+    user: http://mi.guiaoleo.com/members/6835
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comimos muy bien, me pareci\xF3 buena la atenci\xF3n, los camareros j\xF3venes con buena onda, muy originales los helados. \r\n\
+      La carta de vinos es elemental tirando a paup\xE9rrima. No tienen un s\xF3lo vino para maridar con el sushi. \r\n\
+      Por lo dem\xE1s, es para recomendar.\r\n\
+      Tiene una relaci\xF3n precio/calidad \xF3ptima."
+    date: 03-12-2006
+    user: http://mi.guiaoleo.com/members/14162
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen lugar, me encanta.  "
+    date: 28-11-2006
+    user: http://mi.guiaoleo.com/members/13910
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida y la atenci\xF3n son excelentes. El ambiente es c\xE1lido. Los camareros nos explicaron, muy amablemente, en qu\xE9 consist\xEDan los platos. Tempura mixto y cerdo al jengibre, exquisitos. El sushi es imperdible, pero un poco caro. Si van un s\xE1bado por la noche no olviden reservar."
+    date: 18-11-2006
+    user: http://mi.guiaoleo.com/members/13644
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar para comer comida japonesa, dir\xEDa que es el mejor en capital. Muy buena atenci\xF3n, ambiente c\xE1lido y poco ruidoso. Se puede comer muy bien en las mesas, como en la barra. Las masitas japonesas a la plancha son para no perd\xE9rselas. "
+    date: 10-11-2006
+    user: http://mi.guiaoleo.com/members/11021
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena comida japonesa, no eran los t\xEDpicos platos de chow mien y chow fan que te dan en todos lados.  Podr\xEDa ser un poco m\xE1s esmerada la decoraci\xF3n, pero es buena de todas formas.  T\xEDpica casa de t\xE9 japonesa."
+    date: 20-10-2006
+    user: http://mi.guiaoleo.com/members/13400
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente. Parece que estuvieras en Jap\xF3n. La presentaci\xF3n de la comida es de primera. El ambiente es muy c\xE1lido. Es un muy buen lugar para iniciarse con el sushi."
+    date: 29-09-2006
+    user: http://mi.guiaoleo.com/members/12587
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El mejor sushi que pude comer en Buenos Aires. Es un restaurante que no se aprovecha de la \"movida\" oriental. Hacen comida japonesa en serio. El ambiente es c\xE1lido y bien decorado, me gustar\xEDa luces m\xE1s tenues para dar un clima m\xE1s agradable."
+    date: 24-09-2006
+    user: http://mi.guiaoleo.com/members/12311
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Nos gust\xF3 conocer un sushi con sabor local. La atenci\xF3n es muy amable y el lugar indicado para el objetivo que tiene. Probamos el sushi por ser la primera vez pero continuaremos con el resto del men\xFA, muy variado."
+    date: 20-09-2006
+    user: http://mi.guiaoleo.com/members/5014
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente servicio. La mejor comida japonesa en plaza.
+    date: 20-08-2006
+    user: http://mi.guiaoleo.com/members/11360
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n es particularmente buena. \r\n\
+      Para aquellos que no saben qu\xE9 son los platos hay asesoramiento y recomendaci\xF3n.  La comida es simplemente excelente. \r\n\
+      El ambiente es c\xE1lido y tradicional."
+    date: 21-07-2006
+    user: http://mi.guiaoleo.com/members/10502
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los men\xFAes del mediod\xEDa a $22 son \xF3ptimos. Tienen ocho elecciones (y a la carta ovbiamente). \r\n\
+      El lugar es muy agradable y la atenci\xF3n es genial."
+    date: 20-07-2006
+    user: http://mi.guiaoleo.com/members/10484
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Con un amigo hemos ido cien veces a comer el barco de sushi de 80 piezas. El mejor sushi de Bs. As. Altamente recomendable.
+    date: 15-07-2006
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen precio para un men\xFA ejecutivo. El ambiente es un poco ruidoso. La atenci\xF3n muy buena."
+    date: 06-07-2006
+    user: http://mi.guiaoleo.com/members/9908
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen lugar, la atenci\xF3n es excelente y la comida deliciosa."
+    date: 09-06-2006
+    user: http://mi.guiaoleo.com/members/9204
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena la comida y las explicaciones de las camareras. Las porciones son abundantes.
+    date: 29-04-2006
+    user: http://mi.guiaoleo.com/members/6425
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La ambientaci\xF3n, la comida y la atenci\xF3n es excelente. Adem\xE1s hay un constante esmero del personal por la atenci\xF3n. \r\n\
+      Hay asesoramiento sobre platos, la carta es muy variada y la comida excelente."
+    date: 23-04-2006
+    user: http://mi.guiaoleo.com/members/7816
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente comida y servicio.
+    date: 17-03-2006
+    user: http://mi.guiaoleo.com/members/7930
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Una salida fija. La comida es muy buena y el ambiente es ideal, ni muy apretado, ni demasiado espacioso.
+      Voy a seguir yendo, como siempre.
+    date: 04-03-2006
+    user: http://mi.guiaoleo.com/members/10034
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es espectacular. \r\n\
+      Com\xED como una bestia porque no pod\xEDa parar de probar los sabores espectaculares que estaba disfrutando.\r\n\
+      Es lindo ir a comer a lugares que no s\xF3lo ofrecen el arte culinario de otra cultura sino tambien el ambiente y las costumbres."
+    date: 11-02-2006
+    user: http://mi.guiaoleo.com/members/4591
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy buena. La atenci\xF3n hasta ah\xED. \r\n\
+      Ideal para reuniones tranquilas, s\xFAper silencioso. Cero fashion y comida japonesa de verdad."
+    date: 08-02-2006
+    user: http://mi.guiaoleo.com/members/6254
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la atenci\xF3n y toda la comida en general. Recomendable para el que quiera probar comida japonesa de verdad."
+    date: 06-02-2006
+    user: http://mi.guiaoleo.com/members/4107
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un exelente lugar para comer comida japonesa, en un ambiente tranquilo. \r\n\
+      La atencion es muy buena, siempre dispuestos a explicar cada cosa. \r\n\
+      El tempura es flojo en relaci\xF3n al precio. Los demas precios est\xE1n igual que en otros lados, pero las porciones son m\xE1s generosas. \r\n\
+      Vale la pena."
+    date: 20-11-2005
+    user: http://mi.guiaoleo.com/members/7652
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Me gust\xF3 mucho el servicio, muy atentos, pero no entiendo como la asociaci\xF3n japonesa tiene un sushiman que no es japon\xE9s. El sushi no me gust\xF3."
+    date: 01-10-2005
+    user: http://mi.guiaoleo.com/members/4121
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Le diria que como lugar calido sin ser muy espacioso. la comida es de muy buen gusto y presentacion. El servicio es muy bueno muy amables. Vale la pena ir ahi.
+    date: 10-09-2005
+    user: http://mi.guiaoleo.com/members/293
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente Restaurant, el mejor sushi que he probado.
+    date: 30-08-2005
+    user: http://mi.guiaoleo.com/members/3593
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una excelente opci\xF3n, con un simple decorado, un c\xE1lido servicio y una cocina realmente japonesa!"
+    date: 14-07-2005
+    user: http://mi.guiaoleo.com/members/1985
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El local es sencillo pero c\xE1lido. Cuenta con seguridad en la puerta. El men\xFA es muy amplio y variado. Los platos est\xE1n muy bien preparados."
+    date: 24-06-2005
+    user: http://mi.guiaoleo.com/members/2240
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Buena calidad por buen precio, sin ser pretenciosos.
+    date: 21-06-2005
+    user: http://mi.guiaoleo.com/members/2795
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy recomendable para quienes quieran disfrutar de una salida un poco alejada del circuito fashion o para un distendido almerzo de trabajo. La comida, limpieza, servicio son excelentes. La carta es muy amplia.
+    date: 20-05-2005
+    user: http://mi.guiaoleo.com/members/1324
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Com\xED muy bien, el precio es un poquito elevado, pero la atenci\xF3n y el clima son excelentes."
+    date: 02-04-2005
+    user: http://mi.guiaoleo.com/members/4274
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "\xA1Podr\xEDa haber sido mejor! "
+    date: 24-02-2005
+    user: http://mi.guiaoleo.com/members/946
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La mejor comida japonesa en Buenos Aires, lastima el ambiente,no es feo, pero le falta onda
+    date: 14-01-2005
+    user: http://mi.guiaoleo.com/members/4274
+    ambiente_rank: malo/regular

@@ -1,0 +1,70 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      la pizza es muy rica comimos porciones de muzzarela , espinaca y de la fugazetta
+      no esta mal de hecho muy rica pero un par nde escalones abajo de  las cuartetas o de la mezetta
+      ah y nos quiso cobrar  de mas, nos atendio bien pero nos quiso curtir el mozo
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Para quienes conocemos esta pizzeria porque vivimos aca en el barrio, la mejor pizza de Almagro se hace en Pin-Pun.\r\n\
+      Tiene esa cosa de lugar incorruptible por el tiempo, nunca cambia. Esta as\xED desde que el gallego lleg\xF3 y la puso, y la pizza y faina siguen siendo tan buenas como en ese entonces. Excelente, para no perderselo."
+    date: 01-09-2009
+    user: http://mi.guiaoleo.com/members/62434
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Todo est\xE1 como hace 40 a\xF1os, no se trata de una pizzer\xEDa a la antigua, sino un pizzeria vieja y descuidada.  Definitivamente no es para ir a comer al local, salvo  porciones al paso o pedir para llevar. La pizza es del tipo tradicional y algo grasosa.  Para comer de vez en cuando"
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/62145
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente pizeria, la conozco desde chico y cada vez que paso por buenos aires no puedo resistir la tentacion de comer una porciones de muzarela y faina al paso. LO MEJOR DE LO MEJOR el ambiente de barrio de la decada del 70. El Gallego lo mas
+    date: 03-07-2008
+    user: http://mi.guiaoleo.com/members/46992
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Me senti tentado por algunos comentarios y realmete la desilucion fue muy grande.\r\n\
+      Las porciones son muy chiquitas y nada de otro mundo. El lugar me pareci\xF3 sucio y la atencion invita a que pases de largo la proxima vez."
+    date: 05-04-2008
+    user: http://mi.guiaoleo.com/members/30166
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Pizzer\xEDa de barrio como las de antes y sin mejoras a la vista en lo que hace al ambiente. Decadentes plantas de pl\xE1stico de adorno, olor a fritura, correntada de aire helado cuando abren la puerta en invierno, pero... \xBFcomo no hacer el sacrificio para comer una de las mejores fain\xE1s de Buenos Aires, crocante por arriba y blanda por debajo acompa\xF1ada por una buena porci\xF3n de muzzarela hecha al molde. Tambi\xE9n recomiendo probar las de verdura y fugazzeta. Obviamente no apto para los que prefieren los lujos de los modernos \"pizza y caf\xE9\".  "
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      LA MEJOR FAINA DE BUENOS AIRES!! Excelente Pizza!
+      Al menos una vez por menos compramos pizza para llevar. En todas sus variedades es riquisima, deliciosa, y la familia siempre vota por PinPun.
+      La torta de ricota es deliciosa, y la sopa inglesa espectacular. Es para volver y hacerse adicto.
+    date: 23-07-2007
+    user: http://mi.guiaoleo.com/members/20973
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La pizza es divina, bien aceitosa, media masa, gordita... te llenan 2 porciones. Excelente calidad. Es un cl\xE1sico. El servicio es amable pero un poco selectivo para los habitues y las mesas grandes. Es ruidoso, al tener todo el frente abierto se llena de humo de bondi, pero lo zafa el hecho de ser tan tan barrial."
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/22404
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La pizza (al menos por porciones) estaba medio fr\xEDa y el sabor no es nada del otro mundo. \r\n\
+      El lugar es sucio y viejo, no da para llamarlo \"cl\xE1sico\"."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/6781
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Se come b\xE1rbaro."
+    date: 21-07-2006
+    user: http://mi.guiaoleo.com/members/11576
+    ambiente_rank: muy bueno

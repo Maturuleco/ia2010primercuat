@@ -1,0 +1,27 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 la atenci\xF3n y la comida. El ambiente peque\xF1o lo hace m\xE1s acogedor."
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/22388
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente calidad y servicio, un ambiente tranquilo para disfrutar en pareja o solo.
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/22249
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Genial. Es recomendable para ir con pareja, o amigos en busca de un buen vino, una charla tranquila, sin perder la onda.\r\n\
+      Lo recomiendo cien porciento.\r\n\
+      Viernes y s\xE1bados la mejor onda, no se lo pierdan."
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/22420
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar muy agradable, donde se puede hablar, la m\xFAsica no aturde y va gente grande con muy buena onda. "
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/22245
+    ambiente_rank: excelente

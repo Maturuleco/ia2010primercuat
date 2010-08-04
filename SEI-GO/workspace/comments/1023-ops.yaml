@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      El lugar es muy lindo pero mas bien chico. Ideal para ir en la semana. Los mozos son mas bien desatentos.
+      La comida en gral me parecio rica, con altos y bajos, el postre, brownie con helado fue un punto alto al igual que las milanesas de mozzarella. Bajos: lomo a la mostaza y que no tenian volcan de chocolate como no tenian frutillas a la crema.
+      No creo que vuelva...
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/24247
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: me encanto todo,
+    date: 09-11-2009
+    user: http://mi.guiaoleo.com/members/71835
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente lugar! la atencion de primera! fui con mi chica y quede super bien!
+    date: 09-11-2009
+    user: http://mi.guiaoleo.com/members/71833
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Ambiente calido, atencion indicada, buenas recomendaciones y comida de primer nivel, sus diferentes sectores le da tranquilidad y reserva, el risotto es excelente y la carta de vinos variada.
+      Toda una experiencia!
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/71840
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: Muy rica comida, gran contenido del menu, atencion pesima, pedi un vino blanco de Navarro Torreas y lo estaban abriendo entre tres cuando en realidad lo tiene que hacer el mozo, metiendo adentro del pico los dedos ya que el corcho se rompio al abrir, vieron que estaba observando todo el proceso y de todas formas se decidieron servirmelo, al quejarme me ofrecieron otro que era de otro valor, mas economico pero me habian cobrado el anterior, y habia una persona que supongo no tiene nada que ver con el lugar que estaba atendiendo, nisiquiera teniendo uniforme puesto... Realmente desagradable...
+    date: 12-08-2009
+    user: http://mi.guiaoleo.com/members/67466
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente es lindo, pero no deben tener buen tiraje porque hab\xEDa humo suspendido en el aire. La comida muy rica, excepto el risotto.Excelentes los ravioles de calabaza con pesto de r\xFAcula. La atenci\xF3n estuvo bien. Cobran servicio de mesa."
+    date: 24-07-2009
+    user: http://mi.guiaoleo.com/members/1919
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En La Bonne Vie encontr\xE9 una carta variada y muy interesante, incluso con platos light. Ped\xED una lasagna vegetariana muy rica. La atenci\xF3n fue excelente y muy atenta. El lugar es sin dudas excepcional."
+    date: 12-12-2008
+    user: http://mi.guiaoleo.com/members/12853
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Soy habitu\xE9 de este paradis\xEDaco solaz que es (en general) el Paseo la Plaza. Oir p\xE1jaros mientras se almuerza a 30 metros de la avenida Corrientes es una sensaci\xF3n inefable. La atenci\xF3n de La Bonne Vie es esmerada, los mozos se retiran 'con nuestro permiso'. La proporci\xF3n de ellos, quiz\xE1s redunda en algunas mejorables demoras. La relaci\xF3n calidad/precio es insuperable. La cocina es sencilla, nutritiva y bien presentada. El sabor puede que no sea \xF3ptimo, pero la ecuaci\xF3n cierra contundentemente. El ambiente es de calidad superior. Informal y acogedor, simple y refinado. Lo recomiendo."
+    date: 12-05-2008
+    user: http://mi.guiaoleo.com/members/11727
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La atenci\xF3n fue buena, las bruschetas (especie de canap\xE9 grande en pan casero, porci\xF3n de 2 rodajas generosas) estaban ricas y bien servidas. Sirven copa de vino -seg\xFAn el que tengan abierto en el momento en el equipo al vac\xEDo-. No pedimos postre."
+    date: 01-02-2008
+    user: http://mi.guiaoleo.com/members/33232
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "DESASTROSO! Buen ambiente, pero es lo \xFAnico. Nos trajeron unos platitos como para pan mientras esperabamos la comida y el pan recien lo trajeron con los platos, y ni siquiera estaban calientes y estaba duro. La comida parecia recalentada mal en microondas ya que estaba fr\xEDa e insulsa. Termine mi plato antes que lo hiciera mi novia y el mozo me levanto el plato sin esperar que terminaramos ambos. No lo recomiendo."
+    date: 23-11-2007
+    user: http://mi.guiaoleo.com/members/6485
+    ambiente_rank: bueno

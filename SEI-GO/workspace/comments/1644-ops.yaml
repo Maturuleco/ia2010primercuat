@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "No se puede ver el espect\xE1culo, la comida es car\xEDsima y la musica est\xE1 tan fuerte que no se puede conversar."
+    date: 07-12-2006
+    user: http://mi.guiaoleo.com/members/6144
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No sirve el lugar para una despedida de soletro/as, dado que los shows no los pod\xE9s ver. Te cobran el plato de oro que es, en verdad, un horror."
+    date: 12-11-2006
+    user: http://mi.guiaoleo.com/members/13450
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno, es un complejo gigante donde hay de todo. \r\n\
+      Hay combinaciones ya armadas o tambi\xE9n se puede pedir a la carta. \r\n\
+      Posee 3 barras que tienen de todo.\r\n\
+      El servicio buen\xEDsimo, todos los camareros son j\xF3venes y con muy buena onda.\r\n\
+      Posee distintos shows, hay strippers, odaliscas y una chica que literalmente \"se cuelga de las telas\" y hace un show espectacular.\r\n\
+      M\xFAsica marchosa y de los a\xF1os 90."
+    date: 14-11-2005
+    user: http://mi.guiaoleo.com/members/4802
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Nosotros reservamos una cena con show inclu\xEDdo y, a pesar de que est\xE1bamos dentro de lo que se denominaba \"espacio para la actuaci\xF3n\", el recinto es tan grande que los \"actores\" no llegaron nunca adonde estaba nuestra mesa. \r\n\
+      Por supuesto que no nos quedamos a terminar de ver el espect\xE1culo por que ya no daba para m\xE1s. \r\n\
+      La encargada del local nos pidi\xF3 mil disculpas, pero ya era tarde, desde ya que no volveremos nunca m\xE1s y tampoco lo recomendaremos a nuestros conocidos. \r\n\
+      La m\xFAsica, estridente. No se pod\xEDa conversar absolutamente nada y terminamos af\xF3nicos y ensordecidos."
+    date: 04-09-2005
+    user: http://mi.guiaoleo.com/members/3689
+    ambiente_rank: malo/regular

@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La atenci\xF3n es p\xE9sima. Los mozos est\xE1n mal predispuestos. La terraza es divina y la comida muy buena."
+    date: 04-02-2010
+    user: http://mi.guiaoleo.com/members/76062
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo unico positivo de la noche fue que tuvieron una tolerancia de 20 min con nuestra reserva, por lo dem\xE1s no volver\xEDa. Pedi una empanada de jamon y queso y pizza caruso, que en la carta decia con champignones frescos pero en la pizza eran de lata. La calidad de la misma era de regular para abajo y la empanada que era de jamon y queso, me la trajeron de cebolla y queso, no pude pedir el cambio porque la mosa nos abandono, sin siquiera abrir las botellas de gaseosas. Luego el ticket estuvo mal realizado, por lo que la moza hizo a una de las personas de la mesa hacer la cuenta propiamente."
+    date: 24-01-2010
+    user: http://mi.guiaoleo.com/members/73067
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Pedi la pizza de verduras grilladas y resulto solo tener berenjenas. Mi novio pidio que a la suya le agregaran ciboulete y le agregaron cebolla de verdeo. Tuvimos que esperar mas de 50 minutos la pizza, y mas de 20 minutos la cuenta, despues de pedirla 3 veces.
+    date: 17-01-2010
+    user: http://mi.guiaoleo.com/members/71289
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es muy lindo, tiene una terraza increible, la pizza que comimos era riquisima y nos prepararon una tragos increibles, volveremos
+    date: 13-12-2009
+    user: http://mi.guiaoleo.com/members/20889
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Realmente el servicio es muy malo. Esperamos por una pizza unos 40 minutos. Cuando me harte y pedi la cuenta, ya que no la habian traido, apareci\xF3 una pizza que no era la que habiamos pedido. Ademas, la pizza, no decia nada"
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/72577
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La pizza esta bien. Ideal la noche de verano en la terraza
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Sinceramente horrible
+    date: 19-07-2009
+    user: http://mi.guiaoleo.com/members/65879
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El lugar esta bueno, no es lo maximo a cuanto pizzas se refiere, pero a mi me hace gusta la pizza napolitana en este lugar. La atencion no es la mejor tampoco pero no es mala. EL lugar adentro si tiene mucho eco y no muchas veces le ponen musica, es recomendable estar en la terraza.
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/56505
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La terraza para comer a la noche es increible. La comida muy bien y la barra de tragos muy bien atendida por el barman.
+    date: 05-03-2009
+    user: http://mi.guiaoleo.com/members/20889
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: no me considero poseedora de un paladar gourmet,pero creo que pretender comer un plato de pastas al dente y no crudo no es mucho pedir.por otra parte,pese al esfuerzo y simpatia de la moza,25 minutos es demasiado tiempo!!!!!!
+    date: 31-01-2009
+    user: http://mi.guiaoleo.com/members/48737
+    ambiente_rank: bueno

@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la pizza muy rica, el servicio no muy bueno porque no te tiran mucha onda y el ambiente como una pizzeria cualquiera.
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/83545
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "No probamos la especialidad que son las pizzas, sino los crepes que estaban buen\xEDsimos y no resultaron caros ($20, muy abundantes) pero las pizzas que vimos pasar parec\xEDan muy tentadoras. Las empanadas nos parecieron algo caras ($3,20 la unidad nos pareci\xF3 un exceso!). Buenos postres, atenci\xF3n amable. La \xFAnica contra es que algunos ni\xF1os que se escaparon del pelotero nos vinieron a molestar mientras com\xEDamos sin que nadie les dijera nada. (Sugerencia para Gu\xEDa \xD3leo: indicar en los restaurantes cu\xE1les son childfree!)"
+    date: 16-10-2009
+    user: http://mi.guiaoleo.com/members/36102
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "T\xEDpica cadena de restaurant. Los precios son elevados, pero la comida no lo vale demasiado. La atenci\xF3n no es de lo mejor!"
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/47487
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Son muy ricas las pizzas al molde.  Las pizzas a la piedra no me gustaron tanto.  La atenci\xF3n de las chicas es muy buena, especialmente de la que est\xE1 encargada de entretener a los ni\xF1os en el area del pelotero. En cuanto al delivery es verdad q las pizzas llegan calientes y ademas siempre te mandan alguna q otra porci\xF3n de fain\xE1 de gentileza."
+    date: 28-04-2008
+    user: http://mi.guiaoleo.com/members/44199
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar es ideal para ir con la flia. El ambiente no es nada del otro mundo pero la pizza es buena. Vale la pena.
+    date: 20-03-2008
+    user: http://mi.guiaoleo.com/members/42186
+    ambiente_rank: malo/regular

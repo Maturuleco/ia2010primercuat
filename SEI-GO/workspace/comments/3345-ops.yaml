@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una buena opcion para tomar una buena cerveza en jarra con amigos acompa\xF1ada de una gran picada. La musica esta buena y se llena bastante."
+    date: 07-02-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente pizza, y realmente muy barato.
+    date: 01-05-2008
+    user: http://mi.guiaoleo.com/members/20512
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: totalmente recomendable
+    date: 31-03-2008
+    user: http://mi.guiaoleo.com/members/42650
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La picada esta muy buena y es muy completa la recomiendo..
+    date: 31-03-2008
+    user: http://mi.guiaoleo.com/members/42651
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente ambiente, buena musica, comida de muy buena calidad y servicio de atencion rapido.- precios moderados.
+    date: 29-03-2008
+    user: http://mi.guiaoleo.com/members/42648
+    ambiente_rank: excelente

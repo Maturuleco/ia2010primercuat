@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n de men\xFA ejecutivo... muy buenas las pastas y la entra\xF1a. La ensalada de frutas \"chica\" del men\xFA es enorme y fresca. Para repetir."
+    date: 30-06-2009
+    user: http://mi.guiaoleo.com/members/14283
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "un lugar t\xEDpico de buenos aires, gastronom\xEDa de la tradicional, excelente atenci\xF3n, muy recomendable"
+    date: 20-12-2007
+    user: http://mi.guiaoleo.com/members/37225
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF3n, excelente calidad."
+    date: 03-01-2006
+    user: http://mi.guiaoleo.com/members/5704
+    ambiente_rank: excelente

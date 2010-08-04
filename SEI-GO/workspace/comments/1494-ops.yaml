@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fui varias veces, la comida sencilla, bien en lineas generales, pero decidi no volver mas por el pesimo servicio de atencion. Una lastima que esos detalles no sean observados por quien corresponda.
+    date: 25-12-2009
+    user: http://mi.guiaoleo.com/members/70358
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "lugar sencillo, para comer algo sin demasiadas pretensiones gourmet. El plato del d\xEDa estaba bien preparado y sabroso. El mozo bastante ausente."
+    date: 21-11-2009
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Tiene men\xFA del d\xEDa (por la noche) muy interesante y accesible. Si no se tienen grandes exigencias, se puede decir que se come bien y con una grata atenci\xF3n."
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/49610
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un lugar de paso,donde se pueden comer men\xFAes del dia por precios accesibles.La cocina no es muy buena."
+    date: 05-06-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Otra vez voto a favor de mi Piacere de cabecera, especialmente ahora que volvieron a ofrecer opciones de plato del d\xEDa bien pensadas, m\xE1s elaboradas sin ser rebusadas y muy accesibles para el men\xFA diario"
+    date: 19-05-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente

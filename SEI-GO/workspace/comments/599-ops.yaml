@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar tiene onda y los mozos tambi\xE9n. Cerveza bien fr\xEDa con precios algo altos, buenos sandwiches (el Molly Malone especialmente), una mesa de pool bastante buena y m\xFAsica al fuerte. Voy relativamente seguido y la verdad es que me gusta."
+    date: 28-11-2008
+    user: http://mi.guiaoleo.com/members/45999
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo rescatable es la decoraci\xF3n,el servicio brilla por su ausencia,hab\xEDa que ir a buscarlos a la barra.La comida mediocre,pedimos una picada tradicional de campo y no vinieron todos los ingredientes descriptos en el menu,las papas fritas eran aceite.M\xFAsica fort\xEDsima que te dol\xEDan los t\xEDmpanos, mezclaban electr\xF3nica con reggaeton y rock ??!!,pusieron el random de la pc y listo...bancatela."
+    date: 08-07-2008
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si tu viejo te dec\xEDa quiero ir a un pub irland\xE9s, Temple era la opci\xF3n: buenas cervezas, interesante variedad de whiskys y una ambientaci\xF3n b\xE1rbara\x85\r\n\
+      Ahora fui un jueves y hab\xEDa una sushi woman en la entrada, me parece que no tiene mucho que ver con el lugar original, pero bueno por algo lo har\xE1n.\r\n\
+      Lo ideal es sentarse en la barra (muy variada y pintoresca) a beber lo que sea, el barman si es muy bueno, aunque el local ofrece variedad de ambientes y no te vas a quedar sin lugar, hay muchas mesas, sillones y unos boxes en la entrada. Est\xE1 bueno, discreto\x85"
+    date: 25-12-2007
+    user: http://mi.guiaoleo.com/members/37224
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo recomiendo para ir luego de cenar, simplemente a tomar algo. \r\n\
+      Los tragos de primer nivel, lo mismo que el lugar. La comida, al igual que la atenci\xF3n, regular."
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/25756
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La verdad el ambiente muy lindo, el lugar me parecio bastante sucio, la atencion malisima me tuve que parar diez veces para pedir las cosas. Te dicen que hay happy hour cuando en realidad es promocion y terminas pagando lo que ellos quieren. No lo recomiendo para nada. Ahora me doy cuenta porque el lugar estaba vacio.
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/28273
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: UN pub mas, pero no tan bien ambientados como otros pubs irlandeses
+    date: 20-06-2007
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen ambiente. Se destacan los tragos, pero hay que ir temprano, porque a medida que se hace m\xE1s tarde, disminuye un poco la calidad.\r\n\
+      La atenci\xF3n es muy buena, los mozos le ponen muy buena onda."
+    date: 16-12-2006
+    user: http://mi.guiaoleo.com/members/10034
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente es excelente, buena m\xFAsica, la atenci\xF3n mala, parecia que quer\xEDan que te fueras (y no estaba lleno ni de cerca)."
+    date: 02-12-2006
+    user: http://mi.guiaoleo.com/members/14524
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "\xBFCu\xE1ndo vuelve Mamma Funk?. "
+    date: 18-09-2006
+    user: http://mi.guiaoleo.com/members/12135
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: I wouldn't recommend this place for food or drinks. It's overpriced and the staff are rude. If your looking for a pub head to reconquista intsead.
+    date: 07-09-2006
+    user: http://mi.guiaoleo.com/members/14818
+    ambiente_rank: bueno

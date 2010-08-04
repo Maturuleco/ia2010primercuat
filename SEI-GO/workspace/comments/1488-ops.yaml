@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Un lugar como para no volver nunca mas.
+      Atencion PESIMA, tuvimos que pedir 3 veces que nos cambien una cuchara, las 3 veces la trajeron sucia.Muy mala experiencia, no vuelvo nunca mas, por el mismo importe en la zona hay lugares mucho mejores.
+    date: 09-06-2008
+    user: http://mi.guiaoleo.com/members/7084
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "las veces que he ido he sido muy bien atendida "
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/26027
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No volver\xEDa a ning\xFAn Piacere, fueron decayendo a lo largo de los a\xF1os. La comida es de pl\xE1stico"
+    date: 01-03-2007
+    user: http://mi.guiaoleo.com/members/16166
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Tardan a\xF1os en atenderte y a\xFAn pidiendo el men\xFA, han demorado cuarenta y cinco minutos de reloj en traerlo a la mesa un s\xE1bado al mediod\xEDa."
+    date: 15-07-2006
+    user: http://mi.guiaoleo.com/members/10872
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El mejor caf\xE9 de Belgrano."
+    date: 11-06-2006
+    user: http://mi.guiaoleo.com/members/9216
+    ambiente_rank: excelente

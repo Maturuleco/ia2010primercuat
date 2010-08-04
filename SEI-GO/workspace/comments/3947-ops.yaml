@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buenas pizzas y calzones. Buen lugar para ir con amigos. Precios normales
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/78422
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Lugar pequeno pero que ayuda a mantener un ambiente amistoso que proponen los que trabajan ahi, con buenas y variadas cervezas, excelentes pizzas y muy buena atencion. excelente lugar para ir con amigos
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/63712
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ya hemos ido varias veces, tanto la pizza como el calz\xF3n son muy buenos. El Fatay en especial es muy rico. Tienen una muy buena variedad de cervezas tanto nacionales como importadas. A pesar que el lugar es chico, el ambiente es muy agradable. Recomendable"
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/36578
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      muy buenos la pizaa y los calzones sobre todo!!! muy buena predisposicion en la atencion y muy buena onda  el ambiente!
+      voy muy seguido y lo recomiendo!!!
+    date: 23-09-2009
+    user: http://mi.guiaoleo.com/members/69325
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar es peque\xF1o, pero la commida y la atenci\xF3n valen la pena. La pizza con r\xFAcula estaba excelente y nos sirvieron buenas porciones y a tiempo. Te atiende el propio due\xF1o, que es bastante simp\xE1tico.\r\n\
+      Es un lugar que est\xE1 bueno ir con amigos y con parejas, no lo recomiendo para familias ya que va gente joven (entre 20 y 35 a\xF1os).\r\n\
+      Es un lugar fresco y novedoso en el barrio."
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/35679
+    ambiente_rank: bueno

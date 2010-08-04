@@ -1,0 +1,97 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      La comida muy buena y abundante.
+      El mozo era desatento y de pocos modales.
+      Hubo demoras en traer el pedido.
+      El ambiente es humilde, antiguo, poco atractivo.
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/82604
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un bodeg\xF3n honesto donde sirven buena comida. Tard\xF3 bastante el bife de chorizo pero vali\xF3 la pena la espera. Las porciones de todo lo que sirven son generosas y preparadas con buenos productos. Para ir con amigos a pasarlo bien."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/77354
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Bodeg\xF3n de barrio, con clientela fiel que acude regularmente, a la hora de almuerzo siempre est\xE1 lleno. Cocina honesta y de buena factura que recuerda a la de la abuela. Atenci\xF3n y ambiente correctos."
+    date: 14-08-2009
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es la segunda vez que voy. Esta vez la atenci\xF3n fue un poco mejor que la anterior. Ese no es su fuerte ; pero la comida es buenisima. Siempre disfruto mucho."
+    date: 09-07-2009
+    user: http://mi.guiaoleo.com/members/10517
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "MUY BUENO!!! tipico bodegon, comida exelente con una atenci\xF2n mediocre y precios muy bajos"
+    date: 26-06-2009
+    user: http://mi.guiaoleo.com/members/65006
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Con unos amigos estamos haciendo un tour por Bodegones de Buenos Aires. Que buscamos? Comida rica, abundante, buen precio y ambiente estilo bodeg\xF3n. Este lugar cumple con las 4 cosas."
+    date: 15-04-2009
+    user: http://mi.guiaoleo.com/members/64171
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Algunos platos son para compartir, se come muy bien a un precio muy razonable, vale la pena bancarse algunas veces el ruido, y si llegar temprano y encontrar menos gente
+    date: 07-04-2009
+    user: http://mi.guiaoleo.com/members/55342
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Que puedo decir... A Gij\xF3n lo conozco hace 5 a\xF1os. Hoy fui con compa\xF1eros de trabajo y gozo de su delivery. Platos espa\xF1oles insuperables en cantidad-calidad. Se atreven a las pastas y salen airosos. Los postres, ese gustito casero que hoy se extra\xF1a cuando comemos afuera y, casi obvio, son para compartir. Los precios, muy convenientes.Para no caer en fanatismos: bastante ruido y a bancarse el olor a comida en ropa. Nimiedades al lado de lo que ofrece a cambio."
+    date: 02-10-2008
+    user: http://mi.guiaoleo.com/members/48592
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy correcto restaurante. No descolla, y tampoco se justifica ir solamente para conocerlo: pero estando en la zona es muy buena opcion para comer parrilla economica, rica y sobretodo en porciones gigantes. Muy buena y rapida la atencion"
+    date: 02-10-2008
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "\xA1EXCELENTE! Buena comida, buena onda, platos abundantes y de excelent\xEDsima calidad. Un restaurante que no pretende ser m\xE1s de lo que es. Qu\xEDmicamente puro."
+    date: 30-09-2008
+    user: http://mi.guiaoleo.com/members/33986
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Gran lugar.Un restaurant espa\xF1ol como los de antes.Fuimos 5 personas de buen comer y quedamos muy satisfechas.La relaci\xF3n precio-calidad es muy valorable.\r\n\
+      Tal vez el servicio no es el mejor.Pero se esmeran bastante.Volveremos."
+    date: 19-09-2008
+    user: http://mi.guiaoleo.com/members/10517
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy bueno de verdad, un bodegon muy recomendable. Platos casi absurdamente abundantes, de calidad buena/regular pero sin embargo buen sabor. La atencion se vio alterada por el partido de football proyectado en dos televidores en el salon, cuyo volumen no molesta para nada a una conversacion. Un ambiente poco formal pero no al punto de ser descortez. Muy recomendable de verdad para pasar un buen rato entre amigos y salir mas que satisfecho por la cantidad y calidad (en relacion al precio) de la comida.
+    date: 22-05-2008
+    user: http://mi.guiaoleo.com/members/44907
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Platos espa\xF1oles t\xEDpicos de bodeg\xF3n, pero muy bien preparados. Las porciones excelentes.\r\n\
+      L\xE1stima que no tiene tarjeta de cr\xE9dito, como menciona la gu\xEDa. Me hubiera bajado un cochinillo o una paella bien regada con vino blanco."
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/19166
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente. Un bodeg\xF3n como nos gusta. Excelente atenci\xF3n (mozos eran los de antes]. Un mozo pendiente de todo, que corre, que se acuerda, que sugiere, que pregunta. Una carta abundante: siempre algo te va a quedar bien. Vinos al tono del lugar, buenos sin pretenciones exageradas. Muy limpio. Muy lindo ambiente. Muy tranquilo, con gente de barrio alrededor.Una de las mejores relaciones calidad/precio que vas a poder encontrar. Platos abundantes y sabrosos. Si te queda lugar, entrale a un postre, de calidad y tama\xF1o como los de antes. No pod\xE9s dejar de ir!"
+    date: 27-12-2007
+    user: http://mi.guiaoleo.com/members/37555
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es un excelente lugar, son muy buenas las carnes, las rabas y las tortillas.
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/36762
+    ambiente_rank: muy bueno

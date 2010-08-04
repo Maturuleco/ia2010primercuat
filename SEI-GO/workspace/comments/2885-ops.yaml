@@ -1,0 +1,363 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      calido el lugar, muy buena atencion, la mentablemente achicaron la carta de vinos.
+      el menu muy bueno como siempre.
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/83285
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena opci\xF3n para comer en un ambiente agradable y bien atendido. La calidad de los platos no es sobresaliente pero tiene una buena relaci\xF3n precio / calidad"
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/76899
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Soy vecino y habitue del restaurante. Todas las veces que fui me senti muy a gusto, los platos son excelentes (recomiendo el arroz con mejillones gratinado), la carta de vinos es muy interesante y los precios son razonables. La atenci\xF3n de los mozos y el maitre es sobresaliente. Muy recomendable!!"
+    date: 06-04-2010
+    user: http://mi.guiaoleo.com/members/18122
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena atencion y comida, la carta de vinos es bastante buena. Volvere con amigos sin duda. Atencion al 10% de dto pago en efectivo
+    date: 12-02-2010
+    user: http://mi.guiaoleo.com/members/77692
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy lindo el lugar, reservado, la comida muy rica tambi\xE9n. El \xFAnico tema es que tardaron mucho en traer la comida (aprox 40 min). El resto todo bien"
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/68570
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Volvi despues de un tiempo, en busca de una revancha ya que la vez anterior no llego a convencerme. Pero tampoco me gusto esta vez. La entrada de muzzarella a la milanesa lejos lo mejor. Pedi fucciles a la crema pero resultaron desabridos, sin gracia. El servicio amable pero demasiado lento: entre plato y plato pas\xF3 casi 1 hora. Entre esto y el bullicio insoportable dentro del local optamos por consumir el postre en otro lugar. Definitivamente no vuelvo."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/45712
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es c\xE1lido. La carta de vinos no ofrece muchas opciones. Nos llevamos una grata sorpresa con el vino que tomamos un Telteca Malbec Medalla de Plata a $33. Delicioso para nosotros. Lo mejor sin dudas fue el  omelette de camarones con REAL camarones, tiernos, grandes y sabrosos. A la pasta le falt\xF3 sabor; la salsa de cebollas,prosciuto y br\xF3coli daba para m\xE1s. Panera rica, tabla de quesos normal."
+    date: 22-10-2009
+    user: http://mi.guiaoleo.com/members/9571
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lindo lugar, no es grande, pero muy comodo. Los mozos muy atentos. Pedimos salmon azafranado y lomo  mediterraneo, y quedamos muy contentos. Estropeo todo postre quemado, que dejamos mas de la mitad en el plato. Pero de todas maneras pasamos una noche linda. Es lugar ideal para ir con amigos.
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/68643
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: |-
+      Vivimos cerca y siempre lo vemos repleto y pasamos a ver el por que. Y no lo supimos.
+      La comida no es nada (nada) del otro mundo. Mis ravioles estaban bien, pero la crema era insulsa y los camarones incomibles. Tmb se pidio lomo al provolone, que fue una porcion de menos de los gramos requeridos en un plato, no era extraordinario y el precio una verguenza. Buena la atencion, pero acostumbrada a lugares excelentes, creo que este solo es un lugar para pasar por la puerta.
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/10779
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bueno todo. La carta no era muy variada, pero como fui con la idea de pastas, que es la especialidad del lugar, estuvo bien. Muy ricas y caseras. El servicio adecuado y el ambiente lo mismo para ser un lugar en Caballito. Lo recomiendo. A tener en cuenta: pago en efectivo hacen el 10% de descuento."
+    date: 16-04-2009
+    user: http://mi.guiaoleo.com/members/61160
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nos encant\xF3,las pastas super caseras, la atenci\xF3n excelente y el ambiente super c\xE1lido y relajado. Necesit\xE1bamos encontrar una propuesta de este nivel en el barrio.Un detalle no hay cervezas en el men\xFA..."
+    date: 09-04-2009
+    user: http://mi.guiaoleo.com/members/60850
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: El lugar es bonito,pero el mozo no nos presto el servicio que esperabamos tal vez nos vio muy jovenes!tardo bastante en atendernos y no habia mucha gente,nuestros platos estaban bien presentados pero era eso mas importante que la comida;la verdad nos sentimos incomodos,vimos como eran atendidas con esmero otras mesas y eso no me gusto!no es lo que esperaba
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/60610
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Este a\xF1o ha cambiado mucho,ya no es como antes se dispersan los mozoz y tardan o atienden en mi caso a personas que entraron despues.\r\n\
+      Pero si hay demora y la comida es buena, esta todo bien,cosa que no fue asi y esta es la segunda vez que lo mas importante fue la panera."
+    date: 02-04-2009
+    user: http://mi.guiaoleo.com/members/60573
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El ambiente es agradable, la atencion fue muy regular, quizas por la fecha dado que el restaurante estaba lleno pero tardaban mucho para todo. La comida fue buena, porciones abundantes y de calidad.
+    date: 14-02-2009
+    user: http://mi.guiaoleo.com/members/36525
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar ya era conocido ya que tiempo atras compartimos una cena por el cumplea\xF1os de un integrante de la familia y decidimos volver para algo mas intimo. El ambiente cumpli\xF3 perfectamente y con una atenci\xF3n precisa. Teniamos intimidad y a la vez nos atendian en el momento justo. La comida era bien servida, tal cual nos indic\xF3 el mozo. Abundante y con sabor, aunque quizas un poquito mejorable. El precio acorde a lo que uno recibe. Volver\xEDa sin dudar."
+    date: 19-01-2009
+    user: http://mi.guiaoleo.com/members/20272
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Me gustaron los platos, bien presentados y sabrosos, el ambiente es agradable. Lo recomiedo.
+    date: 20-12-2008
+    user: http://mi.guiaoleo.com/members/37396
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Este restaurant me sorprendio muy gratamente. La comida es muy rica, fresca, abundante y muy bien presentada. La atencion es excelente, los camareros muy correctos y atentos. Realmente, una muy buena opcion para los vecinos de Caballito. Hacia falta un restaurant de esta calidad en el barrio.
+    date: 05-11-2008
+    user: http://mi.guiaoleo.com/members/21690
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy c\xE1lido y la atenci\xF3n tambi\xE9n. Los platos muy ricos y bien presentados. El postre (Tartufo) muy creativo, nos encant\xF3. El mozo,muy amable y sabe de su trabajo, cosa que no es com\xFAn en estos d\xEDas. Volveremos...\r\n Un solo detalle: Le hace falta un poco de orden a la carta. Todo lo dem\xE1s excelente!!!"
+    date: 22-09-2008
+    user: http://mi.guiaoleo.com/members/52079
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Buena comida, lindo lugar y amable atenci\xF3n. Una de las mejores opciones en la zona, los precios son acordes a la propuesta. No se pierdan el pollito a las dos olivas!"
+    date: 07-08-2008
+    user: http://mi.guiaoleo.com/members/38846
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar super c\xE1lido, la atenci\xF3n excelente todos atienden muy cordialmente y la comida sabrosisima, una opci\xF3n excelente!"
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/48715
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El ambiente y el servicio son excelentes. Muy buena presentaci\xF3n de los platos. La comida es rica, aunque podr\xEDan ser platos m\xE1s abundantes. Para recomendar."
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/45756
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente lugar. Muy c\xE1lido y amigable."
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/47737
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Como la mayoria de los lugares gastronomicos de este pais al principio cuando no son conocidos se matan en la cocina hoy ya no tienen platos de los inicios que andaban muy bien, cosa que he sugerido en persona y las porciones han disminuido y los precios subido, lo recomiendo como salida pero no es lo de antes.
+    date: 17-07-2008
+    user: http://mi.guiaoleo.com/members/47645
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena, pero cabe criticar que no es abundante. Deberian ser m\xE1s grandes los platos, porque uno se queda con hambre. Tambien agregaria la salda bolog\xF1esa, que no tienen; ya que es una tipica salsa para las pastas.\r\n\
+      Los postres muy buenos."
+    date: 20-06-2008
+    user: http://mi.guiaoleo.com/members/45378
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida muy buena. La atenci\xF3n excelente. El ambiente b\xE1rbaro, con poco ruido, ideal para poder entablar una charla tranquilo. Super recomendable."
+    date: 15-06-2008
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Tal vez por los muy buenos comentarios fuimos con muchas expectativas, y lamentablemente no salimos satisfechos. El salon est\xE1 muy bien ambientado, aunque tal vez resulte algo bullicioso y con mesas demasido cercanas. La comida, al menos la carne y el pollo con nombres pretenciosos pero de sabor y elaboraci\xF3n dentro del estandar que no justifican el precio. Lo mejor: el postre, la copa Rosatto es para recomendar."
+    date: 13-06-2008
+    user: http://mi.guiaoleo.com/members/45712
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Riquisimo todo. Comoidas abundantes y sabrosas! Y el opstre, panqueque de manzana lo mejor de todo! Para los q vivimos en caballito es una muy buena opcion. Recomendable
+    date: 03-06-2008
+    user: http://mi.guiaoleo.com/members/45743
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Fuimos por primera vez un dia de semana la atencion fue buena y la comida tambien pero al guiarnos por la pagina de guia oleo creiamos que nos sorprenderia por los comentarios, en verdad cada comensal tiene sus exigencias.
+    date: 13-05-2008
+    user: http://mi.guiaoleo.com/members/11825
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena opcion fuera del circuito gastronomico tradicional. Desde la recepcion, con la copita de mistela y la panera con pancitos calentitos, que el mozo renovo sin dudarlo, hasta la comida y la atencion del personal. Abundante la ensalada Rosatto, exquisitos los fuccile con salsa marinera, con un gustito ahumado fascinante. Cabe destacar el descuento del 10% por pago en efectivo...
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente opci\xF3n en Caballito. Volveremos seguido.\r\n\
+      Siempre tienen gente por lo que conviene reservar, yo llegue a las 9 en punto y me asignaron la ultima mesa disponible.  Mistela al recibirnos, cortesia de la casa.\r\n\
+      La comida preparada con esmero y platos abundantes. De postre pedimos de el panqueque de manzana quemado al rhum que estaba excelente.  Los vinos de Nieto abundaban en todas las mesas (la botella peque\xF1a, a 17$)."
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/21582
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy rica la comida, la entrada muy abundante. Muy gustoso todo, y el panqueque de manzanas era excelente! el mejor que comi en mi vida! Muy bueno todo. recomendable. Eso si, reserven o vayan temprano, porque se llena.
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/41505
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un excelente lugar para visitar, comer muy bien y pasar un buen rato.\r\n\
+      Con precios muy buenos en relaci\xF3n al producto y al servicio.\r\n\
+      Excelente la atenci\xF3n y la r\xE1pidez con la que te traen los platos.\r\n\
+      Lo recomiendo!!!"
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/44422
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Como siempre entro en Guia Oleo para descubrir nuevos Restaurantes, esta vez me toc\xF3 ir a Rosatto, la verdad quedamos muy contentos y satisfechos con la comida y el buen trato de los comensales ya que llegamos a las 15 hs del domingo y nos recibieron perfectamente y todo hecho en el momento!\r\n\
+      Vamos a volver para probar todos los platos de la carta que son muy buenos!"
+    date: 20-04-2008
+    user: http://mi.guiaoleo.com/members/43741
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Recomiendo este restaurante, se come muy bien, y el precio es muy accesible. Plato de entrada, principal y postre mas un vino, salio 65 por persona. La calidad y la atenci\xF3n son muy buenas. El pan es riquisimo, son mini y vienen calentitos. Te reciben con un vasito de mistela y antes de irte te ofrecen lemonchelo. Me gust\xF3, volver\xEDa."
+    date: 18-04-2008
+    user: http://mi.guiaoleo.com/members/43722
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Fuimos el domingo al mediodia ya que sin dudas lo mejor de Rosatto son las pastas... Para arrancar pedimos un omellette de camarones que sinceramente no tenia mucho sabor, nada sobresaliente. La pastas muy buenas! Muy ricas! Aunque si la porcion me parecio algo escasa... Los camareros excelentes! Saben muy bien la carta y recomiendan a la perfeccion... el lugar muy prolijo y tradicional aunque muy ruidoso cuando se llena! Volveremos a probar otras pastas!
+    date: 16-03-2008
+    user: http://mi.guiaoleo.com/members/14242
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos por recomendacion de la guia. Antes reservamos, al llegar notamos que estaba algo desbordado ya que habia dos mozos y segun nos dijieron habia faltado uno, tuvimos que reclamar el vino ya que tardo mas de lo normal, el lugar es agradable pero un poco saturado de mesas, en cuento a la comida es de buena a muy buena, las porciones eran buenas pero no generosas, lo malo fue que las papas fritas del pollo a la ciruela estaban re fritas, la mesa estaba mal acompa\xF1ada, solamente habia pan, el vino estaba un poco caliente, el postre apenas bueno.  de cualquier modo lo recomiendo."
+    date: 13-02-2008
+    user: http://mi.guiaoleo.com/members/40134
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Yo vivo por Caballito y de los restaurantes de la zona es de los mejorcitos, muy bueno, recomendable. Ya fui dos veces y esta noche voy por la tercera.
+    date: 10-02-2008
+    user: http://mi.guiaoleo.com/members/4608
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Ayer mi se\xF1ora eligi\xF3 este Restaurante, tantas veces recomendado por un matrimonio amigo, para cenar en una linda noche de enero.\r\n\
+      Previa reserva obligatoria para un s\xE1bado a la noche nos acercamos a la hora pactada.\r\n\
+      A eso de las 21 nos abrieron las puertas de un lugar en el que te sent\xEDs muy c\xF3modo apenas cruzas la entrada, la ambientaci\xF3n, la atenci\xF3n, el clima que se respira dentro es agradable, tranquilo y sobrio. Las mesas est\xE1n bien separadas lo que te permite charlar con quien vayas, sea t\xFA pareja o amigos. \r\n\
+      De bienvenida si queres te convidan con una COPITA DE MISTELA, bien fri\xF3 y riqu\xEDsimo, luego te traen una TOSTADA untada con una pasta a base de br\xF3coli y ajo y al  traerte la bebida arriman la panera llena de pancitos saborizados.\r\n\
+      La carta de vino es amplia y variada, elegimos en esta ocasi\xF3n un vino tinto bi varietal malbec-cabernet \xC1rbol, que a nuestra modesta opini\xF3n, no nos gust\xF3 para nada, muy \xE1cido en el paladar, un sabor que no te llena la boca, PEDI OTRO.\r\n\
+      Paso ahora a la comida. Pedimos pastas, FUCCILE con SALSA CARBONARA y SORRENTINOS DE POLLO Y PROVOLONE con SALSA A BASE DE CREMA Y ESCAMAS DE PROVOLETA. \r\n\
+      Te aseguro que las pastas estaban muy ricas, las dos bien caseritas, en su punto justo los fucciles, al igual que los sorrentinos, se notaba la escasa sal en toda la preparaci\xF3n cosa que realza los sabores verdaderos de la comida. Puedo aseverarte que las PASTAS son MUY RECOMENDABLES y pronto volveremos por m\xE1s.\r\n\
+      De postre TIRAMISU tambi\xE9n EXQUISITO y bien casero con mucho licor de Amareto en la elaboraci\xF3n y para mi se\xF1ora TARTUFO que viene a ser base de sambay\xF3n caliente, helado de chocolate y nueces picadas, INOLVIDABLE.\r\n\
+      Para finalizar la cena nos invitaron con una copa de LEMONCCELLO, al igual que casi todo, casero y riqu\xEDsima.\r\n\
+      Si llegaste leyendo hasta ac\xE1 te digo, anda, prob\xE1 y despu\xE9s contanos.-"
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/17010
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo que no me gusto  es el servicio, todav\xECa estoy esperando la copita de mistela que me prometieron antes de comer.... La comida es buena (no hab\xECa camarones!!)muy sabrosa... la ambientaci\xF2n es bonita"
+    date: 05-01-2008
+    user: http://mi.guiaoleo.com/members/11318
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen restaurant. Excelente clima... muy tranquilo pero con \"onda\".\r\n\
+      La comida es muy rica y abundante.\r\n\
+      Para pasar un muy buen momento ya sea en pareja, con amigos o en familia.\r\n\
+      No se le puede pedir m\xE1s!"
+    date: 30-12-2007
+    user: http://mi.guiaoleo.com/members/33978
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Rosatto es una excelente opci\xF3n para una cena rom\xE1ntica o tranquila con amigos, donde se comen excelentes platos (muy bien preparados, muy buena cocina mediterr\xE1nea) y no sentir que dej\xE1s la billetera a la hora de la cuenta. Lo conoc\xED por recomendaci\xF3n, y lo recomendar\xEDa con total confianza."
+    date: 29-12-2007
+    user: http://mi.guiaoleo.com/members/3503
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Todo bien ambiente agradable. Ideal para los habitantes de Caballito. Muy recomendado. Pastas cool. "
+    date: 20-11-2007
+    user: http://mi.guiaoleo.com/members/35855
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente opci\xF3n en caballito, una de las mejores, un lugar chiquito, la onda de los mozos es muy buena y te saben recomendar bien tanto platos como vinos...El ambiente es bastante intimo, y es lindo para ir tanto en pareja como en familia...Los platos son muy ricos, excelentemente presentados y bastante abundante...Muy buena la relaci\xF3n precio calidad...Sin duda vamos a volver con mi esposa!"
+    date: 25-10-2007
+    user: http://mi.guiaoleo.com/members/8635
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy lindo ambiente, acogedor con buena ambientacion, ya nos recibieron bien desde el principio, muy amables la se\xF1orita de la puerta y los mozos. \r\n\
+      La comida es excelente, buena cantidad y la relacion precio calidad es muy buena. Vamos a volver."
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/33392
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena atenci\xF3n, comida razonable, muy chico, aunque quizas por esto tenga su encanto, creo que volvere con mi esposa no es para demasiados por el espacio.\r\n\
+      Somos de caballito y nos evita en algunos casos el ir a otras zonas."
+    date: 19-10-2007
+    user: http://mi.guiaoleo.com/members/34125
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n en caballito. El lugar es \xEDntimo si bien las mesas est\xE1n un poco juntas por lo peque\xF1o del lugar, pero bien cuidados los detalles. La atenci\xF3n es excelente, la carta variada con precios realmente accesibles. Recomiendo las pastas."
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/11265
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La atenci\xF3n, el servicio y la comida es mas que buena. El precio est\xE1 bien para la zona y para la calidad que se ofrece.\r\n\
+      Los platos son abundantes.\r\n\
+      El lugar es chico, es muy lindo y agradable.\r\n\
+      Aconsejo llegar temprano ya que el lugar es muy concurrido."
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/32646
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n, sugerencias del cheff en abundante porci\xF3n, deliciosa la carne. El lugar es muy agradable, sobre todo si se va en pareja.\r\n\
+      Vuelvo seguro."
+    date: 17-09-2007
+    user: http://mi.guiaoleo.com/members/31922
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente alternativa para quienes vivimos en Caballito y a veces no queremos desplazarnos hasta Palermo, Ca\xF1itas etc para una buena salida. Muy buen ambiente, calido e intimo. Correcta atencion. La cocina es excelente. Ya fui dos veces y seguir\xE9 yendo porque vale la pena. Imperdible el Lomo a la Putanesca, una delicia! Buena relacion precio calidad."
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/31865
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: la comida muy buena,te sirven unos panes calientes saborizados exquisitos, las porciones generosas. para recomendar!
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/7875
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Un lugar muy agradable con una destacada atencion tanto del recepcionista como de los mozos. Las pastas caseras son de primera y la relacion precio/calidad esta justificada. Los fuchile con mariscos una delicia asi como las rabas, aunque escasa la porcion. 
+      Una buena opcion para cena intima en Caballito.
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/21798
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos por 2\xB0 vez y no nos defraudaron. Para los amantes de las pastas varias opciones una m\xE1s tentadora que la otra. Para los dem\xE1s tambi\xE9n hay opciones. Platos abundantes y a buen precio en relaci\xF3n con la calidad y cantidad. Al llegar reparten una copita de mistela, buena panera, entrada compartida, plato principal, postre compartido, lemoncello y cafe (que al final nos lo regalaron como atenci\xF3n de la casa) a 40 por persona. Barato si considero TODO LO QUE COMIMOS!!!. Si pagas en efectivo tiene 10% de descuento."
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/11720
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Como rest\xF3 de barrio, la rompe: ideal para comer pastas, platos de calidad y bien servidos, una carta para tentarse, precios razonables, mozos que hacen chistes (y sin desubicarse), y al mismo tiempo un ambiente \"cool\", como le gusta al p\xFAblico palermitano, aunque estemos m\xE1s cerca de primera junta. Seguramente volveremos."
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena alternativa en Caballito. Se comi\xF3 bien con precios acordes. Vuelvo.  "
+    date: 02-03-2007
+    user: http://mi.guiaoleo.com/members/11820
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Buena atenci\xF3n, excelente cocina y ambiente de parroquianos agradable, lo que es una ventaja. Las porciones son abundantes y la carta de vinos se ajusta a las necesidades de su categor\xEDa como restaurante. El entorno es c\xE1lido lo que favorece la charla distendida."
+    date: 16-02-2007
+    user: http://mi.guiaoleo.com/members/18467
+    ambiente_rank: muy bueno

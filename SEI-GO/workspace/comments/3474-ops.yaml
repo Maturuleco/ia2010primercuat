@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Increible la relacion precio calidad!!Platos abundantes y bien decorados.
+    date: 08-03-2010
+    user: http://mi.guiaoleo.com/members/76816
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Un excelente ambiente  muy buena y calidad atencion
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/77056
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El restaurante se encuentra dentro de un hotel. Lindas mesas blancas con detalles delicados y decoraci\xF3n armoniosa. Muy buena la opci\xF3n de men\xFA al mediod\xEDa, con precios accesibles. Carta interesante y atenci\xF3n cuidada y sumamente amable. Muy recomendable. Me encant\xF3. Volver\xE9."
+    date: 12-09-2009
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente la carta, platos abundantes, y propuestas diferentes....Muy Bueno!!! Volvere....
+    date: 31-05-2009
+    user: http://mi.guiaoleo.com/members/33307
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es exquisita, el ceviche de camarones, es incre\xEDble!, muy bueno el servicio. Me sigue sorprendiendo! sigan asi."
+    date: 15-10-2008
+    user: http://mi.guiaoleo.com/members/21549
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui solo a tomar un cafe con un browni pero la verdad es que me gust\xF3 mucho, la atenci\xF3n es maravillosa, muy agradable Laura que me atend\xEDo y el ambiente es muy especial con la musica acorde. Voy a volver para cenar y lo voy a recomendar."
+    date: 15-06-2008
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Me senti muy c\xF3moda, la comida fue deliciosa, la decoracion de los platos me encant\xF3.El restaurant me pareci\xF3 impecable, me senti muy c\xF3moda, lo recomiendo."
+    date: 30-03-2008
+    user: http://mi.guiaoleo.com/members/21549
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente cocina y atenci\xF3n. Muy creativo el cheff y con muy buena onda para la atenci\xF3n personalizada.\r\n\
+      \r\n\
+      El lugar tiene una est\xE9tica muy elegante y diferente, es esa rara mezcla de un lobby de hotel y restaurante, muy creativo!\r\n\
+      \r\n\
+      Vale la pena conocerlo y dejarse recomendar."
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/28893
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente felicitaciones al chef!!!!\r\n\
+      la calidad de los productos, la presentaci\xF3n de los platos, la originalidad es excelente.Super recomendable.Ambiente exquisito.Para volver y degustar otras especialidades.Nuevamente felicitaciones!!!"
+    date: 28-02-2008
+    user: http://mi.guiaoleo.com/members/41101
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente y original carta. realmente cocina de autor a un precio increible....un verdadero hallazgo ...
+    date: 18-02-2008
+    user: http://mi.guiaoleo.com/members/40546
+    ambiente_rank: bueno

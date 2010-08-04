@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la verdad hace mucho no pruebo un plato como este, abundante, un toque de decoracion el plato, no me parece caro, ambiente acogedor.Lo recomiendo
+    date: 11-02-2008
+    user: http://mi.guiaoleo.com/members/39952
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Voy a almorzar hace casi 2 anos todos los mediodias ya que mi trabajo esta a pocos metros. Me gusta la variedad de sus menues y la ecuacion precio calidad es excelente. La atencion es muy cordial y rapida, el ambiente que cada tanto lo renuevan es muy calido y bonito
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/39364
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar es lindo. Pero la atenci\xF3n deja bastante que desear. Ped\xED una pizza que vino con la mitad de los ingredientes (se olvidaron de poner el jam\xF3n crudo y las aceitunas) y la facturaron por su precio original a pesar de que se los hice saber.\r\n\
+      Las empanadas ten\xEDan un gusto horrible."
+    date: 27-02-2006
+    user: http://mi.guiaoleo.com/members/6688
+    ambiente_rank: muy bueno

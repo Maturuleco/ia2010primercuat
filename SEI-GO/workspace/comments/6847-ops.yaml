@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es unico, la comida muy buena, el servicio no puede ser mejor.Me encanto!!!
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/81817
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: el lugar es muy reservado y eso lo hace unico,la comida esta muy bien elaborada y los postres ni que hablar. Muy bueno
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/76701
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente el lugar. Es un ambiente maravilloso. La carta es simple pero con platos muy bien elaborados y la atenci\xF3n magn\xEDfica. Volveremos a ir."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/39272
+    ambiente_rank: excelente

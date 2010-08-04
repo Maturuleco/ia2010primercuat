@@ -1,0 +1,356 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Era uno de los lugares favoritos de la zona. Me gustaba porque eran porciones abundantes y ten\xEDa muy buena relaci\xF3n precio/calidad. El viernes volv\xED a ir y parece que el concepto cambi\xF3. Las porciones eran muy chicas, lo que hac\xEDa que de repente se pon\xEDa caro. Ped\xEDmos malfatti con salsa de queso y nos pusieron ocho malfatti cada uno. Estoy cansada de los lugares donde pagas mucho y te sirven poco!"
+    date: 23-05-2010
+    user: http://mi.guiaoleo.com/members/82406
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es hermoso. La atenci\xF3n es buena, el sal\xF3n es chico pero las camareras por momentos da la impresi\xF3n que se pierden dentro del mostrador. La comida es muy buena, el punto de la carne estaba justo como se pidi\xF3. Son para recomendar las mollejas como entrada. Volvere y seguire probando los distintos platos."
+    date: 18-05-2010
+    user: http://mi.guiaoleo.com/members/82095
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 la comida, ya es la tercera vez que voy. La atenci\xF3n muy buena, pero demoraron un poco los platos. Lindo lugar en San Telmo!"
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/41988
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Podr\xEDamos hablar de una rica comida casera chic. ingredientes frescos y bien elaborados. Buena relaci\xF3n precio calidad. La atenci\xF3n es esmerada pero no del todo eficaz. El ambiente tranqui y amable. Lo recomiendo y volver\xE9."
+    date: 14-04-2010
+    user: http://mi.guiaoleo.com/members/48592
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: riquisimo todo! Comer en la vereda al mediodia te da la sensacion de estar comiendo en tu casa, la calle donde esta es divina y le da el cierre perfecto al estilo casero. Comi un bife de chorizo altisimo que estaba perfectamente jugoso como lo pedi, con unas papas que no podian estar mas doradas! (no las comparti con nadie!!!)
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/13474
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "A favor:ambiente tranquilo, soleado y agradable. La carta de vinos tiene opciones muy buenas.\r\n En contra: al llenarse se pone ruidoso. La atenci\xF3n es justa, tal vez poco expeditivos, eso si no te explican nada eh!. La comida si bien no fue mala en cuanto a calidad, me pareci\xF3 un tanto tosca, casi r\xFAstica, sin nada sobresaliente por destacar, la pesca ten\xEDa un adobo fuerte muy similar al chimichurri, como queriendo ocultar algo mmm...?, el matambre fue tierno pero archi picante, y eso que nos gustan mucho las cosas picantes, la relaci\xF3n calidad precio es p\xE9sima.\r\n\
+      No recomiendo, solo para menu"
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar tiene su encanto y est\xE1 ubicado en una calle preciosa de San Telmo. La atenci\xF3n fu\xE9 buena. El conejo me pareci\xF3n un poco seco."
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/79844
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El men\xFA del d\xEDa no incluye postre, pero s\xED una entrada y el plato principal, siempre abundante y sabroso. Comida sencilla, pero apetitosa. Suelo ir todos los viernes a mediod\xEDa, si es que consigo mesa, lo que no es f\xE1cil. La atenci\xF3n es buena y las chicas que la brindan, muy amables. Un lugar que me gusta visitar."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/50455
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: La comida esta bien,el pan es riquisimo. La atencion y el ambiente estan muy bien. Un lugar para volver!
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/51379
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es la segunda vez que vamos y no nos ha defraudado. Buena atenci\xF3n, ambiente calmo y poco ruidoso, iluminaci\xF3n indirecta y tenue. Las camareras muy amables y buena onda. El servicio fue muy bueno y aunque demor\xF3 un poco, nada fuera de lo normal. La decoraci\xF3n de los platos nada pretenciosa. Recomendado para festejar, para ir con amigos, con la familia, en pareja... no defrauda. Relaci\xF3n costo-calidad muy buena."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78267
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Vivo en San Telmo y conozco bien las opciones de la zona. Puedo decir, sin asomo de dudas, que Caseros gana por afano. El ambiente es ligero, reconfortante, buc\xF3lico, muy soleado. La atenci\xF3n es esmerada pero no invasiva. Y la comida, sencillamente excelente: porciones generosas, ingredientes frescos y sabrosos, combinaciones muy logradas. Recomiendo el ceviche, la provoleta de queso de cabra, la ensalada tibia de langostinos y salm\xF3n marinado, el matambre de cerdo, etc. Gastronom\xEDa de la buena: rica, accesible y sin pretenciones. Lo mejor del sur."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/77863
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nos gusto mucho la onda de este comedero. Toda  la vajilla antigua, los centros de mesa con frutas y verduras. Si bien la carta es corta, tambi\xE9n es variada. La cocina es muy buena, los platos que probamos estuvieron a la altura de las expectativas que genero el lugar. Volver\xEDamos para probar otros. Muy buena atenci\xF3n de la camarera, que parec\xEDa ser una de las due\xF1as, porque estaba demasiado pendiente de toda situaci\xF3n que se presentara en el lugar."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La atenci\xF3n fue muy mala. Tuvimos que soportar caras malas por parte del cocinero y las meseras ante el reclamo por la comida. Hasta el huevo frito estaba mal hecho. QUEMADO!! La carne dur\xEDsima.Pero si hay que decir que fue lo peor: La cara de pedantes de las meseras. Chicas: dediquens\xE9 a otra cosa."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/77998
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Llegamos cerca de las 11 p.m. el lugar estaba completo, pero tiene bastante recambio, como sabemos San Telmo es zona de turistas y Caseros parece atraerlos. Si bien la carta es reducida, se ve variada, dan ganas de volver para probar otros platos.
+      N: Si se va en auto entrar por Defensa (bordeando Plaza Lezama) no hay problema en estacionar en la calle.
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/51922
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "carta breve pero con opciones interesantes y platos bien preparados. Atenci\xF3n buena. Ambiente un poco ruidoso pero soportable."
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/44122
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      El lugar fisico me encanta ya fui tres veces y toda la gente que lleve se fue muy contenta.
+      Por suerte las veces que fui recibi una muy buena atencion , sin demasiada explicacion de los platos pero en fin muy buena.
+      Muy recomendable de dia , de noche pierde su encanto.
+      Unica observacion tal equivoca , no se si cambian de chef en los horarios pero la ultima vez que fui la comida no tenia la calidad anterior me fui decepcionada (noche).
+      Muy recomendable el zapallo en almibar con mascarpone excelente!!!
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/81191
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "comimos muy rico, los platos bien presentados la atenci\xF3n un poco lenta y distr\xEDada, el ambiente es de sue\xF1os muy decorado, para vovler y recoemndar sin dudas!!!"
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/75880
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Exelente todo!!!,el lugar,la atencion y la comida,absolutamente recomendable.
+    date: 13-01-2010
+    user: http://mi.guiaoleo.com/members/2372
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fuimos anoche, tanto el ambiente como el servicio son excelentes. El lugar lleno de peque\xF1os encantos y los mozos atentos y serviciales pero no molestos son los dos detalles a destacar. La comida no desentona, entrada de provoleta de cabra, principales agnolottis y pesca del dia y de postre la copa de helado. Todo muy rico, en porciones abundantes. Dos, compartimos la entrada y el postre, un ppal cada uno. $65 por persona con bebida sin alcohol. Sin dudas para volver.."
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/42211
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos temprano a cenar de modo que no hab\xEDa practicamente nadie. As\xED, ese espacio blanco en silencio era super agradable. La comida, en cambio, no result\xF3 buena. Ped\xED pastas con hongos y era casi s\xF3lo hongos con crema -sabroso en cierto modo pero absolutamente pesado e indigerible-. El mozo de ese d\xEDa no hab\xEDa mirado la carta ni cinco minutos antes de entrar a trabajar en ese restaurant; no ten\xEDa ni idea de los platos del men\xFA."
+    date: 30-11-2009
+    user: http://mi.guiaoleo.com/members/79069
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Si trabajas por la zona. Esta es la mejor propuesta\xB4para el mediodia. Siempre vamos con nuestros compa\xF1eros de trabajo y nos encanta la luz de este lugar. Mas que recomomendable"
+    date: 25-11-2009
+    user: http://mi.guiaoleo.com/members/72933
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "buenisima opcion, como dijo machi, te traslada hacia el viejo continente. la carta un poco escueta pero muy buenos platos, 7 en total, desde ensalada, pescados carnes hasta pastas. pedimos una ensalada con camarones y langostinos, con cilantro, mani, naranja, muy buenas combinaciones.el lugar muy blanco y con toques de almacen y vajilla variada, la atencion cumple sin sorprender demasiado,define el encanto la ubicacion,el boulevard y los farolitos digno de visitar durante el dia tambien. un dise\xF1o de vanguardia muy al dia con los resto-bistro,cuidado y acojedor, cocina a la vista y muy limpio."
+    date: 24-11-2009
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n y comida en una zona que promete a futuro."
+    date: 21-11-2009
+    user: http://mi.guiaoleo.com/members/20085
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "todo buen\xEDsimo. Adem\xE1s no conoc\xEDa esa parte de la avenida Caseros, parece otra ciudad (mejor)."
+    date: 21-11-2009
+    user: http://mi.guiaoleo.com/members/70078
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy rico todo, la atenci\xF3n es cordial lo que se destaca es el ambiente, el lugar es hermosos, quiero repetir de dia!!"
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/72338
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Paredes blancas, techos altos, mucha luminosidad, es un lugar que invita a entrar y transportarse por qu\xE9 no a otro tiempo o incluso otro lugar. La atenci\xF3n es correcta y la comida muy buena (excelentes los agnolottis y como dijeron otras personas, imperdible el flan de coco). Es un lugar para volver con frecuencia, sobre todo al vivir cerca, como es mi caso."
+    date: 07-11-2009
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida diez puntos, muy buena atenci\xF3n, fuimos a festejar un cumplea\xF1os y nos permitieron llevar la torta. La pasamos muy bien. Volveremos pronto!!!!"
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/47966
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me encant\xF3 este lugar. Ubicado en una de las avenidas mas lindas de Bs.As.\r\n\
+      La comida es excelente, muy buen ceviche. Muy rico cordero relleno. Buena carta de vinos. todo a precios acordes.\r\n\
+      Volver\xE9 mil veces."
+    date: 16-10-2009
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar muy agradable, c\xE1lido y con detalles que lo hacen acogedor. El men\xFA ejecutivo es muy bueno, abundante y nada caro. La atenci\xF3n es esmerada y sobre todo, eficiente. Lo recomiendo para la hora de almuerzo. Lo probar\xE9 a la noche."
+    date: 13-10-2009
+    user: http://mi.guiaoleo.com/members/52743
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida muy buena, servida con rapidez y muy sabrosa. La carne al punto que la pedimos. \r\n\
+      El ambiente, un poco ruidoso mas que nada porque cocina y despacho de caf\xE9 y (sobre todo) jugos licuados est\xE1n muy integrados al salon. Uno se pone a gritar, y cuando se acaban los ruidos, siguen gritando.\r\n\
+      El servicio muy atento. \r\n\
+      El flan de coco, muy rico como ya se coment\xF3. No para ir especialmente por \xE9l, pero s\xED para pedirlo el d\xEDa que uno vaya."
+    date: 22-09-2009
+    user: http://mi.guiaoleo.com/members/16017
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 este lugarcito que tiene detalles \"especiales\" como la vajilla toda antigua,los centros de mesa armados con frutas y verduras los panes super caseros, la masita que viene con el caf\xE9.En fin detallles que a m\xED criterio suman mucho.\r\n\
+      La comida estuvo bien, pero de postre el flan de coco sin lugar a dudas fu\xE9 \"la vedette\" . Prueb\xE9nlo es imperdible!!!"
+    date: 10-09-2009
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gusto mucho la onda de este lugar, desde la ambientaci\xF3n con blanco en casi todo el lugar, hasta la simpat\xEDa de las chicas que me atendieron. La cocina es muy buena, los dos platos que deguste cumplieron con las expectativas que genero el lugar, pero sin lugar a dudas el responsable de hacerme volver en el futuro ser\xE1 el Flan de Coco que es imperdible, no dejen de probarlo."
+    date: 10-09-2009
+    user: http://mi.guiaoleo.com/members/68265
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Impecable. El lugar muy bonito, la comida riquisima y el servicio muy atento. Sin dudas para volver.
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/59651
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ambiente minimalista, c\xE1lido y sutil, la decoraci\xF3n de las mesas con frutas le da un toque hogare\xF1o,invitan con un rico pate y  manteca especiada con muy buenos panes,  la carta es acotada y tentadora, todos los platos salieron sin demoras y muy sabrosos,el caf\xE9 lo acompa\xF1an con un bocadito dulce,buen servicio, tienen un men\xFA ejecutivo muy accesible, los fines de semana conviene reservar,los precios son coherentes y se come muy bien vamos a volver.-"
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/17263
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente opci\xF3n para los mediod\xEDas, ya que tiene un men\xFA de entrada, pricipal, bebida y caf\xE9 por 28$. Ubicado en una de las mejores cuadras de buenos aires, Caseros no se queda atr\xE1s y embellece a\xFAn m\xE1s esa cuadra \xFAnica de san telmo."
+    date: 26-08-2009
+    user: http://mi.guiaoleo.com/members/13399
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La carta es acotada pero los platos son exquisitos y abundantes. La ambientaci\xF3n es muy linda y la porcelana genial. Cuando est\xE1 lleno el servicio se ve complicado, ya que todos (son tres) atienden a todas las mesas y a ninguna. Deben mejorar la organizaci\xF3n."
+    date: 17-08-2009
+    user: http://mi.guiaoleo.com/members/1864
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Las tres personas que fuimos a cenar coincidimos en que la comida estaba riqu\xEDsima.La carta de vinos aceptable.La ambientaci\xF3n es despojada, muy agradable, m\xFAsica tranquila.La atenci\xF3n muy esmerada ."
+    date: 04-08-2009
+    user: http://mi.guiaoleo.com/members/67558
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una maravilla: sencilla y elegante, no queria irme! la comida fue excelente! seguramente volveremos!"
+    date: 30-07-2009
+    user: http://mi.guiaoleo.com/members/34136
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la ubicaci\xF3n, en el boulevard reci\xE9n arreglado de la Av. Caseros y Parque Lezama...El resto esta muy bien decorado, la atenci\xF3n en excelente y la carta concisa pero los platos super ricos, la entrada de mollejas incre\xEDble, y la mousse de chocolate con frutos del bosque imperdible!"
+    date: 25-06-2009
+    user: http://mi.guiaoleo.com/members/43961
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      fui tres veces. las dos primeras me entusiasmo'
+      las pastas decisamente malas.el nespresso la ultima vez malo. el lugar y la atencion muy muy
+      agradables. volvere'dentro de un tiempo largo.
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/64199
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy rica. El ambiente podr\xEDa ser un poco mejor, parece muy despojado y las mesas quedan un poco pegadas."
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/14528
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Me hab\xEDan hablado tantas maravillas que un poco me decepcion\xE9. La comida estaba bien pero no era para tirarse al piso. Me hab\xEDan comentado sobre sus exquisitos panes caseros, pero estos estaban bastante duros, ya ni siquiera h\xFAmedos. El lugar es muy agradable, y ese inmenso ventanal a Caseros es fant\xE1stico. Creo que prometen. Volver\xE9 un mediod\xEDa a ver que tal el ejecutivo."
+    date: 09-06-2009
+    user: http://mi.guiaoleo.com/members/1049
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La comida muy buena por no decir excelente.Atencion muy buena.Falta calefaccionar el espacio restaurant.Las mesas de 2 personas son chicas(El balde de hielo lo tuvieron que poner en una silla o agrandan las mesas o colocan un agregado para estos casos)
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/46265
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un descubrimiento en San Telmo. La calle Caseros es una de esas calles con estilo propio, ideal para \"hacer vereda\" si el tiempo lo permite. \r\n\
+      En una epoca donde todos los restaurantes se parecen en su decoraci\xF2n, Caseros respeta la construcci\xF2n original con simpleza y buen gusto.\r\n\
+      La comida es rica, parece casera. Muy buena la ensalada de verdes, langostinos y citricos. La carta de vinos y la atenci\xF2n tienen oportunidades de mejora. Lo coment\xE9 y los chicos recibieron el comentario amablemente, que lo estan cambiando."
+    date: 26-05-2009
+    user: http://mi.guiaoleo.com/members/63071
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy lindo lugar!\r\n\
+      Una gran sorpresa encontrar un lugar t\xE1n cuidado en la ambientaci\xF3n y en el que la comida sea abundante y sabrosa.\r\n\
+      Recomiendo.\r\n\
+      (Es para tener en cuenta para una primera cita!)"
+    date: 21-05-2009
+    user: http://mi.guiaoleo.com/members/51183
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Incre\xEDble descubrimiento! C\xF3mo con un poco de idea pod\xE9s hacer un lugar \xFAnico.\r\n\
+      El ambiente que crearon es impresionante.\r\n\
+      Un placer la comida, pedimos tres platos diferentes y los tres exquisitos.\r\n\
+      \xA1FELICITACIONES!"
+    date: 12-05-2009
+    user: http://mi.guiaoleo.com/members/28244
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui el s\xE1bado a la noche. Lo primero que me gust\xF3 fue el ambiente: la luz, la barra, los detalle, todo muy c\xE1lido. La atenci\xF3n fu\xE9 correcta, pero podr\xEDa mejorar. Sin embargo lo mejor de todo fue la comida: tanto las entradas como el principal estuvieron espectaculares. Me gust\xF3 que las porciones fuesen generosas. Muy recomendable."
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/8093
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Restaurante nuevo en San Telmo, cercano al parque Lezama. Propuesta alegre y con muy buena onda por parte de emprendedores j\xF3venes, ambiente que se extiende a la cocina y al servicio. Detalles cuidados tales com los centros de mesa, el uso de algod\xF3n grueso en mantelesl y servilletas,  vajilla de loza inglesa, etc. Carta de vinos corta a precios razonables. Carta de Men\xFA con opciones para darle gusto a cualquier comensal. Comida bien elaborada con sabores equlibrados. En resumen un restaruante nuevo que me encant\xF3, que espero mantenga el nivel y que recomiendo ensayar."
+    date: 01-05-2009
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Nos hubiera gustado comer en Caseros pero no lo logramos. Pedimos la comida a las 13.45 del viernes 1 de mayo y a las 15 hs nos retiramos sin haber logrado que nos sirvan. Las mozas parec\xEDan no tener la menor idea de su trabajo (una nos ofreci\xF3 \"matambre de cedro\" pero a m\xED la madera me cae mal). El encargado dio la cara un rato pero despu\xE9s se escondi\xF3. No volver\xE9 jam\xE1s. Es una pena porque el lugar es muy lindo. Tiene todo para ser un gran restaurante, todo salvo la comida. A menos que uno disponga de dos horas para esperar..."
+    date: 01-05-2009
+    user: http://mi.guiaoleo.com/members/61785
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La ambientaci\xF3n muy cuidada con muchos detalles, la comida exquisita, la atenci\xF3n muy c\xE1lida, un placer ir a comer all\xED. Aires nuevos en San Telmo."
+    date: 28-04-2009
+    user: http://mi.guiaoleo.com/members/33660
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui varias veces con familia y amigos. Es excelente la ambientaci\xF3n y el lugar donde est\xE1 ubicado. Totalmente recomendable!"
+    date: 22-04-2009
+    user: http://mi.guiaoleo.com/members/61441
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "tanto la comida como la atenci\xF3n y la ambientaci\xF3n son muy buenos. Lo recomend\xE9 a amigos y todos quedaron muy conformes."
+    date: 14-04-2009
+    user: http://mi.guiaoleo.com/members/24222
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La vajilla es inglesa toda diferente muy bien cuidada, las mesas tienen tama\xF1os dis\xEDmiles tambien, cosa que le da un ambiente mas calido, los platos son muy abundantes y riquisimos, es como comer en casa de amigos"
+    date: 11-04-2009
+    user: http://mi.guiaoleo.com/members/61444
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La torre de panqueques es como hecha en casa, MUY BUENA, al igual que las mollejas y el zapallo en alm\xEDbar."
+    date: 11-04-2009
+    user: http://mi.guiaoleo.com/members/60956
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fui varias veces. Al mediodia tienen menu muy rico y abundante. El lugar es muy lindo y luninoso.
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/61499
+    ambiente_rank: excelente

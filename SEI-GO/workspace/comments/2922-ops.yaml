@@ -1,0 +1,124 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buen restaurante. Muy buena la comida; sabrosa y fresca. Las porciones son bastante generosas. Buena la atencion y agradable ambiente. Buena opcion fuera del circuito del barrio chino
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Precio Calidad resulta imbatible tanto para comer ahi como el delivery. Una buena opcion en Saavedra.
+    date: 16-11-2009
+    user: http://mi.guiaoleo.com/members/72244
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es buena y abundante, precios acordes con la calidad que ofrecen, el chawn fan con camarones es muy bueno, el pollo con casta\xF1as caju muy sabroso, pero como sucede en la mayoria de los restaurantes chinos, los trozos de pollo no son de la mejor selecci\xF3n, la atenci\xF3n es muy buena y el lugar es muy agradable y tranquilo. Un lugar para volver."
+    date: 15-07-2009
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hace tiempo que voy a comer ahi o pido por tel\xE9fono, la comida es muy buena, es fresca y sabrosa, con respecto a la atenci\xF3n, no tengo nada para quejarme y debido a que las porciones son muy abundantes es econ\xF3mico pero es altamente recomendable y mi primer opci\xF3n para comer buena comida china."
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/51670
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen servicio de delivery, excelente. La comida muy buena digna de recomendar, econ\xF3mica y varios platos para compartir."
+    date: 14-05-2009
+    user: http://mi.guiaoleo.com/members/62340
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Era la primera vez que comia comida china y la verdad que no pens\xE9 que me pod\xEDa gustar tanto, en especial el pollo al curry y el cerdo picante, se los recomiendo. Para aquellos que son prejuciosos a cerca de estos restaurantes, es muy higienico, y cuidadosos a la hora de presentar los platos."
+    date: 23-07-2008
+    user: http://mi.guiaoleo.com/members/27613
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Se comio bien, muy sabrosa la comida, poco grasosa. El ambniente es bueno, medio lugubre, pero higi\xE9nico. Me gusta la comida china y me parece un muy buen lugar para variar la opci\xF3n tradicional de comida. Seguro vuelvo"
+    date: 18-07-2008
+    user: http://mi.guiaoleo.com/members/36446
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hac\xEDa muchos tiempo que no concurr\xEDa. Los platos no son o que solian ser. La comida est\xE1 muy adaptada a los gustos locales, y casi toda con salsas demasiado espesadas.La oferta de platos no tiene nada fuera de lo com\xFAn, y como en todo restaurante chino hay platos para los locales y otros platos para los chinos, estos ultimos siempre son mas tentadores.Si bien la atencion fue normal, y de la comida no me puedo quejar, no volver\xE9 por un largo rato. En resumen: si quiere comida china en serio, explore por otros barrios."
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/23064
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida es buena, destaco lo poco grasosa y la frescura de los ingredientes. La carta no es muy extensa aunq presenta lo basico de la comida china que conocemos todos. El servicio es aceptable y el ambiente es regular, zafa para ir en forma casual, nada de otro mundo pero lo importante es que no hay sorpresas desagradables. Volveria...
+    date: 04-03-2008
+    user: http://mi.guiaoleo.com/members/5383
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: hace tiempo que voy a este restaurant y pdio por delivery tambien, la comida siempre me gusto, los platos no son grasosos y el delivery llega rapido usualmente.
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/19384
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Impecable el restaurante. Bien la comida, aunque al chaw mien le faltaba algo de sabor.
+    date: 17-12-2007
+    user: http://mi.guiaoleo.com/members/1154
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos al mediod\xEDa y nos atendieron muy r\xE1pido y bien. La calidad de la comida es muy buena, pero te llev\xE1s un poco de olor en la ropa. Pese al detalle mencionado es muy recomendable. "
+    date: 20-11-2007
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "A\xFAn existiendo todos los restaurantes del barrio chino, Taipei sigue siendo el lugar donde se come mejor comida china. Los platos son abundant\xEDsimos (todos para compartir). \r\n\
+      La comida siempre rica, sale muy r\xE1pido, y el precio es muy accesible. El men\xFA es muy variado, y la atenci\xF3n es destacable. En cuanto al ambiente, es bueno, pero tiene muy poco de restaurante chino.\r\n\
+      Para delivery, tambi\xE9n excelente. \r\n\
+      Un lugar de cabecera y para recomendar."
+    date: 17-09-2007
+    user: http://mi.guiaoleo.com/members/32237
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida, realmente de lo mejor. Se puede ver a traves de un vidrio como la preparan en la cocina super limpia. A veces voy, pero todas las semanas compro por delivery que ha mejorado tremendamente. No tarda mas de 30 minutos y dos veces me la han traido en una moto so\xF1ada y en un auto importado. Casi daba verg\xFCenza darle propina. Estan siempre los due\xF1os atendiendo y se nota. Excelente lugar y atenci\xF3n."
+    date: 10-09-2007
+    user: http://mi.guiaoleo.com/members/30931
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida me parecio excelente. Bien elaborada y con ingredientes frescos. "
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/29067
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui con mi Se\xF1ora que ya lo conoc\xEDa y realmente me fascin\xF3 la comida. Todo de primera y en su punto justo. La cocina es ala vista. Hay que volver. "
+    date: 04-06-2007
+    user: http://mi.guiaoleo.com/members/24006
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Quer\xEDa decir, que a pesar de que hay comentarios malos del delivery, \xE9ste es m\xE1s r\xE1pido que ninguno. Ped\xED y lleg\xF3 antes de diez minutos, nos sorprendi\xF3.  Por supuesto la comida estaba caliente y deliciosa. "
+    date: 11-04-2007
+    user: http://mi.guiaoleo.com/members/21417
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Restaurante al que concurro desde principios de los noventa, con la misma calidad de preparaci\xF3n y abundancia en los platos, aunque tendr\xEDan que actualizar un poco la carta. Siempre con buena manteler\xEDa y sillas c\xF3modas y atractivas, poco com\xFAn en este tipo de restaurante. El servicio no es el mismo de otros a\xF1os, pero justifica volver para cena informal. "
+    date: 28-03-2007
+    user: http://mi.guiaoleo.com/members/6274
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hace m\xE1s de 20 a\xF1os que comemos comida china del Taipei, mantienen calidad y los precios. Agregaron delivery con auto, antes hab\xEDa que ir a buscar. Llegan bastante r\xE1pido, al menos comparando con los otros deliverys. Ambientaci\xF3n esperable, sin problemas. Buena atenci\xF3n, comida muy buena. Recomendable."
+    date: 26-03-2007
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Buena comida, pero tardan mucho en llegar cuando uno pide delivery. "
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/19384
+    ambiente_rank: muy bueno

@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Se trata de un restaurante tipo pub con una barra espectacular con varios menues ejecutivos para todos los gustos. Los platos son abundantes y la atencion es muy buena
+    date: 15-06-2010
+    user: http://mi.guiaoleo.com/members/83743
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El lugar es muy acogedor y agradable para comer en hora del mediodia. Tiene un menu variado y abundante a muy buen precio.
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/66767
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La comida es muy buena pero el servicio de delivery, no.
+    date: 16-02-2007
+    user: http://mi.guiaoleo.com/members/18430
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Estilo pub ingl\xE9s, chico. Se puede almorzar hasta tarde en las mesas (que son pocas) o bien en la barra. La comida es excelente. El men\xFA es super variado. Hay cerveza en chopp. Muy buen caf\xE9."
+    date: 08-03-2006
+    user: http://mi.guiaoleo.com/members/2340
+    ambiente_rank: muy bueno

@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es un buen bar, tipico para un after office semanal, mucha gente en traje, muchos estudiantes extranjeros que viven en el pais, es un ambiente raro. Obviamente la comida no pasa de muy buenas hamburguesas, alitas de pollo, cervezas, tragos y demas, pero si bien "la carta" es simple, todo lo que comi fue de excelente calidad, las hamburguesas eran caseras, bien contundentes, las papas muy ricas, y dentro de todo a un precio normal. Recomendable para el oficinista que quiere comer rico y bien, o para salidad pre boliche de fin de semana.
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/32359
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Obviamente la onda es m\xE1s bar after office que restaurant, as\xED que si se est\xE1 buscando un lugar tranqui para comer y charlar, ni lo piensen; pero la verdad es que se la pasa muy bien, la m\xFAsica es buen\xEDsima, los nachos son gloriosos, y la atenci\xF3n es muy cordial (atenci\xF3n: lo recomendable es irse al piso de arriba, en el subsuelo probablemente haya m\xE1s gente y la cosa sea distinta). Para pasarla bien en grupo."
+    date: 20-01-2010
+    user: http://mi.guiaoleo.com/members/68959
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar esta bueno como para ir a tomar algo con amigos y picar unos anchos con queso que vienen bastantes y con queso derretido arriba y estan muy buenos o unas alitas de pollo. Tiene la particularidad que hasta cierto horario las mujeres tiene cerveza gratis y otra cosa a destacar es que el happy hour es bastante extenso. La atencion es correcta y quizas lo unico que mejoraria es la musica ya que a la hora que fui practicamente no se escuchaba ninguna musica de fondo.
+    date: 05-10-2009
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Fui de noche, la entrada son $20 que despues se pueden gastar en comida ya que la cerveza es libre para mujeres, comi unas alitas de pollo y unas papas con salsa de queso muy buenas.
+      Es un bar mas que un restaurante, donde se puede tomar a gusto y comer ricas tapas.
+      Ideal para un after o grupo de amigos.
+    date: 20-05-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida no es elaborada ni hay mucha variedad pero muy buena (recordar que es m\xE1s bar que restaurant). Es m\xE1s recomendable para ir al mediodia ya que es bebida libre a $15 las mujeres y $20 los hombres si no me equivoco, e incluye un plato de comida. La hamburguesa es gigante, bien completa, y los nachos como las papas con salsa, excelentes.\r\n\
+      Lei que muchos se quejaban del humo del lugar, hay un sector fumadores, y otro sector no fumadores, que incluso en mi opini\xF3n es m\xE1s lindo."
+    date: 03-02-2009
+    user: http://mi.guiaoleo.com/members/57713
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ok, es un bar, lo entiendo, ca\xEDmos de casualidad, pero hab\xEDa una \xFAnica camarera y para ser un subsuelo no deber\xEDa permitirse fumar, todo ten\xEDa ese olor, desde la comida hasta las mesas, las sillas; me cost\xF3 mucho ordenar y que me cobren otro tanto m\xE1s, entiendo que no es culpa de la camarera pero no se puede. No vuelvo m\xE1s."
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/18844
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: the food has a funny taste of smoke (cigarrete smoke).
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/32102
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "este bar es excelente! "
+    date: 30-07-2007
+    user: http://mi.guiaoleo.com/members/28327
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar tiene onda, es un poco ruidoso pero por la misma cantidad de gente que concurre. Igualmente se puede hablar y pasarla bien.\r\n\
+      Las camareras deber\xEDan estar m\xE1s atentas a las mesas.\r\n\
+      Es un lugar bueno, con onda y gente linda.\r\n\
+      Una recomendaci\xF3n: las papas fritas, son perfectas, bien crocantes y doradas por fuera y tiernas por dentro."
+    date: 15-02-2007
+    user: http://mi.guiaoleo.com/members/18421
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Lo \xFAnico malo de este excelente lugar es la mala atenci\xF3n de las camareras que realmente no sirven para nada. El resto es excelente."
+    date: 15-02-2007
+    user: http://mi.guiaoleo.com/members/18366
+    ambiente_rank: excelente

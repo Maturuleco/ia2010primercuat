@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Buena opcion para llevarse una comida sana, rapida y preparada a la vista para un mediodia de trabajo. Muy buena ensalada de salmon y brie. Definitivamente pensado para no comer en el lugar: solo mesas al aire libre - si bien pintorezco para el verano, el viento puede jugarle una mala pasada - y no hay servicio de mesa, por lo que puede pasar que una vez adquirido su sabroso sandwich de guacamole ... tenga que comer parado !!"
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/54531
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente la calidad de la comida!! no se encuentra esta calidad en la ciudad
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/76337
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Antes comprabamos 3 a 4 veces por semana. Ahora vamos de vez en cuando porque es muy caro. Encima hoy que fuimos el pan del Sandwich Smoked Chicken estaba durisimo, no se si ser\xEDa de la semana pasada, y tenia muy poco pollo y pesto. La verdad que es la ultima vez que vamos porque por lo que te cobran no deberia pasar esto."
+    date: 20-01-2010
+    user: http://mi.guiaoleo.com/members/63178
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Este lugar, parece empeorar con el paso del tiempo. Si bien es ambiente es muy limpio y cuidado, la calidad de los productos utilizados baj\xF3 much\xEDsimo, lo mismo que las porciones, que cada d\xEDa son m\xE1s chicas. La variedad y combinaciones de s\xE1ndwiches es buena, pero no deja de ser muy caro para el tipo de producto. Si uno va 12:30, la atenci\xF3n es relativamente buena. A las 13:10 est\xE1n desbordados. No s\xE9 si vuelvo."
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/57493
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un buen lugar para mujeres que trabajan en el centro pero la realidad es que las porciones son bastante chicas para su precio. Cuando abri\xF3 la calidad era mucho mejor, ahora no usan productos tan frescos y se nota! El lugar es bastante limpio pero lo empleados arman los sandwiches y ensaladas con la mano sin guantes.\r\n\
+      Es rico pero cada vez empeora m\xE1s la calidad y el servicio!! A ponerse las pilas!!!"
+    date: 01-12-2009
+    user: http://mi.guiaoleo.com/members/66586
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "No puedo poner realmente lo que tengo ganas por que me editarian, pero solo le digo a las personas que coman logicamente que si piden una ensalada a este lugar se van a quedar con muchisima hambre. Me parecio una estafa el precio en relacion al tama\xF1o de la ensalada, por mas que sea thai y tenga buenos productos. Obvio que no pido nunca mas. Creo que esta apuntado a personas que estan cuidandose muchisimo. La comida no es fea pero la relacion precio calidad me parecio pesima."
+    date: 06-10-2009
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es muy rica. Los crepes los arman en el momento y se nota que los ingredientes son buenos y frescos.
+    date: 12-08-2009
+    user: http://mi.guiaoleo.com/members/54429
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Lo mejor en calidad del Microcentro, es caro para ser sandwiches, pero lo valen.
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/64171
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Me hace acordar mucho a NYC. Es lo mejor de lo mejor en sandwiches y deli, Pruebenlo!!
+    date: 15-06-2009
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es una excelente opcion para los medios dias, realmente la comida esta muy fresca y sana.
+    date: 21-05-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: excelente

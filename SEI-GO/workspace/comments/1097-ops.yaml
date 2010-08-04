@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: parrilla pasable, muy buena atencion, da para volver.
+    date: 09-03-2010
+    user: http://mi.guiaoleo.com/members/7875
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena calidad de comida y una ambientaci\xF3n muy campestre."
+    date: 19-07-2009
+    user: http://mi.guiaoleo.com/members/66041
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: pido una parrillada con fritas.me traen las fritas quince minutos antes de la parrillada.y cuando me traen la parrillada estaba muy cruda.a mi me gusta la carne bien jugosa,roja,pero aca era imposible de cortar,cuando la carne esta sin cocinar.ni hablar de las mollejas y chinchulines.un desastre
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/45581
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |
+      Es alg ocaro en relacion precio/calidad, ya que la parrillada estaban los pedazos de carne frios y se notaba que lo habian recalentado, no recomiendo la parrillada, los demas platos no lo se...
+
+    date: 24-08-2008
+    user: http://mi.guiaoleo.com/members/28273
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "La verdad me arrepiento de haber ido. Pedimos matambrito al verdeo y lomo al champig\xF1o\xF1, la verdad, ambos no ten\xEDan sabor a nada, encima los precios no eran baratos. No se como es la parrilla pero si quieren pedir alg\xFAn otro plato, no lo recomiendo"
+    date: 09-08-2008
+    user: http://mi.guiaoleo.com/members/36446
+    ambiente_rank: bueno

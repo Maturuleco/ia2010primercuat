@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Las empanadas son muy buenas. De las mejores que he probado \xFAltimamente. Recomiendo las de carne picante (mendocinas) y sobre todo las abiertas de jam\xF3n y cubitos de provolone.\r\n\
+      No prob\xE9 los tragos ni las pizzas, pero ser\xE1 una buena excusa para volver."
+    date: 11-05-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: buen lugar, me gusto.
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/71804
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy buena opcion de pizzas.
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/76045
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelentes pizzas y empanadas, altamente recomendable. Volver\xE9."
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/42197
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Hace tiempo que vamos a la fachada, probablemente las empanadas estan en el top 5 de la ciudad, muy linda la terraza, tomarse un trago antes de comenzar a cenar es muy recomendable, no dejen de comer la mendocina y la gran cuki.
+    date: 25-02-2010
+    user: http://mi.guiaoleo.com/members/48561
+    ambiente_rank: muy bueno

@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy pintoresco, y   la atenci\xF3n fue espectacular  yo los recomiendo.El espectaculo hermoso."
+    date: 13-11-2009
+    user: http://mi.guiaoleo.com/members/72037
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lamentablemente no pudimos comer. Los sandwiches de pavita con queso y tomate($18)no consist\xEDan (como entender\xEDa la carta un lugar tradicional como el que nos ocupa)en blanco de pavita fileteado en pan a elecci\xF3n sino en una feta transparente de pavita de fiambtrer\xEDa con otra \xEDdem de queso y generosas rodajas de tomate, eso s\xED. Por primera vez, el servicio, la comida y el ambiente (ruidoso, caluroso y sin aire) provoc\xF3 mi idsa sin comer. Malo y caro. Una verdadera l\xE1stima."
+    date: 29-04-2009
+    user: http://mi.guiaoleo.com/members/48592
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar con el encanto de las mejores tradiciones porte\xF1as: buena comida, ambiente perfumado con aromas de caf\xE9 y especias, mozos con cancha; por algo es uno de los caf\xE9s ilustres de Bs As. Para no perderse las opciones de men\xFA y disfrutar de un recreo al mediod\xEDa"
+    date: 27-05-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno

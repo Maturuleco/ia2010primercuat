@@ -1,0 +1,135 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un clasico. Pizza y empanadas muy buenas. Aconsejo la empanada de cebolla y panceta. La cerveza siempre BIEN fria! El ambiente es agradable, muy juvenil. Buen lugar para ir entre amigos.
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/30943
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Esta pizzer\xEDa tiene la car\xE1cter\xEDstica de ser sumanete ruidosa, obviamente es para grupos de amigos j\xF3venes, tiene onda y los mozos son muy simp\xE1ticos. La pizza es buena fundamentalmente por sus exquisitos sabores e ingredientes los que disimulan y muy bien una masa no tan buena."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La verdad que la pizza dentro de su estilo(piedra) es buena. A mi particularmente me gusta m\xE1s la de molde, pero esta no deja de ser buena y rica. Creo que lo peor de esta pizzeria que es la atenci\xF3n suele ser mala, o muy mala. En mi caso era s\xE1bado a la tardecita, hab\xEDa 3 camareras/os , 4 mesas para atender, se olvidaron el pedido, cuando quise llamar a la moza, estaba hablando de espalda por celular y resto ante las se\xF1as ni se mosqueaban. Si hubiese tenido 15 a\xF1os y estaba con amigo, hacia un pague Dios. La verdad, prefiero pedirla a domicilio, aunque sea un poco cara para ello."
+    date: 28-01-2009
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui con amigos, la pase barbaro, la onda de las chicas buen\xEDsima, musica genial, la pizza de panceta un manjar y la provoleta romario inigualable, un lugar para recomndar!"
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/50578
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: La pizza me encanta que hacen, su precio es demasiado. Las chicas que atienden estan a full por la cantidad de gente que hay, si vas un dia tranqui comes muy bien
+    date: 16-04-2008
+    user: http://mi.guiaoleo.com/members/14619
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n fue deplorable. Afecta mi juicio en el resto de las categor\xEDas.\r\n\
+      Ped\xED una cerveza dos empanadas y pizzas. La \"moza???\" trajo la pizza a los 40 minutos, la cerveza a la hora y los vasos a la hora y 20 minutos. \r\n\
+      Hizo todo mal. Asi que luego de decirle minimo 10 veces que quer\xEDa mi bebida y que pretend\xEDa tomarla en vaso me canse y empec\xE9 a comer la pizza. \r\n\
+      Lo m\xE1s gracioso es que quisieron cobrarme incluso las empanadas que no me trajeron!!!!\r\n\
+      \r\n\
+      La verdad es que un fast food de pizzas como Romario deber\xEDa estandarizar la atenci\xF3n. Por lo menos para no perder clientes...."
+    date: 06-04-2008
+    user: http://mi.guiaoleo.com/members/19964
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Ya no se puede ir mas. Cada vez mas caro, desde la pizza hasta las empanadas. CARISIMO!.
+    date: 13-02-2008
+    user: http://mi.guiaoleo.com/members/23927
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Buena pizza,floja atenci\xF3n,buen ambiente y precios elevados."
+    date: 03-02-2008
+    user: http://mi.guiaoleo.com/members/13262
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Voy muy seguido, poruqe la pizza y las empanadas son buenisimas. Fui a otras sucursales y esta tiene las mejores empanadas.
+    date: 21-01-2008
+    user: http://mi.guiaoleo.com/members/23311
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida, realmente muy buena, pero la atencion de las dos mozas: DESASTROZO. Tuvimos que acomodar las mesas nosotros, mientras la moza se encargaba de mirar como lo haciamos, las empanadas llegaron despues de la pizza y encima de otros gustos. Y para colmo, las empanadas era tipo canape. No lo recomiendo."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/35369
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La atencion de la moza, excelente. La comida muy bien condimentada. La pizza muy interesante. Insoportable lo ruidoso del lugar. No olviden de probar la empanada de queso y cebolla, muy bien lograda. "
+    date: 25-09-2007
+    user: http://mi.guiaoleo.com/members/19430
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es pesimo. No atienden bien, es muy ruidoso, estrecho y dicen llamar pizza a algo que no se sabe que es. Es carisimo en relacion precio/calidad. No lo recomiendo para nada. "
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/16669
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si vas a los locales, la comida es riquisima y la fugazzeta sin comparacion. Pero si pedis delivery, ademas que tardan mucho siempre, la comida viene fria y si la tenes que calentar al horno ya no es lo mismo, por eso opte por no pedir mas. "
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/1678
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Romario es un cl\xE1sico, comas en el local que comas, la calidad es siempre excelente. Las mozas atienden con la mejor de las ondas y el precio es muy bueno para lo que te ofrecen.\r\n\
+      La temperatura de la cerveza merece un cap\xEDtulo a parte, con los chopps sacados del freezer.\r\n\
+      Recomiendo la de Br\xF3ccoli gratinado, la fugazza rellena y las inigualables empanadas Romario. "
+    date: 20-06-2007
+    user: http://mi.guiaoleo.com/members/25303
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      Las empanadas son buenisimas, pero los mozos estan mas para andar en patines en la rambla de mar del plata y matarse!!!
+      Encima como era la hora del cierre me vinieron a cobrar habiendo cerrado la cuenta cuando pedi dos empanadas mas, y no me vendieron ni una coca porque habian cerrado la caja. Conclusion tuve que comer las empanadas a pico seco....
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/13637
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Muy ruidoso y la atenci\xF3n bastante mala: La camarera ten\xEDa mala onda."
+    date: 27-12-2006
+    user: http://mi.guiaoleo.com/members/15213
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "P\xE9sima atenci\xF3n (demora en atender, en traer el pedido).\r\n\
+      Bebida natural (no hab\xEDa hielo). Desorganizaci\xF3n del personal."
+    date: 23-12-2006
+    user: http://mi.guiaoleo.com/members/15086
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es un lugar muy caro, para el mal servicio que ofrecen. Los mozos se niegan a atenderte, no se toman reservas. El lugar es oscuro, muy ruidoso. El plato principal es la pizza y la sirven fr\xEDa, mal cocida. Un desastre. "
+    date: 16-12-2006
+    user: http://mi.guiaoleo.com/members/16669
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Pizza excelente, buena temperatura en la mesa. 
+      Servicio bueno y ambiente bueno pero ruidoso.
+    date: 05-09-2006
+    user: http://mi.guiaoleo.com/members/10526
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Com\xED toda la cena viendo como los hombres utilizaban el mingitorio (no por placer sino porque queda a la vista de todos ya que el vidrio es transparente).\r\n\
+      El se\xF1or pizzero fue al toilette y no se lav\xF3 las manos.\r\n\
+      La comida no aparenta estar refrigerada, con el riesgo de cortar la cadena de frio. Los bollos, empanadas y condimentos varios se encuentran exhibidos en la barra."
+    date: 01-09-2005
+    user: http://mi.guiaoleo.com/members/2784
+    ambiente_rank: malo/regular

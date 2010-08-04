@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: inclasificable  solo para fiestas o despedidas  todo muy vetusto y pasado de moda
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/58209
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Es imposible catalogarlo dentro de los restaurants. Es un lugar quedado en el tiempo, no es feo, pero es para ir a divertirse y nada mas. No esta ni bien ni mal, no es un restaurant. Espero ser claro, sirve para despedidas y una noche divertida, donde la comida es lo de menos. Pintoresco lugar
+    date: 12-09-2009
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es aceptable y el lugar es muy lindo, lo lamentable es que te cobran much\xEDsima plata."
+    date: 19-07-2007
+    user: http://mi.guiaoleo.com/members/27290
+    ambiente_rank: bueno

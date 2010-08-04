@@ -1,0 +1,93 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida era rica, la carta de vino muy pobre y los precios no coinciden con la realidad, la atencion es regular los mozos no son atentos.
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/59082
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es enorme, super luminoso, ruidoso, lleno de gente, las pizzas son muy ricas, tienen una lista de pizzas gourmet, q no son muy innovadoras, pero son ricas. La atenci\xF2n es muy profesional."
+    date: 26-02-2010
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Soy vecina y comemos a menudo en Torino. Las comidas amasadas son las mejores. Pizzas, empanadas, tartas, alguna que otra pasta, son recomendables. El servicio de los mozos es razonable. Coincido en que los precios subieron y las porciones se achicaron. El cubierto es caro. Sumar\xEDan varios puntos si colocasen un sector con juegos para chicos, ya que para nosotros, con dos hijos peque\xF1os, es casi fundamental este servicio a la hora de elegir un lugar para comer."
+    date: 26-02-2010
+    user: http://mi.guiaoleo.com/members/75914
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Buen servicio , las pastas eran abundantes , aunque me parecio un tanto caro sobretodo porque cobran cubierto , el mozo muy atento , los postres son enormes
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/59742
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Las mejores pizzas de la Zona,todas las semanas pido una distinta y la verdad que nunca me defraudan.
+    date: 21-09-2009
+    user: http://mi.guiaoleo.com/members/57245
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Com\xED pizza y no me defraud\xF3, sigue siendo la mejor de La Paternal, un cl\xE1sico. La atenci\xF3n de los mozos fue correcta y el ambiente es muy bueno teniendo en cuenta que se trata de una pizzer\xEDa."
+    date: 23-07-2009
+    user: http://mi.guiaoleo.com/members/66166
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Suelo ir de vez en cuando a comer pizza.  La de muzzarela es riquisima, no te defrauda en lo mas minimo. La atencion de los mozos es correcta. El ambiente es bueno, bien iluminado.  Lo unico que no tolero es que te cobren cerca de $4 por los cubiertos. Eso me parece una falta de respeto. Prefiero que me aumenten $1 por plato o bebida. La proxima vez me llevo los cubiertos de mi casa o como con la mano.
+    date: 04-07-2009
+    user: http://mi.guiaoleo.com/members/65065
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: la pizza es una de las mejores de buenos aires, yo fui varias veces y nunca me defraudo
+    date: 15-01-2009
+    user: http://mi.guiaoleo.com/members/20133
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: El lugar sigue siendo buenisimo pero la calidad de la comida cambio un monton y el trabajo de la gente tambien se llega a ver mozos hablando con los de otro sector mientras uno espera y los deliverys metiendose contramano o con semaforo rojo y subiendo por las veredas del local sin importar los peatones....que lejos se ve al Torino de la apertura....
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/46489
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La calidad de la comida a comparacion de antes es inferior y se exeden de precio a comparacion de la calidad,nada que ver con el torino de antes. encima pedis cosas por ej light y no te las mandan y ademas tardan un monton.los precios son exorbitantes y las porciones son peque\xF1as"
+    date: 19-06-2008
+    user: http://mi.guiaoleo.com/members/46433
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      es una muy buena opcion, soy del barrio y voy a menudo, un lugar que no me a defraudado nunca, siempre la mejor atencion y predisposicion, es un punto para destacar, en cuanto a la comida tambien es muy buena, los vinos no los eh probado, y en cuanto al ambiente, es exelente, muy bien remodelado, siempre con la temperatura adecuada, musica de fondo pero permite una perfecta charla, plasmas y ciertos detalles que lo marca con un nivel impresionante.
+      Totalmente recomendable
+    date: 09-04-2008
+    user: http://mi.guiaoleo.com/members/43165
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La suprema estaba regular (una simple suprema rellena con jam\xF3n y queso, en \"colch\xF3n\" de acelgas) pero sali\xF3 muy cara por lo que era, adem\xE1s la acelga era de la congelada y estaba mal preparada (hab\xEDa partes sin hidratar, y me cay\xF3 mal). Cuando termin\xE9 ya no ten\xEDa ganas de postre, apenas un caf\xE9 para ayudar la digesti\xF3n..."
+    date: 24-02-2008
+    user: http://mi.guiaoleo.com/members/33232
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La pizza perdi\xF3 su encanto desde la reapertura. Antes era excelente y ahora apenas buena. La atenci\xF3n cambi\xF3 para mal tambi\xE9n. Mozos que se pisan la cara cuando caminan. Lo \xFAnico que mantiene igual es el nombre, referencia otrora de pizza de primera, pero hoy es realmente otro lugar que nada tiene que ver con la gesti\xF3n anterior. El restaurante o pizzer\xEDa qued\xF3 muy lindo despu\xE9s de la decoraci\xF3n, pero por la atenci\xF3n y la cocina lo prefiero mil veces como era antes."
+    date: 21-12-2007
+    user: http://mi.guiaoleo.com/members/19152
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: Por ser discapacitado me senti comodo en el ambiente totalmente accesible para personas con movilidad reducidad
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/27970
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Decoracion diferente a la anterior. Muy modernosa a mi gusto. Atencion esmerada de los mozos. GRAN maestro pizzero. Pidan la pizza con repulgue bien finita. Un manjar "
+    date: 18-06-2007
+    user: http://mi.guiaoleo.com/members/19430
+    ambiente_rank: muy bueno

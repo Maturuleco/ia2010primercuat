@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente ambientaci\xF3n, c\xE1lida y tranquila. Ideal para reuniones de trabajo. La comida buena en la medida justa."
+    date: 01-02-2008
+    user: http://mi.guiaoleo.com/members/39318
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lindo lugar, buena comida, atenci\xF3n correcta. Muy ricas ensaladas, muy buenos tragos. Muy tranquilo, bajo nivel de ruido, ideal para conversar."
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Caffe Rest\xF3 que mantiene los parametros de la marca \"auspiciante\" con un excelente ambiente (privilegiada ubicacion) y muy buen servicio. La comida es buena, aunque la carta es pretenciosa y la calidad de la comida no llega a justificar los altos precios. "
+    date: 04-09-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: comida de muy buena calidad. una latima que no abran de noche. servicio impecable
+    date: 20-06-2007
+    user: http://mi.guiaoleo.com/members/23892
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente sin lugar a dudas, se nota un gerenciamiento impecable.
+    date: 15-05-2007
+    user: http://mi.guiaoleo.com/members/22464
+    ambiente_rank: excelente

@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El mejor shawarma de Buenos Aires por lejos. Un precio regalado. La ambientaci\xF3n \xBFqu\xE9 es eso? Claramente v\xE1lido solo para comida al paso o llevar a casa. Me encanta!"
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/40860
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los shawarmas y kippes de Buenos Aires por lejos, encima por un precio regalado. Atendido por su due\xF1o y el tunecino, dos personajes. La decoraci\xF3n ultra kitch de un local que se fue expandiendo con la afluencia de los parroquianos que hoy incluyen gentes de muchas latitudes. Il vero Palermo."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/19028
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Hay mejores opciones de comida armenia/arabe por la zona. El falafel es muy seco y en su versi\xF3n de \"sandwich\" escatiman mucho con los ingredientes. Lo mismo con el shawarma. El relleno del kipe no ten\xEDa gusto a nada y su rebozado estaba muy blando. La atenci\xF3n, sobre todo de qui\xE9n parece ser el due\xF1o, es mala. El lugar es peque\xF1o e incomodo, aunque agradable."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/71525
+    ambiente_rank: bueno

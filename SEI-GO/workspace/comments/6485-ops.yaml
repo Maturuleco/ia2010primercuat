@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo mejor de Buenos Aires en comida italiana, esos spaghettis que comi fueron excelentes, mi se\xF1ora comi\xF3 una pizza italiana para comerse tres mas.\r\n\
+      Realmente los felicito!!!\r\n\
+      Me sali\xF3 m\xE1s barato de lo que esperaba con el descuento de la nacion"
+    date: 03-07-2010
+    user: http://mi.guiaoleo.com/members/84762
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lamentablemente nos llevamos una desilusi\xF3n. Conoc\xEDamos la sucursal de Belgrano pero hac\xEDa tiempo que hab\xEDamos ido. Regresamos en parte el mismo grupo de personas y coincidimos en que la relaci\xF3n precio/calidad se volvi\xF3 sumamente incoherente. La comida es buena pero no causa lo mismo: antes \"verdaderamente\" se destacaban en la gastronom\xEDa italiana. Deja mucho que desear la vajilla y la manteler\xEDa. Es un lugar que deber\xEDa estar mucho m\xE1s cuidado. Otro dato: no funcionaba el posnet y nos lo hicieron saber cuando quisimos pagar con la tarjeta de cr\xE9dito. Una pena. Ya no lo recomendar\xEDa."
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/2297
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La stampa en una casa de pastas cl\xE1sica, tradicional. Los platos est\xE1n bien presentados y la materia prima es buena. Su carta cuenta con algunos platos especiales, pero nada que deslumbre. \r\n\
+      El lugar es muy ruidoso y eso dificulta la conversaci\xF3n. Nos sentamos en un lugar bastante apartado del grueso de las mesas y a\xFAn as\xED el bullicio molestaba.\r\n\
+      El mozo fue muy atento y simp\xE1tico, correcto cuando se le pidi\xF3 recomendaci\xF3n.\r\n\
+      El volc\xE1n de chocolate debe mejorar."
+    date: 07-05-2010
+    user: http://mi.guiaoleo.com/members/1357
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La cocina no llega al nivel de La Stampa de Migueletes.Atencion desganada del mozo,tal vez muy cansado.Pero lo molesto fue el nivel de ruido en el lugar,muchas mesas de grupos grandes y muy mala acustica.Si el lugar esta muy lleno conviene ir al salon de la derecha ,mas tranquilo.
+    date: 09-01-2010
+    user: http://mi.guiaoleo.com/members/23110
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La c\xF3mida es muy buena, pero si hacemos relaci\xF3n precio-calidad.. me parece q est\xE1n fuera de contexto. Gastar 120 pesos por persona, tomando agua, por comer una milanesa.. es un exagero."
+    date: 08-11-2009
+    user: http://mi.guiaoleo.com/members/36831
+    ambiente_rank: muy bueno

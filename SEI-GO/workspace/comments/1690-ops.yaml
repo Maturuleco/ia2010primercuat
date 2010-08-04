@@ -1,0 +1,130 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La lunera cerro
+    date: 07-09-2009
+    user: http://mi.guiaoleo.com/members/67094
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La tabla de carnes para compartir fue una excelente sugerencia del mozo cubano, que por otro lado nos atendi\xF3 muy bien. Para mi gusto a las batatas les faltaba un poco de cocci\xF3n pero la ensalada estaba muy buena y era abundante."
+    date: 12-12-2008
+    user: http://mi.guiaoleo.com/members/21532
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El ambiente, la atenci\xF3n buena. La presentaci\xF3n  cuidada...pero la comida....HORRIBLE...la parrillada, asado duro incomible, vac\xEDo pasado de cocci\xF3n casi diria recocido durisimo, los chicnchulines, recalentados, gomosos incortables, inmasticalbles, el ri\xF1on duro como una piedra. Un desastre, Lo peor...le comentamos a la camarera se llev\xF3 la parrillada, le avis\xF3 al due\xF1o que se encontraba cenando en el local y no fue capaz de acercarse a dar la cara,  dejando todo a cargo de la moza que nos ofrecio champagne. No aceptamos, NO RECOMENDABLE"
+    date: 11-07-2008
+    user: http://mi.guiaoleo.com/members/46446
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "...Para volver!!.. Las veces que fui siempre me atendieron bien, el ambiente es calido, y tiene sector fumadores! La comida estaba excelente, la carne super tierna, la provoleta riquisima y las batatas fritas bien crocantes.\r\n\
+      NO ES caro, los precios son razonables a comparacion de otros lugares de la zona de Ca\xF1itas!!!"
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/33562
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El restaurant es muy lindo. Lo eleg\xED porque me pareci\xF3 adecuado para compartir un momento con mi pareja, ya que ofrece un clima y ambientaci\xF3n para disfrutar de una ocasi\xF3n m\xE1s bien \xEDntima. En cuanto a la comida, degustamos un rico bife de chorizo mariposa y una exquista provoleta. Pero para acompa\xF1ar la carne, elegimos comer batatas fritas que resultaron tener un sabor extra\xF1o y para nada agradable. El servicio estuvo bien, pero no fue nada del otro mundo."
+    date: 14-06-2008
+    user: http://mi.guiaoleo.com/members/29136
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: lugar es acogedor,tiene sector p/fumadores agradable y con buena ventilacion,solo que habia exceso de calefaccion.la comida es muy buena,la carne estaba a punto y d buena calidad,el problema fue el servicio,se notaba que el mozo era nuevo,no pudo siquiera abrir la botella de vino sin romper el corcho,tardo en retirar los platos y ofrecer el postre.la carta de vinos no solo no era abundante,sino que ademas,de las 2 primeras opciones no tenian ninguna.el postre era sabroso,aunque un poco empalagoso.es un lugar para regresar por la calidad de la comida pero tiene cosas para mejorar.
+    date: 12-06-2008
+    user: http://mi.guiaoleo.com/members/34614
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Llegamos temprano y no habia mucha gente, nos atendieron rapido y de muy buena forma. La tabla de carnes es recomendable para compartir pero se enfria si no se come rapido. El strudel tibio de frutos del bosque con helado... Muy bueno !!
+      Volveriamos a ir.
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/5210
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida tard\xF3 demasiado para un men\xFA ejecutivo y eso que hab\xEDa pocas mesas ocupadas. La entrada era algo ya preparado que s\xF3lo requer\xEDa calentarlo y tard\xF3 mas de 40 minutos y calentado de manera despareja. Los Raviolones, luego de tardar otros 30 minutos vinieron en parte crudos. Un desastre y nadie se hizo cargo. No vuelvo nunca m\xE1s. La zona est\xE1 llena de otros lugares, no vale la pena insistir con este. "
+    date: 03-01-2008
+    user: http://mi.guiaoleo.com/members/37714
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buen recibimiento, buena atenci\xF3n, clima c\xE1lido, nos sentimos a gusto con el ambiente (m\xFAsica, atenci\xF3n y ambientaci\xF3n del lugar). La comida es buena en consideraci\xF3n con el precio, carnes sabrosas aunque el asado no era todo lo tierno que uno espera. La Carta de Vinos es escueta pero acorde a lo que ofrece la de comidas. Es un muy buen lugar para alternativas diarias."
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/27307
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Buena comida,a punto. Carta de vinos abundante y en precio. Excelente atenci\xF3n y agradable ambiente."
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/10526
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui a almorzar un s\xE1bado, hab\xEDa poca gente, la comida y la atenci\xF3n estuvieron bien. Podr\xEDan mejorar la iluminaci\xF3n del lugar."
+    date: 24-02-2007
+    user: http://mi.guiaoleo.com/members/5971
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es la primera vez que voy a la zona de Las Ca\xF1itas y por suerte eleg\xED un lugar muy agradable. La carne estaba al punto que la pedimos y ten\xEDa un gusto muy rico.\r\n\
+      La atenci\xF3n es adecuada al nivel del lugar.\r\n\
+      Es recomendable."
+    date: 22-02-2007
+    user: http://mi.guiaoleo.com/members/18802
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la calidad de la comida, tanto de parrilla como las pastas. Muy buena la atenci\xF3n y el ambiente."
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/18662
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Elegimos con mis amigos \xE9ste lugar por la calidad de las carnes y la buena onda de la gente."
+    date: 31-01-2007
+    user: http://mi.guiaoleo.com/members/17594
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La carne es excelente, el postre muy recomendable y el servicio bueno teniendo en cuenta la \xE9poca de vacaciones.\r\n\
+      Ideal para ir con amigos."
+    date: 26-01-2007
+    user: http://mi.guiaoleo.com/members/17586
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Agradable lugar con una amplia terraza para fumadores, aunque faltar\xEDan ventiladores o aire acondicionado.\r\n\
+      Porciones abundantes y excelentes precios de vinos."
+    date: 28-12-2006
+    user: http://mi.guiaoleo.com/members/16446
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buen ambiente, un poco ruidoso y buena comida. La parrillada muy buena.
+    date: 16-09-2006
+    user: http://mi.guiaoleo.com/members/7471
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me gustaron los comentarios de otros usuarios de la Gu\xEDa Oleo y fui: \xA1No me equivoque! \r\n\
+      Es un lugar para volver, muy esmerada la atenci\xF3n y exquisita comida. \r\n\
+      Super recomendable."
+    date: 30-08-2006
+    user: http://mi.guiaoleo.com/members/6011
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buen lugar, buenas promociones para captar clientes.
+    date: 13-07-2006
+    user: http://mi.guiaoleo.com/members/10247
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar para volver. Carne muy buena, excelente la parrillada de vegetales. Las porciones son abundantes. "
+    date: 08-06-2006
+    user: http://mi.guiaoleo.com/members/7231
+    ambiente_rank: excelente

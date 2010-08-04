@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Las tortas en general son muy buenas, la atenci\xF3n no es muy buena. Un par de veces se confundieron en cu\xE1nto me ten\xEDan que cobrar y no fue exactamente a mi favor. Los sandwiches son buenos, aunque una vez me pas\xF3 que no era fresco, es decir el peceto estaba recocinado.\r\n\
+      Creo que es un lugar con mucho potencial, deber\xEDan cuidarlo m\xE1s."
+    date: 29-07-2009
+    user: http://mi.guiaoleo.com/members/66565
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Bonito lugar  con una  muy rica variedad de  tortas.
+    date: 26-05-2008
+    user: http://mi.guiaoleo.com/members/10289
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 el ambiente al calor de la salamandra para tomar un rico t\xE9 en una tarde porte\xF1a bien fr\xEDa. Muy buenas las tostadas de pan de campo con manteca y dulce de leche!"
+    date: 29-05-2007
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno

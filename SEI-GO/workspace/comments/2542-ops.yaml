@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy buena atencion comida muy rica y economica acomparacion con los restaurant que se encuentran en la zona y los postres son los mejores
+    date: 27-07-2009
+    user: http://mi.guiaoleo.com/members/66452
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Terrible food with a lot of fat on it. No salt. I went there because I was passing by and starving.
+    date: 14-05-2009
+    user: http://mi.guiaoleo.com/members/62433
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "malo. cuando estaba terminando el sandwich (que estaba sequito)lo abr\xED y vi hongos en el jam\xF3n crudo."
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/46689
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      la pizza es rica 
+      pero vino hecha un cubito osea muy fria,
+      el camarero parecia que jugana al pan y queso 
+      2 horas para todo. es un bar moderno de muchos otros nada dle otro mundo y teniendo en cuenta como esta todo de caro que dos personas coman bien y sobre por 60 pesos esta bien.
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/40134
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: el lugar es bueno,el servicio lentisimo,la ensalada tenia champignones de lata y en lugar de panceta(como decia el menu)tenia jamon cocido, los ravioles (incomibles) fueron cambiados por una milanesa apenas aceptable, malisimo.
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/40864
+    ambiente_rank: bueno

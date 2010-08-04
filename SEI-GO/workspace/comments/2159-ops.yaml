@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comida y atenci\xF3n excelente. Ambiente muy bueno. Las mesas est\xE1n algo juntas. Precio: Tal vez algo caro"
+    date: 11-02-2009
+    user: http://mi.guiaoleo.com/members/23361
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ideal para un almuerzo de negocios. Es tradicional y los due\xF1os se esmeran. Langostinos caros (pero buenos -grandes y frescos-). Lomo bien hecho. Jam\xF3n crudo excelente. Recomendable en los t\xE9rminos indicados (negocios)."
+    date: 18-07-2008
+    user: http://mi.guiaoleo.com/members/47919
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar un poco caluroso y con las mesas demasiado juntas. El principal de muy buena calidad aunque le faltaba un toque de sabor. El postre (membrillo al horno) de lo mejor lo mismo que la atenci\xF3n"
+    date: 24-04-2008
+    user: http://mi.guiaoleo.com/members/6268
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar ideal para un almuerzo de negocios en un ambiente de atenci\xF3n propio de amigos. Absolutamente recomendable."
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/6647
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Casi un Club. Muchos habitu\xE9s del mundo de los negocios. La comida es buena pero, en relaci\xF3n con el precio, se podr\xEDa esperar algo mejor. El gran atractivo es el ambiente reservado para una almuerzo de negocios y la atenci\xF3n de \"amigos\", que te hace sentir como en casa. (Seg\xFAn el mozo que te toque, puede ser demasiado sol\xEDcita)"
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/12934
+    ambiente_rank: bueno

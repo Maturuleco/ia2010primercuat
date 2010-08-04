@@ -1,0 +1,92 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 el ambiente y la comida adem\xE1s de ser muy buena la relaci\xF3n precio-calidad. Es algo ruidoso para mi gusto pero los mozos atienden muy bien. Lo mejor la carta de vinos. Volver\xE9."
+    date: 29-12-2009
+    user: http://mi.guiaoleo.com/members/67320
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: El servicio fue excelente porque estaban siempre atentos, al pedir la comida, en unos mins ya venia. El pescado estuvo masomenos, la verdad que mucho la salsa de tomate no me gusto. El plato de mi novio que era un filet de lomo era muy rico aunque bastante chico. Se esperaba mas de la comida. Pedimos dos postres, uno que era con frutos del bosque con un poco de yogur que era muy rico. Nos dieron un cafecito para ver el show. El show estaba barbaro! Ademas de tango en cuanto baile, habian cantantes. Un poco caro, pero el show espectacular.
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/57680
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Fuimos a ver el show de tango con familiares extranjeros. La comida es buena, pero no lleg\xF3 a las expectativas que ten\xEDamos por el precio y el renombre del lugar. Las carnes fueron de lo mejor de los ppales, las pastas (pasadas de cocci\xF3n) y el pescado (no extremadamente fresco, y servido con vegetales que parec\xEDan de freezer y microondeados) mediocres. Los postres nada del otro mundo. La atenci\xF3n result\xF3 impecable, sin embargo, y el ambiente y el show valen lo que piden. Si tuviera que volver a un espect\xE1culo de tango con cena, buscar\xEDa en otro lugar."
+    date: 04-03-2009
+    user: http://mi.guiaoleo.com/members/59497
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Cena y show, llevamos a un extranjero pagando nosotros, nos hicieron precio para locales. La comida un tanto escasa, pero de buena calidad y bien presentada. Atenci\xF3n de los mozos m\xE1s que esmerada. El show: cantantes regulares, baile muy bueno, la orquesta de la mejor calidad interpretativa, sobresaliente. En promedio estuvo bien, considerando el precio, comparado con otras opciones que ni siquiera atienden a argentinos."
+    date: 18-04-2008
+    user: http://mi.guiaoleo.com/members/16661
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Mala comida, la verdad. para ser cena show el precio me parece bien, salio como 350 para 2 personas, con entrada, plato, postre y vino. pero deja mucho que desear
+    date: 23-12-2007
+    user: http://mi.guiaoleo.com/members/39388
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: El show NO es deslumbrante y el precio solo es convincente si se lo compara con los internacionales (USD 80 x pers)Una pena que a los locales NOS LO HAGAN TAN DIFICIL
+    date: 03-10-2007
+    user: http://mi.guiaoleo.com/members/19189
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida, el lugar lindo, bien ambientado (de \xE9poca), la atenci\xF3n de los mozos muy profesional. Buena variedad de vinos, dispone tambi\xE9n de sector fumador. Buena opci\xF3n al mediod\xEDa para almuerzos de trabajo."
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/15021
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar \xEDntimo donde se disfruta del buen clima, la excelente ambientaci\xF3n, el show con m\xFAsica en vivo de primera calidad, sin exageraciones. \r\n\
+      Volumen de la m\xFAsica muy cuidado. Sumamente conforme. Para recomendar."
+    date: 22-02-2007
+    user: http://mi.guiaoleo.com/members/4935
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El show de tango se cobra aparte y sale noventa pesos por persona: \xA1un robo!"
+    date: 16-12-2006
+    user: http://mi.guiaoleo.com/members/14609
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 el espect\xE1culo de tango muy aut\xF3ctono y real. Especial tanto para turistas como para argentinos que gustan del tango. La comida es excelente."
+    date: 12-08-2006
+    user: http://mi.guiaoleo.com/members/11037
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida es buena, nada del otro mundo. El lugar es bueno
+    date: 05-08-2006
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente relaci\xF3n precio/calidad, muy bien hecho el espect\xE1culo de tango y excelente la atenci\xF3n de los mozos."
+    date: 15-07-2006
+    user: http://mi.guiaoleo.com/members/10238
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bueno. La comida, la atenci\xF2n, la presentaci\xF2n de los platos, el lugar. A la noche desconozco. Fu\xEC al mediodia, y me pareci\xF2 un lugar ideal para conversar, negociar etc. porque el bullicio no es ensordecedor (a parte de almorzar m\xE0s que bien)"
+    date: 02-06-2006
+    user: http://mi.guiaoleo.com/members/41189
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno para comer al mediod\xEDa. El personal trata de manera excelente. Muy bien reciclado el local."
+    date: 14-12-2005
+    user: http://mi.guiaoleo.com/members/3245
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno.
+    date: 14-12-2005
+    user: http://mi.guiaoleo.com/members/5322
+    ambiente_rank: muy bueno

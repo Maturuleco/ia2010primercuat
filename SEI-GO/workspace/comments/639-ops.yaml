@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: muy bueno el boliche...un lugar para pasar una increible noche...si no es que vas a cenar...hay que caer tarde...
+    date: 19-03-2009
+    user: http://mi.guiaoleo.com/members/60047
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Yo creo que oficialmente es el peor restaurant al que acud\xED en mi vida, sobre todo lo que respecta a la comida,el servicio fue malo pero, bue... no tanto como la comida, el lugar en s\xED es lindo, pero yo creo que en el comedor \"los carasucias\" se puede comer mejor."
+    date: 03-10-2008
+    user: http://mi.guiaoleo.com/members/14712
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Malisimo!! pobre lo eligio una amiga para festejar el cumple!! si hubiera leido los comentarios de esta gu\xEDa nos hubieramos evitado el mal momento: horrible la atencion!!"
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/38322
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos con todo el grupo de trabajo. Creo que comimos arroz con no se que fiambres, ya que no hab\xEDa nada de luz, a la hora de comer tendr\xEDa que haber m\xE1s luz.La ternera con crocante de vegetales no parecia ternera y la atenci\xF3n es mala porque tardaban mucho en traer las bebidas. Despu\xE9s de la 01hs. la pasamos muy bien. El show del transformista es excelente y la atenci\xF3n en la barra tambi\xE9n."
+    date: 20-12-2007
+    user: http://mi.guiaoleo.com/members/12087
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La porci\xF3n era abundante pero el Filet estaba aceitoso, no me gusto."
+    date: 19-12-2007
+    user: http://mi.guiaoleo.com/members/6565
+    ambiente_rank: malo/regular

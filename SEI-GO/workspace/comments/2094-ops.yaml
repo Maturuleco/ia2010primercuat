@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un tanto caro para lo que ofrecen mala relaci\xF3n precio calidad, quiz\xE1 para tomar algo valga la pena."
+    date: 09-06-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui para un cumplea\xF1os. La opcion era pizza libre y tardaron mucho en traernos la comida. Algunos comian otros platos y la pizza vino cuando algunos ya habian terminado de comer. Dentro de todo la pizza zafaba y antes trajeron unas bruschetas, salchichitas, pollo en escabeche, entre otras cosas que estaban buenas. Los mozos se equivocaban en lo que tenian que traer. El ambiente con m\xFAsica muy fuerte, casi no se pod\xEDa hablar. Dicen que es muy lindo comer arriba en la terraza, ibamos a ir pero el humo que tenemos en Bs As por estos d\xEDas nos hizo quedarnos abajo."
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/6337
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "fue una verguenza todo. Estabamos en la terraza y el mozo parece que se olvido de que habia gente arriba.  Tardaron 25 minutos para traernos la bebida.  Eramos tres personas, pedimos 2 fajita de pollo y un risotto. Trajeron los tres platos a diferentes tiempos, o sea que cada uno comi\xF3 solo.  Encima las fajitas me las trajeron equivocadas, de carne, cuando pedi de pollo. Estaban secas, sin los aderezos e ingredientes que se sirven con las fajitas.  El risotto aparecio para el otro comensal, una hora despues que habiamos terminado de comer.  Mala comida, mal servicio,un espanto"
+    date: 29-12-2007
+    user: http://mi.guiaoleo.com/members/23529
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es calido y acogedor, comimos tapas chicas, risotto de hongos y moelleaux. La comida no me parecio nada del otro mundo... bien, pero hasta ah\xED. No sorprendi\xF3. No reincidiria, salvo para algun que otro trago sentado en los sillones. Un rest\xF3 m\xE1s de Palermo."
+    date: 18-09-2007
+    user: http://mi.guiaoleo.com/members/16793
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: el lugar es agradable, la comida muy buena y bien servida, los tragos, tomamos margaritas excelentes, el servicio regular muy poca atencion en la mesa
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/26182
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fuimos a merendar por la tarde, pese a que parecia cerrado nos atendieron y abrieron igual, muy amables y muy ricas meriendas, el lugar muy lindo, ya volveremos a cenar.
+    date: 06-06-2007
+    user: http://mi.guiaoleo.com/members/8346
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar la terraza, si la noche est\xE1 linda es imperdible.\r\n\
+      La comida es rica aunque las porciones son un tanto chicas. Buena atenci\xF3n.\r\n"
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/18375
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tomamos la merienda con una amiga y nos sorprendi\xF3 el precio bajo y la buena calidad. Tomamos un caf\xE9 con leche con jugo natural de naranjas, cuatro platitos con queso crema, manteca, dulce de leche y mermelada de frutillas, acompa\xF1ado con pan de campo tostado. \r\n\
+      Muy bueno."
+    date: 29-07-2006
+    user: http://mi.guiaoleo.com/members/10698
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente servicio, ambiente y atenci\xF3n. Un lugar muy \xEDntimo. 100 recomendable."
+    date: 01-04-2006
+    user: http://mi.guiaoleo.com/members/2053
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar muy agradable, con una atenci\xF3n excelente de parte de todas las personas que all\xED trabajan, buenos precios y buena comida."
+    date: 26-03-2006
+    user: http://mi.guiaoleo.com/members/7291
+    ambiente_rank: excelente

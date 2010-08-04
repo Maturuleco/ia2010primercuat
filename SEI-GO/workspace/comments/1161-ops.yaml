@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente comida muy rica, rapido servicio y bueno, se puede ir con apuro y te sobra tiempo.- Recomendable.-
+    date: 22-02-2008
+    user: http://mi.guiaoleo.com/members/24600
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Esto era el viejo Bar Su\xE1rez. Fue uno de aquellos bares tradicionales a los que agarr\xF3 el frenes\xED de modernizaci\xF3n de los 90 y que quedaron convertidos en mamarrachos. He pedido comida al delivery de este lugar, y no he logrado nunca que me traigan lo que pido. Cuando no falta el pan se equivocan en el acompa\xF1amiento, y cuando no, la comida est\xE1 horrible. Pasen lejos."
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: malo/regular

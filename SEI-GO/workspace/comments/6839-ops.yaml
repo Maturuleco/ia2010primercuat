@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      el sushi tiene buen precio y es de buena calidad.
+      
+      Si mantienen este precio seguire comprando!
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/81465
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida fue excelente, sin dudas es uno de los mejores restaurantes de sushi de Buenos Aires, en donde uno prueba una combinaci\xF3n de sabores, de texturas y de cocciones que d\xEDficilmente encuentre en otro lugar. Es aquel sitio en el cual cada ves que voy siento que tengo que volver si o si, ya sea por su sushi exquisito y por su amabilidad en la atencion que hace que  uno se sienta como en su casa."
+    date: 21-04-2010
+    user: http://mi.guiaoleo.com/members/80563
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La verdad muy bueno, buena calidad y muy fresco muy recomendable para envios a domicilio.
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/58169
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Entregan a domicilio.Son EXCELENTES, buen precio, buena onda.De PRIMERA.Obligado probar y COMPROBAR.
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/17803
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente todo !!! Precio y Calidad muy buenos !!! Vale la pena !!!
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/73260
+    ambiente_rank: muy bueno

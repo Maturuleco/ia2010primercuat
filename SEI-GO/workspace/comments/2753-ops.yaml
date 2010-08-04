@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Comimos pizza de calabresa, napolitana y fugazzeta con jamon. Riquisimas!! Totalmente recomendable para el que le gusta la buena pizza a la piedra.
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/46002
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La verdad, es la mejor pizza de la zona y los mozos son muy agradables!
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/45347
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "LA MEJOR PIZZA A LA PIEDRA DE CABALLITO, y si te atiende MANUEL no va a falta nada. Es una pizzer\xEDa de barrio pero la calidad del producto es inmejorable. Y el caf\xE9 con leche de la ma\xF1ana es fant\xE1stico."
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una de las mejores pizzas de Buenos Aires, no se destaca por su ambientaci\xF3n pero la calidad y la atenci\xF3n son excelentes. NO DEJEN DE PROBAR EL FLAN MIXTO! (para compartir) es exageradamente rico."
+    date: 27-12-2007
+    user: http://mi.guiaoleo.com/members/33095
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: coincido con el gordo, y ojo que soy una tortuga ninja. el ambiente es lo de menos, la muzza se paga sola. eso si, a veces un poco despareja, pero eso pasa en las mejores familias, sino, vayan a comer una porcion a guerrin a las cuatro de la tarde y comparen con la del mediodia.
+    date: 10-10-2007
+    user: http://mi.guiaoleo.com/members/33749
+    ambiente_rank: malo/regular

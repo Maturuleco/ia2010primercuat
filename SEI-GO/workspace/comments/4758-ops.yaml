@@ -1,0 +1,564 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar muy acogedor y c\xE1lido con muy buena cocina y un clima de tranquilidad \xFAnico. Posibilidad de probar sabores nuevos y autoctonos de gran calidad. Y lo mejor de todo es que no resulta para nada caro. Clara"
+    date: 09-06-2010
+    user: http://mi.guiaoleo.com/members/83426
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un lugar tranquilo, distinto a los dem\xE1s y muy bien atendido. La comida es rica, tiene bastante variedad, el precio es bueno y con el descuento mejor aun. Vale la pena definitivamente visitarlo."
+    date: 02-06-2010
+    user: http://mi.guiaoleo.com/members/39214
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar distinto para disfrutar con amigos. La comida y atenci\xF3n excelentes. El precio muy accesible. Sin duda para recomendar"
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/19876
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "llegue por las recomendaciones de esta pagina y nos fue muy bien. El lugar es c\xE1lido y encantador, con todos los detalles s\xFAper cuidados. La comida una experiencia aparte. Pedimos pastas de carne de jabal\xED con crema que eran una exquisitez y muy abudandantes. Las carne preparada en el horno de barro con sabor ahumada tambi\xE9n muy buena y abundante. El volcan de chocolate con helado es la frutilla de la noche. Los precios son moderados y con el descuento ni hablar. Para conocer y recomendar"
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/82039
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "comida regional y de calidad. Empanadas, humitas y locro todo muy bueno. Hay show de m\xFAsica muy tranquila gratis con la cena. Vuelvo sin dudas"
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/82040
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos recomendados por la guia buscando un lugar traquilo para pasar un aniversario. Ideal! La moza nos conto cada uno de los platos, excelente recomendaciones. El lugar muy calido, hermoso. La comida regional exquisita. No pudimos con el postre xq no dabamos mas, pero el cafe muy rico. Todo organico. Para recomendar y volver segurooo!
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/45587
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente todo, el ambiente es muy c\xE1lido, muy bien atendido y la comida es realmente buena."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/36198
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Luego de leer mucho sobre los restaurantes a puertas cerradas, finalmente tuvimos nuestra primera y agradable experiencia. Al llegar una puerta que no dice nada, por dentro un tipico caseron antiguo, la habitacion que oficia de salon, rustica, con buena ambientacion y musica y con vista directa a quienes preparan los platos. La comida no es del otro mundo, pero muy sabrosa. Seguramente volveremos. El precio algo por encima de cualquier otro restaurante, pero entiendo que "pagas la experiencia". Lugar para ir en pareja tranca o con una pareja amiga.
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/51710
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Si bien la atenci\xF3n se destac\xF3 par bien desde el principio, la cocina fue p\xE9sima. pedimos unos ravioles de jabal\xED y un pescado de r\xEDo con verduras. los ravioles promet\xEDan, en particular en la descripci\xF3n de la carta, y resultaron desabridos, grasosos y con muy poca gracia. el pescado... bueno, despu\xE9s de media hora de espera se equivocaron de plato y en vez de pescado trajeron carne al horno con papas, que era igual de malo que lo dem\xE1s. la mazamorra fue de terror y el descoche lo cobran $25. una l\xE1stima, hay esmero pero la cocina es mala."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/34199
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida, excelenta la atenci\xF3n!\r\n\
+      Un lugar original para ir."
+    date: 14-05-2010
+    user: http://mi.guiaoleo.com/members/81844
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo destacable. Desde la atenci\xF3n muy cuidadosa y cordial de las mozas hasta el lugar pintoresco y la comida abundante y de sabores distintos. No se pierdan de conocer este lugar que es ideal para ir en pareja o grupos chicos de amigos. La pasamos muy bien y comimos muy rico en un clima de tranquilidad inusitado en la capital."
+    date: 09-05-2010
+    user: http://mi.guiaoleo.com/members/81734
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      El lugar es muy lindo, con un hogar y con esculturas de peces, tatadios, libelulas, mariposas hechas de metal.
+      La comida es muy rica y abundante.
+      El servicio es excelente. La chica que nos atendio fue muy atenta.
+      Totalmente recomendable, seguro que vuelvo.
+    date: 07-05-2010
+    user: http://mi.guiaoleo.com/members/22855
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos guiados por los comentarios y no Nos equivocamos. El lugar esta ambientado como si fuese una casa, lo que da un a sensaci\xF3n hogare\xF1a muy linda. Los platos son muy abundantes y preparados con mucha dedicaci\xF3n. Las mozas fueron muy atentas. En la mesa eramos 12 personas y se encargaron de atendernos muy bien a cada uno. Seguramente volveremos."
+    date: 24-04-2010
+    user: http://mi.guiaoleo.com/members/55711
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La sensacion de la entrada es que queres irte, pero una vez que te abren la puerta la amabilidad de las chicas es excelente. Un lugar diferente, como me gusta a mi, chico pero muy acogedor, las chicas como dije antes excelente y muy atentas (eso que tenian una mesa de norteamericanos de 15 personas) la comida, lo \xFAnico que puedo criticar es la empanada tucumana, para copet\xEDn y nada especial. Muy buena la humita, el cordero y el volc\xE1n. Es para repetir y recomendar. La relacion precio/calidad: muy buena."
+    date: 21-04-2010
+    user: http://mi.guiaoleo.com/members/72724
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Supero totalmente mis expectativas. Atenci\xF3n y ambiente excelentes. Comida distinta, muy sabrosa y a precios razonables. Super recomendable. No dejen de ir!"
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/22078
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar para un mediod\xEDa de sol... agradable, tranquilo y la comida muy buena. Sin duda volveremos."
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/22038
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Como siempre una propuestamuy buena para ir en pareja o con amigos y disfrutar de muy buena comida. Un lugar muy c\xE1lido que me encanta!!!"
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/67152
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Espectacular el lugar. Tanto la comida como el ambiente. Este fin de semana vuelvo con una pareja de amigos, tengo que probar la carne al horno de barro.
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/56442
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente destacable. Hace tiempo que no se encontraba algo as\xED. La comida muy buena al igual que la atenci\xF3n. Como dicen la Carne al Horno de barro es para compartir. Un ambiente relajado y muy c\xF3modo. No se dejen impresionar por la fachada que no dice nada. Otra cosa que me daba dudas era la zona, pero es muy tranquilo, bien barrio. Saludos"
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/44492
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un lugar secreto en medio de la ciudad, el ambiente invita al relax y al disfrute como en casa.\r\n\
+      La atenci\xF3n es personalizada y los platos elaborados con ingredientes de calidad de tama\xF1os para compartir.\r\n\
+      Es para recomendar y para volver."
+    date: 26-03-2010
+    user: http://mi.guiaoleo.com/members/79143
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar especial y fuera de lo com\xFAn, en el que uno se siente a gusto por la c\xE1lida y amable atenci\xF3n y por un ambiente sencillo pero acogedor, especialmente el patio. Los platos originales, hechos con materias primas de muy buena calidad y a un precio razonable. Elegimos la Carne al horno de barro (deliciosa)y comimos dos personas. Adem\xE1s la trajeron en su punto justo como la pedimos. Los postres merecen menci\xF3n aparte: espectacular el Volc\xE1n de chocolate con helado de tuna y el Mam\xF3n en alm\xEDbar. El vino Nanni, una agradable sorpresa.\r\n\
+      Una opci\xF3n diferente y muy recomendable. Volveremos"
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/78939
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen ambiente y servicio!! fuimos con los ni\xF1os y con tanta tranquilidad se durmieron... buen\xEDsimo ambiente...la tabla riqu\xEDsima...El vino Nanni, organico de cafayate... muy bueno... volveremos"
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/31428
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un relajo! muy lindo y calido ambiente, excelente atencion y la comida riquisima... volveremos por mas! todos los platos son super tentadores. Fuimos por guia Oleo y nos hicieron descuento. Muy recomendable!
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/24998
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Genial!!! Se come s\xFAper rico, con sabores importantes y productos de primera calidad. Provoleta de queso de cabra condimentada, empanadas, cazuela de hongos todo estaba muy rico y con muy buenas presentaciones. De principal un pescado al horno con verduras exquisito (aconsejo para compartir, era casi una fuente). Y de postre cerramos con un quesillo con cayote y miel. \r\n\
+      La atenci\xF3n es tambi\xE9n para destacar, te hacen sentir muy c\xF3modos y sobre todo es relajada."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/78710
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Eramos 6 y pedimos 3 platos para compartir que nos recomendaron ah\xED. La carne asada al horno con papas y batatas, espectacular y encima sobr\xF3 comida. Miren si ser\xE1n abundantes las porciones! El lugar, me hace acordar a la infancia de mi provincia: techos altos, horno a le\xF1a y galer\xEDa fresca donde comer. Un lugar como pocos en la Capital. Vayan, no se van a arrepentir!"
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/76988
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un lugar muy original, realmente sorprendente por lo relajado y placentero que resulta cenar en ese patio de casa chorizo. La comida muy buena tanto las empanadas, las humitas y la carne al horno de barro. Realmente muy recomendable.
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/19883
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "riquisima comida regional y un lugar especial con muy buena atenci\xF3n"
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/78203
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "un restaurante fuera de comun, como si no estuvieras en capital,\r\n\
+      encantadora...\r\n\
+      la comida muy rico con attencion a los detallesy el servicio impeccable, volver\xE9"
+    date: 10-03-2010
+    user: http://mi.guiaoleo.com/members/57976
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos un d\xEDa que hab\xEDa una pareja que cantaba tango. Comimos unas empanaditas norte\xF1as de entrada, una carne al horno de barro de principal, y el volc\xE1n de chocolate de postre, todo muy rico. La carta de vinos, si bien no era amplia, ten\xEDa vinos del norte dif\xEDciles de encontrar en Capital, por ejemplo el Nanni. El servicio muy bueno, y el ambiente (el patio de una casa) muy lindo y original. Lo recomiendo para ir con tu pareja. Volver\xEDa sin dudas."
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/60905
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Nos desilucion\xF3 un poco el restaurant.. es verdad que el lugar es excelente, con muchos detalles divinos que re hacen sentir en el patio de tu casa, pero la comida no fue lo que esperabamos. La cazuela de hongos de entrada no estaba muy buena, y los dos principales dejaron que desear (solomillo simil hervido, cordero con tanto romero que no sab\xEDa a cordero). Lo mejor: el volcan de chocolate, exquisito.. la atencion correcta, un poco lenta ya que hab\xEDa solo una persona para 12 mesas. Para pasar un momento romantico, sin pretenciones con respecto a la comida. Tal vez fue una mala noche..."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/42211
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "a pocos metros de Palermo pero en un lugar mucho m\xE1s tranquilo encontramos este restaurant del que nos hicimos fans. Se come excelente y la atenci\xF3n es muy c\xE1lida y amena. Con ambientaci\xF3n \xEDntima y muy original. La carta de postres es muyyy tentadora. S\xFAper recomendable"
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/76266
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy particular y agradable ambiente, excelente atenci\xF3n, los platos deliciosos. Sin duda para recomendar. Volveremos"
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/40554
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Leugar muy c\xE1lido; comimos en el patio y fue un placer. la atencion es excelente, es raro ver mozas con tanta predisposision. la comida irregular: las entradas excelentes, los platos buenos y los postres uno y uno. no pedir mazamorra!!!! la pedi, la probe y la deje. es trigo hervido con agua y la leche agregada, sinceramente una falta de respeto!!! de todos modos es como para darle otra oportunidad"
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/24004
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      De primera todo, para volver y volver  
+      Juan
+    date: 31-01-2010
+    user: http://mi.guiaoleo.com/members/75921
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Cada ves esta mejor. Ya son varias las veces que fuimos y siempren te atienden de primera, la comida es riquisima y tiene unos precios barbaros. Ahora en verano, que se puede comer en el patio, es como estar en el jardin. Adem\xE1s tiene buenos vinos y sobre todo a muy buenos precios. Imperdible este lugar."
+    date: 29-01-2010
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comimos pastas rellenas de carne de ciervo con una salsa de hongos exquesita!!!! y pescado de r\xEDo muy sabroso y super abundante con una guarnici\xF3n de verduras al vapor. a la hora del postre nos deleitamos con el tan recomendado volcan de chocolate que es una maravilla. Super atenta la atenci\xF3n y muy personalizada, me sent\xED comiendo en el patio de mi casa. Gracias y volveremos por m\xE1s"
+    date: 22-01-2010
+    user: http://mi.guiaoleo.com/members/75446
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es especial y muy c\xE1lido. La atenci\xF3n es realmente para destacar, hace tiempo que no me sent\xEDa tan bien atendido. La comida es s\xFAper abundante y con muy buena calidad en los ingredientes, es casera. Por suerte el precio es muy moderado y se puede ir seguido, volveremos seguido"
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/75158
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: muy rica y abundante la comida. El servicio y el lugar son excelentes. la pasamos muy bien
+    date: 13-01-2010
+    user: http://mi.guiaoleo.com/members/71289
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Llegamos y nos atendieron muy bien, muy amables y nos explicaron los platos de la carta. La comida fue despareja, la quinoa vegetariana estaba bien, pero la carne al horno, estaba reseca y dura, y la guarnici\xF3n de papas y batatas estaba un poco quemada. El ambiente es muy agradable, comimos en el patio de afuera y hab\xEDa m\xFAsica en vivo. Hay muy buenas intenciones, el lugar es muy agradable se disfruta de una linda experiencia pero creo que le falta un poco de atenci\xF3n a la comida."
+    date: 09-01-2010
+    user: http://mi.guiaoleo.com/members/3688
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Se come muy bien y los precios son muy moderados. Para conocer sabores nuevos y comidas t\xEDpicas. La atenci\xF3n es para destacar, te explican todos los platos y siempre hay sonrisas. Las pastas rellenas con carne de jabal\xED y una salsa crema de unos hongos que no recuerdo el nombre y el solomillo de cerdo con ar\xE1ndanos y arroz condimentado, ufff eran incre\xEDbles y muy abundantes. El flan casero mixto riqu\xEDsimo (aunque un poco peque\xF1o) y las peras con helado casero el fin de una noche perfecta."
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/74492
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente opci\xF3n para salir a comer rico y en un lugar muy tranquilo. Comimos en un patiecito lleno esculturas de animales y autos antiguos hechas en chapa. Las berenjenas son incre\xEDbles y la carne al horno de barro con batatas y papas es muy rica y s\xFAper abundante ($35 para compartir). De casualidad llegamos un d\xEDa que hab\xEDa barra de tragos 2x1 toda la noche y por supuesto lo aprovechamos, despu\xE9s nos dijeron que se repite todos los Mi\xE9rcoles. Otra cosa para destacar es la atenci\xF3n, un trato muy relajado y pero siempre pendientes si te falta algo. Volveremos seguido\x85"
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/74376
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Llegamos por recomendaci\xF3n y nos fuimos pensando en recomendarlo. Es un restaurante at\xEDpico con una propuesta gastron\xF3mica muy interesante de comidas divididas por regi\xF3n. Comimos un solomillo de cerdo con frutos rojos y arroz con especias que super\xF3 las expectativas. La provoleta de cabra es muy sabrosa y las empanadas de las mejores tucumanas de buenos aires. Muy recomendable para pasar un rato en tranquilidad bajo el \xE1rbol de naranjo en un patio colonial y comer rico."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/73906
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente todo! la atenci\xF3n c\xE1lida de las due\xF1as, el lugar muy cuidado hasta el \xFAltimo detalle y la comida muy sabrosa y artesanal. El volc\xE1n de chocolate con helado es realmente muy bueno. Para no perderselo!!!"
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/73859
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Linda la propuesta de la casa, como comer en casa. La atenci\xF3n super servicial, la comida un poco cruda la carne y papas y el corderito un poco seco. El Volc\xE1n de chocolate impecable!"
+    date: 03-12-2009
+    user: http://mi.guiaoleo.com/members/24644
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Somos clientes hace unos meses y cada vez q vamos volvemos a confirmar por qu\xE9 lo elegimos. Anoche probamos la Quinoa vegetariana y las Empanadas de carne.. todo estaba increible! Y la atenci\xF3n, como siempre de una amabilidad que uno agradece. Sin dudas lo recomendamos!"
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/63453
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar, como el nombre lo indica, es un almacen secreto. Al llegar lo unico que vimos era una pared de cemento con una puerta de chapa blanca. La primer impresion fue: Donde nos estamos metiendo? Que es este lugar? Pero una vez adentro, el ambiente es muy agradable e intimo. Una de las mejores cosas que tiene es la tranquilidad; no se escucha es bullicio de otros lugares por lo que se puede hablar con tranquilidad. La atencion es bastante buena y te aconsejan bien sobre los platos. La comida es muy buena, algunos platos abundantes y como para compertir. El precio, para una ocasion especial."
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/64291
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar para recomendar a todos aquellos que les gusta comer bien y en armon\xEDa. Con excelente atenci\xF3n y calidad de productos. Un ambiente ideal como si se estuviese en la vieja casa de la nona. Comida t\xEDpica de nuestro pa\xEDs que nos demuestra que no solo el asado nos identifica, aqu\xED no solo el sur tambi\xE9n existe sino el centro y el Norte. Riqu\xEDsima la picada de entrada, el solomillo y el charquisillo, tambi\xE9n el pollo y si lo acompa\xF1an con un Alberto Furque Syrah y gente querida, es para levantarse y aplaudir. El volc\xE1n de chocolate LO ES TODO. \r\n\
+      Andres dos Santos"
+    date: 07-11-2009
+    user: http://mi.guiaoleo.com/members/68203
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente!! no solo el lugar, muy calido y familiar, sino la comida tambien. Las preparaciones son abundantes y no por eso dejan de ser gourmet, en un espacio intimo, sin ruidos ni bullicios. Los sabores son sumanete equilibrados realzando elgusto de cada uno de los ingredientes. Muy recomendable.
+    date: 07-11-2009
+    user: http://mi.guiaoleo.com/members/70076
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy buena la atencion, justo vimos un show de tango, barbaro. el lugar es peque\xF1o pero las mesas estan muy bien ubicadas, alcanza y sobra.\r\n\
+      barbaro"
+    date: 07-11-2009
+    user: http://mi.guiaoleo.com/members/68434
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un espacio muy agradable para pasar el rato. Muy c\xE1lido, acogedor y lleno de detalles para apreciar y disfrutar. La propuesta gastron\xF3mica es interesante; algunos platos estaban muy ricos y otros, insulsos. La carta de vinos est\xE1 muy bien, porque trabajan con bodegas chicas y es variada. Recomiendo hacer una picada de entradas (verduras rellenas, humita, tamal, papines saltados) que estaba todo rico (no as\xED los platos principales). Relaci\xF3n calidad/precio, buena. Vale la pena ir a conocerlo."
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/5800
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La verdad que lo \xFAnico que tiene de a puertas cerradas son las puertas, porque no se acerca al nivel de propuesta que ofrecen las otras propuestas que hay, la comida sin sabor se nota que no hay un chef, el ambiente mal cuidado y el servicio muy lento, no creo que vuelva"
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/30479
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "lugar muy recomendable. sin dudas es bastante especial... y como dice el nombre esta bien escondido... los platos en gral muy buenos, grandes sabores. Recomiendo -para compartir- la carne al horno de barro (ahumada)... tmbn tiene comida norte\xF1a (se destacan empanaditas tucumanas y de postre el quesillo con cayote, miel de ca\xF1a y nueces). El ambiente esta muy piola...esta puesto con buen gusto y onda...se exponen cuadros y esculturas originales. es un lugar distinto y accesible."
+    date: 08-10-2009
+    user: http://mi.guiaoleo.com/members/10221
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida es realmente mala, no tenia gusto y su presentaci\xF3n dejaba que desear, el conjunto de la propuesta nos deja solamente una cosa; no recomendar!"
+    date: 08-10-2009
+    user: http://mi.guiaoleo.com/members/29466
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Bien escondido, el almac\xE9n tiene un ambiente intimista y acogedor dif\xEDcil de igualar (con una muy compradora cachorrita siamesa incluida) y un servicio c\xE1lido, conjunto ideal para gente joven. Las expectativas en torno a la comida merecen cierta moderaci\xF3n: la provoleta de cabra estuvo rica, pero algo fr\xEDa en el centro; los tamales, correctos; el charquisillo (un guiso de arroz, carne y aditivos) fue un poco soso; la carne al barro era est\xE1ndar y trajo las papas y batatas demasiado quemadas; bien el flan, flojito el postre de chocolate. Las porciones, justas. Sin el descuento es claramente caro para lo que se come, pero la propuesta en general me gust\xF3. Puede mejorar. Ir\xE9 cada tanto!"
+    date: 01-10-2009
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Llamamos para reservar. Mi mujer ley\xF3 en el blog del restaurant que ese s\xE1bado hab\xEDa show, con lo cual volvimos a llamar para pedirles que nos reservaran una mesa lo m\xE1s alejado del show posible. Llegamos temprano. Tocamos timbre, esperamos, esperamos y esperamos. Al rato, os abri\xF3 una chica, que result\xF3 ser un cliente. Atravesamos el  patio (muy lindo) y entramos en el sal\xF3n. Esperamos y esperamos nuevamente. Al fin, la camarera nos acomod\xF3 en una mesa. A los 10 minutos tuvimos que movernos de mesa, por pedido de la misma camarera. Comenzamos a sospechar que las cosas no ir\xEDan bien. Pedimos un pescado del litoral sin gusto con papas y batatas (duras). Mi mujer un solomillo de cerdo con frutos del bosque, completamente duro, acompa\xF1ado de un arroz pegoteado. Hasta all\xED l\xF3gicamente, no est\xE1bamos de buen humor. Pero lo peor lleg\xF3 cuando comenz\xF3 el show, justamente PEGADO a nuestra mesa. No es que no nos guste la m\xFAsica, al contrario, pero un recital de guitarra y cantante con amplificadores y micr\xF3fonos, en un sal\xF3n de 5 x 5 con 4 mesas ocupadas ya nos pareci\xF3 demasiado, m\xE1xime cuando hab\xEDamos llamado espec\xEDficamente para evitarlo (hay otro sal\xF3n donde podr\xEDan habernos sentado y no lo hicieron) Pese a las disculpas de la camarera, nos fuimos muy enojados. No vamos a volver, no lo recomiendo."
+    date: 19-09-2009
+    user: http://mi.guiaoleo.com/members/64989
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida muy rica y la atenci\xF3n fant\xE1stica, imperdible"
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/64361
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos ilusionadoos.Nos decepcion\xF3 mucho, especialmente la comida ins\xEDpida y fuera de punto. Parec\xEDa hecha por alguien muy voluntarioso pero no profesional. El cerdo carecia de salsa o jugo, estaba seco como telgopor. El cordero no estaba seco, pero no ten\xEDa gusto. El volc\xE1n de chocolate, un desastre. M\xE1s bien parec\xEDa un bizcochuelo tibio con un poco de charlotte en el medio. Lo peor de todo es que pagamos 170$ con descuento y todo. Servicio bueno, mesas demasiado juntas."
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/35268
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Hice la reserva con anticipaci\xF3n, sin embargo cuando llegamos no lo ten\xEDan registrado. La atenci\xF3n fue mejorando a lo largo de la noche, pero comenz\xF3 bastante descuidada. La ambientaci\xF3n puede incomodar: muy cerca la cocina y mucha luz. La comida excelente, todos los platos riq\xFAisimos."
+    date: 12-09-2009
+    user: http://mi.guiaoleo.com/members/63398
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un lugar muy particular, de los que resulta dif\xEDcil encontrar. La puerta de entrada es la de una casa vieja, pero una vez que ingresas entras a descubrir toda la calidez que tiene el lugar. La comida nos gust\xF3 mucho y la atenci\xF3n fue muy buena. Nos explicaron con mucha amabilidad todas las dudas que ten\xEDamos de los platos. Recomiendo que se den una vueltita por el lugar que lo van a pasar muy bien!!! Yo obviamente pienso volver."
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/50682
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un buen exponente de la comida regional argentina gourmet medio escondido en Villa Crespo. Lindo ambiente y excelente la atenci\xF3n."
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/30951
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar (una una casa reciclada) que conserva la fachada original, es intimo y con una muestra de arte intinerante, la atencion asi como tambien la calidad de los productos es muy buena, los precios de todos modos no son baratos.
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/20961
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: Un lindo lugar, ambiente distendido, excelente atencion de la moza con su amabilidad y sugerencias. La comida un tanto picante para mi gusto pero sabrosa. Tiene muy buenas propuestas de cocina argentina, y novedosas. En lo tradicional, no se pierdan el volcan de chocolate, aunque es un tanto caro $ 26.-
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/20990
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar es muy calido y se come muy bien. Para recomendar y volver sin lugar a dudas!!!
+    date: 15-08-2009
+    user: http://mi.guiaoleo.com/members/67152
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es hermosooo y super c\xE1lido..rodeado de obras de arte, ideal para ir en pareja o con amigos..me encant\xF3! Tiene un clima muy lindo.\r\n\
+      La comida muy sabrosa, casera y bien condimentada y el volc\xE1nnn grrrrr inmejorable! (lo dice una fan\xE1tica)."
+    date: 31-07-2009
+    user: http://mi.guiaoleo.com/members/50966
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Llegamos a este lugar gracias a esta guia, y al descuento que ofrecian. La fachada del resto no dice demasiado, es una casa vieja, pero al entrar nos dimos cuenta que  el lugar es bastante alternativo, diferente y tenian una exposicion de obras de Fabian Crespi muy interesantes. El servicio muy atento, nos explico cada uno de los platos que le consultabamos (es comida autoctona del pais y limitrofes). Es para destacar la carta de vinos, estos de bodegas de poca produccion, no de las mas comerciales. La comida exquisita y abundante. No se lo pierdan
+    date: 25-07-2009
+    user: http://mi.guiaoleo.com/members/18704
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "S\xFAper c\xE1lidos el lugar y la atenci\xF3n y muy rica la comida, me qued\xE9 con ganas de volver. Para aprovechar el descuento de la gu\xEDa."
+    date: 25-07-2009
+    user: http://mi.guiaoleo.com/members/13706
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Riqu\xEDsima la comida, el lugar muy lindo, la atenci\xF3n excelente!\r\n\
+      muy recomendable."
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/48156
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Un lugar muy calido, muy buena la atencion, la comida muy rica, pero un poco cara, y los vinos excelentes.
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/3762
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Si no vas con reseva es dificil que lo encuentres. El lugar esta muy lindo y muy bien ambientado. La comida es riquisima y a muy buen precio. Comimos tres secretos, cazuela de tomates, hongos y frutos secos, ensalada de quinoa y charquisillo. Todo muy sabroso y abundante.
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/36032
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Quisimos probar comida regional, en un lugar peque\xF1o y acogedor, y optamos por este calido lugar. Nos atendieron muy bien, comimos muy rico y servido muy abundante. El lugar es una antigua casa de Palermo Viejo/ Villa Crespo reciclada, con la cocina a la vista...Muy buena relacion precio / calidad / cantidad. Una peque\xF1a critica constructiva, en un lugar asi, no da que pasen musica brasilera..."
+    date: 17-07-2009
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comida muy rica, lugar agradable y muy buena atenci\xF3n, pero no amerita el precio car\xEDsimo: $173 dos empanadas, una carne y un cordero al horno de barro, vino chico, agua y gaseosa, y dos postres.  Car\xECsimo el volc\xE1n, $26 sin helado y el quesillo con miel, $20."
+    date: 17-07-2009
+    user: http://mi.guiaoleo.com/members/9184
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un agradable lugar, con una gentil atenci\xF3n y con un men\xFA bien Argento. La comida buena +, con alg\xFAn altibajo. Las empanditas sabrosas, muy bien la prov de queso e cabra.En los platos principales; puedo decir que esta buena, en generosas porciones, aunque criticar\xEDa dos detalles. el primero; la comida me parecio demasiada condimentada; quiza si hubiese probado un solo plato no me hubiese dado cuenta, pero como de costumbre hacemos una degustaci\xF3n, las carnes(cordero y al horno; tenia casi un mismo sabor, algo f\xE1cil de mejorar), y lo otro; a la comida le falto unos grados de temperatura.Bien ="
+    date: 17-07-2009
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida es original y muy abundante. El lugar, chiquito, c\xF3modo y muy bien ambientado. La atenci\xF3n, excelente de una de las socias/due\xF1as.\r\n\
+      Dan ganas de volver cuando haga calor para disfrutar el patio."
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/6781
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Lugara c\xE1lido y acogedor, chico, pero bien ambientado. La comida muy buena y abundante. Atendido por socia/due\xF1a muy cordialmente. Cocina a la vista! Buena relaci\xF3n precio calidad. Seguro volver\xE9."
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/59410
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy lindo lugar y sobre todo original. Imperdible la provoleta de cabra y muy bien hecho el cordero patagonico y ni hablar del quesillo de cabra con dulces (igual que estar en Salta). Nos gusto la atencion, y los vinos. Aprovechamos el descuento de la Guia Oleo, asi que fue una noche perfecta. Muy recomendable, volveremos
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es un lugar muy acogedor, muy bien ambientado y con un servicio amable y correcto. La comida es espectacular!!!!Los postres un poquito caros, pero deliciosos. Da ganas de volver mil veces.
+    date: 12-07-2009
+    user: http://mi.guiaoleo.com/members/48263
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos un s\xE1bado, el lugar es muy c\xE1lido y la atenci\xF3n muy buena. Nos atendieron y asesoraron muy bien. Pedimos Carne al horno de barro con papas y batatas, muy abundante, algo picantona y con un sabor ahumado delicioso. La QUinoa vegetariana, riqu\xEDsima. El panqueque con dulce de leche, excelente y con mucho relleno. Utilizamos el descuento de la gu\xEDa. Volveremos."
+    date: 04-07-2009
+    user: http://mi.guiaoleo.com/members/45503
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Nos parecio un lugar muy pintoresco calido ( en todo sentido) y de comida casera y rica-
+      Sin grandes pretensiones nos parece una propuesta muy valida como para recomendary volver
+    date: 02-07-2009
+    user: http://mi.guiaoleo.com/members/3479
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "el lugar nos pareci\xF3 muy original y c\xE1lido, de entrada compartimos tamales que estaban muy buenos y en una muy simp\xE1tica presentaci\xF3n, el solomillo de plato principal estaba excelente y muy sabroso, es para destacar la simpat\xEDa de la camarera y el conocimiento de la carta. Es para volver en el verano y disfrutar del patio. Ya lo recomendamos."
+    date: 26-06-2009
+    user: http://mi.guiaoleo.com/members/58209
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "el lugar muy calido, interesante, la carta prometedora pero la comida no estaba a la altura, tampoco los postres. Buenos ingredientes pero con preparaci\xF3n demasiado rustica, las carnes, papines y postres no estaban en su \"punto\". La se\xF1orita que atend\xEDa muy distraida, a pesar de ser solo 4 mesas nos fue dificil que nos atendiera. Volver\xEDa solo por las ricas empanadas con buen vino."
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/64225
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo lugar, tranquilo, con pocas mesas, muy en familia. La comida deliciosa, esecialmente la provoleta de queso de cabra y las empanadas tucumanas que tienen un toquecito ahumado. El d\xEDa que fuimos hab\xEDa una bodega que invitaba el vino, y de entrada pan de campo y mote."
+    date: 18-06-2009
+    user: http://mi.guiaoleo.com/members/64770
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar me pareci\xF3 hermoso, ambiente tranquilo y sin pretensiones, la atenci\xF3n y preparaci\xF3n de los platos muy cuidada, para ir varias veces"
+    date: 13-06-2009
+    user: http://mi.guiaoleo.com/members/20219
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "El lugar es precioso, con patiecito, pocas mesas, buena m\xF9sica, la atenci\xF2n es perfecta, super amables, est\xE0n en todos los detalles, los platos sal\xECan justo a tiempo, la verdad q es genial. La comida es interesante, pero parece q le falta un poco de dedicaci\xF2n. Las empanadas estaban secas (eran peque\xF1as, como las hacen en el norte), lo mismo el solomillo, y a la ensalada y la provoleta les faltaba, estaban bien, pero hasta ah\xEC."
+    date: 19-02-2009
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un lugar intimo, sutil. Casita reciclada sin mucha ostentacion pero divina. La comida es tal cual lo dice la carta, ricos vinos de autor, muy buena atencion. Lo recomiendo para parejas,
+    date: 23-01-2009
+    user: http://mi.guiaoleo.com/members/35992
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Super original propuesta, es super secreto. Solo unas pocas mesas, lo que lo hace mas especial a\xFAn. Comida aut\xF3ctona. Para conocerlo!"
+    date: 10-05-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es buena pero poca , las empanadas parecen de copetin y los tamales parecen caramelos grandes,los postres tambien son peque\xF1os, la calidad de los ingredientes son buenas. Creo que si bien puede ser comida gourmet por como la presetan siendo algo regional tendria que ser un poco mas abundante, nos quedamos con ganas especialmente el cordero al vino era peque\xF1o, creo que seria algo a mejorar igual es buena calidad. "
+    date: 26-10-2007
+    user: http://mi.guiaoleo.com/members/34704
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cuando con unos amigos decidimos visitar un lugar \xEDntimo y donde nos sirvieran comida regional, consultamos la gu\xEDa y descubrimos el almac\xE9n...nos atendieron c\xE1lidamente, comimos rico y muy bien servido, el lugar era sencillo y sumamente agradable...volveremos por m\xE1s tamales y dulce de cayote!!! "
+    date: 23-08-2007
+    user: http://mi.guiaoleo.com/members/30335
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy linda la casa donde est\xE1 ambientada. Me encant\xF3 el touch secreto que tiene, aunque la atenci\xF3n no estuvo a la altura de una comida muy creativa. "
+    date: 13-07-2007
+    user: http://mi.guiaoleo.com/members/26711
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Voy seguido, me gusta la intimidad de las solo 4 mesas,te da la sensacion de estar comiendo en casa de amigos.
+      Todo riquisimo y bien ,salvo la musica que estaba un poco alta . Hay que ir por lo menos una vez para conocerlo.Las empanadas y los tamales salen requetecalientes.
+    date: 23-06-2007
+    user: http://mi.guiaoleo.com/members/21453
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es bien secreto (nada de cartel en la puerta y hasta la numeracion de la chapa esta medio despintada), y ese es uno de los mayores atractivos de esta casa de familia transformada en (muy) intimo rest\xF3 de sabores del norte, con ascendencia en la cocina salte\xF1a principalmente. Son seis mesas, que para la ocasi\xF3n (festejo de cumplea\xF1os de veinte personas), se unieron formando una sola. \r\n\
+      El ambiente es muy bueno, gracias tambien a una atencion esmerada de una chica que conoce por origen y explica con amabilidad. La coleccion de replicas de autos antiguos (obras de arte a la venta) completan un clima inmejorable. El vino (Nani, salte\xF1o) un hallazgo. La provoleta de queso de cabra, exquisita. Bien los tamales, pero al locro le faltaba un poco de \"cuerpo\", densidad y un poco mas de picante propio (nada que no se pueda solucionar, obvio). El charquisillo (carne charqui con maiz, cebolla y timbal de arroz) estaba bueno, pero mejoraria si el arroz fuera rissotto (para cortar la sequedad del charqui). La leche planchada (especie de panqueque dulce), muy buena. Un dato mas: el quesito condimentado de la picada previa era una delicia!"
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/15494
+    ambiente_rank: excelente

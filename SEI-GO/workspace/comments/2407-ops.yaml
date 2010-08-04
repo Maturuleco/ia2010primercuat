@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Hice un pedido para delivery, el ambiente lo califico por lo que uno ve desde afuera; nunca entr\xE9 al sal\xF3n.  La comida me pareci\xF3 realmente muy buena; hacen una cocina sencilla y con un men\xFA que abarca casi todas las opciones. El servicio lo doy por regular, porque demoraron m\xE1s de la cuenta. Igual d\xE1 para seguir degust\xE1ndole la carta a este rest\xF3."
+    date: 19-06-2010
+    user: http://mi.guiaoleo.com/members/12215
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos el s\xE1bado por la noche, nos atendi\xF3 un mozo re maleducado. Un p\xE9simo trato y al final trat\xF3 de justificarse diciendo que estaba cansado porque estaba trabajando desde temprano.\r\n\
+      En cuanto a la comida, pedimos pizza de jam\xF3n y morrones y nos sirvieron \"prepizza\"."
+    date: 24-04-2010
+    user: http://mi.guiaoleo.com/members/77200
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Cocina sencilla y ligera, ideal para un mediodia. El servicio es normal y el ambiente agradable. Para salir del pasono esta mal.
+    date: 27-11-2009
+    user: http://mi.guiaoleo.com/members/43152
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La pase muy bien cuando fui a Vivace. El mozo, un colombiano super simpatico que nos atendio perfecto en todo momento. Por lo que consumimos, el precio es acorde, y la calidad, muy buena en serio. Comparti con 2 amigas una entrada de falafel y cada una pidio luego un plato elaborado. Yo opte por los fucciles con crema de hongos, acompa\xF1ando con una copa de vino, y la verdad que inmejorable. La panera y la crema para untar, muy tentadoras. Pienso volver pronto y recomendarlo a mis amigos."
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/14919
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Siempre cubre nuestras expectativas. Volveremos.
+    date: 26-07-2009
+    user: http://mi.guiaoleo.com/members/16297
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Compr\xE9 una torta y estaba como vieja! me decepcion\xF3. siempre les compraba."
+    date: 03-03-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente!. El lugar es muy calido, una panera muy gustosa y una comida a la altura de la gastronom\xEDa porte\xF1a. La carta de vinos me pareci\xF3 floja, pero todo tiene soluci\xF3n. Muy recomendable."
+    date: 22-02-2009
+    user: http://mi.guiaoleo.com/members/59304
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es muy rica, y el lugar es agradable, tienen una panera deliciosa con una salsa que traen para untar. Recomendable
+    date: 04-08-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "fui con mis hijos al mediodia y despues volvi a la noche con mi se\xF1ora, el lugar es agradable, la comida muy buena, el menu con comida para todos los gustos. para recomendar"
+    date: 07-03-2008
+    user: http://mi.guiaoleo.com/members/7875
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lo elegi para un brindis post civil y estuvo muy acorde con las expectativas!!! buen lunch y servicio. la due\xF1a con la que habia arreglado estuvo muy dispuesta... lo cual hizo todo mejor"
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/19814
+    ambiente_rank: bueno

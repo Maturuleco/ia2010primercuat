@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenas empanadas, lugar familiar, no pretender nada del otro mundo, a mi mujer siempre le encanta la ensalada Manuelita.\r\n\
+      Linda opci\xF3n para Viernes a la noche."
+    date: 01-06-2009
+    user: http://mi.guiaoleo.com/members/67683
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno el jugo de naranja exprimido.
+    date: 13-12-2005
+    user: http://mi.guiaoleo.com/members/5296
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelentes empanadas, siempre pido empanadas fritas.
+    date: 05-03-2005
+    user: http://mi.guiaoleo.com/members/1043
+    ambiente_rank: muy bueno

@@ -1,0 +1,67 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo mejor que tiene para rescatar es que pod\xE9s ir a cualquier hora de la noche y te van a atender.\r\n\
+      Igualmente los precios son algo elevados para el lugar y los platos ofrecidos. Las bebidas en particular me parecieron extremadamente caras.\r\n\
+      Conclusi\xF3n: es un salvavidas en el medio de la noche, nada m\xE1s."
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/18323
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buena Pizza! Un poco cara pero para ir cada tanto esta muy bien! El lugar esta bien decorado y permite tener una charla tranquila! Voy a volver!
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/64751
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Pedimos un plato llamado China/moon y ravioles verdes, el primero son trozos de pechuga de pollo saltados con verduras, algo de camarones, acompa\xF1ado con un arroz blanco, el plato estaba muy bueno, los ravioles eran un poco flojos no me gust\xF3 el relleno, la atenci\xF3n y el ambiente muy bueno, un poco caro con relaci\xF3n al producto, la gaseosa $9 un verdadero atropello, es un lugar para tener en cuenta a altas horas de la madrugada."
+    date: 07-06-2009
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un desastre la atenci\xF3n. En Fiamma, un mozo gordito y calvo me hizo pasar un p\xE9simo momento. Permanec\xED media hora esper\xE1ndolo en vano en una mesa del primer nivel, pero \xE9ste no s\xF3lo no me atendi\xF3, sino que baj\xF3 a verificar cu\xE1les eran mis \"intenciones\" arriba(!). Por supuesto que de inmediato baj\xE9 yo y se llev\xF3 su merecido, pero de todos modos el mal momento ya estaba vivido. Es una l\xE1stima que Fiamma tenga personal tan deficiente y malintencionado. Despu\xE9s dicen de los mozos parisinos, pero en Par\xEDs jam\xE1s me sucedi\xF3 algo as\xED, todo lo contrario, j'ai toujours \xE9t\xE9 tr\xE8s bien accueilli."
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/62101
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "T\xEDpico pizza caf\xE9 remodelado, con buena est\xE9tica, caf\xE9 aceptable, pero nula atenci\xF3n. Intentar tomar algo en el primer nivel es como arrojar los dados para ver si nos atienden o no. Aun si el piso est\xE1 casi vac\xEDo, es muy probable que los mozos suban, nos vean, se pongan a ordenar copas y manteles y luego bajen habi\xE9ndonos ignorado por completo (lo digo con conocimiento de causa porque me acaba de suceder). Muy flojo."
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Fiamma es una pizzeria remodelada con plantas, mucha presentacion pero terriblemente cara. Esta bueno para ir a tomar un cafe despues de comer en otro lugar. Es muy caro todo, las ensaladas no se pueden ni mirar, los pescados mucho menos.
+      Tendrian que acomodarse mas a lo que es el lugar, caro por lo que ofrecen, todo el ambiente esta armado para aparentar y eso se traslada a la carta.
+    date: 27-12-2008
+    user: http://mi.guiaoleo.com/members/15767
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Es un t\xEDpico pizza y caf\xE9 con comida absolutamente normal y sin gracia y precios car\xEDsimos para lo que ofrecen. Por el mismo precio se puede comer en lugares con comidas m\xE1s elaboradas o con mejor ambiente o atenci\xF3n. Para dejarlo pasar."
+    date: 17-11-2008
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      La calidad de los productos no sobresale, pero los precios son demasiado altos por lo que ofrecen.
+      Prefiero ir a cenar a Pto. Madero en un ambiente mas agradable.
+    date: 09-07-2008
+    user: http://mi.guiaoleo.com/members/11598
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Se come muy bien, pero creo que los precios son un poco altos. Aunque los platos dan para compartir...
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/11412
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy rica la salsa! Comi pollo al verdeo y la verdad que fue la mejor salsa demiglace que probe... Se puede llegar a compartir si se suma una entrada, pero igual resulta caro. para lo que son los precios de la zona sobre todo... Pero muy rica comida.
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/8978
+    ambiente_rank: bueno

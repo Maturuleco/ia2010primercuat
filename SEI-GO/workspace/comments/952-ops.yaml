@@ -1,0 +1,335 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La sugerencia del d\xEDa era \"cuerdas de guitarra con salsa de camarones\", respecto de la pasta, estaba totalmente cruda y apenas caliente, la salsa dera de textura correcta, pero los escasos y diminutos camarones la arruinaron. tambi\xE9n comi una \"lassagna\" que en realidad era una bola de espinaca envuelta en masa. El ambiente es bueno pero algo ruidoso. excelente vista y ambientaci\xF3n exterior."
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/82446
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Las mesas afuera son perfectas para pasar un domingo soleado Las pizzas no estaban mal y el volc\xE1n de dulce de leche era bastante rico. Nos quedamos de sobremesa durante m\xE1s de cuatro horas y nunca nos sentimos echados. El precio, muy razonable para la zona. Recomendable."
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/17332
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Es la tercera vez que voy y la verdad el nivel general ha bajado. Sabado por la noche, no estaba muy lleno, desde que nos sentaron tuvimos que esperar mas de 10 minutos desde que nos sentamos para que nos atendieran. La mesa se movia (pata floja), pedi que lo solucionaron, nunca lo hicieron. El pollo que pedi estaba crudo, y se noto que estaba recalentado (tipo al microondas). Los sorrentinos de mi novia estaban exquisitos. Despues el postre muy bueno. Conclusion, buen lugar... nada de otro mundo.
+    date: 25-04-2010
+    user: http://mi.guiaoleo.com/members/80767
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Si bien la pasta es la especialidad de la casa, ninguno de los 2 platos que pedimos eran algo fuera de lo com\xFAn. Los \xF1oquis estaban un poquito pasados de cocci\xF3n y no ten\xEDan mucho sabor. Los fetuccini con crema y camarones resultaron buenos y punto. El semifreddo de postre dej\xF3 mucho que desear, no as\xED los creppes de dulce de leche que estaban deliciosos. Cabe resaltar la atenci\xF3n del camarero que en todo momento se comport\xF3 cordialmente y nos hizo sentir a gusto. Una de las mejores atenciones que recib\xED en Bs. As. en un lugar donde no lo esperaba."
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/69568
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La verdad primero me sente en la parte que da al rio. Me mori de frio. Le pedi al mozo que baje el aire y me dijo que no se podia. La bebida vino caliente. El vino de la casa, malo. Me cobraron $ 6 el cubierto y el pan estaba frio y duro. El sorrentino estaba con los bordes duro y salsa aguachenta... Lo peor de todo es que pedi que me cambien el plato y me dijeron que no se podia !!! pedi que vnga el encargado y jamas se acerco. Una experiencia nefasta. No lo recomiendo. Es la tercera vez que voy, y siempre me fue mal. Una lastima.
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/77872
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente estaba S\xDAPER-FR\xCDO, era una heladera!  Me quej\xE9 con el mozo, pero me dijo que los aires acondicionados no pod\xEDan regularse (sic, terminamos comiendo a las apuradas y sin postre para irnos y evitarnos una pulmon\xEDa.  Una l\xE1stina! conozco otros locales de IL GATO y tambi\xE9n soy cliente de \xE9ste, pero los clientes no tenemos por qu\xE9 ir a comer emponchados porque no puedan poner un aire acondicionado a una temperatura adecuada!!!!!!!!!"
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/73566
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Termin\xE9 comiendo en este lugar porque el que hab\xEDa elegido como primera opci\xF3n no le funcionaba el aire acondicionado y con el calor y para no movilizarse mucho, optamos por no caminar demasiado. El servicio pesimo, parec\xEDa que al mozo no le correspondia esa mesa. Tardo bastante en tomarnos el pedido y no estaba atento (quise pedirle otra agua mineral y fue imposible). La comida bien pero nada fuera del otro mundo. Los postres para el olvido."
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/20381
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: fui muy bien atendido y los productos tiene buena relacion precio calidad, el semifredo estaba buenisimo
+    date: 03-01-2010
+    user: http://mi.guiaoleo.com/members/34458
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida demor\xF3 m\xE1s de 45 minutos, despues de reclamar sal\xED\xF3 como de apuro, con poco y nada de presentaci\xF2n y las salsas estaban desabridas.\r\n\
+      Adem\xE1s el ambiente estaba muy, pero muy frio y la respuesta del mozo fue que los equipos estaban trabados al m\xE1ximo, sin posibilidad de regulaci\xF2n. Lamentable.\r\n\
+      Conocemos casi todos los locales de esta cadena, pero creo que al de Puerto Madero no volveremos."
+    date: 01-01-2010
+    user: http://mi.guiaoleo.com/members/20584
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la verdad que se come bien, abundante y sabroso, me sorprendio porque pense que era algo al paso pero es agradable
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/56070
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Los sorrentinos sin gusto y muy escasos. Es uno de los pocos lugares en que las pastas no se pueden compartir pues se van con hambre. El descuento es real pero al final pag\xE1s lo de cualquier cantina y com\xE9s mucho mejor que ac\xE1. La atenci\xF3n es lamentable (sin ideas, no sirven el vino, no saben aconsejar los platos y no se acercan a ver si necesit\xE1s algo). Las sugerencias son pobres y las exhiben en un cart\xF3n cuadrado. Es peor que una cantina de barrio. Ped\xED el vino propio y lo devolv\xED cuando lo prob\xE9!! De lo peor que visit\xE9 en Puerto Madero. No vuelvo a ning\xFAn IL GATTO jam\xE1s!"
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/67320
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy conforme.  Los lunes en Puerto Madero hay muy poca gente, con lo cual se consigue una atm\xF3sfera intima y una atenci\xF3n personalizada.\r\n\
+      Y adem\xE1s los lunes y martes tienen un descuento del 50% en pasatas."
+    date: 07-09-2009
+    user: http://mi.guiaoleo.com/members/64431
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lo mejor fue el mozo que nos coment\xF3 las promociones y el detalle de las pastas, la comida decay\xF3 un poco comparada con a\xF1os anteriores. La pasta llega r\xE1pido a la mesa pero no muy caliente, algo que deber\xEDan mejorar. Los postres realmente muy buenos."
+    date: 07-09-2009
+    user: http://mi.guiaoleo.com/members/61320
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy lindo, pero conviene ir al mediodia, hay mucha diferencia de precio con la noche, al mediodia hay un menu de 25,90$ + 6$ de cubierto que incluye entrada, comida principal y postre, a la noche esto mismo sale alrededor de 150$
+    date: 08-05-2009
+    user: http://mi.guiaoleo.com/members/62048
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: fuimos a comer 2 matrimonios, la relacion precio plato, caro. pedi una lasagna especial de salmon, un desastre, un pedacito de pescado y toda verdura, la porcion bastante escasa, y en la salsa solo un camaron tenia, no vuelvo massssss!!!!.
+    date: 29-12-2008
+    user: http://mi.guiaoleo.com/members/22342
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Desastroso el valet parking que salio con mi auto corriendo contramano y girando en U de terror como manejan.
+      El lugar agradable aunque caluroso, atencion correcta. 
+      El problema fue la comida. 
+      Los fetuchinis con crema y camarones estaban crudos, no al dente sino que las sacaron mucho antes y estaba duros era como comer fideos secos sin cocinar Horribles. 
+      La lasagna de salmon otro tanto. La pasta que separa las distintas capas durisimas.
+      No se si se apuran en sacar la comida rapido o no saben.
+    date: 20-12-2008
+    user: http://mi.guiaoleo.com/members/25918
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "En realidad nos decepcionamos un poco, esper\xE1bamos algo mejor. Las cuerdas de guitarra que comimos no estaban bien cocidas y los sorrentinos tampoco, lo que es imperdonable para una trattor\xEDa. No creo que volvamos"
+    date: 25-10-2008
+    user: http://mi.guiaoleo.com/members/42951
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La carta no es abundante pero lo que sirven es muy bueno, salvo por las porciones de algunos platos como el de la lasagna que es peque\xF1isimo. El problema se suscito a la hora de pagar cuando presente mi tarjeta oleo y NO LA ACPTARON aduciendo que ellos no trabajan con la misma...??????"
+    date: 31-08-2008
+    user: http://mi.guiaoleo.com/members/38940
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar donde la comida es correcta(sin deslumbrar),la atencion es buena en un ambiente muy agradable(quiz\xE1s algo ruidoso).Los precios son algo elevado.Regular relacion precio-producto."
+    date: 25-07-2008
+    user: http://mi.guiaoleo.com/members/19407
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es simple pero buena. La ambientaci\xF3n es regular: individuales de papel sobre manteles a cuadritos y TV plasma transmitiendo f\xFAtbol. El servicio es correcto. Punto flojo: tienen un s\xF3lo empleado para el valet parking, por lo que hay que armarse de paciencia y esperarlo (a\xFAn cuando afuera haya temperaturas bajo cero) y los autos suelen quedar largos ratos estacionados con balizas sobre Alicia M. de Justo."
+    date: 22-07-2008
+    user: http://mi.guiaoleo.com/members/24971
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Aceptable si consideramos que se trata de una trattor\xEDa.\r\n\
+      El ambiente prolijo pero muy ruidoso.\r\n\
+      La atenci\xF3n fue regular.\r\n\
+      Est\xE1 bueno conocerlo pero no volver\xEDa."
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/27652
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: nada del otro mundo, bien para el mediodia.
+    date: 19-03-2008
+    user: http://mi.guiaoleo.com/members/38494
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: un lugar muy comun para estar en Puerto Madero, nada del otgro mundo. No volveria, hay muchos mejores para conocer
+    date: 12-02-2008
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar nada especial, la comida muy sabrosa, acorde los precios por el tipo de menu. La atenci\xF3n no fue gran cosa. Pareciera que estaban m\xE1s preocupados por dejar listas las mesas que se vaciaban que atender a los que est\xE1bamos."
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/18505
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "a ver que puedo decir.. los platos minimos!!!!! ricos, pero muy chicos.\r\n\
+      Las mesas muy juntas.. un barullo terrribles! mi conversacion y la de los comensales de al lado se mezclan!\r\n\
+      la musica es una tortura!!!!!!! pedi que bajaran el volumen y apenas si lo bajaron!\r\n\
+      Descartarlo si quieren una velada tranquila.\r\n\
+      Ah! y casi me olvido del mozoooo! se queria hacer el simpatico y no dejo de hacer payasadas en la mesa! con lo cual me parece que se desubico muchisimo!\r\n\
+      Descuidadisimos los ba\xF1os!\r\n\
+      Tambien estuvimos parados como 40 minutos de espera y ni siquiera una copita de agua nos ofrecieron!!!"
+    date: 24-01-2008
+    user: http://mi.guiaoleo.com/members/38775
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: las opciones de la carta se reducen a 10 platos principales como maximo. comida escasa sin sabor.
+    date: 06-01-2008
+    user: http://mi.guiaoleo.com/members/37844
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida excelente... las pastas son realmente ricas y la porci\xF3n bastante abundante...la atenci\xF3n muy buena... nos gust\xF3 mucho... recomendables los Ravioli de Prosciutto a la Campagnola. "
+    date: 03-01-2008
+    user: http://mi.guiaoleo.com/members/19435
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF3n y la comida acorde al lugar elegido."
+    date: 09-12-2007
+    user: http://mi.guiaoleo.com/members/21185
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Il Gatto es un restaurante donde se puede comer sin pretensiones.La comida no se destaca por lo elaborada, sino mas bien es un lugar de comidas rapidas. Lo destacable del mismo es la ubicacion ya que nos permite disfrutar de un lindo paseo por Puerto Madero. Para no exigentes.
+    date: 28-11-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Desentona totalmente con lo que es Puerto Madero. Com\xED pollo y estaba muy grasoso, las papas igual.\r\n\
+      No vuelvo."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/28639
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Lugar tranquilo, muy comun. Precios caros, las pastas dan que desear. Ir con reservacion un finde semana.
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/35026
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Solo para los que trabajan por ahi. Bajo nivel.
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Todo adecuado. Recomendable ir temprano los s\xE1bados para no tener que esperar NO hay comodidad para este tr\xE1mite. El servicio de mesa $ 4,50. "
+    date: 02-07-2007
+    user: http://mi.guiaoleo.com/members/19189
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Para comer al mediod\xEDa, es casi ideal. Buenos precios, comida aceptable sin lujos y ambiente agradable. Me gust\xF3. Muy bueno el pan de pizza y aqu\xED no lo cobran. "
+    date: 02-05-2007
+    user: http://mi.guiaoleo.com/members/11820
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fui un dia de semana pasadas las 23 hs. La mozzarella muy buena y la albahaca muy fresca! La salsa estaba bien condimentada y liviana a la vez. Lograron darle un sabor/aroma muy lindo a la pizza. Nos aconsejaron un vino exquisito y acorde a la ocasion. El servicio fue muy atento.
+    date: 15-04-2007
+    user: http://mi.guiaoleo.com/members/22591
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Buena atenci\xF3n y ambiente, la comida es muy buena. No dejar de probar la pizza de pepperoni, lo mas parecido a la autentica de USA que probe en Argentina."
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19020
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena comida. Atenci\xF3n buena, la verdad es que podr\xEDa ser mejor. Precios normales. Lo mejor es el ambiente y el recibimiento al llegar."
+    date: 23-02-2007
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es una excelente opci\xF3n para el mediod\xEDa, con tres o cuatro opciones de plato principal. Buena comida y a un \xF3ptimo precio. La pastita que te ponen con la cesta de panes, vale mucho la pena. \r\n\
+      No es sofisticado, no es abundante pero es b\xE1rbaro para comer bien por un just\xEDsimo precio.\r\n\
+      Las pastas son b\xE1rbaras y las croquetas de espinaca con salsa blanca, incre\xEDbles.\r\n\
+      Los postres tal vez sean lo m\xE1s pobre, la mousse de dulce de leche es aburrid\xEDsima, pero los profiteroles est\xE1n muy bien."
+    date: 20-12-2006
+    user: http://mi.guiaoleo.com/members/15602
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Platos abundantes, nada espectaculares. Un poco salado para mi gusto y el de los dem\xE1s que estaban en la mesa. Servicio bueno y r\xE1pido. El ambiente es ruidoso. Recomendable para almorzar o cenar y luego ir a caminar por Puerto Madero. "
+    date: 09-12-2006
+    user: http://mi.guiaoleo.com/members/5959
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Atenci\xF3n r\xE1pida y eficiente. Comida rica, sin ser gourmet. Los platos podr\xEDan ser m\xE1s abundantes. Deliciosa la torta de manzana."
+    date: 01-10-2006
+    user: http://mi.guiaoleo.com/members/6011
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy bueno todo desde la entrada, el valet parking, la recepcion, los platos hasta el servicio, los postres y los ba\xF1os.\r\n\
+      El mousse de chocolate es excelente."
+    date: 20-09-2006
+    user: http://mi.guiaoleo.com/members/10442
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente atenci\xF3n, amigable y eficiente para esta rossa trattoria ubicada en una de las mejores zonas de Buenos Aires. \r\n\
+      La comida no es superior, pero no desentona. \r\n\
+      Sin lugar a dudas es recomendable."
+    date: 03-09-2006
+    user: http://mi.guiaoleo.com/members/11727
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la atenci\xF3n. La relaci\xF3n precio calidad es muy buena. Se nota un ambiente de profesionalismo por parte del personal."
+    date: 07-07-2006
+    user: http://mi.guiaoleo.com/members/9855
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Me atendieron rapido y bien. El mozo atento, cordial y educado. La pasta muy buena.
+    date: 01-07-2006
+    user: http://mi.guiaoleo.com/members/9856
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Una gran decepci\xF3n. \r\n\
+      \xC9ramos ocho personas y no nos qued\xF3 otro lugar que \xE9ste. \r\n\
+      Para probar algo distinto de las pastas de siempre, eleg\xED el salm\xF3n: vino tarde y absolutamente seco. \r\n\
+      El mozo, al recibir la queja, ni se inmut\xF3. Se limit\xF3 a decir \"ya sab\xE9s para otra vez\" (?). \r\n\
+      M\xE1s tarde ni siquiera atendi\xF3 la mesa, se dedic\xF3 a mirar el partido del Mundial que pasaban y tuvimos que cambiarnos de mozo. Como an\xE9cdota: los mozos miraban el partido tapando el LCD y pobre del cliente que se quejara.\r\n\
+      Sab\xEDa que era un lugar medio grasa, pero realmente hoy fue el colmo."
+    date: 09-06-2006
+    user: http://mi.guiaoleo.com/members/9193
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Amplio y con bonita decoraci\xF3n, moderno. Nuestro mozo fue muy simp\xE1tico y atento. La comida es buena, nada extraordinario, pero bastante buena. Los platos llegaron rapido. Tuvimos que esperar unos diez minutos, por la mesa."
+    date: 28-04-2006
+    user: http://mi.guiaoleo.com/members/8148
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lugar familiar (a veces ruidoso). La cocina italiana no es muy rebuscada. Ideal para comer algo simple y aprovechar para pasear por Puerto Madero. "
+    date: 22-04-2006
+    user: http://mi.guiaoleo.com/members/13542
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Carta breve; comida regular e\r\n\
+      insuficiente. Servicio regular.\r\n\
+      Relaci\xF3n precio/calidad mala."
+    date: 04-03-2006
+    user: http://mi.guiaoleo.com/members/6777
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar est\xE1 bueno, muy bien ambientado. Perfecto el estilo italiano. \r\n\
+      \xDAnica cr\xEDtica: nos sentaron al lado de la ventana, desde donde lo que m\xE1s se ve\xEDa era al chico del valet parking sacando y guardando llaves.\r\n\
+      De todas maneras, lo recomiendo."
+    date: 14-02-2006
+    user: http://mi.guiaoleo.com/members/6520
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "No es un rest\xF3 que me guste mucho ni la comida ni su ambientaci\xF3n. Uno de los mas econ\xF3micos de puerto madero con una linda vista."
+    date: 03-02-2006
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno

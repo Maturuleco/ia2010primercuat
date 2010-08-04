@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Muy buena comida y servicio. es muy tradicional. Muy recomendable.
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/56729
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente restaurante de comida okinawense, sin lujos (no cobran cubierto) y con trato muy cordial. Carta muy interesante, productos muy frescos y variados. Postres interesantes como helado de jenjibre, wasabi y asuki. Volveremos .
+    date: 04-05-2010
+    user: http://mi.guiaoleo.com/members/77518
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Desprovisto del snobismo de los sushibar, Okiren ofrece una variada carta de comida t\xEDpica okinawense y japonesa de buena calidad y a un precio razonable.\r\n\
+      Recomendable para los que gustan de la comida japo y los que reci\xE9n incursionan."
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/57329
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Si lo que quieren es comer buen sushi, sin dudas \xE9ste es el lugar, el mejor que he probado hasta el momento. Los platos tambi\xE9n son exquisitos, y abundantes. Muy buena relaci\xF3n precio-calidad. La atenci\xF3n es muy buena, los mozos conocen perfectamente el men\xFA. Altamente recomendable!"
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/57334
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es el restoran del centro okiwanense. Lugar agradable, muy tranquilo, los mozos son muy agradables y como los platos son abundantes si no los terminas te ofrencen empaquetartelos como vianda asi te lo llevas. El lugar es simple pero la ambientaci\xF3n es buena, muy limpio y hay musica ambiental japonesa. Voy seguido y lo recomiendo."
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/58105
+    ambiente_rank: bueno

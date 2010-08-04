@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: No vale el precio cobrado. La calidad es mediocre y por ese dinero se puede comer comida japonesa en serio.
+    date: 12-11-2009
+    user: http://mi.guiaoleo.com/members/71525
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy rico sushi y buena atencion.Lindo ver como cocinan a la vista.
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/30308
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Comida regular, y cara. Nada del otro mundo. No tiene nada de japones.
+    date: 14-05-2008
+    user: http://mi.guiaoleo.com/members/39694
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: considero que la calidad de los alimentos son optimos, y que por el contrario los precios son excesivos.
+    date: 12-02-2008
+    user: http://mi.guiaoleo.com/members/42208
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida tarda bastante, pero es abundante y fresca
+    date: 02-10-2007
+    user: http://mi.guiaoleo.com/members/20593
+    ambiente_rank: bueno

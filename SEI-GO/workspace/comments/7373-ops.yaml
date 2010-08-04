@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Excelencia. El piano de fondo se advierte apenas se entra al restaurant y es el condimento de calidez ideal para disfrutar de una comida como pocas.
+      El servicio es muy bueno. El menu es escueto pero asegura una calidad inmejorable. 
+      Una verdadera lastima que el no ser un lugar tan conocido se traduzca en ausencia de comensales en las mesas.
+    date: 20-06-2010
+    user: http://mi.guiaoleo.com/members/46318
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "La comida result\xF3 ser muy rica y la atenci\xF3n y la carta de vinos, muy buena. El ambiente -pianista incluido- es agradable. Los precios un poco elevados pero nada fuera de lo normal. Sorprendi\xF3 que estuviera tan vac\xEDo (s\xF3lo 3 mesas ocupadas) en una noche de s\xE1bado."
+    date: 09-05-2010
+    user: http://mi.guiaoleo.com/members/17332
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: me gusto mucho el lugar y la atencion de los  camareros, pero la comida  nada  de  nada , soy cocinero  y  me dieron la pasta pasada de coccion  y el entrante caliente   tirando a  frio, muy basica  la  carta  de  postres, habria q  cambiar esos detalles!.. una lastima
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/78808
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: Linda esquina en San Telmo que no supieron aprovechar en cuanto a la ambientacion. La comida no tiene nada de especial..poco sabor y nada de innovacion...en fin..cero propuesta gastronomica. El servicio es muy bueno y supo suplir las falancias del lugar. Precio / calidad elevado.
+    date: 13-04-2010
+    user: http://mi.guiaoleo.com/members/37537
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "A favor:muy bien el servicio. En contra:la comida , lo principal apenas discreta. El cordero de cocci\xF3n 6 horas y el \xA8espiral\xA8 de cerdo, no estaba en carta porque seg\xFAn nos dijo el mozo no les hab\xEDa llegado la mercader\xEDa.\r\n El carpaccio de lomo, presentaba un \xA8extra\xF1o tono amarronado de cocci\xF3n en los bordes\xA8, ni pensar que hab\xEDan usado un tournedo marcado para el carpaccio!.\r\n\
+      La sala es enormme, como para 100 comensales, las sillas incomod\xEDsimas, el lugar estaba practicamente vacio, con suerte le doy un a\xF1o de vida.Muy caro para lo que ofrecen.\r\n\
+      No vuelvo , no recomiendo."
+    date: 12-04-2010
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: malo/regular

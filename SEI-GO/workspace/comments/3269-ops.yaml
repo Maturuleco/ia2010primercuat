@@ -1,0 +1,331 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Carisimo! fui anoche con mi novio, impresionados por los precios altisimos de la carta de vinos y del menu. No volveremos.
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/34247
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos con CLN. La atenci\xF3n fue cordial, el tama\xF1o del sushi fue excelente, el vino bueno. Hemos notado en otros lugares que con el tiempo las piezas se encogen. Espero no suceda ac\xE1. nos sentaron en una mesa de 2 (muy chica) teniendo lugar de sobra para estar c\xF3modos, ese es un punto a mejorar. A favor, las mesas est\xE1n bien separadas. Repetiremos sin dudas"
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/75906
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es tan elevado el precio en relaci\xF3n a la calidad del sushi que resulta dificil evaluarlo. \r\n\
+      No puedo decir que sea malo. Por el contrario me parece un buen sushi si lo comparo con muchos otros que he probado. El tama\xF1o de las piezas es acorde, la materia prima fresca, el arroz est\xE1 bien armado, la variedad es buena; pero creo que con valores iguales o m\xE1s econ\xF3micos hay varias opciones mejores en BsAs. El ambiente no es malo, pero se asemeja m\xE1s a un restaurante moderno de Palermo que a un oriental. El sal\xF3n y los ba\xF1os son limpios. La atenci\xF3n no destaca pero tampoco es deficiente."
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: la verdad que me desilusione bastante. la atencion fue deslucida,no puede ser que pidas 30 piezas de sushi y la mitad de los rolls sean de ATUN!!  con lo que cuesta! (110$)no hay relacion precio/calidad!!! tardan mucho en traerte la comida y el costo del servicion de mesa($9)comprende 3 tostadas con una cucharada de pate en un plato...el amibiente demasiado oscuro...una pena! ire a otro lado
+    date: 28-07-2009
+    user: http://mi.guiaoleo.com/members/14670
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No lo recomiendo. Creo que es una mala relaci\xF3n precio/calidad. La comida es buena, nada del otro mundo pero rica, sin embargo la atenci\xF3n es definitvamente mala. Todo tardo demasiado dado que hab\xEDa pocos mozos para atender todas las mesas. El lugar no es lindo. Para no volver."
+    date: 17-07-2009
+    user: http://mi.guiaoleo.com/members/27385
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Imperdible el sushi crujiente (sushi caliente). La atenci\xF3n del mozo fue muy buena, nos explic\xF3 amablemente todo. Cambiar\xEDa la m\xFAsica electr\xF3nica que no iba con el lugar (o por lo menos le bajar\xEDa un poco el volumen, que para mi gusto era excesivo para una cena a la luz de las velas)."
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/20460
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "la verdad sigue sin mejorar, despues de mucho tiempo, decidi darle otra oportunidad, y creo que no valio la pena, cambiaron todo, los mozo, la calidad, y para peor, se nota que no son gastronomicos sus due\xF1os, era un lugar que prometia, y se quedo solo en promesas"
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/49303
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El sushi es de lo mejor que he comido, un poco alto el precio comparando con otros muy buenos lugares.\r\n\
+      El servicio es muy  bueno, correcto, atento en su justa medida. \r\n\
+      El postre estuvo mas o menos, no cubri\xF3 las expectativas.\r\n\
+      La m\xFAsica ambiente, a mi criterio, muy boliche para el momento de la cena."
+    date: 28-05-2009
+    user: http://mi.guiaoleo.com/members/999
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El mas rico sushi que prob\xE9 en mucho tiempo. No estoy tan segura de los postres o los platos calientes, pero el sushi - de nuevo - excelente!\r\n\
+      El servicio es pr\xE1ctico y atento.\r\n\
+      Una suerte que fuimos temprano porque hacia las 22hs bajaron un poco las luces y subieron la m\xFAsica - electr\xF3nica.\r\n\
+      Por la comida, volver\xEDa, sin dudarlo, pero el ambiente es algo con lo que tendr\xEDa que lidiar.\r\n\
+      Quizas probar\xEDa a mediados de semana, tendr\xE1n otra selecci\xF3n de m\xFAsica para los martes / mi\xE9rcoles?"
+    date: 28-05-2009
+    user: http://mi.guiaoleo.com/members/5576
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buenos los rolls y la preparac\xEDon y presentaci\xF3n del pollo al wok. De los mejores lugares para comer sushi y con excelentes opciones para comer otras cosas"
+    date: 03-04-2009
+    user: http://mi.guiaoleo.com/members/5803
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Como siempre excelente los rolls, agradable el ambiente y la m\xFAsica. El servicio correcto."
+    date: 12-03-2009
+    user: http://mi.guiaoleo.com/members/25134
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Pulgares arriba: atenci\xF3n, ambiente, Pulgares abajo: muy corta la carta de vinos, pedi tres opciones y no tenian. Iluminaci\xF3n, quiz\xE1s tendrian que bajar un poco la iluminaci\xF3n en algunos sectores hay dicro\xEDcas muy potentes\r\n\
+      Excesivo precio en general."
+    date: 18-01-2009
+    user: http://mi.guiaoleo.com/members/42852
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Bastante rico el sabor del sushi, arroz en su punto, pescado fresco, bien logrado. Incluso hay unos rolls con guacamole que es picantito, ins\xF3lito, vale la pena probarlo. Los rolls me parecieron de tama\xF1o un poco grande, pero el resto aceptable. El sushi es de por s\xED un plato caro, en este caso el precio, por lo que es el lugar, me parece algo excesivo."
+    date: 22-12-2008
+    user: http://mi.guiaoleo.com/members/19604
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Fuimos con una amiga y pedimos sushi. Hay que destacar que tienen una carta distinta, con mas variedad que en otros lugares. Mi sensacion es que le dan mas atencion a la presentacion de los platos, que a la calidad de la comida. El sushi esta bien y las piezas son grandes, pero no es de los que mas me gusta.
+    date: 15-11-2008
+    user: http://mi.guiaoleo.com/members/17988
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Me parecio sucio el lugar, la atencion es mala, y es muy caro por lo que te dan...
+      No vuelvo...
+    date: 08-11-2008
+    user: http://mi.guiaoleo.com/members/15943
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Rico sushi, en especial los calientes, rebozados, crocantes y sequitos, por dentro fresco y por fuera calentitos!
+      Buena carta de vinos. Muy buena atencion, buena onda
+    date: 04-10-2008
+    user: http://mi.guiaoleo.com/members/39388
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo mejor es la atenci\xF3n (excepcional atenci\xF3n de los mozos!!!) y el sushi y sashimi lo mejor de Buenos Aires. La carta de vinos es muy buena y el ambiente optimo. (es la 3ra vez que vuelvo y volver\xE9 muchas veces m\xE1s) Desde ya que se lo recomiendo en primer lugar a cuan persona me pregunte por rest\xF3s de comida oriental en Buenos Aires."
+    date: 29-08-2008
+    user: http://mi.guiaoleo.com/members/35201
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente sushi, tanto en presentaci\xF3n como en sabor. Tambi\xE9n muy rico el risotto oriental. Los postres son deliciosos y muy bien presentados. La atenci\xF3n es muy amable y el lugar (suc Palermo) muy lindo tambi\xE9n."
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/38988
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos a festejar el aniversario de bodas con mi marido. La verdad es que nosotros somos de salir todos los fines de semana a cenar y de probar lugares nuevos para nosotros y sinceramente, este nos impact\xF3. El lugar es muy c\xE1lido. La atenci\xF3n es eficiente, muy cordial y r\xE1pida. Recomendamos el tempura de mar, ya que adem\xE1s de vistoso es muy sabroso. Tambien comimos fideos y arroz con camarones y salm\xF3n y nos llam\xF3 la atenci\xF3n la buena cantidad de estas carnes componiendo los platos. La mousse de chocolate... un placer. La relaci\xF3n calidad precio es completamente razonable. Sin duda, volveremos"
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/49825
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "fuimos con mi se\xF1ora a conocer la sucursal palermo ya que siempre habiamos comido en yokos pilar,y en una oportunidad en las ca\xF1itas,el sushi es superior al de los otros yokos, sin duda muy sabroso,al igual que el tempura de mar,la atencion fue muy calida y profesional, mucha diferencia con respecto alas otras sucursales,donde suele dejar mucho que desear,el postre rico,sin dudas una buena opcion en palermo, vendremos mas seguido, y solo una critica, porque tanta diferencia entre un yokos y otro, estaria bueno que los  tres fueran asi, sin dudas volveremos"
+    date: 13-08-2008
+    user: http://mi.guiaoleo.com/members/49303
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos a este lugar por primera vez y realmente nos gust\xF3 mucho.\r\n\
+      Toda la comida era de muy buena calidad.\r\n\
+      De entrada pedimos una tempura de mariscos, la cual era muy rica.\r\n\
+      Pedimos de platos principales un wok de salm\xF3n y camarones y sushi. Los dos eran exquisitas.\r\n\
+      De postre una mouse naranjas y chocolate, muy rica.\r\n\
+      Muy recomendable. Pensamos volver.\r\n\
+      mjuy reco"
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/30024
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida es buena...pero nada del otro mundo...El servicio fue bastante bueno, el mozo nos atendi\xF3 rapido y los platos tambien vinieron con mucha rapidez..el lugar es lindo, pero el PRECIO... la verdad no vuelvo, muy caro."
+    date: 26-06-2008
+    user: http://mi.guiaoleo.com/members/28202
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Lo realmente molesto fue que con el plato del tercer comensal tardaron hasta el borde de la  exasperacion
+      a punto de abandonar el lugar.
+      se resarcieron no cobrando el plato en cuestion,por la demora...
+    date: 30-05-2008
+    user: http://mi.guiaoleo.com/members/36907
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida, ped\xED un plato del men\xFA del Chef y nunca com\xED algo tan bien preparado, me hizo acordar a la pel\xEDcula Ratatouille (encima fui con mis hijos que tienen dificultades para comer y en cuanto lo probaron pidieron m\xE1s). El ambiente excelente, yo bajar\xEDa medio punto la m\xFAsica, pero realmente no incomoda. La atenci\xF3n muy buena, sin dudas volver\xE9."
+    date: 18-04-2008
+    user: http://mi.guiaoleo.com/members/42526
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Es la primera vez que voy a esta sucursal y me gusto mucho. Comimos una tabla de 100 piezas entre 4 personas. los rolls que vienen en la tabla son los mas clasicos, nada de miel, ni teryaki pero estaban muy buenos y ninguno de nosotros de quedo con hambre, no nos salio caro y eso que pedimos vinos.
+      el ambiente es muy lindo tb y el mzo nos atendio barbaro. seguro que vuelvo
+    date: 07-04-2008
+    user: http://mi.guiaoleo.com/members/41057
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es la segunda vez que vamos. La comida es excelente(Todav\xEDa no probamos sushi). Exquisitos los postres . Buena relaci\xF3n precio - calidad. Muy buena ambientaci\xF3nLugar muy descontracturado.\r\n\
+      Volver\xE9 a probar sushi y repetir \"Por amor al Dulce de Leche\""
+    date: 05-04-2008
+    user: http://mi.guiaoleo.com/members/43016
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "FRANCAMENTE PESIMO. Decir que el sushi parece de supermercado es quedarse corto: salmon sin sabor ni color, mal armado, nada fresco. Carta de vino y China Food pobrisimas. El servicio? Lentisimo, muy impersonal y completamente despreocupado. Ordenamos spring rolls, sushi y comida CHINA. Pero nos atendieron 5 mozos distintos a manera rotativa, y por eso esperamos 45 minutos para recibir los respectivos platos. Ninguno valio la pena. Lo peor: el ALTO costo que se paga, ya que me parece que la calidad de la materia prima que utilizan es baja."
+    date: 05-04-2008
+    user: http://mi.guiaoleo.com/members/22591
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la atenci\xF3n y predisposici\xF3n de los mozos. Las piezas de sushi son grandes. El ambiente, ideal. Sin dudas voy a volver."
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/6337
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Es un lugar con mucha onda pero lamentablemente la comida me pareci\xF3 mala. Pedimos una entrada combinada que result\xF3 hiper aceitosa (spring rolls, salmon tai y tempuras de verduras y langostinos). El pollo tipo teriyaki estaba DULCE (??) y el sushi, muy caro (60 piezas x $176) y no me gust\xF3. Encima el precio era para las piezas \"cl\xE1sicas\" (california, new york, nigiris, sashimi, etc.). Los mozos bien, l\xE1stima la comida, que repito, para entendidos, a mi manera de ver es realmente mala. Deben mejorar, espero que as\xED sea. En mi caso, voy a continuar con otras opciones. Saludos."
+    date: 06-03-2008
+    user: http://mi.guiaoleo.com/members/10480
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El sushi es aceptable. El ambiente agradable. El servicio un poco desordenado (nos atendieron tres mozos diferentes). Pedimos uno de los tres vinos rosados en carta y, lamentablemente, s\xF3lo les quedaba el m\xE1s caro (que fue cobrado a su precio). Gracias a un beneficio de una tarjeta, no result\xF3 tan caro para lo que fue."
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/36392
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Una grata sorpresa. Despues de haber probado muchos lugares nos decidimos por este que era uno de los que nos faltaba. Pedimos el combinado surtido de 50 piezas que resulto, ademas de tener una muy buena variedad, muy abundante y de muy buena calidad. Realmente recomendable, esperemos que no haya sido solo una casualidad...volveremos para comprobarlo
+    date: 25-01-2008
+    user: http://mi.guiaoleo.com/members/38927
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui con bastante expectativa seg\xFAn los comentarios de la guia, lo unico que me gusto fue la entrada (langostinos rebozados)pedimo comida china para probarla y la verdad que los dos platos estaban desastrozos, tanto de gusto, presentaci\xF3n. La recepcionista y los mozos estaban mas en la vereda charlando y fumando que atendiendo. Les pedias las cosas y se olvidaban, el Sushi no lo probe pero a simple vista eran enormes los rolls que la gente tenia que partirlos para comerlos. Por supuesto que no daba para probar los postres. "
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/30759
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fuimos a festejar otra ocasion especial con mi novia. La verdad que supero nuestras expectativas.. un lugar lindo, fuimos un lunes x la noche, por lo que estaba muy tranquilo. La atencion muy atenta y simpatica en todo momento. Los rolls estaban muy ricos; me encantaron los nihiris, con ese toquecito dulce que le dieron al condimentar el arroz. Una opcion recomendable para comer sushi.
+    date: 14-01-2008
+    user: http://mi.guiaoleo.com/members/31945
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      ambiente agradable, atencion muy buena , detalle importante hubo 15 minutos de diferencia entre el plato de mi mujer y el mio (que era sushi, supuestamente la especialidad) no x culpa del mozo.
+      no da comer fuera de tiempo. lastima ya que esta lindo el lugar. igual calculo q no debe ser siempre asi
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/38793
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "EXCELENTE!!! toda la comida super sabrosa, porciones abundantes y bien presentada.\r\n\
+      Me encant\xF3 el servicio, los mozos saben orientar sobre el pedido. Es totalmente SUPERIOR al de Ca\xF1itas. Voy a volver por el sushi. El mejor de Bs. As."
+    date: 10-01-2008
+    user: http://mi.guiaoleo.com/members/38022
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me encant\xF3 el lugar, muy bien ambientado y canchero sin ser fashion y artificial; muy buena atenci\xF3n de la moza que estaba informada de las opciones de la carta y estuvo muy amable y atenta. Me gust\xF3 el sushi, por ser s\xFAper fresco y abundante, tal vez con piezas levemente grandes en exceso, pero mejor que sobre y no que falte. Para tener en cuenta"
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: excelente lugar, atencion y comida, y volvere por el sushi, que lo preparan muy bien.
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente el servicio. Fui con una amiga extranjera quien pidi\xF3 si le pod\xEDan preparar una salsa que le pone en su pa\xEDs y aunque no existe estandarizada se la hicieron preparar. Excelnte y mucho mejor que el de Ca\xF1itas. \r\n"
+    date: 19-12-2007
+    user: http://mi.guiaoleo.com/members/19840
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Segunda vez que vamos. Muy bueno el sushi, rico y de buen tama\xF1o. Los otros platos que probamos, tambi\xE9n muy ricos. El servicio excelente. Es un poco caro, pero bueno."
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/5667
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buen sushi sobre todo los especiales. bien en la relacion precio/calidad.
+    date: 23-11-2007
+    user: http://mi.guiaoleo.com/members/21631
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente. El sushi inigualable, de tama\xF1o importante, y excelente calidad. Los platos son bien presentados aunque prefiero el sushi. La atenci\xF3n es excelente, es la segunda vez que voy y los mozos siempre nos asesoran muy bien sobre los platos de la carta, el vino excelente y el postre muy rico. Recomendadisimo, volver\xEDa a ir por tercera, cuarta, quinta vez.... etc. Precio y Calidad se corresponden perfectamente."
+    date: 12-11-2007
+    user: http://mi.guiaoleo.com/members/35164
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El sushi es excelente, si bien un tanto alejado de la tradici\xF3n japonesa. La atenci\xF3n esmerada, los mozos muy sol\xEDcitos, por momentos tal vez en deams\xEDa. La m\xFAsica adecuada al volumen adecuado. Un lugar b\xE1rbaro. "
+    date: 09-11-2007
+    user: http://mi.guiaoleo.com/members/19311
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: exelente, me sorprendio la calidad y proporciones de las piezas,sabrosas y ademas son abundantes en cuanto a la proporcion del producto, el lugar muy agradable, se recomienda si se quiere pasar una muy buena velada.
+    date: 08-11-2007
+    user: http://mi.guiaoleo.com/members/35029
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Buena opci\xF3n en Palermo Hollywood, donde abundan restaurantes pero la mayor\xEDa defraudan. Buen ambiente, muy buena m\xFAsica. Bien los rolls y niguiris. Agradecemos a Pablo su excelente atenci\xF3n y predisposici\xF3n para la recomendaci\xF3n de los platos. "
+    date: 31-10-2007
+    user: http://mi.guiaoleo.com/members/632
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Todo excelente. Realmente un lugar top! Ambiente excelente, la atencion excelente y la comida riquisima. Comimos el Sushi 1 que es un combinado de 30 pzs y pedimos mas tuna rolls, mi marido dijo que ni en New York comio tan buenos como esos. Es un poco caro, pero lo merece. Seguro para volver!
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/14216
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Recomiendo este restaurante que abri\xF3 hace dos meses en la zona de Palermo, muy buena la atenci\xF3n, muy acertadas las orientaciones del mozo respecto de platos y cantidades, muy linda la decoraci\xF3n, un lugar ideal para ir en pareja o con amigos. La copa de mascarpone con frutos del bosque deliciosa y excelente la presentaci\xF3n. El local es grande y amplio, las mesas bien puestas, muy lindos los ba\xF1os."
+    date: 13-10-2007
+    user: http://mi.guiaoleo.com/members/21769
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "En realidad el mejor lugar para ir a cenar con amigos. \r\n\
+      Un ambiente muy bien logrado. El mejor sushi de Buenos Aires, a la altura de los mejores del exterior. recomiendo como postre Altura de mascarpone. Vale la pena conocerlo y lo mejor no hay que esperar para sentarse. "
+    date: 25-09-2007
+    user: http://mi.guiaoleo.com/members/32926
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El sushi y el sashimi es excelente, lo mejor de este rest\xF3. Los platos principales orientales est\xE1n muy bien presentados y son buenos aunque no excelentes. \r\n\
+      Buena carta de vinos. El ambiente es bueno aunque un toque muy moderno y tiende a hacerte pensar si realmente estas en un restaurante de comida oriental."
+    date: 19-09-2007
+    user: http://mi.guiaoleo.com/members/35201
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena comida, aunque para ser excelente le faltar\xEDa un poco de variedad (solo un poco). El ambiente est\xE1 muy bueno desde la entrada hasta los ba\xF1os. Buena decoraci\xF3n y buen servicio. Los precios no son del todo caros (para comida asi\xE1tica). La comida, insisto, es muy buena y los platos (cosa extra\xF1a) bastante abundantes. Est\xE1 bien puesto para estar en Palermo Holl, ya que ven\xEDan poniendo basuras a m\xE1s no poder. Recomendable."
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/15305
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy acertadas las recomendaciones, excelente la comida, el lugar muy bien decorado, espacio amplio entre mesas y muy buena atenci\xF3n del mozo, ayudada en parte por la poca concurrencia de un lunes a la noche."
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/15021
+    ambiente_rank: excelente

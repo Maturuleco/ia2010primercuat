@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Hay una carta de vinos organicos de produccion propia de una gran calidad y variedad asi como el resto de los productos se destacan tambien por su excelente nivel.
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/78413
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El local es una casona blanca lindisima, a la cual, con un toque de amor frances le pusieron toda la onda para un restaurant. La comida nos pareci\xF3 increible! Vamos a volver por mas!"
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/71010
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Aunque yo lo conoc\xEDa como caf\xE9 para tomar una merienda y leer tranquilamente, todav\xEDa no pude disfrutar de sus cenas. Lo mejor del lugar es el local en s\xED, tranquilo, luminoso, lejos del efecto Palermo. El due\xF1o es amable, y si bien es cierto que todo es muy rico, siempre les falta algo."
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/78862
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un lugar especial, un poco alejado del circuito tradicional (a unas cuadras). El due\xF1o es un franc\xE9s muy simpatico y un tanto colgado. La comida es muy rica, fuimos 3-4 veces y siempre comimos cosas distintas y muy buenas. Pan de verdad como se come en Francia. La atenci\xF3n es un poco desorganizada, pero el due\xF1o es tan amable que es totalmente perdonable. Muy lindo lugar."
+    date: 03-03-2010
+    user: http://mi.guiaoleo.com/members/67669
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Comi pechuga de pollo al curry al horno extra seca acompa\xF1ada de un muy desabrido arroz pilaf (o persa). todo eso regado en un vino \"biodinamico\", me pareci\xF3 como tomar vinagre (importado)...\r\n\
+      si bien el lugar y la atenci\xF3n me parecieron muy buenos (toques como libros en las mesas, etc.), pero los precios que son un desproposito y la comida que es mal\xEDsima no acompa\xF1an..."
+    date: 02-03-2010
+    user: http://mi.guiaoleo.com/members/19028
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ya hemos estado, algo para criticar es la falta de algunos productos, como por ejemplo los jugos naturales. Adem\xE1s siempre falta algo de lo que est\xE1 en la pizarra."
+    date: 07-02-2010
+    user: http://mi.guiaoleo.com/members/76287
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui recomendado por mi cu\xF1ada y la verdad fue un hallazgo. El hecho de que el mismo due\xF1o, franc\xE9s bajado del avi\xF3n al que le cuesta hablar un poquito espa\xF1ol, sea tan amable prestando atenci\xF3n a cada uno de los detalles hace a la cena lo que deber\xEDa ser siempre en un restaurante, un momento inolvidable.M\xE1s all\xE1 de probar platos comunes con ingredientes comunes pero respetando tanto los puntos de cocci\xF3n como los productos org\xE1nicos, el lugar merece la pena ir si uno quiere ser bien atendido y tener una carta de vinos profesional, de nivel y un lugar acorde para disfrutarla."
+    date: 28-01-2010
+    user: http://mi.guiaoleo.com/members/10724
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "fui con 2 amigas, como no habia licuado de anana (que no es consumo responsable o algo asi) tomamos 1 vino organico recomendado por el due\xF1o. Era muy bueno! como nos vieron sin aguante nos ofrecieron (sin cargo) unos pancitos saborizados y una terrina de zanahoria buenisimos. Nos encanto el buen trato del frances y el tour que nos hizo. Sin dudas volveria para probar el desayuno con el pan de chocolate que vi anunciado en la pizarra."
+    date: 12-01-2010
+    user: http://mi.guiaoleo.com/members/23547
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Toda la comida y el vino es org\xE1nico. La creme brul\xE9e Fue sobresaliente. El propietario le dio la atenci\xF3n personal. Ya hemos regresado. El ambiente es como un caf\xE9 franc\xE9s."
+    date: 01-12-2009
+    user: http://mi.guiaoleo.com/members/73348
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ambiente relajado, sencillo pero muy acogedor.\r\n\
+      Atendido esmeradamente por su due\xF1o frances. Muy buena cocina elaborada con productos organicos de excelente calidad.\r\n\
+      Para volver mas de una vez."
+    date: 22-11-2009
+    user: http://mi.guiaoleo.com/members/43152
+    ambiente_rank: excelente

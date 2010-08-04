@@ -1,0 +1,259 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hace rato que no \xEDbamos, lamentablemente baj\xF3 la calidad de la comida, no es mala, pero es muy simple y sin sabores que la realcen, las porciones son abundantes. Es un lugar peque\xF1o, pero agradable, las mesas muy juntas. El mozo que nos asisti\xF3 muy atento y servicial."
+    date: 01-07-2010
+    user: http://mi.guiaoleo.com/members/34719
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Comenzando por el mozo, un amargo total y lent\xEDsimo. Entramos porque nos lo hab\xEDa recomendado un amigo (ahora ex) y el sal\xF3n estaba lleno. Ruidoso y mesas amontonadas. El pure de papas era color verdoso (una novedad, ja ja). El bife de chorizo estaba grasoso y no parec\xEDa ser bife de chorizo. Nunca m\xE1s volveremos."
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/17999
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Le pedi lasag\xF1as porque queria comer pastas con ricota,muzzarela, jamon y espinaca era lo que decia en el menu, me trajeron con acelga mal picada, y paleta horrible, ademas le pedi sin salsa roja solamente salsa blanca, la trajeron con la roja un desastre. Ademas tardan muchisimo mas de 50\" no voy mas....no lo recomiendo."
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/60839
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buen restaurant de barrio que sin lujos cumple con su cometido, el ambiente es peque\xF1o y las mesas muy proximas unas a otras.Volvere otra vez a probar las pastas que son su especialidad."
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/73276
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos un domingo. El salon estaba lleno. El ambiente sumamente ruidoso, con mesas muy amontonadas. El servicio realmente muy pobre, y los platos tardaron una enormidad en llegar a a la mesa. Ante nuestro reclamo, el mozo nos informo que el problema era que estaban preparando muchos pedidos para delivery. En cuanto a  lo principal: la comida; es buena pero sin descollar; sin sabores que la distingan especialmente. Restaurante recomendable solo para gente de la zona; y con suficiente paciencia para tolerar la excesiva demora en recibir la comida solicitada"
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: es un restaurant muy familiar ,acogedor,y con una muy buena atencion les recomiendo para ir en familia
+    date: 30-09-2009
+    user: http://mi.guiaoleo.com/members/69623
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar  familiar y c\xE1lido. Se come como si cocinara la nona. Recomendable."
+    date: 06-09-2009
+    user: http://mi.guiaoleo.com/members/68647
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Comida casera, buen servicio, es una buena opci\xF3n para el barrio."
+    date: 28-06-2009
+    user: http://mi.guiaoleo.com/members/19883
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9simo lugar, esperamos mas de 1hora para que nos traigan la comida y la trajeron fr\xEDa. Las mesas alrededor se quejaron todos, la mayor\xEDa en voz alta. El mozo muy poco cort\xE9s. \r\n\
+      El peor lugar al que fui a comer en mucho tiempo."
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/61844
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Toda la comida casera y hecha en el momento. Riquisimo todo!
+      Muy familiar. Recomiendo!
+    date: 02-11-2008
+    user: http://mi.guiaoleo.com/members/13584
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "Es un lugar tipico de barrio, nos sentamos afuera, muy agradable, pero adentro es ruidoso y con una decoraci\xF3n recargada. El mozo fue excelente, r\xE1pido y nos asesor\xF3 bien sobre las porciones, que son abundantes pero no para compartir.\r\n\
+      Buena relaci\xF3n precio-calidad. Recomendable para una cena sencilla."
+    date: 30-10-2008
+    user: http://mi.guiaoleo.com/members/24130
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la comida es uy buena, algunos platos abundantes, la atencion tambien es buena y los precios son acordes a los platos, la verdad que es recomendable, mi critica solamente es que las mesas estan un poco amontonadas.
+    date: 05-10-2008
+    user: http://mi.guiaoleo.com/members/33799
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar de barrio con comida muy b\xE1sica pero que no desentona con el precio. El lugar tiene una decoraci\xF3n acorde.La atenci\xF3n si bien no es mala parece de un restaurant de muchos a\xF1os."
+    date: 02-09-2008
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Pedimos rabas, buenas y una suprema Maryland que llego primero equivocado el tipo de suprema, luego cruda y luego seca con papas fritas comunes blandas y aceitosas. Los platos de pastas que vimos parecian buenos.Si van pidan pastas, y aunque el mozo parezca mudo y sordo, insistan.Escucha. Ambiente familiar.
+    date: 09-08-2008
+    user: http://mi.guiaoleo.com/members/23110
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui con mi novia y aunque tuve que esperar alrededor de 30 minutos, valio la pena. Buen servicio, buena comida y abundante, y buena relaci\xF3n precio calidad. Lo unico para criticar es que las mesas estan demasiado amontonadas. Realmente volver\xEDa!!!"
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/33597
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buen restaurant de barrio. Ideal para comer las pastas de la nona. La comida es bien casera y sabrosa. La atencion es correcta y el ambiente, tipico de cantina. Hay que tratar de ir los dias de semana, porque con mucha gente se complica la atencion.
+    date: 03-06-2008
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Hemos ido varias veces y los platos tienen altibajos. Las porciones son abundantes, pero no para compartir.
+      Preguntar por el plato del dia que no siempre te lo ofrece el mozo.
+    date: 22-05-2008
+    user: http://mi.guiaoleo.com/members/5210
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui el 9-03 a comer al mediodia para festehar el cumplea\xF1os de mi mama y realmente fue pesimo en gral el servicio.Mi mama pidio un pollo al oreganato, entre otros platos de cada uno de nosotros, pero despues d 1hora d espera aparecio el mozo con milanesas d carne al oreganato, porfiandonos que era de pollo, a pesar que no fue ese el pedido, frias y sin consultarnos con anterioridad si preferiamos eso o cambiar la opcion.Luego de las 3hs d espera en gral para los platos,x lo q fuimos comiendo d a tantos,le trajeron una \"torta\" para aliviar los animos,q termino siendo un budin d pan duro y viejo"
+    date: 18-04-2008
+    user: http://mi.guiaoleo.com/members/43564
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fui a este lugar despues de haber leido los comentarios del mismo, y coincido con la gente que le gusta el lugar y la comida, llegue temprano y habia pocos comensales, los platos pedidos llegaron muy rapido, abundantes y sabrosos!!, la atencion fue muy buena y el lugar sencillo pero muy bueno, volveria a ir, los precios no me resultaron caros para nada.
+    date: 07-03-2008
+    user: http://mi.guiaoleo.com/members/38403
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "la zona es excelente,el local es muy peque\xF1o,mesas muy juntas,imposible hablar,parece un comedor escolar,la comida es muy buena fresca,muy bien presentada,la gente es muy familiar,los mozos pertenecen a un museo,tal es asi,que ya se olvidan de la mitad de las cosas,esenciales como cubiertos,y cuando se lo recordas,se enojan.margaux volve te perdonamos.\r\n\
+      igual esta bueno,vaya temprano o espera en el banco de plaza de la puerta,hay vigilancia policial."
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Vivo a la vuelta y siempre pido para llevar por la calidad de la comida que es excelente y exquisita y siempre nos atienden bien cuando voy. Es un lugar chico familiar que se llena siempre y se destacan las pastas caseras y las milanesas. El precio es bajo en relacion a lo que ofrece para comer ahi o para llevar.
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/39416
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me lo hab\xEDan recomendado mucho, pero en realidad no es nada fuera de lo com\xFAn. Las pastas estuvieron bien. Hab\xEDa poca gente por ser 30 de diciembre, por lo que los platos salieron super r\xE1pido.\r\n\
+      Un restaurant tipo cantina para optar cuando uno no quiere quedarse en casa a comer. Relaci\xF3n precio/servicio coherente. Pobre la carta de vinos"
+    date: 30-12-2007
+    user: http://mi.guiaoleo.com/members/5515
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente comida y atencion, un poco ruidoso el lugar ya que las mesas estan demasiado juntas y es bastante chico pero la comida hace que todo eso resulte un detalle insignificante. Como siempre super recomendables las pastas, caseras y exquisitas.
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/36350
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos hoy domingo al mediod\xEDa con mi familia, somo cinco. Cada uno pidi\xF3 un plato distinto, incluso mi sobrina se pidi\xF3 unas brotolas que se las cocinaron especialmente. Esperamos un tiempo, pero el servicio vali\xF3 la pena. La comida exquisita, mucho sabor y porciones abundantes. El ambiente c\xE1lido y relajado. El mozo Diego correcto y m\xE1s que amable no dejo que nadie se quedar\xE1 sin comer lo que realmente tenia ganas. Hasta el lemoncello del final fue realmente muy grato. Diez Puntos. Felicitaciones. "
+    date: 11-11-2007
+    user: http://mi.guiaoleo.com/members/24141
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente relacion precio calidad. Muy buena atenci\xF3n. Preguntar por Diego. Es super amable. "
+    date: 07-11-2007
+    user: http://mi.guiaoleo.com/members/35361
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Cuando llegue hab\xEDa solo una mesa ocupada y tardaron mas de 15 minutos en atebderme.\r\n\
+      Las copas estaban todas manchadas y tuve que pedir que me las cambien asi como tambien los platos que estaban llenos de grasa, cuando desenrolle la servilleta adentro estaba llena de migas.\r\n\
+      Los agnolotis estaban buenos pero pedimos a la crema pero era pura salsa blanca sin gusto igual que los fucciles que los pedi a los 4 queso pero no tenian gusto ni siquiera a 1 queso. El flan mixto estaba muy rico. No lo recomiendo."
+    date: 28-10-2007
+    user: http://mi.guiaoleo.com/members/9360
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy abundantes las pastas. Y muy buenas. Te atienden r\xE1pido y tiene buen ambiente; para ir en familia."
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/35064
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Para un domingo al mediod\xEDa se presenta como un buen restaurante de barrio. Las pastas son realmente caseras, parecidas a las que se hacen a\xF9n en algunos hogares con tradici\xF2n \"tana\". Las salsas (qu\xE8 tema!) nom las acompa\xF1an debidamente, pero las porciones son abundantes y la relaci\xF2n precio/calidad muy buena. "
+    date: 23-09-2007
+    user: http://mi.guiaoleo.com/members/16130
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Somos habitu\xE9. La pasta casera es muy buena. Muy recomendable y el ambiente es familiar. "
+    date: 01-11-2006
+    user: http://mi.guiaoleo.com/members/13914
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es mediocre. La pasta es muy vulgar, nada llamativa. Eso s\xED, debo decir que repet\xED la acidez de la salsa  toda la tarde. \r\n\
+      Es para destacar la falta de higiene en el ba\xF1o y la cercan\xEDa de las mesas en el sal\xF3n (es reducido). No obstante esto te hacen esperar bastante. No volver\xEDa."
+    date: 29-10-2006
+    user: http://mi.guiaoleo.com/members/8127
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Pastas muy buenas y abundantes, entradas simples pero ricas. Suele ser dificil conseguir mesa en horario pico.
+    date: 28-10-2006
+    user: http://mi.guiaoleo.com/members/3479
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fui porque lei los comentarios y me parecieron interesantes, pero a mi no me pareci\xF3 tan buena la comida.\r\n\
+      Sin embargo, el ambiente y el servicio est\xE1n bien y los platos son para compartir."
+    date: 25-10-2006
+    user: http://mi.guiaoleo.com/members/13016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Para empezar, no nos respetaron la reserva efectuada y nos acomodaron finalmente en dos mesas muy inc\xF3modas. \r\n\
+      Los sorrentinos eran buenos, pero la salsa ten\xEDa un poco de aceite de m\xE1s. \r\n\
+      La milanesa, espero que haya sido de vaca, porque era inidentificable. Adem\xE1s todo ven\xEDa acompa\xF1ado por pur\xE9 y en la carta no dec\xEDa nada. No vuelvo."
+    date: 15-10-2006
+    user: http://mi.guiaoleo.com/members/12985
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Simplemente excelente. La calidad de una buena pasta en un ambiente c\xE1lido y una atenci\xF3n de primera en un barrio tranquilo. Ya al llegar uno est\xE1 completamente desenchufado y listo para saborear una buena pasta italiana."
+    date: 18-09-2006
+    user: http://mi.guiaoleo.com/members/10596
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n y comida."
+    date: 26-07-2006
+    user: http://mi.guiaoleo.com/members/10563
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Riqu\xEDsimas las pastas con sus salsas. Atenci\xF3n b\xE1rbara. Lo \xFAnico malo para destacar es que tardan mucho en salir los platos, hay que ir con tiempo y sin apuros para disfrutar. \r\n\
+      Genial para ir en familia, los platos son bien para compartir."
+    date: 21-06-2006
+    user: http://mi.guiaoleo.com/members/10547
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Comida casera y muy rica.
+      Buenos precios y ambiente agradable, lo recomiendo.
+    date: 25-04-2006
+    user: http://mi.guiaoleo.com/members/7963
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Platos ricos y abundantes. La atenci\xF3n es buena. El ambiente es un poco ruidoso porque hay muchas mesas y poco lugar, pero lo hace m\xE1s familiar. \r\n\
+      Es muy econ\xF3mico."
+    date: 06-04-2006
+    user: http://mi.guiaoleo.com/members/1124
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy ricas las pastas, se nota muy buena mano en la persona que las prepara, mis felicitaciones, ojala siga por mucho tiempo en ese lugar.
+    date: 15-12-2005
+    user: http://mi.guiaoleo.com/members/5349
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida y muy buena atenci\xF3n."
+    date: 16-09-2005
+    user: http://mi.guiaoleo.com/members/4155
+    ambiente_rank: muy bueno

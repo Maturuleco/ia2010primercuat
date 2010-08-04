@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Luego de tomado el pedido la comida llego tras 1.15Hs de espera y el restoran estaba con menos del 50% de ocupaci\xF3n."
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/78440
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: La calidad del chivito es buena, pero el pan es netamente distinto al tradicional chivito que compras en uruguay. Se deshace y no tiene ese leve tostado.
+    date: 23-05-2010
+    user: http://mi.guiaoleo.com/members/82373
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "lugar acogedor, buena iluminaci\xF3n, pude ir con mi beba y no hubo inconvenientes tenian sillita y muy buena predisposici\xF3n de los mozos."
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/82482
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "un buen lugar, para los que vivimos en Devoto,buenos precios y excelente atenci\xF3n. Pocos vinos para elegir"
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/66572
+    ambiente_rank: muy bueno

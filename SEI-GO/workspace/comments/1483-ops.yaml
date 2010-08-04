@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "Una buena opci\xF3n para el almuerzo en el centro. Tiene un acertado men\xFA a buen precio, la atenci\xF3n es excelente y el ambiente muy lindo."
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/47331
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Recomiendo el lugar para un almuerzo de Negocios.  La comida es muy buena, la atenci\xF3n es excelente.  Rapidez en servir los platos"
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/61754
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es una muy buena opci\xF3n para comer al mediod\xEDa. Llegamos y nos atendieron enseguida. Voy a volver."
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/49699
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buenas opciones de men\xFA econ\xF3mico de mediod\xEDa: comida rica y un lugar tradicional muy agradable para un almuerzo placentero"
+    date: 25-09-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Sigue siendo una buena opci\xF3n para comer al mediod\xEDa. La calidad de la comida es muy buena, las porciones no son gigantes (pero es perfecta para el mediod\xEDa laboral) y los precios acordes a la media de la zona. A mejorar: los mozos las \xFAltimas veces estuvieron un poco desatentos en cuanto a tiempo de atenci\xF3n, tard\xF3 lo mismo la cuenta que el plato principal!"
+    date: 07-08-2008
+    user: http://mi.guiaoleo.com/members/38846
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buen ambiente y comida. Porciones algo escasas. Los platos llegan con rapidez. Ideal para almuerzos en zona centro.
+    date: 17-07-2008
+    user: http://mi.guiaoleo.com/members/47850
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es muy lindo, hay un menu al mediodia con entrada, plato postre y bebida por $21. Muy bajo nivel de ruido, lo cual en la zona es espectacular. Porciones chicas. Lo sobresaliente: el pan casero que sirven es INCREIBLE! "
+    date: 27-06-2007
+    user: http://mi.guiaoleo.com/members/16340
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buenas opciones para elegir en los men\xFA de mediod\xEDa. Se puede optar entre entrada o postre. Muy recomendable para almorzar en el centro."
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/23470
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un buen lugar para almorzar en una jornada laboral, la comida es buena pero un poco escasas las porciones raz\xF3n por la cual se ofrecen entradas en el men\xFA (recomiendo las berenjenas rellenas).\r\n\
+      El servicio es bueno y atienden con rapidez; el ambiente est\xE1 bueno: poco ruido y mesas espaciadas \r\n\
+      Lugar recomendable."
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/10904
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui a almorzar con un amigo. Si bien est\xE1n preparados al mediod\xEDa con men\xFAs ejecutivos, y que no tardan casi nada, las porciones son un poco chicas... la ensalada estaba mas o menos, con tomates en rodajas y no cherry. Los ravioles, bien. La atenci\xF3n, discreta."
+    date: 25-03-2007
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno

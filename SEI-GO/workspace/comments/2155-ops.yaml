@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Como dice su propietario: \"una comida entre dos panes\"."
+    date: 06-06-2006
+    user: http://mi.guiaoleo.com/members/9128
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 el lugar, el anfitri\xF3n es muy atento, com\xED muy bien."
+    date: 01-01-2006
+    user: http://mi.guiaoleo.com/members/5826
+    ambiente_rank: muy bueno

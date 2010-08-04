@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "En la busqueda de un bolich\xF3n donde comer bien, ca\xED aqu\xED. Desastre total: al mozo le llev\xF3 tres intentos  traer la bebida correcta a la mesa. Cuando lleg\xF3 la comida, el chorizo estaba crudo, la morcilla era de la peor calidad, la carne del bife era buena pero estaba fr\xEDo. Pedimos calentarlo y volvi\xF3 aun m\xE1s fr\xEDo. Consejo sano: No se acerquen ni a 100 metros a la redonda."
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/12667
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Se come muy rico asado, papas fritas y rabas,la atenci\xF3n es buena y correcta, voy a volver ya que se come muy bien."
+    date: 22-07-2008
+    user: http://mi.guiaoleo.com/members/2075
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El mozo que nos atendi\xF2 trajo todos los pedidos err\xF2neos. La carne estaba quemada, las mollejas tambien y el pollo era incomible.  El pan era de tres dias atr\xE0s. Las pastas (sorrentinos) estaban agrias y no estaban cocidas.  El postre que fu\xE8 un panqueque de manzana ten\xECa gusto a rabas agrio y tambien quemado x demas.  Los manteles estaban muy sucios y fue excesiva la cuenta final."
+    date: 11-04-2008
+    user: http://mi.guiaoleo.com/members/44059
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: En un ambiente tranquilo lejos de todo el transito te sirven una muy buena calidad de carne con precios muy accesibles.
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/41169
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un bodeg\xF3n de barrio para ir con un grupo de amigos y pasarla bien. Buena la atenci\xF3n. \r\n\
+      Bien por la provoleta, las papas fritas a la provenzal y el asado."
+    date: 29-11-2007
+    user: http://mi.guiaoleo.com/members/23135
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: A los que les gusta el ambiente y atencion top, este no es su lugar, pero a los q les gusta comer bueno este es vuestro lugar, exelente precio/calidad, buenas porciones, muy buen bolichon!!!!
+    date: 01-10-2007
+    user: http://mi.guiaoleo.com/members/33789
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar agradable con un gran equilibrio entre precio-calidad y atenci\xF3n.\r\n\
+      Buen precio y variedad en vinos. "
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/31005
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Soy de la zona y cuando decidimos salir a comer en familia nos resulta un lugar c\xF3modo, bien de barrio y bien atendidos. Sin demora o por lo menos no m\xE1s de lo razonable a\xFAn teniendo en cuenta un horario pico. Es agradable, sin demasiado lujo pero seguro, un cl\xE1sico porte\xF1o que no miente. "
+    date: 04-06-2007
+    user: http://mi.guiaoleo.com/members/23614
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lo mejor fue la provoleta. La entra\xF1a ni buena ni mala, com\xFAn. Las fritas bastante ricas. Los chinchulines eran rar\xEDsimos, estaban en el punto justo pero no ten\xEDan gusto a nada y me refiero a nada. Un tema aparte es la atenci\xF3n, un desastre, muy mala onda los mozos. Nos quisieron pasar con el vuelto, ya se lo hab\xEDan agarrado como propina y lo trajeron de mala gana despu\xE9s que se lo pedimos dos veces. Una cosa ins\xF3lita para una parrilla: no tienen vac\xEDo. En definitiva, como la mayor\xEDa de las parrillas medio pelo es cuesti\xF3n de suerte lo que te toca. "
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/22775
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Como que me lo recomend\xF3 mi abuelo, no paro de recomendarlo. Festej\xE9 mi cumple con veintiseis personas. Cuanto m\xE1s voy, m\xE1s me convenzo que es excelente. "
+    date: 28-11-2006
+    user: http://mi.guiaoleo.com/members/13881
+    ambiente_rank: muy bueno

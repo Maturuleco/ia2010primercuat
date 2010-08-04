@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      la pizza esta muy buena, recomiendo una que es fugazzeta con longaniza. Muy buena para ser acompaniada por una cerveza bien fria.
+      Las pastas tambien son ricas y abundantes. Prueben 
+      la principe di napoli para unos ravioles.
+    date: 19-02-2010
+    user: http://mi.guiaoleo.com/members/32454
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Trabajo cerca, en a\xF1o y medio debo de haber almorzado unas 20 veces, en 3 oportunidades (la ultima el 3/4) termine con una gastroenteritis importante. Esta ultima vez fuimos 3 los afectados.\r\n\
+      No lo recomiendo de ninguna forma, es mas , alejense en lo posible"
+    date: 03-04-2009
+    user: http://mi.guiaoleo.com/members/60729
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Riquisima la pizza, tanto servida en el lugar, como en casa, siempre pido delivery y la verdad nunca defrauda.Una de las mejores pizzas al metro en flores.
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/44625
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Para delivery muy bueno y para comer en el lugar la comida es rica y economica
+    date: 18-07-2008
+    user: http://mi.guiaoleo.com/members/12375
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El chivito estuvo bien. No prob\xE9 otros platos (minutas principalmente). La pizza regular. Falt\xF3 sal y la salsa estaba \xE1cida."
+    date: 01-04-2008
+    user: http://mi.guiaoleo.com/members/43050
+    ambiente_rank: bueno

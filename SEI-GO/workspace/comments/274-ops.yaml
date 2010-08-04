@@ -1,0 +1,433 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un desastre. Fuimos en dos d\xEDas a el d Capital y al de Lanus. Tardaron m\xE1s 30"
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar para imaginar el Buenos Aires de principios del siglo pasado. Hermosos vitraux, columnas y cielorrasos trabajados y dorados, boisserie con diferentes clases de maderas, pisos de mosaicos, todo muy bien mantenido y digno de admirarse.Hab\xEDa poca gente (llegamos 20:30 hs.) pero el lugar era bastante ruidoso. Fuimos diligentemente atendidos por V\xEDctor, compartimos con mi sra. una entrada y un principal, ambos muy buenos aunque la tortilla estaba algo sobrecocida, buena tambi\xE9n la carta de vinos.Recomendable especialmente por el entorno.Volveremos!! Estacionamiento a 1/2 cuadra."
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/56068
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es hermoso. El salmon rosado Martin carrera lo recomiendo, es excelente. La atencion de los mozos es inmejorable!! El servicio de te es super abundante, como para comer entre 4 personas. 100% recomendable!!!!
+    date: 17-01-2010
+    user: http://mi.guiaoleo.com/members/74273
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hermoso lugar para desayunar y disfrutar una buena confiteria. Algo muy tradicional en Buenos Aires cuyo punto ms alto es el ambiente arquitectonico.  Los mozos, los tipicos de las confiterias porte\xF1as."
+    date: 25-10-2009
+    user: http://mi.guiaoleo.com/members/67008
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy rica la comida y muy abundantes los platos la atenci\xF3n fue muy amable, el ambiente del pasado como tambi\xE9n la gente que lo frecuenta."
+    date: 13-10-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Confiteria tradicional de buenos aires.probamos el TE MARIA CALAS,compuesto por una bandeja que trae mas cantidad de cosas dulces que saladas,porciones de tartas dulces y tortas. Lo salado,que era lo que mas nos interesaba, bastante pobre, en cuanto a que los mini sandwiches de jamon y queso no eran sabrosos y bastante secos, sin aderezo, lo mismo con el chip y fosforitos.tuvimos que agregar un cafe, ya que esta bandeja solo trae uno.La atencion del mozo, mala, lentisima, nos llamo la atencion lo incomodo de las sillas .Tienen que mejorar lo salado y la atencion.
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/66691
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Lo unico recomendable del lugar es la arquitectura. La bandeja fue grande pero la calidad mediocre y pese a costar A$57 nos cobraron $11 pesos por un cafe que creiamos incluido. Cuando le preguntamos al mozo nos contesto con una insolencia increible.
+    date: 01-10-2009
+    user: http://mi.guiaoleo.com/members/68999
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "El lugar es precioso. Amerita llevar un turista o un  for\xE1neo si est\xE1n por la zona. Tiene el esplendor de ciertas confiterias de anta\xF1o y est\xE1 muy bien preservado. La atenci\xF3n es profesional. La comida...impersonal. No es mala, pero tampoco dice demasiado. Quiz\xE1 es m\xE1s para tomar un caf\xE9. Las mesas bien servidas y separadas."
+    date: 09-09-2009
+    user: http://mi.guiaoleo.com/members/23812
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es excelente por su arquitectura y los vitrox lo hacen remontar a uno a tiempos de anta\xF1o,pedimos el te maria calas y entre 2 no logramos terminarlo. no es economico,pero es a uno de esos lugares que si o si uno una vez tiene que ir. una recomendacion si piden el te a la trde es mejor realizarlo entre las 17.30 hasta las 20, porque las bandejas son mas grandes y con mas variedad de cosas"
+    date: 02-09-2009
+    user: http://mi.guiaoleo.com/members/34068
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      fuimos a la tarde, teniamos reserva pero al llegar aun no estabamos todos, por lo cual no nos dejaron pasar hasta ser el 80% de los que reservamos. es un lugar increible realmente admirable como esta, pero dependera de cada uno darle a eso la importancia que tiene. no yo la pase mal, lo que comi estaba muy rico, pero nada del otro mundo sinceramente en absoluto.
+      los mozos atienden bien pero existen en el lugar costumbres algo chocantes, que dependiendo de la edad y las costumbres se hacen sentir. yo no creo que vulve pero esta bueno para conocerlo, nada mas. los precios no son medio altos
+    date: 15-07-2009
+    user: http://mi.guiaoleo.com/members/36058
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fuimos a tomar caf\xE8 y apreciar la arquitectura y decoraci\xF2n, que a pesar de los a\xF1os, algunas cosas permanecen intactas. Es verdad que al entrar nos remonta al Bs.As. de principios del siglo pasado,Un lugar lleno de historia que no debemos dejar de conocer."
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/24928
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El lugar es excelente , pero extremadamente caro para comer. Lo que si es economico es ir a tomar el te que viene con muchisimas cosas y es para compartir con 4 personas.
+    date: 12-05-2009
+    user: http://mi.guiaoleo.com/members/4274
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Mi queja principal se basa principalmente en la p\xE9sima tenci\xF3n de el mozo que nos toc\xF3 (quiz\xE1s los dem\xE1s no sean como \xE9l).Fui a la hora de t\xE9 con mi pareja y tardaron mucho en antendernos. Luego, cuando le hicimos una consulta con respecto al men\xFA nos contest\xF3 ir\xF3nicamente y en tono de burla. Pedimos el cl\xE1sico sandwich de pavita pero no nos pareci\xF3 gran cosa.\r\n\
+      Lo m\xE1s rescatable de la velada, sin dudas, es el lugar de por s\xED. Un monumento."
+    date: 14-03-2009
+    user: http://mi.guiaoleo.com/members/27926
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Es una experiencia gastronomica distinta porque , en este caso, el lugar y el ambiente tienen un peso relativo altisimo en la evaluacion. Impecable y con historia, cuantos lugares asi hay en BsAs? Hay que ir. La atencion es correcta y la comida de restaurant tambien, Sin estridencias pero buena y ademas a aun orecio mas que razonable.La comida de confiteria es muy buena con algunos caso, como los sandwiches de excelencia.Hay que ir, al menos de tanto en tanto.
+    date: 10-12-2008
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: hacen las mejores sandwiches de miga de Bs As... nunca me sente a tomar algo en el lugar pero siempre voy a comprar los sandwiches, la miga de palmitos es lo mejor!
+    date: 06-11-2008
+    user: http://mi.guiaoleo.com/members/44282
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es unico x su arquitectura y decoracion (uno de los bares de Bs As que hay que ir por lo menos una vez). Pedimos un desayuno super completo (llamado Maria Calas)y todo era muy fresco. Como fue demasiado para 2 personas nos llevamos lo que sobr\xF3. El servicio fue correcto(ni pesado ni super amable). Muy recomendable y para el disfrute de los ojos"
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/5210
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Muy lleno. Nos atendieron mal. Feas las tortas. Fea presenatcion. Tuvimos que esperar mucho tiempo.
+    date: 07-09-2008
+    user: http://mi.guiaoleo.com/members/51541
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "\xBFQu\xE9 decir de una confiter\xEDa de exquisita decoraci\xF3n de vitraux y m\xE1rmol de carrara que, aun redecorada, mantiene su esencia de 1884? \xBFQu\xE9 decir del trato amabil\xEDsimo de sus mozos de punta en blanco, tan notables y tradicionales como el bar? (Walter y H\xE9ctor, dos exponentes de excelencia gastron\xF3mica y de calidez humana). \xBFY qu\xE9 opinar de sus desayunos con masas y especialidades finas? \xBFY de sus tortas \"Leguizamo\" y sus t\xE9s arom\xE1ticos? Perd\xF3n por lo encomi\xE1stica de mi cr\xEDtica, pero no puedo sino quitarme el sombrero ante este maravilloso y acogedor bar que nos retrotrae a la Bs. As. de 1900."
+    date: 31-08-2008
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar es maravilloso y por eso da mas l\xE1stima el nivel de comida que presenta. No se como el cocinero pudo hacer un cordero tan duro e incomible."
+    date: 29-08-2008
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atencion es tan mala y el lugar tan ruidoso que el resto se desdibuja. No permiten tomar una mesa de 4 hasta que al menos 3 de los comensales hayan llegado. Asi que te hacen esperar afuera, en el frio, hasta que llegan. \r\n\
+      No podes elegir donde sentarte, te lo indican.\r\n\
+      \r\n\
+      Costando las meriendas completas casi 40 pesos, no me parece recibir un trato de un bodeg\xF3n de 5,50 pesos la merienda."
+    date: 28-06-2008
+    user: http://mi.guiaoleo.com/members/46969
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar lleno de historia y tradici\xF3n. Los t\xE9s son increibles muy bien servidos y abundantes, vale la pena conocerlo y volver a ir."
+    date: 10-06-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      El servicio de te es excelente, todo bien fresco. En cuanto al restaurante no es tan recomendable, precios elevados y la calidad es regular. De todos modos, si se va a cenar o almorzar siempre pedir los platos mas sencillos.
+      La picada bajo su nivel.
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/7652
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fuimos a tomar el cafe a la tarde. El lugar ya de por si es excelente, el cafe era bueno y el servicio de t\xE9 bien completo y en hebras!!!. Las masas que pedi para acompa\xF1ar de lo frescas que eran se derretian en la boca y por supuesto a la salida me fui con el paquetito de la pasteler\xEDa. MUY RECOMENDABLE VOY CADA VEZ QUE PUEDO"
+    date: 23-03-2008
+    user: http://mi.guiaoleo.com/members/23479
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Comparto en familia todos los a\xF1os el aalnuerzo de Viernes Santa y jamas fui defraudado. Altamente recomendable"
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/2881
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pedimos una bandeja para acompa\xF1ar el t\xE9. Tra\xEDa unos imperdibles sanguchitos de miga, chips, variedad de tortas y tartas dulces y masas secas y finas. Todo de una calidad solo encontrada en esa confiter\xEDa. La atenci\xF3n fue buena y el lugar es realmente hermoso. No se pierdan las ara\xF1as y los vitreaux."
+    date: 11-03-2008
+    user: http://mi.guiaoleo.com/members/31386
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Muy lindo el ambiente y la decoraci\xF3n pero no para ir a almorzar. Comida regular y servicio lento, para tomar el t\xE9 est\xE1 bien."
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/5301
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: |-
+      Muy recomendable para ir a tomar un cafe por la tarde. Recomiendo la torta de mousse de chocolate MUY RICA, y el cafe: espectacular.
+      La atencion de los mozos bastante mala. 
+      Hay aire acondicionado y traen rapido la comida.
+      Lo malo: hay demasiadas mesas juntas, por lo que a veces resta privacidad.
+    date: 18-02-2008
+    user: http://mi.guiaoleo.com/members/40688
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Muy lindos vitrales, tiene un ambiente antiguo y formal, adecuado al tipo de cliente que lo frecuenta. Los sandwiches y tortas estuvieron buenos, los jugos bastante caros (13 pesos y no todos son naturales). La atencion fue regular, el mozo no era atento y preferia estar conversando en la barra antes que circulando entre las mesas. Un detalle a corregir urgente es la limpieza de los ba\xF1os (en el 1er piso, sin aire acondicionado): siendo un sabado en la tarde estaban impresentables, no se podian usar de lo sucios que estaban."
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/5971
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Considero que se paga m\xE1s por la fama que por el servicio que ofrecen, el lugar es muy caluroso y ruidoso Adem\xE1s el servicio es muy lento. Solo lo recomiendo para ir con mucho tiempo a tomar el t\xE9 de la tarde."
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Es un lugar muy lindo que se presta tanto para una ocasi\xF3n especial como para darse un gusto! Me parece ideal para festejar un cumple o aniversario con una rica merienda. Lo recomiendo!"
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/49374
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Este es un lugar que vale la pena visitar por su historia y ambiente, lo que ofrece es normal en cuanto a su atenci\xF3n y calidad, pero hay que tomar en cuenta que normalmente est\xE1 lleno, por lo que es recomendable reservar previamente o llegar ant\xE9s de las horas pico. Sitio emblem\xE1tico de Buenos Aires muy recomendable para llevar visitantes  del exterior, seguro que les encantar\xE1!!!"
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "que agradable ambiente el de las violetas. Tan cl\xE1sico, tan lindo. Todo es muy fresco y de buena calidad, no escatiman en ingredientes y en productos de calidad en los platos"
+    date: 08-01-2008
+    user: http://mi.guiaoleo.com/members/16223
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      Definitivamente no es un lugar para ir a almorzar o cenar. La atencion no es del todo buena. Lo recomiendo para meriendas o almuerzos del tipo de cafeteria con exquisitos sandwiches de miga (los recomendados: los de pavita y palmitos y los capresse).
+      Para una merienda en grupo sugiero la bandeja "Maria Cala" que trae una variedad de tortas, masitas, facturas y sandwiches para compartir.
+    date: 31-12-2007
+    user: http://mi.guiaoleo.com/members/37034
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar para ir a tomar el te a la inglesa, el ambiente es buenisimo, tiene una hermosa decoraci\xF3n, la atenci\xF3n es de primera y las porciones son abundantes"
+    date: 23-12-2007
+    user: http://mi.guiaoleo.com/members/29598
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: clasico de la zona, hermosos vitros, mucha gente siempre, la parte para cenar parece tranquila, pero el te y el almuerzo a full, por eso creo el servicio es medio bajo, la comida clasica y buena y el ambiente eterno!!!
+    date: 21-11-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Que decir de este clasico!Es un placer visitar este lugar y disfrutar de un te con amigos, acompa\xF1ado de la infinidad de exquisiteces que ofrecen. Bien por Las Violetas que no solo recobro su fisonomia, sino tambien un publico que los visita incondicionalmente!"
+    date: 08-11-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un cl\xE1sico."
+    date: 30-10-2007
+    user: http://mi.guiaoleo.com/members/5952
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: excelente el servicio fui por el dia de la madre y realmente lo recomiendo
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/32600
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Ideal para ir a merendar, tienen un vitreaux espectacular y el edificio te transporta a la belle epoque.
+    date: 05-09-2007
+    user: http://mi.guiaoleo.com/members/5706
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Las Violetas es un lugar ideal para ir a tomar el t\xE9. Esa es mas que nada su especialidad y por la que pueden responder sin duda. Lo recomiendo ampliamente para ir a la tarde."
+    date: 02-08-2007
+    user: http://mi.guiaoleo.com/members/16892
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Esta es la segunda vez que voy a las violetas y definitivamente ir un sabado y a la tarde fue la peor eleccion. Mas alla de que es complicado conseguir lugar (y de esto no culpo al lugar) la atencion no es del todo buena. Tardan mucho en tomar el pedido y mas en traerlo. Igual por esto no deja de ser uno de los lugares OBLIGADOS a ir en Buenos Aires
+    date: 05-05-2007
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "No voy a comentar sobre la belleza arquitect\xF3nica del lugar, si no por cuanto nos defraud\xF3 la comida. La trucha deb\xEDa estar congelada hac\xEDa meses, las verduras que la acompa\xF1aban era de lata, la merluza zafaba, pero las papas fritas eran recalentadas de microondas.\r\n\
+      \r\n\
+      Y ni hablar del vino blanco pedido. Primero el que trajo el mozo, era del a\xF1o 2000, y obviamente estaba picado al probarlo. El segundo que trajo era 2003, un poco mejor, pero no lo ideal. Ah, mientras esper\xE1bamos la comida, trajo un platito con Tostis y una especie de queso crema. Se notaba que el platillo habia sido preparado hacia mucho, porque ya las tosties estaban gomosas por el queso.\r\n\
+      \r\n\
+      Realmente, el lugar no vale la pena para comer, s\xF3lo lo recomiendo para ir a tomar un caf\xE9."
+    date: 10-04-2007
+    user: http://mi.guiaoleo.com/members/21380
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente y familiar lugar para cualquier tipo de evento por la accesibilidad y ambiente.
+    date: 06-04-2007
+    user: http://mi.guiaoleo.com/members/2881
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos a media ma\xF1ana y nos encant\xF3. La bandeja \"Mar\xEDa Calla\" es descomunal, tiene bud\xEDn, tortas, masas, tostadas, tostados, sandwiches, pan dulce, etc. Da para 4 pero \xE9ramos 2, as\xED que nos llevamos lo que sobr\xF3 sin ning\xFAn inconveniente, empaquetado y con bolsa. La calidad de las infusiones es maravillosa y los sandwiches de miga se te deshacen en la boca. El precio de las bandejas es muy bueno en relaci\xF3n con la cantidad y la calidad."
+    date: 01-04-2007
+    user: http://mi.guiaoleo.com/members/10186
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Para San Valent\xEDn optamos por algo tranquilo. \r\n\
+      Por conveniencia f\xEDsica decidimos ir al siempre bienvenido Las Violetas. Para agasajar a los comensales sirvieron un trago especial muy apetitoso que conten\xEDa tequila, jugo de kiwi, de naranja y otro ingrediente que no recuerdo junto con unas tostadas y queso untable.\r\n\
+      El lugar ese d\xEDa estaba lleno al ochenta porciento, si bien no es excusa, a eso le adjudico la demora de los mozos. \r\n\
+      La comida es excelente. La carne que se deshac\xEDa en la boca y con un sabor estupendo. El pollo ten\xEDa una salsa de crema perfectamente condimentada y especiada. \r\n\
+      De mis salidas, de las mejores, sino la mejor que he disfrutado. \r\n\
+      El precio es bastante razonable, rondando el plato en los 20/25 pesos, la calidad los amerita. Recomendable. Muy recomendable.\r\n\
+      Como detalle, el lugar es reconocido por sus meriendas abundantes y deliciosas."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/16850
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelentes desayunos y meriendas. Un lugar fant\xE1stico en Buenos Aires. Bandejas completas, desde salado hasta dulce; acompa\xF1ado por caf\xE9, chocolate y dem\xE1s placeres. Por historia, presente y creo futuro es imperdible. "
+    date: 22-01-2007
+    user: http://mi.guiaoleo.com/members/15501
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar, \xFAltimamente se llena de extranjeros. Vivo cerca y est\xE1 siempre con gente. La atenci\xF3n es esmerada, as\xED tomes un caf\xE9 o cenes. Recomendable para el t\xE9 o con amigas."
+    date: 21-01-2007
+    user: http://mi.guiaoleo.com/members/16651
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Las Violetas nunca nos defrauda, m\xE1s bien todo lo contrario. D\xEDa a d\xEDa nos sorprende por su calidad. \r\n\
+      Fuimos con amigos extranjeros a pasar el fin de a\xF1o y tanto el servicio como la comida fueron buenos, con un timing calibrado y abundante. \r\n\
+      Vale lo que cuesta."
+    date: 31-12-2006
+    user: http://mi.guiaoleo.com/members/15297
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es sin dudas bell\xEDsimo. \r\n\
+      La atenci\xF3n es impecable. S\xF3lo lamento tener que dejar de ir porque el ba\xF1o de damas est\xE1 en primer piso, por una angosta escalera. \r\n\
+      Es llamativo que con la cantidad de parroquianas de avanzada edad que tiene este lugar no cuenten con ba\xF1os de m\xE1s f\xE1cil acceso."
+    date: 15-12-2006
+    user: http://mi.guiaoleo.com/members/17085
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El sal\xF3n es una belleza, uno se siente en el crucero del amor.\r\n\
+      Los sandwiches y las tortas son muy buenas. La copa Leguizamo mide alrededor de cincuenta cent\xEDmetros de altura y tiene de todo. Hasta le sacamos una foto con el celular.\r\n\
+      L\xE1stima que la calidad del helado es mediocre, por eso y s\xF3lo por eso la comida es s\xF3lo buena. \r\n\
+      Recomiendo todo lo que hacen, menos aquellos postres que llevan helado."
+    date: 11-12-2006
+    user: http://mi.guiaoleo.com/members/16053
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "O lugar \xE9 deslumbrante, j\xE1 vale a visita. De longe, \xE9 a mais linda confeitaria que visitei. Gostei do atendimento, a torta (como a maioria das tortas e bolos que eu comi na cidade) \xE9 um peda\xE7o gigantesco, mas muito saborosa, e o mousse de chocolate, o melhor que comi na vida."
+    date: 26-11-2006
+    user: http://mi.guiaoleo.com/members/13812
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Viendo llegar la bandeja del t\xE9 \"Mar\xEDa Cala\", quedamos empachados. El servicio es abundante y de calidad. Una merienda para compartir en pareja (llev\xE1ndote el p\xE9kale) o entre cuatro amigas. Viendo la restauraci\xF3n y c\xF3mo funciona, uno no entiende, c\xF3mo es que el lugar estuvo al borde de desaparecer. Quien no estuvo nunca en Las Violetas, nunca fue en Buenos Aires."
+    date: 12-11-2006
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Precioso y tradicional. \xCDcono del barrio y la ciudad."
+    date: 12-11-2006
+    user: http://mi.guiaoleo.com/members/10221
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hermosa la reconstrucci\xF3n del lugar, muy buena comida, mas aun las meriendas tan variadas y abundantes. \r\n\
+      Tuvo suerte la Ciudad que se reconstruyera este espacio."
+    date: 20-09-2006
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sin dudas, uno de los lugares obligados para ir, en la ciudad de Buenos Aires, es las violetas. La atenci\xF3n fue excelente. \xBFSer\xE1 que fuimos d\xEDa de semana, a la noche, y no habia tanta gente?. Igual son b\xE1rbaros. Adem\xE1s, hay una confiter\xEDa, donde se puede comprar tortas y masas. Excelente."
+    date: 25-08-2006
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente la comida, especialmente los postres.\r\n\
+      Regular la atenci\xF3n: tardan mucho en atender, por una vez hecho el pedido no demoran. Mesas demasiado juntas."
+    date: 12-08-2006
+    user: http://mi.guiaoleo.com/members/11153
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "A pesar de haber poca gente, tardaron mucho en atendernos. La ambientaci\xF3n y lo que comimos fueron muy buenos."
+    date: 11-08-2006
+    user: http://mi.guiaoleo.com/members/15435
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Uno debe ir a tomar, al menos una vez en su vida, el t\xE9 a Las Violetas. \r\n\
+      Lo recomendable es ir temprano, ya que al ir tanta gente las opciones se acotan. \r\n\
+      La atenci\xF3n es muy buena."
+    date: 15-06-2006
+    user: http://mi.guiaoleo.com/members/9424
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Muy correcto todo, muy grato lugar para ir en pareja.
+      La limpieza es esmerada.
+    date: 23-05-2006
+    user: http://mi.guiaoleo.com/members/8743
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ideal para sentirse rodeado de historia. Los productos denotan alt\xEDsima calidad en la elaboraci\xF3n. El t\xE9 de rosa mosqueta es s\xFAper recomendable y muy abundante."
+    date: 13-05-2006
+    user: http://mi.guiaoleo.com/members/7700
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida no se discute, pero la atenci\xF3n es decadente, tardan mucho en atenderte si no sos cliente. \r\n\
+      No me gust\xF3."
+    date: 10-03-2006
+    user: http://mi.guiaoleo.com/members/9043
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida, en un ambiente incre\xEDble que da la sensaci\xF3n de estar en Par\xEDs. \r\n\
+      Lo \xFAnico negativo es que a veces por la cantidad de gente que hay (sobretodo para la hora del t\xE9) el servicio puede ser un poco lento, pero vale la pena esperarlo."
+    date: 25-12-2005
+    user: http://mi.guiaoleo.com/members/5505
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "A la hora del t\xE9, no hay mejor opci\xF3n. \r\n\
+      Si bien no es muy barato, el ambiente y la calidad de la comida, especialmente de la reposter\xEDa, permiten el lujo."
+    date: 15-10-2005
+    user: http://mi.guiaoleo.com/members/4433
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La confiter\xEDa es admirable en su aspecto arquitect\xF3nico. El reciclado que hicieron qued\xF3 hermoso y es un gusto visitarla. \r\n\
+      La atenci\xF3n al cliente est\xE1 muy por debajo de lo que deber\xEDa ser una confiter\xEDa modelo de Buenos Aires. \r\n\
+      \xBFLa comida? Todo de primera, especialmente la reposter\xEDa."
+    date: 18-08-2005
+    user: http://mi.guiaoleo.com/members/3941
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buen servicio de t\xE9 con bandeja de sandwiches y masas, como en las confiter\xEDas \"pitucas\" de antes. El ambiente tambi\xE9n remite al esplendor porte\xF1o de anta\xF1o que por suerte ha sido conservado para que podamos seguir disfrut\xE1ndolo en una pausa de nuestra moderna y ajetreada metr\xF3polis."
+    date: 23-03-2005
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente

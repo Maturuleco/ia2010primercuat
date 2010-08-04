@@ -1,0 +1,324 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Un clasico del Barrio de Mataderos, imperdible para los amantes de la pizza media masa. El servicio es regular y el ambiente muy ruidoso.
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/82358
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sin dudas, una de las mejores pizzas de Buenos Aires. Bien de barrio, el lugar es sencillo y ruidoso, y los fines de semana hay demasiada gente haciendo cola para comprar comida para llevar, principalmente pizzas. La atenci\xF3n es r\xE1pida, con mozos grandes, gente de oficio, muy amables.\r\n\
+      Recomiendo comprar la pizza para llevar y comerla en casa, la grande de muzzarella es perfecta, cuesta $28 y sale en cuesti\xF3n de minutos."
+    date: 17-05-2010
+    user: http://mi.guiaoleo.com/members/70044
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Vamos de vez en cuando y siempre disfrutamos de una de las mejores pizzerias de Buenos Aires, como es de esperarse de un lugar asi tan de barrio, es que el ambiente es muy ruidoso a veces demoran mucho por la cantidad de gente y no es el fuerte la atencion pero no es mala.\r\n\
+      La otra contra es que no reciben tarjetas de credito cosa extra\xF1a dado el tama\xF1o y las notables ventas del local. Para volver siempre"
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/71899
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida bastante floja, los \xF1oquis no son caseros, la pizza no es nada de otro mundo y muy alta para mi gusto, las frituras son verdaderamente deplorables, en especial las papas., el ambiente es muy ruidoso. No vuelvo."
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Como siempre, si uno quiere comer la mejor pizza de los alrededores El Cedr\xF3n es el lugar indicado. Excelente la calidad de sus ingredientes de las comidas aunque deber\xEDan ampliar un poco la n\xF3mina de cervezas que ofrecen. Para ir de vez en cuando est\xE1 m\xE1s que bien."
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/55854
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hace 15 a\xF1os que si quiero comer una pizza, voy al Cedron. Puede resultar un poco aceitosa pero es la mejor. A todos los que se quejan del ambiente, esa es la esencia. Es una pizzeria de barrio, atendida por la misma gente desde hace a\xF1ares y que sobrevivi\xF3 al delivery y pago con tarjetas/tickets. Es lo unico que puedo llegar a criticar (a veces no voy por falta de efectivo)."
+    date: 12-10-2009
+    user: http://mi.guiaoleo.com/members/70219
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: justamente hoy voy comer alla,el otro dia fui pero la verdad estaba tan lleno que nos fuimos,lo que vi es lo que ya comentaron todos,si,es muy sencillo el lugar,bah las sillas,la ambientacion,pense que iba a ser de otra forma ya que venden bastante y podrian invertir en la decoracion,aunq posiblemente la clave del exito sea la sencillez y lo buena que es su pizza.
+    date: 27-09-2009
+    user: http://mi.guiaoleo.com/members/69503
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La pizza es de media masa un poco aceitosa para mi gusto.
+    date: 09-09-2009
+    user: http://mi.guiaoleo.com/members/68576
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hace mas de treinta a\xF1os voy y sigue siendo la mejor pizza del mundo .\r\n\
+      Bravo ! \r\n\
+      Los mozos , el k te toca te toca ."
+    date: 05-09-2009
+    user: http://mi.guiaoleo.com/members/53254
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: pizza del mejor que comi hace largo tiempo recomendable
+    date: 13-06-2009
+    user: http://mi.guiaoleo.com/members/63867
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Si bien no tiene Delivery, mucha gente va a buscar la pizza porque es GENIAL
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/60642
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: La pizza como siempre excelente !!!!
+    date: 22-02-2009
+    user: http://mi.guiaoleo.com/members/53254
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: La verdad, una excelente pizzeria de barrio. Tiene todo lo que uno puede esperar de esto y nada mas. No es la primera vez que voy, comi siempre muy buena pizza y otras veces comi unos muy ricos canelones. La atencion... PESIMA... pero bueno, es como los viejos bares de gallegos, te atienden mal pero te sirven mucho. Tambien recomiendo la lengua a la vinagreta.
+    date: 15-02-2009
+    user: http://mi.guiaoleo.com/members/1487
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si se est\xE1 pensando en comer una excelente pizza con ingredientes de calidad y se anda por el barrio de mataderos, este es el sitio. Un lugar simple y bullicioso con atenci\xF3n acorde al lugar, para volver cada vez que se tenga antojo de comer cosas ricas. R\xE1pido, barato y rico."
+    date: 14-02-2009
+    user: http://mi.guiaoleo.com/members/55854
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: a la muza del cedron no hay con que darle...un nectar...al mismo nivel la de espinaca con salsa blanca...y esa sopa inglesa...al mismo nivel que lo gastronomico la atencion amable y profesional...siempre hay que esperar mesa,pero se justifica la espera.
+    date: 07-01-2009
+    user: http://mi.guiaoleo.com/members/6234
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo conzco hace bastante y nunca defrauda , una tipica pizzeria de barrio en el corazon de mataderos, los mozos de a\xF1os te tratan como amigos aunque sea la primera vez que los veas, ambiente calido y los ba\xF1os un desastre  pero la comida es increible, y no solo la pizza sino cualquiera de sus menues, para comer y reventar!!!!"
+    date: 23-10-2008
+    user: http://mi.guiaoleo.com/members/41184
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pizzer\xEDa \"de las de antes\" pero sin grandes atributos para destacar. La pizza que, por supuesto, no defrauda en absoluto, incita a la ingesta inconmensurable de la misma. Y sin menospreciarla, los postres merecen un p\xE1rrafo extra. Hay de todos los tipos y colores as\xED que no vale retirarse del lugar sin probar uno. Si la pizza no es lo suyo hay tambi\xE9n vistosos platos de cocina."
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/22686
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor pizza del pa\xEDs."
+    date: 29-07-2008
+    user: http://mi.guiaoleo.com/members/3914
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La mejor pizza de la Capital junto a la del Cuartito. Recomiendo el mejor menu del Cedron. Pizza Fugazzeta rellena con Jamon, Quilmes Imperial Bien Fria y de postre la Tradicional Sopa Inglesa especialidad de la Tradicional casa de la Republica de Mataderos
+    date: 28-05-2008
+    user: http://mi.guiaoleo.com/members/45522
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fui con muchas recomendaciones y la verdad es que me decepcion\xF3 la pizza. Los ingredientes no eran los genuinos de una pizza y eso se not\xF3. No creo que sea una pizzer\xEDa que sobrepase la calidad de la pizza de barrio de delivery com\xFAn. La atenci\xF3n es buena, y el lugar est\xE1 ok."
+    date: 26-04-2008
+    user: http://mi.guiaoleo.com/members/21788
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la piza, la atenci\xF3n es r\xE1pida, los s\xE1bados a pesar de que est\xE1 lleno a la noche no demoran demasiado en asignar una mesa."
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/15332
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: una de las mejores pizzas de la capital y muy recomendable la torta de ricotta y la fugazzeta
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/43322
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Soy del barrio y realmente es un cl\xE1sico para salidas familiares o con amigos. La piza es excepcional!!! La masa es alta pero lo suficiente, los ingredientes son frescos y la cocci\xF3n es la adecuada. Los demas platos son ricos y en medidas justas, no son abundantes. Los fines de semana se llena. La ambientacion ha ido cambiando a traves de los a\xF1os, pero jam\xE1s se destac\xF3 por ello."
+    date: 26-02-2008
+    user: http://mi.guiaoleo.com/members/38754
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: la mejor pizza de molde q probe si un ambiente familiar y barrial ademas un servicio exelente
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/40817
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "He encontrado otro de los excelentes lugares de pizza de Buenos Aires. La pizza es la de antes, media masa, mucha muzza y bien cargada de ingredientes. La faina es de primera, gruesita, sabrosa, sin quemarse. La atenci\xF3n es esmerada, r\xE1pida. Y el lugar es de barrio, sin pedirle nada mas. Un lugar super recomendable."
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La mejor pizza que comi en mi vida, inclusive podes pedir por porcion, recomiendo la fugazza rellena es-pec-ta-cu-lar!!!! Los mozos de entrada parecen mala onda pero son todo lo contrario. La ambientacion no esta a la altura de una pizzeria de Palermo porque justamente ese es su encanto. Si bien cada vez que voy hay cola no tengo que esperar mas de 10 minutos y la comida la sirven sin demoras. Lo unico que tengo que criticar es que la gente que usa los ba\xF1os es muy ro\xF1osa y no hay personal que se ocupe de mantener la limpieza durante el dia. Iria mas seguido si estuviese mas cerca de mi casa."
+    date: 07-01-2008
+    user: http://mi.guiaoleo.com/members/76247
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La pizza es sensacional,el lech\xF3n se deshace de tierno, la atenci\xF3n es muy buena teniendo en cuenta la gran cantidad de gente que va, siempre hay fila si uno va tarde, el ambiente es muy bueno, bien t\xEDpico de barrio, para nada lujoso. "
+    date: 27-12-2007
+    user: http://mi.guiaoleo.com/members/37527
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Pizzeria \xECcono de Mataderos, una de las mejores pizzas que comi en Buenos Aires, media masa con mucha muzza, riqu\xECsima. El ambiente es familiar, simple, esta limpio!!, los mozos hay buenos y malos, tambien hay todo tipo de comidad caseras y postres. Recomiendo especialmente la pizza de roquefort que tiene nueces!!! Los fines de semana se llena ya que es el punto de reunion de muchas familias y amigos, hay que ir tempranito o esperar. Lo super recomiendo!!!"
+    date: 15-12-2007
+    user: http://mi.guiaoleo.com/members/47190
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es muy rica, es alta, pero no exagerada, y esponjosa. El ambiente familiar, t\xEDpico de barrio. Todo sencillo y bueno. Recomiendo probarla, est\xE1 entre las mejores que he comido en Bs.As."
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/26412
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Pizeria tipica de barrio \"mataderos\" la pizza es rica. vale la pena. Aunque la atenci\xF3n es tirando a mala."
+    date: 06-11-2007
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es lo mejor de Capital. Nunca com\xED una pizza de verdura y salsa blanca como esa. La de anchoas tambien suma. Lo recomiendo sin miedo a decepcionar."
+    date: 31-10-2007
+    user: http://mi.guiaoleo.com/members/34949
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      -Realmente no creo que exista una pizza que supere a la del Cedron, en cuanto a calidad de productos,(muzarella, maza, aceites, etc).
+      -El ambiente es bien de barrio, tiene la estructura de un tipico restaurante familiar, por cierto es muy agradable, La limpieza es exelente y la atencion es muy buena y rapida, los mozos son gente grande experta ya en el rubro y en el lugar.
+      -RECOMIENDO:Pizza de muzarella,pizza de verduras con salsa blanca, pizza de morrones con jamon(muy tupida), empanadas, mollejas al ajillo con morron, y postre balcarce o copa Cedron.
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/35924
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un bodegon de barrio al que acudimos cuando todo lo que esta cerca esta cerrado. La pizza es muy alta y no es lo que mas me gusta. Un poco insulsa. El servicio es atento y rapido pero el ruido es agotador. Es bueno tenerlo en cuenta como ultimo recurso cuando venis tarde de algun lado y no hay nada abierto. "
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/5169
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "T\xEDpica pizzer\xEDa de barrio. La Pizza es rica, pero he probado mejores. El lugar es bastante com\xFAn en cuanto a la decoraci\xF3n. El servicio es excelente, muy r\xE1pido. "
+    date: 18-08-2007
+    user: http://mi.guiaoleo.com/members/27134
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Recomiendo que conozcan una de las pizzerias m\xE1s tradicionales de baires. Cumpli\xF3 100 a\xF1os y disputa una de las m\xE1s ricas pizzas. El ambiente es super familiar y billicioso. Ideal para ir con amigos o con familia. \r\n\
+      Muy buenos postres."
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/29812
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fui en varias oportunidades, la pizza es muy rica, el ambiente es una antigua pizzeria de barrio. La atenci\xF3n es mala, todas las veces que fui, practicamente me tiraron la pizza en la mesa, un sabado a las 22:30hs, me dijeron que no tenian una simple pizza de fugaza, por que no tenian mas cebollas... ma-li-si-mo."
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/12555
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Es la mejor pizza!
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/19453
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Si te gusta la pizza no podes no probarla. Para mi la mejor pizza de Bs As. 
+      Ademas contas con gran variedad de minutas.
+    date: 25-07-2007
+    user: http://mi.guiaoleo.com/members/27444
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui a este lugar exclusivamente por lo que le\xED aqu\xED. La conclusi\xF3n es Gracias... \r\n\
+      Vivo a unas 15 cuadras de esta pizzer\xEDa, y siempre me sorprend\xEDa el verla llena de gente, pero nunca me llam\xF3 tanto la atenci\xF3n como para compara, ya que NO TIENE DELIVERY, el lugar es ANTIGUO, y NO ACEPTAN TARJETAS... pero la comida!!\r\n\
+      RIQUISIMA... La fugazzeta, espectacular, hasta las aceitunas eran de primera, ricas como hac\xEDa tiempo no com\xEDa en ning\xFAn lado, la pizza bien a la antigua super gruesa... las empanadas bien, rica masa, relleno normal..\r\n\
+      Compr\xE9 tambi\xE9n (ya que lo llev\xE9 a casa) postre Balcarce, alucinante!!! Pura crema chantilly, de tan rico empalagaba...\r\n\
+      Excelente comida, esmerada atenci\xF3n, no s\xE9 si fue por el horario (s\xE1bado 20 hs) pero el pedido me lo entregaron rap\xEDdismo...\r\n\
+      Si quieren comer una pizza distinta a la que se hace en la mayor\xEDa de las pizzer\xEDas de Bs. As, este es EL LUGAR!\r\n\
+      Los precios acordes a la calidad.\r\n\
+      Pizza con jam\xF3n grande (25 aprox); fugazzeta con jam\xF3n chica (13 aprox); empanadas $2 c/u; postre Balcarce 6 pesos la porci\xF3n (no muy abundante). "
+    date: 21-07-2007
+    user: http://mi.guiaoleo.com/members/12411
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar, muy buena la pizza. Hay que tratar de llegar temprano tipo 9 que despu\xE9s se llena. Los mozos de primera y s\xFAper r\xE1pidos."
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/19023
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un lugar muy tradicional y muy quedado en el tiempo, en cuato a la ambientaci\xF3n. La pizzas son excelentes y los postres est\xE1n muy bien logrados. "
+    date: 12-02-2007
+    user: http://mi.guiaoleo.com/members/12408
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente pizza. Atenci\xF3n muy r\xE1pida, eficiente y amable. Un lugar al que siempre da gusto volver. "
+    date: 28-01-2007
+    user: http://mi.guiaoleo.com/members/17085
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Qu\xE9 decir de un cl\xE1sico del barrio de Mataderos. El Cedr\xF3n siempre est\xE1 presente en el recuerdo de quienes merodeamos por ah\xED, con la atenta vigilancia del Torito de Mataderos con los guantes en guardia.\r\n\
+      Es un tip\xEDco rinc\xF3n de Buenos Aires."
+    date: 13-01-2007
+    user: http://mi.guiaoleo.com/members/15732
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un lugar sencillo, pero se como muy bien. El precio no es caro y el men\xFA est\xE1 compuesto de cl\xE1sicos. Tambi\xE9n se puede comprar para llevar. "
+    date: 09-01-2007
+    user: http://mi.guiaoleo.com/members/15978
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La pizza bien de barrio, imperdible. \r\n\
+      No dejen de probar el postre tipo Balcarce, exquisito, s\xFAper fresco. \r\n\
+      La cola asusta, pero avanza r\xE1pido. \r\n\
+      La atenci\xF3n no es muy buena."
+    date: 04-01-2007
+    user: http://mi.guiaoleo.com/members/13644
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Quisimos ir a comer pizza, pero estaba muy lleno y el lugar ten\xEDa mucho bullicio. Al final, pedimos para llevar y la pizza result\xF3 espectacular. S\xF3lo eso. "
+    date: 02-01-2007
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Las pizza, son muy buenas.
+    date: 27-10-2006
+    user: http://mi.guiaoleo.com/members/13049
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La mejor fugazza rellena con \"queso\". Muy recomendable tambi\xE9n la pizza de roquefort con nuez y postre la tarantela. \r\n\
+      El lugar se llena pero te atieden r\xE1pido, paciencia que vale la pena. \r\n\
+      Si te gustan los cl\xE1sicos de Buenos Aires no pod\xE9s dejar de ir."
+    date: 15-10-2006
+    user: http://mi.guiaoleo.com/members/12842
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La pizza es excelente, ojo no busquen estilo porque no lo van a encontrar; es una pizzer\xEDa muy de barrio que se llena siempre as\xED que hay que ir con paciencia o comprar para llevar."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/12041
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Voy seguido. Siempre de noche, siempre lleno y siempre excelente.
+    date: 14-08-2006
+    user: http://mi.guiaoleo.com/members/11138
+    ambiente_rank: muy bueno

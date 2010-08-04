@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Buen lugar para un almuerzo y sano en horario laboral. Es self service. Todos los dias tienen un plato del dia, ademas de las opciones de siempre.
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: me gustan mucho todos los productos granix, sus galletitas y su restaurant. es una buena propuesta. "All you can eat" vegetariano. la comida varia segun el dia que uno vaya con gran variedad. 100% recomendable!
+    date: 15-02-2010
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "iba seguido con compa\xF1eros de oficina\r\n\
+      aumento bastante y bajaron la calidad\r\n\
+      de culaquier modo la comida es muy rica y cada tanto se puede ir , podes pedir para llevar o comer libre las dos opciones son validas"
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/40134
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Hay 2 opciones, llevar comida que te cobran dependiendo del peso o quedarte a comer ahi en el salon. La comida no es mala, pero tampoco es nada extraordinario. Comida vegetariana sin mucha imaginacion.
+    date: 02-12-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una muy buena propuesta: un tenedor libre vegetariano (comida, postres, cafe, te, jugos y agua) por $35. La calidad de los platos es variable (bien por las papas rellenas y la paella, mal por las milanesas) pero en general es aceptable y variada. El ambiente un poco ruidoso, parecido a un comedor de empresa, pero si se consigue una mesa apropiada tiene una linda vista de la galeria guemes. Comparado con lo que cuesta en cualquier lugar, una opcion muy recomendable"
+    date: 25-09-2009
+    user: http://mi.guiaoleo.com/members/52307
+    ambiente_rank: malo/regular

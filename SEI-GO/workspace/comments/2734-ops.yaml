@@ -1,0 +1,548 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente la masa y la salsa picante. Muy buena pizza a la parrilla. Muy crocante, pero no es una galletita. Buena la salsa peruana de guacatay y el postre
+    date: 17-06-2010
+    user: http://mi.guiaoleo.com/members/83846
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "No entiendo los comentarios negativos que recibe este lugar...A m\xED me pareci\xF3 super simp\xE1tico, con una decoraci\xF3n divertida bordeando lo kitsch, con muchos colgantes de papel, banderitas y lucecitas de \xE1rbol de navidad. Es probable que quede olor en la ropa porque la cocina es totalmente abierta, aunque a nosotros no nos pas\xF3, \r\n\
+      La pizza es muy rica, hay m\xE1s o menos caras pero en promedio 45$ una abundante para 2 personas, no me parece caro...\r\n\
+      La atenci\xF3n no es muy buena, tardaron a\xF1os en traer la cuenta. \r\n\
+      El due\xF1o del lugar es un loco lindo que ofrece tragos de bienvenida.\r\n\
+      Volver\xEDa!!"
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/28008
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La pizza estaba buena, pero no es muy buena. La masa sale crocante porque esta hecha a la parrilla. Los ingredientes de la pizza son de buan calidad, pero en general son insipidos (supongo que como cocinan sin, pues le tuve que agrgar (y no me gusta lo salado.)Las pizzas no son baratas; por ejemplo la de hongos $52, los porrones de cerveza $12. La porcion de Girolas (24) es chica. Las ensaladas no son baratas (28). El lugar es chico, las mesas estan muy juntas, y se esta cerca del horno. La camarera fue muy servicial. No se si volveremos; hay  muchos otros lugares mejores.
+    date: 23-05-2010
+    user: http://mi.guiaoleo.com/members/13988
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena relaci\xF3n calidad/precio. Se come bien y con un buen servicio y atenci\xF3n."
+    date: 06-05-2010
+    user: http://mi.guiaoleo.com/members/82039
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Muy ricas pizzas, diferentes a las demas, como hehcas en casa, el lugar/hambiente es ruidoso y el olor a la comida se impregna en la ropa.
+    date: 03-03-2010
+    user: http://mi.guiaoleo.com/members/76221
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No hay razones para no probar las pizzas de este lugar. gustos ricos, coccion acertada a la parrilla y personal amable que te saluda.\r\n\
+      Bueno si esta tan bien, de que me voy a quejar\xBFno?\r\n\
+      y ya que estamos, y con la mejor cr\xEDtica, les pido que mejoren la estetica del lugar un poco. No pierdan el estilo, pero sin tanto colgante, el ba\xF1o mas cuidado y un poco de orden visual estaria todo mucho pero mucho mas interesante. As\xED que marche una grande, y tambien un decorador"
+    date: 07-02-2010
+    user: http://mi.guiaoleo.com/members/75680
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es muy rica, del tipo casera. La masa es muy buena y los ingredientes acompa\xF1an bien. El lugar no es bueno. Nos fuimos todos con olor a carb\xF3n en la ropa. Las bebidas no estaban muy fr\xEDas y tuvimos que pedir hielo. Vale la pena ir solo por la pizza. Si vivis cerca del local, mejor ped\xED delivery."
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/76227
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El ambiente es sumamente ruidoso cuando est\xE1 lleno y en verano el aire acondicionado no alcanza. Destaca el sabor de la pizza, que sin dudas es el caballito de batalla del lugar. Crocante, con buenos ingredientes, abundantes y frescos. \r\n\
+      La atenci\xF3n fue amable, pero tuvo detalles que no gustaron. Tardaron mucho en traer la carta, tomaron pedido a una mesa que entr\xF3 5 minutos despu\xE9s, la moza no miraba las mesas cuando uno quer\xEDa llamarla y la cuenta tard\xF3 bastante en llegar. La relaci\xF3n calidad precio es buena, pero no creo que merezca estar en el podio de los restaurantes m\xE1s econ\xF3micos."
+    date: 05-02-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy Rica Pizza... bien finita pero con abundante y frescos ingredientes. Recomendable. \r\n\
+      El lugar es chico y con el horno muy cerca lo cual hace que se sienta el calor por m\xE1s que est\xE9n los aires prendidos.\r\n\
+      Igualmente vamos a volver para probar m\xE1s gustos de pizza!"
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/56723
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encantaba la pizza de supermercado, hasta que conoc\xED este lugar.\r\n\
+      El mejor servicio, la comida y la atenci\xF3n igual.\r\n\
+      \r\n\
+      Ellos tambi\xE9n son los mejores."
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/75223
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy rica y crocante la pizza, la masa en su espesor exacto y los ingredientes frescos y sabrosos, el ambiente es peque\xF1o y no se puede hablar casi del ruido ambiente, pero para disfrutar de una rica pizza es ideal"
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/51945
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encanta este lugar, me siento como en casa, voy a comer ahi desde que llegu\xE9 a Buenos Aires hace 4 a\xF1os mas o menos, y no he encontrado mejor lugar para comer pizzas. El due\xF1o es un amor, siempre pendiente de todas las mesas!! Y la camarera ni que decir! \r\n\
+      Le tengo un cari\xF1o importante a La Mas Querida!!! Super recomendable!!!!!"
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/72745
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: un lugar muy chiquito, pero vas a encontrar una pizza distinta al resto, una masa finita y crocante a la pizza con unos ingredientes que le dan un toque distinto.
+    date: 12-12-2009
+    user: http://mi.guiaoleo.com/members/76520
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "muy rica pizza a la parrilla  pedimos un a mitad de la casa mitad  queso brie y espectacular\r\n\
+      la atencion fue buena el ambiente tb  eso si es algo ruidoso al ser tan peque\xF1o el local pero no deja de ser pintoresco y tener buen precio"
+    date: 09-12-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Excelente lugar para comer pizza a la parrilla y a un muy buen precio.
+      Nos pedimos mitad de girgolas y champignon y la otra mitad de queso brie.
+      Se nota que la materia prima utilizada es muy buena y hay que destacar la atencion de todas las personas que trabajan en el lugar. RECOMENDABLE
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/20907
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me la habian recomendado tanto esta pizza que fu\xED con demasiadas expectativas. La verdad no me pareci\xF3 nada del otro mundo. Pizzas con algunos ingredientes originales pero nada m\xE1s. No me parece justo que est\xE9 entre las 5 mejores pizzer\xEDas de Bs As. Ambiente c\xE1lido y original decoraci\xF3n para ir con amigos, aunque hay muy pocas mesas."
+    date: 02-12-2009
+    user: http://mi.guiaoleo.com/members/11683
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me encant\xF3! La pizza exquisita! Bien finita y crocante, como debe ser! Y la de salm\xF3n es espectacular! 100% recomendable, pienso volver muchas veces m\xE1s. Unica contra: el lugar es chiquito y te queda mucho olor en la ropa."
+    date: 30-11-2009
+    user: http://mi.guiaoleo.com/members/19661
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La masa: crocante, rica, liviana - Variedades: gourmet, perfectas. Ambiente: personalmente me gust\xF3 la decoraci\xF3n, si bien el espacio es reducido d\xE1 la posiblidad de tener intimidad y conversar perfectamente con el grupo. Atenci\xF3n: muy buena. Para votar en general un \"excenlente\" s\xF3lo faltar\xEDa un buen extractor, nada m\xE1s. Los felicito y ya los recomend\xE9. Volver\xE9 pronto."
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/72955
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buen lugar para comer pizza un sabado a la noche. Es la mejor pizza a la parrilla de la zona, esta en un lugar un poco escondido, pero vale la pena ir. La gente que atiende el lugar es muy amable. Para volver
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La mas querida se ha convertido en una buena opci\xF3n. Mi preferida es la de molde, pero la mas que; presenta una versi\xF3n propia de gustos y sabores que vale la pena probar. Brie, italiana, en fin; todas las que probe hasta ahora, muy buenas sabrosas, y con ingredientes frescos que se sienten en el paladar de una manera muy sutil. Los postres tambi\xE9n son ricos, he probado una torta de choco, lemon pie, panna cotta, etc. y todos estaban muy bien. si te gusta la pizza finita, debe ser de lo mejorcito de la ciudad."
+    date: 27-10-2009
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: re buena onda este lugar! la gente estaban re piola encima soy alemana y el jefe me hablo en aleman jejejee;) saludos al team de la mas querida!
+    date: 21-10-2009
+    user: http://mi.guiaoleo.com/members/70710
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pizza gourmet de verdad:excelente,nada aceitosa,masa impecable,materias primas de primera calidad.La moza muy amable y bien predispuesta.La relaci\xF3n precio calidad mas que buena.Le falta mantenimiento en general,pero tiene onda.Pienso volver por mucho m\xE1s..."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/21633
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelentes las pizzas. En relaci\xF3n precio/calidad no hay con que darle. Super recomendable."
+    date: 10-09-2009
+    user: http://mi.guiaoleo.com/members/66249
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La pizza es excelente: crocante, con cuerpo y buenos ingredientes. Lugar ideal para ir con amigos. Es fundamental reservar, porque hay pocos cubiertos."
+    date: 05-08-2009
+    user: http://mi.guiaoleo.com/members/52384
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena la pizza, se nota que usan buena materia prima.  Buena atencion, rapida. El lugar chiquito y amigable.  Muy recomendable, de las mejores pizzerias de Belgrano.
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/66798
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comimos la pizza con cerveza y el postre y gastamos $68. El lugar es acojedor, peque\xF1o una musica mas que agradable la atencion excelente, pues la unica chica que hay es supersimpatica,presta a explicar por ejemplo en que consisten los postres. Va mucha juventud, es un ambiente alegre. Me gusto mucho el detalle de las cartas y la decoracion del lugar. Lo mejor... queda a tes cuadras de casa y gracias a su guia y los consejos de otras personas fuimos temprano el viernes a la noche y estuvimos tranquilos. Alas 11 de la noche que ya se lleno estabamos prestos para ir a casa. Sin lujos lo justo@le"
+    date: 27-07-2009
+    user: http://mi.guiaoleo.com/members/66213
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Hemos ido varias veces y nos encanta el lugar. La pizza...excelente. Poca variedad, pero no hace falta mas! Altamente recomendable. El lugar no es de lujo y hay pocas mesas, pero es comodo.
+    date: 13-07-2009
+    user: http://mi.guiaoleo.com/members/4685
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El lugar tiene mucho encanto. Europeo, bohemio, es como estar comiendo en tu casa. Muy calido. La Pizza esta muy buena, falla la carta de vinos y de cervezas, muy acortada. No se lo pierdan!
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/48244
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos con mi Sra, guiados por los comentarios de la guia. Sorpresa mas que agradable. La pizza es excelente, finita, masa crocante y bien cargada. Nos arrepentimos de no pedir la grande (12 porciones). Pedimos una tama\xF1o medio 86P) mitad Francesa, mitad 3 quesos. Muy buena.\r\n\
+      Si te sobra algo te lo podes llevar. Los postres tambien muy ricos. Deberian tene cerveza mas grande y no solamente la de 1/2litro.\r\n\
+      El lugar es chico, pero no es tan ruidoso como dicen. Aclaro que estaba lleno y no molestaba para nada.  Las mesas si estan un poco juntas.\r\n\
+      Un muy buen hallazgo gracias a la guia. IMPERDIBLE."
+    date: 23-05-2009
+    user: http://mi.guiaoleo.com/members/62410
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sobresaliente en todos los aspectos. Creo que es la pizza m\xE1s rica que he probado en mi vida, adem\xE1s las salsitas que te dan para acompa\xF1ar son superlativas, sobre todo la picante.\r\n\
+      Lo recomiendo fuertemente. Es dif\xEDcil que un lugar me guste tanto. Algunos ven como una contra que sea chico, para mi es una ventaja, no es tan conocido y cada vez que voy ceno con tranquilidad."
+    date: 12-05-2009
+    user: http://mi.guiaoleo.com/members/23969
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una muy buena opci\xF3n para comer pizza en la ciudad. A la altura de los mejores en cuanto a sabores y variedad. El lugar un poco chico y desarreglado, pero c\xE1lido, y con un excelente servicio."
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/17990
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pizzas superlativas y muy buenos los postres. Creo que los aspectos a mejorar pasan por la est\xE9tica del local, vajilla y ba\xF1os. Excelentes los precios teniendo en cuenta la calidad y cantidad de los productos."
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/30951
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Aunque mi preferencia es la pizza de molde repleta de muzza, bien \"corrienta\", decid\xED guiarme por las cr\xEDticas y visitar esta pizzeria. el resultado, una muy rica pizza de a la parrilla, finita; pero sin exagerar, y con ingredientes sabrosos. Comimos mitad brie c/r\xFAcula y mitad Italiana( Crudo, basilico tomate confitado). y todos sus ingredientes se pod\xEDan sentir en el paladar de una forma delicada y sabrosa. La pizza es abundante, los precios razonables, el servicio muy atento y gentil, y pese a ser un lugar chilo, el ambiente es agradable. Una nueva opci\xF3n para comer pizza: Muy Bien!!"
+    date: 13-03-2009
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Voy casi todas las semanas, el lugar es chico y un poco ruidoso si hay mucha gente, pero vale la pena. Es la mejor pizza del mundo,y la antenci\xF3n es muy buena. He llevado amigos que se sorprenden y vuelven tambi\xE9n."
+    date: 04-03-2009
+    user: http://mi.guiaoleo.com/members/35698
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos con mi esposa y una amiga y comimos una pizza de panceta y r\xFAcula. Muy buena! El men\xFA es algo acotado pero con una buena variedad de pizzas; no est\xE1n las tradicionales, ojo! La calidad de los ingredientes es muy buena. Est\xE1 bien ambientado aunque es un poco chico. Es bastante econ\xF3mico para la zona en la que est\xE1. La pizza es rectangular y vienen 12 porciones para la grande y 3 personas comen perfectamente. Totalmente recomendable!!"
+    date: 26-02-2009
+    user: http://mi.guiaoleo.com/members/47346
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente todo ,una sorpresa el lugar ,la pizza de excelencia, el lugar es una l\xE1stima que sea tan chiquito,los postres para repetir,y la atenci\xF3n buena,simp\xE1tica."
+    date: 22-02-2009
+    user: http://mi.guiaoleo.com/members/58576
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una pizza a la parrilla tan sabrosa como generosa. Las combinaciones de carta son tentadoras. Fuimos con ni\xF1os, y pusiero el mejor empe\xF1o para ayudarnos con cochecitos y dem\xE1s menesteres. Se come mejor en sal\xF3n que en delivery. Los precios son harto razonables (esperemos que no cambien!). De vivir m\xE1s cerca, ser\xEDamos habitu\xE9s."
+    date: 08-02-2009
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente pizza por donde la mires. Ingredientes de primera y una masa fuera de serie. La pizza grande es para 3 personas y los precios mas que moderados. La relacion precio calidad cantidad es insuperable. Lo recomiendo para el que le guste el buen comer sin importarle el ambiente. El lugar es simple, con mesas comunes y sin lujo haciendo foco en la comida. El que espera un "lounge" con poca luz y musica chill out, con infimas porciones, este no es su lugar!!!
+    date: 17-01-2009
+    user: http://mi.guiaoleo.com/members/41694
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Dado los comentarios del lugar, pedi un delivery.
+      La pizza vino totalmente cruda y fria. Tuve que terminar de cocinarla en casa. Llame para quejarme y no me dieron ni cinco de bolilla. No llamo mas
+    date: 17-01-2009
+    user: http://mi.guiaoleo.com/members/6323
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: crocante y muy buen sabor la masa, buena calidad de los toppings,riquisimos los tomates secos, muy buen postre, el lugar simple pero divertido y el servicio mable e informal, me encanta este lugar
+    date: 22-12-2008
+    user: http://mi.guiaoleo.com/members/37493
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Una linda sorpresa, no quer\xEDa ir pero un amigo insisti\xF3. Excelente pizza a la parrilla, pero lo que m\xE1s se destaca son las g\xEDrgolas asadas como entrada. 10 puntos. Voy a volver la pr\xF3xima vez que salga a comer pizza. Lo recomiendo fuertemente."
+    date: 01-11-2008
+    user: http://mi.guiaoleo.com/members/23969
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es verdaderamente buena y hay para todos los gustos; tambi\xE9n hay unas muy buenas entradas. Muy flojo que la cerveza m\xE1s grande sea de medio litro. El lugar es peque\xF1o.. tendr\xEDan que buscarle la vuelta porque algo le falta. No prob\xE9 los postres aunque me hubiera encantado. Igual la pr\xF3xima creo que compro para llevar."
+    date: 10-10-2008
+    user: http://mi.guiaoleo.com/members/22686
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Una Pizza que sale de la clasica de Avenida Corrientes. A la parrilla, con sabor casero y que no cae para nada pesada. Probamos mitad 3 Quesos y la otra mitad Francesa (Panceta, cebolla y gruyere). El ambiente sencillo pero agradable, local escondido en Echeverria llegando a la via.
+      Vuelvo...
+    date: 13-08-2008
+    user: http://mi.guiaoleo.com/members/38676
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La pizza es excelente.... pero el lugar es muy chiquito y medio fulero!\r\n\
+      Es una buena opci\xF3n para comer algo con alg\xFAn amigo pero si tuviera delivery ser\xEDa fant\xE1stico!"
+    date: 14-07-2008
+    user: http://mi.guiaoleo.com/members/9594
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Desde que conocimos la m\xE1s querida no dejamos de concurrir, la masa es excelente, los ingredientes de 1ra.. La atenci\xF3n y calidez de Teresita, de Buby (su due\xF1o) es especial y ni hablar del maestro pizzero Aldo, todo un hallazgo. La recomiendo siempre y pienso seguir haci\xE9ndolo. Felicitaciones y nos vemos pronto!!!!"
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/47078
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "gran pizza a la parrilla en chinatown: ingredientes mas abundantes y precios mas accesibles que -la comparacion se impone- los de morelia y otras pizzerias fashion con esta modalidad. palmas para la de vegetales y la de panceta & rucula. me falta probar la de salmon. simpaticas salsitas para acompa\xF1ar. el ambiente (muy chiquito, las mesas pegadas a la parrilla) y la atencion (las veces que fui habia una sola chica con mas esmero que oficio, desbordada cuando el local esta lleno) no ayudan, pero el balance igual es positivo. en cuanto al postre, rica la panacotta y grata sorpresa el tiramisu."
+    date: 24-06-2008
+    user: http://mi.guiaoleo.com/members/46178
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un local de 12 x 4, muy chico y falto de mantenimiento. Fuimos un Miercoles a la noche, \xE9ramos los \xFAnicos. Pr\xE1cticamente no pod\xEDamos ni hablar porque se escuchaba todo lo que hablabamos y estaban muy pendientes de nosotros. Obviamente la pizza sali\xF3 en 15 minutos, de buena calidad y sabor. Recomiendo no utilizar las salsas, sobre todo la \"Chile\" de color naranja que es ultra picante pero de verdad!. El servicio correcto."
+    date: 11-06-2008
+    user: http://mi.guiaoleo.com/members/8127
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Nada para recomendar. El lugar es muy chico, todos muy apretados y comoson pocas mesas, s\xE1bado a la noche, 1 sola camarera que no dio a basto. La pizza no tiene sabor, si bien los ingredientes son est\xE1ndars no tiene valor agregado, ni sabor. No volver\xE9."
+    date: 07-06-2008
+    user: http://mi.guiaoleo.com/members/45994
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente lugar: la comida, atenci\xF3n, ambiente y m\xFAsica son excelentes. He ido varias veces y siempre vuelvo. La mejor pizza de Buenos Aires."
+    date: 21-05-2008
+    user: http://mi.guiaoleo.com/members/14465
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar para comer pizza a la parrilla. Nosotros probamos la de Gruyere, panceta y cebolla, y quedamos mas que conformes. La atenci\xF3n es muy agradable y el lugar esta bien ambientado aunque es algo peque\xF1o. Precio muy accesible, mas teniendo en cuenta que hay variedades fuera de lo comun. De postre, la panacota, algo que no deben perderse si van. Para recomendar, nosostros volveremos a probar otros gustos."
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/6396
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Los sabores de las pizzas son fantasticos. Recomiendo \"la mas querida\" y la \"pizza con hongos\". Muy buena idea la de las salsitas; hay una con un insumo peruano que es muy rica. Ojo!, son pizzas a la parrilla, crocantes; muy distintas a las que podes disfrutar en La Mezzeta; que son enormes y grasosas. Pero ambas muy recomendadas dentro de su especialidad. El postre de pannacotta es lo maximo. El ambiente, lamentablemente no acommpa\xF1a demasiado. Este lugar solo dispone de una moza muy eficiente y atenta, que suple con entusiasmo su soledad para atender todo el servicio"
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Las pizzas no pueden ser m\xE1s ricas! Y el servicio es rapid\xEDsimo.\r\n"
+    date: 15-04-2008
+    user: http://mi.guiaoleo.com/members/42867
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: me recomendaron una pizeria,y fue un lujo de pizza.que rico desde la tablita con cosas caceras de otro mundo, luego la del bosque fantastica.como puede ser tan rica,el postre la torta broche de oro.recomendable a mis amigos.una critica,los precios realmente muy barato de no creerlo...en que pais viven.donde en todos los lugares por centarce ya te cobran.. bueno que sigan asi,para todos los jovenes.....
+    date: 18-03-2008
+    user: http://mi.guiaoleo.com/members/41525
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente la pizza y los postres y la verdad que muy barato.Vale la pena aunque la zona (cerca de la estacion de tren de Belgrano C) no sea muy linda.
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/7858
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "la pizza es super recomendable exquisita y original.Buena textura y combinacion de sabores, pero mas alla de lo buena comida, el anfitrion Bubby es mas divertido y calido que Pi\xF1on Fijo, realmente la pasamos muy bien, repetiremos la visita"
+    date: 06-03-2008
+    user: http://mi.guiaoleo.com/members/38656
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: conoci el lugar por guia oleo,me encanto la ambientacion,comimos pizza de panceta y rucula,excelente,una mencion especial para los postres,ya que es MUY dificil encontrar un lugar en el que sean ricos,comimos panacota,tiramisu y una torta de chocolate y son exquisitos,sin duda un lugar para recomendar
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/39071
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Nada del otro mundo, la calidad de la mozzarella no es de la mejor y la cantidad de la misma es casi al ras, la masa no me parece gran cosa. Para m\xED la de Morelia es 10 veces superior a esta, en todo sentido, me parece una barbaridad total el puntaje que le asignan a esta pizzeria,para nada objetivo y no hace falta ser un super entendido en calidad, simplemente tener \"algo\"\r\n de PALADAR!"
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/39767
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Esta Pizzer\xEDa es una joya en Buenos Aires. No solo el ambiente es muy acogedor y el servicio personal y agradable, sino que la Pizza es, sin duda, la mejor de la ciudad. Yo diria que no se la puede comparar con otras ya que \xE9sta es esencialmente \"Artesanal\". No conozco ningun otro lugar donde la masa y la calidad de los ingredientes sean de tanta calidad como aca y la combinacion de sabores sea tan perfecta y delicada. He comido aca varias veces y siempre fue de lo mejor asi que la recomiendo altamente."
+    date: 03-02-2008
+    user: http://mi.guiaoleo.com/members/41272
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza (a la parrilla) con salm\xF3n es riqu\xEDsima. No escatimaron en los ingredientes.\r\n\
+      El lugar es tranquilo, no hab\xEDa casi nadie ... asi que la atenci\xF3n fue correcta. La pasamos muy bien, para ir con amigos y/o familia."
+    date: 26-01-2008
+    user: http://mi.guiaoleo.com/members/15721
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La mediterranea con pesto es una Delicia, y la pannacotta, IMPRESIONANTE. Un lugar para recomendar.  "
+    date: 30-12-2007
+    user: http://mi.guiaoleo.com/members/37598
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es piola, sin mayores pretensiones....pero se come.....de primera !!!\r\n\
+      la pizza es out of this world ! y la pannacotta, una exquicitez. por suerte hay 2 acondicionadores de aire y eso ayuda! "
+    date: 30-12-2007
+    user: http://mi.guiaoleo.com/members/37597
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "llecue a la mas querida por un amigo que me dijo que era la mejor pizza que provo en su vida...y la verdad que no se equivoca\xA1\xA1\xA1 es exelente ,equilibrada...pedi la vegetariana y me quede encantada..mi compa\xF1era pidio la del bosque por que le gustan mucho los hongos y tambien quedo fasinada...y la sorpresa fue la tablita y la torta bubilain\xA1\xA1\xA1 me trajo recuerdos de mi abuela.Buby el due\xF1o fue muy amable cuando le preguntamos por la musica...el lugar tiene toda la onda \xA1\xA1\xA1volveremoos por mas"
+    date: 28-12-2007
+    user: http://mi.guiaoleo.com/members/37493
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "\xB4La m\xE1s querida\xB4 es una experiencia bipolar por donde se la mire. Por un lado la idea es muy original y est\xE1 muy bien implementada, y por el otro, deben luchar con el escueto espacio del local, ya que es tan peque\xF1\xF3 que si le toca una mesa cerca de la parrilla, el calor se hace insoportable. Aire acondicionado vi uno, pero no estaba funcionando. La m\xFAsica muy linda, pero solo se disfruta cuando hay poca gente. Negativo: las gaseosas vienen en lata, y no hacen fain\xE1. Positivo: el servicio es r\xE1pido y la entrada de berengenas, morrones, salame y queso esta muy bien. La pizza es un tema aparte. Pedimos muzarella, hongos y salm\xF3n ahumado y vino todo cubierto por medio kilo de r\xFAcula.... que entre otras cosas no permit\xEDa ver las cantidades m\xEDnimas de trocitos de salm\xF3n (pensaba que iban a ponerle fetas), por lo demas, se pod\xEDa comer. Pero la estrella de la noche fue el postre. La panacotta es una creaci\xF3n, un hallazgo, voy a volver para pedirla nuevamente."
+    date: 11-12-2007
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Anoche fue la primera vez que fu\xED a comer all\xED y lo que saco en limpio es que los due\xF1os tienen poca mentalidad comercial, ya que no voy a volver por lo siguiente: Apenas me siento y hago el pedido la moza me advierte que hay demora por el exceso de pedidos del\xEDvery, esperamos 40 min para comer! Como puede ser que no priorizen a los comensales que van hasta all\xED para COMER!\r\n\
+      Los que piden delivery saben que estan sujetos a demora, pero los clientes que se tiene cara a cara ven el criterio desastrozo que se usa para atender. Obviamente que una pizza no les cambia la vida, pero ya no voy a ir m\xE1s. Espero que les sirva mi observaci\xF3n para progresar. La pizza: intachable.\r\n\
+      Ojo con la salsa m\xE1s picante!"
+    date: 09-12-2007
+    user: http://mi.guiaoleo.com/members/29064
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza realmente es muy rica. Me gusto la salsa picante para acompa\xF1ar. La masa es finita y crocante como a mi pareja y a mi nos gusta. \r\n\
+      Pedimos una media de 6 porciones que nos alcanzo justo, pero creo un dia con hambre te quedas corto y una entera de 12 porciones ya es mucho.. y no hay empanadas como para acompa\xF1ar. El ambiente estuvo bien, tiene una onda mexicana. A pesar del Aire Acond. hace un poco de calor, ya que el lugar es algo chico y la parrilla esta en medio del local. Pero el sabor de la pizza compensa todo. Recomendable. "
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/31945
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos a conocer el lugar a ra\xEDz de los comentarios y la verdad es que nos encant\xF3. La pizza \"La m\xE1s querida\" (salm\xF3n ahumado, r\xFAcula, queso y champignones) estuvo espectacular!!!  Los ingredientes frescos! Est\xE1 muy bueno que te dan unas salsitas para acompa\xF1ara la pizza (picantes y no tanto) que le agrega un plus que no se encuentra en todos lados.  Muy buen precio y ambiente tranquilo para ir de a dos y para grupos tambi\xE9n. Para volver a ir y recomendar! "
+    date: 06-12-2007
+    user: http://mi.guiaoleo.com/members/4830
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Voy siempre a La m\xE1s Querida y tiene la mejor pizza, una atenci\xF3n muy c\xE1lida y familiar adem\xE1s de buena onda. \r\n\
+      Es una pizza tan rica que no es pizza! Es m\xE1s!"
+    date: 03-12-2007
+    user: http://mi.guiaoleo.com/members/36416
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Increibles las pizzas condimentadas. Ahi mi amigo Bonplano nos llevo y la verdad que para recomendar. \r\n\
+      Saludos por alli y que sigan asi. "
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/36305
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui con cuatro amigos y comimos unas pizzas de otro planeta, Increibles. Luego para rematar nos trajeron dos tortas c\xF3smicas Bubyline que la rompen, se las recomiendo."
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/13532
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Llegamos a \"La m\xE1s querida\" con 3 amigos con la idea de que ibamos a probar una de las mejores pizzas de la capital federeal, y efectivamente, es una de las mejores. Es un lugar peque\xF1o que puede que a algunos le moleste, pero le da un toque familiar que junto con la musica se hace muy relajante. La atencion es exelente y los pedidos salen bastante rapido. Ah, sirven unas salsas para acompa\xF1ar la pizza que son muy buenas y no se queden sin comer un postre porque se van a perder una de las mejores partes de la comida. "
+    date: 22-11-2007
+    user: http://mi.guiaoleo.com/members/37725
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente pizza a la parrilla en rectangulos servida en la mesa en tablas de madera r\xFAsticas, muy buena calidad de los ingredientes y masa, el lugar es peque\xF1o y bien familiar, una buena opci\xF3n en la zona para comer con una buena relaci\xF3n calidad-precio. "
+    date: 03-11-2007
+    user: http://mi.guiaoleo.com/members/16134
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: excelente pizza y ademas los postres tambien son muy ricos
+    date: 30-09-2007
+    user: http://mi.guiaoleo.com/members/33186
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La mas querida es lo mejor que me paso lejos. El due\xF1o es un amigo de mi viejo de toda la vida, y por suerte fui al dia de la inauguaraci\xF3n y fui mil veces mas. El due\xF1o \"buby\" viajo mucho y sabe de cocina y los secretos para que esa pizza salga como sale. La m\xFAsica siempre es extravagante y muy buena. La decoraci\xF3n es como llamarlo bien \"Palermo Viejo\" bien rustico.\r\n\
+      Como explicar que es la mejor pizza que vas a probar en todo Buenos Aires por lo menos. Lo recomiendo siempre a cualquiera que me pregunta y se los recomiendo ahora a ustedes."
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/17715
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente. Muy bohemio y altamente recomendable.
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/32681
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Simplemente, lejos,  el mejor lugar de pizzas que conozco y conozco muchos.
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/30583
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es un local chico , la parrilla esta muy proxima a las mesas , el delivery incomoda un poco
+    date: 29-07-2007
+    user: http://mi.guiaoleo.com/members/25041
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar excelente.. comodo, confortable. Atendido por sus due\xF1os... con buena musica y la mejor pizza.  "
+    date: 21-07-2007
+    user: http://mi.guiaoleo.com/members/27450
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos por los comentarios de esta gu\xEDa y la verdad que no quedamos tan satisfechos. Quiz\xE1s llevamos demasiadas expectativas justamente por las calificaciones emitidas. Pedimos mitad de tres quesos y la otra mitad, de la especial de la casa, la m\xE1s querida, con salm\xF3n, r\xFAcula y champignones. Los ingredientes est\xE1n bien, pero en una pizza creo que tiene mucho valor la masa. Es verdad, como se ha dicho, es crocante y no un papel de calcar, sin embargo hemos probado mejores sabores de masa. La onda de las salsitas es una novedad pero, por nuestra experiencia, no alcanza para calificar a esta pizza como la mejor de Buenos Aires."
+    date: 02-04-2007
+    user: http://mi.guiaoleo.com/members/19932
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La pizza no tiene comparaci\xF3n."
+    date: 17-03-2007
+    user: http://mi.guiaoleo.com/members/20237
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente la pizza preparada con ingredientes a nuestro gusto, el postre Panacota una delicia.-La moza muy atenta y amable.- El ambiente tranquilo .-Para los amantes de la buena pizza .-Para volver.-
+    date: 07-03-2007
+    user: http://mi.guiaoleo.com/members/10135
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy pero muy rica pizza. El lugar es chico pero acogedor. Muy buena atenci\xF3n."
+    date: 06-03-2007
+    user: http://mi.guiaoleo.com/members/19545
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui muy bien atendida, se come muy bien y tiene una excelente m\xFAsica."
+    date: 05-03-2007
+    user: http://mi.guiaoleo.com/members/19443
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la masa y la salsa picante. Muy buena pizza a la parrilla. Muy crocante, pero no es una galletita. Buena la salsa peruana de guacatay y el postre. "
+    date: 27-02-2007
+    user: http://mi.guiaoleo.com/members/19190
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es casi un bistr\xF3 franc\xE9s. La m\xFAsica del lugar siempre es interesante. \r\n\
+      De la pizza ni hablar, muy buena masa y a la parrilla, que m\xE1s contarles. \r\n\
+      Lo que uno no puede dejar de probar son los postres. El \"Buby Line\", el tiramis\xFA... una delicia."
+    date: 16-11-2006
+    user: http://mi.guiaoleo.com/members/8813
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la entradas, recomiendo las g\xEDrgolas a la parrilla. \r\n\
+      Las pizzas exquisitas y los postres (Torta BubyLine especialmente) te dejan sin palabras."
+    date: 15-11-2006
+    user: http://mi.guiaoleo.com/members/13532
+    ambiente_rank: excelente

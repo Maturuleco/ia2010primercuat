@@ -1,0 +1,128 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: El precio esta fuera de nivel para la calidad de las tapas que se pidieron
+    date: 21-12-2008
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la atenci\xF3n y cada plato ten\xEDa su sabor caracter\xEDstico y especial. Muy recomendable!"
+    date: 24-07-2008
+    user: http://mi.guiaoleo.com/members/48014
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La picada espa\xF1ola ha sido muy buena. El jamon cortado al cuchillo de una calidad que es dificil de encontrar. La paella muy rica"
+    date: 29-06-2008
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La verdad es que supero mis expectativas! nos atendieron barbaro. La comida buenisima! Super recomendable el menu pic pic
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/25818
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me encanto el lugar, la comida es deliciosa y la atencion muy amena. Diferente, rico y para volver pronto.Recomiendo: gambas al ajillo y las tapas"
+    date: 17-01-2008
+    user: http://mi.guiaoleo.com/members/38344
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos tentados por buenos comentarios a comer una fideiua como en Barcelona.  Nos sirvieron una paellera con fideos que no son los propios del plato, con daditos de tent\xE1culo de calamar como \xFAnico marisco y con una cantidad de pimienta y sal m\xE1s esperable de una comida mexicana picante que de la cocina espa\xF1ola. Incomible.  Dejamos 3/4 partes y cuando pedimos que levanten el plato, la moza dijo que se les hab\xEDa pasado la mano con la pimienta... nos pidi\xF3 disculpas...y nos invit\xF3 \xA1con una copa de champagne!!! como compensaci\xF3n. La cuenta vino como si la comida hubiera sido perfecta. No vayan."
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/38153
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "fuimos a festejar a\xF1o nuevo y la pasamos muy bien. Hace mucho que no comia una paella tan rica. Pedimos un vino recomendado por la casa y nos gusto bastante. Fuimos atendidos por los due\xF1os quienes tambien elavoraron la comida. Lo unico, nos parecio un poquito jugosa la cuenta, aunque hay que destacar que era una fecha especial"
+    date: 31-12-2007
+    user: http://mi.guiaoleo.com/members/36862
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Pasamos un grato momento con amigos y buena m\xFAsica, rodeados por numerosas obras de arte. Es un lugar muy recomendable. La comida es excelente. La atenci\xF3n es sumamente cordial y tiene cierto toque familiar que te hace sentir \"de visita en la casa de buenos amigos\". Quedamos satisfechos, en todos los sentidos. "
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/36319
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Soy amante de la comida espa\xF1ola, por tanto busco siempre un lugar nuevo para descubrir. \r\n\
+      Azulay es sin duda lo mejor que conoci este a\xF1o, un ambiente super calido, muy buena atencion por parte de los mozos, y el valor agregado que aporta el espacio dedicado al arte, buenisimas las aboras que estan expuestas.\r\n\
+      La carta de vinos es corta pero contiene las mejores opciones y a muy buenos precios.\r\n\
+      Altamente recomendable."
+    date: 20-11-2007
+    user: http://mi.guiaoleo.com/members/10814
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me pareci\xF3 espectacular. La comida es riqu\xEDsima, nada cara para lo buena que es. El ambiente muy agradable y muy bien decorado el restaurante. El servicios muy bueno. "
+    date: 15-06-2007
+    user: http://mi.guiaoleo.com/members/25799
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida espectacular, el lugar muy original, la atencion buena, el lugar tiene una personalidad muy particular, con obras de arte que acompa\xF1an al comensal."
+    date: 15-04-2007
+    user: http://mi.guiaoleo.com/members/23233
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 el lugar y la ambientaci\xF3n. La comida me pareci\xF3 excelente, con buen gusto y buena atenci\xF3n."
+    date: 12-01-2007
+    user: http://mi.guiaoleo.com/members/22574
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 la paella. Riqu\xEDsima y muy frescos sus ingredientes principales. El tepanyaki es regular, para aficionados a probar algo distinto; pero no de la manera tradicional.  "
+    date: 19-12-2006
+    user: http://mi.guiaoleo.com/members/14104
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El tepayaki estuvo excelente y muy abundante, tanto el de pescado como el de carne. El salm\xF3n estuvo escaso y no era de la mejor calidad, pero el lugar es muy recomendable y su precio muy accesible. "
+    date: 07-12-2006
+    user: http://mi.guiaoleo.com/members/13099
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "No me gust\xF3 el lugar: la ambientaci\xF3n me pareci\xF3 de mal gusto, encerrado, sin ventanas, el aire acondicionado no llega a todos lados y estuvimos acalorados e inc\xF3modos. La carta es m\xEDnima y si bien lo que comimos estaba bastante rico, no alcanz\xF3 a satisfacernos. No nos trajeron pan. Los mozos son amables pero no tienen oficio y me parecio un t\xEDpico lugar de \"me las doy de lo que nunca ser\xE9\". No vuelvo."
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/12207
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos con mi marido y encontramos un lugar buen\xEDsimo, original y con excelente atenci\xF3n. Un espacio para hacer cenas de cumplea\xF1os.\r\n\
+      La carta no es muy variada, pero la comida es exquisita."
+    date: 30-10-2006
+    user: http://mi.guiaoleo.com/members/12041
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Recomendable la comida es rica y la ambientaci\xF3n super agradable"
+    date: 09-10-2006
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena comida y la mejor atenci\xF3n que recib\xED en mucho tiempo. \r\n\
+      Incluso el cheff se acerc\xF3 a preguntar si encontr\xE1bamos a gusto el men\xFA. \r\n\
+      Una carta con tal vez no muchos platos pero todos tentadores. Muy recomendable."
+    date: 26-08-2006
+    user: http://mi.guiaoleo.com/members/11603
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sin duda repetir\xE9 esta experiencia. Buen\xEDsima comida e igual servicio. \r\n\
+      Un lugar que vale la pena, faltaba algo as\xED en Buenos Aires."
+    date: 26-07-2006
+    user: http://mi.guiaoleo.com/members/10567
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy rica, una comida que se acostumbra ver poco por estos lados.
+    date: 14-07-2006
+    user: http://mi.guiaoleo.com/members/10079
+    ambiente_rank: muy bueno

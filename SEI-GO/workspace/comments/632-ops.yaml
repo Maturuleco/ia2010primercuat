@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      La comida es regular, si uno busca una cena donde deleitarse o comer al menos bien, este no es el lugar claramente. La calidad de lo ofrecido es basica. Debe tenerse en cuenta que si se busca comer en paz y tranquilo, es mas lo que se come en un estado de alteracion por lo ruidoso que es. Si se lo calificara como disco el comentario seria otro.
+      Lo mas conveniente seria cenar en otro lado de la zona y luego experimentar a disco.
+    date: 28-02-2009
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar muy completo con un c\xE1lido ambiente y una comida de primer nivel..el show es bueno y la disco inigualable..s\xF3lo para gente que disfruta de lo bueno y el intercambio de culturas."
+    date: 19-07-2007
+    user: http://mi.guiaoleo.com/members/27311
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente lugar.
+    date: 11-08-2006
+    user: http://mi.guiaoleo.com/members/11073
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente Disco Bar.
+    date: 05-05-2006
+    user: http://mi.guiaoleo.com/members/8247
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me parece uno de los mejores bares para todos los extranjeros. \r\n\
+      Sin embargo, nosotros los Argentinos deber\xEDamos ir a otro lado porque de mi parte no lo recomiendo."
+    date: 05-05-2006
+    user: http://mi.guiaoleo.com/members/8245
+    ambiente_rank: excelente

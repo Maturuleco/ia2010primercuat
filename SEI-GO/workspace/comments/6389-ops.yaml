@@ -1,0 +1,23 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena propuesta.\r\n\
+      Es un lugar tranquilo pero con mucha actitud.\r\n\
+      La due\xF1a es atenta, tanto en el trato como en el servicio. Los due\xF1os son espa\xF1oles y tienen un bar en el centro de Madrid, y eso le da a este lugar un toque especial.\r\n\
+      Menu con suficientes propuestas como para volver."
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/73033
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui con unos amigos  y no conoc\xEDa el lugar, recomendable en todos los aspectos, la comida es espa\xF1ola y excelente para picar entre amigos, el ambiente muy agradable con una m\xFAsica realmente buena. Volver\xE9 seguro, es un sitio que hay que recomendar por su calidez y buen gusto."
+    date: 20-08-2009
+    user: http://mi.guiaoleo.com/members/67870
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es muy agradable, especialmente en la vereda con los sillones, la atencion no es la mejor, pedi en un after unas cervezas con papas bravas y el ali\xF1o aparte, tardaron media hora en traerme las cosas y encima todo junto.\r\n\
+      Es para darle otra oportunidad por el clima del lugar."
+    date: 17-05-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: muy bueno

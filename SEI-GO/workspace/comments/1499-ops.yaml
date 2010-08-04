@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la atencion exelente y la comida tambien la verdad que yo lo recomiendo
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/78386
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida no es mala, pero la atencion es pesima, hay una moza que es una maleducada no deberia trabajar en el ambiente gastronomico.
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/71887
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos el 3 de enero a tomar algo a la tardecita, pensando en una rica torta...pero era todo del a\xF1o anterior. De pinta nomas todo palido y reseco. solo nos animamos a una medialuna, que tampoco rebozaba frescura. Menos mal, porque en las demas mesas vimos que quedaban las porciones de torta sin tocar! Un desastre, ambiente de 50 para arriba, una sola moza. No vuelvo nunca."
+    date: 03-01-2009
+    user: http://mi.guiaoleo.com/members/6011
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Muy caro los platos elaborados y mala la atencion. He ido antes, cuando no era tan masivo y era mucho mejor. Recatable el ambiente exclusivo para fumadores.
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: El mediodia es barato, la comida es buena, las camareras hacen lo q pueden ya que vi como la misma chica q atendia salia a hacer delivery y el ambiente igual a todo los piacere como debe ser pero este es mas amplio y calido.
+    date: 08-06-2006
+    user: http://mi.guiaoleo.com/members/11398
+    ambiente_rank: muy bueno

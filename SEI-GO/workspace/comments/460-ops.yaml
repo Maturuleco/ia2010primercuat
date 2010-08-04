@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: rica pizza a la piedra, con buenos ingredientes, muy rapido el servicio y la cerveza estaba bien fria. nos gusto y seguro volvemos.
+    date: 12-10-2008
+    user: http://mi.guiaoleo.com/members/35409
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "muy linda pizzeria,ideal para una salida con amigos,la pizza muy rica,la picada es s\xF3lo una guarnici\xF3n para la cerveza,bastante cara para los ingredientes que la componen,debut y despedida"
+    date: 10-08-2008
+    user: http://mi.guiaoleo.com/members/39071
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Llegu\xE9 por los comentarios de la gu\xEDa, y me pareci\xF3 buen\xEDsimo!\r\n\
+      Una pizza de masa bien finita y tierna, con quesos de primera, y nada grasosa. Una ensalda fresquisima, y generosa la porcion de postre. \r\n\
+      No se puede pedir mas, laburan b\xE1rbaro, y el lugar invita a quedarse."
+    date: 23-05-2008
+    user: http://mi.guiaoleo.com/members/9928
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Com\xED bien y me atendieron r\xE1pido. No esperaba mucho y tampoco me arrepent\xED de ir. La variedad de sandwichs es interesante, vale la pena si se tiene ganas de comer sin que te arranquen la cabeza, aunque hay poco espacio entre mesas. Los ba\xF1os, grandes como los de un avi\xF3n."
+    date: 18-04-2007
+    user: http://mi.guiaoleo.com/members/14801
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Al mediod\xEDa (sobretodo los fines de semana) recomiendo hacer un \"brunch\" en Tonno y pedir el tostado de jam\xF3n y queso pero en pan de pizza.\r\n\
+      Imperdible."
+    date: 14-01-2007
+    user: http://mi.guiaoleo.com/members/11422
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena pizza y mejores empanadas en un lugar muy respetable de las Ca\xF1itas. \r\n\
+      La calidad siempre es consistente. Sigan as\xED."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/12826
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Para los amantes de la pizza a la piedra es excelente. Es sabrosa pero finita. El lugar tiene buena onda con m\xFAsica en su nivel justo."
+    date: 03-09-2006
+    user: http://mi.guiaoleo.com/members/11293
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La pizza es muy buena, no excelente. \r\n\
+      La atenci\xF3n es correcta. \r\n\
+      El ambiente es chico, las mesas est\xE1n muy juntas (no queda otra) y al estar el horno a la vista se mezclan los olores de todo tipo. \r\n\
+      Los ba\xF1os son extremadamente chicos. Creo que es una muy buena opci\xF3n si uno busca calidad en la comida a un costo razonable. Simple y bueno."
+    date: 12-08-2006
+    user: http://mi.guiaoleo.com/members/10091
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor pizza integral de los \xFAltimos meses, ambiente agradablemente simple. Para volver."
+    date: 20-07-2006
+    user: http://mi.guiaoleo.com/members/7455
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar c\xE1lido con buena onda y la mejor mousse de chocolate de la Argentina."
+    date: 11-07-2006
+    user: http://mi.guiaoleo.com/members/10017
+    ambiente_rank: muy bueno

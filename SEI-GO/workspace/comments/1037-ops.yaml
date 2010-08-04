@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lindo lugar para ir a tomar cerveza con amigos. Podr\xEDan hacer happy hour \xBFno?"
+    date: 23-05-2009
+    user: http://mi.guiaoleo.com/members/16892
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Tardaron una hora en traer los platos, que resultaron fr\xEDos y diferentes a lo ofrecido en el men\xFA."
+    date: 14-04-2009
+    user: http://mi.guiaoleo.com/members/34980
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar f\xEDsico zafa, la comida y la atenci\xF3n podrian mejorar."
+    date: 13-02-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "\xB0POr suerte habia un musico basileo que me salvo la noche, la atencion pesima, las camareras tiene la peor onda, estab en elsector fumadors y tradaron anos luz en atenderme!"
+    date: 14-08-2008
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Voy muy seguido y el lugar es muy bueno para compartir con amigos, tomar una cerveza y comer una pizza. La atencion muy buena y el precio acorde. Sigan asi..!
+    date: 28-07-2008
+    user: http://mi.guiaoleo.com/members/28273
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Hace mucho tiempo que voy a Celta y cada vez me gusta m\xE1s. La comida es muy, muy buena. Ni una sola vez tuve quejas al respecto.\r\n\
+      La atencion es excelente, te hacen sentir muy a gusto. "
+    date: 22-08-2007
+    user: http://mi.guiaoleo.com/members/30312
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar es lindo para ir de noche a tomar cerveza y picar algo, ambiente tranquilo.
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/29598
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar con mucha onda, donde te sent\xEDs muy c\xF3modo tanto para ir con amigos o con tu esposa.\r\n\
+      Excelente m\xFAsica."
+    date: 15-07-2006
+    user: http://mi.guiaoleo.com/members/7696
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buen lugar para ir con amigos a tomar unas copas. Tiene onda.
+    date: 06-01-2006
+    user: http://mi.guiaoleo.com/members/6111
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Adem\xE1s de ser una noche especial en compa\xF1\xEDa de alguien especial, ese lugar, su m\xFAsica y el ambiente lograron un momento m\xE1gico que jam\xE1s olvidar\xE9.\r\n\
+      Siempre que voy a Buenos Aires paso por all\xED."
+    date: 21-11-2005
+    user: http://mi.guiaoleo.com/members/4908
+    ambiente_rank: muy bueno

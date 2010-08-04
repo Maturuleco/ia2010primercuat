@@ -1,0 +1,359 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Muy caro para los platos escasos, no me gust\xF3, las mesas muy cerca, muy inc\xF3modas. Lo \xFAnico que hay que destacar es la buena atenci\xF3n del mozo. Definitivamente no vuelvo."
+    date: 30-08-2009
+    user: http://mi.guiaoleo.com/members/38923
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hacia un tiempo que no hibamos y realmente decayo muchisimo. La comida es aceptable y nada mas, el servicio deja mucho que desear y los precios son carisimos, teniendo en cuenta los platos y el servicio. Para mi entender falta la mano de algun due\xF1o responsable, que mire muchisimo mas los detalles, es una pena, porque el lugar vale la pena y se sol\xEDa comer muy bien."
+    date: 25-07-2009
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La decoraci\xF3n del local me parece muy buena, sin embargo la comida es entre buena y regular y guarda poca relaci\xF3n con su costo. Por el mismo precio se puede comer a mi criterio mucho mejor. Ped\xED Tagliatelis (a mi gusto estabas pasados) con salsa de camarones que no era gran cosa. Pedimos 2 platos de pasta, no pedimos entrada y un solo postre para compartir con un vino de $25 y gastamos $130."
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/56661
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pocas mesas en el horario central de los domingos. La comida no fue muy sabrosa. Rescato el pan de pizza y los fideos caseros que, aunque le faltaban algo de sal,no sab\xEDan a harina.  La salsa del arrollado de lomo ten\xEDa gusto a caldos saborizados y el postre realmente muy malo. No volver\xEDa"
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/31176
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hac\xEDa tiempo que no com\xEDa en este lugar. No perd\xED el tiempo... la comida no estaba mal, pero era olvidable, por el precio de los platos se consiguen cosas mas ricas y sofisticadas.\r\n\
+      Eramos 2 y nos hicieron esperar media hora a pesar de tener 4 mesas de 4 comensales libres \"por si ven\xEDa alguien\", me pareci\xF3 poco serio, realmente. La cuenta lleg\xF3 tarde, luego de reclamarla y con la excusa de \"no te entend\xED\". Eso no se hace, los olvidos hay que reconocerlos."
+    date: 08-05-2009
+    user: http://mi.guiaoleo.com/members/14195
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo mejor es el ambiente. la comida es tradicional (enti\xE9ndase por esto: poco sofistacada) y sabrosa. un martes a la noche, no hubo problemas de espera ni de servicio. los platos son del tama\xF1o porci\xF3n y media. los vinos est\xE1n a precios razonables."
+    date: 28-04-2009
+    user: http://mi.guiaoleo.com/members/16898
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida es francamente mala. Todo absolutamente todo viene decorado con papas fritas enormes, desde las entradas hasta los platos principales. La camarera que nos atendi\xF3 no conoce los platos y reconoci\xF3 confundirse las recetas con langostinos. Los arancini y \"mis bolitas\" (as\xED figuran en la carta) estaban excesivamente salados. El matambrito relleno era pura grasa adornada con las mencionadas papas fritas. S\xF3lo el jam\xF2n crudo era excelente. No nos animamos con los postres cuando vimos que a la camarera se le desmoronaba el postre en una mesa vecina."
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/34193
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un restaurante con un aire familiar pero excelentemente decorado y ambientado. La atencion deja algo que desear ya que se llena mucho y seguramente van a tener que recordarle al mozo algun pedido. Muy buena variedad en la carta, y tengo que decir que tanto lo que pedimos como lo que vimos que llevaban a otras mesas se veia muy sabroso. Precio acorde. Para volver tranquilo, pero traten de evitar las horas pico si no quieren esperar afuera.
+    date: 30-01-2009
+    user: http://mi.guiaoleo.com/members/6396
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar ideal para ir en familia.\r\n\
+      La comida es muy excelente como historicamente (lo conozco hace 40 a\xF1os) Est\xE1 reciclado y muy lindo y la atenci\xF3n es esmerada y c\xE1lida. Los precios razonables. Las porciones de pasta se pueden compartir para hacer una degustaci\xF3n, ya que son abundantes.\r\n\
+      Para recomendar y volver."
+    date: 25-01-2009
+    user: http://mi.guiaoleo.com/members/10102
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "es el mejor lugar de la zona pero no lo recomendar\xEDA"
+    date: 09-01-2009
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Nada que decir del ambiente y decoracion que son exelentes, pero la demora en servir los platos es un espanto y en el caso de los ravioles se notaba que los habian recalentado ya que la salsa estaba seca y las pastas pegadas, no vuelvo.
+    date: 09-01-2009
+    user: http://mi.guiaoleo.com/members/25705
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy recomendable,excelente comida ,preparada con dedicaci\xF3n ,recomiendo postre volcan de chocolate,espectacular !!"
+    date: 12-12-2008
+    user: http://mi.guiaoleo.com/members/41956
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Las entradas y en general toda la comida es muy buena. La atenci\xF3n es media . El lugar es muy especial con una decoraci\xF3n \xFAnica y original He estado varias veces y siempre he logrado disfrutar la comida y el ambiente. Lo recomiendo especialmente porque en toda la zona no hay algo de ese nivel"
+    date: 07-12-2008
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Una linda experiencia... no conocia el lugar, fuimos el dia de mi cumplea\xF1os con 3 parejas amigas... el lugar estaba vacio solo habia una mesa ocupada y la nuestra (era domingo a la noche) desconozco si sera ese el motivo pero tanto la atencion como la comida fueron  realmente destacables. Parrafo aparte para las pastas y los postres. \r\n\
+      Vayan lo recomiendo!"
+    date: 28-09-2008
+    user: http://mi.guiaoleo.com/members/24368
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente ambientaci\xF3n, muy buena relaci\xF3n precio/calidad y la atenci\xF3n no desentona.\r\n\
+      Buenas tablas de entradas tipo tapeo para no dejar de probar y eso hace que se comparta el plato principal y el postre.\r\n\
+      Los mariscos y pescados se nota que son muy frescos y bien preparados, los que comieron carnes y pastas tambi\xE9n quedaron satisfechos.\r\n\
+      Para no dejar de visitar al que le gustan las cosas antiguas y comer bien por un precio justo."
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/44900
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Exelente lugar. La comida de diez,muy rica,de productos de primera calidad.
+      La atencion de los mosos es muy buena,no dejan de estar atentos.
+      Ambiente muy lindo,onda mezcla de viejo con modernos lcds.
+      Precio accesible,lugar hermoso para ir con novia , esposa ,familia, y amigos.
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/48714
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: estuve el domingo al mediodia y pedimos dos platos de ravioles y dos gaseosas, el precio bastante caro, lo mismo que el cubierto por ser un restaurant de barrio, muy ruidoso y el mozo no nos supo asesorar por los platos a compartir la cartilla no esta completa ni clara no vuelvo mas.
+    date: 20-07-2008
+    user: http://mi.guiaoleo.com/members/48212
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Un lugar bien ambientado, muy limpio,con originales manteles de cuero que le dan un toque campestre al lugar. La comida es abundante, su sabor es suave y muchos platos son para compartir. La atencion es excelente ya que los mozos estan siempre atentos a las mesas. Fuimos un sabado al mediodia y habia bastante gente. La carta es muy variada y hay platos para todos los gustos y bolsillos. Vamos a volver!!!
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/47091
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente propuesta. Comida recien hecha y con buena atenci\xF3n; faltar\xEDa mejorar la panera."
+    date: 16-06-2008
+    user: http://mi.guiaoleo.com/members/22702
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fui un d\xEDa  h\xE1bil tipo 14:30 hs. y la verdad que no tuve suerte con la atenci\xF3n, ya que me entregaron el pollo al corleone, muy bueno por cierto, pero con una demora no tolerable. La comida muy buena con interesantes presentaciones. Lo mejor del lugar el ambiente."
+    date: 27-05-2008
+    user: http://mi.guiaoleo.com/members/23135
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Mi experiencia fue realmente muy mala, la demora fue de 30 minutos ya que no habia hecho reserva y la demanda lo supero ampliamente, el ambiente es tipo campo con adornos viejos que son muy lindos, es lo mejor que tiene el lugar, despues la comida se notaba que estaba recalentada, se habian quedado sin pan, la comida dejo much\xEDsimo que desear a tal punto que la salsa estaba seca!!la demora de los platos fue cuasic\xF3mica, ya que los platos llegaron a destiempo totalmente, tal es as\xED que el primero servido termino de comer y todavia no hab\xEDan llegado todos los platos. NO LO RECOMIENDO PARA NADA."
+    date: 14-05-2008
+    user: http://mi.guiaoleo.com/members/48429
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida y el lugar es excelente, la unica critica es porque es muy ruidoso y la luz esta muy fuerte , tendrian que suavizar el ambiente
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/44676
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Excelente lugar en Villa Devoto vale la pena conocerlo, ambiente muy agradable y bien decorado.\r\n\
+      La comida  muy buena y la atenci\xF3n esmerada"
+    date: 29-04-2008
+    user: http://mi.guiaoleo.com/members/15227
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar es muy pintoresco y muy bien ambientado, y sobre todo limpio, lo cual es importante como primera impresion. la atencion es muy buena por parte de los mozos. con respecto a la comida la verdad cenamos muy bien, la provoleta estaba muy rica y a punto. los bocconcini con salsa muy delicados y como entrada esta muy bien ,abundante. de principal pedimos pastas, sorrentinos y fucciles con salsa 4 quesos , riquisimos los sorrentinos, y bien hechos, es decir los bordes estaban tiernos. la relacion precio /calidad/y"cantidad"es muy buena.lamento no haber ido antes ya que soy del barrio.volvere
+    date: 24-04-2008
+    user: http://mi.guiaoleo.com/members/36248
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un excelente restaurant, que queda apartado de otros, por lo tanto si no hay lugar hay que viajar bastante para otro lugar. Ese es el riesgo. El servicio es muy bueno con calidad y experiencia de los mozos. La ambientaci\xF3n con infinidad de cosas antiguas y originales, como los ba\xF1os, impecables con accesorios de tiempos remotos. La comida abundante y buena en todas sus variables. No hay duda, un lugar cl\xE1sico un poco perdido, para ir sin problemas."
+    date: 31-03-2008
+    user: http://mi.guiaoleo.com/members/41545
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es excelente, los mozos son personas que tienen experiencia, muy amplia la carta es dificil decidir. Fui varias veces porque realmente la pase muy bien, el precio acorde a los platos.LO RECOMIENDO
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/14558
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un miercoles al mediodia el local no estaba lleno. Se pod\xEDa conversar tranquilamente, sin ruido excesivo. La decoraci\xF3n es original y muy linda, casi un museo. La atenci\xF3n  correcta. La mia fue una comida de negocios, por lo que ped\xED algo muy b\xE1sico y no alcanza para evaluar demasiado la calidad de la comida."
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/12667
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La decoraci\xF3n es inmejorable, exeptuando las pantallas de LCD mezcladas con los maravillosos objetos antiguos, el ambiente es bastante ruidoso y cuesta mantener una charla (si los comensales por mesa son m\xE1s de 2) sin participarse de lo que hablan los vecinos de mesa, ya que \xE9stas se encuentran demasiado cerca. El men\xFA fue ampliado en el \xFAltimo tiempo, algo para celebrar. La comida es correcta y los mozos amables. Lindo lugar para tener en cuenta fuera del circuito bullicioso de restaurantes de Buenos Aires"
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/26778
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Es un lugar para no dejar de visitar. Muy buen ambiente, muy buena comida y precio accesible.
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 la ambientaci\xF3n, el servicio y la comida. Los precios est\xE1n justos. El men\xFA y la carta de vinos son amplios (hay para todos los gustos). El mozo nos aconsejo correctamente que se pod\xEDam compartir algunos platos. Sin dudas voy a volver!"
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/16955
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Pedimos la entrada y estaba fr\xEDa, lo dejamos pasar pero le dijimos que el plato principal lo traiga caliente.\r\n\
+      Cuando los trajo, la comida estaba fria (no obstante le habiamos avisado anteriormente), entonces le pedi que me lo caliente. \r\n\
+      El mozo tuvo el tupe de tocar el plato y discutirme lo que no estaba frio!!!\r\n\
+      Creo que es inaceptable y una falta de respeto.\r\n\
+      Eso me arruino la salida ya que uno se pone nervioso porque se tiene que poner a discutir con un mozo!!!\r\n\
+      No lo recomiendo para nada, muy bullicioso el lugar y todavia no puedo creer que este lleno con ese tipo de atencion."
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/5913
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "La atenci\xF3n y el ambiente excelentes. La comida deja mucho que desear: a la trucha todav\xEDa le quedaban espinas, el pollo en la entrada ten\xEDa peque\xF1os cart\xEDlagos y otros indeseables y el cerdo ten\xEDa gusto a carne hervida. El precio ser\xEDa correcto si la comida fuese buena."
+    date: 18-11-2007
+    user: http://mi.guiaoleo.com/members/36081
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Paquete restaurante de barrio, originalmente ambientado aunque algo ruidoso. La atenci\xF2n del mozo que nos toco inmejorable,muy predispuesto para aconcejar. \r\n\
+      Los platos son muy abundantes La cocina  muy eleaborada no hay opciones basicas. Un lugar para recomendar mucha gente en el local para un jueves."
+    date: 15-11-2007
+    user: http://mi.guiaoleo.com/members/13437
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Es cierto que las porciones son abundantes, pero tambien es cierto que un plato elaborado como el salm\xF3n rosado en salsa de chablis, no puede llevar palmitos. \r\n\
+      El bullicio por momentos se hace insoportable. Creo que para gente con mucho apetito y pocas pretensiones. "
+    date: 03-11-2007
+    user: http://mi.guiaoleo.com/members/17053
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy bueno para rest\xF3 de barrio, muy buena comida."
+    date: 11-10-2007
+    user: http://mi.guiaoleo.com/members/33989
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El ambiente y la atencion es lo mejor . Las porciones estan bien, la calidad de la comida es adecuada y el precio razonable. Servicio de mesa $4. Volver\xEDa y lo recomiendo, es un restaurante de barrio muy lindo."
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/20990
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buenas las pastas, las porciones son moderadas, si no piensan comer postre mejor agreguen una entrada. La atenci\xF3n es muy buena. El lugar muy agradable, pero el bullicio baja cualquier calificaci\xF3n. Les recomiendo el lemonchamp, est\xE1 buen\xEDsimo. "
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/20269
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena comida y atencion, a un precio accesible. Excelente la ambientacion. Recomendable.
+    date: 27-08-2007
+    user: http://mi.guiaoleo.com/members/17106
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      El lugar, la comida y el servicio exelente, muy rapido siempre. Generalmente esta lleno pero hay mucha movilidad, por lo que no hay que esperar. 
+      La unica critica es el rissoto, que es una paella. Pero todo lo demas sin critica alguna. Totalmente recomendable.
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/29408
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos 10 personas incluida una ni\xF1a peque\xF1a,que fue atendida con especial atencion a pesar de no tener un lugar para chicos.La comida es EXCELENTE y la antencion tambien.Nos encanto la ambientacion.Altamente recomendable,con porciones abundantes para compartir en la mayoria de los platos.Para volver y volver...."
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/5169
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida es muy rica, y abundante. El servicio es bueno y el ambiente tranquilo. Muy recomendable. \r\n\
+      Funciona como sal\xF3n de fiestas tambi\xE9n en el segundo y tercer piso."
+    date: 17-06-2007
+    user: http://mi.guiaoleo.com/members/21601
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "la milanesa no estaba muy rica, pero en general los platos son muy ricos, sobre todo abundantes. el servicio es de primera (aunque tal vez hay que esperar un poco). el ambiente es lindo (aunque las mesas un poco apretadas) para ir en familia. muy buena relacion precio-calidad. "
+    date: 06-05-2007
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un lindo lugar (muy buena ambientaci\xF3n), y la comida es excelente. El \xFAnico punto en contra es el bullicio... Los postres realmente valen la pena."
+    date: 21-04-2007
+    user: http://mi.guiaoleo.com/members/21960
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La verdad que es un lugar hermoso para una cena en familia o rom\xE1ntica la decoraci\xF3n es hermosa!!!, la atenci\xF3n muy cordial y sobre todo saben muy bien aconsejar sobre los platos.\r\n\
+      La comida excelente y muy rica, el precio muy acorde con los platos.\r\n\
+      Super recomendable!!!"
+    date: 04-04-2007
+    user: http://mi.guiaoleo.com/members/20232
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3, me gust\xF3 mucho el servicio y la atenci\xF3n. Lo m\xE1s lindo es como est\xE1 ambientado el lugar."
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/16718
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Uno de los mejores restaurante de Buenos Aires. P\xE9sima la mouse de chocolate, el resto espectacular. La cocina, atenci\xF3n y decoraci\xF3n del lugar un aut\xE9ntico museo restaurante. "
+    date: 30-01-2007
+    user: http://mi.guiaoleo.com/members/285
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Tardan un poco con la preparaci\xF3n de los platos. El brownie era un cascote, me pareci\xF3 un poco caro."
+    date: 07-01-2007
+    user: http://mi.guiaoleo.com/members/16212
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente relaci\xF3n precio/calidad. Nos gusta mucho la decoraci\xF3n al estilo r\xFAstico y que evoca viejas epocas. Agradable para pasar un buen rato. Vamos seguido."
+    date: 26-11-2006
+    user: http://mi.guiaoleo.com/members/12201
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena cocina, bien atendido. Ambiente un poco ruidoso, va mucha gente. Hay que reservar. Muy buen precio y buena vigilancia, hay que visitarlo.
+    date: 30-09-2006
+    user: http://mi.guiaoleo.com/members/3523
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar est\xE1 ambientado al estilo r\xFAstico, muy buenos los platos en cantidades adecuadas. \r\n\
+      La comida es rica y casera. Es un lindo lugar para ir con amigos o pareja. \r\n\
+      Lo \xFAnico para criticar es la disposici\xF3n y comodidad de sillas y mesas y el gran bullicio en fin de semana.\r\n\
+      Igualmente lo recomiendo."
+    date: 23-06-2006
+    user: http://mi.guiaoleo.com/members/9509
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "B\xE1sico, pero bueno."
+    date: 08-06-2006
+    user: http://mi.guiaoleo.com/members/9915
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es un poco ruidoso y la temperatura de la comida un poco tibia pero la calidad es excelente. Es un lugar muy recomendable.
+    date: 03-06-2006
+    user: http://mi.guiaoleo.com/members/8462
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar m\xE1s que recomendable. La ambientaci\xF3n es c\xE1lida y la comida de primer nivel, con platos muy ricos, originales y para compartir. \r\n\
+      La atenci\xF3n de los mozos es excelente. Realmente vale la pena ir con amigos o parejas para cenar como corresponde."
+    date: 29-05-2006
+    user: http://mi.guiaoleo.com/members/8926
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Ambientaci\xF3n muy agradable. La comida, con dedicaci\xF3n artesanal. Antonio fue m\xE1s que amable en su atenci\xF3n, con el local a full, siempre bien predispuesto."
+    date: 20-03-2006
+    user: http://mi.guiaoleo.com/members/6103
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Todo muy casero y rico. Prociones generosas.
+    date: 17-02-2006
+    user: http://mi.guiaoleo.com/members/7806
+    ambiente_rank: excelente

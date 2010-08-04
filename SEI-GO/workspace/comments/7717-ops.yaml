@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      AWESOME!!!
+      I LOVE it here, wonderful happy hour and excellent selection of food. Great 4th of July specials. I have loved everything that I
+    date: 04-07-2010
+    user: http://mi.guiaoleo.com/members/84692
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Venimos una noche a cenar un grupo de amigas y comimos las mejores hamburguesas que he probado en mi vida. Las porciones son muy grandes y ninguna pudo terminarlo todo pero la verdad que tanto las papas como las hamburguesas eran lo mas. Nos terminamos quedando hasta tarde ya que tiene un ambiente muy divertido. Vale la pena probarlo, sin duda!
+    date: 19-06-2010
+    user: http://mi.guiaoleo.com/members/84691
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fui con un grupo de amigas, y nos encanto este lugar! La comida que sirven es muy rica, fresca y abundante.
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/82982
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Al fin un buen lugar para comer la t\xEDpica hamburguesa americana. Volver\xE9 para comer los Brunchs. Realmente muy bueno, ya conoc\xEDa el lugar pero me sorprendieron con el nuevo men\xFA. Super recomendable para ir en pareja o con amigos a ver deporte."
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/24720
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: es un restaurante buenisimo, la verdad que las hamburguesas estan gigantes y el ambiente nocturno es lo mejor de bs as junto con los clubes de musica electronica, espero poder regresar...
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/82833
+    ambiente_rank: excelente

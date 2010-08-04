@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: malisima la propuesta, muy improvisado de esta forma creo no se maneja un restaurante, la chica de la caja no tiene ni idea donde esta parada y el servicio es lento.
+    date: 17-05-2010
+    user: http://mi.guiaoleo.com/members/35041
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es un restaurant chco pero agradable. La comida muy buena, pero demoraron en traer los platos.
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/77109
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un desastre. Fui un domingo a desayunar, te ofrecen 3 o 4 tipos de desayuno, pedimos medialunas y la moza nos dice\" se acabaron, llegaron tarde... eran las 10.45 de un domingo\", pedimos tostadas y nos dijo que solo tenian pan lactal que s eles termino el pan com\xFAn. No se les puede ocurrir que mejor que decir todo que no es ir a una panadreia cercana y comrpar pan y medialunas. Me resigne y pedi un cortado en jarrito, pues me trajeron un cortado chico despues de 35 minutos.  Entre todos los que atienden no hacen uno."
+    date: 14-01-2010
+    user: http://mi.guiaoleo.com/members/33202
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es buena. La atenci\xF3n de la moza dej\xF3 mucho que desear..."
+    date: 10-01-2010
+    user: http://mi.guiaoleo.com/members/74757
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente lugar, muy tranquilo con una comida muy buena.Ambientaci\xF3n agradable y servicio atento."
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/22200
+    ambiente_rank: muy bueno

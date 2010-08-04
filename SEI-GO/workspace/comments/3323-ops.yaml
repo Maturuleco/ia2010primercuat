@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Fuimos anoche 4 amigas.Tomamos un syrah corte malbec 2 coronas sushi, papas, pinchos, postre. Normal, nada deslumbrante, pappas un poco frias la salsa de soja casi la confunden con aceto. Para charlar tomar algo y hablar. Lugar con onda.
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/82878
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un bar, no un restor\xE1n. Para tomar tragos y picotear algo en la muy agradable terracita. Precios, ruido y mozas palemitosos."
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/32957
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Sentados sobre la barra con mi pareja pasamos una muy agradable noche bebiendo muy buenos tragos y picando unos pinchos de pollo, ricos, tipicos, nada del otro mundo. El ambiente es muy agradable. Un tanto caro.
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/74150
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Esta bueno para picar algo al mediodia o a la tarde por Palermo, tiene buenos sandwichs y finger foods para picotiar algo. Se aprovecha mas si se va a la tarde con sol en la terraza enfrente a plaza Armenia. Para pasar el rato esta bueno pero tampoco se come espectacular. Normal
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Muy lindo lugar ambiente tranquilo, los tragos servidos muy bien,las mozas amabilisimas.
+    date: 29-04-2008
+    user: http://mi.guiaoleo.com/members/7455
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Lugar muy versatil y acogedor. Platos muy buenos, y buenos tragos. Muy buena la terraza para ir en verano.
+    date: 03-02-2008
+    user: http://mi.guiaoleo.com/members/11766
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: el lugar esta bueno, le da un poco de aire a los dinosaurios que estanalrededor, sin dudas volvere.
+    date: 04-01-2008
+    user: http://mi.guiaoleo.com/members/1698
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Esta muy bien para ir a tomar algo a la tarde. Hay diferentes opciones y en buen precio.
+    date: 23-12-2007
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La decoracion es agradable pero la musica estaba tan fuerte que casi no se puede hablar. La comida demoro muchisimo y al probarla todos los platos eran re salados, no los terminamos. La atenci\xF3n es pesima, te ignoran y cuando logramos que nos  atendieran nos trajeron 1 carta para 8 personas. Y adem\xE1s cerca de la 1 de la ma\xF1ana, despues de consumir un monton, nos dijeron que no querian echarnos pero la mesa estaba reservada a la 1. Un lugar para no volver."
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/36776
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fuimos un domingo a la noche. La terraza esta buenisima. Pedimos unos sandwiches para acompa\xF1ar la cerveza pero, si bien estaban bien preparados, eran diminutos. Para lo que nos sirvieron, eran caros. Igualmente no es un lugar para ir a cenar. La carta de tragos muy completa. En resumen: para tomar un trago con amigos en un muy buen ambiente."
+    date: 02-12-2007
+    user: http://mi.guiaoleo.com/members/20309
+    ambiente_rank: excelente

@@ -1,0 +1,285 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Las Rabas son altamente recomendables. Toda la comida es fresca y de excelente calidad.
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/73652
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente op\xE7\xE3o em Buenos Aires, com \xF3tima comida, ambiente agrad\xE1vel e servi\xE7o excelente. Logo na chegada, \xE9 servido um delicioso aperitivo - receita da casa. As entradas, o prato principal e o tiramis\xFA ainda competem na lembran\xE7a da primorosa refei\xE7\xE3o. Recomendo!!! Na pr\xF3xima visita \xE0 Buenos Aires, o retorno \xE9 certo."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/79611
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Em viagem a Buenos Aires, n\xE3o pude deixar de voltar \xE0 Cantina Don Corleone. O ambiente estava todo renovado, muito mais agrad\xE1vel e, como sempre, contando com a simpatia de seus donos. Experimentei \"Camar\xE3o a Mediterranea\" e a comida continua excelente. Sempre que vou a Buenos Aires n\xE3o deixo de visitar a Cantina Don Corleone."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/78779
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos a festejar el cumple\xF1os de un amigo, y nos sorprendi\xF3 gratamente la nueva ambientaci\xF3n. Se ve mucho mas iluminado y grande.La decoraci\xF3n perfecta, hace directa menci\xF3n al nombre.La comida como siempre, de \"excelencia\".Ni hablar de la calidez en la atenci\xF3n personalizada de Lilian"
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/75583
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "la comida exelente, la atencion personalizada y muy buena del due\xF1o y su esposa"
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/53564
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Increible!! Una experiencia \xFAnica, atendido por sus due\xF1os que saben aconsejarte y te hacen sentir como en tu casa. Una cantina decorada bien a la italiana, cada plato es preparado en el momento por el propio due\xF1o, un personaje genial; uno mejor que el otro (rabas, trucha, pastas, todo espectacular). Realmente para recomendar, para comer una comida excelente, en un ambiente distendido y por un precio m\xE1s que razonable. La \xFAnica contra que le veo es la zona, pero vale la pena ir, no tiene desperdicio. Vayan!!"
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/36206
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Simplemente excelente! Servicio personalizado de los due\xF1os muy calido. El lugar tiene onda, el due\xF1o/chef es un capo. La comida espectacular. Para no perderse. Salmon con salsa de estragon, Tortelloni con langostinos, boquerones increibles, Tiramisu de la due\xF1a riquisima."
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/19662
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "A favor:lleg\xE1s sin conocer y te atiende Andrea, su due\xF1o,te vas a dar cuenta que vas a terminar comiendo lo que el te recomienda, obviamente no te va a defraudar..., la comida, es muuy casera y muuy rica, sinceramente me sent\xED como en la casa de mi abuelo,comiendo las comidas caseritas de Italia, pero en Baires.La atenci\xF3n es familiar, as\xED que est\xE1 dem\xE1s decirlo, m\xE1s que bien!!.Muy bueno el tiramis\xFA, merece la pena probarlo, el strogonof de pollo y el saltimboca, deliciosos.\r\n\
+      En contra: es una pena que despues de 9 a\xF1os vendan el fondo de comercio, ap\xFArense y prueben \xE1ntes de perder esta joya."
+    date: 24-08-2009
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comida gourmet? ,no ni ah\xED; ambiente gourmet?, tampoco.Pero si muy buena comida , sabrosa , preparada por su due\xF1o , un siciliano de pel\xEDcula ,que junto a su esposa , brasile\xF1a ( que tiramis\xFA!),se encargan personalmente de que todo est\xE9 en orden y bien atendido.Don Corleone es una de las tantas cantinas de Bs.As.que pasan inadvertidas ,se llega por el boca a boca o traves de la GO ,pero que mantiene la escencia de \"la fonda porte\xF1a\"bajada de los barcos.No busque ambiente , carta amplia de vinos ni platos sofisticados;vaya a comer como en casa ,sabroso y no va a salir decepcionado."
+    date: 22-08-2009
+    user: http://mi.guiaoleo.com/members/45039
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hace tiempo no com\xEDa strogonoff de pollo que no sea el que hago yo, en este caso muy delicioso, seguramente debe de estar ideado por la se\xF1ora el due\xF1o, brasilera, ya que este plato es m\xE1s com\xFAn por aquellos pagos. El pollo al verdeo tambi\xE9n muy rico. Lo \xFAnico de este lugar al cual he ido varias veces es que encuentro las porciones algo escasas, y m\xE1s de una vez me encontr\xE9 ordenando 2 platos, lo cual no se hace tan caro puesto que el lugar tiene una muy buena relaci\xF3n precio calidad. La ambientaci\xF3n normal, lugar peque\xF1o, pero bien atendido por su due\xF1o tano tano. El petit gateau excelente!"
+    date: 21-08-2009
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar excelentemente atendido por sus due\xF1os. Ambos se preocupan porque la comida haya satisfecho a todos. La comida es sublime. Un manjar. El lugar de afuera parece una vieja cantina y no dice nada, pero adentro resaltan la calidez de sus due\xF1os y el decorado con carteles e imagenes de cosas italianas."
+    date: 10-05-2009
+    user: http://mi.guiaoleo.com/members/52834
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Lugar recomendable para comer si estas por la zona y queres conocerlo. O alternativa si te gusta la comida italiana. Lo que diferencio la comida para llamarse \"italiana\" fue la salsa, la pasta en si no me parecio especial. Pero de todas formas se presento muy sabrosa y correctamente especiada. Excelente la atencion personal por il capo, quien enuncia las recomendaciones, retira los platos y pregunta como va la comida, para cerrar un buen tiramisu preparado por su se\xF1ora esposa. La ambientacion sicialiana del lugar, es acorde a la oferta del concepto de cantina."
+    date: 03-12-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Volveria sin dudarlo. Muy buena comida y verdadera atencion por sus due\xF1os! Algo a lo que lamentablemente no estamos acostumbrados en Buenos Aires."
+    date: 12-10-2008
+    user: http://mi.guiaoleo.com/members/52797
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen plan para un s\xE1bado al mediod\xEDa. La atenci\xF3n es impecable y las excelentes recomendaciones evitan el stress de tener que elegir los platos. Dan ganas de volver a probar las pastas."
+    date: 30-08-2008
+    user: http://mi.guiaoleo.com/members/17186
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fuimos por los comentarios de la Gu\xEDa. Nos llevamos una grata sorpresa. El tano es un maestro. La comida es autenticamente italiana. Seguimos su recomendaci\xF3n y estuvo buen\xEDsima. El lugar un poco vac\xEDo."
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/5640
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Me encanto el lugar la bebida de mandarina de entrada y toda la comida fue de primera el lugar es recomendable .
+    date: 06-06-2008
+    user: http://mi.guiaoleo.com/members/45208
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Vayan.Ibamos al 1/2 d\xEDa y la comida jam\xE1s nos defraud\xF3. El tano es impagable, si com\xE9s lo que te recomienda te ama, pero si le pon\xE9s queso a un plato de pastas que \xE7el no considera que lleve te odia (y te lo hace saber). Las pastas, as\xED como los dem\xE1s platos son excelentes, y el tiramisu es de los mejores (y eso que lo prepara una brasilera, su mujer)"
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/806
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida,es de un tano Sciciliano, que cocina como los dioses, es un lugar medio mistico en el cual la comida te transporta a sabores unicos, deja que el due\xF1o te recomiende que comer no te va a defraudar, no se lo pierdan"
+    date: 11-05-2008
+    user: http://mi.guiaoleo.com/members/20133
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Si bien la comida es buena; no nos parecio de la excelencia que se describe en los comentarios de la guia. Pedimos como entrada rabas, que estaban realmente muy ricas. Como plato principal pedimos merluza negra, y un plato de la carta del dia (pollo con papas). Eran platos correctos; pero no demasiado gustosos. El due\xF1o muy amable, y el servicio nos parecio muy cordial y atento. El ambiente es el tipico de una cantina; para nada deprimente. Lugar recomendable para clientes de la zona; no se justifica hacer largos viajes para conocer su cocina."
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente un placer volver a este lugar. Un verdadero tesoro escondido. La excelente calidad de la comida se compara solamente con el servicio que proveen los due\xF1os. Altamente recomendable"
+    date: 01-02-2008
+    user: http://mi.guiaoleo.com/members/19275
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Recomendados por una familia amiga bien tana y que son de comer mucho y hacer ruido llegamos a esta cantina. Fuimos los primero comensales, nos abri\xF3 la puerta la mujer del due\xF1o y nos acomodamos pr\xF3ximos a una ventana.\r\n\
+      Ah\xED nom\xE1s aparecio Andrea el due\xF1o del lugar, el alma del mismo, el cocinero, el mozo, el que te dice que comer tambi\xE9n.\r\n\
+      Antes que nada te aviso que tenes que hacerte la idea que no vas a ordenar lo que tenes pensado, Andrea habilmente te llevara hacia t\xFA comida. Hacele caso, sus recomendaciones son buenas. Nosotros conociendo este punto de antemano nos dejamos llevar y cenamos de maravillas.\r\n\
+      Vamos a lo importante...la comida!!...la bebida, la parte m\xE1s floja, muy poca oferta; casi todos de la bodega Norton, que para mi escasa experiencia en vinos son muy \xE1cidos; fue entonces un bivarietal m\xE1s un agua sin gas.\r\n\
+      De entrada nos recomendo rabas y gustosos aceptamos, muy ricas, tiernas, sabrosas, buen aceite y sin sal como las hab\xEDamos ordenado.\r\n\
+      Pasamos al plato principal, \xE9l te pregunta que queres comer,,,dijimos a duo..Pastas!!!.\r\n\
+      Nos volvimos a dejar llevar por sus sugerencias por lo que mi se\xF1ora pidi\xF3 tagliatelles a la Norma (salsa roja, albahaca, muzzarella y berenjenas, el mejor plato de la noche, te lo recomendamos!pedilo no te defrauda, eso si, los tagliatelles son secos no frescos, ojito a eso. \r\n\
+      Lo mio m\xE1s sencillo, a ser sincero menos sabrosos pero igual de recomendables, agnolotis de muzzarella y jam\xF3n con salsa blanca gratinados. Vinieron bien al dente, sino te gustan asi de duros avisale a Andrea y el graten fue el mejor que me sirvieron en nuestra corta experiencia culinaria.\r\n\
+      Para finalizar, de postre Tiramis\xFA, lo m\xE1s casero de la noche, pero no lo hizo el tano Andrea sino la mujer, que es brasilera, pero le sale de re chupete.\r\n\
+      Como regalo de la casa te traen de entrada un aperitivo, fuerte pero bien digestivo a base de vodka y mandarina y para irte relajado te dan lemoncello.\r\n\
+      Para finalizar, el lugar donde esta situado no lo favorece, pero esta muy bien iluminado, te lo recomendamos pero siempre teniendo en cuenta q no vas a comer lo que vos queres sino lo que Andrea te sugiere y lo que te sugiere es siempre muy rico.\r\n\
+      As\xED que anda proba y despu\xE9s comentanos."
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/17010
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buena comida en un lugar muy cordial. Para ir en grupo.
+    date: 17-11-2007
+    user: http://mi.guiaoleo.com/members/35808
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida muy buena, con verdadero sabor de casa italiana, aunque a veces uno come lo que el due\xF1o quiere hacernos probar; el lugar muy pintorezco y el due\xF1o muy parlanch\xEDn. Recomendable m\xE1s de d\xEDa ya que el lugar es muuuy desolado. "
+    date: 04-08-2007
+    user: http://mi.guiaoleo.com/members/1469
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Buenas Tardes:\r\n               Opt\xE9 el D\xEDa del Amigo por ir a cenar con otro matrimonio, ya que no habia reservas en casi ning\xFAn restaurant de los que pretend\xEDa ir, como el lugar d\xF3nde est\xE1 no es muy c\xE9ntrico, salvo que lo conozcan los clientes, \xF3 como hice yo por la Gu\xEDa Oleo, llam\xE9 para reservar y luego de algunas vueltas, logr\xE9 una mesa para 4 personas, diciendom\xE9 que la reserva era hasta las 21,30 hs., por supuesto llegamos a las 21,15 y el restaurant estaba vac\xEDo, la due\xF1a nos tom\xF3 el pedido diciendo que era un d\xEDa especial y que solo hab\xEDa esa noche 5 Platos calientes, y algunas entradas, para no hacerlo demasiado extensivo les comento que solo poseen 2 marcas de Vinos: Norton y Dalton, a precios que parec\xEDan Bodegas Lopez  \xF3 Trumpeter, y en segunda instacia las 3 Mozas que atienden no tienen idea del servicio, abrieron el Vino y lo dejaron en el centro de la mesa, pan recalentado y algunos del mediodia duro, y para terminar, una de las entradas que pedimos fue Mejillones a la Provenzal la Porci\xF3n $ 10,00 y ven\xEDan 7 Mejillones en un plato, falta total de \xE9tica ya que eramos cuatro y si pon\xEDan 8 Mejillones por lo menos comiamos 2 C/u -  As\xED les podr\xEDa enumerar algunas cosas m\xE1s, pagamos con vino $ 120,00, excesivo para lo que comimos y sin postre con caf\xE9\r\n               Saludos - Roberto. "
+    date: 21-07-2007
+    user: http://mi.guiaoleo.com/members/24845
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Llegu\xE9 con expectativa de comer pasta casera, al momento de pedir, el due\xF1o me suguiere insistentemente un plato de su invenci\xF3n, y para sorpresa m\xEDa los spaguettis no eran caseros, por lo tanto ir a un restaurante italiano y comer fideos de supermercado no justifica todo el circo siciliano montados por sus due\xF1os. No es un lugar recomendado para una salida nocturna."
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/26821
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ac\xE1 estamos en un restaurante en el lugar menos pensado, sobre la calle Brasil, justo antes de la salida para la autopista a La Plata. El sitio es sencillo y atendido por sus due\xF1os. La carta ofrece como entradas rabas, mejillones, calamarettis o langostinos a la siciliana; como primeros platos variedades de pasta seca o de pasta hecha en casa con siete opciones diferentes de salsa, o risotto; para segundo plato carnes o pescado del d\xEDa, para finalizar recomiendan su tiramisu. La comida es correcta y hecha en el momento por el due\xF1o. La lista de vinos es corta. En resumen un restaurante correcto que ofrece a los comensales una comida italiana tradicional."
+    date: 05-07-2007
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: comida muy buena y es hecha en el momento de pedirla los postres son muy ricos lastima que la zona es media desierta
+    date: 03-07-2007
+    user: http://mi.guiaoleo.com/members/12604
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Llegamos con una reserva pero un poco m\xE1s tarde de lo previsto, nos hicieron esperar 45 minutos hasta atendernos y traernos una bebida y pan. La atenci\xF3n de ah\xED en m\xE1s fue buena con el propio cocinero entregado los platos y consultando como estaba todo. La comida tiene sabor muy fuerte y concentrado. Comimos unas rabas que estaban bien, y exceptuando la merluza negra que estaba buena, el resto de la comida es regular. El tiramisu era para destacar entre los postres."
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/23616
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos a comer sin reserva y casi nos quedamos afuera, a pesar que hab\xEDa cuatro mesas vac\xEDas. Solo luego de insistir un buen rato pudimos comer. Esto da la pauta que cocinan para una cantidad limitada de personas. El lugar es pintoresco, en una zona que parece tierra de nadie, aunque vale la pena llegar. La atenci\xF3n es personalizada, aunque da la sensaci\xF3n que uno termina comiendo lo que el due\xF1o tiene ganas que comas. Ped\xED calamaretti y me insisti\xF3 para que coma los langostinos. El risotto estaba muy bien, aunque tenia el sabor muy concentrado. Vamos a ir nuevamente a probar otras cosas, pero haciendo la reserva correspondiente."
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "En una t\xEDpica cantina excelente comida y cordial atenci\xF3n brindada por sus due\xF1os."
+    date: 23-06-2007
+    user: http://mi.guiaoleo.com/members/23135
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es excelente, preparada en el momento y con productos de buena calidad. He comido en varias oportunidades, dado que queda me cerca de la oficina y siempre he comido muy bien y nunca me cay\xF3 mal la comida. Muy recomendable las berenjena a la parmesana, los fetuchinis con salsa de at\xFAn y especialmente el tiramis\xFA. El local esta atendido por el due\xF1o y su esposa, que adem\xE1s son los que cocinan; es gente muy agradable. Muy recomendable a pesar de la ubicaci\xF3n."
+    date: 22-06-2007
+    user: http://mi.guiaoleo.com/members/18564
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "es una cantina amable, no es un gran ambiente en sus dimensiones,y me resulto agradable en su decoraci\xF3n, la atenci\xF3n es buena, el due\xF1o y su esposa se ocupan de cada mesa, en algunos momentos un tanto impositivo en sus indicaciones, pero guardando las distancias. En cuanto a la comida, merece un parrafo aparte es excelente, de muy buena calidad, se nota que utilizan materia prima de primera calidad, el tiramis\xFA es absolutamente recomendable."
+    date: 16-06-2007
+    user: http://mi.guiaoleo.com/members/13284
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Verdadera comida italiana como si la hubiese preparado la nonna. El chef y due\xF1o prepara y sirve los platos, pregunta como est\xE1n y se queda a escuchar los comentarios. Un verdadero apasionado. Como en toda cantina, hay que esperar. El lugar lo atienden el due\xF1o y su mujer. La comida vale la pena la espera. Los platos no son para compartir y hay que pensar en una entrada tambi\xE9n. Todo fresco y sabroso. Infaltable el tiramis\xFA de poste y el pesto en alguna pasta. Una verdadera joya para los verdaderos gourmets que se preocupan m\xE1s por la comida que por el ambiente. El lugar es una de las pocas verdaderas cantinas scicilianas que quedan. "
+    date: 01-06-2007
+    user: http://mi.guiaoleo.com/members/11021
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Verdadera comida Siciliana. 10 puntos la atenci\xF3n de su due\xF1o."
+    date: 30-05-2007
+    user: http://mi.guiaoleo.com/members/23865
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La verdadad es uno pedacito de Sicilia ac\xE1, en San Telmo. Lo recomiendo, es muy bueno, lo pasamos muy bien. "
+    date: 27-05-2007
+    user: http://mi.guiaoleo.com/members/23806
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Atenci\xF3n excelente. El tiramis\xFA es el mejor de Buenos Aires (sin dudarlo), lo mismo que los pescados"
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/23655
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Atendido por sus due\xF1os, el chef en forma personal recomienda el plato a gusto del cliente."
+    date: 23-05-2007
+    user: http://mi.guiaoleo.com/members/23578
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Moro no Brasil e estive passeando em Buenos Aires. Indicaram-me a Cantina Don Corleone e foi um dos lugares em que melhor jantei em Buenos Aires e, para minha surpresa, fui atendida pelos donos no meu pr\xF3prio idioma. ADOREI!!!"
+    date: 20-05-2007
+    user: http://mi.guiaoleo.com/members/23457
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar poco conocido y fant\xE1stico. Atendido espl\xE9ndidamente por sus due\xF1os se come incre\xEDble. Sus rabas secas, las crepes y un tiramis\xFA bien italiano son paradis\xEDacos. Un sitio para aprovechar antes que se torne famoso y se convierta en una odisea conseguir mesa."
+    date: 18-05-2007
+    user: http://mi.guiaoleo.com/members/23393
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la comida y remarcable la atenci\xF3n de sus due\xF1os. Excelente el tiramis\xFA."
+    date: 16-05-2007
+    user: http://mi.guiaoleo.com/members/19736
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Este lugar es un tesoro escondido. Decoracion simple y austera. La atencion, es el gran fuerte de este lugar. Realmente nos sentimos comiendo en familia. Recomiendo probar las berenjenas a la parmesana como entrada. Altamente recomendable
+    date: 04-05-2007
+    user: http://mi.guiaoleo.com/members/19275
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es muy lindo, comi un lomo a la pimienta sabrocisimo, recomiendo el lugar, buen ambiente, buena comida, y muy buena atencion.
+    date: 03-05-2007
+    user: http://mi.guiaoleo.com/members/21035
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "eexelente comida y servicio \r\n\
+      magnificamente atendido por sus due\xF1os"
+    date: 13-04-2007
+    user: http://mi.guiaoleo.com/members/21594
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar, c\xF3modo, buena onda. \r\n\
+      El mejor en su tipo. La calidad de la comida es muy buena."
+    date: 02-04-2007
+    user: http://mi.guiaoleo.com/members/19789
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar, atenci\xF3n y onda."
+    date: 31-03-2007
+    user: http://mi.guiaoleo.com/members/20887
+    ambiente_rank: excelente

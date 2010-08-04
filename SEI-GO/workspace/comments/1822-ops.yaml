@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buenas las pastas y abundantes, las pizzas son ricas. Ideal para ir con la familia o amigos.
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/38923
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Tipica pizzeria/confiteria de barrio. La comida es aceptable, el ambiente podria mejorar, los mozos bien. Las pizzas son buenas y lo que casi siempre comemos es la \"Suprema Irup\xE9\" realmente muy abundante y para compartir. Para ir cuando no tenes ganas de cocinar..."
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/44489
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy pero muy rica pizza relacion precio calidad porque es exelente.altamente recomendable.
+    date: 26-06-2008
+    user: http://mi.guiaoleo.com/members/46433
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es una pizzer\xEDa de barrio que se distingue solo por hacer pizza por metro. La atenci\xF3n no es esmerada y el ambiente es com\xFAn. La relaci\xF3n costo servicio es correcta."
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/39515
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Soy vecino de la zona y lo utilizo mucho como delivery. Muy bueno el trato, ya cocozco a todos sus empleados, muy buena gente. Las porciones son muy generosas, tambi\xE9n suelo ir a desayunar. \r\n\
+      Las instalaciones est\xE1n bien, la limpieza OK."
+    date: 15-06-2007
+    user: http://mi.guiaoleo.com/members/5452
+    ambiente_rank: muy bueno

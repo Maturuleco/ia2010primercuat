@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buen servicio, calidad de la comida y vinos
+    date: 04-06-2010
+    user: http://mi.guiaoleo.com/members/83401
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente la comida,altamente recomendable
+    date: 03-06-2010
+    user: http://mi.guiaoleo.com/members/83399
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Cene sorrentinos con salsa bolognesa
+      Deliciosos, para recomendar!
+      Muy buena la atencion, ambiente familiar
+    date: 03-06-2010
+    user: http://mi.guiaoleo.com/members/83402
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui a festejar mi cumplea\xF1os con amigos, fuimos muy bien atendidos, el vino estaba en su temperatura justa y las carnes en los puntos pedidos. Para recomendar, para volver..\r\n\
+      Pague con tarjeta de credito."
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/83020
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gusto el ambiente, me parecio muy familiar. Todo muy prolijo. \xA1Habia perchero en el ba\xF1o!"
+    date: 04-05-2010
+    user: http://mi.guiaoleo.com/members/83029
+    ambiente_rank: excelente

@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "En realidad he pedido mas delivery que asistido propiamente al restaurante. Sin embargo la atencion es buena y la comida es mejor. Lamentablemente como en muchas parrillas los comensales salen con olor a asado hasta en el pelo. "
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/13948
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy buena carne, tierna y sabrosa, el lugar muy bueno
+    date: 16-07-2007
+    user: http://mi.guiaoleo.com/members/26956
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy buena atencion y comida
+    date: 16-05-2007
+    user: http://mi.guiaoleo.com/members/23251
+    ambiente_rank: excelente

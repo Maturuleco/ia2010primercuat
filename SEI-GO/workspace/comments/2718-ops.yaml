@@ -1,0 +1,286 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buenas pizzas. Recomiendo pedir dos sabores en una pizza, ya que cada una es realmente grande.
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/30893
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Creo que han sabido darle una vuelta de tuerca a un plato tan tradicional y popular como la Pizza. La decoraci\xF3n del lugar, la carta, la estetica del restaurante, los mozos y hasta la p\xE1gina web est\xE1n perfectamente alineadas dando una imagen de pizza gourmet. \r\n\
+      La variedad es sumamente interesante. Alternativas diferentes a lo tradicional y productos de primera calidad justifican los pesos adicionales que uno debe pagar. Destacan por originales y ricas las Pizzas Blancas como la de queso brie o la tradicional de manolo y francesca (parmesano, crudo, tomates secos y rucula)."
+    date: 28-10-2009
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Hay muchas variedades de pizzas hechas a la piedra. He pedido una Light y era muy sabrosa, con quiz\xE1s poco queso. La atenci\xF3n ha sido excepcional. El lugar muy agradable"
+    date: 07-08-2009
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Las variedades de pizzas son excelentes. Todas las que pude probar me parecieron buen\xEDsimas. Siempre ped\xED, nunca me sent\xE9 a comer ah\xED. Admito que el servicio es de cuarta, pero como la pizza me gusta la pido y la voy a buscar. He visto bastantes personas quej\xE1ndose mientras espero. Tengo claro que si no tengo ganas de ir a buscarla pido a otro lado para no amargarme. Igualmente, la recomiendo."
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/52250
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Me sorprendi\xF3 lo p\xE9simo del servicio en este local, ya que en otro de los locales nos hab\xEDa antedido muy bien. La chica que nos atendi\xF3 no quiso dejar la salsa que traen para \"picar\". Cuando le ped\xED que, entonces, trajera panes que no estuvieran gomosos, me respondi\xF3 de muy mala gana que \"todos son as\xED\". A pesar de la mala experiencia, la pizza estuvo muy buena. Volver\xE9, pero al local de Elcano."
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/25985
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Por segunda vez hago un pedido al local de belgrano (Vidal) y me traen medio pedido con lo cual o como frio o como la mitad de los comensales mientras esperas que completen tu pedido. La primera vez se olvidaron las bebidas y esta vez me trajeron uno de los dos sandwichs. PESIMO! Obviamente no llamo nunca mas!
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/11517
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "lamentable, llegamos por recomendaci\xF3n de la calidad de la pizza,en la sucursal de caballito,tardaron media hora en tomarnos el pedido,junto con otra media hora para llegar la pizza, pedimos 2 empanadas para hacer la entrada y llego junto con la pizza, llegaba gente a pedir mesas y decian que estaban todas ocupadas, pero tampoco las atendian,el servicio muy malo a juzgar por mi experiencia."
+    date: 02-04-2009
+    user: http://mi.guiaoleo.com/members/60851
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      ayer a la noche decidimos ir con amigos al almacen de julian alvarez 2400.
+      llegamos nos prepararon una mesa, faltaba una silla nadie se acerco a atendernos pasaron 10 minutos nos acercamos al mostrador a pedir la silla que nunca llego y despues de 15 minutos de estar parados y que las camareras nos ignoren por completo aun viendo una persona de la mesa que no tenia lugar para sentarse decidimos irnos.
+      malisima la atencion!!!!!!!
+    date: 28-03-2009
+    user: http://mi.guiaoleo.com/members/60395
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La pizza muy rica as\xED como tambi\xE9n la fain\xE1, lo que tiene que lo hace mejor que los dem\xE1s locales, es que est\xE1 apartado de los lugares populares y por lo tanto es un lugar donde siempre hay lugar disponible y es poco ruidoso"
+    date: 26-02-2009
+    user: http://mi.guiaoleo.com/members/51945
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La pizza es de las mejores por variedad de sabores y por la calidad de los ingredientes. El lugar es un poco chico y ruidoso pero soportable con tal de comer una rica pizza. Otro punto, el aire acondicionado esta siempre a full, para los calurosos es ideal para mi un poco frio.
+    date: 28-01-2009
+    user: http://mi.guiaoleo.com/members/14215
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena pizza, con ingredientes de primera, Fain\xE1 bien cocinada, seca y al mismo tiempo liviana, El ambiente es muy agradable y la atenci\xF3n correcta. Soy conciente que se trata de una comida sobre la cual existen muchas alternativas. Esta es de las buenas. Volver\xE9"
+    date: 25-01-2009
+    user: http://mi.guiaoleo.com/members/28003
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Las pizzas de r\xFAcula y tomate y la de distintos hongos me parecieron muy buenas, la masa finita y los ingredientes de calidad. El lugar es chico pero agradable. Si bien solo hab\xEDan tres meses ocupadas la atenci\xF3n no me pareci\xF3 demasiado esmerada. La carta de vino, a pesar de ser corta, resulta satisfactoria. Un lugar recomendable."
+    date: 25-01-2009
+    user: http://mi.guiaoleo.com/members/52743
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Solo puedo hablar del delivery ya que pedimos a casa motivados por la gran variedad que tiene el lugar. Lleg\xF3 un poco fr\xEDa pero hoy en d\xEDa es casi imposible que la pizza llegue caliente de pizzer\xEDas grandes. Un toque de horno y pudimos disfrutar de estas pizzas que valieron la pena. Ideal para probar algo distinto con gustos de pizza muy raros."
+    date: 26-12-2008
+    user: http://mi.guiaoleo.com/members/52250
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es chico, pero la pizza es excelente, son enormes y el precio es razonablemente barato para el tama\xF1o de las pizzas. La atencion es buena ya q como el lugar es chico las 2 mozas estan todo el tiempo atentas"
+    date: 09-10-2008
+    user: http://mi.guiaoleo.com/members/35572
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza de brie y la de esp\xE1rragos y huevos de codorniz exquisita. Nos encant\xF3 la masa finita. El lugar es bastante peque\xF1o y las mesas son chicas. Es una l\xE1stima que la atenci\xF3n no sea esmerada y la moza estuviera papando moscas."
+    date: 12-09-2008
+    user: http://mi.guiaoleo.com/members/51045
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: para desayunar es un lugar muy agradable, economico y de buena calidad
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/21056
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n fue p\xE9sima. Eramos 5 en una mesa para cuatro con muy poco espacio sumado a que no est\xE1 contemplado el espacio que ocupa la pizza grande de 10 porciones en la mesa. La atenci\xF3n del encargado dej\xF3 mucho que desear; siendo el mismo muyy maleducado y forzandonos a retirarnos sin comer postre."
+    date: 30-08-2008
+    user: http://mi.guiaoleo.com/members/15678
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es muy lindo y las pizzas buenisimas!\r\n\
+      \r\n\
+      Lo unico para criticar que aceptan tarjeta de debito, que dado al perfil que apunta el local deber\xEDan hacerlo."
+    date: 11-08-2008
+    user: http://mi.guiaoleo.com/members/40346
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me encantaron las pizzas que tienen en este restaurante. El local es peque\xF1o y tiene una onda newyorkina que me result\xF3 muy agradable.\r\n\
+      La atenci\xF3n nada del otro mundo. De postre comimos los infalibles helados Haagen Dasz."
+    date: 24-07-2008
+    user: http://mi.guiaoleo.com/members/19129
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: El lugar no es de los mejores que fui a comer pizza, es pasable. Esta buena la pizza de bocconchinos y jamon crudo, pero me desepciono mucho la de salmon brei y rucula, no te pueden poner el salmon congelado recien sacado del freezer... pero bue en terminos generales lugar normal. Servicio lento y poco eficiente
+    date: 03-07-2008
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Simplemente, me parece un desastre que el delivery tenga que venir 3 veces porque se equivoca y se olvide parte del pedido.
+      
+      El roll nada del otro mundo. No llamo mas!!
+    date: 24-06-2008
+    user: http://mi.guiaoleo.com/members/44318
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Si bien es muy buena la comida,la atencion del lugar deja mucho que desear, el delivery es desastroso y la atencion del encargado es espantosa , vivo a una cuadra por lo que fui a buscar la pizza luego de 60 minutos de demora,llegue al lugar y no la habian puesto en el horno,el encargado en vez de pedirme disculpas me dijo"el tiempo es estimativo" solamente nos pasamos 15 minutos!!!(yo pensaba si 15 minutos por que la vine a buscar, si las esperaba en casa no me quiero imaginar lo que demoraban)le pedi el libro de quejas y me dijo dejame laburar!NO LO RECOMIENDO PARA NADA
+    date: 14-06-2008
+    user: http://mi.guiaoleo.com/members/46234
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es la tercera vez que pido delivery y se demoran m\xE1s de 1 hora. Llam\xE9 20:15 y lleg\xF3 21:50, no ped\xED un lech\xF3n, s\xF3lo una docena de empanadas. Es el t\xEDpico ejemplo de una buena idea con una p\xE9sima operaci\xF3n."
+    date: 04-05-2008
+    user: http://mi.guiaoleo.com/members/8
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente lugar, la comida es deliciosa, el ambiente simpatico y agradable, y la atencion muy buena. El delivery rapido, y te traen una caja como la gente y helado haggen desz a domicilio
+    date: 26-04-2008
+    user: http://mi.guiaoleo.com/members/44737
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El ambiente es muy agradable, el lugar peque\xF1o y bien decorado. La variedad de pizzas es muy grande, como por ej. de salm\xF3n ahumado con brie, capresse, panceta y las cl\xE1sicas de toda pizzeria. La masa es super finita, habra a quien le encante y a quien no. Los precios son muy acordes, por ej la capresse $30. La atenci\xF3n fue buena.Recomendable.-"
+    date: 23-04-2008
+    user: http://mi.guiaoleo.com/members/36057
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Todo bien: el delivery lleg\xF3 r\xE1pido y con la pizza caliente y en una caja como la gente; la pizza es gigante y exquisita (no se pierdan la variedad del huerto) y no es cara! Muy recomendable"
+    date: 15-04-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Probamos la pizza "Almacen de Pizzas" que es una combinacion de varias alternativas... nos parecio muy buena, muy rica y con sabores distintos al comun... muy lindo lugar!!! Lo recomiendo
+    date: 25-03-2008
+    user: http://mi.guiaoleo.com/members/42733
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Muy mala la atenci\xF3n. No es agradable ser presionado cada 2 minutos a pedir algo m\xE1s con el objeto de liberar la mesa por que hay gente esperando. No es culpa de la moza que atend\xEDa, es de la marca. Tampoco es responsablidad del cliente tener que abonar con el valor justo, m\xE1s a\xFAn cuando uno paga con un billete de 100 una cuenta de 89, y para colmo no tienen otra modalidad de pago m\xE1s que el inseguro efectivo, existiendo modalidades electr\xF3nicas, con las ventajas que esto conlleva. Estamos en el 2008 no se puede ser tan jur\xE1sico."
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/35033
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Quisiera destacar la atencion y dedicacion de Eugenia, telemarketer de Vidal ya que llamo muy seguido e incluso voy a comer al local, o compro en mostrador y siempre me atendio con mucha coordialidad y respeto, me ayudo a elegir mis pedidos que siempre fueron MUY bien recomendados. una vez nos atendio cuando fuimos a comer ahi y lo mismo pas\xF3. Hoy en dia hay que remarcar estas cosas, ella se desempe\xF1a excelentemente en cualquier puesto, no se puede negar que sin duda es uno de los eslabones principales para el crecimiento de almacen de pizzas."
+    date: 05-02-2008
+    user: http://mi.guiaoleo.com/members/37131
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Una casa de pizzas que logra imponer las nuevas tendencias de la cocina (variedad, ingredientes) sin perder la tradicion. Teniendo en cuenta el hecho de que su "fuerte" se basa en los deliverys, le prestan mucha atencion a dicho asunto y logran un servicio optimo en donde no se pierde la calidad ni temperatura de la comida. 
+      La demora estima en media hora. Muy buen balance entre precio y calidad.
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/32528
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy rica la comida... unico tema que cuando pedimos un caf\xE9 a la 1 de la ma\xF1ana nos dijeron que justo se rompi\xF3 la cafetera... que pena!!, nos dimos cuenta que era porque quer\xEDan que nos fueramos, el horno estaba apagado y no quedaba nadie. Eso no se hace... Pero la comida excelente!!!!"
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/16306
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es chico pero esta muy bien decorado. La calidad de los productos es muy buena. Recomiendo la pizza de la casa, Manolo Y francesca, tomates secos, jamon crudo, rucula y parmesano...muy buena. Hay una pizza dulce de postre que esta bastante bien.
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/10876
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Fui al local de belgrano, la pizza excelente, pero: ojo si piden pizza de dos sabores porque cobran como una entera del sabor mas caro. Ademas el encargado del local da muy mala atencion. Una pena porque el producto es de lo mejor del barrio."
+    date: 26-05-2007
+    user: http://mi.guiaoleo.com/members/23736
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Ped\xED delivery. La pizza es rica pero nada especial excepto el tama\xF1o cuando se pide la grande. Lleg\xF3 tibia, por lo que la masa no estaba crocante. Muy bueno el dise\xF1o, colores, etc del lugar y las cajas."
+    date: 06-05-2007
+    user: http://mi.guiaoleo.com/members/6823
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fui al almacen de pizza que se encuentra en la calle O''Higgins y Juramento. El lugar es chiquito pero luminoso y acogedor. La pizza estaba rica. Masa fina y casera.
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/20710
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La pizza es realmente muy buena y las variedades que presentan son ingeniosas. La materia prima es excelente.\r\n\
+      El \xFAnico punto flaco a mencionar es que con 35 grados, no funcionaba el aire acondicionado (hac\xEDa varios d\xEDas seg\xFAn nos comentaron)."
+    date: 25-02-2007
+    user: http://mi.guiaoleo.com/members/759
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La verdad comimos muy bien, hay buen aire, las mozas son un poco limitadas pero le ponen voluntad. Se nota la diferencia en la calidad de la pizza y los productos. Un consejo: aunque no les traigan ni les digan, pidan un poquito de pan de pizza para picar que es muy rico y gratis ya que la pizza tarda un poquito."
+    date: 23-02-2007
+    user: http://mi.guiaoleo.com/members/14443
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Todo muy bueno, la pizza es excelente. La grande es de diez porciones y muy sabrosa, hecha a la piedra. Realemnte recomendable.  "
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/9552
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La pizza me pareci\xF3 buena. Me parecio mal, que habiendo pedido una simple pizza mitad y mitad, me hayan cobrado toda como la mitad m\xE1s cara."
+    date: 04-02-2007
+    user: http://mi.guiaoleo.com/members/1283
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno, el lugar, la comida y el ambiente. Fui con mi novia un mi\xE9rcoles por la noche; despu\xE9s de ver los comentarios en la Gu\xEDa \xD3leo y resultaron efectivos.\r\n\
+      Pedimos pizza Manolo y Panceta, muy originales y ricas (productos frescos; muy buena la masa). Me qued\xE9 con las ganas de la de papas fritas y salchicha, ser\xE1 para la pr\xF3xima."
+    date: 31-01-2007
+    user: http://mi.guiaoleo.com/members/17284
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelentes los ingredientes pero la masa es muy fina y poco leudada para nuestro gusto. Es una excelente opci\xF3n para quien disfruta la masa muy finita. Recomendable la faina con mortadela y pistachos."
+    date: 23-01-2007
+    user: http://mi.guiaoleo.com/members/16134
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Realmente excelente la calidad de la comida y la ambientaci\xF3n de los locales. \r\n\
+      Muy recomendable."
+    date: 08-01-2007
+    user: http://mi.guiaoleo.com/members/8023
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La verdad es que la atenci\xF3n y la comida son excelentes. Es para recomendar."
+    date: 29-12-2006
+    user: http://mi.guiaoleo.com/members/15388
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Lo que me gust\xF3 de este lugar es que tienen variedades  diferentes a lo que se ofrece en general en las pizzerias: una pizza con rodajas finitas de papa (\xA1muy buena!), otra con queso brie, varias con tomates secos. La masa es bien finita y los ingredientes abundantes. De postre, la pizzeta con bananas, canela y dulce de leche es original y muy rica. Muy buena atenci\xF3n. "
+    date: 05-12-2006
+    user: http://mi.guiaoleo.com/members/11683
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Ped\xED delivery y tard\xF3 una hora en llegar y lleg\xF3 fria!!!!! (siendo que me dijeron que no tarda m\xE1s de 40 minutos) Cuando hice el reclamo porque no llegaba el pedido, me dijeron ... ya sali\xF3 con otro pedido. Vivo edificio por medio de la pizzeria. O sea ... se fueron a entregar otro pedido primero y pasearon mi pedido por las calles de Belgrano. LAMEMTABLE. Una l\xE1stima porque la pizza es buena."
+    date: 24-11-2006
+    user: http://mi.guiaoleo.com/members/1124
+    ambiente_rank: muy bueno

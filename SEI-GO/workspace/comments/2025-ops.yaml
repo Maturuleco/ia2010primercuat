@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "No fui a comer, s\xF3lo tom\xE9 cerveza y vino. El lugar est\xE1 muy bueno y la atenci\xF3n es esmerada. Volver\xE9 seguramente."
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/66360
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar, calido e informal, la comida muy buena: pedimos unas pizzas y una ensalada de pollo salteado con salsa de soja. Una creme brulee de postre que estaba excelente. Cerramos con unos tragos con helado espectaculares. Muy buena materia prima en todo lo que sirven, seguramente volvere."
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/24345
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buen servicio, la camarera muy atenta. Espectaculares los tragos, pedimos un "Brown sugar" era gigante!! con buen licor. La comida muy rica, se nota el toque casero especialmente en el pan que es imperdible.
+    date: 03-05-2008
+    user: http://mi.guiaoleo.com/members/10294
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me gust\xF3 mucho la ambientaci\xF3n, la atenci\xF3n de los mozos muy buena (ej. se ofrecen a sacarte fotos) son muy atentos. La comida muy buena y los precios tambi\xE9n. S\xF3lo que dejan de servir platos temprano para mi gusto."
+    date: 24-11-2006
+    user: http://mi.guiaoleo.com/members/13829
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen servicio de los mozos y encargado de turno. Tuve la oportunidad de ir en reitaradas ocasiones y nunca tuve problemas. Muy buen cheff, tiene predisposici\xF3n con el cliente. \r\n\
+      Muy recomendable."
+    date: 06-05-2006
+    user: http://mi.guiaoleo.com/members/8261
+    ambiente_rank: excelente

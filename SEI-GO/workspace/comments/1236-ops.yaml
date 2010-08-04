@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      el punto no es que comi sino qe por lo qe veo este restaurante lo habra ingresado un extranjero... la galeria no se llama larralde sino GALERIA LARRETA !!!!!!!!!!!! y nunca podria estar en el 945 por 2 razones 1 qe ahi hay un edificio de departamentos y al lado esta el dad qe es bataaaantee dietinto y 2 por qe esta de la mano par. no se la altura pero no es ahi...
+      eso es todo. espero qe lo puedan arreglar.
+    date: 30-08-2009
+    user: http://mi.guiaoleo.com/members/68345
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Muy buen lugar para comer los mediod\xEDas. A pesar de su esfuerzo las mozas siguen siendo las personas m\xE1s antip\xE1ticas y mal educadas que conozco."
+    date: 03-06-2009
+    user: http://mi.guiaoleo.com/members/63332
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Tendriamos que haberle hecho caso a los comentarios de este sitio. El servicio es realmente muy malo. No solo por una cuestion de mala actitud sino mas bien por una cuestion de ineptitud.
+      Fuimos con 15 compa#eros del trabajo y el comentario de todos al salir era: no volvemos nunca mas.
+    date: 25-01-2008
+    user: http://mi.guiaoleo.com/members/38868
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La atencion es es p\xE9sima. El nivel de inoperancia es inaceptable. La comida si bien es abundante no es buena. "
+    date: 25-01-2008
+    user: http://mi.guiaoleo.com/members/38855
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen lugar la atencion b\xE1rbara y lo mejor que te poner el feliz cumplea\xF1os con una velita para los cumples."
+    date: 23-10-2007
+    user: http://mi.guiaoleo.com/members/1188
+    ambiente_rank: muy bueno

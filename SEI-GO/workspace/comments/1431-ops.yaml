@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Desde el momento que uno decide sentarse, sabe que se encuentra con un lugar de calidad standar. La comida es buena, quizas en los risottos abusan un poco con la materia grasa, por lo cual parecen mas sabrosos. No son muy bien especiados, y la preparacion no es la mas dedicada, pero de todas formas la comida es aceptable. Y el plato con camarones tiene muy poca cantidad de los mismos. Para visitar sin esperar excelencia.
+    date: 16-03-2009
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida no es rica le falta gusto. y la atenci\xF3n no es muy simp\xE1tica."
+    date: 15-11-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: simplemente horrible
+    date: 22-08-2008
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "es de las mejores opciones de locales de fast food, especialmente las tartas, siempre hay ensaladas frescas y alguna opci\xF3n original de guarnici\xF3n..cada vez que tengo que elegir en el patio de comidas, recurro al mismo"
+    date: 25-04-2008
+    user: http://mi.guiaoleo.com/members/28639
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: muy mala comida para ser fast food... horrible
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno

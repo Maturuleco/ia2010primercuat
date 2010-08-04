@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: pedi delivery que tardo una hora en llegar. los arrolladitos primavera estaban con mucho aceite y la verdad es que el pollo con anana no estaba bueno. termine tirando todo a la basura. no recomiendo este lugar.
+    date: 13-06-2010
+    user: http://mi.guiaoleo.com/members/83625
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "\xA1Muy rico todo! me he vuelto adicta al chau fan de pollo de ese lugar, los arrolladitos primavera tambien estaban buenos. Los precios bajos y las porciones grandes. Muy recomendable!"
+    date: 01-11-2009
+    user: http://mi.guiaoleo.com/members/71409
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Ped\xED delivery. Lleg\xF3 a tiempo pero la comida era HORRIBLE. Fea, no se parece ni un poquito a la comida china, ni en el sabor. No vuelvo a pedir aunque me lo paguen."
+    date: 19-09-2009
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "LO POSITIVO: La atenci\xF3n, las porciones, los sabores y los tiempos son EXCELENTES. Es espacioso y sin bullicio. Las porciones de Delivery son muy abundantes y baratas. LO NEGATIVO: La ambientaci\xF3n es bastante precaria, sin embargo esta todo muy limpio y ordenado. LO MEJOR: Todos los platos que probamos son excelentes. LO PEOR: No presenta."
+    date: 11-09-2009
+    user: http://mi.guiaoleo.com/members/68770
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n para delivery, los arrolladitos primavera y el chop suey vegetariano son m\xE1s que recomendables...tardan poqu\xEDsimo en llegar"
+    date: 21-09-2008
+    user: http://mi.guiaoleo.com/members/28639
+    ambiente_rank: bueno

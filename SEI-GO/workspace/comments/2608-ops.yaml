@@ -1,0 +1,37 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Por favor no vayan, la comida es mala y el ambiente tambi\xE9n.\r\n\
+      La carta de vinos es muy limitada y cara por dem\xE1s. La atenci\xF3n de los camareros es buena."
+    date: 16-09-2006
+    user: http://mi.guiaoleo.com/members/12070
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un desastre. Los mozos no saben las cosas que ellos promocionan. \r\n\
+      Atienden r\xE1pido y se olvidan la mitad de las cosas. \r\n\
+      La comida, en algunos casos, es recalentada."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/12082
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "La comida deja much\xEDsimo que desear. Carne seca, poca variedad de ensaladas. La atenci\xF3n es buena y la ambientaci\xF3n tambi\xE9n."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/11318
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Buen lugar.
+    date: 04-09-2006
+    user: http://mi.guiaoleo.com/members/11740
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lo mejor es la parrilla. Los platos fr\xEDos est\xE1n muy buenos, los postres y los platos calientes son regulares.\r\n\
+      Me sorprendi\xF3 que los platos estuviesen todos rotos.\r\n\
+      La \xFAltima vez que fuimos nos ofrecieron una mesa para no fumadores con vista al r\xEDo, a los diez minutos a dos mesas de donde est\xE1bamos tambi\xE9n en el sector no-fumadores se sentaron tres personas que fumaron durante toda la cena. A pesar de que hablamos con el mozo y el encargado nada hicieron. \r\n\
+      \xBFPara que tienen area no fumador?"
+    date: 12-08-2006
+    user: http://mi.guiaoleo.com/members/5645
+    ambiente_rank: bueno

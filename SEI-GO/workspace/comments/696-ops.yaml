@@ -1,0 +1,93 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un cl\xE1sico. Pedimos una pizza mitad de pollo y mitad napolitana (como la llaman ellos, que en realidad para el resto del mundo es calabresa) riqu\xEDsima, el ambiente tranquilo y buena atenci\xF3n del mozo. Cada tanto hay que pegarse una vuelta por Los Inmortales."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/74297
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La pizza excelente. El ambiente bueno, nada del otro mundo. El servicio deja mucho que desear. Si bien la comida lleg\xF3 r\xE1pido, pedirle la carta de postres y la cuenta m\xE1s tarde fue una gran haza\xF1a."
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Como habitualmente en este local. La calidad es superior a lo que se espera. El panach\xE9 de verduras al vapor es una solucion para un menu ligero y est\xE1 hecha con productos de buena calidad.\r\n\
+      El servicio lo encuentro excelente.\r\n\
+      Pero los precios empiezan a resultar caros."
+    date: 25-08-2009
+    user: http://mi.guiaoleo.com/members/55236
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: la pizza es verdaderamente exquisita, pero en un ambiente de pizzeria comun pagando como en un restaurante de moda, rico pero caro.
+    date: 06-07-2009
+    user: http://mi.guiaoleo.com/members/56070
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fuimos a las 4 de la tarde a la salida del trabajo, no habia casi nadie, asi que nos atendieron muy bien y rapidamente. Nos pedimos una grande de muzza con 2 fainas y 3 gaseosas en total, gastamos $61 en total y eso que no pedimos postre. Lugar clasico para conocer y nada mas.
+    date: 06-01-2009
+    user: http://mi.guiaoleo.com/members/24247
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una pizzeria de las \"clasicas\", pero en un local nuevo y con una atenci\xF3n mas de rest\xF3 que de pizzer\xEDa. El local esta muy bien ambientado y la atenci\xF3n fue muy cordial y rapida. La pizza vino con abundante queso, muy rica. Recomendable para ir en familia o en pareja, tranqui. Se puede volver tranquilamente, e incluso los precios son razonables."
+    date: 29-08-2008
+    user: http://mi.guiaoleo.com/members/6396
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una de las viejas pizzer\xEDas de Buenos Aires, al estilo de El Palacio, El Cuartido, Las Cuartetas, atendida por los viejos mozos espa\xF1oles y alguno de nueva generaci\xF3n. Un buen lugar para compartir una pizza con amigos o en familia. Nunca defrauda."
+    date: 28-03-2008
+    user: http://mi.guiaoleo.com/members/6696
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: El delivery es sinceramente muy pero muy malo. Tardan mas de 1 hora cuando te prometen menos y siendo ordenes para oficina de mucho monto. La calidad de la pizza es mejor en el salon que delivery pero es muy buena. De todas formas hay mejores...
+    date: 28-03-2008
+    user: http://mi.guiaoleo.com/members/38676
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Probamos las pastas, buena calidad. Los platos estan bien, no son para compartir. Buena atencion de los mozos y el lugar es lindo.
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/42155
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La mejor pizza de buenos aires. El salon esta muy bien ambientado. La atencion es muy calida y la comida fenomenal.
+    date: 15-01-2008
+    user: http://mi.guiaoleo.com/members/40333
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar es muy lindo, mucho mas lindo que los otros locales de la cadena. La pizza fue sencillamente exquisita y la atencion correcta. Insistimos que hay otras pizzer\xEDas sin tanta fama mucho mejores."
+    date: 27-12-2007
+    user: http://mi.guiaoleo.com/members/31386
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un placer que a trav\xE9s del tiempo Los Inmortales siga siendo sin\xF3nimo de calidad. Es la mejor pizza de Buenos Aires y teniendo en cuenta eso, hasta se puede decir que es barato."
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/36081
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Pizza mas o menos, lleg\xF3 fria a la mesa, atenci\xF3n p\xE9sima, nos cobraron de m\xE1s y se negaron a devolvernos la diferencia."
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/36061
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza muy rica como siempre aunque me pareci\xF3 un poco caro."
+    date: 09-07-2007
+    user: http://mi.guiaoleo.com/members/25934
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena pizza y atenci\xF3n esmerada, la cerveza tirada vale la pena."
+    date: 05-04-2007
+    user: http://mi.guiaoleo.com/members/13376
+    ambiente_rank: muy bueno

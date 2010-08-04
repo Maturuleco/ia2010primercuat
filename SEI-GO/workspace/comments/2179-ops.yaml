@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Las pastas ricas,un poco gruesa la masa.Las bruchetas buenas pero se quedaron sin albahaca ,no pod\xE9s quedarte sin ese ingrediente un s\xE1bado a la noche.Poca calefacci\xF3n."
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/49750
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es muy lindo, super acogedor como sus due\xF1os Jorge y Cristina siempre tan amables con sus clientes, te sentis como en casa, Lo mejor del lugar las pastas y los platos del dia recomendados por Jorge, la carta de vinos muy buena, la atenci\xF3n impecable y lo que no se pueden perder es el famoso TIRAMISU de Cristina, es lo maximo en postres que comi hasta ahora, este lugar es para volver y volver......"
+    date: 01-07-2008
+    user: http://mi.guiaoleo.com/members/31614
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un ambiente acogedor con atenci\xF3n personalizada de primera; la calidad y sabor de la comida es excelente. \r\n\
+      Un lugar para el amante del buen comer, parejas y familia, sin lugar a dudas es Deja Vu."
+    date: 03-03-2008
+    user: http://mi.guiaoleo.com/members/41271
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Muy lindo lugar, bien ambientado y hogare\xF1o.\r\n\
+      No comparto los comentarios en cuanto a la comida, pedimos un tapeo que resultaron ser simplemente broshettas, como plato principal nos recomendaron los ravioles, ped\xED ravioles de ricota en salsa cuatro quesos, la salsa era un simple b\xE9chamel insipida y mal hecha. A mis compa\xF1eros les pas\xF3 lo mismo y terminamos dejando los platos a medio comer. Una l\xE1stima."
+    date: 03-03-2008
+    user: http://mi.guiaoleo.com/members/15021
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lugar muy hogare\xF1o y tranquilo. La atenci\xF3n es muy cordial y la comida deliciosa. Recomendable."
+    date: 24-02-2006
+    user: http://mi.guiaoleo.com/members/6601
+    ambiente_rank: excelente

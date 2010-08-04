@@ -1,0 +1,362 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Un ambiente tranquilo con tragos muy buenos. La tabla estaba buena pero solo tenia dos pedacitos de vegetal pero cuando se lo comentamos a la encargada se hizo responsable inmediatamente y lo coregio.
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/84692
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Fuimos por una promocion de vino mendocino y chivito.El vino muy bueno,pero el chivito y el postre,tarta de frutas,una decepcion.Las papas de guarnicion,crudas.El ambiente muy bueno,pero muy,muy poca iluminacion.Servicio correcto.
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/23110
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hace a\xF1os que vamos a 878. La caipir\xEDsima es excelente!! Comimos la hamburguesa de cordero y empanadas de cordero, todo estaba riqu\xEDsimo. Nos encanta este lugar. Volveremos como siempre."
+    date: 21-04-2010
+    user: http://mi.guiaoleo.com/members/38977
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fui a 878 porque me recomendaron los tragos del lugar, los cuales debo decir (probamos 3) son muy buenos. \r\n\
+      Al entrar al lugar me dio la sensaci\xF3n de poco cuidado. La decoraci\xF3n no es su punto fuerte, al igual que la atenci\xF3n de los mozos, los cuales adem\xE1s de ser lentos, parece que te est\xE1n haciendo un favor por atenderte. \r\n\
+      \r\n\
+      Depsues de esperar 60 minutos (no exagero) lleg\xF3 la comida. Los 4 platos que pedimos fueron muy buenos, nos sorprendieron.\r\n\
+      \r\n\
+      Conclusi\xF3n, lo recomiendo para ir a tomar unos tragos y picar algo, pero vayan con la menor expectativa posible sobre el lugar."
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/64099
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos por los comentarios de la gu\xEDa.\r\n\
+      La m\xFAsica excesivamente fuerte, las mesas \xEDnfimas: \xE9ramos dos y apenas cab\xEDamos.\r\n\
+      Al llegar m\xE1s gente, divid\xEDan las mesas de 4 en dos, apin\xE1ndolas, con lo cual el trasero del mozo apoyaba en nuestra mesa cuando atend\xEDa a la de al lado. Adem\xE1s de que nos enteramos de todo cuanto conversaban nuestros vecinos y viceversa.\r\n\
+      Para comer lo que comimos,prefiero el bodeg\xF3n cerca de casa. Lo pseudo-ex\xF3tico(a puerta cerrada) no deber\xEDa quitar la calidad. Adem\xE1s definirse: o se es bar o restaurant."
+    date: 09-04-2010
+    user: http://mi.guiaoleo.com/members/5008
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida estuvo bien, pero la atenci\xF3n un desastre. Hab\xEDa reservado una mesa por mi cumplea\xF1os, con d\xEDas de anticipaci\xF3n, y al llegar (a horario) le hab\xEDan dado la mesa \"a un amigo de la casa\" (sus palabras), por lo que me tuve que ir y cambiar a \xFAltimo momento el lugar del festejo. EXCESIVAMENTE PRETENSIOSO. Hay bares con mejor barra, mucho mejor ambiente, y mucha mejor predisposici\xF3n de la gente."
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/80216
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es realmente una opci\xF3n muy interesante, m\xE1xime si se le quiere dar una sorpresa a alg\xFAn invitado. Los tragos son excelentes, la comida es muy buena y a una muy buena relaci\xF3n precio calidad. La atenci\xF3n es muy correcta y destacable. Respecto a la ambientaci\xF3n debo confesar que me sent\xED un poco decepcionado, esperaba algo mas elaborado, realmente no coincido con la generalidad de los comentarios, no me pareci\xF3 para nada de lo mejor del lugar."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/57522
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comimos excelente! no estoy de acuerdo con el extracto de comentarios, aunque la barra sea ya famosa y recomendable, la cocina es un diamante oculto de este bar a puertas cerradas. Muy buena relaci\xF3n precio calidad y es cierto que cocinan los pescados como pocos lugares en esta ciudad."
+    date: 09-01-2010
+    user: http://mi.guiaoleo.com/members/74794
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: que buena mano que tiene el cocinero para el pescado! muy recomedable y los tragos son increibles!! lo mejor de baires sin dudas!!!
+    date: 23-12-2009
+    user: http://mi.guiaoleo.com/members/73904
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El servicio fue impecable. El camarero muy atento, nos sugiri\xF3 vinos para acompa\xF1ar nuestros platos. Muy buena carta de vinos y variedad de vinos por copa. La propuesta gastron\xF3mica es para todos los gustos:desde \"tapas\" y sandwiches hasta platos bien elaborados, impecables los pescados, y muy buena incorporaci\xF3n de productos locales a recetas internacionales. La barra tiene ya su fama. Recomendaci\xF3n: probar las creaciones de los bartenders - Refrescos N\xBA 1, N\xBA 7 y N\xBA9.\r\n\
+      Muy bien ambientado y la m\xFAsica acorde. Impresionante la colecci\xF3n de Whisk(e)ys!!! VUELVO!!!!"
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/75114
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar totalmente oculto. Una simple puerta que tenes que saber que hay detr\xE1s para animarte a entrar. S\xF3lo tom\xE9 unos tragos. Todos elaborados, muy ricos, precio normal (promedio $26 cada trago). El ambiente es excelente, est\xE1 muy bien decorado. El sector de sillones est\xE1 muy bien puesto. Si bien no com\xED, espi\xE9 el men\xFA y parec\xEDa a ver variedad. \r\n\
+      Por el momento lo recomiendo para ir a tomar algo con tu pareja o amigos."
+    date: 13-11-2009
+    user: http://mi.guiaoleo.com/members/61160
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Este rest\xF3 \" puertas cerradas\" tiene la particularidad de que si pasas por la puerta no lo ves, es un gran lugar para tomar una copa adem\xE1s de comer. En cuanto a la comida, tienen platos muy bien preparados, la atenci\xF3n es quiza un poco lenta pero muy buena.  Buen ambiente y buena m\xFAsica."
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena relacion de precio calidad. La comida muy buena, mejor los ravioles que el pechito. no tomamos vino pero si tragos, y estaban muy buenos. lo que no nos gusto mucho fue el lugar que estaba un poco desangelado. le faltaba onda.
+    date: 17-09-2009
+    user: http://mi.guiaoleo.com/members/13206
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ricas las papas bravas. Ricas las aceitunas rellenas. Ricas las croquetas de pescado. Rico el mojito frozen. Rico el bloody mary. Me encanta ocho7ocho.
+    date: 05-08-2009
+    user: http://mi.guiaoleo.com/members/51379
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: es un bar espectacular! comimos muy bien pero los tragos son excelentes! las sugerencias del bartender son siempre acertadas, la pasamos muy pero muy bien, es para ir siempre!
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/66929
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un lugar \xFAnico en la ciudad. Muy buen ambiente y calidad en todo, impresionante carta de vinos y muy buen risotto. La atenci\xF3n a veces es muy formal y otras muy informal."
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/60869
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Buena propuesta de barra y gastronom\xEDa acertada para acompa\xF1ar los tragos. El lugar podr\xEDa estar un poquito m\xE1s prolijo para lo que cobran, se pasan de bohemios a casi dejados"
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/21315
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: |-
+      Es para tomar tragos,hay de todo y te prepraran lo que quieras, el servicio es correcto y los bartenders y cajera buena onda.
+      Me gusto, linda barrita
+    date: 17-04-2009
+    user: http://mi.guiaoleo.com/members/39388
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me encanta comer ah\xED, el Cheff siempre me sorprende con algo rico y distinto en las entradas, luego sus sugerencias para el 2do plato siempre han sido acertadas y de excelente calidad. Los barmans impecables, muy atentos a conocer mis gustos. La barra, sin dudas la mejor de Bs.As., Lejos!!"
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/7399
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n de la moza mala... lo mejor de las tapas son los champignones a la provenzal y el pan que es realmente rico... los platos buenos, los tragos caros y ninguna maravilla...... Lo mejor la ambientaci\xF3n!"
+    date: 18-09-2008
+    user: http://mi.guiaoleo.com/members/33562
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Comi solo 2 veces en este lugar y me encanto, muy buenos los platos, los tragos excelentes uno de los mejores baresde BA, aco\xF1pa\xF1a muy bien la cocina y la tencion, el sector fumador esta buenisimo, para volver siempre"
+    date: 10-09-2008
+    user: http://mi.guiaoleo.com/members/24039
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: excelente lugar, 11 puntos la comidabadhir la verdad te pasaste..lejos el mejor bar de bs as
+    date: 08-08-2008
+    user: http://mi.guiaoleo.com/members/49311
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fui a probar la recomendada barra de tragos y whiskys. Son muchas las barras que dicen tener los mejores y pocas que lo logran. Los barman son atent\xEDsimos y recomiendan tragos seg\xFAn la exigencia de cada uno. Est\xE1n muy bien preparados, y presentados. Buena relaci\xF3n precio calidad. El lugar es b\xE1sico pero bien reciclado. Clima ideal con poca luz, cuenta con zona de fumadores. Servicio lento."
+    date: 25-07-2008
+    user: http://mi.guiaoleo.com/members/18034
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La N\xE9mesis de chocolate muy rica, y adem\xE1s sirven caf\xE9 Nespresso.\r\n\
+      Me tome el mejor Ojo Rojo de mi vida, los cantineros saben hacer bien su trabajo."
+    date: 08-07-2008
+    user: http://mi.guiaoleo.com/members/39883
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: todo muy rico, un lugar para volver.
+    date: 08-07-2008
+    user: http://mi.guiaoleo.com/members/47475
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Un espacio increible, perdido en villa crespo. Mal armada la carta, muy limitada y con pocas opciones en relacion a la carta de verano. Muy buenos tragos, mucha variedad de cervezas. que vuelvan las sopas, un clasico del lugar!!
+    date: 13-06-2008
+    user: http://mi.guiaoleo.com/members/46015
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es para acompa\xF1ar los tragos que son muy buenos."
+    date: 04-06-2008
+    user: http://mi.guiaoleo.com/members/41367
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      el ambiente es excelente al igual que la atencion y la calidad de la comida, si bien no es abundante tambien es excelente.
+      Lo unico o es barato, pero vale la pena
+    date: 31-05-2008
+    user: http://mi.guiaoleo.com/members/26508
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "El ambiente es MUY lindo. Para ir con amigos o en pareja.\r\n\
+      La comida regular. Pedi una hamburguesa que no me gust\xF3. \r\n\
+      Las porciones son peque\xF1as. No tienen papas fritas!\r\n\
+      Las cazuelitas regulares.\r\n\
+      Poca variedad en general (de comidas).\r\n\
+      Muchisima variedad en whiskys y alcohol en general. Excelente Somelier.\r\n\
+      Recomendable para tomar algo. Coman antes en sus casas!"
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/13584
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Increible, muy copado el sector VIP. La musica impresionante, super clima de bar...volvere para comer!!!
+    date: 28-03-2008
+    user: http://mi.guiaoleo.com/members/15366
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Detr\xE1s de esa puerta tan misteriosa y dom\xE9stica, se encierra este mundo totalmente Kirsch. Muy original la idea del montaje y la ambientaci\xF3n. La barra es impecable, disfrut\xE9 muy buenos tragos!!!"
+    date: 20-03-2008
+    user: http://mi.guiaoleo.com/members/9248
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una de las mejores barras de BS As. Podr\xEDan mejorar la comida para que est\xE9 a la altura de los tragos."
+    date: 19-03-2008
+    user: http://mi.guiaoleo.com/members/20413
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: me lo recomendo el cocinero el cual fue muy amable al venir a la mesa a explicarnos el porque del punto. Gracias a los camareros que fueron muy correctos, la barra brillante como siempre. Volvere.
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/40689
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar. Muy recomendable. La mejor barra de todo buenos aires a mi gusto. Y el ambiente es increible. En un port\xF3n escondido. Muy exclusivo."
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/14269
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "la comida no es gran cosa, a demas el plato que pedi tenia una guarnici\xF3n de esparragos y no me dijeron nada, de que la cambiaban por chauchas(nada que ver), no me atrae la idea de volver. Un lugar sin penas ni glorias."
+    date: 31-01-2008
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La mejor barra de Buenos Aires. Es mi lugar preferido para juntarme con amigos o con mi amor. No se pierdan el daikiri o la caipirisima, son los tragos que les recomiendo. Disfrutenlo.
+    date: 24-01-2008
+    user: http://mi.guiaoleo.com/members/39827
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "in lugar c\xF3modo y muy agradable, la comida muy bien cambiaron el cocinero y si nota much\xEDsimo, es inmejorable la barra a mi entender una de las mejores de BA, a uno lo tratn muy bien y los barman estan muy bien informados, un lugar para ir siempre"
+    date: 21-01-2008
+    user: http://mi.guiaoleo.com/members/21530
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Que buen lugar para ir a tomar algo!! Escondido, con un frente de casa antigua que no deja ver que adentro hay un bar. Muy bien ambientado y c\xE1lido. Excelente carta de tragos. La comida no es muy variada, pero no est\xE1 mal. Llama la atencion la barra. Recomendable... Y sobre estas en palermo pero no amontonado con un monton de gente, no hay nada en la cuadra, y podes estacionar tranquilo...VAYAN!!"
+    date: 11-01-2008
+    user: http://mi.guiaoleo.com/members/28232
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es la segunda vez que voy a este lugar, lo mejor son los tragos y martinis, siempre pido la hamburguesa de cordero, la atencion esta bien para este tipo de lugares, las mozas siempre parecen que estan al liimite cuando en realidad no hay mucha gente, hay que saber tratarlas y te tratan bien. el lugar no dice mucho. vayan por los tragos que son buenos. "
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/11496
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: Sin duda unos d los mejores lugares de tragos, pero con respecto a la comida hace tiempo q no como algo tan duro y feo... Pero el resto muy bien... Ire nuevamente para tomar unos tragos y si "pinta" algo para comer pedire una picada....
+    date: 13-10-2007
+    user: http://mi.guiaoleo.com/members/33789
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Lugar amplio y muy comodo (hay mesas con sillones) La comida es buena pero para destacar los tragos (uno de las mejores barras de BA) y las recomendaciones de Julian.
+    date: 24-09-2007
+    user: http://mi.guiaoleo.com/members/11766
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar tiene mucha onda. La comida es muy buena pero hay poca variedad, los men\xFAes son como est\xE1n de moda (muy chicos y no ofrecen muchos tipos de comidas diferentes y entre las que ofrecen no hay mucha coherencia). Pero sin dudas lo destacable del lugar, m\xE1s all\xE1 del excelente ambiente, es la carta de tragos y sus precios. Todos los que prob\xE9 estaban muy buenos y los precios muy acordes. Es preferible ir a tomar algo que ir a comer. De todas formas la comida no decepciona para nada."
+    date: 14-09-2007
+    user: http://mi.guiaoleo.com/members/10761
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar esta muy lindo, pero no tiene nada de original, lo venden como puertas cerradas pero solo le faltan dos ventanales a la calle para ser un resto comun de palermo, igual la pasamos bien, sabrosa la comida y profesional la atencion.
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/29319
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es muy lindo, la carta de vinos y tragos super, pero la comida es pobre, tarda much\xEDsimo no es abundante y no est\xE1 en su punto...los mozos miran siempre para abajo...lugar para tomar algo, no para cenar. "
+    date: 20-08-2007
+    user: http://mi.guiaoleo.com/members/30055
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es muy rica pero nada abundante. La atencion es profesional: saben como servir y etc. pero no saben nada de simpatia.. eso falto!\r\n\
+      La ambientacion del lugar esta buena con labrillos a la vista, interesante.\r\n\
+      Desde el momento en que se ingresa uno se olvida que es a puertas cerradasd ya que dentro no tiene nada especial, son varias mesas, con bullicio de gente, mucho personal... quizas para puertas cerradas es mejor algo mas intimo/clandestino...\r\n\
+      De todas formas es una opcion mas para ir! "
+    date: 03-08-2007
+    user: http://mi.guiaoleo.com/members/30479
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El ambiente esta muy bueno. Pero la atenci\xF3n deja mucho que desear. Pareciera un lugar distinto, oculto, hasta clandestino, pero cada vez que voy esta m\xE1s palermisado, m\xE1s formal, m\xE1s caro. Los aires de algo nuevo abren paso a un bar como cualquiera de los del centro o palermo. Con disfraz de clandestino, encubren un lugar que nada tiene de clandestino o calido. Mas de lo mismo "
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/20896
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui a comer el jueves con amigos y la verdad que quedamos muy contento. Ya me habian hablado de este lugar y no se equivocaron en recomendarmelo. Primero que el ambiente es genial, no hay lugares as\xED en Bs As. La comida nos pareci\xF3 excelente. En mi caso ped\xED costillas y aunque no era muy abundante estaban realmente muy ricas. La atenci\xF3n fue buena y los tragos obviamente excelentes. Lo recomiendo de verdad.  "
+    date: 23-06-2007
+    user: http://mi.guiaoleo.com/members/25181
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar excelente: Una pena que ahora haya una consumici\xF3n m\xEDnima de $15 por persona. \r\n\
+      Los tragos excelentes, pero dado que es un lugar muy atractivo para los turistas, los precios han sido modificados para ese p\xFAblico. Muy buen ambiente. "
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/22929
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es una buena propuesta para un buen bar. Pero en lo que hace a restaurant no estan preparados los platos tardaron un monton y la atencion es dispersa. Tiene una buena carta de vinos y de tragos.
+    date: 10-05-2007
+    user: http://mi.guiaoleo.com/members/971
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar muy especial, es uno de esos lugares ocultos a prop\xF3sito, la \xFAltima vez que fui pense que estaba cerrado cuando llegue a la puerta ( parece la puerta de una vieja casa abandonada ), timidamente le di un par de golpes , y una simp\xE1tica camarera la abri\xF3 y me invit\xF3 a pasar. Adentro es un lugar muy informal , livings , mesas y barra grande, paredes de ladrillo, acogedor pero nada del otro mundo. La comida es excelente y los tragos mejores, unicamente superado por la atenci\xF3n. Siempre trato de encontrar un punto negativo pero este lugar se saca un 10 por donde se lo mire ."
+    date: 24-03-2007
+    user: http://mi.guiaoleo.com/members/15246
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los mejores tragos de la ciudad, con precios accesibles. Los platos, diversos y variados, baratos y extravagantes, siempre me contentan. La atenci\xF3n nunca escasea. Un bar especial para ir en la semana. "
+    date: 08-03-2007
+    user: http://mi.guiaoleo.com/members/17582
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Los barman son personas formadas en la profesi\xF3n que responden a todas las dudas y preparan los tragos con sumo cuidado. La comida es excelente, igual que la m\xFAsica. \r\n\
+      Una propuesta original para los que disfrutan de las cosas sutiles y bien elaboradas. \r\n\
+      La barra s\xF3lo trabaja con frutas frescas y la variedad es incre\xEDble. No me canso de ir."
+    date: 19-02-2007
+    user: http://mi.guiaoleo.com/members/18351
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es excelente, asi como la ambientacion. El servicio fue bueno, considerando que eramos una mesa de 10 personas. Lo \xFAnico que no me gusto fue la carta, ya que era demasiado reducida. Entiendo el concepto de este restaurant, pero solamente 5 platos principales, de los cuales 2 eran una ensalada o un sandwich, me parece que ha bajado el nivel del lugar. Ademas las porciones eran muy chicas y con gusto a poco."
+    date: 12-02-2007
+    user: http://mi.guiaoleo.com/members/17837
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es buen\xEDsima y la calidad de los tragos es sobre todas las cosas excelente. Rara vez uno logra encontrar un bar que tenga una relaci\xF3n calidad/precio que sea coherente. Tardan mucho en despachar los platos cuando el sal\xF3n est\xE1 muy lleno pero la atenci\xF3n es muy buena. \r\n\
+      El ambiente es original, simple, a puertas cerradas. \r\n\
+      Es una opci\xF3n interesante para conocer algo nuevo."
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/10724
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nos atendieron muy bien. La tabla de quesos y fiambres es de excelente calidad. \r\n\
+      El ambiente es muy lindo, como estar en casa, \xEDntimo. \r\n\
+      Vuelvo seguro."
+    date: 01-02-2007
+    user: http://mi.guiaoleo.com/members/13296
+    ambiente_rank: excelente

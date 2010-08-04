@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es barato y si no hay mucha gente te atienden rapido y amigablemente. No se destaca en ning\xFAn aspecto, pero si se est\xE1 en la zona, hay antojo de parrillada y no hay mucho presupuesto puede sacar del apuro."
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/47985
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente atenci\xF3n. Comida caser\xEDsima. Muy buena relaci\xF3n precio/producto. Para recomendar. Una fonda de aquellas."
+    date: 02-02-2009
+    user: http://mi.guiaoleo.com/members/57791
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Atenci\xF3n excelente brindado por sus due\xF1os"
+    date: 16-05-2008
+    user: http://mi.guiaoleo.com/members/45000
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un boliche familiar, atendido por sus propios due\xF1os. Muy calido. Muy buena comida y a exelente precio."
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/45032
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: BOLICHITO DE BARRIO. PRECIOS SUPER ECONOMICOS CON BUENA CALIDAD CASERA Y FAMILIAR. HUMILDE Y BIEN ATENDIDO. LA CARTA ES ESCASA SIN VARIACIONES AL IGUAL QUE LOS VINOS.
+    date: 06-02-2008
+    user: http://mi.guiaoleo.com/members/2878
+    ambiente_rank: bueno

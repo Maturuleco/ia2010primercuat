@@ -1,0 +1,22 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida muy buena. Buena relaci\xF3n precio/calidad. Una buena opci\xF3n en el microcentro"
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/65768
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El servicio inexistente.Las pastas las trajeton fr\xEDas despues de 50 minutos.\r\n\
+      El aire acondicionado no funcionaba correctamente.\r\n\
+      Con la amplia oferta de restoranes en el microcentro, no volver\xEDa."
+    date: 25-11-2008
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La ensalada ceasar altamente recomendable, y la porci\xF3n es casi para compartir de lo abundante que es. El unico tema es que NO ACEPTAN TICKETs y est\xE1 en una zona de oficina: PUNTO EN CONTRA.\r\n\
+      Igual, una buena opci\xF3n para almorzar cada tanto.  "
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/34540
+    ambiente_rank: muy bueno

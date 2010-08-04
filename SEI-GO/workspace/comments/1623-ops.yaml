@@ -1,0 +1,305 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos una noche a tomar un champagna, el cual muy bien lo sirvieron con nueces, casta\xF1as. masitas y bombones, excelente!!"
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/24928
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es extremadamente caro y horrible. Com\xED un plato de risotto de frutos de mar y dudo que estuvieran frescos. Emanaban un olor terrible y no pude ni comer dos bocados. Una verguenza el servicio, eran dos mesas y el mozo estaba \"desbordado\". No prendieron el aire acondicionado y al ser un lugar cerrado, hac\xEDa mucho calor. La verdad, mucho lujo, mucho ruido, pocas nueces."
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Simply horrible. The food wasn
+    date: 10-01-2010
+    user: http://mi.guiaoleo.com/members/31096
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "MUY MALA EXPERIENCIA!!!!!! regrese a este restaurante que me encantaba despu\xE9s de dos a\xF1os y con invitados del exterior y pas\xE9 una verg\xFCenza horrible. Mala Atenci\xF3n, excesiva demora en el servicio, champagne caliente y comida que tuvo que ser devuelta porque a uno de los comensales porque la crema ten\xEDa mal olor y gusto.\r\n\
+      No se puede creer que haya ca\xEDdo tan bajo un lugar al que antes iba con bastante frecuencia."
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/61639
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: la verdad muy muy floja la comida y la atncion, lindo solo el lujar
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/67994
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fue la 1\xBA vez que visit\xE9 este lugar pero nos encant\xF3. Estaba limpio y tiene muy linda vista. Com\xED un men\xFA brunch del mediod\xEDa espectacular, con ensalada de queso brie, rucula, tomate y nueces con salsa de frutos rojos espectacular. Luego pollo con pur\xE9 saborizado con wasabi. La compota de manzana con helado, en su punto justo. Adem\xE1s por $65 por persona inlu\xEDa caf\xE9. Vamos a volver."
+    date: 23-08-2009
+    user: http://mi.guiaoleo.com/members/44409
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      En un grupo de 8 personas:
+      3 ensaladas a compartir, que llegaron sin los condimentos, sin cucharas para dividir y servir.
+      tres platos de cocina no llegaron con correcto punto y temperatura.
+      
+      el precio indicado es sin alcohol ni postre.
+      opino que no es para volver.
+    date: 31-07-2009
+    user: http://mi.guiaoleo.com/members/29663
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Decidi volver a ver si habia mejorado, pero lamentablemente la comida sigue siendo el punto flojo, no asi el lugar que es esplendidoy sobretodo al mediodia.Es una lastima que los due\xF1os no se den cuenta como estan desperdiciando este lugar"
+    date: 21-07-2009
+    user: http://mi.guiaoleo.com/members/4900
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El d\xEDa viernes, a ra\xEDz del mail recibido, reserve una mesa para dos personas en una promoci\xF3n de una Bodega.el mozo que nos atendi\xF3 trajo los platos equivocados y al rato venia a cambiarlos diciendo que el cocinero se equivoco. UN espanto, p\xE9sima atenci\xF3n, confundir laminas de pollo con mollejas y macedonia de frutas con merengues \xFAnicamente lo he visto en comedias italianas antiguas. Como restoran, es un cafe mediocre ideal para organizar el encuentro con el abogado de mi ex esposa"
+    date: 21-03-2009
+    user: http://mi.guiaoleo.com/members/15308
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: La comida es regular no llega a ser mala pero tampoco es nada del otro mundo, este lugar es mas bien para ir a tomar un cafe o una copa a la tardecita o luego de almorzar o cenar. Los mozos son bastantes lentos en traer los pedidos y el ruido de fondo es bastante molesto.
+    date: 20-01-2009
+    user: http://mi.guiaoleo.com/members/30308
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un lugar que podr\xEDa ser agradable pero no lo es por la desganada atenci\xF3n de los mozos y por el excesivo ruido ambiental. La comida  \"al paso\" razonable."
+    date: 02-01-2009
+    user: http://mi.guiaoleo.com/members/28003
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      A este legendario lugar lo "tomaria" solamente para darle el uso de Bar y comer algo liviano, siempre en el clasico salon de planta baja.
+      Nunca fui a al restaurant del primer piso.
+    date: 16-11-2008
+    user: http://mi.guiaoleo.com/members/54514
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hac\xEDa mucho que no iba, el primer plato no me gust\xF3 mucho pero el segundo estuvo bien."
+    date: 12-10-2008
+    user: http://mi.guiaoleo.com/members/42951
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "la comida es mala para el alto target que buscan. el servicio es bueno, el lugar es lindo (pleno figueroa alcorta). dif\xEDcil estacionamiento."
+    date: 30-09-2008
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Volvimos despu\xE9s de un tiempo, pero esta vez por la noche. Realmente la atenci\xF3n y la comida fueron excelentes. El lugar siempre impecable y con una vista fant\xE1stica. Recomendable. No es barato."
+    date: 23-09-2008
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ya fui varias veces porque me tratan excelente y entienden mis gustos.\r\n\
+      A veces los mozos (masculinos) se toman su tiempo y demoran m\xE1s que lo razonable. Siempre pido entonces que me atiendan mozas.\r\n\
+      Adem\xE1s el ambiente es tan natural, luminoso y verde que es un remanso de paz en el mediod\xEDa.\r\n\
+      Finalmente no creo que haya otro lugar donde te reciba en la puerta una chica m\xE1s linda."
+    date: 29-08-2008
+    user: http://mi.guiaoleo.com/members/50551
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comimos en el bar de la planta baja .Muy buena la comida, tanto la bondiola caramelizada con verduras al wok como los crepes de espinacas, ricota y salm\xF3n. El servicio muy bueno : expeditivo y pr\xE1ctico. El ambiente moderno y c\xF3modo. Lo malo: el olor a humo ya que contrario a lo que indica la Ley hay conexi\xF3n entre el sal\xF3n no fumador y el fumador.\r\n\
+      Un poco caro , $ 42 / persona: principal+ bebida+ t\xE9/caf\xE9, sin postre y con el descuento de La Naci\xF3n.\r\n\
+      Festejaba mi cumplea\xF1os y me agazajaron con una porci\xF3n de torta con velita !! gracias !!\r\n\
+      Volver\xEDa."
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/3039
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy buena vista a las plazas, ambientacion, atencion muy esmerada, extraordinaria la comida.
+    date: 22-06-2008
+    user: http://mi.guiaoleo.com/members/15401
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lo mejor es el lugar, sin dudas. La atenci\xF3n concreta y simple, como debiera ser siempre. el happy hour acompa\xF1ado con canap\xE9s para picar es correcto y satisface. Siempre se vuelve a Rond Point."
+    date: 11-06-2008
+    user: http://mi.guiaoleo.com/members/36514
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: ambiente y comida aceptable pero...caro por comparacion...les falta..ofrecer otra alternativa...no convence
+    date: 31-03-2008
+    user: http://mi.guiaoleo.com/members/9402
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida estaba bien, nada especial (caro entonces). El servicio muy amable y muy atento: mas alla de que se habian olvidado de que habia reservado y la mesa no estaba armada (eramos 22 personas) lo hicieron muy rapido y nos atendieron perfecto durante las 3 horas que duro el almuerzo."
+    date: 02-03-2008
+    user: http://mi.guiaoleo.com/members/6823
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: abajo es el bar y tiene algunas tapas, picadas y minutos. el resto del primer piso abierto mediodia y noche, y arriba de todo, audi exclusive. valet parking. muy buena comida, fresca, buena atencion, linda zona, que obviamente es lo que te cobran, casi en dolares. Todo equilibrado salvo el precio un poco elevado por lo que es.
+    date: 25-12-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente es muy bueno, sobre todo tranquilo. La comida es muy buena, y a nosotros nos atendieron muy bien, a pesar de lo que otros opinan. \r\n\
+      Lo que s\xED: es muy caro, cobrar $10 el cubierto, con una panera muy escasa, con dos o tres pancitos comunes blancos y dos negros. \r\n\
+      Y la lista de vinos es excelente...salvo los precios, car\xEDsimos, de hecho, optamos por tomar agua con gas...YO, TOMANDO AGUITA!!\r\n\
+      Como balance, es un lugar al que pienso volver."
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/11506
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "En la puerta de entrada esta escrito el nombre del chef Martiniano Molina lo cual bastar\xEDa como carta de presentaci\xF3n. Preguntamos por \xE9l pero no concurre, la comida es regular la atenci\xF3n es regular y el precio muy caro por lo que ofrecen."
+    date: 17-11-2007
+    user: http://mi.guiaoleo.com/members/28628
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Adhiero a los comentarios sobre la atenci\xF3n regular, la comida fr\xEDa y nada original (salvo la descripci\xF3n), la panera pobre, y estando medio vac\xEDo nos acomodaron a todos del lado fumador, que s\xED estaba repleto (aunque destaco que nadie fumaba). \r\n\
+      Precios car\xEDsimos! Vivo muy cerca pero no voy a volver hasta que Martiniano me lo pida"
+    date: 28-10-2007
+    user: http://mi.guiaoleo.com/members/34766
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad que la comida es lo \xFAnico que salva los papeles en este lugar.\r\n\
+      Un desastre la atenci\xF3n, desatentos, paseando por el sal\xF3n, con una increible falta de conocimiento de lo b\xE1sico en atenci\xF3n.\r\n\
+      Por ejemplo no pasar el brazo por adelante de otro comensal sirviendo bebida.\r\n\
+      Se nota mucha gente del barrio, quizas est\xE9n un poco acostummbradas o cansada y sin otras opciones.\r\n\
+      Aplauso para Martiniano que con tan poco sigue facturando a lo grande.\r\n\
+      Maestro!"
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/10483
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La ambientaci\xF3n es muy sobria y las vistas de noche desde su gran esquina vidriada son inmejorables. La atenci\xF3n es correcta para la calidad del lugar y la entrada de ostras, por dem\xE1s sabrosa. El plato principal quiz\xE1s dej\xF3 un sabor \"a poco\", no por la escac\xE9s del mismo, sino por la calidad de la cocina... Igual siempre den ganas de volver, comer ah\xED es un placer para los cinco sentidos."
+    date: 03-10-2007
+    user: http://mi.guiaoleo.com/members/26778
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar es muy lindo, la comida deliciosa, la atenci\xF3n es lo \xFAnico que mejorar\xEDa porque es irregular y no del todo amable."
+    date: 01-10-2007
+    user: http://mi.guiaoleo.com/members/33230
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Vista muy buena, ambiente tranquilo, pero la comida es clasica sin variedad ni siquiera hay platos de risotto, me esperaba otra cosa mas elaborada viniendo de Martiniano Molina. 
+      Los ravioles frios en plato sin templar. Los precios muy elevados para ese nivel de comida.
+    date: 17-09-2007
+    user: http://mi.guiaoleo.com/members/30751
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida es muy rica y el lugar es muy agradable
+    date: 19-08-2007
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fuimos la semana pasada, no habia mucha gente, comimos en el salon del primer piso, el ambiente esta muy bien, no me trajeron la carta de vinos, cuando pregunte por los vinos por copa me dijo el camarero que averiguaria que bodega podia ofrecerme cuando al fin pedimos mi copa que era de vino blanco estaba fuera de temperatura (caliente), me la cambiaron, al rato llego una mesa grande se ubico al lado nuestro pero hubo algunos comentarios del camarero fuera de lugar. En sintesis la comida esta bien, la atencion debe mejorar y mucho (no la predisposicion sino el servicio, deja mucho que desear), la panera no se destaca para nada creo que por $10 pesos el cubierto deben ofrecer mucho mas que una copa de espumante de bienvenida los precios muy muy altos.
+    date: 13-07-2007
+    user: http://mi.guiaoleo.com/members/26614
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lugar sumamente recomendable, ya desde la entrada, subimos acompa\xF1ados en un ascensor de reminiscencias art-nouveau,como si se viajara dentro del capullo de un tulip\xE0n,luego un enorme ventanal abierto a los parques de palermo,las mesas bien separadas,la atenci\xF2n especializada y personalizada,sin por ello ser excesiva,con recomendaciones de maridajes por parte del sommelier y la comida muy rica y muy creativa y en porciones muy buenas,un lugar para una velada grata e inolvidable y por supuesto un lugar para volver "
+    date: 01-07-2007
+    user: http://mi.guiaoleo.com/members/15538
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Una experiencia bastante decepcionante: la comida com\xFAn y corriente; el postre, francamente flojo y el servicio malo (hasta tuvimos que compartir la carta). Lo \xFAnico rescatable es la vista desde esta esquina espectacular de Buenos Aires. "
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Las cr\xEDticas le\xEDdas en la gu\xEDa hicieron que fuera a Rond Point no muy convencido, pero el resultado de la cena fue altamente favorable.  El lugar est\xE1 bien, pero lo que m\xE1s destaco es que el tama\xF1o de una entrada equivale al principal de otros restos.  Ped\xED mollejitas que estaban excelentes, como tambi\xE9n la bondiola del plato principal.  En general todos en la mesa comieron muy bien y los precios son altos pero nada fuera de lo esperable.  Igual, a la hora de elegir, me sigo inclinando por la movida de Palermo."
+    date: 12-05-2007
+    user: http://mi.guiaoleo.com/members/2996
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fu\xED con un poco de miedo por los comentarios que hab\xEDa le\xEDdo pero termin\xF3 resultando mucho mejor de lo esperado.\r\n\
+      La cocina hace poco la tom\xF3 Martiniano Molina con lo cual los platos son muy elaborados y sabrosos, tama\xF1o abundante ,recomiendo compartir entradas ya que por ejemplo la de la muzzarella de b\xFAfala que fu\xE9 la que yo ped\xED viene con dos pulpetas gigantes ,mucho jam\xF3n crudo y verdes!!!La conclusi\xF3n es que si bien los platos son caros no escatiman en cantidad y calidad.\r\n\
+      El servicio es bueno, te dan una copa de champagne de bienvenida y masitas con el caf\xE9 y el mozo si bien ten\xEDa un manera particular de decir las cosas estubo siempre atento a que no faltara vino en las copas ya lo que necesitar\xE1mos.\r\n\
+      El ambiente es sobrio, con una cava muy moderna y las mesas sobre la ventana tienen una vista espectacular.\r\n\
+      Consejo: lo conocer\xEDa."
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lo mas destacable es que es una experiencia positiva, que incluye una visita a la cava, que vale la pena. El tercer piso (cuando fui yo era exclusivo para usuarios de Audi) tambi\xE9n hace que sea una experiencia muy agradable. En cuanto al servicio, es muy relativo porque a veces sale muy bien y a veces regular. Para este d\xEDa que califico, estuvo muy bien. En cuanto a la comida, es de primera calidad, muy rica, pero sin distinci\xF3n. Vale la pena por la experiencia en general y los precios altos pero no caros."
+    date: 09-05-2007
+    user: http://mi.guiaoleo.com/members/19232
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "En una nueva etapa del restaurante a cargo de Martiniano Molina.  "
+    date: 04-05-2007
+    user: http://mi.guiaoleo.com/members/22691
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad es que esperaba otra cosa. Fuimos cuando reabri\xF3, la atenci\xF3n es muy mala, cuando ped\xED un caf\xE9 vien\xE9s, me lo trajeron con una cucharita de caf\xE9 normal y cuando les reclame me miraron con cara larga. No vuelvo."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/18620
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar y ambiente son realmente muy buenos, l\xE1stima que la atenci\xF3n de los mozos sea tan mala y la comida tampoco acompa\xF1e."
+    date: 02-01-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui dos veces en los \xFAltimas 2 semanas y la \xFAltima vez result\xF3 verdaderamente decepcionante.\r\n\
+      Un buen lugar, pero muy mal atendido y comida regular. Una l\xE1stima."
+    date: 20-10-2006
+    user: http://mi.guiaoleo.com/members/12912
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy lindo el lugar, muy buena la comida del men\xFA del mediod\xEDa en su relaci\xF3n precio-calidad. Para recomendar."
+    date: 04-09-2006
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El ambiente es muy bueno, la atenci\xF3n amable, pero err\xE1tica, la comida deja much\xEDsimo que desear."
+    date: 23-08-2006
+    user: http://mi.guiaoleo.com/members/971
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Precios elevados para la comida servida, aunque hay que tener en cuenta el lugar.\r\n\
+      La comida es buena, aunque hay platos mejores que otros. \r\n\
+      Recomiendo la bondiola.\r\n\
+      Los precios de los vinos son muy caros y casi no tienen opciones de vino por copa y a precios rid\xEDculos: $20 pesos por copa."
+    date: 22-06-2006
+    user: http://mi.guiaoleo.com/members/7902
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: El lugar es extraordinario, la comida debe mejorar, vuelvo.
+    date: 03-05-2006
+    user: http://mi.guiaoleo.com/members/16821
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy bueno, todo perfecto. Se los recomiendo.
+    date: 30-04-2006
+    user: http://mi.guiaoleo.com/members/8103
+    ambiente_rank: excelente

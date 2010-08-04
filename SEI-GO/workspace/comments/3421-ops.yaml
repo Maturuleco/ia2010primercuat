@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena la camida y el lugar, comi unas pizzas muy ricas!!! se las super recomiendo sobre todo por la masa bien crocante y finita. Las pastas tambien estan buenas, todo muy casero y hecho en el momento, vamos a volver
+    date: 26-08-2008
+    user: http://mi.guiaoleo.com/members/10162
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es super tranquilo. Las mesas est\xE1n c\xF3modamente espaciadas unas de otras. En cuanto a la comida: Deslumbrantes los \xF1oquis gorgonzola. Muy buena atenci\xF3n. Me pareci\xF3 un toque de distinci\xF3n la posibilidad de ser asesorado por el chef del lugar."
+    date: 22-08-2008
+    user: http://mi.guiaoleo.com/members/50107
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Realmente muy bueno, la comida la hacen en el momento.todo es muy fresco y con productos de muy buena calidad. Super recomendable.
+    date: 09-03-2008
+    user: http://mi.guiaoleo.com/members/41552
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida completamente insulsa. Estuve durante toda la comida agregandole sal, pimienta y queso rallado a un plato tan simple como tagliatellis al ragu (fideos a la bolognesa, vamos). Por otro lado, cuando llega la cuenta, uno tiene que pagar todo por bueno, buenisimo, excelente. P\xE9sima relaci\xF3n precio-calidad. No creo que dure, es una l\xE1stima, porque lo podr\xEDan haber hecho bien."
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/34300
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Good location, excellent food, good, un-pricey wine choice.  Highly recommended.
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/38101
+    ambiente_rank: muy bueno

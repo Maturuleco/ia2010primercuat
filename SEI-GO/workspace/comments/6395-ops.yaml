@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buen ambiente y atenci\xF3n, para el que le gusta el sabor a bar tradicional. Lo mejor son las pastas, sabor casero. No tanto las salsas."
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      La mejor picada de Buenos Aires!!! Hacen delivery tambien pero el ambiente tanguera no se puede perder.
+      Top 5 de mis lugares preferidos de buenos aires.
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/48166
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos el s\xE1bado por la noche y fue una grata sorpresa. Un ambiente ameno, m\xFAsica en vivo (viernes y s\xE1bado dps de las 22:00hs) y, pese a que la especialidad son las picadas, una carta con platos \"conocidos\" y ricos. Una relaci\xF3n calidad/servicio/ambiente/precio \"excelente\". Sin dudas reiteramos la visita."
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/77044
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      La verdad..muy buena comida y bien servida, comimos una mini picada de entrada... y chorizo aleman con chucrut, buen servicio y un ambiente calido..yo le recomiendo economico y bien servido...que mejor!
+      Pronto pasaremos de noche...!!
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/68564
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar es barbaro, muy buiena atencion, musica en vivo (no molesta en absoluto)los platos abundantes y riquisimos.
+    date: 23-08-2009
+    user: http://mi.guiaoleo.com/members/67986
+    ambiente_rank: excelente

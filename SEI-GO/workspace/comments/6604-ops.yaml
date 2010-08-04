@@ -1,0 +1,91 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente lugar en Colegiales. La materia prima que usan es de primerisima calidady los platos estan muy bien presentados. Atencion mas que acorde y precios muy accesibles. Vuelvo seguro!
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/77203
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: excelente lugar, tranquilo, se come muy bien a buen precio... lo recomiendo!!!.
+    date: 04-06-2010
+    user: http://mi.guiaoleo.com/members/81086
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar es divino. Los mozos y los duenios super buena onda. Lo recomiendo.
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/17459
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El Bagel de salmon ahumado es el mejor! El pan lo hacen all\xED y las papas de acompa\xF1amiento tambi\xE9n estan muy buenas. El mejor lugar de colegiales para relajarse un s\xE1bado al mediodia."
+    date: 14-04-2010
+    user: http://mi.guiaoleo.com/members/50964
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un restaurante en el cual se come muy rico , recomiendo la tarta de cebolla caramelizada y la chocotorta de postre  . Tiene buen precio , lindo lugar , amable servicio  , se nota que es familiar y que la materia prima es de calidad ! Apoyo a Loreto Garden Bar  , voy a seguir yendo a probar nuevas cosas .
+    date: 27-03-2010
+    user: http://mi.guiaoleo.com/members/57392
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: se come bien y sin gastar mucho.
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/76330
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar en s\xED no es muy atractivo. Es una casa vieja, refaccionada, cero lujo, pero la comida en s\xED es EXCELENTE. La carta es super original, los platos TODOS tentadores, y la CHOCOTORTA de postre ($12) es algo impresionante!! Los precios son accesibles. Hay que sentarse afuera porque adentro no es para nada lindo el lugar. Pero de nuevo, la comida para destacar, y muy amable el personal."
+    date: 06-01-2010
+    user: http://mi.guiaoleo.com/members/72995
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Me encant\xF3 el lugar. La comida fue justo lo que esperaba. Ped\xED un sandwich y una ensalada. Las cantidades eran aceptables, salvo para la ensalada. Lo malo fue el servicio. La verdad es que no es ninguna ciencia servir en este restaurant teniendo en cuenta el tama\xF1o del salon y la carta. Falta capacitaci\xF3n. Lo dem\xE1s, todo genial. Volver\xE9."
+    date: 26-12-2009
+    user: http://mi.guiaoleo.com/members/67929
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar es muy tranquilo y relajado con un poco de modernidad en la arquitectura. La comida rica, sin mucho vuelo. Un lugar bueno para ir con chicos aunque no tienen sillitas altas.
+    date: 26-12-2009
+    user: http://mi.guiaoleo.com/members/74353
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Un lugar ideal para almorzar. Los platos son variados y muy sabrosos, hasta se podria decir que tienen un tono casero. Los precios muy accesibles y buen servicio. Volveria.
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/10182
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es una buena opci\xF3n si uno quiere salir a comer m\xE1s o menos bien y no gastar tanto"
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/74013
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Una casa antigua refaccionada que crea un ambiente de estilo moderno muy cuidado, muy agradable. La carta tiene muchas opciones tentadoras, como la tarta de puerros y langostinos. Tambi\xE9n se encuentran algunas opciones originales como por ejemplo que en los postres se puede ordenar chocotorta, o de bebida pedir granadina con soda (cosa que me remonta a mis mejores recuerdos de infancia). Las porciones son austeras, alcanzan con lo justo. No tiene tarjetas ni debito, algo muy flojo. La atenci\xF3n es buena, podr\xEDa ser mejor, falta experiencia, pero seguramente eso se ira puliendo con el andar."
+    date: 15-10-2009
+    user: http://mi.guiaoleo.com/members/20914
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena la atencion y la calidez del lugar. El servicio y la comida son excelentes, la mejor ensalada caesar de buenos aires!
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/69357
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente opci\xF3n al mediod\xEDa, buen\xEDsimo el bagel de salm\xF3n ahumado con queso filadelfia. Un lugar original y divertido donde te atienden muy bien y no te parten con los precios."
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/69302
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es una excelente opci\xF3n para disfrutar de comida hecha con ingredientes muy frescos y cuidados (el pollo de ensalda est\xE1 hecho al momento y las verdes bien turgentes, sin necesidad de esperar una eternidad. El postre Loreto es una acertada combinaci\xF3n de coco y chocolate imposible de olvidar. Todo esto acompa\xF1ado por una ambiente muy familiar y relajado."
+    date: 17-09-2009
+    user: http://mi.guiaoleo.com/members/16535
+    ambiente_rank: muy bueno

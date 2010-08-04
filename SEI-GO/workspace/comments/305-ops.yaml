@@ -1,0 +1,97 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Comida con buena presentacion pero poco sabor-\r\n\
+      Buen  servicio en un lugar intimo y muy agradable-Se pasa una buena noche con un concierto, en este caso, de Dolores Sol\xE1."
+    date: 26-03-2010
+    user: http://mi.guiaoleo.com/members/55236
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un cl\xE1sico de Buenos Aires, que combina en un solo local gastronom\xEDa, librer\xEDa y espect\xE1culo en vivo.  La comida est\xE1 bien pero no es nada destacable. Carta de vinos limitada. Atenci\xF3n eficiente y agradable."
+    date: 21-12-2009
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Una de mis opciones preferidas para almorzar, mesa de entradas de calidad, un buen primer plato (Brochette de pollo, pero siempre tienen muy buenas opciones), postre y bebida por $42, en comparacion a lo que cobrar cualquier barcito del centro, una buena relacion precio/comida
+    date: 06-08-2009
+    user: http://mi.guiaoleo.com/members/52307
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar me parece encantador, los mozos son muy correctos, profesionales y la comida es sabrosa y sana y con clase\r\n\
+      Siempre voy al mediodia y el salad bar es diferente Lo recomiendo\xA1\xA1\xA1\xA1\xA1\xA1"
+    date: 01-04-2009
+    user: http://mi.guiaoleo.com/members/60536
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena propuesta escuchar a Ana Ma. Bovo y cenar en este agradable ambito cultural. No entiendo las criticas anteriores en cuanto a la calidad de la comida, a nuestra manera de ver, la misma es superior a muchos restaurantes. Da gusto que Bs.As.tenga este tipo de oferta cultural y gastronomica!!!!!
+    date: 15-01-2009
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "el salad bar es muy pobre. destaco la calidez del lugar y la atenci\xF3n de los mozos."
+    date: 10-12-2008
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un cl\xE1sico de Buenos Aires que esta manchado por la poca ductilidad de alg\xFAn mozo para movilizarse en el sal\xF3n y una Srta. que cobra los derechos al Show poco apegada a reglas b\xE1sicas de protocolo.\r\n\
+      \r\n\
+      La comida es buena y el show de Fontova es superlativo.\r\n\
+      \r\n\
+      Rareza: El men\xFA del dia auspiciado por una editorial que promociona el \xFAltimo libro de Slavoj Zizek."
+    date: 26-07-2008
+    user: http://mi.guiaoleo.com/members/48215
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Nada del otro mundo, el show no lo vi. Pero el lugar en s\xED es com\xFAn sin tener en cuenta la historia que tiene, que lo hace especial"
+    date: 24-06-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Para ver un espect\xE1culo excelente (se paga aparte), en un lugar agradable, sin otra pretensi\xF3n. "
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/17053
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fui varias veces al mediod\xEDa. Agradable para distenderse almorzando acompa\xF1ado por la m\xFAsica del pianista en vivo. Comida rutinaria, con modesto salad bar. "
+    date: 16-08-2007
+    user: http://mi.guiaoleo.com/members/5889
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo lugar para ver un espect\xE1culo comiendo algo rico y bien servido."
+    date: 13-09-2006
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida se deja comer pero vale la pena el lugar porque es un cl\xE1sico porte\xF1o y sirve de escenario de muy buenos espect\xE1culos."
+    date: 13-09-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "muy buen lugar, muy buen ambiente, aunque algo peque\xF1o. Los shows son excelentes y los precios manejables."
+    date: 08-03-2006
+    user: http://mi.guiaoleo.com/members/6862
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen lugar. El ambiente es espectacular, los cuadros expuestos son una maravilla. Los espect\xE1culos que se dan son simplemente magnificos. Y la comida, muy buena."
+    date: 30-07-2005
+    user: http://mi.guiaoleo.com/members/3000
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Muy buenos espectaculos.
+    date: 21-07-2005
+    user: http://mi.guiaoleo.com/members/2798
+    ambiente_rank: muy bueno

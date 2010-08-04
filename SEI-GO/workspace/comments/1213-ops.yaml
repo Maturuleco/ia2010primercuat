@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Cuando voy al restaurante la atenci\xF3n es excelente, y la comida es bastante buena.\r\n\
+      Por otro lado, el servicio de delivery es tr\xE1gico. Mas de una hora y media para una triste pizza napolitana. Dos llamados durante la espera, y en los dos me dijeron \"ya sali\xF3\".\r\n\
+      Algo mas para aportar?\xBF?"
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/16053
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La idea era comer algo rapido para seguir paseando por el centro un domingo al mediodia. Los huevos revueltos (o mas bien \"el\" huevo revuelto) estaba seco, la mermelada era el tipico paquetito de plastico de los aviones, tostadas sin gusto a nada. Un lugar para olvidar. "
+    date: 14-10-2007
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El chaw fan era b\xE1sicamente arroz blanco con ropa vieja y salsa de soja."
+    date: 19-04-2006
+    user: http://mi.guiaoleo.com/members/7863
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "A la moza hubo que llamarla varias veces para que venga a tomar el pedido. \r\n\
+      El asado de tira ten\xEDa m\xE1s grasa que carne y las papas fritas estaban llenas de aceite. \r\n\
+      Cuando pedimos la cuenta, la moza no nos la trajo, s\xF3lo nos dijo el importe a pagar.  Le pedimos el ticket y como despu\xE9s de varios minutos no lo trajo, tuvimos que ir a pagar a la caja."
+    date: 20-03-2006
+    user: http://mi.guiaoleo.com/members/7130
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Muy mala atenci\xF3n, la comida muy grasosa y sin gusto."
+    date: 20-03-2006
+    user: http://mi.guiaoleo.com/members/7131
+    ambiente_rank: malo/regular

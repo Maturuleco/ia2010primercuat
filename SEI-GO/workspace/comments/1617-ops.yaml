@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Buna gente. Una cantina como las de antes, con mozos educados y el esmero para que uno se vaya contento.
+    date: 10-06-2009
+    user: http://mi.guiaoleo.com/members/63903
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Ambiente familiar, relajado y mozos con experiencia. Sencillo, sin pretensiones: a la vieja usanza."
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/40657
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No comi porque la comida nunca lleg\xF3. Tardaron 50 minutos y me trajeron los escalopes crudos (era la carne completamente cruda, ni siquiera rosa, toda cruda con harina frita arriba) y me pusieron la excusa de que bajo la temperatura. Las papas fritas parecian de 3 d\xEDas atras. Me pagando solo la bebida."
+    date: 09-05-2007
+    user: http://mi.guiaoleo.com/members/247
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy buena comida, recomendable.
+    date: 21-05-2005
+    user: http://mi.guiaoleo.com/members/1938
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Se come muy bien, comida de buena calidad.
+    date: 10-05-2005
+    user: http://mi.guiaoleo.com/members/1761
+    ambiente_rank: excelente

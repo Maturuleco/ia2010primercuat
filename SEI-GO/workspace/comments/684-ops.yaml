@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "EL precio es muy economico para la zona en la que se encuentran, el d\xEDa que fui yo solo hab\xEDa ocupadas 4 mesas (adentro y afuera). El lugar es lindo, la comida es buena, no es de gran calidad pero por ese precio mucho mas no se puede esperar. \r\n\
+      Ojo al pedir el menu, cada promocion figura en la carta con otro precio, y puede que te pase como a mi que me quisieron cobrar el precio mas caro, despues de una queja reconocieron estar equivocados, y me descontaron los $50 que me habian cobrado de mas.\r\n\
+      En caso de visitarlo REVISAR BIEN LA CUENTA ANTES DE ABONAR."
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/61934
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El resultado es muy bueno y pensamos volver a ir.-
+    date: 14-02-2009
+    user: http://mi.guiaoleo.com/members/55373
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Es un lugar muy bien ubicado, pero donde la comida es de calidad nivelada hacia abajo. El servicio es normal. Solo amerita visitarlo si al mediod\xEDa est\xE1s con hambre y los lugares cercanos est\xE1n llenos."
+    date: 14-05-2008
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La comida es mediocre, tandaron 15 minutos en atendernos y la atencion fue pesima, el mozo se quivoco 2 veces el plato elegido ! La comida dejaba mucho que desear, nada del otro mundo.definitivamente no vuelvo mas.
+    date: 05-01-2008
+    user: http://mi.guiaoleo.com/members/41635
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El lugar es muy lindo con vista al rio, la zona puerto madero pero la comida no es buena, se nota que nada es de primera calidad. Solo para rescatar que cenaste en puerto madero. "
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/22273
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Acorde relacion precio calidad: no es caro y no es bueno. Se esmeran en la atencion (y lo hacen bien), pero eso no oculta el muy bajo nivel de la comida. Claramente intentan cocinar manteniendo los costos lo mas bajo posible."
+    date: 02-05-2007
+    user: http://mi.guiaoleo.com/members/15718
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me gust\xF3, no es lo m\xE1s lujoso, pero tiene comidas tradicionales y sin tanta pavada o invento. El mozo nos atendi\xF3 perfectamente y la mesa fue al lado del r\xEDo, excelente. Eso s\xED, algunos detalles malos: la mesa se mov\xEDa, pero en general todo bien."
+    date: 27-01-2007
+    user: http://mi.guiaoleo.com/members/17334
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida es muy precaria. Pero la clave est\xE1, en lo que no saben. Nos sirvieron ravioles de supermercado. Postres, que en lugar de una hoja de menta, ten\xEDan una hoja de perejil y un don pedro hecho con crema en lugar de helado. Todo fue reclamado y sin obtener ninguna soluci\xF3n. Una p\xE9sima experiencia. "
+    date: 14-12-2006
+    user: http://mi.guiaoleo.com/members/14536
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "En un moderno ambiente en la zona m\xE1s exclusiva de la ciudad, Xcaret ofrece, sin ostentaci\xF3n, buenos platos y un ambiente agradable por un precio asombrosamente bajo. \r\n\
+      No se van a arrepentir."
+    date: 10-09-2006
+    user: http://mi.guiaoleo.com/members/11727
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El cheff es b\xE1rbaro y cocina excelente."
+    date: 22-03-2006
+    user: http://mi.guiaoleo.com/members/7187
+    ambiente_rank: excelente

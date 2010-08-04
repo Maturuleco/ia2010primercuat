@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Lo que consum\xEDs ac\xE1 est\xE1 en relaci\xF3n correcta con el precio. Por el costo de un plato de comida standard, te dan pizza libre. Es siempre la misma pizza de muzzarella, que le ponen un rodaja de salame y se convierte en calabresa, o dos aros de cebolla y pasa a ser fugazzeta con queso. Es para llenarse la panza de pan con queso. Recomendable para matar el hambre sin plata."
+    date: 06-06-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Mala la comida  cada pizza, tenis del gusto muy poco es decir que cada porci\xF3n de pizza casi no se venia el gusto la calidad de la misma era muy mala, las empanadas para mi la de pollo estaba vieja, las ensaladas con sus 6 platos casi todos eras lechuga repollo tomate cheerry choclo arroz cebolla pepino muy pobre en ese sentido como les dije"
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/17045
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida que es bastante mala, sobre todo la fain\xE1: lejos, la peor que prob\xE9 en mi vida. Si bien no es caro, las pizzas son de muy mala calidad. Por ese precio hubiera comido mucho mejor en una pizzeria como Ugi"
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/75073
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: buena relacion precio calidad exelentes alternativa para almorzar ya sea libre o el menu de almuerzo, el cafe muy bueno.
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/64953
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lugar de paso sin demasiadas exigencias. Ambiente amplio con olores que se entremezclan, lo cual no es muy agradable.
+    date: 16-09-2009
+    user: http://mi.guiaoleo.com/members/8127
+    ambiente_rank: bueno

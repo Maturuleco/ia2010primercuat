@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente pizza, chica grande y por porciones, muy buen precio en un ambiente sencillo pero muy prolijo. Hace tiempo que no lo votan merecen muchas calificaciones!!!
+    date: 13-07-2009
+    user: http://mi.guiaoleo.com/members/55342
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fain\xE1 rebueno.  Las empanadas tambi\xE9n.  Las pizzas son normales, buenas pero ni tanto.  Pero el lugar me encanta, el ambiente.  Muy buena ubicaci\xF3n y buen servicio."
+    date: 15-01-2009
+    user: http://mi.guiaoleo.com/members/64935
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fant\xE1stico. excelente pizza. Altamente recomendable."
+    date: 09-11-2007
+    user: http://mi.guiaoleo.com/members/35318
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Conozco este sitio desde hace m\xE1s de quince a\xF1os. Pizzeria de barrio con calidad uniforme y con los due\xF1os siempre al frente del establecimiento. Si est\xE1 por los lados de San Telmo y desea una porci\xF3n de faina y una buena pizza no deje de visitarlo, acompa\xF1ados de una cerveza o una copa de vino de la casa. No saldr\xE1 defraudado!"
+    date: 04-10-2007
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena pizzer\xEDa de barrio. La atenci\xF3n es muy cordial y la comida riqu\xEDsima. Recomiendo la empanada gallega. "
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/28409
+    ambiente_rank: bueno

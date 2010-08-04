@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Las mejores empanadas que hay en todo Buenos Aires.Por la relacion calidad,precio,cantidad son excelentes! No se quede sin probar las empanadas de Cantipalo!! las pizzas tambien son excelentes con mas de 50 gustos.Muy recomendable!
+    date: 29-03-2009
+    user: http://mi.guiaoleo.com/members/60434
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Las empanadas muy buenas pero para verle la cara de rev\xF3lver al encargado y para que me trate como si me estuviera haciendo un favor, prefiero buscar otras. P\xE9sima atenci\xF3n."
+    date: 27-06-2008
+    user: http://mi.guiaoleo.com/members/46766
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "maria maria se especializa en pizzas y empanadas,\r\n\
+      tambien tiene minutas varias\r\n\
+      empanadas super grandes muy ricas y un precio bastante accesible,teniendo en cuenta su calidad que es de primera y sus a\xF1os de sirviendo a sus clientes ya 27 a\xF1os"
+    date: 25-02-2008
+    user: http://mi.guiaoleo.com/members/40980
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      las mejores empanadas de mi vida!
+      aunque bastante caro para mi gusto!
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/35451
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "M\xE1s que recomendable, para variar de las empanadas de lugares franquiciados donde todo tiene el mismo sabor."
+    date: 11-09-2007
+    user: http://mi.guiaoleo.com/members/15718
+    ambiente_rank: bueno

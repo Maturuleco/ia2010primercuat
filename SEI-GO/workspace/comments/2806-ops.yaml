@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelentes empanadas
+    date: 05-08-2008
+    user: http://mi.guiaoleo.com/members/48879
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy ricas empanadas, peque\xF1as, mucha variedad y no son caras."
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Las mejores empanadas que comi en un delivery
+      mucha variedad y sobre todo excelente calidad. Para destacar la empanada de champignon al jerez y la de verdura
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/22358
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Las Mejores empanadas, con muy buenas combinaciones. La m\xE1s rica la de Palmito y le sigue la de J/Q y Morrones."
+    date: 12-08-2007
+    user: http://mi.guiaoleo.com/members/29847
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La calidad y variedad en empanadas lo hace a el tangal uno de los pocos lugares del barrio donde se pueden pedir o comer empanadas.
+    date: 04-08-2007
+    user: http://mi.guiaoleo.com/members/21985
+    ambiente_rank: bueno

@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy buena opcion para comer al mediodia. El menu es barato y la comida justa. Muy buena onda de las  chicas que atienden. Para probar ir a la noche.
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: exelentes cervezas sobre todo la stout ,lo que estaria bueno es que pongan mas variedades,las 2 que tome son exelentes,muy buena atencion y muy buena la musica
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/76663
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: espectacular el lugar. la pasamos bien. muy buena la cerveza artesanal. Yo vuelvo por el servicio, es lo mas.
+    date: 02-02-2010
+    user: http://mi.guiaoleo.com/members/75961
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos ocho amigos con la idea de despedir el a\xF1o y tomar una buenas cervezas artesanales. La verdad nos llevamos una gran decepcion ya que no contaban con las cervezas a temperatura ideal (llamese bien frias)y no hay cosa peor que tomar una cerveza caliente. Le pedias una marca en especial y te decian que no llegaban a traer todas frias y te las reeplazaban por otra. El ambiente es mas o menos. El miercoles hacia una temperatura no muy agradable y el aire acondicionado brillaba por su ausencia. La verdad para nada recomendable."
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/74483
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "sinceramente me lleve una decepcion esperaba que fuera como otros bares de cerveza que eh conocido\r\n\
+      el bar es peque\xF1o y la ambientacion no muy diferente a cualquier pub de barrio pedi una tabla de quesos y un desastre  de variedad 0 \r\n\
+      la cerveza artesanal no estaba mal pero hay mejores, eso si tienen buenas promos de happy hour y la atencion es buena"
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: malo/regular

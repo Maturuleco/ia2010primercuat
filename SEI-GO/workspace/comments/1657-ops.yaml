@@ -1,0 +1,69 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Detestable. Que paso? Este lugar hace unos a\xF1os era una verdadera tentaci\xF2n. \r\n\
+      Sal\xECamos y deciamos siempre: Vamos a Ka&so. Era automatico. Los tragos eran de lo mejor, la atenci\xF2n era muy buena, la comida siempre aprobada... Hoy le dimos una nueva oportunidad luego de que las ultimas experiencias de este a\xF1o fueron malas y realmente, como dije al principio, es detestable. Y no hablo de la presencia del personal y los encargados porque se har\xECa muy largo el mensaje, pero tambi\xE8n deja muchisimo que desear. Nos arruinaron la salida."
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/27989
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Extremadamente lenta la atenci\xF3n. No queda claro qu\xE9 incluye el men\xFA en cuanto a postre, cafe, etc. "
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/23693
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar no soporta la llegada de varias personas juntas. UNA hora esperando entre la ensalada (no es a eleccion en el menu) y el plato principal. Mucha fachada y poca calidad. "
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/25616
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: poca gente para el servicio, dada la catidad de mesas; la comida es escasa y mediocre.
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "el lugar es muy bonito pero la verdad es que la comida fue malisima, una entrada que vend\xEDan como ensalada capresse eran dos pedacitos de queso (no muzzarella) dos rodajas de tomate y una hoja de albahaca; el plato principal merluza, tenia un olor a pescado pasado horrible y estaba crudo. Luego de pagar la cuenta llamamos a la encargada y le comentamos lo ocurrido y nos contesto: \"si no les gust\xF3, no vengan m\xE1s\""
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/15231
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Para sorpresa nuestra, fuimos a Ka&so como lo hacemos siempre y nos encontramos con que no est\xE1 mas el barman que nos atend\xEDa siempre. Ya no es lo mismo. Inclusive al lugar se lo nota m\xE1s abandonado. Una l\xE1stima."
+    date: 18-12-2006
+    user: http://mi.guiaoleo.com/members/14817
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es fant\xE1stico. Y los camareros( una chica y un chico) nos hicieron pasar un momento hermoso en nuestro aniversario. La comida es muy rica y los tragos son exquisitos. Pero, se notaba una mala predisposici\xF3n de los due\xF1os y presenciamos una discusi\xF3n con la camarera que era divina. La verdad una pena. Esos son detalles que hacen a un lugar. Igualmente la pasamos genial. Muy recomendable."
+    date: 05-10-2006
+    user: http://mi.guiaoleo.com/members/13423
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La primera vez, fuimos a tomar algo porque hab\xEDamos le\xEDdo que ten\xEDa uno de los mejores bartenders de Argentina y una de las mejores barras de Buenos Aires. \r\n\
+      Realmente creo que es as\xED. Siempre dan ganas de volver por la gente y los tragos del barman. \r\n\
+      El lugar es divino, especialmente la barra, es un mundo aparte. \r\n\
+      De lo mejor en Puerto Madero y Buenos Aires en general."
+    date: 11-08-2006
+    user: http://mi.guiaoleo.com/members/11134
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Buen\xEDsimo el daiquiri de caf\xE9 (nunca lo hab\xEDa probado) y el cocktail Santiago LLamas N\xB0 1. Excelente atenci\xF3n (carisma y glamour sobran en los camareros/as) y muy buena la m\xFAsica. \r\n\
+      La comida deliciosa y cuantiosa."
+    date: 12-04-2006
+    user: http://mi.guiaoleo.com/members/7746
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      El ambiente es bueno. 
+      La comida un poco escasa. 
+      Es para parejas.
+    date: 18-03-2006
+    user: http://mi.guiaoleo.com/members/6471
+    ambiente_rank: muy bueno

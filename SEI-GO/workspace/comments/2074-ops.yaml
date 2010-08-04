@@ -1,0 +1,37 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Fui a una fiesta de fin de a\xF1o. Los menues, que habian ofrecido como opciones, no existieron, a todos nos sirvieron pollo con fritas. Frio y sin sal, no traian condimentos. El show, un travesti simpatico, pero no difiere de cualquier otro que hayas visto. Demasiado caro para lo que ofrecen."
+    date: 05-12-2008
+    user: http://mi.guiaoleo.com/members/55797
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui a un cumplea\xF1os (menu fijo: pizza+bebida+helado). La pizza se deja comer, y el helado es feo. Por el resto show y baile. Nada especial."
+    date: 14-11-2008
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Excelente opcion los dias de semana para comer en un lindo lugar y a muy buen precio, el pizza libre con bebida incluida $ 15, se come bien, se puede charlar y pasar un rato agradable.
+      Recomendable.
+    date: 28-08-2008
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Tiene promocion de menues y tragos los dias miercoles y jueves, menu de pizza libre por 12 pesos. 
+      Copado el lugar, aunque no se puede charlar demasiado por la music. 
+      Si estan lindas las mesitas en la calle.
+      Muy buena onda por parte de los mozos y de las chicas que recepcionan.
+    date: 13-02-2008
+    user: http://mi.guiaoleo.com/members/36192
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen ambiente. La comida es buena, pero puede mejorar. "
+    date: 13-03-2007
+    user: http://mi.guiaoleo.com/members/19911
+    ambiente_rank: excelente

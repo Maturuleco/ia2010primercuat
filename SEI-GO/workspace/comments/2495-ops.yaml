@@ -1,0 +1,28 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Es una lastima que se haya venido tan abajo... antes ibamos con mi familia una vez por semana, pero empezaron a aumentar los precios y a bajar la calidad. Una pena! mi abuelo la ultima vez que fuimos le dijo al encargado \"si aumentaban pero al menos mantenian la calidad, hubieramos seguido viniendo\".\r\n\
+      No fuimos mas desde el a\xF1o pasado ya."
+    date: 30-06-2008
+    user: http://mi.guiaoleo.com/members/46002
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Muy bueno el lugar la comida excelente buenisima y si lo canocen al cocinero de la noche tambien esta muy bueno.
+    date: 13-03-2008
+    user: http://mi.guiaoleo.com/members/41703
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Compartimos entre tres una grande de la casa, con tres gaseosas y flanes con crema, todo muy rico.
+    date: 29-09-2006
+    user: http://mi.guiaoleo.com/members/12521
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fui en varias oportunidades y todas las veces lo pas\xE9 muy bien. \r\n\
+      La comida es muy rica, variada y las porciones son abundantes. \r\n\
+      El ambiente es muy tranquilo, c\xF3modo y el servicio tambi\xE9n es muy bueno."
+    date: 01-07-2006
+    user: http://mi.guiaoleo.com/members/12002
+    ambiente_rank: excelente

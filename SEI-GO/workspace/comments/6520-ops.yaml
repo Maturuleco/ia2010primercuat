@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Casona con aires hogare\xF1os. El precio es muy accesible considerando la calidad y lo abundante de las porciones. Ideal para una comida tranquila y con sabores caseros."
+    date: 13-09-2009
+    user: http://mi.guiaoleo.com/members/69006
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Parece que han cambiado de propietarios. Servicio amable, pasteleria, panes propios y poco m\xE1s. Barato."
+    date: 27-08-2009
+    user: http://mi.guiaoleo.com/members/49940
+    ambiente_rank: bueno

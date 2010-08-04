@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Fui por las recomendaciones de los usuarios de guia oleo y fue una decepcion total. La picada no tenia variedad y no era comida de calidad. El bar en si es para ir de entrecasa. La atencion deja mucho que desear, nos tuvieron esperando para tomar el pedido, cuando el lugar estaba vacio. Lo unico a favor fueron los precios bajos, pero la calidad de la comida era tan baja como los mismos.
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/80373
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 muy bien para picar y tomar algo. Las picadas parec\xEDan muy buenas, la pizza y la hamburguesa muy ricas. Tambi\xE9n hay tres platos del d\xEDa, m\xE1s elaborados. Todo a un precio m\xE1s que razonable y bien atendido. Vale la pena."
+    date: 09-05-2009
+    user: http://mi.guiaoleo.com/members/61540
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos a festejar mi cumplea\xF1os. la verdad que la pasamos barbaro y comimos unas pizzas riquisimas. Excelente precio, eramos 8 personas, comimos 1 nachos con queso 3 pizzas 7 cervezas de litro y 5 gaseosas y gastamos 26$ cada uno. Lo unico es que estaba lleno y habia una sola moza pobre chica! Pero igual toda la onda y nos sentimos muy bien. Lo recomiendo para salir a divertirse con amigos."
+    date: 27-12-2008
+    user: http://mi.guiaoleo.com/members/9605
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos a festejar el cumplea\xF1os de mi tia,eramos alrededor de 25 personas,lo pasamos genial,buena atencion,excelente comida,recomiendo la pizza azteca.El ambiente es muy calido."
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/52806
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es amplio y c\xF3modo, la comida est\xE1 bien para ser un bar y los precios son bastante bajos. La atenci\xF3n fue excelente."
+    date: 29-05-2008
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La tabla de fiambres es abundante y sabrosa. los nachos tienen excelentes salsas. En tragos, recomiendo el Mojito, el mejor que tome en mi vida!!!
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/41761
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La verdad, me sorprendi\xF3. No tenia referencias y prob\xE9. Gran variedad de fiambres importados en su tabla (imperdible), de primera la mousse de chocolate. Ideal para el after office con amigos."
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/27179
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Sirven tablas muy abundantes y de excelente nivel... recomiendo este lugar calido para reunirse
+    date: 10-06-2007
+    user: http://mi.guiaoleo.com/members/24371
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es optimo, muy buena musica, y las Picadas son muy abundantes!\r\n\
+      Tambien recomiendo la cafeteria, El caf\xE9 a la italiana no tiene desperdicio! \r\n\
+      \r\n\
+      saludos"
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/24343
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Espect\xE1cular!!!"
+    date: 05-06-2007
+    user: http://mi.guiaoleo.com/members/27178
+    ambiente_rank: excelente

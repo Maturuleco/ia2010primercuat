@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente combinaci\xF3n de precio razonable y muy buena cocina. Dificil de encontrar otro restaurante con esta relaci\xF3n calidad/precio en el microcentro."
+    date: 03-04-2009
+    user: http://mi.guiaoleo.com/members/3278
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buen lugar para comer al mediodia, buen precio, buena comidfa, el pan de la entrada es excelente!
+    date: 31-03-2009
+    user: http://mi.guiaoleo.com/members/60559
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente en todos los aspectos, el mejor lugar en el que he comido en toda mi vida.\r\n\
+      Sigan as\xED, son fant\xE1sticos y adem\xE1s muy agradables y cordiales."
+    date: 03-10-2006
+    user: http://mi.guiaoleo.com/members/12522
+    ambiente_rank: excelente

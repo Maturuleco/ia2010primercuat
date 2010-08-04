@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente lugar, pero un poco chiquito, por lo que hay que tratar de reservar antes, tambi\xE8n tiene un men\xF9 fijo con entrada, plato principal, postre y vino con derecho al show que es de $45 esta bueno. "
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/33736
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n y comida. Platos abundantes y economicos."
+    date: 25-01-2007
+    user: http://mi.guiaoleo.com/members/12765
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Atenci\xF3n esmerada, atendida por su due\xF1o, calidez, calidad en los platos y muy buenos precios. Limpieza en ba\xF1os y sal\xF3n comedor. Un lugar para ir seguido."
+    date: 16-01-2007
+    user: http://mi.guiaoleo.com/members/12768
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar muy agradable, comida buen\xEDsima y barata. Tiene un excelente show de tango."
+    date: 04-08-2006
+    user: http://mi.guiaoleo.com/members/10867
+    ambiente_rank: muy bueno

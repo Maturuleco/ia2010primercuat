@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: todo muy bueno. lo mejor son las pastas
+    date: 15-06-2010
+    user: http://mi.guiaoleo.com/members/83735
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo que mas se destaca del lugar es el ambiente, una esquina donde antes pareciera que funciono una vieja farmacia y donde han dejado todos los muebles orginiales. La comida es abundante y bien presentada y los comensales suelen ser pesonas mayores del barrio o familias. Un bodeg\xF3n bien cuidado de los que cada vez quedan menos. Un modesto clasico de Recoleta."
+    date: 15-04-2009
+    user: http://mi.guiaoleo.com/members/19660
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Un restaurante para salir del paso. La calidad de sus comidas van de la mano con el precio: solamente buenas.
+      Cuando se llena los pocos mozos no dan abasto con la cantidad de mesas que hay.
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/51689
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La parrillada no contenia todo lo que uno espera. Faltaban mollejas y chinchulines. El asado de costilla estaba durisimo, casi imposible de comer. \r\n\
+      La porcion de papas fritas demasiado peque\xF1a, no alcanza para dos y la ensalada demasiado cara, casi 10$. El budin de pan era regular, parecia flan.\r\n\
+      Lo peor de todo es que al decirles que la carne estaba dura ni el camarero ni el administrador hicieron algo para subsanar el problema...ni siquiera nos pidieron disculpas."
+    date: 05-08-2007
+    user: http://mi.guiaoleo.com/members/29283
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buenos bifes y pastas caseras. Excelentes las papas rejilla, porci\xF3n chica pero justa. Restaurante \"viejo\" pero que conserva su clientela."
+    date: 02-03-2007
+    user: http://mi.guiaoleo.com/members/20413
+    ambiente_rank: muy bueno

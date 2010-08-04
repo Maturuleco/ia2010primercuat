@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida es normal, a punto, pero se debe tener en cuenta que no son platos para compartir. El ambiente es agradable. Buena atenci\xF3n. Es para volver."
+    date: 04-06-2010
+    user: http://mi.guiaoleo.com/members/5952
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No vuelvo nunca m\xE1s! definitivamente el peor en a\xF1os. De entrada el mozo trajo lo que quiso: pedimos uno de los vinos m\xE1s caros de la carta (no lo ten\xEDan), fue entonces que le aceptamos lo que trajo con la condici\xF3n de que estuviera bien fr\xEDo (lo hab\xEDan sacado de la c\xF3moda, y nos trajeron hielo). Al pedido de lomo con papas noisettes vinieron espa\xF1olas (que figuraba en carta) que no fue tan grave de \xFAltima, y al de milanecitas de peceto con espinaca a la crema vino una triste insulsa milanesa de nalga con papas fritas plato que dej\xE9 entero, y uds. se piensan que preguntaron si comimos bien?"
+    date: 18-01-2010
+    user: http://mi.guiaoleo.com/members/73820
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen restaurante.\r\n\
+      \r\n\
+      El men\xFA ejecutivo es riqu\xEDsimo y para todos los gustos.  Nos atendieron muy cordialmente."
+    date: 11-01-2010
+    user: http://mi.guiaoleo.com/members/56172
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos con compa\xF1eros de militancia, men\xFA fijo que, por suerte, pag\xF3 la agrupaci\xF3n. Horrible! Hubiera preferido pagar pero ir a otro lado mejor. La ensalada rusa era: dos pedacitos de papa, dos pedacitos de zanahoria y una arveja, rodeado de una plata entera de lechuga. El pollo crudo. El flan zafaba. Lo peor en a\xF1os. Lo \xFAnico bueno fue que cantamos la marcha entera rodeados de fotos del Pocho."
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/36558
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen restaurant. Es imprescindible ir al menos una vez para conocer. Muy atento el mozo, y con una atenci\xF3n casi instant\xE1nea.Buenos precios en sus menues ejecutivos."
+    date: 02-10-2009
+    user: http://mi.guiaoleo.com/members/20314
+    ambiente_rank: muy bueno

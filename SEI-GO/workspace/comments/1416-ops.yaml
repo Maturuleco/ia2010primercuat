@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: No tenian casi nada de lo que ofrecian en la carta, el lugar venido abajo. y los mozos, no tenian ganas de atender.
+    date: 07-03-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: buena opcion para after office, tranqui, buena musica y ambiente. buena atencion e ideal para reservar mesa grande al fondo.
+    date: 13-09-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una muy buena alternativa al mediod\xEDa para quienes trabajamos por la zona. Los platos suelen salir r\xE1pido y la comida es buena.\r\n\
+      Adem\xE1s tiene sector para fumadores."
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/2996
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Bien.
+    date: 11-04-2006
+    user: http://mi.guiaoleo.com/members/7668
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es lindo pero cuando esta lleno (en general al mediod\xEDa) es bastante ruidoso y los mozos no alcanzan. \r\n\
+      Se olvidan de tu mesa para limpiarla, traer pan e incluso para cobrar. \r\n\
+      Tuve que pagar en la caja varias veces."
+    date: 20-12-2005
+    user: http://mi.guiaoleo.com/members/5436
+    ambiente_rank: malo/regular

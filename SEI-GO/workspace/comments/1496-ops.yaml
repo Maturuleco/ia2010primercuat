@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El men\xFA ejecutivo est\xE1 entre los mas caros de la zona, y la calidad es regular, con lo cual no se justifica pagarlo, ya que el lugar en s\xED no es de lo mas c\xF3modo. La atenci\xF3n es buena. Si no com\xE9s el men\xFA ejecutivo, se te pone muy complicado ya que las restantes opciones, ll\xE1mese sanguches, ensaladas, o platos, son ABSURDAMENTE caros. No recomendable."
+    date: 04-06-2010
+    user: http://mi.guiaoleo.com/members/82845
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se com\xE9 muy bien, por ah\xED est\xE1n desfasados con los precios de los sandwiches y eso. Un jugo y un tostado cuestan $20, el servicio y la atencion en muy buena. "
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/22083
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Son muy desproporcionados los precios respecto a la calidad de la comida, por el mismo precio se puede comer mucho mejor en muchos otros lugares. No lo recomiendo.
+    date: 26-10-2007
+    user: http://mi.guiaoleo.com/members/33660
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente opci\xF3n para los mediod\xEDas. El plato del d\xEDa es siempre buen\xEDsimo."
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/5667
+    ambiente_rank: excelente

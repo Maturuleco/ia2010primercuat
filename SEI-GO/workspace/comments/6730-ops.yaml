@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: buen ambiente y atencion. Platos sencillos y sabrosos. Muy bien presentados. Los postres, buenisimos. ideal para ir con amigos y pasarla bien, muy buuena onda
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/79936
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelente ambientacion, la comida riquisima, comimos lomo con un flan loco que estaba re bueno. Recomendamos el trago "mojito oriental". Un lugar que vale la pena conocer. Saludos.
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/76793
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui muy ilusionada por los comentarios que hab\xEDa leido y fue una decepci\xF3n total. Tanto que me desuscrib\xED a su lista de mails (que me invaden sin permiso hace semanas). El sushi libre de BudaBar es una mentira, tardan much\xEDsimo en traer las bandejas, las porciones -a partir de la segunda bandeja- son de 10 unidades y para colmo la mitad son de sushi vegetariano muy poco tradicional (con pepinos agridulces, por ejemplo).No lo recomiendo, la calidad y cantidad de sus piezas de sushi deja much\xEDsimo que desear. Es preferible gastar el doble y comer en lugares serios como Itamae."
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/76834
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo que m\xE1s me llam\xF3 la atenci\xF3n es la gran cantidad de espacios diferentes que tiene este bar. Se puede elegir entre la vereda, el espacio interior iluminado con velas, la terraza y el espacio con pista de baile, de modo que se adapta tanto a una cena rom\xE1ntica como a un festejo con amigos. La comida estaba bien, pero lo que m\xE1s me gust\xF3 fueron los tragos de autor, recomiendo especialmente es que se llama La pasi\xF3n del Buda. Volver\xEDa."
+    date: 23-01-2010
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El servicio muy bueno, la comida tambi\xE9n.\r\n\
+      Me gust\xF3 mucho la ambientaci\xF3n del lugar, junto con la m\xFAsica. La atenci\xF3n es barbara. Lo recomiendo."
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/74216
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lindo lugar, pero tampoco tan maravilloso, como esperaba. Encima ese dia hacia 35 grados y no les funcionaba el aire, tenian todas las mesas exteriores ocupadas, asique en cuanto se lleno de gente, se convirtio en un sauna. Los tragos fueron regulares, y la comida nada especial. La ambientacion linda, pero tampoco wow, al principio se esmeraron en antendernos, pero en cuanto la noche se fue complicando, tambien fue mermando la calidad del servicio. Un lugar mas, con tantos otros sitios maravillosos de la noche porte\xF1a, no lo recomiendo."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/13206
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar tiene muy buena onda. Esta bien ambientado, la musica tipo lounge o chill out queda muy bien con la luz de las velas. Interesante y romantico. Al servicio le falta un poco, si bien son muy amables y estan atentos, no estan manejando los tiempos de servicio correctamente. La comida esta bien, tienen platos variados, mas sushi, es recomendable en este punto. Atencion! NO pedir los nachos, eso si es un desastre. Son unas peque\xF1as masitas fritas con una crema/salsa como dip; muy malos. Los tragos estan bien preparados y son ricos. En general, interesante nueva propuesta en Palermo."
+    date: 12-11-2009
+    user: http://mi.guiaoleo.com/members/72042
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente ambientaci\xF3n con estilo hind\xFA (hermmosos budas y biombos de madera trabajada), luces tenues y m\xFAsica suave. Lugar ideal para tomar unos tragos o cenar a la luz de las velas. Comida fusi\xF3n, francesa,sushi y japonesa. Para volver."
+    date: 01-11-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fui sin ninguna expectativa, me parecio muy buena la propuesta, sobre todo para ir a comer y despues pasar a la parte de bar y tomar algo con amigos o en pareja, muy buenos tragos, recomiendo la Caipirosca. El sushi es muy rico, los platos muy variados y de muy buen nivel, el precio es razonable para lo que te ofrecen.
+    date: 31-10-2009
+    user: http://mi.guiaoleo.com/members/43021
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una exelente ambientacion, muy buena musica y muy cordial, un lugar donde podes festejar cumplea\xF1os, etc"
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/70954
+    ambiente_rank: excelente

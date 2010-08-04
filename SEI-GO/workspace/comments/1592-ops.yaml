@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar realmente para recomendar. Excelente la comida, la limpieza, la atenci\xF3n de los empleados. Festej\xE9 mi cumplea\xF1os all\xED y quedamos todos muy conforme. Muy buen precio a muy buena calidad."
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/84474
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Leyendo los comentarios de mis predecesores infiero que fui un dia en el que el personal NO estaba en su mejor momento,la camarera y la llegada de los platos fueron de una lentitud exasperante. Experiencia para NO repetir.
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/19189
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Se destaca el muy buen servicio y la posibilidad de comer parrilla libre, como tambien las pastas.
+    date: 20-01-2008
+    user: http://mi.guiaoleo.com/members/39233
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF3n de los mozos. Jesica es la mejor. Ahora las entradas cambiaron pero esta bueno igual. Hay demasiados postres."
+    date: 19-10-2007
+    user: http://mi.guiaoleo.com/members/34251
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen rest\xF3 y mejor la atenci\xF3n. Preguntar por Guillermo, ese si que sabe atender."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/18691
+    ambiente_rank: muy bueno

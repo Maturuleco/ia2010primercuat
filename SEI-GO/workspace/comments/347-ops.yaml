@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Concurrimos a un menu degustaci\xF3n de seis pasos, realmente excelente, cada paso con su vino para lograr el maridaje perfecto, excelente atenci\xF3n y ambiente sofisticado y bien iluminado para lograr intimidad ano obstante las dimensiones del sal\xF3n."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es hermoso, y la comida estuvo muy bien, pero la atenci\xF3n fue lamentable. En ning\xFAn momento nos sirvieron vino o agua, pese a que dejan las botellas a varios metros de la mesa. Hab\xEDa m\xE1s mozos que mesas, pero como en todos los hoteles, el problema radica en tener j\xF3venes estudiantes en los restaurantes y no mozos profesionales. El postre nos demor\xF3 45 minutos. Nobleza obliga nos ofrecieron un trago para compensar la demora."
+    date: 31-10-2008
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El ambiente sobrio, tranquilo, buena m\xFAsica, suave, que invita al relax y disfrutar de todo. Muy rica la comida y la atenci\xF3n muy buena."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/18620
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lindo lugar, apacible, buena ambientaci\xF3n, servico de camareras muy eficiente, rica comida. No se si es porque el d\xEDa que fui habia casi nada de gente, pero es como que le falta \"onda\"."
+    date: 29-08-2006
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El servicio y la atenci\xF3n nos parecieron incre\xEDble."
+    date: 20-07-2006
+    user: http://mi.guiaoleo.com/members/10683
+    ambiente_rank: excelente

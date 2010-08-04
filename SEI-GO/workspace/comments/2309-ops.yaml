@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: buena parrilla de barrio para mediodia (porque a la noche esta cerrada). Lastima porque no abre a  la noche.
+    date: 09-08-2009
+    user: http://mi.guiaoleo.com/members/25706
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es una cl\xE1sica parrilla porte\xF1a con la mejor carne hecha a la brasa.\r\n\
+      Se recomienda el vaciopan en la barra al mediod\xEDa. Nada mejor que saborear ese suculento y delicioso plato en un momento de relax del trabajo."
+    date: 26-05-2008
+    user: http://mi.guiaoleo.com/members/1807
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Una maravilla de la gastronomia argentina, simple y efectiva. No dejar de probar el vacio-pan o la inigualable hamburguesa con queso y cebolla.
+      No se recomienda probar el chimichurri
+    date: 23-01-2008
+    user: http://mi.guiaoleo.com/members/38730
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena la calidad de la comida, la carne es espectacular y las fritas son las verdaderas.
+    date: 08-01-2007
+    user: http://mi.guiaoleo.com/members/15929
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La parrilla 83 es un cl\xE1sico."
+    date: 14-07-2006
+    user: http://mi.guiaoleo.com/members/10081
+    ambiente_rank: excelente

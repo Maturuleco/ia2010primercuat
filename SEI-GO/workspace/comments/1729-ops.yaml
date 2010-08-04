@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La pasta estaba buena perono es exclente.\r\n\
+      La iluminacion es demasiada violenta para la noche porte\xF1a. La carata de vinos no estaba completa. Es mas para tomar un cafe que para cenar o almorzar."
+    date: 30-07-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy rica pizza, servicio muy atento aunque un poquito demorado. Es un lugar c\xF3modo y tranquilo para comer algo sin demasiadas pretensiones o para tomar un cafecito. Lo \xFAnico que no me pareci\xF3 apropiado fueron los precios, excesivamente caros... una ensalada de frutas a 17 pesos entre otras cosas."
+    date: 27-07-2009
+    user: http://mi.guiaoleo.com/members/12853
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La pizza estuvo bien, hasta ah\xED.\r\n\
+      Apagaron el aire acondicionado en la mitad de la cena y nos empezamos a cocinar.\r\n\
+      El mozo dio mal el vuelto y, al se\xF1al\xE1rselo, puso mala cara y tir\xF3 los billetes de manera sumamente descort\xE9s. Se le coment\xF3 al encargado y dijo \"bueno\".\r\n\
+      No vuelvo nunca m\xE1s."
+    date: 20-12-2008
+    user: http://mi.guiaoleo.com/members/1807
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es increible que la gente siga yendo a comer a lugares como este...una estafa...una milanesa con fritas (ambas con gusto a aceite quemado) mas un licuado 50$!\r\n\
+      En mi caso lo pago porque el pelotero esta bueno para los chicos...pero ir solo...ni so\xF1ar."
+    date: 11-04-2008
+    user: http://mi.guiaoleo.com/members/42494
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La verdad que estos lugares siempre tienen mesas de sobra por varios motivos; primero carisimos para el tipo de comida.. por ej una gaseosa 6.50! las pizzas ya no son nada del otro mundo y los platos lo mismo; si bien las porciones son grandes pero una milanesa napolitana con fritas sale $22.50 a eso sumale la gaseosa y ya gastaste 30 pesos.. lo unico interesante de este tipo de lugares es que tienen pelotero y bueno por lo menos los chicos se divierten un rato.
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/4149
+    ambiente_rank: bueno

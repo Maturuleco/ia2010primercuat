@@ -1,0 +1,957 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Las picaderas son muy buenas pero el servicio al cliente es pesimo tienes que insitir mucho con los meseros y los tragos es lo mejor que tienen
+    date: 03-07-2010
+    user: http://mi.guiaoleo.com/members/82815
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Muy mala realcion precio-calidad. Bastante caro para lo q se ofrece, teneindo en cuenta q es comida norteamericana y tex-mex. Es onda fast food pero a precios mas altos q cualquier otro, sin que sea tan rico. La musica altisima, ni se podia hablar.
+    date: 24-06-2010
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es la peor casa de c\xF3mida r\xE1pida a la que fui \xFAltimamente.\r\n\
+      Relaci\xF3n precio/calidad totalmente fuera de lugar!!!!!!!!\r\n\
+      Las meseras correctas, pero para llamarlas ten\xE9s que hacer se\xF1ales de humo. La comida repito, car\xEDsima y no es para tanto.\r\n\
+      Dos personas, 190$; para eso, me voy a un restaurant en Puerto Madero,donde por un poquito m\xE1s tengo un ambiente tranquilo, buena atenci\xF3n y excelente comida.\r\n\
+      TGI, mejoren o van a la quiebra!!!!!!!!!!!"
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/78479
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Iba con pocas expectativas  y no me defraudaron. Fue mal\xEDsimo. El bife de chorizo que ped\xED vino en una porci\xF3n m\xEDnima y sequ\xEDsimo, totalmente desabrido. Tuve que pedir para que me sirvieran un poco m\xE1s de pur\xE9 ya que, literalmente fueron dos cucharadas lo que me sirvieron. Los postres totalmente olvidables. El ambiente no es nada del otro mundo. La atenci\xF3n fue correcta pero no esmerada. Creo que es uno de los lugares con peor relaci\xF3n precio/calidad que conozco. Ya fui una vez, ya estoy listo para no volver m\xE1s."
+    date: 21-05-2010
+    user: http://mi.guiaoleo.com/members/35354
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida ( en nuestro caso hamburguesas bbq) es correcta, todo lo dem\xE1s una pesadilla. La tortura empieza al llegar, cuando pasan largos minutos hasta que aparece alguien -eso s\xED, muy amable- para tomar el pedido. Despu\xE9s, otra amansadora interminable hasta que aparecieron las benditas hamburguesas. Y el drama termin\xF3 cuando apareci\xF3 -esta vez r\xE1pidamente-, la cuenta. Como asiduo concurrente a restaurantes, creo estar vacunado contra algunos abusos. Pero semejante desfasaje en la relaci\xF3n precio-calidad como en este lugar, ya es demasiado. No vuelvo ni ebrio ni dormido..."
+    date: 24-04-2010
+    user: http://mi.guiaoleo.com/members/18497
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy lindo lugar, la comida es muy rica y bien presentada. Los postres son deliciosos y abundantes, casi imposible terminarselo todo. Las bebidas son bastante caras. La atencion tambien es muy buena. Es un lugar para volver de vez en cuando ya que es demasiado caro.
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/80695
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Hace mucho tiempo que no iba a tgi.\r\n\
+      \r\n\
+      que mala decisi\xF3n haber vuelto!\r\n\
+      \r\n\
+      me pareci\xF3 p\xE9sima la comida de este lugar y extremadamente cara. la ensalada cesar era incomible, croutons h\xFAmedos, la sirvieron sin aderezo as\xED que tuvimos que pedirlo aparte y no ten\xEDa gusto a nada, la lechuga amarga. los nachos no eran nachos con salsa, sino una especie de tortillas fritas con algunos pedazos de carne (muy grasosa), pollo, morron y cebolla. \r\n\
+      \r\n\
+      en conclusi\xF3n, el lugar no es recomendable. \r\n\
+      \r\n\
+      no vuelvo nunca mas!"
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/79906
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Incre\xEDble pero real...!! Fu\xEDmos especialmente para comer \"BABY BACK RIBS\", que es EL PLATO, y dijeron que no lo ten\xEDan... es como que una pancher\xEDa no tenga panchos... Caro por lo que es..."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/39694
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Ya todos conocemos las bondades de TGI Friday
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/56266
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Malisimo, no vuelvo nunca maaas!!!! Ensalada Cesar sin aderezo, croutones humedos. Chicken fingers eran 3, papas fritas de paquete todo caro!! Malisimo! Antes no era as\xED, por lo menos el de pto madero y el de USA"
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/19597
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es buena pero prefiero la cocina del Hard Rock Cafe.las porciones no son tan grandes como se espera. La tenci\xF3n es buena, siempre me molesto los gorros que les hacen usar a las camareras."
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/30893
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Si bien en la comida norteamericana es muy dificil fallar, Friday
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/69568
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Si bien el lugar es lindo, lo que no nos gust\xF3 es lo ruidoso del ambiente y la relaci\xF3n calidad- precio de la comida, los postres son muy buenos."
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/20219
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: El ambiente esta bueno, el servicio un desastre, las comidas no son las mejores, pero los postres son bastante buenos. Pero en si demasiado caro.
+    date: 22-01-2010
+    user: http://mi.guiaoleo.com/members/74155
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "eramos 3, decidimos ir a \"picar algo\" antes del cine. por picar me refiero a una papa al plomo y unas fajitas para compartir. con 2 aguas y una cerveza el chiste nos sali\xF3 40 pesos a cada uno. precios inflad\xEDsimos, el servicio malo (esperamos 15 minutos para que nos vinieran a tomar el pedido) la verdad que es una verguenza. habiendo comido en TGI de otros pa\xEDses, el nuestro da pena. no vuelvo ni que me inviten."
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/9061
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: Lo mejor del lugar es el Happy Hour, lo peor es la comida, la cual deja mucho q desear, pero el buen servicio y la degustacion de postres salvan el lugar.
+    date: 12-01-2010
+    user: http://mi.guiaoleo.com/members/81781
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Si bien el lugar tiene mucha onda, definitivamente, para m\xED, la relaci\xF3n precio/calidad no vale la pena."
+    date: 22-12-2009
+    user: http://mi.guiaoleo.com/members/32925
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Visitamos TGI Friday\xB4s con mi novia.Fuimos luego de que en Kansas nos dijeron que la espera era de 90\xB4. Comimos: Onion rings, loaded potato skins, stuffed potato, baby backs ribs. \r\n\
+      Los rings estaban crocantes. Las loaded potato tenian queso cheddar, sour cream y panceta...muy consistentes y ricas. La stuffed potato tenia queso crema, manteca, ciboulette, panceta y queso cheddar. Las baby ribs estaban muy tiernas y jugosas...con abundante salsa BBQ. Pedimos ketchup extra y no lo cobraron. Cecilia, la chica que nos atendio, muy simpatica y atenta. En total con 3 aguas gastamos $172. Volveremos"
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/75473
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No pod\xEDa creer cuando me trajieron las fajitas eran solo 4, recuerdo que hab\xEDa pedido las mismas hace un tiempo y eran el doble. Ni hablar de los precios!!!!Conviene ir los d\xEDas de semana con los happy hour!"
+    date: 22-11-2009
+    user: http://mi.guiaoleo.com/members/10438
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fui porque venia con algunas cervezas encima y queda cerca de mi casa, si no, no hubiera ido. Hace rato que la calidad de la comida cayo estrepitosamente, pasaron de usar queso cheddar y cebolla morada a poner un queso cremoso berreta y cebolla comun. Esos detalles afectan al espiritu de la grasosa comida americana. Para colmo de males el servicio es pesimo y los precios son exorbitantes. La ventaja es que si se te antojan hamburguesas, anda al chino mas cercano, comprate unas xxl con un par de cervezas y todo por $30!!!
+    date: 11-11-2009
+    user: http://mi.guiaoleo.com/members/53321
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Era de ir seguido y hac\xEDa rato que no aparec\xEDa. Pero era un domingo lluvioso y le dije a mi mujer: quiero una hamburguesa como las de TGI! Y fui al de Arenales a comer eso: hamburguesa. \r\n\
+      Cuando pido la carta y elijo la hamburguesa con panceta y queso, la moza (muy atenta por cierto) me dijo el lamentable: NO TENEMOS HAMBURGUESAS!\r\n\
+      En TGI!!!! \r\n\
+      lo que com\xED fue anecd\xF3tico... no pueden NO TENER HAMBURGUESAS!!"
+    date: 04-10-2009
+    user: http://mi.guiaoleo.com/members/61985
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Hace unos a\xF1os este lugar me encantaba. Increible como cay\xF3 en desgracia. Pedimos unos ribs con bbq, secos, poca carne y ya no te dan las esenciales toallas humedas para limpiarte. Aparte un sandwich de chicken fingers que, no exagero, es ampliamente superado por cualquier sandwich de suprema en un kiosco del microcentro. La atencion fue pesima (no nos atendian, se equivocaron con las gaseosas) y si faltaba algo mas nos cobraron $15 por una supueta lluvia de langostinos (6) que eran mas chicos que camarones. PESIMO, no vuelvo nunca mas."
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/71525
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Muy buen lugar,uno de mis preferidos,lastima que se pueda ir solo una vez al a\xF1o,precio sin coneccion a la comida. Por lo que pagamos aca podemos comer comida de primer nivel en otro lado,el lugar tampoco lo amerita,mucho ruido y ni pensar que tengas una mesa al lado que cumpla a\xF1os,podria llegar a ser traumatico!\r\n\
+      \r\n\
+      En definitiva rica comida,precio exagerado ambiente informal y bullicioso."
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/27311
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Restaurante norteamericano con precios injustificados por lo que sirven. Pedimos una cheese burguer, la hamburguesa tenia buen gusto, pero nada fuera de lo comun, las papas fritas mas finitas y secas que mac donalds, las skin potatos son rebanadas de papas al horno con un poquito de cheddar y panceta, ricas pero carisimas, teinta pesos la porcion, seran 2 papas como mucho, el mismo precio la hamburguesa, el colmo fue que nos cobraran cinco pesos a cada uno el servicio de mesa, y 12 pesos cada gaseosa. es para ir solo una vez.
+    date: 08-09-2009
+    user: http://mi.guiaoleo.com/members/66691
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos al mediod\xEDa en la semana. Es un t\xEDpico restaurant de cocina de estados unidos, de esta cadena. Bien ambientado como si estuvieras en ese pa\xEDs, igual que en todos lados del mundo. Tienen un Lunch menu - la BBQ burger, rica- con precios menores para los mediod\xEDas,que puede ser una buena opci\xF3n, con mejor precio y porciones mas acordes para esa hora. El \xFAnico tema que las porciones son demasiado chicas, por ejemplo,los postres - que no pedimos - vienen en tama\xF1o de vasos tequileros...La atenci\xF3n de las chicas, buena, un poco dispersas. Buena opci\xF3n para gente joven. Ambiente informal."
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/67365
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: los platos son para compartir y el precio es razonable si se comparten los platos. la comida es muy rica y de los postres ni hablar, pero no es un lugar para ir con familia, ya que es muy ruidoso por la musica y el ambiente que esta lleno de gente joven.
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/65399
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Muy lindo lugar y las costillitas de cerdo increibles!.
+      Recomendado para ir en conjunto con varios amigos.
+      Los postres y las comidas muyy abundantes, se pueden compartir.
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/30308
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Anoche fui con mi novio,pedimos la segunda opci\xF3n del men\xFA de hamburguesa,descrpci\xF3n tentadora y bla.Tard\xF3 muy poco,pq mi hamburguesa no ten\xEDa sabor y la de mi novio estaba CRUDA!!!las camareras pasaban y miraban y no dec\xEDan NADAA!no sugerimos nada y pedimos un trago,le dije a mi novio q son buenos ahi y nos trajo unore dulce,no nos quizo poner mas fuerte,que hay q pagar mas!(desp de q nos dio las hambuerguesas crudas)la cuesti\xF3n es q FRIDAY\xB4S ya no es igual,muy inestable.Esta vez fue el peor lugar que com\xED.2 men\xFAs hamb+2 botellitas Corona+2tragos:$152.Hay lugares sencillos que la pasas genial"
+    date: 08-05-2009
+    user: http://mi.guiaoleo.com/members/62103
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: es un buen lugar para ir cada tanto a comer unos ribs y un buen postre....lo unico la atencion malisima como siempre eso nunca cambio
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/60047
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La atenci\xF3n es lo peor de todo, una recepcionista que despu\xE9s de hacerte esperar 20 min para que te tomen el pedido y le ped\xEDs por favor que te env\xEDe a alguien (ya que ella no piensa hacerlo) te die: \"Si, ya va... espera un poco!!!\" con tono de enojada porque la est\xE1s molestanto me parece lo mas desubicado que me haya pasado en un restaurante. \r\n\
+      La camarera no sab\xEDa la sopa del d\xEDa, y apoy\xF3 el taco de papel en el que escribe cuando le ped\xEDs en la mesa!!!!!! un poco mas se sienta con vos a escribirlo... DESASTRE y el mismo adjetivo para la comida."
+    date: 15-04-2009
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Si bien la calidad de la comida decayo durante los ultimos a\xF1os, y los precios subieron (como todo, supongo) TGI sigue siendo un buen lugar para un domingo, para un dia triste o lluvioso, o para cualquier ocasion que merezca un poco de comfort food. El servicio depende de lo lleno que este, y del sombrerito que toque atendiendo la mesa, hay de todo un poco."
+    date: 06-04-2009
+    user: http://mi.guiaoleo.com/members/20293
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "realmente d\xE1 gusto ver que mejoraron not\xE1blemente la atenci\xF3n y los tiempos de espera. Volvieron a tener el ketckup de la marca de la botella de vidrio ! otro punto a favor. El men\xFA ejecutivo es muy conviente, aunque fuera de eso los precios no son baratos. \r\n\
+      Los postres son excelentes ! \r\n\
+      El sal\xF3n es muy lindo, pero la ac\xFAstica es mala y entre la m\xFAsica y la gente casi ten\xE9s que gritar."
+    date: 27-03-2009
+    user: http://mi.guiaoleo.com/members/3967
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Friday\xB4s es uno de esos lugares para ir cada tanto ya que los tragos que preparan son incre\xEDbles y los postres son interminables. Me gusta mucho la m\xFAsica del lugar. Si bien es caro, es una buena opci\xF3n para ir con amigos a divertirse."
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/49610
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: el lugar es muy agradable y juvenil. es genial para salir con amigos. las porciones son muy abundantes y la comida me encanta! al principio traen unos pansitos muy ricos. la gaseosa conviene pedirla sin hielos porque si no viene mucho hielo y poca bebida y termina aguandose toda, igual hay un refill sin cargo. los postres son muy ricos y hay una oferta de 3X2 siempre. Recomiendo una copa que tiene una torta de chocolate tibia y helado. pruebenla! la atencion de este lugar es mejor q la de puerto madero
+    date: 20-02-2009
+    user: http://mi.guiaoleo.com/members/58012
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es la primera vez que visito \r\n\
+      1 Cuando nos trajero el pedido la camarera que traia la bandeja (muy grande por cierto), lo hacia con la misma apoyada casi en la cara y sus cabellos metidos dentro de los platos con comida\r\n\
+      2 La moza que los sirvio en la meza puso los dedos dentro del plato de comida\r\n\
+      3 Los refrescos eran aguados y sin gas, para conseguir una segunda ronda, reci\xF3n nos los trajeron cuando ya habiamos terminado la comida\r\n\
+      4 Los platos llegaron tibios tirando a frio\r\n\
+      5 En la carta promocionan crugieten baco, era una suela\r\n\
+      6 La m\xFAsica muy fuerte, no dejaba hablar\r\n\
+      experincia mala"
+    date: 17-02-2009
+    user: http://mi.guiaoleo.com/members/23124
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Tgi fridays es una buena opcion para probar comida diferente, no es de gran calidad pero si da un nuevo sabor a las comidas con sus salsas. lamentablemente no habia mucha variedad de comida mexicana. Mas que "tex-mex" es mas "american". No deja nada que desear.
+    date: 14-01-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No porque sea comida rapida es necesariamente economico. La comida es rica, el lugar es muy amplio y por tanto mucha gente, asi y todo a veces hay que esperar para que asignen mesa. La atencion es buena, a veces se demoran pero nada m\xE1s. Muy buenos tragos!"
+    date: 05-12-2008
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida fue regular, y escasa en relaci\xF3n a los precios. Lo unico resaltable son los postres. La atenci\xF3n buena, cuando se logra que lo atiendan."
+    date: 27-11-2008
+    user: http://mi.guiaoleo.com/members/25134
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un restaurante de t\xEDpica comida norteamericana, hamburguesas, nachos, copas heladas, etc. \r\n\
+      El ambiente no descolla, pero tampoco es malo.\r\n\
+      El servicio es p\xE9simo, las mozas no nos daban ni bola, y tardaron muchisimo en traer la comida. Intuyo que atendieron antes al que llego mas tarde.\r\n\
+      La comida es rica, pero no vale ni por casualidad lo que te la cobran. \r\n\
+      \r\n\
+      Lo mejor de este lugar son los postres. Espectaculares!!!\r\n\
+      \r\n\
+      Sin embargo, creo que no volver\xEDa a ir porque la relaci\xF3n precio/calidad no es buena. Por esa plata comes mucho mejor en otros lugares"
+    date: 09-11-2008
+    user: http://mi.guiaoleo.com/members/56228
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "TGI Fridays no deslumbra. Es un buen restaurant norteamericano en el que se encuentran los t\xEDpicos platos y postres. La comida es buena pero no es nada que no se haya probado antes. El servicio fue regular ya que tardaron mucho en atendernos, en traer los platos y hasta en traer la cuenta. Si bien esto es algo personal, como vegetariana, me result\xF3 complicado elegir un plato porque todos ellos ten\xEDan carne. Deber\xEDan incluir opciones de otro tipo tambi\xE9n."
+    date: 10-10-2008
+    user: http://mi.guiaoleo.com/members/12853
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Adoro friday\xB4s, pero (como ya dije cuando coment\xE9 el otro local) no es para el gusto de todo el mundo, ya que la comida es, en mi opini\xF3n, rica y abundante, pero nada sofisticada. El ambiente me gusta mucho, informal y original, aunque puede ser un poco ruidoso. La atencion en este lugar fue buena, aunque es el punto m\xE1s flojo de Friday\xB4s. Lo mejor, definitivmente, son los postres, muy abundantes, por lo que recomiendo pedir un plato principal no muy pesado, para poder disfrutarlos mejor."
+    date: 23-09-2008
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: la verdad que me encanta la comida de aca pero cada vez esta mas caro los precios uno por persona gasta por plata entre 40-50$ mas bebida, y mas el poste! Hya otros lugares que se come igual y/o mejor y es mas barato!
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/50634
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: fui 2 veces. la segunda espere mas de una hora por una mesa para dos. el ambiente esta copado y la comida es rica aunque un poco cara.
+    date: 03-09-2008
+    user: http://mi.guiaoleo.com/members/57195
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "A los ba\xF1os de este  lugar SIEMPRE, sin importar hora o d\xEDa de la semana los encontr\xE9 sucios. \r\n\
+      El men\xFA es muy variado y las porciones grandes, pero los precios son extremadamente caros, al punto de no saber si vale la pena pagar tanto por lo mismo que se consigue en lugares de m\xE1s categor\xEDa."
+    date: 02-09-2008
+    user: http://mi.guiaoleo.com/members/50482
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "el servicio es un desastre. me acuerdo que me hab\xEDa jurado NO volver, pero ante la insistencia de mis hijos... ped\xED gasesosa light sin hielo, cuando me hicieron la recarga, me trajeron gasesosa com\xFAn con hielo (despu\xE9s de 15').es car\xEDsimo, la m\xFAsica a todo volumen no te deja conversar. cuando cumpl\xEDs a\xF1os te regalan un pedazo de torta. me pidieron el documento para acreditarlo (nunca lo hab\xEDan hecho). tuve q' hablar con el responsable para explicarlo y aceptaron q' no tengo por q' andar con el doc. de mi hijo por la ciudad. \xBFacaso tendr\xEDa q' mentir? NO VUELVO M\xC1S. Volver\xE9 a BK o a MAC:es =."
+    date: 08-08-2008
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hace fr\xEDo y hay viento dentro del local !!!!.\r\n\
+      Nos tuvimos que cambiar de mesa porque nos daba un viento helado en la espalda, nos fuimos a un box y a los 15 minutos estabamos tiritando porque estaban prendidos los ventiladores de techo. Es invierno, uno se sienta a pasar un momento agradable y no se puede sacar el abrigo.\r\n\
+      Buena atenci\xF3n, comida aceptable pero caro en relaci\xF3n."
+    date: 25-07-2008
+    user: http://mi.guiaoleo.com/members/30014
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos con mi esposa a la hora del Hapyy hour, distendidos y paseando, un par de tragos, cascaras de papas con chedar, bastoncitos de muzzarella y una hamburguesa clasica que estaba bien hecha, todo esto para compartir 85$, en ese horario de 2X1 el lugar da lo que promete, no pidan mas porque para cenar no da. Lo de los sombreros en las mozas deber\xEDan sacarlo, en los 90 era divertido pero hoy por hoy parece algo antiguo. Traguito, papas y a tomar un caf\xE9 al starbucks rogers en el siglo XXIII."
+    date: 17-07-2008
+    user: http://mi.guiaoleo.com/members/30557
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar me parece muy lindo. Ped\xED un sandwich de chicken fingers con queso y papas fritas, ya ped\xED ese mismo plato en varias oportunidades a\xF1os anteriores, y la verdad que esta vez el quedo casi ni se notaba.  Los postres son muy ricos y abundantes y tienen la promo 3 x 2, pero salen mas o menos $26 cada uno. En cuento a gaseosa es un vaso que sale $9 con algo y te lo rellenan una vez."
+    date: 14-07-2008
+    user: http://mi.guiaoleo.com/members/31820
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Las hamburguesas son increibles, las papas fritas, enooormes, la entrega del pedido es rapidisima, pero los precios son excesivos. 
+      El lugar los fines de semana se llena, y por ende, es muyyy ruidoso. Las chicas que atienden con esos disfraces un tanto ridiculos son rapidas y atentas, pero parece un circo.
+      La comida se lleva mis aplausos, el lugar, no tanto.
+    date: 07-07-2008
+    user: http://mi.guiaoleo.com/members/33700
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Reincid\xED por amigos del interior que quer\xEDan conocerlo. El mismo desastre de siempre. Ruido infernal (hace imposible cualquier intento de conversaci\xF3n), demoras ins\xF3litas para atender y servir los platos, quejas de todas las mesas, porciones ULTRA REDUCIDAS A PRECIOS SIDERALES, mesas a medio limpiar. La comida tipo industrial estilo comedor de f\xE1brica. Las mozas son insoportables, insolentes, indiferentes y mecanizadas hasta para hablar. Parec\xEDa que nos estaban haciendo un favor en atendernos.\r\n\
+      Es notable: debo decir que con todo \xE9ste panorama, el lugar estaba lleno. Todav\xEDa no lo entiendo."
+    date: 03-07-2008
+    user: http://mi.guiaoleo.com/members/25256
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es tipico estadounidense la comida es buena, atienden muy r\xE1pido(creo que se agilizo el tema ultimamente)pero los platos no me parecen muy abundantes, no creo que el plato valga el precio que figura en la carta."
+    date: 01-07-2008
+    user: http://mi.guiaoleo.com/members/46862
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Tardaron 10 minutos en ubicarnos en una mesa, ya que teniamos que esperar en la puerta. La chica que ubicaba a la gente, tambien limpiaba la mesa, por eso la demora. Una vez sentados, estuvimos 20 minutos esperando que nos tomen el pedido, y como no vinieron, nos fuimos. Asi que ni siquiera llegamos a comer. Por 40$ la hamburguesa, esperaba algo de mejor atenci\xF3n."
+    date: 16-06-2008
+    user: http://mi.guiaoleo.com/members/44371
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: la atencion es malisima. tardaron 50 minutos en traer un plato de pastas y unos " dedos de pollo" con tres papas fritas, y encima los paltos estaban frios , no lo recomiendo.
+    date: 16-06-2008
+    user: http://mi.guiaoleo.com/members/25314
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Las mozas son de terror, tard\xF3 15min en traernos la carta, 45' en traer los platos (algo q de cocci\xF3n lleva 20') Luego le pedimos otro plato ya que los anteriores eran muy escasos y encima 1 lleg\xF3 tibio; el 3er plato se confundi\xF3 y encima quer\xEDa tener raz\xF3n. No vuelvo m\xE1s, el gerente otro q no entendi\xF3 la clase de \"atenci\xF3n al cliente\""
+    date: 09-06-2008
+    user: http://mi.guiaoleo.com/members/38988
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: No es que sea malo. sino que no podria ser PEOR. la comida es seca y mal condimentada ya de la cocina. la atencion es pero que la de mcdonalds y con eso digo todo. lo unico que tiene de restaurant americano son los precios en dolares. nunca mas!
+    date: 03-06-2008
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Muy de acuerdo con muchos usuarios. \r\n\
+      Las Mozas tardan una eternidad en atenderte y en servirte. El ambiente es ruidoso, pero tipico de restaurante del estilo.\r\n\
+      Los platos est\xE0n carisimos, si bien llenan una hamburguesa 35 pesos es un poco excesivo.\r\n\
+      Lo unico que vale la pena son los postres como el Oreo Madness o el Brownie Fudge PERO TAMBIEN ESTAN MUY CAROS!!!"
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/44136
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Fui al Happy hour de un viernes por la noche
+      En una calificacion de 0 a 10,el 0 le quedaria exagerado.
+      Los tragos eran directamente hielo sin gusto a nada, tome la peor caipirinha de mi vida y ni hablar de la pina colada,eran solo cubitos con algo de gusto a coco.
+      La comida mala(como de costumbre) y la atencion pesima(tambien como de costumbre)Las mozas parecen autistas y conseguir que lo atiendan o simplemante lo miren a uno es un milagro casi imposible. El nivel de ruido es insufrible.
+      No vaya, aun gratis esto sale caro ya que el tiempo de uno y la bronca que se agarra vale.
+    date: 23-05-2008
+    user: http://mi.guiaoleo.com/members/497
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lugar ideal si tenes ganas de comer una hamburguesa estilo americano.
+    date: 16-05-2008
+    user: http://mi.guiaoleo.com/members/43016
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Me resumo  a opinar de la comida en lo que pude probar en mis visitas al local, las tipicas costillitas con barbacoa me gustaron, me gustaron mas que por ejemplo las de Kansas y creo que para buscar esa tipica comida en un buen lugar.Tambien los platos con pollo son bastante buenos, lo que si creo que deberian revisar es el servicio, ya que tienen un servicio de mesa acorde a un lugar que venden comida rapida o se paso, y no a lo acorde de los precios de la carta, ya que la poca atencion que tienen las meseras en el momento de tomar el pedido parece demostrar el apuro que tienen.
+    date: 10-05-2008
+    user: http://mi.guiaoleo.com/members/43361
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "CA-RI-SI-MO, no se puede m\xE1s visitar este lugar, estan totalmente del tomate. El ambiente es un desastre por el ruido, un griter\xEDo constante, el resto bien, sin olores de cocina, ba\xF1o, etc. todo mu y cuidado.\r\n\
+      El problema principal es que la viveza argentina -infaltable- te cobra precios en d\xF3lar por un plato hecho ac\xE1, totalmente rid\xEDculo. El refill ya no es libre como sol\xEDa serlo (hace mucho que no voy) s\xF3lo una vuelta m\xE1s. En fin, com\xE9s m\xE1s caro que yendo a un buen resto y pidiendo un muy buen vino! Lo unico bueno son los postres, bien para gorditos, recomiendo ir s\xF3lo por ellos."
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/41262
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Nuestra moza andaba paseando por cualquier lado menos por el sector q le correspondia, por lo q llamarla para pedirle algo se complicaba mucho! Los platos carisimos ($48 c/u aprox) para lo que son. A las fajitas tenia que llenarlas de sal y tabasco para que sabieran a algo. El resto era comible pero no llegaba a la calificacion de "buena" comida. El refill de la gaseosa es en realidad refill de hielo c un poco de gaseosa. Se entiende q hay inflacion, pero si aumentan los precios es para mantener la misma calidad y servicio, no querer abaratar costos como sea. Decayo mucho a lo que era antes..
+    date: 06-05-2008
+    user: http://mi.guiaoleo.com/members/31945
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena opci\xF3n, tanto por la comida como por la atenci\xF3n. el Jack Daniel`s Ribs es excelente, asi como los postres (tanto el Oreo Madness como el Fruday's Sundae o el Banana Twister). Si bien el precio es alto, la calidad tambi\xE9n lo es. Aunque renocozco que ir de noche es medio caotico, debido a la cantidad de gente y las mozas no dan a basto."
+    date: 04-05-2008
+    user: http://mi.guiaoleo.com/members/5302
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Tuvimos que esperar 1 hora y media por una mesa para 7. Nos hicieron esperar a afuera, y parados.
+      
+      Los precios son excesivamente caros por lo que ofrecen y desde que abrio la calidad bajo mucho. Amo el B.L.T (Bacon, Lettuce and Tomatoe) tipico americano y no lo ofrecen. Las gaseosas salen $10 con un 1 refill, pero sigue siendo un robo. Cualquier hamburguesa esta arriba de los $35
+      
+      Los postres Si son recomendables!
+    date: 11-04-2008
+    user: http://mi.guiaoleo.com/members/43372
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "\xC9l lugar esta bien, pero un poco por debajo de lo que califica el rest\xF3 de madero. A pesar de ser una cadena, hay diferencias en cuanto a la calidad de los platos, aqu\xED parecen estar pre-cocidos y recalentados. El ambiente est\xE1 muy bien (es una marca registrada del lugar), y el servicio est\xE1 ok. Hay que destacar que los precios han subido una enormidad y no se justifica en relaci\xF3n a lo que ofrecen."
+    date: 06-04-2008
+    user: http://mi.guiaoleo.com/members/21160
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Sencillamente, no da. Ni lo pienses, anda comer una hamburguesa a la YPF que es mejor que ac\xE1. Te rompen el ****, te atienden mal, y te traen comida fea de mala calidad vestidos de payasos."
+    date: 06-04-2008
+    user: http://mi.guiaoleo.com/members/33818
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La verdad es q TGI me parecio demasiado caro. Con mis amigos ibamos casi siempre, sin embargo desspues de la experiencia del ultimo finde no creo q vayamos mas. La carta cambio, sacaron muchos platos y a su vez los precios estaban al doble. La atencion fue correcta, la mayoria de las veces nos atendieron bien, salvo en el de Pto madero donde si nos atendieron muy mal. Mi recomendacion es gastar ese dinero en otro lugar.. Seguramente comeran mejor y gastaran menos! SLDS!
+    date: 25-03-2008
+    user: http://mi.guiaoleo.com/members/42313
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad es que no vamos m\xE1s a este lugar. Es car\xEDsimo para lo que es el servicio. Tardaron en atendernos y traer la comida (el local no estaba muy lleno) los platos llegaron a destiempo y cuando recibimos la cuenta flor de sorpresa nos llevamos. Comimos rabas, dos margaritas y unas fajitas y gastamos $160. No vale la pena. Ese dinero se puede invertir en otro lugar y pasarla realmente bien. Este no fu\xE9 el caso..."
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/37514
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Indignante. Ped\xED un fernet branca con coca y me dijeron que no hab\xEDa. Cuando le indiqu\xE9 al mozo que lo estaba viendo desde donde estaba sentado, me dijo que no le permit\xEDan abrir otra botella. Encima de todo me quer\xEDa encajar Ramazotti a 17 pesos.\r\n\
+      No es una promesa vacia: NO VUELVO NUNCA MAS. "
+    date: 06-03-2008
+    user: http://mi.guiaoleo.com/members/18316
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida estaba muy rica, y la atenci\xF3n muy buena tambi\xE9n. Sin embargo algo para destacar es el nivel de ruido que hay en el local. No se puede conversar con la pesona que ten\xE9s al lado. Me parece caro, considerando otros muy buenos lugares, en los que pag\xE1s lo mismo y com\xE9s platos elaborados y con mayor tranquilidad."
+    date: 24-01-2008
+    user: http://mi.guiaoleo.com/members/37392
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "FAST FOOD, no se puede pedir m\xE1s, aunque a veces la atenci\xF3n no es tan \"fast\". si tienen antojo de hamburguesas TGI es una opcion, sino mejor invertir el dinero en otro lugar."
+    date: 22-01-2008
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "he leido otros comentarios y realmente me extra\xF1an porque a nosotros nos atendieron super bien, rapidisimo, los appetaizers estaban fenomenos y los tragos que elaboran a la vista super buenos! No se si habremos tenido suerte pero es la 2\xB0 vez que voy y siempre me atendieron super bien, y por ser comida rapida no es nada mala! Tienen muchas mas propuestas que un simple Mac, es un poco mas caro pero es otra cosa! Mi experiencia fue buena, asi que volvere por mas Happy Hours! Obviamente si esperan una cena de 5 cubiertos no vayan!"
+    date: 16-01-2008
+    user: http://mi.guiaoleo.com/members/12539
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los nachos son INIGUALABLES. En ning\xFAn lugar com\xED nachos mejores que en Friday's: tiene una monta\xF1a de queso chedar por encima... Lo m\xE1s!!\r\n\
+      Es un poco caro pero las hamburguesas son gigantes (no se lo puede comparar con otras casas de comida r\xE1pida) y el Finger Chiken tambi\xE9n es muy recomendable. Otra opci\xF3n que ofrece y no es f\xE1cil de conseguir en cualquier lado: las Ribbs llenas de barbacoa... para chupar los huesitos!!\r\n\
+      Al mediod\xEDa la atenci\xF3n fue excelente, me trajeron el refil de gaseosa en cuanto se me termin\xF3 el primer vaso, sin necesidad de llamar a la camarera."
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/33978
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "muy buena la comida, la atenci\xF3n m\xE1s o menos porque nos cambiaban de mozas."
+    date: 21-12-2007
+    user: http://mi.guiaoleo.com/members/38673
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar con mesas vacias y tenes que esperar parado hasta que alguien despues de pasarse la pelota unos a otros te haga sentar. La atenci\xF3n deprimente , tardan , se equivocan, cara de pocos amigos etc etc. Los precios carisimos y la comida como cualquier boliche de la ruta. Para no volver mas, Por lo menos en Alto Palermo"
+    date: 21-12-2007
+    user: http://mi.guiaoleo.com/members/37294
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Decepcion total. El de puerto madero me parece mejor, pero hasta ahi.
+      Queriamos ribs, y no tenian.. habia varias cosas que no tenian, como tardaban, (eso que era un domingo al mediodia y no habia gente)nos trajeron unos panestipo  focaccia, sin gusto y duros.La comida la verdad feisima por el precio alto, las gaseosas porsupuesto aguadisimas.
+      NO voy mas!
+    date: 15-12-2007
+    user: http://mi.guiaoleo.com/members/39388
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Esta era mi tercer visita, pens\xE9 que en las anteriores hab\xEDa tenido mala suerte pero no. Definitivamente el servicio es p\xE9simo, las camareras me sorprendieron por su desgano, apat\xEDa y falta de gracia. En cuanto a la comida, no es nada del otro mundo, pero los precios son excesivos.\r\n\
+      Por lo \xFAnico que volver\xEDa es el happy hour, nada m\xE1s."
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/19129
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "A comparaci\xF3n con el TGI de madero las dos veces que fui trajeron platos frios. pareciera que los platos fuesen calentados por microondas.\r\n\
+      El postre y los licuados son riquisimos. \r\n\
+      el oreo y el helado mocca para probar.\r\n\
+      Hay que aprovechar los 2x3 y los happy hours..."
+    date: 28-11-2007
+    user: http://mi.guiaoleo.com/members/30805
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lo mejor: el lugar y genial ir el lunes porque no va casi nadie, la atenci\xF3n de la moza bien, pero la comisse... espantosa te dan ganas de irte apenas lleg\xE1s, la comida nada del otro mundo m\xE1s bien desabrida, ni hablar si hay que hacer una relaci\xF3n precio calidad...es para no ir m\xE1s.... No ped\xED licuado porque salia ORO!!!!"
+    date: 05-11-2007
+    user: http://mi.guiaoleo.com/members/5399
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Para comer american food es un buen lugar en la medida que no haya gente, por lo que recomiendo ir en dias de semana. No vale la pena en caso de tener que esperar (cosa que habitualmente sucede) ya que el servicio no da abasto. "
+    date: 09-10-2007
+    user: http://mi.guiaoleo.com/members/11766
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "la hamburguesa m\xE1s cara que com\xED en toda mi vida (esto incluye a las que com\xED en estados unidos)\r\n\
+      est\xE1 bien, no es horrible, pero no es la mejor. el tema de la comida es menor a la atenci\xF3n: es totalmente ausente y paup\xE9riima, y eso que hay millones de mozos dando vueltas. la chica no paraba de olvidarse el plato que le pedi!!!"
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La comida es apenas regular, hay que agregar toda clase de adherezos para que tenga gusto a algo.  Se nota que no usan carnes y demas ingredientes de primera calidad.  El servicio lento, acartonado (los llevaplatos tienen un casette y nada mas) y distraido... deberian charlar menos entre ellos y estar mas atentos a las mesas.  Lo unico en este lugar que llega a bueno es el ambiente.  Los precios caros para la calidad de la comida y del servicio.  No recomendable.
+    date: 24-09-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad que no es un buen lugar. Comimos rico, pero por lo que gastamos, podriamos haber ido a cualquier restaurante bastante mejor. Nos recomendaron las ribs, pero no ten\xEDan, gaseosa de maquina a $ 8.50, Cerveza Guiness natural, no tenian fria, al cambiarla trajeron otra que tenia hielo alrededor y cuando la secamos vinos que estaba como la otra. Lamentable que un lugar tan lindo y tan bien ubicado sea tan malo. Obviamente no vuelvo ni lo recomiendo."
+    date: 16-09-2007
+    user: http://mi.guiaoleo.com/members/6592
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es muy bueno y tiene toda la onda si uno busca algo informal. La comida es b\xE1sica, sencilla, los platos no valen lo que cuestan y me pareci\xF3 todo muy caro. Es lindo para ir a conocer algo diferente. Preparen los bolsillos porque la hamburguesa es la mas cara que com\xED."
+    date: 06-09-2007
+    user: http://mi.guiaoleo.com/members/28202
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "todos estamos pidiendo que sea como antes. no nos desilusionen, mejoren la cocina y la capacitacion del personal. \r\n\
+      buenas ribs y salsas. "
+    date: 24-08-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Siempre fui bastante seguidor de este lugar en sus diferentes locaciones, la verdad es que con el correr del tiempo uno se sorprende como se aprovechan de la gente y tienen la caradurez de aumentar los precios y bajar el nivel de comida y servicio. El 3 For All llega siempre fr\xEDo, las Chicken Fingers c/Fritas antes tra\xEDa el doble de cantidad y el Postre Oreo no es lo que sol\xEDa ser. Como es t\xEDpico de este lugar, el servicio de los 20 camareros que atienden es lamentable y el ambiente con m\xFAsica cada vez m\xE1s fuerte impidiendo conversaciones deja mucho que desear. Una l\xE1stima. "
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/21690
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Un desastre total, no entiendo como puedan tener servicio, comida y ambiente tan malo. Los precios son ridiculos y estaba lleno de extranjeros. Es tirar la plata a la basura.
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      La comida buena. Yo opte por las fajitas y la verdad que estaban ricas. 
+      
+      Las ribbs de mi amigo no son tan buenas como antes, ni lo que dicen ser.
+      
+      Creo que el que va sabe lo que va a comer, sabe que sale entre 40 y 50 pesos, atencion Regular/Esmerada, se come en cantidades grandes al estilo americano y tiene un ambiente barbaro para ir con amigos.
+      Ni mas ni menos, sabemos como es.
+      
+      TGI
+    date: 06-07-2007
+    user: http://mi.guiaoleo.com/members/22373
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: comida regular y servicio lamentable.
+    date: 01-07-2007
+    user: http://mi.guiaoleo.com/members/25342
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar est\xE1 bien ambientado, pero realmente la relaci\xF3n COSTO/BENEFICIO es insuficiente. Es demasiado caro para los platos que ofrecen. La mayor\xEDa de las entradas son realmente escasas y caras. Lo mejor son los tragos, que cuestan $20 pero est\xE1n muy bien preparados. "
+    date: 25-06-2007
+    user: http://mi.guiaoleo.com/members/23969
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "estan locos, no puede ser que esta comida y este lugar maneje estos precios, es comida chatarra fashion.\r\n\
+      y el servicio ..bueno... "
+    date: 15-06-2007
+    user: http://mi.guiaoleo.com/members/24408
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Es carisimo sin lugar a dudas, y aparte la comida no es nada destacable... comi unas ribs q eran puro hueso, si comi 100 grs de carne es mucho y tome gaseosa no comi postre gaste como $50, NO VAYAN, SALVO QUE LES GUSTE COMER MAL, POCO Y GASTAR MUCHO.
+      El estacionamiento es amplio
+    date: 11-06-2007
+    user: http://mi.guiaoleo.com/members/24368
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No lo recomiendo para nada. Siempre hay que esperar m\xE1s de lo que te informan para conseguir mesa y encima luego tardan una eternidad en traer la comida. Como agravante, a veces te informan que se van quedando sin platos y sin postres. Lo peor es que es car\xEDsimo. \xA1LAMENTABLE! "
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/23491
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Muy mala la atenci\xF3n. Dijeron que ten\xEDamos 40 minutos de espera, y tardaron m\xE1s de una hora en darnos una mesa. Desde que nos sentamos hasta que nos trajeron la comida, pasaron 45 minutos m\xE1s; la moza tardaba en venir, y atend\xEDa desganada. La comida est\xE1 buena, pero no para cobrar lo que cobran."
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/11097
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Es excelente la comida. Las costillas de cerdo son un manjar y las hamburguesas enormes; los aros de cebolla, ni que hablar de el \xF3reo madness. El servicio es terrible y cada vez peor, una l\xE1stima. Igual recomendable. "
+    date: 04-05-2007
+    user: http://mi.guiaoleo.com/members/19874
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "No es muy recomendable. El ambiente zafa, poque es canchero, pero un detalle son las chicas que atienden: la ropa sucia y con las medias todas rotas. Realmente se nota que mucho esmero en eso no tienen. La comida es normal y car\xEDsima para lo que ofrecen. No pueden cobrar un vaso de gaseosa tirada de m\xE1quina con la mitad de puro hielo, nueve pesos! o un agua mineral con gas SEIS pesos!!. Nunca pagu\xE9 tanto por una bebida. La comida tambi\xE9n es cara, por tratarse de comida r\xE1pida.\r\n\
+      La atenci\xF3n es lenta, como si te estuvieran haciendo un favor.\r\n\
+      No volver\xE9."
+    date: 28-04-2007
+    user: http://mi.guiaoleo.com/members/4899
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Uno se ve obligado a pedir el men\xFA que llega en cinco minutos; sino es gratis por lo lento que es el servicio.\r\n\
+      Realmente arruina una cena el sentirse tan ignorado por los mozos. Este p\xE9simo servicio es una constante de todos los locales. "
+    date: 15-04-2007
+    user: http://mi.guiaoleo.com/members/21601
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La ultima ves que comi las costillas estaban tas secas que parecia del dia anterior, los aros de cebollas creo que eran hervidos, el repollo que lo acompa\xF1aba era de hace como una semana, tenian el tipico gusto a dos o tres dias de heladera, pague casi 150 pesos cuando en el lugar de zona norte por menos y con vino me cuesta lo mismo y el ambiente es mucho mejor .NO VUELVO."
+    date: 11-04-2007
+    user: http://mi.guiaoleo.com/members/18620
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Tardaron 40 minutos en venir a la mesa y tomarme el pedido cuando se pod\xEDa ver que el personal no estaba atendiendo a otros comensales. Adem\xE1s, la cebolla que tra\xEDa la hamburguesa estaba totalmente cruda. Con respecto a la torta que com\xED de postre, se supon\xEDa que ven\xEDa con helado y lleg\xF3 a la mesa sin su correspondiente bocha de helado de vainilla."
+    date: 09-04-2007
+    user: http://mi.guiaoleo.com/members/15436
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es estupenda. Opciones muy variadas y sabrosas con un toque genial. Las entradas son de lo mejor (recomendadas las cascaras de papa y las milanesitas de muzzarella). El sandwich de lomo y BBQ estaba muy bueno. La atenci\xF3n acorde. Los brownies super sabrosos. Bastante caro. Aceptan tickets. Ambiente joven."
+    date: 03-04-2007
+    user: http://mi.guiaoleo.com/members/19530
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Si lo que quieren es comer una hamburguesa seca, pagar el valor en dolares y ser atendido por camareras con gorros de colores (simpaticos? divertidos?) \xE9ste es el lugar para ustedes. Pens\xE9 que ibamos a comer un poco de buena comida r\xE1pida un sabado a la tarde. Pero result\xF3 ser realmente muy feo. Servicio lentisimo. La persona que lo recibe a uno est\xE1 tan mal predispuesta y contesta de tan mala manera que no exagero si digo que hubo 2 o 3 parejas que no llegaron a pasar del recibidor. Ruidoso. Sintetico. Nada, absolutamente nada para recomendar."
+    date: 31-03-2007
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Car\xEDsimo y mala calidad de la comida. Yo voy siempre al de Puerto Madero y te atienden mejor, no esperas nada y la comida es muy superior. En este deber\xEDan echar al cocinero! Las mozas un desastre la mitad de la carta no la tienen. "
+    date: 23-03-2007
+    user: http://mi.guiaoleo.com/members/11850
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "No entiendo por qu\xE9 es tan caro!!! La comida no es buena, y abundante. La gaseosa, es en vaso de m\xE1quina y es recontracara y con hielo, o sea adicionada con agua, en definitiva. La atenci\xF3n,empez\xF3 bien y luego la camarera pareciera que hab\xEDa perdido el inter\xE9s inicial por atenderme. Al traer la cuenta traen como ticket la comanda y cuando fui a pagar con tarjeta de d\xE9bito tardaron una eternidad en decirme que hab\xEDa \"un problema en el sistema\", que en realidad era tener que pedirme el PIN y emitir el ticket. Me permito pensar mal y suponer que el problema era emitir el ticket y desalentarme a pagar con tarjeta porque no tienen los carteles de las tarjetas o sea, tratan de que se pague en efectivo. He ido a desayunar y nada que ver, bueno, barato y bien atendida. O sea volver\xEDa para desayunar."
+    date: 12-03-2007
+    user: http://mi.guiaoleo.com/members/3480
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida americana me encanta, pero el precio lo aumentan todo el tiempo. La coca que hace un tiempo estaba 4.50 ahora esta casi 7 pesos, las hamurguesas generalmente las traen tibias y muchas veces mal. Y cuando pido que la traigan bien le ponen, por ejemplo el picante, pero lo traen frio, y cuando lo mando de vuelta, lo traen recalentado en microondas porque el pan siempre esta humedo... Cuando no se equivocan la comida es DELICIOSA, pero ahora el precio ya no es acorde con lo que uno come... Coman el Mocca Mud Pie y las papas rellenas...
+    date: 05-03-2007
+    user: http://mi.guiaoleo.com/members/23150
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Estaba con muchas ganas de conocer TGI, el local por afuera la verdad que atrae y demasiado. La calidad de la comida es p\xE9sima. La pasta tenia sabor a nada, los postres son algo flojos y el bloody artificial. O sea, para pasar, comer una entradita y una cerveza, esta perfecto. Pero pagar 110 por dos personas en un especie de Mc Donalds de luxe...no lo recomiendo."
+    date: 05-03-2007
+    user: http://mi.guiaoleo.com/members/15366
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida no tiene una gran presentaci\xF3n pero si es abundante. La bebida parece no importar cuando uno se enfrenta con unas ribs. Lo recomiendo para los que le gustan comer mucho."
+    date: 02-03-2007
+    user: http://mi.guiaoleo.com/members/16887
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Ayer a al noche fui a TGI Friday''s de Palermo, y la verdad que la comida estuvo excelente. Com\xED hamburguesas e impresiona el tama\xF1o de las mismas. En cuanto a la atenci\xF3n, empez\xF3 bien pero luego decay\xF3; en primer lugar porque cuando ped\xED la recarga de mi gaseosa tardaron unos diez minutos y ya no pod\xEDa tragar la hamburguesa. Luego para la cuenta tardaron y para el vuelto, como era m\xEDnimo, lo termin\xE9 dejando. En cuanto a el lugar: la decoraci\xF3n es excelente, pero es cierto que es muy ruidoso. La causa de esto, es que van muchos adolescentes. No es especialmente un lugar para adultos que quieran ir a cenar tranquilos. Fuera de los comentarios, vayan a probar las s\xFAper hamburguesa.  "
+    date: 27-02-2007
+    user: http://mi.guiaoleo.com/members/19109
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida est\xE1 bien aunque no tiene nada para destacar. Es un lugar para ir cualquier d\xEDa. Los platos son muy abundantes."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/190
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El servicio es realmente p\xE9simo."
+    date: 18-02-2007
+    user: http://mi.guiaoleo.com/members/5441
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El local es est\xE9ticamente m\xE1s agradable que el de Puerto Madero y la atenci\xF3n menos mala, pero podr\xEDa ser mejor. \r\n\
+      Pienso que los camareros son todos muy j\xF3venes y no les preocupa demasiado aprender el oficio. \r\n\
+      No se puede esperar m\xE1s de un restaurante pensado para adolescentes. La papa que me sirvieron estaba fr\xEDa y el ojo de bife de mi steak recalentado. Pero a mis hijas les encanta."
+    date: 17-02-2007
+    user: http://mi.guiaoleo.com/members/17248
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Antes de votar chusme\xE9 la opini\xF3n de otros usuarios en Gu\xEDa \xD3leo y coincido en que el servicio fue muy flojo y lento. La moza que nos atendi\xF3, m\xE1s all\xE1 de su buena voluntad, se equivoc\xF3 dos veces con el pedido de mi esposa. \r\n\
+      Lamento que haya sucedido esto porque las hamburguesas de este lugar son mis favoritas. Son las m\xE1s sabrosas en comparaci\xF3n con otros locales de este estilo. En esta oportunidad, sin embargo, quise descubrir qu\xE9 tal eran la fajitas (mixtas, carne y pollo) y les digo que de verdad son malas. Pero malas, malas. Primero y principal, porque las tortillas llegan a la mesa en un paquete pl\xE1stico cerrado (s\xED, leyeron bien), calentado al microondas y la masa se endureci\xF3 al minuto. Tipo comida de avi\xF3n. \r\n\
+      Y segundo porque con los acompa\xF1amientos para armar cada fajita no incluyeron guacamole, algo esencial para este plato mexicano. Si vuelvo, ser\xE1 s\xF3lo para un antojo de hamburguesa."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/15451
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Imperdonable que en un \"restaurante\" americano no puedan hacer un buen hamburger, m\xE1s aun usando carne argentina.  P\xE9simo servicio que tardo a\xF1os y luego tratan de arreglar regalando tragos.  Experiencia olvidable."
+    date: 03-02-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "\xA1Qu\xE9 malo es el servicio! Los mozos son lerdos, no entienden el pedido, tardan mil horas y a veces te traen primero la comida y, a los quince minutos, la bebida. La verdad es una pena. Tuve la oportunidad de ir al TGI de New York y me pareci\xF3 espectacular. Pens\xE9 encontrar lo mismo ac\xE1, pero la verdad que dista mucho de ser as\xED. "
+    date: 02-02-2007
+    user: http://mi.guiaoleo.com/members/14670
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Me invitaron a cenar mis hijos para las fiestas.Lugar colmado de gente,ruido, ruido y m\xE1s ruido:imposible conversar.Todo a los gritos.Servicio de las meseras deplorable:genera irritaci\xF3n la forma distante y parsimoniosa de a tender(como haciendo un favor;cuando les se\xF1alamos los errores se enojadaron...).Comida mala y enga\xF1osa (nada que ver la foto y los comentarios del men\xFA con lo que viene en el plato),tipo industrial en serie.Para dejarlo en claro:creo que se burlan descaradamente del cliente, lo saben y no les importa."
+    date: 23-01-2007
+    user: http://mi.guiaoleo.com/members/25256
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El \xFAnico motivo por el que voy a Friday\xB4s son las Jack Daniel\xB4s Ribs. Ayer, mi\xE9rcoles por la noche, ped\xED como siempre las Jack Daniel\xB4s Ribs y una gaseosa Pepsi. Para que nos traigan la cuenta pasaron veinte minutos y para el vuelto otros diez m\xE1s. Mientras retiraban los platos, vemos que en los individuales de papel se promocionan las Jack Daniel\xB4s Ribs con una pepsi gratis, obviamente le dijimos a la camarera que nos honre la promoci\xF3n,  pero nos dijo que no, que como mucho nos daba la latita de gaseosa para que la llevemos. Pero era tarde, ya hab\xEDamos cenado, al ordenar el plato no nos dijo que las Jack Daniel's Ribs inclu\xEDan en la promoci\xF3n una Pepsi gratis, por lo que deb\xED pagar por la Pepsi que tom\xE9, aunque estaba inclu\xEDda en la promoci\xF3n.\r\n\
+      Aire acondicionado, olv\xEDdalo, no hab\xEDa. Ah, y caf\xE9 tampoco, no funcionaba la m\xE1quina. Lamentablmente esto de ir a Friday\xB4s de Alto Palermo se est\xE1 tornando dif\xEDcil. "
+    date: 14-12-2006
+    user: http://mi.guiaoleo.com/members/14464
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida es muy buena, pero lamentablemente los car\xEDsimos precios y la mala atenci\xF3n hacen que a uno, no le den muchas ganas de volver.\r\n\
+      Un jugo tiene un valor de nueve pesos, un vaso de hielo con gaseosa, seis con cincuenta.\r\n\
+      Solo con tres bebidas y dos servicios de mesa ya est\xE1bamos en treinta pesos: ronda lo delictivo.\r\n\
+      La camarera me pregunt\xF3 dos veces la bebida, y me trajo otra cosa. \r\n\
+      Vale la pena, s\xF3lo si est\xE1n dispuestos a tirar la plata de vez en cuando."
+    date: 19-11-2006
+    user: http://mi.guiaoleo.com/members/6200
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Para ser una cadena internacional de restaurantes, \xE9ste local deja mucho que desear. \r\n\
+      Es excesivamente ruidoso, con un servicio muy lento. La comida es buena, pero no de las mejores y los precios dolarizados, car\xEDsimos."
+    date: 01-11-2006
+    user: http://mi.guiaoleo.com/members/16866
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La atenci\xF3n fue p\xE9sima y la ac\xFAstica tambi\xE9n era mala. \r\n\
+      Aunque la comida fu\xE9 buena me pareci\xF3 muy cara para lo que se comi\xF3. Por esa misma plata hubiera esperado algo mucho mejor."
+    date: 01-11-2006
+    user: http://mi.guiaoleo.com/members/12192
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida es buena, los postres tambi\xE9n, pero el servicio es desastroso por donde se lo mire. No pod\xEDan darme una mesa al mediod\xEDa, porque no hab\xEDa llegado el encargado. Nunca lo comprend\xED, y ni siquiera s\xE9, si ellos lo entend\xEDan. Para traerme la cuenta tardadon veinte minutos. El delivery es un desastre, de diez veces 9 y medio se confunden, incluso cuando vienen por el cambio. Nunca visto. Una pena."
+    date: 30-10-2006
+    user: http://mi.guiaoleo.com/members/13152
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Es uno de mis restaurants preferido, por lo queno tengo mucho para criticar.
+    date: 09-10-2006
+    user: http://mi.guiaoleo.com/members/12665
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Treinta y cinco pesos por persona por comer algo similar a lo que se puede comer en Burger king no tiene ninguna l\xF3gica. Una botella de agua sale cinco pesos. Para colmo, el servicio de mesa es p\xE9simo, no te dan ni una panera y tenes que estar toda la noche intentando llamar a las camareras para que te atiendan. \r\n\
+      La comida es rica, pero tampoco es de la mejor, ademas las porciones podr\xEDan ser m\xE1s abundantes.\r\n\
+      Ni hablar que por treinta y cinco pesos uno puede ir a cualquier casa de hamburguesas y comer mucho m\xE1s, adem\xE1s de no tener que soportar todo el ruido. \r\n\
+      Es ideal para ir con varios amigos y aprovechar las promociones, nada m\xE1s."
+    date: 30-09-2006
+    user: http://mi.guiaoleo.com/members/7933
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La verdad, una frustaci\xF3n. La calidad del lugar a lo largo del tiempo fue inversamente proporcional al precio: cada vez m\xE1s caro y peor comida.\r\n\
+      Los platos para compartir son una farsa, las hamburguesas quedan mejor las que uno hace en casa, la gaseosa sin gas y todo car\xEDsimo. Por el ambiente del lugar no se pod\xEDa ni hablar. Ni se le ocurra ir."
+    date: 23-09-2006
+    user: http://mi.guiaoleo.com/members/10150
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me encanta este lugar, las hamburguesas estan b\xE1rbaras y los postres hablan por si solos. Es mi restaurante preferido."
+    date: 14-09-2006
+    user: http://mi.guiaoleo.com/members/12007
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La atenci\xF3n es p\xE9sima: tardan siglos y se olvidan de todo. La comida es muy buena pero demasiado cara. El ambiente es muy ruidoso."
+    date: 09-09-2006
+    user: http://mi.guiaoleo.com/members/11893
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Hace a\xF1os que soy cliente y la comida sigue siendo muy buena, pero el servicio del local de Alto Palermo, es cada vez peor. Si los \"managers\" fueran competentes, no habr\xEDa demoras o equivocaciones."
+    date: 02-09-2006
+    user: http://mi.guiaoleo.com/members/11851
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una comida r\xE1pida de vez en cuando no est\xE1 mal y TGIF cumple con m\xE1s calidad que otras cadenas de comida comparables."
+    date: 02-09-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy bueno, para recomendar.
+    date: 30-08-2006
+    user: http://mi.guiaoleo.com/members/11592
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar est\xE1 muy bueno, pero si no vas con reserva los fines de semana tienen una demora de 2 a 2:30 hs. \r\n\
+      La comida es muy buena pero es excesivamente caro. Fuimos dos y comimos un plato principal cada uno, una gaseosa cada uno y compartimos un postre y pagamos $98.-"
+    date: 27-08-2006
+    user: http://mi.guiaoleo.com/members/11850
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Llev\xE9 un amigo norteamericano pero me qued\xE9 con verg\xFCenza de la atenci\xF3n, para traer el men\xFA tardaron quince minutos. \r\n\
+      La comida tard\xF3 cuarenta minutos y cuando lleg\xF3 se equivocaron con el pedido. Ped\xED una promoci\xF3n de dos tragos por uno y la moza me trajo las dos botellas de cerveza juntas. \r\n\
+      Tuve que tomar la segunda caliente, pedimos servilletas extras, mostaza y ketchup. Fueron veinte minutos m\xE1s, la cuenta la pedimos tres veces.\r\n\
+      La verdad para esta atenci\xF3n y pagar treinta pesos con bebida para comer una hamburguesa. \r\n\
+      Nunca m\xE1s."
+    date: 14-08-2006
+    user: http://mi.guiaoleo.com/members/6439
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La atenci\xF3n es mal\xEDsima. Hace a\xF1os que vamos a TGI Fridays por la comida y el ambiente, pero el servicio es muy malo. \r\n\
+      Los camareros y camareras son muy poco amables, antip\xE1ticos, siempre est\xE1n apurados. \r\n\
+      Es molesto que te hagan esperar media hora cuando desde la entrada del restaurante se ven mesas vac\xEDas. \r\n\
+      Te sientan donde ellos quieren y ves que al lado de tu mesa, mal ubicada, hay mesas mucho mejores que uno no sabe por qu\xE9 no te las dan. Demoran mucho en traer la comida y luego te traen todo junto."
+    date: 13-08-2006
+    user: http://mi.guiaoleo.com/members/11103
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: la comida me parecio regular, la atencion mas que regular, pero los postres se llevan todos los aplausos, realmente muy buenos, gigantes y muy ricos. digno de recomendar turtle sundae. excelente.
+    date: 09-07-2006
+    user: http://mi.guiaoleo.com/members/10275
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es todo muy lindo, t\xEDpico restaurente de comida americana. Los mozos muy simp\xE1ticos y atienden muy bien. Un poco caro."
+    date: 26-05-2006
+    user: http://mi.guiaoleo.com/members/8431
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La verdad que el lugar es muy agradable, siempre voy con mi novia un par de veces al mes, pero lo \xFAnico que critico es el servicio muy desatento y lento, m\xE1s si vas despues de las doce de la noche.\r\n\
+      Los postres, lo mejor. \r\n\
+      Ojo las porciones que las achicaron mucho."
+    date: 21-05-2006
+    user: http://mi.guiaoleo.com/members/8469
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un ambiente muy ruidoso, pero a los chicos les encanta la comida.
+    date: 23-04-2006
+    user: http://mi.guiaoleo.com/members/8024
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hermoso el lugar. Te atienden muy bien, t\xEDpico dinner americano. Vale el precio que cobran."
+    date: 02-04-2006
+    user: http://mi.guiaoleo.com/members/9970
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fui a festejar un cumplea\xF1os. Llev\xE9 la torta y cuando me la traen a la mesa, se hab\xEDan comido un pedazo y me la trajeron de esa manera sin dar ningun tipo de explicaci\xF3n. \r\n\
+      Quer\xEDan resarcir lo ocurrido con una porci\xF3n de torta, pero eso no fue el problema, sino que se tomaron el trabajo de abrir el envase donde lleve la torta, cortar un pedazo y entregarla de esa manera. \r\n\
+      Deplorable el servicio prestado."
+    date: 02-04-2006
+    user: http://mi.guiaoleo.com/members/7449
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "A primera vista da la idea de ser un poco caro, pero la abundancia de los platos y calidad de los ingredientes lo justifican por completo. \r\n\
+      Muy agradable ambiente, si no les molesta la m\xFAsica fuerte. \r\n\
+      La atenci\xF3n un poco lenta, no por mala voluntad del personal sino por el hecho de que el lugar estaba repleto. Definitivamente lo recomiendo."
+    date: 26-11-2005
+    user: http://mi.guiaoleo.com/members/5026
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Las hamburguesas son ricas pero no llenan y los platos no son para nada abundantes. 
+      Muy caro para lo que es, es igual que ir a "los arcos dorados".
+    date: 21-11-2005
+    user: http://mi.guiaoleo.com/members/6804
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida es rica y las porciones generosas, la atenci\xF3n deberia mejorar por lo que cobran. la ambientaci\xF3n es muy agradable."
+    date: 09-11-2005
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Celebramos el cumplea\xF1os de mi hija. Fueron como 20 ni\xF1as. P\xE9simo servicio e imcumplieron con lo convenido. Ni decoraci\xF3n en la mesa ni foto digital de la cumplea\xF1era."
+    date: 07-08-2005
+    user: http://mi.guiaoleo.com/members/3226
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es buena pero cara por lo que se ofrece. El ambiente es bueno, el sector de no fumadores esta bastante bien limitado, y la atenci\xF3n depende de quien te atienda. Lo que mas conviene son las promos."
+    date: 23-07-2005
+    user: http://mi.guiaoleo.com/members/2852
+    ambiente_rank: muy bueno

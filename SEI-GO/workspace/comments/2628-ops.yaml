@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un t\xEDpico restaurant de hace a\xF1os sin cambios. Buena comida,simple y con buen precio. Un lugar muy recomendable si no se le exige mas. Alta relaci\xF3n calidad,precio"
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Los fussile con tuco, pesto y muzarella que comi son una delicia. tambien se puede comer el mejor bife de chorizo del pais. el budin de pan y flan son caseros.- voy casi todos los viernes con mi familia y amigos y lo recomiendo sin dudar.
+    date: 21-08-2009
+    user: http://mi.guiaoleo.com/members/16551
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida no estuva nada mal por el precio que pagamos, pero el ambiente (ruidoso, lleno de gente con una mesa al lado de la otra, desaseado) y el servicio completamente descuidado, le saca toda su posible atraccion. A uno le gustan las fondas de barrio pero esta no me gusto en lo mas minimo. Solo si esta en el barrio y no quiere cocinar.
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/65438
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena comida y porciones abudantes. Es un restaurante de barrio donde se come muy bien sin mas pretenciones.
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/19974
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buen servicio y buena atencion
+    date: 16-06-2008
+    user: http://mi.guiaoleo.com/members/46330
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Todo bien. Aunque no se destaca en ning\xFAn aspecto en particular, matiene un equilibrio en todo."
+    date: 06-06-2008
+    user: http://mi.guiaoleo.com/members/22495
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ir a comer a Suarez es un placer, por la relaci\xF3n precio/calidad/ambiente. Voy con mi familia desde hace m\xE1s de 10 a\xF1os por la cercan\xEDa de mi hogar, y la verdad que la calidad de la comida, como la atenci\xF3n del due\xF1o (Suarez) y de los mozos (Ra\xFAl y Gast\xF3n) son impecables. El jam\xF3n crudo espa\xF1ol es el mejor que he comido. Y los platos son abundantes, con lo cual se pueden compartir tranquilamente\r\n\
+      Es un lugar para recomendar si se quiere concurrir con amigos y/o familia."
+    date: 07-02-2008
+    user: http://mi.guiaoleo.com/members/33306
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Suarea es un lugar de barrio , que quedo chico para la cantidad de gente que concurre.La comida es buenisima y abundante y la atencion rapida y eficiente.El due\xF1o,Suarez,nos despidio al irnos con mucho afecto y agradecimiento por haberlos visitado.No se pierdan el panqueque quemado al rhum.Es de un tama\xF1o descomunal(para compartir) y exquisito!!!"
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El mejor jam\xF3n crudo que he comido en a\xF1os, estacionado, sin fibras ni grasa. Comida correcta y abumdante. La atenci\xF3n es muy buena y el due\xF1o un fuera de serie, simpatico y amable. El lugar es chico y un poco ruidoso. Voy a volver"
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/36272
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El mejor jam\xF3n crudo que he comido en a\xF1os, estacionado, sin fibras ni grasa. Comida correcta y abumdante. La atenci\xF3n es muy buena y el due\xF1o un fuera de serie, simpatico y amable. El lugar es chico y un poco ruidoso. Voy a volver. "
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/36271
+    ambiente_rank: bueno

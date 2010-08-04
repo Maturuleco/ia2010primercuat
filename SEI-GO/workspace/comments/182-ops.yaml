@@ -1,0 +1,489 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Lindo lugar, para no llegar hasta el centro. Los platos son realmente muy abundantes, mas que para compartir y avisado por el mozo. La atencion es muy corresta y el lugar tiene bastante gente, pero se puede charlar y comer tranquilo. La carta de vinos es un poco escasa. Buen lugar, recomendable
+    date: 19-06-2010
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un cl\xE1sico de Devoto de toda la vida. No es alem\xE1n sino un bodeg\xF3n de barrio de los de antes. Precios no muy baratos pero platos gigantes, llenos de fritas. Como volver a los 60... and\xE1 si te ataca la nostalgia o sos del rioba."
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/32957
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Abundante los platos aunque avisados por el mozo ,  bastante bien de sabor  , fresas las pastas , la atencion buena del mozo siempre correcto pero los precios son bastante elevados para un restaurante de barrio que no posee una cocina  gourmet.
+    date: 26-01-2010
+    user: http://mi.guiaoleo.com/members/76463
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: La comida fue rica, los precio... acorde pero si bien el mozo nos atendio exelentemente fue un poco distraido...y no tomaba en serio las observaciones q hicimos... horrible la limpieza del salon (sin ser pretenciosa)
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/79325
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Eramos cuatro gastamos en total 420 pesos a pesar que el mozo  fue muy amable, la comida un espanto el matambre a la parrilla duro y seco y el salmon a la parrila seco . los precios re elevados. es para ir en verano y disfrutar el aire libre que tiene pero comer una picada con cerveza.
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/33193
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Las gambas muy buenas, frescas y superabundantes y ni que hablar de la paella. El servicio de los mozos es muy bueno. El ambiente es tipo bodegon. Lo malo es que si vas tarde tenes que hacer cola para entrar, pero para mi vale la pena.
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/73619
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo ideal es ir temprano porque siempre hay una cola increible. Los platos son muy abundantes, tienen un mix entre comida alemana y porte\xF1a, si bien es un lugra tirando a cantina, es una tradicion en el barrio de Devoto. La relacion precio-calidad-cantidad es adecuada."
+    date: 01-12-2009
+    user: http://mi.guiaoleo.com/members/73687
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: no cumplio con las expectativas, seria porque faltaba  personal, el servicio muy lento y la comida un poco pasada, el mozo trato de salvar el error muy cordialmente, dejare pasar un tiempo y le dare otra oportunidad.
+    date: 14-10-2009
+    user: http://mi.guiaoleo.com/members/72493
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Platos abundantes y cumple con lo que esperas. Las salchichas con chucrut son algo "normales", pero no dejan de ser ricas. Un mozo muy bien informado de los platos, y aconsejando para bien, muy correcto. quizas un poco apurado. El servicio muy rapido, pero hay q tener en cuenta que no era fin de semana. el ambiente familiar. un parrafo aparte para la cervez que es muy buena.
+      Por mi primera experiencia volveria con gusto.
+    date: 30-09-2009
+    user: http://mi.guiaoleo.com/members/69592
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los platos son sabrosos y para compartir. La atenci\xF3n fue muy buena y eso se debe a que los que atienden son mozos de los de antes. Punto a favor: la cerveza es excelente. Punto en contra: los precios son un poco elevados."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/58375
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      No es exclusivo aleman, pero tiene buenos platos.
+      No hay que dejar de tomar la cerveza en la Glorieta
+    date: 02-07-2009
+    user: http://mi.guiaoleo.com/members/63396
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida buena, pedi una porcion de Vitel Ton\xE9 y la carne era una suela. El resto todo bien. Otro detalle, no se si hecharle la comida al Mozo y su PESIMA atenci\xF3n, pero me llag\xF3 la cerveza a un frio medio, y eso no me cayo muy bien. El ambiente super ruidoso y no daba ganas de hablar mucho. Una pena, tanta fama..."
+    date: 20-04-2009
+    user: http://mi.guiaoleo.com/members/1487
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Me anot\xE9 telef\xF3nicamente pero igual tuve que esperar. Eramos 5 y nos ubicaron en una mesa de 4 estando bastante inc\xF3modos. Si bien las mesas tiene una separaci\xF3n adecuada, el ambiente es muy ruidoso. Casi que hay que gritarse para hacerse escuchar. La comida es buena y las porciones abundantes (todas para compartir). Conviene consultar al mozo. He ido otras veces y volver\xE9 pero espero que tengan en cuenta estas observaciones"
+    date: 14-03-2009
+    user: http://mi.guiaoleo.com/members/10204
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es muy buena, un clasico,muy familiar, porciones importantes. Ideal para ir temprano o a prepararse para esperar
+    date: 28-02-2009
+    user: http://mi.guiaoleo.com/members/59087
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "es el mejor lugar de todo devoto, villa del parque y zonas aleda\xF1as. las porciones son inmensas y la cAalidad excelente. No se pueden perder la cerveza tirada y tomarla en la glorieta"
+    date: 05-01-2009
+    user: http://mi.guiaoleo.com/members/57008
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos en dos oportunidades: la primera comimos una picada que si bien era abundante no ten\xEDa ning\xFAn ingrediente para destacar. Nada alem\xE1n! Tuvimos que pedir unas salchicas con chucrut aparte para probar algo t\xEDpico. No es para recomendar. Al contrario de esto, en otra oportunidad comimos milanesas, \xE9stas eran enormes y exquisitas. El ambiente es ameno sobretodo en la glorieta y el servicio correcto. Lo mejor es la cerveza tirada, de lo mejor de Bs. As. Hay unos \"FLOREROS\" gigantes que son impresionantes. Vayan a tomar esta cerveza que vale la pena!"
+    date: 03-01-2009
+    user: http://mi.guiaoleo.com/members/31386
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui por recomendaciones y no me gust\xF3, el chucrut estaba frio y el resto de la comida normal, el ambiente muy ruidoso, caluroso y con poco espacio."
+    date: 06-10-2008
+    user: http://mi.guiaoleo.com/members/39927
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El Bar Alem\xE1n es una excelente opci\xF3n si se evitan ciertas expectativas erradas: a) No es un lugar para comer comida alemana, b) no lo es para intentar con nada pretensioso. Es un buen restaurante t\xEDpicamente porte\xF1o en cuanto a la carta, para comer cl\xE1sicos platos \"familiares\": milanesas, pastas, etc. en porciones dobles. La atenci\xF3n es destacable, aut\xE9nticos mozos \"de mo\xF1ito\", muy atentos y respetuosos a los que s\xED, quiz\xE1, haya que seguirles el ritmo porque el lugar suele estar lleno. Pero de ning\xFAn modo la premura les quita la cordialidad y este detalle hoy en d\xEDa escasea."
+    date: 07-09-2008
+    user: http://mi.guiaoleo.com/members/11814
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente el lugar y sobre todo la buena predisposici\xF3n del mozo, la comida es abundante. Lo recomindo..."
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/38923
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ambiente agradable y buena atencion. Porciones, platos y postre PARA COMPARTIR !!! Un poco ruidoso ya que siempre hay mucha gente, pero se tolera. Volveriamos a ir. Se llena rapido por lo tanto es mejor reservar
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/5210
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pura Fama, se qued\xF3 perdido en la historia.\r\n\
+      Repleto de gente, hay que esperar mucho y no vale la pena hacerlo. comida argentina con nombre alem\xE1n, ni las pastas eran italianas!! Hasta que deje de mentir con el nombre..no vuelvo!"
+    date: 05-05-2008
+    user: http://mi.guiaoleo.com/members/29208
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Tengo recuerdos de ir a comer a este lugar desde que era peque\xF1o y nunca sal\xED defraudado. Realmente lo mejor de la zona no solo en calidad/abundancia sino en atenci\xF3n. Un Cl\xE1sico!"
+    date: 04-05-2008
+    user: http://mi.guiaoleo.com/members/44519
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un cl\xE1sico del barrio de devoto, hace mk\xE1s de 15 a\xF1os que voy y siempre igual. comer rico y en abundantes porciones con mozos como los de antes antentos. Es cierto que la presentaci\xF3n de los platos no es su fuerto, pero no falla si quer\xE9s comer bien. vuelvo siempre"
+    date: 11-04-2008
+    user: http://mi.guiaoleo.com/members/5803
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El Bar Alem\xE1n sigue conservando la calidad y generosidad en sus porciones de siempre. Hace casi 20 a\xF1os que con mi familia vamos a comer o pedimos delivery. Es una muy buena opci\xF3n en el barrio. Eso s\xED, a mi gusto de \"alem\xE1n\" solo el nombre."
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/15090
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El lugar es muy concurrido,el ambiente es familiar,los mozos solamente atienden,pero el antipasto que pedimos era ultra abundante,excelente calidad,muy surtido,practicamente inobjetable,ademas,los platos que pasaban para otras mesas,estaban muy buenos,la vitrina con fiambres y entradas frias,estaban muy bien presentadas,fresco,muy rico,el precio es aceptable,estuve en el jardin y parece que comes en tu casa,recomendable para verano,la zona es buena,volvere.
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El bar aleman tiene dos caras, para pedir chatarra eje: milanesas y cosas asi es muy bueno, pero para pedir algo \"\"elaborado\"\" (elaborado para el lugar, no vayan a pedir pato a la narnaja por que no hay jejeje...), todo mal presnetado, si la comida les entra por los ojos mas les vale que sean ciegos, como se que no y estan leyendo esto les diria que si quieren comer una milanesa o suprema a napolitana es el lugar indicado rico abundante y barato. Los postres depende, algunos buenos otros impresionantes y otros ahi no mas, la atencion es malisima siempre. pero si te dicen de ir anda. "
+    date: 14-02-2008
+    user: http://mi.guiaoleo.com/members/40134
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "de alem\xE1n no tiene nada, las especialidades son malas igual que las picadas, un poco mejor resultan las pastas que adem\xE1s son muy abundantes, el ambiente interior es normal pero tiene un patio muy lindo para cenar en verano, que resulta ideal para fumadores."
+    date: 23-01-2008
+    user: http://mi.guiaoleo.com/members/19883
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Este restaurant era lo m\xE1s hace 15-20 a\xF1os y no s\xE9 si realmente baj\xF3 much\xEDsimo la calidad y la atenci\xF3n o si nos acostumbramos a apreciar la comida m\xE1s all\xE1 de la cantidad. Lo cierto es que no me convenci\xF3 y no lo recomendar\xEDa."
+    date: 19-01-2008
+    user: http://mi.guiaoleo.com/members/18714
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui mucho de chico y era un clasico de mi familia, hoy casi 15 a\xF1os despues senti que entraba en una cantina, donde la intencion era despachar gente, Los platos son \"casi abundantes\" y la verdad nada de otro mundo la comida buena. El lugar es extremadamente ruidoso y se quedaron atras con la ambientacion.Se me cayo un mito, Hay que esperar mucho en la puerta"
+    date: 19-12-2007
+    user: http://mi.guiaoleo.com/members/37999
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida t\xEDpica del tradicional restaurant de barrio, con igredientes de primera calidad, estupenda atenci\xF3n y precio justo. Altamente recomendable."
+    date: 17-12-2007
+    user: http://mi.guiaoleo.com/members/25447
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      La verdad un desastre, pedimos "la especialidad" salchichas con chucrut un verdadero asco, la salchicha me la sirvieron toda reventada y el chucrut sumergido en aceite.
+      Este lugar es para la gente que solo le interesa comer cantidad y no calidad, no lo recomiendo.
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/21985
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Todos mis amigos hablan maravillas, pero realmente le d\xEC varias oportunidades y sigue sin gurstarme."
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/35531
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar mantiene las abundantes porciones, esas que vienen en bandeja de metal.\r\n\
+      Fui un jueves a la noche, algo temprano, y recibimos muy buena atenci\xF3n.\r\n\
+      El matambrito de cerdo al verdeo, muy bueno. Y unas espinacas gratinadas, ricas, con una buena costra de queso parmesano arriba. Un buen lugar."
+    date: 25-10-2007
+    user: http://mi.guiaoleo.com/members/19736
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hace a\xF1os que voy y la comida sigue siendo s\xFAper abundante y de calidad; aunque los $4 de cubierto por pan negro y quesito untable... no s\xE9.\r\n\
+      El mozo m\xE1s que amable y servicial, un placer!"
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/14794
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar fantastico y todo lo que pida va a ser excelente. "
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/31204
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida est\xE1 muy bien elaborado y con buenos productos. \r\n\
+      El ambiente al ser tan grande es un poco ruidoso, aunque est\xE1 divido por sectores. La atenci\xF3n es buena y los platos no hay que esperarlos mucho. Conviene reservar, porque hay mucha espera."
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/8331
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida cara por el plato que lleg\xF3 a la mesa, muchos tent\xE1culos de calamar, exagerado fondo de liquido, algo para olvidar. Nuestro mozo se fu\xE9 a cenar en medio del servicio. "
+    date: 28-08-2007
+    user: http://mi.guiaoleo.com/members/30737
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "es el elegido para fstejar el aniversario con mi pareja todos los a\xF1os "
+    date: 14-08-2007
+    user: http://mi.guiaoleo.com/members/29590
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar conservo el nombre pero nada de lo que era. Iba con mi familia de chica, pero dejamos de ir. No les vendria mal una inversion para renovarse.
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/29408
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Este lugar tiene una fama inexplicable. La calidad de las carnes no es buena y la preparaci\xF3n de los platos tampoco. Fui varias veces, porque no pod\xEDa entender c\xF3mo hay gente haciendo cola para comer ah\xED, y no logr\xE9 encontrar un plato bien hecho. \r\n\
+      No vale la pena."
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/31863
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      Los ravioles eran unos cuadrados de mas gris sin ningun tipo de relleno. El tuco un masacote marron agrio. El Arroz con calamares aceptable pero si descollar.
+      La torta bar aleman es buena aunque muy empalagosa.El servicio depende mucho del mozo que te toque. El lugar es agradable. No vale la pena.
+    date: 27-07-2007
+    user: http://mi.guiaoleo.com/members/25918
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Comi unos ravioles de masa gris con un escaso relleno indescifrable acompa\xF1ados de un tuco marron y agrio.\r\n\
+      Mi esposo comio una milanesa a la napolitana gigante, tan grande como sin sabor.\r\n\
+      De postre comimos una buena torta bar aleman, especial para golosos.\r\n\
+      La atencion es sencillamente mala.\r\n\
+      El lugar es agradable."
+    date: 18-07-2007
+    user: http://mi.guiaoleo.com/members/26952
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Comida en algunos casos buena, por favorrrrrrr saquen los manteles que los tienen desde el dia de la inauguraci\xF3n todos blancos pero del uso son grises y desilachados(un asco). No vuelvo m\xE1s hasta que los cambien, ba\xF1os chicos."
+    date: 15-07-2007
+    user: http://mi.guiaoleo.com/members/26891
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: la verdad es que es cierto lo que comento una usuaria, solo tiene de aleman el nombre, hay que saber eso antes de ir. por otro lado cabe destacar que hay gente que le encanta el lugar y gente que lo odia (soy del barrio), a mi la comida no me parece mala, por ejemplo, una porcion de cintas al huevo al escarparo es abundante y riquisima de verdad, las minutas tambien son buenas, pero como dijeron, es un restaurant comun.
+    date: 22-06-2007
+    user: http://mi.guiaoleo.com/members/22777
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente lugar, he ido en todas las estaciones del a\xF1o. En verano cenar en la glorieta que tienen afuera es fant\xE1stico. El servicio es so so, debieran mejorar al respecto. Las instalaciones bien, limpieza bien."
+    date: 10-06-2007
+    user: http://mi.guiaoleo.com/members/5452
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Una picada paup\xE9rrima con arrollado de pollo congelado y matambre dur\xEDsimo inclu\xEDdo. Un chucrut con salchicas comunes y costillas de cerdo recocidas.Las rabas gomosas y aceitosas. Para no volver."
+    date: 16-05-2007
+    user: http://mi.guiaoleo.com/members/21461
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Uno de los mejores lugares para pasar un lindo rato en familia o amigos. Buen trato siempre y en un lugar muy c\xE1lido."
+    date: 03-05-2007
+    user: http://mi.guiaoleo.com/members/22561
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Me gusto...posee amplio y comodo sector fumadores...buenas pastas caseras en porciones abundantes...servicio rapido y profesional,ambiente familiar...seguramente volvere.
+    date: 22-04-2007
+    user: http://mi.guiaoleo.com/members/6234
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n de los mozos es muy buena, los platos son abundantes y de excelente calidad. Muy recomedable."
+    date: 21-04-2007
+    user: http://mi.guiaoleo.com/members/21960
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos porque nos interesaba ir a un restaurante de comida alemana pero nos encontramos con un t\xEDpico restaurante de comida com\xFAn, o sea milanesas, bifes, papas fritas... \r\n\
+      El ambiente es ruidoso, hay que hablar a los gritos, la decoraci\xF3n es de terror, no lo recomiemdo en absoluto, ah, de alem\xE1n s\xF3lo tiene el nombre."
+    date: 03-04-2007
+    user: http://mi.guiaoleo.com/members/15820
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "La comida es buena en general. En mi caso ped\xED goulash y en realidad eran \xF1oquis con carne. Disiento con otro usuario, pero esto no es goulash. La atenci\xF3n es siempre exelente, muy cordial."
+    date: 23-03-2007
+    user: http://mi.guiaoleo.com/members/12886
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Nada del otro mundo. Es ruidoso, para ir con amigos. Para ir una o dos veces no m\xE1s. "
+    date: 20-03-2007
+    user: http://mi.guiaoleo.com/members/4795
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: las rabas estaban gomosas, la milanesa estaba dura, la tortilla era pura cebolla.
+    date: 08-03-2007
+    user: http://mi.guiaoleo.com/members/6591
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tengo 22 a\xF1os y soy clienta junto con mi familia ya hace mas de quince. La comida es excelente, como en todos lados, hay platos mejores que otros pero en general son todos muy ricos. \r\n\
+      Es un ambiente muy familiar y c\xF3modo, con glorieta para el verano. La atenci\xF3n es de diez, todos los mozos se toman con mucho profesionalismo cada mesa que le toca atender.\r\n\
+      Se procupan por sus clientes, enviandoles postales y/o tarjetas, para el d\xEDa de su cumplea\xF1os.\r\n\
+      Cien porciento recomendable."
+    date: 25-02-2007
+    user: http://mi.guiaoleo.com/members/18983
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "S\xF3lo para los que tienen un h\xEDgado a prueba de cualquier aceite. \r\n\
+      No vuelvo. Cantidad no es sin\xF3nimo de calidad."
+    date: 18-02-2007
+    user: http://mi.guiaoleo.com/members/11820
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente y los platos s\xFAper abundantes. La verdad que es una excelente opci\xF3n a la hora de comer una buena comida, salir un poco y no gastar mucho. Los mozos son los mismos que hace veinte a\xF1os. Lo recomiendo. "
+    date: 25-01-2007
+    user: http://mi.guiaoleo.com/members/17073
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un restaurant tirando a cantina, la cerveza que sirven tiene gusto met\xE1lico, su nombre es enga\xF1oso y le qued\xF3 de la antigua Munich que all\xED funcionaba. No aconsejo el goulash que preparan, ya que se encontrar\xE1n con una abundante porci\xF3n de \xF1oquis con estofado. Como restaurant es correcto.\r\n\
+      Precios razonables. "
+    date: 07-01-2007
+    user: http://mi.guiaoleo.com/members/24006
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un ambiente espectacular al igual que el servicio y bueno que puedo decir de la comida es excelent\xEDsima de primera calidad."
+    date: 30-12-2006
+    user: http://mi.guiaoleo.com/members/15522
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Yo concurro los s\xE1bados o domingos al mediod\xEDa y el personal es muy estable, el trato es cordial,la atenci\xF3n de los mozos es muy esmerada y la comida sale con rapidez. La cerveza tirada es excelente y en variedad de tama\xF1os."
+    date: 11-12-2006
+    user: http://mi.guiaoleo.com/members/14301
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Cada vez que decidimos ir al Bar Alem\xE1n, se me alegra el paladar, ya que se que voy a comer bien.\r\n\
+      Los platos en su punto justo, bien sabrosos y respetando la tradici\xF3n. \r\n\
+      La atencion es siempre de diez y el lugar completamente acorde."
+    date: 31-10-2006
+    user: http://mi.guiaoleo.com/members/10596
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Obviamente hay que pedir la especialidad de la casa. Si pedimos asado estamos mal. Salchichas con chucrut con cerveza tirada sale excelente. La cazuela de mariscos con vino blanco, tambi\xE9n.\r\n\
+      El postre es bueno, el servicio profesional (mozos de a\xF1os) y el lugar un poco ruidoso."
+    date: 29-09-2006
+    user: http://mi.guiaoleo.com/members/13031
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Las rabas estaban gomosas y el pollo al champignon estaba hecho con champignones de lata. \r\n\
+      El mozo es poco profesional y atento. \r\n\
+      Se notaba apuro para que liberemos la mesa. No reincidir\xE9."
+    date: 11-09-2006
+    user: http://mi.guiaoleo.com/members/11938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La cerveza tirada sigue siendo un espect\xE1culo y el goulash no se queda atr\xE1s. Un lugar siempre recomendable, para ir con amigos, aunque haya bajado un poco la calidad del servicio."
+    date: 15-08-2006
+    user: http://mi.guiaoleo.com/members/19143
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hace a\xF1os que voy y cada vez se come mejor."
+    date: 07-08-2006
+    user: http://mi.guiaoleo.com/members/10946
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lugar t\xEDpico de Buenos Aires, la comida alemana es excelente."
+    date: 02-08-2006
+    user: http://mi.guiaoleo.com/members/10781
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Realmente hace muchos a\xF1os que concurro, desde la epoca que no hab\xEDa tarjeta de cr\xE9dito- ha bajado mucho el nivel de comida, en estos momentos es p\xE9simo, as\xED se lo hice saber al encargado. \r\n\
+      Realmente una l\xE1stima, yo no lo recomiendo."
+    date: 23-06-2006
+    user: http://mi.guiaoleo.com/members/10557
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Soy concurrente asiduo y nunca dej\xE9 de comer bien y a muy buen precio."
+    date: 26-04-2006
+    user: http://mi.guiaoleo.com/members/8003
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Le\xED las opiniones y en general todos hacen incapi\xE9 en el precio y la abundancia.\r\n\
+      La comida es excesivamente abundante pero muy mala. De lo peor. \r\n\
+      Los mozos est\xE1n desbordados y atienden a desgano y apurados. \r\n\
+      Adem\xE1s mi se\xF1ora est\xE1 embarazada y la dejaron parada veinte minutos sin ofrecerle una silla (dentro del restaurant). \r\n\
+      No vuelvo ni gratis."
+    date: 07-04-2006
+    user: http://mi.guiaoleo.com/members/7545
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me parece que d\xEDa de semana al mediod\xEDa de es un seis en general."
+    date: 27-02-2006
+    user: http://mi.guiaoleo.com/members/6676
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El precio no condice con la selecci\xF3n de platos. La comida est\xE1 elaborada con productos de baja calidad. Hay muchos embutidos en la Salsa \"Gran Caruso\". \r\n\
+      Es famoso en el barrio, pero hoy por hoy, no es un lugar recomendable."
+    date: 31-01-2006
+    user: http://mi.guiaoleo.com/members/11638
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los mozos tienen una atenci\xF3n excelente. Especialmente uno de nombre H\xE9ctor. Tiene una dedicaci\xF3n personalizada. \r\n\
+      La comida es b\xE1rbara y abundante."
+    date: 19-01-2006
+    user: http://mi.guiaoleo.com/members/5977
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar de barrio con buena comida en general. Al que le gusta lo alem\xE1n, tiene algunos platos interesantes."
+    date: 22-09-2005
+    user: http://mi.guiaoleo.com/members/4233
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "me pareci\xF2 un lugar muy calido y familiar, muy recomendable, precios muy buenos y atenci\xF2n muy buena.\r\n\
+      recomiendo helado con baileys."
+    date: 24-07-2005
+    user: http://mi.guiaoleo.com/members/2882
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Gran variedad de comidas y porciones para compartir. Buena relaci\xF3n precio-porciones. Ideal para ir con amigos"
+    date: 16-07-2005
+    user: http://mi.guiaoleo.com/members/4210
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui cinco veces, de las cuales com\xED realmente bien en dos oportunidades. Los precios son acordes y las cantidades son muy abundantes. \r\n\
+      La comida no es de diez, por lo menos en la mayor\xEDa de las cosas, pero es un lindo lugar para compartir con amigos."
+    date: 15-06-2005
+    user: http://mi.guiaoleo.com/members/10523
+    ambiente_rank: muy bueno

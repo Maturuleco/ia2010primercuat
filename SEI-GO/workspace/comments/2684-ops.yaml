@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es peque\xF1o y sencillo, ideal para ir a ver un partido tranquilo y sin demasiada gente"
+    date: 14-09-2009
+    user: http://mi.guiaoleo.com/members/51945
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Lugar sencillo pero original y ameno y en este caso la pizza napolitana estaba muy buena, crocante y cargada de ingredientes cosa dificil en estos tiempos...
+    date: 10-12-2008
+    user: http://mi.guiaoleo.com/members/10157
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: el lugar esta bien, lo necesario para una pizzeria de este estilo. la chica que me atendio fue muy cortes. el problema fue la pizza,  mucho mucho aceite, y pasada de coccion. un pedi mitad provolone y mitad fugazzeta, y la fugazzeta parece una muzzarella con algunos cebollines encima. no volveria
+    date: 21-07-2008
+    user: http://mi.guiaoleo.com/members/47884
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar es muy ameno y c\xE1lido. La pizza es muy rica y la cerveza en su punto justo.\r\n\
+      Recomiendo mucho ese lugar!"
+    date: 01-07-2008
+    user: http://mi.guiaoleo.com/members/47085
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Fuimos recomendados y no nos decepciono. la pizza es muy rica y crocante a la piedra. El lugar es sencillo pero agradable, la atencion muy buena.
+      Para pasar un rato agradable con muyy buena pizza.
+      Volveremos
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/46853
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La calidad de la Pizza es exelente, muy buena atenci\xF3n, el lugar es informal pero bien ambientado. Lastima que sacaron los cupones con descuento. Lo recomiendo."
+    date: 18-05-2008
+    user: http://mi.guiaoleo.com/members/40653
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "ya fui dos veces y la pizza es realmente muy buena , la vez anterior fui a un cumplea\xF1os y comimos distintos gustos, esta vez una fugazza con faina impresionante.\r\n\
+      Volveremos por mas"
+    date: 12-05-2008
+    user: http://mi.guiaoleo.com/members/45091
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: La pizza no me gusto, el lugar solo zafa para ir con amigos y al mediodia, la atencion bien, hay lugares mucho mejores para comer pizza...
+    date: 06-04-2008
+    user: http://mi.guiaoleo.com/members/49212
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "No tienen calefacci\xF3n y cierran muy temprano. Se les hab\xEDa acabado la cerveza y el queso roquefort. En general flojo. La fugazzetta rellena estaba buena. Y me tomaron el cup\xF3n de descuento sin problemas. "
+    date: 01-06-2007
+    user: http://mi.guiaoleo.com/members/7262
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es chico pero agradable, la atenci\xF3n es buena y la pizza en este caso muy buena. El valor se debe a que tomamos vino. La carta de vinos y postres es chica."
+    date: 27-05-2007
+    user: http://mi.guiaoleo.com/members/22842
+    ambiente_rank: muy bueno

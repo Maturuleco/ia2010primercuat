@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lugar recomendable para cualquier hora del d\xEDa, buen servicio,rica comida"
+    date: 17-03-2008
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy peque\xF1o con TV y tiene opci\xF3n de mesas en la calle, la atenci\xF3n es sumamente cordial,los platos son abundantes con buena materia prima y bien presentados, la panera tiene un muy rico pan de pizza y el caf\xE9 lo acompa\xF1an con masitas deliciosas,se puede desayunar, tomar un caf\xE9 o simplemente una cerveza, tiene delivery, es agradable, se come bien y los precios son accesibles"
+    date: 29-09-2007
+    user: http://mi.guiaoleo.com/members/17263
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es mi favorito.
+    date: 31-01-2007
+    user: http://mi.guiaoleo.com/members/17273
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: la comida estaba marcada y se notaba. la atencion no fue buena y el ambiente es horrible. parece una confiteria.
+    date: 30-12-2006
+    user: http://mi.guiaoleo.com/members/17327
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Son muy amables y se come muy bien.
+    date: 13-05-2006
+    user: http://mi.guiaoleo.com/members/8452
+    ambiente_rank: muy bueno

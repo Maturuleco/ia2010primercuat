@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buena Cocina. Esepecialmente recomendable para grupos numerosos. Ventaja adicional estacionamiento incluido .
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/19189
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "A este restaurante he ido ya un par de veces, la relaci\xF3n precio/comida/calidad/servicio es muy buena, uno come de todo y libre, y si no tomas vino te sale $ 45,- todo incluido una verdadera bicoca hoy en d\xEDa, encima tiene estacionamiento y juegos para chicos. "
+    date: 31-03-2010
+    user: http://mi.guiaoleo.com/members/10109
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: es un restaurant q no vale la pena ir, nadie se pierde nada si ahi no fue.No lo recomiendo.
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/79516
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un lugar agradable con servicio de valet parking buena atencion y una rica comida sobre todo las pastas,hoy volveremos a la noche con la familia.
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/65147
+    ambiente_rank: bueno

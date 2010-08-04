@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar al mediod\xEDa es tranquilo y sumamente agradable, la atenci\xF3n de los mozos atenta y profesional, la comida aceptablemente buena aunque deber\xEDan mejorar algun detalle como por ejemplo no puede ser que ofrezcan opciones dentro del men\xFA ejecutivo y siendo las 13.30 (un horario bastante razonable para almorzar) obliguen al cliente a cambiar la elecci\xF3n del plato aduciendo que esa opci\xF3n ya no queda m\xE1s. El valor $45 es acorde al lugar."
+    date: 26-03-2010
+    user: http://mi.guiaoleo.com/members/71399
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Armado como espectaculo para turistas, el argentino suele sentirse defraudado. No obstante, la calidad de la carne es para mencionar, como asimismo la correcta atencion de los mozos. Tanto el salon Vip como el de primer piso son agradables en la ambientacion.
+      Destaco las voces cantantes en el espectaculo. Por lo demas,  es una opcion dentro de las variadas que se ofrecen en esta ciudad.
+    date: 07-09-2009
+    user: http://mi.guiaoleo.com/members/6103
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: fui al mediodia la comida es muy buena, la atecion tambien y el precio acorde a la comida sin dudas para recomendar.
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/63953
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: Because I went there for the tango show, I thought it was a good idea to accept the offer and have dinner there too. Maybe I should have something better for the price in another place and then went only for the show.
+    date: 10-05-2009
+    user: http://mi.guiaoleo.com/members/62433
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Un lugar para almuerzo de trabajo. Solo eso.
+    date: 04-10-2008
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena comida, y servida sin demoras. Precios razonables. Buena opci\xF3n para almorzar por San Telmo en d\xEDas laborables."
+    date: 25-03-2008
+    user: http://mi.guiaoleo.com/members/38518
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: buena opcion para mediodia dia laboral, lugar acantinado, clasico y completo. todo muy equilibrado.
+    date: 17-07-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Fuimos con un grupo de compa\xF1eros del trabajo al mediod\xEDa y todos solicitamos el men\xFA ejecutivo. La atenci\xF3n es excelente, el ambiente muy bueno, hab\xEDa poca gente con lo cual se pod\xEDa estar tranquilos. La comido no demor\xF3 y el costo final estaba acorde al lugar. Recomendado. "
+    date: 02-04-2007
+    user: http://mi.guiaoleo.com/members/23960
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena. La atenci\xF3n fue esmerada. El lugar tiene buena onda. Muy bueno el show."
+    date: 21-03-2007
+    user: http://mi.guiaoleo.com/members/17795
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "La comida no es espectacular, pero tampoco mala, parece un poco \"para turistas\", pero la atenci\xF3n, el ambiente y el show son excelentes."
+    date: 25-01-2007
+    user: http://mi.guiaoleo.com/members/14216
+    ambiente_rank: excelente

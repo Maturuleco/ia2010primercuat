@@ -1,0 +1,485 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Este Dashi es superior a Dashi del Barrio Chino. Pero delivery de Dashi es superior a este a su vez. Hay que saber pedir para comer razonablemente bien y barato. De lo contrario se convierte en un lugar muy caro.
+    date: 27-06-2010
+    user: http://mi.guiaoleo.com/members/84413
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fue lamentablemente malo el servicio. El Gerente del local se neg\xF3 a vender el men\xFA de mediod\xEDa (eramos 9) aduciendo  que era una mesa reservada y armada especialmente para nosotros (imperial). Debido a lo desagradable de la situaci\xF3n, optamos por aceptar comer a la carta y no discutir, sabiendo que no volveremos a comer en este lugar."
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/37843
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: La verdad que es demasiado caro para el servicio y la calidad de sushi que brindan. Es sushi es rico, pero hoy por con tantos lugares que hay buenos de sushi no se justifica ir a este lugar.
+    date: 19-04-2010
+    user: http://mi.guiaoleo.com/members/50083
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "A mi criterio del mejor sushi de Buenos Aires. El precio esta en relaci\xF3n con la calidad. Es el \xFAnico lugar al que voy y se que va a estar bien preparado. En otros lugares de comidas japonesas he encontrado espinas de pescado o verduras mal lavadas. La barra en la que preparan los rolls me da la certeza de un correcto manejo de los pescados crudos por lo menos."
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/66092
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El menu ejecutivo es para aprovechar. Platos de muy buena calidad. Muy buen sushi. Sabroso postre por un precio razonable.
+    date: 04-01-2010
+    user: http://mi.guiaoleo.com/members/72247
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente la presentaci\xF3n del Sushi y la atenci\xF3n que recibimos.Las piezas son grandes y estan muy bien variados los combinados.volver\xE9!"
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/3351
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente la calidad de la comida y el servicio tambien, a pesar de que faltaba personal para atender las mesas como se debe, en un lugar de esta categoria. Quizas sea muy elevado el precio del sushi, pero la calidad del mismo sigue siendo muy bueno. Es ese lugar para visitar que dificilmente falle.
+    date: 07-11-2009
+    user: http://mi.guiaoleo.com/members/46906
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Delicioso sushi (y gran variedad), excelente servicio y ambiente. Demasiado caro a mi criterio, lo unico que arruina el combo.
+    date: 25-10-2009
+    user: http://mi.guiaoleo.com/members/71525
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fui en pareja,el mejor Sushi que probe hasta ahora.El mozo muy atento,nos recomendo en todo momento,para el postre nos suguirio una degustacion de mini postres que estuvo increible.Muy recomendable.
+    date: 25-09-2009
+    user: http://mi.guiaoleo.com/members/34545
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: simplemente el mejor sushi occidental de buenos aires..una carta bastante variada con rolls frios, calientes...lo mas importante...NUNCA FALTA EL ATUN ROJO en la carta...elaborado a la vista y MUY fresco..EL lugar para comer sushi
+    date: 11-09-2009
+    user: http://mi.guiaoleo.com/members/18952
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Fuimos regularmente recibidos,el mozo que nos toco,no sabe nada,le preguntas como se compone el plato y se pone a leer la carta,lo mismo que hice yo,desatento,le pedi la cuenta y tardo un monton.
+      La comida estuvo buena,rica y fresca,recien hecha.
+    date: 09-07-2009
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente, uno de los mejores sushis de Buenos Aires. Una carta muy variada, con opciones de pescados y verduras cocidas para quienes no comen sushi. Todo es fresqu\xEDsimo, el producto es impecable. Altamente recomendable. Falla un poco en el servicio, los mozos muy parcos."
+    date: 04-05-2009
+    user: http://mi.guiaoleo.com/members/12213
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente lugar!!!!! Todo fresco y rico!!!El mejor sushi junto con el suhi club
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/60653
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La calidad del sushi es exelente, el mejor de Buenos Aires sin duda, lo recomiendo.-
+    date: 02-04-2009
+    user: http://mi.guiaoleo.com/members/58169
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es bueno.El pescado es fresco y las combinaciones bien logradas.Se podr\xEDa mejorar el servicio de camareros.Es un buen lugar para comer un buen sushi. Volveremos para probar otras cosas."
+    date: 30-01-2009
+    user: http://mi.guiaoleo.com/members/12015
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: hemos ido unas cuantas veces y lo disfrutamos muchisimo. Los dias de semana siempre es mejor, ya que es mas tarnqui y el sushi les sale mejor. sin duda siempre lo tengo en cuenta a la hora de elegir comer sushi.
+    date: 10-12-2008
+    user: http://mi.guiaoleo.com/members/37396
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La verdad del mejor sushi que he comido. Siempre vuelvo.
+    date: 03-10-2008
+    user: http://mi.guiaoleo.com/members/12911
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar y la atencion buena, los wok abundantes, un buen lugar para ir con amigos o cena de a dos
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/46389
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "me esperaba m\xE1s. la atenci\xF3n medio lenta, fui con una amiga y la verdad eso de que te traigan primero a uno y despues a otro es medio flojo, porque me tuvieron que esperar a que llegara mi plato para comer. no lo recomiendo porque es medio caro para los platos que sirven, que son un tanto escasos y el sushi no estuvo de primera, el arroz algo blando y se me desarmaban cuando los tomaba con los palitos chinos"
+    date: 30-08-2008
+    user: http://mi.guiaoleo.com/members/49618
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy buena atencion, el mejor sushi que probe en argentina, ambiente muy relajado.
+    date: 27-08-2008
+    user: http://mi.guiaoleo.com/members/46099
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: mejoro mucho la atencion en el salon con varios mozos nuevos, el ambiente muy bueno, sin duda uno de los mejores resto de comida japonesa
+    date: 26-08-2008
+    user: http://mi.guiaoleo.com/members/45432
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fue mi tercera visita a los locales de Dashi y otra vez sal\xED m\xE1s que conforme con las creaciones del sushiman por combinaciones, sabores y abundancia, en particular los rolls de langostino empanado y los de salm\xF3n ahumado. Muy recomendable!"
+    date: 26-07-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      El lugar correctamente ambientado, el servicio fue bueno no tuvimos problemas pero sin nada para destacar al respecto.
+      La comida fue buena pero el precio fue algo excesivo para lo que comimos. El pianista era un buen toque pero por momento era bastante ruidoso y la musica no tenia nada que ver con el estilo del lugar. Si los precios fueran algo mas razonables hubiera estado mejor.
+      En general es aceptable comparado con similares del rubro.
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/7144
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Pense que iba a probarr el mejor sushi de Buenos aires y me parecio regular.La atencion pesima y los platos calientes nada interesante.la verdad que es carisimo por lo que te pfrecen.Casi 150 por persona y comiendo poco.
+    date: 05-07-2008
+    user: http://mi.guiaoleo.com/members/7858
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Comida Japonesa muy rica, con ceviche en la carte. Restaurante bien puesto y de aparencia nueva.
+    date: 24-06-2008
+    user: http://mi.guiaoleo.com/members/44927
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Excesivamente caro. Comida standard. Mala ambientaci\xF3n. Servicio pobre, no brindaron inforamci\xF3n sobre los platos, carecen de iniciativa para sugerencias y hasta ponen mala cara cuando les pregunt\xE1s.\r\n\
+      Cuando uno desembolsa m\xE1s de $130 por persona, sin haber tomado vino, estoy convencida que la atenci\xF3n debe ser excelente. La atenci\xF3n no es llevar y traer platos. Y no hay pianito de fondo que me haga cambiar de opini\xF3n."
+    date: 13-06-2008
+    user: http://mi.guiaoleo.com/members/632
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Excelente! Muy buena atencion, el sushi es exquisito y el ambiente muy, pero muy bueno. 
+      Voy a volver!
+    date: 19-05-2008
+    user: http://mi.guiaoleo.com/members/44985
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: me desiluciono el sushi, estaba correcto, pero nada mas.
+    date: 22-03-2008
+    user: http://mi.guiaoleo.com/members/39883
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: tipico restaurante de palermo que de gastronomia no saben nada, el sushi fue demasiaaaado lento 1 hs. y si reclamas te tratan mal, no vayan se arruinaran una noche.
+    date: 21-02-2008
+    user: http://mi.guiaoleo.com/members/4795
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Coincido con \"Si uno quiere comer comida japonesa, definitivamente no es el lugar. Si, en cambio, quer\xE9s sushi y al mismo tiempo palermotudear un poco, el lugar te va a caber: en la carta no hay mucho m\xE1s que variedades de sushi, que son buenas, pero los precios est\xE1n un 20% m\xE1s caros que cualquier restaurant japon\xE9s de categor\xEDa muy superior. Recomiendo MURASAKI, en microcentro."
+    date: 13-02-2008
+    user: http://mi.guiaoleo.com/members/3919
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Yo voy siempre que puedo, me gusta el ambiente y disfruto mucho de la musica del pianista que es excelente, especialmente los viernes cuando tenes que esperar mas de media hora una mesa. El Sushi es buenisimo, sin duda de los mejores de Baires. Lo que no me gusta es que hay muy poca distancia entre mesas, segun donde te ubican, estan casi pegadas.
+    date: 04-02-2008
+    user: http://mi.guiaoleo.com/members/39431
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Hab\xEDa concurrido otras veces y he notado que las porciones han mermado su tama\xF1o. Ha perdido la relaci\xF3n precio-calidad. La atenci\xF3n estuvo muy bien. El ambiente es muy lindo, especialmente si uno se sienta en la barra y mira al sushi-man preparar los platos mientras escucha la m\xFAsica que toca el pianista. Si vuelvo ser\xE1 por el lugar pero no por la comida."
+    date: 31-01-2008
+    user: http://mi.guiaoleo.com/members/38583
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Si uno quiere comer comida japonesa, definitivamente no es el lugar. Si, en cambio, quer\xE9s sushi y al mismo tiempo palermotudear un poco, el lugar te va a caber: en la carta no hay mucho m\xE1s que variedades de sushi, que son buenas, pero los precios est\xE1n un 20% m\xE1s caros que cualquier restaurant japon\xE9s de categor\xEDa muy superior."
+    date: 22-01-2008
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Eramos cuaro personas. Pedimos un combinado (OSAMA)y un plato caliente. Excelente eleccion. El sushi estaba muy bueno, con una presentacion muy linda. Fue mas que abundante. El ambiente es muy agradable y la atencion es buena. La unica contra es la espera. Nos dijeron 20 min pero pasaron mas de 40. Ademas paso un monton de gente que habian llegado despues que nosotros. No vayan sin reserva.
+    date: 16-01-2008
+    user: http://mi.guiaoleo.com/members/36032
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: mejoro bastante la habiamos abandonado pero le dimos una nueva oprtunidad espero sigan asi y no haya sido una casualidad estaba todo muy corecto hasta los mosos
+    date: 07-01-2008
+    user: http://mi.guiaoleo.com/members/28628
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Tiene un buen producto, aunque he probado mejores. C\xE1lido lugar."
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/37916
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 el sushi y los bastones de salm\xF3n con semillas de s\xE9samo. 10 puntos al pianista que se toca todo uno de los mejores que he escuchado,sigan asi."
+    date: 21-12-2007
+    user: http://mi.guiaoleo.com/members/37264
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "De los mejores sushis que prob\xE9 en Bs As.\r\n\
+      Servicio bueno y lugar muy lindo."
+    date: 13-12-2007
+    user: http://mi.guiaoleo.com/members/15435
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: No se si existe peor combinacion que un restaurante pretencioso, infestado de llevaplatos arrogantes y que encima cobra muy caro por un quasi-sushi mediocre.  Sashimi cortado de forma despareja e irregular, servido a la temperatura incorrecta, arroz fuera de punto.  Platos que tardan una eternidad en servirse y llevaplatos contestatarios... coronado con abuso de mayonesa, queso crema y kanikama... hace falta decir mas?
+    date: 13-12-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es agradable, los mozos tambi\xE9n, el servicio r\xE1pido, y la recepcionista muy atenta.\r\n\
+      Hay que resaltar ante todo la variedad de platos que ofrecen, y no s\xF3lo de sushi. La longitud de la carta de vinos tambi\xE9n es llamativa. \r\n\
+      La tabla de sushi que pedimos estaba bien. Fresco y variado. Muy buena presentaci\xF3n en una especie de puentecito.\r\n\
+      As\xED y todo creo que el precio resulta un poco alto injustificadamente."
+    date: 13-11-2007
+    user: http://mi.guiaoleo.com/members/31361
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Creo sin lugar a dudas que es el mejor sushi que he comido en Buenos Aires, y la atenci\xF3n es muy c\xE1lida. Me sorpredio mucho la calidad interpretativa del pianista, fue muy agradable escucharlo."
+    date: 30-10-2007
+    user: http://mi.guiaoleo.com/members/34838
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Lindo ambiente! un buen lugar para comer bien y pasar un buen momento! sigan asi!
+    date: 09-08-2007
+    user: http://mi.guiaoleo.com/members/29221
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hay pocos lugares en Buenos Aires a donde la cuenta que uno paga se corresponde con el nivel de la comida y la atenci\xF3n. Este es uno de los restaurantes a donde si sucede. Comimos excelentemente. Ir a comer a un restaurante Japon\xE9s no es solamente ir a pedir sushi, y en Dashi uno puede variar sin miedo y pedir otros platos orientales como el \"Tempura de langostinos jumbo\" que es muy recomendable. "
+    date: 11-07-2007
+    user: http://mi.guiaoleo.com/members/22919
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar me gusto mucho! sin dudas lo recomiendo. \r\n\
+      Tanto los platos como el sushi son excelentes. Fui con  4 personas y todos quedamos encantados con la comida y el ambiente. La cena se disfruto mas con la m\xFAsica en vivo del pianista. en cuanto al servicio considero que no condice con la calidad de la comida y el ambiente, el mozo fue un poco descort\xE9s. Si bien era un d\xEDa de semana el sal\xF3n estaba completo, recomiendo reservar."
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/24524
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Felicitaciones al sushiman roberto que est\xE1 en la barra, adem\xE1s de ser un maestro en el arte del sushi, es muy amable y se puede dialogar de la comoda y explica todo. Lo recomiendo, me encant\xF3. Hacia mucho que no com\xEDa tan bien."
+    date: 20-04-2007
+    user: http://mi.guiaoleo.com/members/9712
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es la primera vez que iba y me decepcion\xF3 porque me hab\xEDan comentado que era un lugar bueno, no me pareci\xF3 que el precio se justifique ya que todo es regular: comida, atenci\xF3n y ambiente. El tempura que ped\xED estaba demasiado aceitoso, la presentaci\xF3n era exagerada, a la mujer con la cu\xE1l fu\xED le trajeron un sushi equivocado y hubo que esperar innecesariamente el que realmente hab\xEDa pedido; nos toc\xF3 una mesa al lado de un cuadro con elefantes realmente espantoso; la cerveza asahi no vale lo que cuesta; el helado de t\xE9 verde de postre era agradable aunque el de s\xE9samo que pidi\xF3 mi amiga me pareci\xF3 demasiado \"novedoso\". En res\xFAmen decepcionante, ten\xEDa expectativas de cenar a un nivel superior por lo que me hab\xEDan comentado pero no se cumplieron para nada."
+    date: 29-03-2007
+    user: http://mi.guiaoleo.com/members/21585
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El mejor sushi de Buenos Aires.
+    date: 08-03-2007
+    user: http://mi.guiaoleo.com/members/17572
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "A mi criterio uno de los mejores lugares de sushi en Buenos Aires. Claro que hay algunos otros. Recomiendo las empanaditas japonesas (Gioza) y el mousse c\xEDtrico de postre. El ambiente es agradable y lo remat\xF3 el pianista con antiguos covers. La atencion es buena pero los mozos podrian esforzarse un poco mas en estar mas atentos a las mesas. Las sillas reclinables super comodas. Recomiendo reservar si quieren buena ubicacion, las mesas pegadas a los ventanales son un must si buscan ver y ser vistos. Voy seguido con amigos y volveria."
+    date: 01-03-2007
+    user: http://mi.guiaoleo.com/members/7438
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida estuvo sabrosa y las porciones fueron adecuadas. La atencion deja que desear salvo para los famosos que asisten diariamente por estar frente a un canal de TV. "
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/5619
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida es buena aunque las porciones son algo escasas. La decoraci\xF3n y m\xFAsica son muy buenas. \r\n\
+      Sin embargo, los mozos son tan amargos... siempre serios, parcos, muy musculosos eso s\xED, explican parcamente los platos. \r\n\
+      Te amargan la comida. Y es demasiado caro. No lo vale."
+    date: 19-01-2007
+    user: http://mi.guiaoleo.com/members/2267
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es el mejor sushi de Buenos Aires. El ambiente es bueno y la atenci\xF3n conmigo siempre fue muy buena, aunque lei comentarios de atenci\xF3n mala, conmigo los chicos siempre son atentos y amables (\xBFSer\xE1 porque voy bastante seguido?). No tengo quejas y repito, el mejor sushi de la ciudad sin dudas."
+    date: 04-01-2007
+    user: http://mi.guiaoleo.com/members/16793
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      La comida es muy rica, los platos con sabores muy marcados. 
+      A veces tardan un poco en traerte la comida. 
+      Esta bueno, pero he comido en lugares mejores.
+    date: 02-01-2007
+    user: http://mi.guiaoleo.com/members/8860
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me lo recomendaron como el mejor lugar de sushi.\r\n\
+      Mi mama pidi\xF3 una entrada catalogada en el menu como caliente y era fr\xEDa, la tuvimos que cambiar y notificar el error. \r\n\
+      El sushi es bueno y nada m\xE1s, pero tiene algo malo: las piezas de niguiri son exageradamente grandes y una pieza de sushi debe poder comerse de un bocado. \r\n\
+      Los niguiris de pescado blanco no eran muy tiernos. Probe otro plato de entrada que tambi\xE9n me pareci\xF3 regular; para nada arm\xF3nico.\r\n\
+      El servicio es amable pero te miran mucho, deber\xEDan estar atentos pero no para tanto.\r\n\
+      El ambiente no me pareci\xF3 lindo. La barra donde preparan el sushi est\xE1 bien.\r\n\
+      En fin, a mi me pareci\xF3 que la comida no supera a los dem\xE1s lugares de sushi conocidos, pero si lo supera en precio; muy caro."
+    date: 19-12-2006
+    user: http://mi.guiaoleo.com/members/6823
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Malisima la antenci\xF3n, el mozo anot\xF3 en un papel mirando para otro lado y luego nos trajo solamente el combo DASHI, luego tardaron 40 minutos mas para traer el sashimi, y tuvimos que esperar 15 minutos una segunda gaseosa (muy malo para el paladar), realmente pesima la atenci\xF3n. Sin embargo el ambiente es bueno y el sushi es excelente."
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/14002
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El sushi que ofrecen es muy bueno, es muy clasico japones, pero de muy bunea calidad, casi siempre hay at\xFAn rojo, lo cual es poco usual en los resto de sushi, el servicio es bueno, el ambiente es tipico oriental con un fondo de piano bastante agradable, pero muy tranquilo para mi gusto. Los platos principales son muy buenos, se recomienda, sobre todo el wok de frutos de mar. Para volver."
+    date: 24-11-2006
+    user: http://mi.guiaoleo.com/members/13364
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El mejor sushi. El pescado es de muy buena calidad y vale la pena. S\xED, como dicen otros, el servicio ya no es tan bueno como antes pero, la verdad, yo me lo banco para comer sushi tan rico. Un gran plus del Dashi de Palermo es que toda la parte de arriba es para fumadores."
+    date: 18-11-2006
+    user: http://mi.guiaoleo.com/members/14032
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comimos muy bien. \r\n\
+      Platos abundantes y todo riqu\xEDsimo, inclu\xEDdos los postres y la variedad de t\xE9s al final. \r\n\
+      Es amplio y muy bien ambientado. El mozo nos recomend\xF3 adecuadamente distintos platos. El \xFAnico punto en contra fueron los casi cuarenta minutos que tardaron en procesar la tarjeta al pagar."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/13233
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Ya no se come tan bien como antes. El servicio es decididamente malo. Falta humildad. B\xE1jense del pedestal que ya son uno m\xE1s del mont\xF3n."
+    date: 07-10-2006
+    user: http://mi.guiaoleo.com/members/12826
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me parecio muy bueno el sushi, el rainbow rol es un verdadero manjar, se los recomiendo a todos. La atenci\xF3n es muy buena y el ambiente es agradable."
+    date: 01-10-2006
+    user: http://mi.guiaoleo.com/members/12553
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La segunda botella de vino tuvimos que pedirla tres veces. Adem\xE1s es car\xEDsimo. No volver\xEDa a menos que Jennifer Anniston me lo pidiera."
+    date: 01-09-2006
+    user: http://mi.guiaoleo.com/members/11752
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente lugar para comer sushi. Es c\xF3modo y la atenci\xF3n no es diferente a otros restaurantes. Un dato, en dashi el at\xFAn cocido tiene buen sabor, no es de lata como comunmente se usa en otros lugares."
+    date: 23-08-2006
+    user: http://mi.guiaoleo.com/members/11496
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El sushi est\xE1 siempre rico y fresco. Recomendable."
+    date: 17-08-2006
+    user: http://mi.guiaoleo.com/members/11208
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Estuvo todo excelente salvo que tuvieron un error grav\xEDsimo. \r\n\
+      Pedimos una botella de vino y cuando quisimos pedir una segunda el mozo nos dijo que no ten\xEDan m\xE1s de ese vino. Un error muy grave para un restaurante."
+    date: 28-07-2006
+    user: http://mi.guiaoleo.com/members/10182
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Se come muy bien, pero es una verguenza que tengan un sector no fumador de dos mesas y encima las peores, al lado de la puerta. Falta que pongan otra al lado del ba\xF1o."
+    date: 13-07-2006
+    user: http://mi.guiaoleo.com/members/6239
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El sushi es el mejor de Buenos Aires junto con el del Jard\xEDn Japon\xE9s y Dominga. \r\n\
+      La atenci\xF3n es regular y el precio es una locura, totalmente injutificado m\xE1s alla de lo bueno de su cocina. \r\n\
+      Cuando est\xE1 el pianista el lugar se hace aun mejor."
+    date: 03-07-2006
+    user: http://mi.guiaoleo.com/members/9732
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy caro para lo que es, el sushi es rico pero no vale lo que dice la cuenta.
+    date: 15-06-2006
+    user: http://mi.guiaoleo.com/members/10684
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Cobran cubiertos, la comida es muy cara, no es nada del otro mundo. El servicio es muy lento.
+    date: 27-05-2006
+    user: http://mi.guiaoleo.com/members/8896
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Deliciosa la comida, para recomendar.
+    date: 30-04-2006
+    user: http://mi.guiaoleo.com/members/8267
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Notable baja en la calidad del sushi comparado al nivel de cuando abrieron. En cuanto al precio, este restaurante es excesivamente caro para la calidad de sushi que sirven.
+    date: 30-03-2006
+    user: http://mi.guiaoleo.com/members/7581
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La cocina est\xE1 bien.\r\n\
+      Tiene calidad, las especialidades tienen sabor y son frescas.\r\n\
+      En algunos platos es escasa la cantidad, por el precio que cobra no deber\xEDa ser as\xED.\r\n\
+      El sevicio es irregular, tienen sus d\xEDas los meseros.\r\n\
+      El ambiente es muy bueno pero a veces el ruido invade la mesa."
+    date: 01-02-2006
+    user: http://mi.guiaoleo.com/members/5806
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Sin lugar a dudas el mejor sushi de la ciudad. Buena atenci\xF3n y ambiente cool."
+    date: 21-09-2005
+    user: http://mi.guiaoleo.com/members/971
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Como Sushi desde hace 25 a\xF1os, este es el mejor sushi de buenos aires."
+    date: 28-05-2005
+    user: http://mi.guiaoleo.com/members/1126
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "El lugar esta bien puesto, la comida es buena, la carta es para desmayarse por los precios, y la atenci\xF3n... \xBFno tienen peores mozos para atender? Patovicas (ahora hay uno nuevo, flaquito, colgado como ara\xF1a del techo, que tuve que llamar para que me traiga el menu a los 10' de estar sentadas) estirados, que se creen dioses. No dan bolilla, apenas si explican y a veces, s\xF3lo a veces, intentan una sonrisa. \r\n\
+      P\xE9sima la atenci\xF3n. Y adem\xE1s, aumentaron y sacaron la bebida del men\xFA de mediod\xEDa."
+    date: 09-05-2005
+    user: http://mi.guiaoleo.com/members/1870
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Ambiente pretencioso, mozos musculosos y sushi bastante bueno - lugar para ver y ser visto.  Si uno pasa de la hora de cierre, se ocupan casi de echarlo...
+    date: 06-04-2005
+    user: http://mi.guiaoleo.com/members/1031
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Caro, rico y pretencioso!
+    date: 18-02-2005
+    user: http://mi.guiaoleo.com/members/1985
+    ambiente_rank: bueno

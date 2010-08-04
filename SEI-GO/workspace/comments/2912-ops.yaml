@@ -1,0 +1,66 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy lindo lugar en Puerto Madero. Comimos pizza muy rica con cerveza. Muy satisfechos, muy buena atencion y pantalla gigante.
+    date: 28-05-2010
+    user: http://mi.guiaoleo.com/members/83357
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Espectacular el salmon. Un detalle importante de la atencion : el mozo muy atento y nos dijo que no habia problema en servirnos pese a que estaban por cerrar, cosa no muy frecuente en los restaurantes. Lindo lugar en Puerto Madero."
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/81231
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad que \xEDbamos seguido porque se com\xEDa bien, pero la \xFAltima vez, nunca nos trajeron la comida (1 hora de demora para una pizza de R\xFAcula y queso) y ve\xEDamos como a los demas les llevaban la misma pizza que hab\xEDamos ordenado nosotros, encima nos quisimos ir solo abonando lo que ya hab\xEDamos consumido y nos quer\xEDan cobrar la pizza que ni siquiera estaba en el horno!"
+    date: 12-01-2010
+    user: http://mi.guiaoleo.com/members/48059
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: 45 minutos para traernos las bebidas. Un desastre la atencion. La comida, nada del otro mundo.
+    date: 09-12-2009
+    user: http://mi.guiaoleo.com/members/38786
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Excelente ubicacion,ambientacion y platos muy vistosos y exquisitos,sabrosos,abundantes y en precio.
+      Atencion esmerada,volvere por las pizzas y empanadas,muy buena vista,todo fresco y me parecio en precio.
+      Para volver con amigos familia,pareja o negocios
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui a desayunar en base a las recomendaciones de los usuarios de Guia Oleo. Muy buenas opciones a muy buenos precios (poco comunes teniendo en cuenta la zona). Voy a volver para probar las pizzas y pastas, ya que poseen muchas variedades. Un lindo rinc\xF3n para distenderse un rato."
+    date: 12-09-2009
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar. El servicio es muy bueno, y las pizzas tambi\xE9n. Y en un buen ambiente. Absolutamente recomendable, ya he ido varias veces y nunca me han defraudado, no s\xF3lo con las pizzas sino inclusive al ir simplemente a tomar algo."
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/11506
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encanta este lugar sobretodo para desayunar, con unas mermeladas riquisimas y mil opciones de desayunos donde es muy buena la relaci\xF2n precio calidad sobre todo en este barrio d\xF2nde no siempre es f\xE0cil encontrar esta ecuaci\xF2n.\r\n\
+      Para lo que es pizzas y empanadas si bien el precio es elevado utilizan productos de primera y las empanadas son gigantes en tama\xF1o y con mucho relleno.\r\n\
+      Los menu\xE8s de mediod\xECa tienen muy buena pinta, adem\xE0s destaco que para fechas claves siempre se ponen las pilas decorando o preparando algo alusivo. En verano arman una barra en la vereda muy interesante."
+    date: 03-10-2008
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Opci\xF3n muy recomendable en la zona de Madero ya que es un lugar alegre, con buenas opciones y precios m\xE1s que razonables.  Lo mejor que tiene es el desayuno."
+    date: 03-10-2008
+    user: http://mi.guiaoleo.com/members/2996
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena ubicaci\xF3n, ambiente c\xE1lido, muy original la forma de servir la comida, y super cool la vajilla que usan para el tapeo. La mesa con delicatessen le da el toque de distinci\xF3n, no se lo pierdan!! "
+    date: 22-08-2007
+    user: http://mi.guiaoleo.com/members/30209
+    ambiente_rank: muy bueno

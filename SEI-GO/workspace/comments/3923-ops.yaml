@@ -1,0 +1,37 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "el lugar es super tradicional parece una estancia y el ambiente es muy lindo.\r\n\
+      La carne es excelente. Los mozos son muy r\xE1pidos y el servicio en gral. es muy bueno.\r\n\
+      Est\xE1 lleno de turistas y el men\xFA ejecutivo es completo y de excelente nivel"
+    date: 06-05-2010
+    user: http://mi.guiaoleo.com/members/78042
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy Buena Parrilla centrica, a pasos del obelisco, las empanadas de entrada son ricas como para esperar un matambre al spiedo unico, por lo sabroso y tierno con acompa\xF1amiento de abundante ensalada y muy buenas papas fritas. La atencion es muy dedicada y el precio acorde al servicio. Recomendable."
+    date: 09-03-2010
+    user: http://mi.guiaoleo.com/members/76078
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La parrillada para dos personas es cara y abundante, pero no buena, los chinchulines carbonizados, algunos cortes de carnes \"arrebatados\" y mucho pollo. El matambre de cerdo a la criolla es excelente y la tortilla a la espa\xF1ola estupenda pero diminuta, ideal como entrada. La carta de postres es casi buena.\r\n\
+      El ambiente es enorme, mal iluminado y muy viejo.\r\n\
+      Los mozos conocen muy bien su trabajo. \r\n\
+      Un dato a destacar es que a todos los comensales los reciben con una empanada de carne invitaci\xF3n de la casa. \r\n\
+      Un lugar bueno para turistas pero no tanto para nosotros."
+    date: 05-01-2010
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Parrilla tradicional donde se come sencillamente.La atenci\xF3n es buena pero lo realmente desagradable es el humo que hay en el ambiente que no lo hace para nada confortable como para extender la velada m\xE1s tiempo.Detalle que a trav\xE9s de los a\xF1os no mejor\xF3."
+    date: 05-03-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Uma parilla tradicional de Bas. At\xE9 \xE9 um tanto tur\xEDstica, mas continua igual h\xE1 30 anos! A mesma qualidade e atendimento. Penso que vale a pena conhecer, principalmente ao medio dia, pois a comida \xE9 farta, boa, e por um pre\xE7o compat\xEDvel ao que se prop\xF5e!"
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/9762
+    ambiente_rank: bueno

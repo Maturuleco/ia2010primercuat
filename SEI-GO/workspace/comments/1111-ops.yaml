@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El caf\xE9 y las tortas son ricas,el ambiente algo ruidoso y la atenci\xF3n buena pero algo lenta "
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/25646
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Comida muy buena y sana.
+    date: 10-12-2005
+    user: http://mi.guiaoleo.com/members/5273
+    ambiente_rank: excelente

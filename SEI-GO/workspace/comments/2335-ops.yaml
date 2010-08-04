@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Siempre pedimos Delivery o pasamos a retirar. Nunca nos ha defraudado. Comida muy fresca, abundante y precio muy bueno.
+      100% recomendable para el que gusta de una comida china bien cuidada a buen precio.
+    date: 04-04-2010
+    user: http://mi.guiaoleo.com/members/77930
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me sorprendio la rapidez del servicio, lo suculento de la comida y el m\xF3dico precio. Muy recomenadable."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/73907
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Utilizo bastante la opci\xF3n delibery y es de lo mejor que conozco en comida china. Los platos llegan a tiempo, a temperatura correcta, son abundantes y buenos los precios."
+    date: 22-11-2008
+    user: http://mi.guiaoleo.com/members/30951
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Los que cocinan y atienden el lugar son chinos y eso hace que la comida es muy sabrosa y las porciones abundantes. Los precios son muy buenos. Quiz\xE1s la decoraci\xF3n del lugar es un poco precaria."
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/35547
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena comida, abundante y precios econ\xF3micos. El ambiente deja mucho que desear, deber\xEDan cuidar un poco este aspecto, ya que la comida lo vale. "
+    date: 10-09-2007
+    user: http://mi.guiaoleo.com/members/6647
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es muy buena, y la porcion es muy abundante y los camarones son grandes
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/25687
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Me ocurri\xF3 algo no muy agradable, fue en el local que tienen el Monroe. Lamento el hecho ya que soy un cliente del local desde el comienzo de este. "
+    date: 04-05-2007
+    user: http://mi.guiaoleo.com/members/22671
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La relaci\xF3n precio/calidad es muy buena."
+    date: 13-08-2006
+    user: http://mi.guiaoleo.com/members/11164
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar no es muy lindo, pero las porciones son abundantes y te atienden bien. Hay buena onda y es muy barato.
+    date: 20-07-2006
+    user: http://mi.guiaoleo.com/members/10338
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es bueno, abundante y muy chino. Leg\xEDtimo. "
+    date: 14-07-2006
+    user: http://mi.guiaoleo.com/members/10117
+    ambiente_rank: muy bueno

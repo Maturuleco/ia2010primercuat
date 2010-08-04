@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es lindo, aunque impacta mas desde afuera. Los platos bien presentados y la comida es rica, el pan parecia viejo. La atenci\xF3n no era demasiado atenta, esperaba mas del lugar."
+    date: 16-04-2010
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "A pesar de ser un restaurante de hotel, el ambiente logra una adecuada intimidad y calidez, la comida es buena y los platos muy bien presenetados, la atenci\xF3n correcta.  Volver\xEDa sin dudas."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Si bien el lugar esta muy bien puesto y tiene un ambiente agradable, impacta mucho mas desde la calle que una vez adentro. La comida es correcta, nada muy destacable. La atenci\xF3n podr\xEDa ser mejor. En s\xEDntesis, un lugar que parece mucho mas de lo que es."
+    date: 14-08-2008
+    user: http://mi.guiaoleo.com/members/25602
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar es lindo y la comida estaba bien. Tardo un poco si bien no habia tanta gente.
+    date: 04-06-2008
+    user: http://mi.guiaoleo.com/members/41367
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Pedi un cafe doble con una medialuna. El precio fue 17 pesos. CADA medialuna sale 7 pesos, me parece una exageracion, es la verdad un asalto a la buena fe, ya que no se fija uno el precio de una medialuna en el menu antes de pedirla. Sinceramente uno no tiene donde quejarse, sino habria que hacerles una denuncia. Lastimoso el hecho, ya que iba siempre los viernes por la manana a desayunar y salia alrededor de 11 pesos, pero no 17.
+    date: 04-04-2008
+    user: http://mi.guiaoleo.com/members/42911
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Los precios me parecieron exagerados para la calidad de comida. El lugar es tranquilo eso es bueno para poder conversar. Pero la comida no me pareci\xF3 muy artesanal."
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/40037
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lugar agradable,pertenece a un hotel pero est\xE1 separado del ingreso de pasajeros,la comida es buena, no as\xED el servicio. Me cobraron dos veces las bebidas en la cuanta."
+    date: 05-01-2008
+    user: http://mi.guiaoleo.com/members/7629
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente ambiente con buena decoraci\xF3n y  m\xFAsica agradable. Ideal para ir en pareja. "
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/36049
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Todo fue de nuestro agrado.\r\n\
+      El lugar muy agradble y tranquilo; la comida muy buena y la atenci\xF3n esmerada."
+    date: 30-09-2007
+    user: http://mi.guiaoleo.com/members/30492
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Nos recibieron con una copita de champagne frutado y nos atendieron muy bien. Muy bien presentados los platos y fundamentalmente muy rico todo.
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/23470
+    ambiente_rank: muy bueno

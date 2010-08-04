@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La pizza es rica pero nada especial. Un poco salada para mi gusto.
+    date: 02-03-2008
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Il Vicolo es una buena opci{on para pedir a domicilio( un poco mas que buena, para delivery bueno, pero en esta ciudad hay muchas opciones de buenas pizza como para ponerle una estrella mas. Bueno m\xE1s, si vivis cerca pedila, y seguro quedas conforme."
+    date: 25-01-2008
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "excelente, han realizado el sevicio para el egreso de mi hijo en el colegio, no solo la comida, sino el trato de la/os camareros fue cordial , amable, e hicieron de esa fiesta , una recuerdo hermoso, ya que nadie se quedjo por nada !!!Todos quedaron mas que conformes !!! gabriela de Nu\xF1ez"
+    date: 05-01-2008
+    user: http://mi.guiaoleo.com/members/37775
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El servicio de pizza party es realmente excelente, destaco la atenci\xF3n super cordial y esmerada de los mozos y no dejaron de cumplir en nada de lo que prometieron.\r\n\
+      Muy buena relaci\xF3n precio/calidad. Espero que sigan as\xED."
+    date: 13-11-2007
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pizza exquisita y el servicio muy bueno!\r\n\
+      Para recomendar! "
+    date: 20-10-2007
+    user: http://mi.guiaoleo.com/members/21904
+    ambiente_rank: muy bueno

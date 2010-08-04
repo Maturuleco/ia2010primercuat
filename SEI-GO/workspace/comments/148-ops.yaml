@@ -1,0 +1,187 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "El mi\xE9rcoles tuvimos el restaurant para nosotros solos literlamente,disfutamos la tanquilidad del espacio.Lo que tendr\xEDan que solucionar la incomodidad de las sillas de madera, al mejor estilo tortura china, agreg\xE1ndoles un almohad\xF3n. El pato ahumado fresco y delicioso sabor taiwan\xE9s,la sopa de cordero original ,s\xF3lo apto para seguidores del picante.Para cerrar, los precios asequibles al bolsillo."
+    date: 09-06-2010
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El pato estuvo delicioso y el salm\xF3n tambi\xE9n. El arr\xF3z saltado con huevos y vegetales un poco insulso, pero se dejaba comer. La ambientaci\xF3n es muy linda y la distancia entre las mesas, \xF3ptima. Lo negativo es la ausencia en el sal\xF3n de vinos y whisky / cognac que est\xE1n en carta."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/73096
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui invitada a un banquete de cumplea\xF1os y puedo decir que fue una experiencia inolvidable.Mas de 10 platos diferentes, todos exquisitos. El ambiente y el servicio son buenos, pero la calidad de la comida me parece muy buena, con algunos platos que me gustan mas que otros, obviamente. Sigo recomendando el pollo a los tres aromas y ahora tambi\xE9n la sopa agripicante. Para tener en cuenta."
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Pedimos unos arrolladitos de carne y arroz de la casa con carne y pollo que nos gust\xF3 mucho. El servicio es bueno. El ambiente es lo mejor. El precio: aproximadamente $60 (entrada, plato principal, bebida sin alcohol y postre)."
+    date: 23-02-2010
+    user: http://mi.guiaoleo.com/members/60905
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar muy agradable. La atenci\xF3n es muy buena y la comida se disfruta"
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fuimos con mi novio y amigos y este lugar nos encanto. A diferencia de otros lugares de la zona, muy tranquilo, espacioso y bien ambientado. La atencion fue buena. Los platos demoraron un poco pero valio la pena la espera. Muy recomendable el pollo a la Norma Aleandro. Mas alla de lo gracioso que pueda parecer el nombre, sin duda fue la estrella de la noche. Volveremos pronto.
+    date: 05-02-2010
+    user: http://mi.guiaoleo.com/members/29384
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "una total decepci\xF3n. la atenci\xF3n mal\xEDsima, y la comida no se diferenci\xF3 en nada de los otros restaurantes chinos baratos de la zona. por esos misterios irresolutos, la cuenta lleg\xF3 antes que la comida, que se tard\xF3 unos largos 50 minutos en llegar, y estaba tibia y aceitosa. no vuelvo."
+    date: 01-01-2010
+    user: http://mi.guiaoleo.com/members/57883
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fu\xED a cenar con mi novia, pedimos dos platos, y una entrada, que llegaron luego de avisarle por el pedido tras 45min de espera. Cuando lleg\xF3 la comida, solo trajeron un plato de los dos que pedimos, por lo que tuvimos que repetirle el pedido del plato faltante y esperarlo mientras se enfriaba lo que arrimaron a la mesa. Una decepci\xF3n, lo que planeamos como una cena romantica de inicios de a\xF1o... termin\xF3 siendo como una larga espera de colectivo a medianoche"
+    date: 01-01-2010
+    user: http://mi.guiaoleo.com/members/57086
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Si te gusta el barrio chino y ese ambiente desconocido para los argentinos, este es un buen restaurante para conocer otros sabores. Muy recomendable
+    date: 22-11-2009
+    user: http://mi.guiaoleo.com/members/72316
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Lejos el mejor restaurant del barrio chino, lejos tambi\xE9n el m\xE1s caro, aunque vale cada peso invertido. La calidad y frescura de los platos hechos al momento (demoran algo pero vale la pena). Acompa\xF1a una buena decoraci\xF3n, tranquila con mesas bien separadas, algo imposible en el resto. La carta de vinos olvidable y caros sin sentido, a\xFAn no s\xE9 porqu\xE9 cuesta tanto implementar el descorche del vino que uno lleve. Ojo, sean claros con lo que piden, no s\xE9 sino entienden bien o se hacen (me avisaron), pero ante la duda traen siempre pollo, el cerdo que pedimos brill\xF3 por su ausencia, pero todo bien"
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/62936
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es muy agradable, pidan ya sea pollo o carne o mariscos pero \"a la ting ting tang\" asi les traen una plancha a las mesa que inunda en restaurante de humo, muy divertido. El precio un poco caro para lo que es la comida, pero est\xE1 bien para pasar una noche diferente."
+    date: 12-10-2009
+    user: http://mi.guiaoleo.com/members/45050
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar hermoso, en pleno coraz\xF3n del barrio chino, este restaurante taiwan\xE9s se destaca por la decoraci\xF3n. La comida no es nada del otro mundo y te suelen decir de varias cosas de la carta que ya se le acabaron, pero la decoraci\xF3n y la relaci\xF3n calidad/precio lo valen. Es para volver"
+    date: 05-08-2009
+    user: http://mi.guiaoleo.com/members/51945
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "la ambientaci\xF3n es m\xE1s linda y tranquila que la mayor\xEDa de los cantinas chinas de la zona, en cuanto al sabor de la comida, no es demasiado diferente al resto de las mismas lo cual significa, sabrosa y de platos generosos."
+    date: 08-11-2008
+    user: http://mi.guiaoleo.com/members/53497
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Espectacular el pollo tres aromas, excelente el arroz con huevo y el cerdo al curry, tambien excelentes los mariscos con pulpo, calamar, calamarettis, cangrejo, camarones y mas. Ambiente y servicio bien. Felicitaciones para el chef. En total, para volver.
+    date: 24-08-2008
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente ambientaci\xF3n, sobria y muy agradable. La comida es muy sabrosa y est\xE1 muy bien presentada. Los platos son abundantes y se pueden compartir, ideal para pedir cosas diferentes y poder probar parte de la amplia variedad del men\xFA. En cuanto a los vinos, la carta deber\xEDa ofrecer alguna opci\xF3n m\xE1s econ\xF3mica y postres tampoco tienen muchos, pero las entradas y los platos principales compensan ampliamente."
+    date: 04-08-2008
+    user: http://mi.guiaoleo.com/members/24472
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La ambientacion es excelente, buena decoracion y \xF1a atencion acorde al lugar. Si bien la comida es buena no tiene relacion con el precio, un poco caro."
+    date: 01-08-2008
+    user: http://mi.guiaoleo.com/members/36475
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El lugar... que se puede decir... es una maravilla, con una ambientacion refinada y con detalles de alta sofisticacion, la comida es riquisima, apenas entre me sirvieron antes de la entrada unas frituras con chop suey como servicion de mesa... el precio es un tanto elevado, pero tampoco demasiado, y el lugar lo vale. Sali muy conforme. Para recomendar!
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui con un grupo amigos y nos dieron uno de los box individuales, muy c\xF3modo y privado. La comida era fresca y muy buena. Conviene pedir varios platos y compartirlos, para poder probar de todo un poco. El servicio fue algo lento, aunque muy amable. La carta de vinos tiene algunas perlitas dificiles de encontrar en otros restaurantes, de los a\xF1os 2002, 2003 y 2004, a buen precio. Para volver."
+    date: 28-06-2008
+    user: http://mi.guiaoleo.com/members/6696
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida, si bien fue muy rica y abundante (compartimos un cordero \"Taiw\xE1n\" y un arroz con huevo entre dos), quiz\xE1s no descolle tanto como el lugar. La decoraci\xF3n refinada, las mesas separadas por espacios amplios y biombos de madera, farolitos rojos y otros detalles, hacen que sea el lugar ideal para relajarse, mantener cierta intimidad y almorzar o cenar con mucha calidez con una luz tenue pero adecuada y en medio de una excelente ambientaci\xF3n."
+    date: 08-06-2008
+    user: http://mi.guiaoleo.com/members/28106
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un poco mejor al resto de lugares de la zona (excepto budda bar)en cuanto a ambientacion. La comida tambien es un poco mas elaborada a la mayoria de los rest\xF2 chinos. Muy recomendable el t\xE9 frio y la sopa con tofu hyevo y picante muy buena para el invierto. Bueno el pato con jengibre y regular los fideos de arroz con mariscos. Lugar bueno, 6 o 7 ptos"
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hsiang Ting-Tang  naci\xF3 , en lo que ser\xEDa una segunda ola del \"Chinatown\".\r\n\
+      Originalmente , comida Taiwanesa, y sus due\xF1os, tambien lo eran de la casa de regalos ,en donde ahora funciona Palitos ( al lado )\r\n\
+      De hecho...el pollo tres aromas se come en ambos restaurantes ( exquisito ) Hay Pato..hay cordero...\r\n\
+      Pero s\xED, Hsiang Ting-Tang  es uno de los restaurantes m\xE1s bonitos de la zona..sin duda.\r\n\
+      Y sus precios, un poco m\xE1s elevados."
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/38971
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Como dicen otros usuarios, la calidad de su comida es un poco mejor que el promedio de la zona, pero a su vez sus precios tambi\xE9n lo son, por lo que cas\xED se iguala al resto. Atenci\xF3n normal, lugar tambi\xE9n. Pero hay pocos lugares de comida china con gran atenci\xF3n( a mi me gusta m\xE1s la casita china por la imprenta en todo).\r\n\
+      En definitiva de lo mejorcito de la zona, con comida china y un tanto fusi\xF3n en algunos platos( como bien dijeron algo thai)."
+    date: 17-01-2008
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se diferencia de los dem\xE1s chinos del barrio. La comida est\xE1 mejor elaborada y es uno de los mejores ambientados de la zona, con una m\xFAsica t\xEDpica muy agradable. Los precios son, apenas m\xE1s elevados que sus vecinos. Nos atendieron r\xE1pidamente y bien. Para pasar un momento tranquilo y disfrutar de los tradicionales sabores de la comida oriental. "
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/14175
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena, pero el premio se lo lleva la ambientaci\xF3n del lugar. La m\xFAsica es t\xEDpica y agradable, y se mantiene a un volumen adecuado para poder mantener una conversaci\xF3n. El precio de los platos es un poco elevado. Pedimos tres carnes diferentes al \"Volcan\": pollo, cerdo y cordero. El cordero ven\xEDa en menor cantidad, a pesar de que lo cobran m\xE1s caro, y adem\xE1s me result\xF3 un tanto grasoso. La carne de cerdo fue mejor. El servicio no es malo y las mozas son agradables; pero le falta, por ejemplo, nos trajeron la guarnici\xF3n (arroz) unos minutos despu\xE9s que los platos que acompa\xF1aban. En s\xEDntesis, considero que la comida es mejor que en la mayor parte de los establecimientos que atienden sobre Arribe\xF1os. La ambientaci\xF3n es muy superior a la de cualquier otro (sin contar los m\xE1s modernosos como el Buddha B.A.). Sin embargo, la relaci\xF3n precio-calidad en cuanto a comida y servicio, no lo separa del resto. "
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/9057
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida, el servicio y el precio son buenos. Tiene mucho de comida taiwanesa (no es una de las ocho escuelas de comidas chinas). "
+    date: 03-02-2007
+    user: http://mi.guiaoleo.com/members/17526
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente comida y el ambiente supera a todos los restaurantes de comina china, que existe en Argentina. "
+    date: 03-01-2007
+    user: http://mi.guiaoleo.com/members/15005
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es buen\xEDsimo y los platos todos exquisitos. Un problema: \xE9ramos cinco y a cada uno le trajeron su plato en momentos diferentes, cuando lleg\xF3 el \xFAltimo el primero ya quer\xEDa el postre."
+    date: 01-01-2007
+    user: http://mi.guiaoleo.com/members/16252
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena ambientaci\xF3n, el servicio no es muy eficiente, son atentos pero hay s\xF3lo dos personas para todo el sal\xF3n. \r\n\
+      La comida no difiere en absoluto con lo que se come en cualquier otro restaurante de menor precio."
+    date: 15-07-2006
+    user: http://mi.guiaoleo.com/members/6274
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Una cocina excelente, una atenci\xF3n regular. La especialidad: El pato."
+    date: 28-04-2006
+    user: http://mi.guiaoleo.com/members/8049
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es la misma cocina que Palitos, que se encuentra al lado.
+    date: 05-02-2006
+    user: http://mi.guiaoleo.com/members/5706
+    ambiente_rank: muy bueno

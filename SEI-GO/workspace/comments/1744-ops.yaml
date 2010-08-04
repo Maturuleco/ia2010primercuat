@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Extremadamente cara las bebidas... las comidas convienen los combos, porque tambi\xE9n es caro"
+    date: 17-05-2010
+    user: http://mi.guiaoleo.com/members/48059
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la suprema! crocante y rica!!! \r\n\
+      \r\n\
+      La pizza me pareci\xF3 demasiado casera... esperaba algo mas elaborado."
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/16306
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La pizza por metro es excelente,a los comedores de pizza les va a gustar\xA1\xA1\xA1"
+    date: 14-11-2008
+    user: http://mi.guiaoleo.com/members/13049
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un lugar agradable a pesar de la ubicaci\xF3n. Fui a comer varias veces al mediod\xEDa, de paso por la zona. Tienen un men\xFA diario (Lunes a Viernes) muy econ\xF3mico. Se puede elegir entre tres minutas o tres ensaladas, acompa\xF1adas por postre y bebida. Las preparaciones son sabrosas y bien presentadas. La atenci\xF3n es buena para ese tipo de locales."
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/53137
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      me encanta el lugar y ademas la atencion es muy buena.
+      el ambiente de gente esta muy bueno y los mozos son de diez.
+    date: 08-10-2008
+    user: http://mi.guiaoleo.com/members/52641
+    ambiente_rank: muy bueno

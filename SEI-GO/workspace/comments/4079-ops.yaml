@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Es algo bastante diferente, muy tranquilo y familiar
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/76522
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es como las paladares en cuba, donde la gente come dentro de las casas de familia. Un ambiente muy cuidado y muy aut\xE9ntico. Para adentrarse en la cocina de un pa\xEDs que no se sabe nada de ella. Lo recomiendo."
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/83306
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El cubano es un groso, el lugar hermoso, muy cubano. La comida es tradicionalmente cubana, muy rica y ni hablar del caf\xE9 (excelente). Espero volver pronto. Recomiendo para ir en pareja, van a pasar una noche distinta!"
+    date: 21-04-2010
+    user: http://mi.guiaoleo.com/members/65319
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es excelente, la atenci\xF3n muy buena y la comida aceptable. Ideal para ir en pareja o con amigos y disfrutar de una noche diferente."
+    date: 11-11-2009
+    user: http://mi.guiaoleo.com/members/24123
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Lugar super recomendable, accesible economicamente, algo nuevo, distinto a lo comun, excelente servicio y calidad humana.
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/67112
+    ambiente_rank: excelente

@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Me pareci\xF3 malo todo, el servicio muy lento, me trataron bien hasta que les pregunt\xE9 porqu\xE9 tardaban tanto y me contestaron muy mal que era porque \"no hab\xEDa sistema\". La lassagna, pregunt\xE9 si la porci\xF3n era abundante, me dijeron que s\xED y era diminuta; el vino lo trajeron caliente y en lugar de cambiarlo lo pusieron en un valde con hielos. Deben mejorar bastante."
+    date: 03-05-2010
+    user: http://mi.guiaoleo.com/members/81289
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comida rica, atenci\xF3n buena. Los \xF1oquis souffle muy buenos. \r\n\
+      Recomendable el menu de mediod\xEDa."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/73189
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un precio acomodado por la calidad de la comida, la atenci\xF3n sin embargo, deja algo que desear, esperamos 45 minutos para dos platos bastante simples (uno de los dos era la sugerencia del d\xEDa)."
+    date: 23-06-2009
+    user: http://mi.guiaoleo.com/members/10781
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es un comedero, muy ruidoso, El camarero no estuvo atento a nuestra mesa, tard\xF3 m\xE1s de 15 minutos para traernos la cuenta. La pizza, era demasiado finita y peque\xF1a. El servicio de mesa es caro para lo que se ofrece. Volver\xEDa solo si alguien realiza una invitaci\xF3n al lugar y no pudo rechazarla."
+    date: 18-02-2009
+    user: http://mi.guiaoleo.com/members/58550
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Si bien el lugar es nuevo, el ambiente es bastante ruidoso. Hab\xEDa mesas libres pero hacen esperar a la gente porque la cocina no da a basto (domingo mediodia). Finalmente la espera no fue mucha. La salsa estaba acida. El mozo bien. En resumen, la relaci\xF3n precio-calidad es mala. Por esos valores se puede comer mucho mejor (y carne) en otros lados. No volver\xEDa."
+    date: 30-11-2008
+    user: http://mi.guiaoleo.com/members/55438
+    ambiente_rank: malo/regular

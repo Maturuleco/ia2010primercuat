@@ -1,0 +1,156 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "la comida es buena pero podria mejorarse, las porciones chicas. tardan una enternidad en atenderte, el lugar es muy chico, por lo tanto las mesas para dos personas son incomodisimas. el ba\xF1o tambi\xE9n es muy chico. los mozos en general tienen buena onda. la \xFAltima ve nos cobraron un plato de mas, sin duda un descuido."
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/84114
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Conoc\xEDa la sucursal de barrientos, que figura en guia oleo, donde la comida, la ambientacion y el trato es excelente. En esta sucursal se encuentra la misma buena comida,pero la ambientaci\xF3n no es tan buena y la atenci\xF3n es lamentable. No volver\xEDa por los malos modos de la mesera."
+    date: 29-10-2009
+    user: http://mi.guiaoleo.com/members/49610
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La comida est\xE1 muy bien, el servicio es muy bueno, en cuanto al ambiente las mesas est\xE1n demasiado juntas. Comimos adecuadamente. Tiene una carta de vinos es muy variada."
+    date: 08-10-2009
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No lo conoc\xEDa y  fu\xE9 una grata sorpresa, muy buena comida,excelente atenci\xF3n y lindo ambiente.\r\n\
+      El escaso lugar hace que las mesas est\xE9n demasiado juntas, el resto nos encant\xF3"
+    date: 06-09-2009
+    user: http://mi.guiaoleo.com/members/41418
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos almorzar y nos encontaramos con el celeto de plaza barrientos, la atencion tanto como el encargado y el mozos que nos atendio  es exelente, buena comida y ambiente agradable les recomiendo que conoscan el de barrientos. vamos a volver a ir
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/38456
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: El lugar muy lindo y la atencion excelente. Las opciones de platos muy escasas y la carne (bife de chorizo) estaba dura.
+    date: 12-07-2009
+    user: http://mi.guiaoleo.com/members/26595
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No entiendo por qu\xE9 no figura el Celetto de Plaza Barrientos que es el que estoy calificando. Muy buena la carne (ojo de bife y lomo) que vienen acompa\xF1ados por papas fritas (ricas) y ensalada mixta. Las bruschettas un poco peque\xF1as y los postres muy buenos. Destaco la atenci\xF3n y ambientaci\xF3n, fui con mis hijos...nos sentamos en sillones y result\xF3 momento muy agradable. Lo recomiendo pero el de Barrientos que, insisto, no se por qu\xE9 no figura."
+    date: 15-06-2009
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n para comer un rico almuerzo de manera tranquila. Todos los platos cubrieron las expectativas y los postres resultaron muy deliciosos. La atenci\xF3n fue muy amable y correcta, con peque\xF1os detallitos que sirven siempre para sumar puntos. El lugar es chiquito pero tranquilo y con un estilo muy acogedor. Seguro volveremos."
+    date: 17-05-2009
+    user: http://mi.guiaoleo.com/members/12853
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena comida. La atenci\xF3n podria mejorar. Nos trajeron 4 postres en lugar de dos y encima solo uno era de los que habiamos pedido."
+    date: 02-02-2009
+    user: http://mi.guiaoleo.com/members/20241
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy rico. Fuimos por un men\xFA fijo, y el mozo se olvid\xF3 la entrada... Las mesas del lugar est\xE1n un poco juntas como para disfrutar de una charla \xEDntima."
+    date: 31-01-2009
+    user: http://mi.guiaoleo.com/members/11097
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: |-
+      El lugar es agradable aunque las mesas un poco juntas.
+      La atencion del mozo excelente, el no piso una banana para el bebe y se deshizo en disculpas por la tardanza de la comida 
+      La comida demoro unos 40 minutos, el salmon estuvo bueno y las costillas de cerdo regular y un poco secas.
+    date: 28-01-2009
+    user: http://mi.guiaoleo.com/members/25918
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos por el descuento de una tarjeta de cr\xE9dito sin expectativas, y nos gust\xF3 mucho. La carta es breve pero variada, tienta todo. Las porciones son abundantes (nos llenamos antes de pedir el plato principal). Las papas bravas son una delicia. El mozo correcto y atento. Volveremos. Para recomendar."
+    date: 05-01-2009
+    user: http://mi.guiaoleo.com/members/29611
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena comida, muy buenos menues de mediod\xEDa a buen precio y buena atenci\xF3n. Recomendable"
+    date: 20-11-2008
+    user: http://mi.guiaoleo.com/members/12645
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un restaurante donde se come correctamente,con una buena calidad de productos,la carta es bastante variada,donde el fuerte son las pastas(nada que deslumbre).El ambiente es bueno(ALGO JUNTAS LAS MESAS)En definitiva un lugar para comer bastante bien a un precio razonable.
+    date: 08-11-2008
+    user: http://mi.guiaoleo.com/members/19407
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida es muy buena y la atenci\xF3n es excelente. Muy buena la recepci\xF3n con una degustaci\xF3n de jugo de naranja natural + vodka. La panera nos pareci\xF3 abundante, algo a destacar a diferencia de otros lugares donde son miserables. La m\xFAsica en vivo de fondo, suave e ideal, acorde al lugar. Lo \xFAnico, quizas las mesas est\xE1n demasiado cerca y se pierde un poco de intimidad. Volveremos."
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/10088
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida me parecio muy rica con platos abundantes y bien elaborados. El lugar es lindo y muy tranquilo, lo unico que le criticaria que al ser un restaurant chico las mesas estan muy pegadas entre si.
+    date: 14-02-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El ambiente es mu\xFD c\xE1lido y la comida riqu\xEDsima.  Recomiendo la mousse de mango, exquisita!  Volveremos!"
+    date: 06-01-2008
+    user: http://mi.guiaoleo.com/members/37813
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Suelo visitar la sucursal de Av. Alvear y siempre me gust\xF3 su pasteler\xEDa, al igual que el ambiente y la atenci\xF3n. Todos estos detalles se repiten en \xE9sta sucursal. Esta vez almorc\xE9 y la comida fue muy rica. Tienen un men\xFA al mediod\xEDa accesible y con buenas opciones. Y estando en una calle bien transitada, ofrece un remanso de calma y calidez en medio de la ciudad. Me encant\xF3. "
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es muy buena y permite disfrutar los sabores. La tabla es muy completa y los ingredientes son de excelente calidad, una buena opci\xF3n como entrada cuando se va con amigos. Mi plato preferido: el Vitello romano. El servicio es bueno, los camareros est\xE1n siempre atentos y la m\xFAsica siempre es agradable."
+    date: 22-10-2007
+    user: http://mi.guiaoleo.com/members/33978
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El volumen de la m\xFAsica estaba muy alto, le pedi al mozo si era posible bajarla, me dijo que si, no hizo nada. La relacion calidad precio es buena considerando el menu del mediodia, no comeria en este lugar fuera del menu. Servicio regular. \r\n\
+      No lo recomiendo."
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/7601
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pedi un ojo de bide jugoso y me lo trajeron quemado....no era para nada rica la comida en general, la carta de postres no tenia opciones interesantes y no solo no aparecian todas las cosas que tenian en el mostrador, sino que tampoco te las ofrecian. "
+    date: 07-08-2007
+    user: http://mi.guiaoleo.com/members/27505
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: En cualquiera de sus locales la comida es muy buena y cumple con lo que promete. Domingo, lunes y martes hay 50% de descuento en platos para las mesas de mujeres, por lo cual el precio fue realmente conveniente.
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/2205
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un ambiente muy tranquilo y c\xE1lido. La comida es realmente muy buena. Fui varias veces y lo recomiendo. La Creme Brulee con un toque de dulce de leche es exquisita. MUY BUENO!!!"
+    date: 08-07-2007
+    user: http://mi.guiaoleo.com/members/33800
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno el men\xFA del d\xEDa, excelente la relaci\xF3n precio/calidad. La reposter\xEDa riqu\xEDsima."
+    date: 03-04-2007
+    user: http://mi.guiaoleo.com/members/20889
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es muy agradable. Fuimos un s\xE1bado a la noche y hab\xEDa Bossa Nova en vivo: excelente. L\xE1stima que es un poco caro, para la comida que ofrece. La carta es muy pretenciosa. Cuando vienen los platos principales, uno se da cuenta de que es mucho ruido y pocas nueces. Sin embargo, las bruschetas son muy buenas y los postres tambi\xE9n. En t\xE9rminos generales, estuvo rico. El servicio est\xE1 bien. El lugar sobresali\xF3 gracias a la m\xFAsica en vivo. "
+    date: 06-01-2007
+    user: http://mi.guiaoleo.com/members/8349
+    ambiente_rank: excelente

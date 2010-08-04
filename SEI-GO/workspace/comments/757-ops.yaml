@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF2. Si bien parece cantina, la comida es buena y muy abundante. me atendieron muy bien y r\xE0pido y eso que llegu\xE8 en horario pico.. 13 horas..."
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/75653
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lugar mediocre y descuidado, siento todas sus calificaciones en ese sentido. No volver\xEDa."
+    date: 29-09-2009
+    user: http://mi.guiaoleo.com/members/8127
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Los platos son abundantes y tienen una peque\xF1a impronta casera. Las mozas, atent\xEDsimas y r\xE1pids. El ambiente es un poco de cantina, con dos televisors y bastante ruido, pero a\xFAn as\xED, me atrevo a recomendarlo para esos d\xEDas sin demasiadas pretensiones y con pocos dinerillos."
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/48592
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buen lugar comedor tipo cantina, la comida es muy buena el ambiente no tanto.
+    date: 28-11-2007
+    user: http://mi.guiaoleo.com/members/29598
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Tipica parrillita de parroquiano, no faltan las fotos de \"anuario escolar\" de los hijos del due\xF1o con caras picarescas, algun cartel de corridas de toros... Muy buena la atencion de Alicia, una de las mozas, hace el trabajo que el resto no. Te trae abundante entrada cortesia de jamon crudo, empanadas fritas de carne y copita de jerez bien fria. Tremendas porciones, las achuras son una gloria. No escatiman y el precio es muy razonable. Para panzadas."
+    date: 11-11-2007
+    user: http://mi.guiaoleo.com/members/30039
+    ambiente_rank: malo/regular

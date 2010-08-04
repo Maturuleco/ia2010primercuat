@@ -1,0 +1,722 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Uno de los mejores restaurantes de BA. Lamentablemente el lugar es muy chico y a veces no es muy comodo cuando se llena. Recomiendo menu de degustacion. Absolutamente increible el pulpo caramelizado y los langostinos al curry con arroz.
+    date: 27-06-2010
+    user: http://mi.guiaoleo.com/members/84413
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Si bien es un lugar muy caro, la comida es realmente exquisita!
+      el cheff viene a tu mesa y te cuenta cuales son los platos del dia!
+      vale la pena ir!
+    date: 17-05-2010
+    user: http://mi.guiaoleo.com/members/72251
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida es realmente muy buena, bien presentada y con ingredientes de excelente calidad. Nosotros optamos por la degustaci\xF3n de distintos platos (que no elegimos), que nos fueron trayendo en peque\xF1as porciones y teniendo muy buen cuidado del tiempo transcurrido entre porci\xF3n y porci\xF3n. Fueron en total 5 platos, m\xE1s un sorbete de lim\xF3n en la mitad de la cena y un \xFAltimo plato con 4 variedades de postres. El servicio excelente y el ambiente muy c\xE1lido. El precio, como es de esperar, alt\xEDsimo."
+    date: 11-05-2010
+    user: http://mi.guiaoleo.com/members/60905
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente. La Degustacion es muy rica lo hago solo en este lugar. Te van trayendo platos con poca y exquisita comida no hay que preguntar que es solo dejarse llevar.
+    date: 08-04-2010
+    user: http://mi.guiaoleo.com/members/81619
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una experiencia suprema. Exquisita comida y sofisticada atenci\xF3n. El ambiente tiene oportunidades. Muy recomendable."
+    date: 18-03-2010
+    user: http://mi.guiaoleo.com/members/75097
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente cocina que combina sabores con productos de calidad.Los precios aunque elevados vale la pena pagarlos.El ambiente necesitaria una redecoracion. La atencion es correcta.
+    date: 04-01-2010
+    user: http://mi.guiaoleo.com/members/43152
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "una propuesta que hace a\xF1os que disfruto,su menu degustacion siempre nos deja conforme"
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/77747
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La comida es excelente, pero los precios claramente desubicados! Si bien la culpa fue nuestra porque nos ofrecieron un menu degustacion que no indicaban los precios, aceptamos pensando que estos precios serian logicos. Cuando vino la cuenta, supimos que esa era la ultima vez que volveriamos.
+    date: 29-11-2009
+    user: http://mi.guiaoleo.com/members/16998
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: muy caro para lo que ofrecen.snob, pero no entrega lo que dice.
+    date: 15-10-2009
+    user: http://mi.guiaoleo.com/members/81971
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La degustaci\xF3n de entradas es suficiente en cantidad para un buen almuerzo. Calidad excelente. En este punto son insuperables. La lasagna muy buena pero ya fue demasiado. Creo que el mozo no debiera recomendar en estos casos tomar el principal. Nos trajeron una degustaci\xF3n de postres sin haberla pedido."
+    date: 28-08-2009
+    user: http://mi.guiaoleo.com/members/6268
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar con m\xE1s aspiraciones que las que realmente puede alcanzar. No se condicen los precios con la calidad del producto final. La atenci\xF3n deja bastante que desear para un lugar de este nivel.Dudo que vuelva."
+    date: 28-08-2009
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es dif\xEDcil no ser exigente con aquellos glamorosos restaurantes de renombre y precios elevados. Comenc\xE9 con unas empanaditas de origen indio bastante desabridas, con una maza por dem\xE1s grasosa, pero con un rico chutney. Despu\xE9s prob\xE9 2  platos a base de cordero, uno occidental, delicioso. Y el otro indio: exquisito tambi\xE9n! Intenso y con un balance perfecto entre  los condimentos, que enriquec\xEDan sin tapar el sabor del cordero. Pero la guarnici\xF3n de arroz insulsa e ins\xEDpida. En resumen, teniendo en cuenta el precio la conclusi\xF3n final no es del todo feliz: 3 cifras x cabeza no admite altibajos"
+    date: 11-08-2009
+    user: http://mi.guiaoleo.com/members/2647
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo elegi, para probar algo distinto.Hicimos recerva y  llegamos en tiempo y forma pero la reserva no fue tomada. Tubimos que esperar en la barra. Las Sugerencias del mozo como figura en otros comentarios fueron de los platos m\xE1s caros, sin tener en cuenta la combinaci\xF3n entre el vino y la cena. La carta tiene pocos platos y ofrecen platos que no estan en la carta y cuyo precio no esta disponible.Creo que el consumidor debe ser respetado,y debe tener la opci\xF3n de decidir cuanto quiere gastar. La comida es buena pero el costo beneficio no esta equilibrado."
+    date: 01-05-2009
+    user: http://mi.guiaoleo.com/members/61765
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: la comida es muy buena, pero la relacion precio/calidad no es la mejor. estaba con unos invitados por trabajo y me querian hacer elegir vinos y menues que no tenian nada que ver con el valor de los que habia elegido en la carta. realmente de muy mal gusto. no volvere'.
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/21577
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Reservamos con 24 hs de anticipaci\xF3n, pero ni en el sitio web ni por telefono nos comunicaron que el restaurante estaba cerrado por refacciones y que nos atenderian en west bengal. Pedimos entradas italianas (las croquetas de merluza negra son deliciosas) y plato principal de cocina india que no nos sorprendi\xF3. El servicio es muy atento pero insisten (hasta el cansancio) para que uno elija las opciones mas caras. El ambiente es confortable, sin lujos; el nivel de gente que asiste es alto."
+    date: 03-02-2009
+    user: http://mi.guiaoleo.com/members/36627
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Sigue siendo el mejor restaurante que he conocido. Lugar agradable, atencion esmerada y personalizada, comida excelente. Sigo recomendandolo
+    date: 20-01-2009
+    user: http://mi.guiaoleo.com/members/14353
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tuve una experiencia similar a la de alg\xFAn otro usuario. El men\xFA degustaci\xF3n es muy bueno y abundante, todos los ingredientes son de excelente calidad, pero realmente no me sorprendieron demasiado. Elegimos un vino de aprox. $150 y el mozo nos dijo que no hab\xEDa y recomend\xF3 otro dos, pero especialmente un tercero. Como ten\xEDamos al presidente de importante compa\xF1ia del exterior accedimos al tercero sin conocer el precio. Eramos 8 personas, tomamos 4 botellas de vino. OMG cuando lleg\xF3 la cuenta.El vino val\xEDa casi $300 por botella!!! No hicimos comentario alguno, pero est\xE1 claro que no volveremos"
+    date: 17-12-2008
+    user: http://mi.guiaoleo.com/members/7987
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Exquisitas creaciones de la cocina hind\xFA (especialmente la entrada de vieiras con leche de coco y el guisado de cordero al curry) y atenci\xF3n impecable que no descuida ning\xFAn detalle (la copa nunca se vac\xEDa, ofrecen champ\xE1n y buschetas de salm\xF3n de bienvenida y deliciosos bocaditos dulces como fin de fiesta)y demuestran la gran categor\xEDa del restaurante.  Muy bien!!!"
+    date: 09-12-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Llevaba mucho tiempo sin visitarlo, en mi opini\xF3n le ha sucedido lo que a aquellos que posicionan un negocio y despu\xE9s se dedican a vivir del nombre o de los turistas. La calidad de la comida ha decaido; los mozos atienden bien e incitan a consumir las sugerencias del d\xEDa que son muy interesantes con la sorpresa de conocer su precio al pagar la cuenta; las sugerencias de vino son de precios altos, no necesariamente los mejores para acompa\xF1ar lo pedido; parecer\xEDa que la orden es rellenar las copas frecuentemente para m\xE1s consumo; el ambiente sigue siendo muy agradable."
+    date: 05-12-2008
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No ha mejorado desde mi anterior visita. \xA1Y el servicio presiona demasiado para obtener que se consuma...lo mas caro!"
+    date: 26-11-2008
+    user: http://mi.guiaoleo.com/members/16143
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "muy ameno el lugar , excelente atenci\xF3n-\r\n\
+      no tengo queja alguna, me comentaron que los vinos fueron excelentes, s\xF3lo que no pude disfrutalos ya que no consumo alcohol."
+    date: 28-10-2008
+    user: http://mi.guiaoleo.com/members/9898
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Si bien la comida es muy buena, el servicio es un tanto insistente en funci\xF3n de logar que se acepten sus sugerencias. Recomendamos no hacerlo bajo ning\xFAn concepto! Tanto en el caso del vino como en el de las entradas, la recomendaci\xF3n del mozo fue hecha en funci\xF3n de incrementar el valor del ticket y no de mejorar la cena. No ordenar nada por fuera del men\xFA!!!"
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/47271
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Mis jefes me regalaron una cena en Bengal, un lugar que siempre quise ir por su 'proclamada comida ind\xFA'. Le pidieron a una chica que de la oficina ayuda para comprar un voucher de una cena con men\xFA degustaci\xF3n para dos personas. Me dieron el voucher y la otra semana hice la reserva en Bengal, aclarando que era un regalo y que ten\xEDa el voucher.\r\n\
+      Fui el s\xE1bado 20/9 con mi marido, lugar lindo. Me sent\xE9, les mostr\xE9 el voucher, les pregunt\xE9 que inclu\xEDa. Me aclararon que no inclu\xEDa bebidas alcoh\xF3licas ni caf\xE9. Ok, sin saber todo lo que inclu\xEDa el voucher ya que no especificaba mucho, acced\xED. Promediando la cena, un mozo se me acerca y me dice si me puedo acercar a la caja. \r\n\
+      En la caja hab\xEDa una se\xF1ora que me dijo, textuales palabras: mir\xE1, esto es una fotocopia, nosotros no damos esto. La tarjeta de Bengal la puede conseguir cualquiera, asique no quieras comer de arriba. Pueden imaginar mi sorpresa. Le dije, ok, lo pagaremos. Cuando me siento nuevamente en la mesa, reflexion\xE9 unos segundos junto a mi marido y me dije, \xBFpor qu\xE9? si yo present\xE9 el voucher antes de sentarme a comer, \xBFpor qu\xE9 no me aclararon antes que no correspond\xEDa? \xBFpor qu\xE9 hacerme pasar ese mal momento? entonces volv\xED a acercarme a la caja y le dije se\xF1ora, \xBFpor qu\xE9 no me aclar\xF3 antes de pedir algo que el voucher no era v\xE1lido? \r\n\
+      No puedo explicarles la falta de respeto de esta se\xF1ora que dijo ser la madre de los due\xF1os. Me trat\xF3 de delincuente, amenaz\xF3 con llamar a la polic\xEDa. Me habl\xF3 de derecho de admisi\xF3n. Etc. etc. Volv\xED a decirle: se\xF1ora, si yo le presento el voucher antes de sentarme a cenar, es que estoy obrando de buena fe. Asumo que el regalo fue pagado. Sigui\xF3 trat\xE1ndome de una forma no acorde a 'uno de los mejores restaurantes' de la ciudad de Buenos Aires. \r\n\
+      Mi jefe estaba en un avi\xF3n, no  pod\xEDa validar qui\xE9n hab\xEDa comprado el famoso voucher, y nos fuimos con los dos platos que llegamos a comer en la boca del est\xF3mago, habiendo pasado la peor comida de nuestras vidas en lo que hubiera debido ser un momento agradable disfrutando un regalo.\r\n\
+      De m\xE1s est\xE1 decir que mi jefe hab\xEDa mandado a pagar el voucher, que el voucher fue emitido por Bengal y que hab\xEDa pagado dos cenas 'con vino y caf\xE9' por la m\xF3dica suma de $360. Todav\xEDa no tuvimos una respuesta de Bengal ni de la Se\xF1ora Betty Escudero, quien me tom\xF3 todos los datos pero nunca reconoci\xF3 su error y ni me pidi\xF3 disculpas por el p\xE9simo trato. M\xE1s all\xE1 que ni siquiera me quer\xEDa dar su apellido. Todav\xEDa me pregunto, \xBFquisieron estafar a mi jefe? \xBFalguno de los empleados se qued\xF3 con el dinero? \xBFNo supieron manejar una simple compra de una cena para dos personas para regalar? \xBFSon irrespetuosos por naturaleza? \xBFTratan a sus clientes como delincuentes?\r\n\
+      No tengo respuesta a ninguno de mis interrogantes. La chica que hizo la compra todav\xEDa est\xE1 esperando una respuesta que espero tenga en alg\xFAn momento para compartirla con ustedes."
+    date: 20-09-2008
+    user: http://mi.guiaoleo.com/members/663
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Cen\xE9 un mi\xE9rcoles. Com\xED un plato indio que no recuerdo pero era excelente. Previamente una degustaci\xF3n de exquisiteces que no se describir,y tambi\xE9n una degustaci\xF3n de postres estupenda. La atenci\xF3n muy buena, siempre pendientes, atentos y serviciales, que es muy distinto que serviles como la que suele encontrarse en algunos restaurantes de supuesto alto nivel. Estoy sorprendido por el comentario del matrimonio que fue maltratado."
+    date: 10-09-2008
+    user: http://mi.guiaoleo.com/members/52728
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un lugar MUY chico, ergo casi siempre hay que esperar mesa (a pesar de tener reserva hecha 36 horas antes), lo cual se hace llevadero porque en la barra le sirven a uno una copa de champagne y canap\xE9s de salmon, como atenci\xF3n de la casa. Comimos \x93a la carte\x94 langostinos y ojo de bife, respectivamente, como platos principales, ambos muy buenos y porciones generosas (sobretodo el ojo de bife). El menu, contrario a lo que yo tenia entendido, no tiene platos en los que se mezcla la cocina italiana con la hind\xFA, sino que simplemente la carta est\xE1 dividida en una p\xE1gina con platos de cocina mediterr\xE1nea y otra p\xE1gina con platos hind\xFAes, pudiendo uno elegir lo que a uno m\xE1s le guste. La variedad de postres es rid\xEDcula, hay 3, lo cual no condice con el nivel del restaurant. Mi tarta de chololate blanco y masa crocante fue aceptable, aunque nada del otro mundo. La selecci\xF3n de t\xE9s es muy pobre, lo cual tampoco pega con el nivel del rest\xF3. Lo mejor que tiene Bengal es el nivel social de sus comensales, por la zona (lo mejorcito de B. Norte) y por el precio (caro) , es un lugar \x93paquete\x94 para ver y ser visto. El servicio es MUY bueno. Fue la primera vez en la Argentina que vi mozos argentinos de extracci\xF3n india americana, que hablan ingl\xE9s muy bien. El ambiente es c\xE1lido, lo cual es muy f\xE1cil de lograr por lo peque\xF1o del lugar. Una advertencia: evitar sentarse en la mesa al lado de la ventana/vidriera que da a la calle, porque aunque pareza la mejor en un primer momento, es la peor porque uno se muere de fr\xEDo en invierno cada vez que se abre la puerta del restaurant, lo cual ocurre muy a menudo."
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/46845
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "O lugar \xE9 muito bom, requintado e confort\xE1vel. Atendimento atencioso. A comida estava boa, o meu erro foi ter pedido o menu degustacion s\xF3 de comida india, todos os pratos eram com o mesmo molho e arroz, s\xF3 mudava o ingrediente principal, frango, cordeiro, vegetais e langostins, uma pena pois ficou tudo com o mesmo gosto. Voltarei para provar outros pratos que me pareceram mais interessantes do que a degustacion. Carta de vinhos excelente. Merece a visita."
+    date: 04-09-2008
+    user: http://mi.guiaoleo.com/members/9762
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La comida es excelente, siempre. La degustacion es espectacular aunque hay que ir con tiempo. Eso si, cuidado con los vinos que recomiendan!!!!!!!! Pueden salir mucho mas caro que la comida y no hay informacion.Salvo ese punto caro pero muy bena comida.
+    date: 22-08-2008
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Ped\xED un vino de $ 120. Me dijeron que no hab\xEDa y me ofrecieron dos alternativas. Cuando estaba preguntando vino el ma\xEEtre y me recomend\xF3 un tercero especialmente. Acced\xED, especialmente en honor de mi invitado, el presidente de la filial local de una gran multinacional. Cuando recib\xED la cuenta el vino que me vendieron fue facturado a casi el doble del que hab\xEDa elegido. El due\xF1o del restaurante debe creer que el p\xFAblico que lo visita es canalla corrupta, que no se fija en esos detalles"
+    date: 13-08-2008
+    user: http://mi.guiaoleo.com/members/49492
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La comida estuvo fuera de serie, espectacular, si tienen ganas de gastar unos cuantos pesos y darse un buen lujo no lo duden!! La pasamos muy bien, el servicio impecable.
+    date: 30-07-2008
+    user: http://mi.guiaoleo.com/members/49037
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pedimos el men\xFA degustaci\xF3n. Muy rico pero un poco caro.\r\n\
+      El mozo trajo una entrada y anunci\xF3 que traer\xEDa una 2da sin habernos dado siquiera la carta. No lo consult\xF3.\r\n\
+      El precio del men\xFA degustaci\xF3n deber\xEDa figurar en la carta.\r\n\
+      Lo mejor de todo, por lejos, los curries."
+    date: 29-07-2008
+    user: http://mi.guiaoleo.com/members/44861
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "No nos explicaron que significaba la degustaci\xF3n y luego lo vemos reflejado en el precio"
+    date: 25-07-2008
+    user: http://mi.guiaoleo.com/members/34599
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es el mejor restaurante de Buenos Aires. La comida es excelente y el menu esta muy bien pensado.
+    date: 22-07-2008
+    user: http://mi.guiaoleo.com/members/47902
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Excesivamente caro. como que no figure en ninguna parte el precio de la degustaci\xF3n. "
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/48641
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Excelente desde el punto de vista que lo vean.
+      Una experiencia maravillosa, para recomendar.
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/14353
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Caro,pero...de lo mejor en comida India,si o si hay que optar por la degustacion y que el personal de servicio vaya guiando la cena mediante la incorporacion de platos y su explicacion hasta la salida o los bajativos(te de jengibre,por ej.).En base a lo escuchado,si no se opta por esta opcion,la gente no se va muy conforme.el servicio impecable,ambiente un poco chico.Los panes,exquisitos,muy exclusivo todo,platos realmente internacionales.
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: realmente todo muy bueno los risotos de lo mejor, a pesar del precio altamente recomendable
+    date: 24-06-2008
+    user: http://mi.guiaoleo.com/members/46573
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una maravilla!!  Recomiendo la degustaci\xF3n de platos...una delicia tras otra, ya habiamos ido una vez anteriormente y comimos a la carta, estuvo muy bien, pero esta vez quedamos sorprendidos.  Excelente el servicio tambi\xE9n.  Sin duda volveremos por la degustaci\xF3n nuevamente!!"
+    date: 10-06-2008
+    user: http://mi.guiaoleo.com/members/4547
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Atenci\xF3n incre\xEDble, comida deliciosa...un lugar para conocer"
+    date: 06-06-2008
+    user: http://mi.guiaoleo.com/members/39166
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena comida, el mozo nos ofreci\xF3 una des gustaci\xF3n de platos t\xEDpicos indios y unos platitos italianos, una fusi\xF3n incre\xEDble! Quien hubiera pensado que la comida india mezcla tan bien con comida italiana! mozos muy atentos, comida muy rica,  El tesoro de gastronom\xEDa de BsAs."
+    date: 23-05-2008
+    user: http://mi.guiaoleo.com/members/45327
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar cuenta con la presencia de sus propios due\xF1os, gente muy c\xE1lida y atenta. La comida es de excelente calidad y buen gusto. La presentaci\xF3n de los platos es maraillosa. Uno se encuentra en un ambiente relajado en medio de la city porte\xF1a."
+    date: 25-04-2008
+    user: http://mi.guiaoleo.com/members/44359
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El mozo muy atento nos pidi\xF3 una degustaci\xF3n para los seis con platos tradicionales e indios. Muy recomendable, buenos mariscos, MUY buenos risottos, todo para recomendar. El precio adecuado a la cantidad de comida que nos trajeron, no pudimos terminar los dos ultimos platos!\r\n\
+      Una de las joyas gastron\xF3micas de Buenos Aires."
+    date: 15-04-2008
+    user: http://mi.guiaoleo.com/members/12702
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy interesante la propuesta degustacion, sirven 5 pasos a eleccion de ellos, puede tocar lo que sea dentro de las opciones del dia. Lamentablemente, no nos toco ningun curry, que hubiera sido interesante probar. De todos modos, es raro que no tengan un menu donde se puedan ver las opciones y precios. La ambientacion esta bien pero algunas mesas un tanto encimadas. Es una experiencia recomendable.
+    date: 03-04-2008
+    user: http://mi.guiaoleo.com/members/25520
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida fue excelente y la atenci\xF3n muy atenta. La comida es cara, pero se justifica, tanto por la calidad de esta, como la calidad de la atenci\xF3n, el lugar donde esta emplazado el restaurant y el tipo de comida extranjera. Uno de los mejores restaurants a los que fui ultimamente."
+    date: 28-01-2008
+    user: http://mi.guiaoleo.com/members/5302
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida es excelente. Reflejan el sabor \xFAnico de la comida india. De todas maneras, en el men\xFA hay mas platos italiano que indios, es una l\xE1stima. No dejarse llevar por el menu degustaci\xF3n, porque mezcla los dos tipos de comida. El lugar es agradable y la atenci\xF3n correcta. Pero lo importante es la comida, y es la mejor comida india de Buenos Aires."
+    date: 09-01-2008
+    user: http://mi.guiaoleo.com/members/16076
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: una muy buena experiencia gastronomica, cada plato, y fueron varios, muy bien preparados y en dosis justa para degustar, altamente recomendable mas alla de la cuenta que si bien elevada pasa a un segundo plano
+    date: 06-01-2008
+    user: http://mi.guiaoleo.com/members/30992
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es buena en un ambiente pretendidamente aristocr\xE1tico, pero son totalmente injustificables las artima\xF1as para meterse en el bolsillo del comensal."
+    date: 16-12-2007
+    user: http://mi.guiaoleo.com/members/37027
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "De primera. Todo con sabores, texturas y colores de un chef de alta categoria. Quiz\xE1s un poco caro pero lo bueno vale la pena. Sin apuros, con mucha diligencia y sin sobrecargar los platos. Una verdadera cocina gourmet. Muy recomendable, entre los mejores de B.A. El vino imperdible, un almibar. No tenian Sambucca, ni Grappa."
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/9931
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "En mi opini\xF3n, uno de los mejores restaurantes de Buenos Aires. La comida es excelente, igual que el servicio y la carta de vinos. Al contrario de lo que dicen las cr\xEDticas anteriores, lo mejor para m\xED es el men\xFA degustaci\xF3n. Es un sinn\xFAmero de platos, cada uno m\xE1s rico que el otro, que permiten comer de todo en porciones peque\xF1as y poder paladear todos los sabores. Hay lugares en los cuales hay que dejarse llevar por los que saben, este es uno de ellos, y ello se logra mediante la degustaci\xF3n. La atenci\xF3n es excelente, tanto de los mozos, como del sommelier, y ni hablar de Marcelo y Juan,que son los hacedores de todo esto. Hemos festejado todo tipo de eventos con ellos, desde cumplea\xF1os hasta Navidades y siempre nos result\xF3 excelente."
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/24024
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un buen e interesante restaurante en el tipo de comida que propone, mitad italiana, mitad hind\xFA. Agradable la cocina, atento el servicio, logrado ambiente. La bodega tiene una lista de vinos escasa y excesivamente uniforme. Una preegunta: \xBFQu\xE9 justificaci\xF3n tiene el precio de este restaurante, entre los mas caros de la ciudad?"
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/16143
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Comida buena, normal, nada del otro mundo...tenia expectativas de conocer el restaurant por los comentarios que uno ve o escucha. El servicio lamentable..desde que llegamos hasta que nos fuimos...3 veces nos pregutaron si teniamos reserva.. Te atienden varios mozos al mismo tiempo y encimo no tienen buena comunicacion entre ellos! Te traen la carta de vinos antes del menu..con lo cual se hace dificl pedir si antes saber que se va a comer...\r\n\
+      Algo pasa con el menu desgustacion..porque lo ofrecen todo el tiempo (y lo raro que el precio no figura en la carta...)\r\n\
+      Ojo,atencion! El mozo termina ordenando por USted! y usted pierde la noci\xF3n de la cuenta..no tengo problemas en gastar...pero por lo menos denme la opcion saber o elegir lo que gasto...\r\n\
+      Lo mejor: el sr de la puerta. \r\n"
+    date: 06-09-2007
+    user: http://mi.guiaoleo.com/members/12069
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Ojo al piojo!!! La degustaci\xF3n de comida Ind\xFA no est\xE1 en la carta y el precio se devela en la cuenta. La comida es buena pero casi que nos obligaron a elegir la degustaci\xF3n y despu\xE9s nos enteramos porque, $140 por persona. Carisimo. Las porciones son escasas."
+    date: 30-08-2007
+    user: http://mi.guiaoleo.com/members/30879
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "S\xF3lo exquisiteces!!! La atenci\xF3n es inmejorable y la comida un placer para los cinco sentidos.  "
+    date: 25-08-2007
+    user: http://mi.guiaoleo.com/members/30618
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente excelente, la degustaci\xF3n hind\xFA e italiana fue espectacular. Les recomiendo los postres. Eso s\xED, es un poco caro. "
+    date: 02-08-2007
+    user: http://mi.guiaoleo.com/members/25195
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: Se come increiblemente bien. Las mesas a mi gusto estan muy apretadas, pero el lugar es lindo y agradable. El servicio fue malo ya que tuvimos probelma con un vino. Pedimos un vino y al rato viene el mozo para decirnos que no habia mas de ese y nos ofrecio otras dos opciones de las cuales se eligio una. Cuando vino la cuenta, el vino que nos ofrecieron salia 5 veces +  caro !!!!  Ojo con eso. Te ofrecen cosas y despues no se sabe cuanto vas a pagar. Muy desprolijos estuvieron.
+    date: 30-07-2007
+    user: http://mi.guiaoleo.com/members/8631
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      El nivel de la comida es de lo mejor que hay en Buenos Aires.  El servcio es bueno.
+      Las mesas estan un poco apretadas, ya que no esm uy grande.
+      Es recomendable pedir una reserva.
+    date: 17-07-2007
+    user: http://mi.guiaoleo.com/members/26997
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Si bien la comida me parecio muy buena, me parece un exceso la relacion precio-calidad. Un sopa de Calabaza de entrada $30, demasiado!. La atencion muy correcta y el lugar podria estar mucho mejor, me ubicaron en una mesa muy pegada de otra con un florero de por medio.
+    date: 16-07-2007
+    user: http://mi.guiaoleo.com/members/8321
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente calidad de servicio y ambientaci\xF3n. El tiempo de espera para la comida fue aceptable.\r\n\
+      A la hora del postre el camarero nos ofreci\xF3 degustar una variedad de postres los cuales eran una exquisites. Recomendable para ir de noche en pareja o a almuerzos ejecutivos."
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/26201
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Todo muy regular, esperaba un poco mas.
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/16066
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Ambiente y atencion excelentes, con atencion a todos los detalles.  La comida, si bien fue muy buena, no termino de redondear una calificacion de excelente por el plato principal poco logrado (seco y sin sabores definidos).  Buena carta de vinos.  El estilo de los platos del menu es muy creativo, con algunas combinaciones que algunos puristas de ciertas cocinas etnicas pueden llegar a considerar algo \"risque\".  De todas formas, un lugar de alta gama recomendable. "
+    date: 04-07-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n y calidad gastron\xF3mica.Por otra parte, no hay intimidad dado que las mesas se encuentran poco espaciadas. Precios astron\xF3micos pero acorde al emplazamiento y nivel del local."
+    date: 15-06-2007
+    user: http://mi.guiaoleo.com/members/24939
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Agradable reducto con atenci\xF3n esmerada. La degustaci\xF3n de variedad de platos italianos e hindues es muy interesante. Excelente el ceviche de chernia, los curries, y el pulpo es increible. Los postres son muy elaborados y sabrosos. Rica grappa al final. La unica contra es el precio, 400 pesos dos personas con un vino normal. Para criticar, por favor no pongan en los platos el montoncito de morrones picados, me parece de rest\xF3 grasa de los 90."
+    date: 06-06-2007
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Hace tiempo que mi paladar no disfrutaba en Bs. As. de algo tan exquisito (Excepto La Bourgogne). La comida y sus gustos con especias un placer, su temperatura, presentacion me produjo verdadero placer. Vale lo que cobran. De first class.
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/9931
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Bengal, mejor y mejora de la mano de los hermanos Escudero. Lamentablemente para nosotros los porte\xF1os (pero bueno para sus due\xF1os) los precios aumentaron, en parte debido a que el turismo internacional ha hecho subir sus precios. Pero lo bueno bien lo vale y de vez en cuando darse semejante gusto, es algo para no perderse.\r\n\
+      Roberto Ottini tiene mucho que ver en el exquisito men\xFA que se dsifruta en Bengal"
+    date: 16-04-2007
+    user: http://mi.guiaoleo.com/members/21664
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un espanto. El lugar chico y apretado . Nos sentaron a 10 en una mesa de 8, aunque teniamos reserva. La comida , muy escasa y nada especial. El ambiente, excelente para mayores de 70. El mozo nos \"recomendo\" un vino de $280 sin advertirnos el precio. Poco etico, y seguramente entrenado por sus due\xF1os. Pesima experiencia."
+    date: 11-04-2007
+    user: http://mi.guiaoleo.com/members/14504
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Prob\xE9 varios platos y siempre todos han estado maravillosos. \r\n\
+      Lo he visitado varias veces y siempre ha mantenido el nivel. El lugar es peque\xF1o, c\xF3modo y acogedor. \r\n\
+      Seguir\xE9 visit\xE1ndolos de tanto en tanto."
+    date: 26-03-2007
+    user: http://mi.guiaoleo.com/members/21295
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Quiero destacar a \xE9ste restaurante como uno de los mejores a los que he ido. Tanto el servicio como la comida hicieron de \xE9sta una velada incre\xEDble."
+    date: 17-03-2007
+    user: http://mi.guiaoleo.com/members/20220
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Siempre me ha resultado excelente pero esta \xFAltima vez, no. Pedimos el men\xFA degustaci\xF3n y dentro de todo lo que comimos, repitieron mariscos y risotto en entradas y principales. Pedimo tres vinos de la carta y no tenian ninguno de los tres; por favor actualizenla o tengan en stock. Aunque no tengo problemas en pagar; esta vez se pasaron $428 para tres personas con una botella de Luigi Bosca, que era lo que ten\xEDan para tomar. Marcelo adem\xE1s deber\xEDa agregar t\xE9 ingl\xE9s. A ponerse las pilas."
+    date: 08-03-2007
+    user: http://mi.guiaoleo.com/members/2628
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La cocina y la atenci\xF3n son impecables, uno puede optar por el grado de picante que quiere en cada plato. Es muy recomendable si gusta del curry, ya que lo hacen buen\xEDsimo, tanto el de pollo como el de cordero. \r\n\
+      El pescado es super fresco ya que lo traen en el dia de Mar del Plata, igual que los mariscos.\r\n\
+      Los postres exquisitos.\r\n\
+      La atenci\xF3n de los mozos le suma un plus al lugar.\r\n\
+      Tranquilo para ir en pareja o con amigos para compartir una degustaci\xF3n, divertirse y difrutar con los sabores."
+    date: 27-02-2007
+    user: http://mi.guiaoleo.com/members/19131
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Este es, lejos, uno de los mejores restaurants de Buenos Aires. Soy una clienta habitual y disfruto much\xEDsimo de su comida india para nada occidentalizada. La atenci\xF3n es excelente. Tanto los maitres como los mozos se ocupan con dedicaci\xF3n del comensal. Creo que uno paga lo que le dan. Lo recomiendo"
+    date: 22-02-2007
+    user: http://mi.guiaoleo.com/members/19325
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un restaurante recomendable, la comida es muy buena y la atenci\xF3n excelente. El ambiente es muy agradable y el patio es un lugar muy lindo para una cena romantica. El restaurante se mud\xF3 hace poco a unos metros de donde estaba antes por ello es mucho mas amplio que el anterior local. Algo para recomendar es, antes de aceptar el menu fuera de carta consultar precios, nosotros comimos la desgustaci\xF3n de entradas que realmente era muy buena pero cara y ademas nos trajeron dos por lo cual doblemente caro, porque en una desgustaci\xF3n realmente esperabamos algo para compartir."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/9836
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: mala/regular
+    text: "Estudi\xE9 gastronom\xEDa, por lo cual disfruto mucho de ir a conocer lugares nuevos, soy muy abierto a cualquier sabor, textura, sensaci\xF3n, etc. Pero lo que me trajeron ayer fue comida de c\xE1rcel. Primero: la altura del plato no ten\xEDa m\xE1s que 3 cm. el plato era de rag\xF4ut de cordero sobre pur\xE9, el cual era sabroso, pero me parec\xEDa redundante la textura ya que se estila contrastar una textura como la pasta del pur\xE9 o el rag\xF4ut con algo m\xE1s r\xEDgido; Segundo: en la carta dec\xEDa que era acompa\xF1ado con risotto de mascarpone y lim\xF3n, nunca encontr\xE9 el arroz, ni el queso, ni una sola gota de lim\xF3n. Creo que ir a un restaurante como este merece el hecho de probar algo que NO lo pueda hacer ni mi madre ni mi hermana (ambas no son cocineras), lo cual me lleva a dos teor\xEDas: o el cocinero es un pasante que fue a aprender, o se tiene que dedicar a otra cosa. Por otro lado, la atenci\xF3n consider\xE9 que fue muy buena porque la predisposici\xF3n de la moza fue buena, no sab\xEDa la disponibilidad de vinos pero s\xED conoc\xEDa todos los platos y fue amable en invitar una degustaci\xF3n tanto salada como entrada y dulce como final. La ambientaci\xF3n me pareci\xF3 demasiado \"com\xFAn\" ya que me recordaba a living de una casa clase media/alta. En fin, volver s\xE9 que no voy a volver, he comido mucho mejor en lugares como Sinclair por el mismo precio (ayer gast\xE9 75 pesos sin entrada ni postre y en Sinclair gast\xE9 100 pesos compartiendo entrada y postre)."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/10724
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida, el servicio fue espectacular, te sorprenden con la atenci\xF3n y los detalles."
+    date: 11-01-2007
+    user: http://mi.guiaoleo.com/members/16133
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Execelente todo. muy calido,lugar ideal para ir en pareja
+    date: 05-01-2007
+    user: http://mi.guiaoleo.com/members/4274
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "\xA1Excelente! La comida es maravillosa, \xE1ltamente recomendable la desgustaci\xF3n de postres en tres pasos: fr\xEDo, tibio y caliente. \r\n\
+      Realmente la comida vale lo que se paga, las porciones son abundantes."
+    date: 05-01-2007
+    user: http://mi.guiaoleo.com/members/7987
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente y la atenci\xF3n est\xE1n muy bien, y se esmeran con los detalles.\r\n\
+      Sin embargo, el punto fuerte es la comida, muy bien lograda.  A mi gusto, la lasagna de ternera es de las mejores de Baires, imperdible."
+    date: 05-01-2007
+    user: http://mi.guiaoleo.com/members/15970
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Se come muy bien. En mi caso com\xED la desgustacion de platos, que son como siete en total, con porciones relativamente chicas pero muy rico. Tienen una carta de vinos muy buena, pero su punto d\xE9bil est\xE1 por ah\xED, en la ambientaci\xF3n y en los detalles del lugar. Los postres son muy buenos y el pan es \xFAnico. Vuelvo."
+    date: 23-11-2006
+    user: http://mi.guiaoleo.com/members/13364
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena comida y excelente atenci\xF3n. Algunos platos eran un poco escasos."
+    date: 20-11-2006
+    user: http://mi.guiaoleo.com/members/12826
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es interesante, algo ecl\xE9ctico pues no se define si al estilo \"indio\", \"medio oriental\" o al \"italiano\". Muy elegante, fuimos en la semana as\xED que el servicio se dedic\xF3 casi en forma exclusiva en atendernos. La carta tard\xF3 un poquito en ser ofrecida pero fuimos bien asesorados y nos dieron el tiempo necesario para seleccionar lo que nos apeteciera. Buen vino elegido por mi compa\xF1ero, un cl\xE1sico syrah que hac\xEDa buen maridaje con los platos indios que degustamos. Muy ricos y bien logrados."
+    date: 13-11-2006
+    user: http://mi.guiaoleo.com/members/1179
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy chico y con mesas apretadas. Los mozos casi eligen el men\xFA por uno. Demasiado inflado. Los precios son altos con referencia a lo que ofrecen. "
+    date: 09-11-2006
+    user: http://mi.guiaoleo.com/members/11820
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me gust\xF3 much\xEDsimo, lo estoy recomendando."
+    date: 30-10-2006
+    user: http://mi.guiaoleo.com/members/2788
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hace tiempo que voy a Bengal. Cada vez que lo visito va bajando el nivel. Platos, aunque buenos, cada vez m\xE1s chicos. \r\n\
+      Ped\xED chapatis; no hab\xEDa. Ped\xED chutney; no hab\xEDa. Pedimos pakoras vegetales y se equivocaron y trajeron con pollo.\r\n\
+      Adem\xE1s cuando pedimos cafe tardo quince minutos."
+    date: 28-10-2006
+    user: http://mi.guiaoleo.com/members/13134
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Las mesas estan muy cerca unas de otras, se escuchan conversaciones ajenas y los mozos no tienen lugar para circular. \r\n\
+      No te traen la carta, te recomienda el mozo. Pedimos la degustaci\xF3n de entradas: mini (mini en serio) gazpacho andaluz, esp\xE1rragos con jam\xF3n crudo, un langostino para cada uno. \r\n\
+      El gazpacho y los esparragos estaban bien (No extraordinarios) y el langostino hab\xEDa pasado su mejor momento. \r\n\
+      En un restaurante de ese nivel, si te sirven langostinos, tienen que ser fresqu\xEDsimos. Si no, que recomienden otra cosa. Adem\xE1s, en un restaurante que dice tener \"comida india\" yo hubiera servido una entrada \"india\" en la degustaci\xF3n. \r\n\
+      Despues, pollo tikka masala para m\xED y cordero al curry para mi compa\xF1ero. \r\n\
+      Estaban muy ricos, pero como en cualquier boliche indio de Londres. \r\n\
+      Finalmente, hab\xEDa s\xF3lo tres opciones de postre -ninguna nos tentaba- y pedimos t\xE9. S\xF3lo nos recomendaron un t\xE9 de hierbas (industrial) que era de cachamai para abajo. \r\n\
+      Una decepci\xF3n. No es \"value for money\"."
+    date: 15-09-2006
+    user: http://mi.guiaoleo.com/members/6425
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Exquisito pero s\xFAper escaso. El precio del cubierto car\xEDsimo, te cobran hasta el sorvete que te traen sin que lo pidas, sal\xEDs con hambre y es car\xEDsimo, la atenci\xF3n lenta, los mozos antip\xE1ticos y no hacen postres de la India. Las mesas pegadas, el lugar diminuto. No vuelvo nunca m\xE1s."
+    date: 09-09-2006
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El menu degustaci\xF3n es espectacular (var\xEDa segun el d\xEDa), la atenci\xF3n es buena aunque molest\xF3 que nos reciten la carta. \r\n\
+      Se recomienda la carta de vinos, tienen variedad y al ser ellos poseedores de un local enfrente (de ese rubro) tienen muy buenos precios. \r\n\
+      En efectivo hacen 20 si uno lo pide cuando tiene que decidir si firmar la tarjeta."
+    date: 06-09-2006
+    user: http://mi.guiaoleo.com/members/11955
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Pedimos un vino de $70 y nos dijeron que no quedaba m\xE1s pero que para reemplazarlo nos suger\xEDan otro, que fue espectacular, pero a la hora de la cuenta ese vino sal\xEDa $140 y nunca nos lo avisaron. Si te dicen reemplazar, deber\xEDa estar en el mismo rango o avissarte al menos.\r\n\
+      Todo lo clienta que era de ese lugar qued\xF3 en la historia, a pesar de su excelente comida no voy m\xE1s."
+    date: 01-09-2006
+    user: http://mi.guiaoleo.com/members/11044
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El men\xFA degustaci\xF3n result\xF3 abundante y exquisito. Atenci\xF3n excelente."
+    date: 22-07-2006
+    user: http://mi.guiaoleo.com/members/8
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "En invierno nunca sentarse cerca de la puerta porque no pod\xE9s sacarte el sobretodo. \r\n\
+      Superado cierto nivel, cuando la comida es buena, la diferencia entre un restaurante y otro se acorta. \r\n\
+      El ambiente es paquet\xEDsimo, demasiado para mi gusto. \r\n\
+      La atenci\xF3n es regular. Los mozos ponen lo mejor de s\xED y son amables, pero en un lugar de tanta categor\xEDa no pueden tardar tanto. Las mesas est\xE1n demasiado juntas y el personal circula con dificultad. \r\n\
+      A mi me patearon la silla durante toda la cena.\r\n\
+      Lo mejor de la noche fue mi compa\xF1era que por supuesto no la puso el restaurante."
+    date: 14-07-2006
+    user: http://mi.guiaoleo.com/members/10122
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Comida excelente, sin duda. 
+      El ambiente agradable, silencioso, especial para las personas que damos prioridad a ambientes de este tipo, donde el dialogo se sostiene sin necesidad de levantar la voz.
+    date: 08-07-2006
+    user: http://mi.guiaoleo.com/members/10060
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Nos pareci\xF3 excelente la comida."
+    date: 08-07-2006
+    user: http://mi.guiaoleo.com/members/10050
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy rica la comida, aunque un poco picante.
+    date: 19-06-2006
+    user: http://mi.guiaoleo.com/members/8359
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy bueno, pedir desgustaci\xF3n de platos."
+    date: 14-06-2006
+    user: http://mi.guiaoleo.com/members/9366
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hay que pedir la carta a pesar de que tienden a no entregarla al principio. \r\n\
+      No es buena la \"degustaci\xF3n de platos\" ya que es mucho y muy caro."
+    date: 12-06-2006
+    user: http://mi.guiaoleo.com/members/4066
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena la cocina, muy frescos y cuidados los platos, muy alto nivel, muy recomendable.
+    date: 10-06-2006
+    user: http://mi.guiaoleo.com/members/19778
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comida excelente, personal muy atencioso, ambiente muy simp\xE1tico. Recomiendo este restaurante a todos los amantes de la buena cocina."
+    date: 07-06-2006
+    user: http://mi.guiaoleo.com/members/9259
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es uno de los tres mejores restaurantes de Buenos Aires. Los precios, quizas, los m\xE1s altos."
+    date: 01-06-2006
+    user: http://mi.guiaoleo.com/members/8668
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Incre\xEDble degustaci\xF3n, la llegada de exquisiteces no paraba nunca. \r\n\
+      Platos muy bien presentados y de un refinamiento excepcional.\r\n\
+      Atenci\xF3n profesionalizada, puesta impecable."
+    date: 24-05-2006
+    user: http://mi.guiaoleo.com/members/8773
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy lindo lugar. Es excelente para deleitarse luego de un d\xEDa arduo o para una ocasi\xF3n especial. \r\n\
+      Ideal para quienes buscan sentirse mimados. Felicitaciones a los due\xF1os y equipo."
+    date: 18-04-2006
+    user: http://mi.guiaoleo.com/members/7909
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muchas felicidades a Marcelo y su equipo.
+    date: 10-03-2006
+    user: http://mi.guiaoleo.com/members/7103
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Como no hay muchas propuestas de comida india en BA, Bengal se destaca.  Atenci\xF3n irregular. Los platos son muy buenos, pero caros.  Cuesti\xF3n de oferta y demanda.  Al final, perjudica el balance precio/calidad.  Pero como siempre est\xE1 lleno, me imagino que se aplica la f\xF3rmula: est\xE1 bien lo que termina bien."
+    date: 21-02-2006
+    user: http://mi.guiaoleo.com/members/5872
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar ex\xF3tico y muy recomendable."
+    date: 14-01-2006
+    user: http://mi.guiaoleo.com/members/5830
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy buena, pero \xE9ramos muchos y nos ofrecieron traer variado para compartir. \r\n\
+      Eso se transform\xF3 en un menu degustaci\xF3n sin aclararlo ni decirnos cual era su precio. \r\n\
+      Comentando con amigos nos contaron de m\xE1s gente a la que le pas\xF3 lo mismo."
+    date: 16-12-2005
+    user: http://mi.guiaoleo.com/members/5914
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los precios me parecieron super excesivos para la comida. El ambiente es lindo, pero no lo justifica.\r\n\
+      Y lo \xFAnico \xE9tnico es el nombre."
+    date: 28-11-2005
+    user: http://mi.guiaoleo.com/members/5056
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un excelente restaurant, digno de vistarse si se es amante de la comida hind\xFA. \r\n\
+      Un buen servicio y una excelente carta de vinos. Su due\xF1o Marcelo verifica que todo est\xE9 perfecto."
+    date: 03-11-2005
+    user: http://mi.guiaoleo.com/members/4687
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente comida, muy buena atenci\xF3n y muy buena carta de vinos. \r\n\
+      Es como esos restaurantes hindues chicos que hay en Londres. \r\n\
+      La comida est\xE1 muy buena, muy sabrosa; pero un poquito me qued\xE9 con hambre, porque las porciones no son demasiado generosas en relaci\xF3n al restaurante indio promedio."
+    date: 10-10-2005
+    user: http://mi.guiaoleo.com/members/5327
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena atenci\xF3n, mozos muy atentos. Comida muy interesante."
+    date: 10-09-2005
+    user: http://mi.guiaoleo.com/members/2851
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Interesant\xEDsima combinaci\xF3n de platos \xEDndios con italianos, buen ambiente y atenci\xF3n. Excesivos precios."
+    date: 10-09-2005
+    user: http://mi.guiaoleo.com/members/971
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente men\xFA degustaci\xF3n."
+    date: 29-07-2005
+    user: http://mi.guiaoleo.com/members/4
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es exquisita y la atenci\xF3n es muy buena. Para tener en cuenta:  demoran bastante en traer la cuenta."
+    date: 14-07-2005
+    user: http://mi.guiaoleo.com/members/2657
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me pareci\xF3 p\xE9simo que tuvieran la radio encendida, en una emisora con comentarios, noticias deportivas, etc.. Cuando reclame pusieron otra radio con tangos y comentarios... Nada adecuado para un restaurant \xE9tnico con pretensiones."
+    date: 02-07-2005
+    user: http://mi.guiaoleo.com/members/2461
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar super tranqui, salvo que justo salga media zona a comer al mismo lugar y a todos se les de por hablar a los gritos porque ah\xED deja de ser tranqui y no pod\xE9s ni hablar con el que ten\xE9s enfrente. La atenci\xF3n es buena pero las camareras deber\xEDan saber explicar mejor los platos. Lo mejor el postre de chocolate con el interior tibio, super recomendable."
+    date: 10-06-2005
+    user: http://mi.guiaoleo.com/members/3713
+    ambiente_rank: excelente

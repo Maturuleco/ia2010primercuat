@@ -1,0 +1,103 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Le falta calidez al lugar, la atenci\xF3n me pareci\xF3 un poco inexperta. La carta podr\xEDa tener una presentaci\xF3n mejor."
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/25687
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Rinconcito coqueto y encantador, ideal para tomar el t\xE9 con amigas y chusmear degustando cositas ricas como los cup cakes que son imperdibles! Volver\xE9 para almorzar y probar lo salado"
+    date: 13-11-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      La atencion fue muy buena. La comida esta bien relacionada entre precio- calidad.
+      Para volver. SUPER RECOMENDABLE.
+    date: 18-10-2009
+    user: http://mi.guiaoleo.com/members/71005
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida logra buenas combinaciones y el lugar es ideal para un brunch o t\xE9 de la tarde para disfrutar de la pasteleria y los mix de vajillas. Lo malo es que no estan cuidados los detalles, cuando fui hacia frio y habia una estufa el\xE9ctrica en el medio del local, los mozos contaban su noche anterior hablando fuerte al lado mio. Los proveedores entraban por la puerta principal. Esos detalles restan siempre."
+    date: 15-08-2009
+    user: http://mi.guiaoleo.com/members/14199
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Muy lindo lugar,la comida riquisima y una muy buena relacion calidad-precio.
+      Para volver.
+    date: 14-06-2009
+    user: http://mi.guiaoleo.com/members/64042
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Realmente desagradable, el lugar frio,la musica pesima,el servicio lamentable.sin onda nada,lo que cominos estaba bueno y fresco...con mucha demoras,pedimos dos te y nos cobraron los cubiertos pasadas las 16 hs..y por un sandwich.. muchisimo ruido de la cocina...una tarde triste.
+    date: 08-06-2009
+    user: http://mi.guiaoleo.com/members/41525
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: me gusto muchisimo! se nota que estan en todos los detalles!! lo recomiendo, en especial al mediodia en la terraza, te dan sobmreros para que el sol no te moleste en los ojos!!!
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/61265
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fu\xED hace un tiempo con unas amigas y no era lo esperado. No contaban con muchas cosas que figuraban en el menu y uno tenia que elegir por descarte."
+    date: 15-04-2009
+    user: http://mi.guiaoleo.com/members/52759
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Mucha expectativa autogenerada provoc\xF3 un t\xEDmido placer como resultado. Distra\xEDda atenci\xF3n, los sabores bien presentes y un precio un tanto \"palermitano\".\r\n\
+      Volver\xE9 para lo salado.\r\n\
+      No dudo que ser\xE1 un referente. \r\n\
+      Detalle sorprendente en este \xEDspa y muy agradable: la cuenta fue de $48. Pagamos con $100. Como no ten\xEDan cambio, nos dijeron \"s\xEDrvanse, nos deben 3 pesos, no hay problema\". Por supuesto, respondiendo al gesto, buscamos cambio y abonamos justo + propina. Rescatable comportamiento, acostumbrados al \"caramelito\"."
+    date: 21-03-2009
+    user: http://mi.guiaoleo.com/members/60238
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Exquisitos sabores franceses y un servicio impecable. Pedimos gazpacho, pezca del dia con pure de zanahoria y jenjibre y escalopes de res con batatas; todo exquisito y muy bien presentado. Los postres son la especialidad, imperdibles. La terraza brinda un clima intimo, la recomiendo en una noche de verano.
+      Los vinos son pocos y caros, deberian tener mas variedad. Deben mejorar el cafe. Voy a volver
+    date: 07-03-2009
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Compartimos un sandwich de lomo con huevo frito y sandwich de salm\xF3n con palta, espectaculares; la otros comensales tambi\xE9n elogiaron los suyos. La limonada con gengibre y el licuado de frambuesa, muy buenos.\r\n\
+      La terraza es un plus sensacional, con sombra de los arboles y sillones, muy lindo todo. La atenci\xF3n, correcta."
+    date: 10-01-2009
+    user: http://mi.guiaoleo.com/members/19028
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: calidad de primera, buena presentacion del plato, atencion muy buena. Para volver a degustar la pasteleria y mas platos
+    date: 07-12-2008
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es muy lindo, sobretodo la terraza, la comida es excelente si bien las porciones no son abundantes, y cuando uno prueba los postres piensa que est\xE1 en una muy buena pasteleria europea. El cafe necesita se mejorado. Volvere."
+    date: 31-10-2008
+    user: http://mi.guiaoleo.com/members/4900
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 muy bien ambientado, fui al mediod\xEDa con una amiga, estuvimos en la terraza, muy recomendable. La comida es muy rica pero los platos son peque\xF1os, no es para ir con hambre. Muy buena la limonada con jenjibre frozen, los panes y no prob\xE9 los postres ni la pasteler\xEDa pero se ve\xEDan muy tentadoras.Me parecio que precio-calidad estaban balanceados"
+    date: 19-10-2008
+    user: http://mi.guiaoleo.com/members/20482
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El viernes pasado fui a cenar con mi se\xF1ora y el lugar realmente nos sorprendi\xF3, recibimos una esmerada atencion y los platos que pedimos fueron naturales y sabrosos. Un placer aparte es la parte de pasteleria, para no perd\xE9rselo !\r\n\
+      El ambiente es muy acojedor y sus anfitriones tambi\xE9n.\r\n\
+      Sumamente recomendable, un hallazgo."
+    date: 19-09-2008
+    user: http://mi.guiaoleo.com/members/51466
+    ambiente_rank: muy bueno

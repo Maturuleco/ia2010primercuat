@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos a mirar el partido porque nos parecia que al ser chico el lugar iba a haber un ambiente acojedor y seguro para los nenes. Asi fue. Estan todos para servirte, tanto camareros como due\xF1os del lugar que se encuentran ahi todo el tiempo. Los licuados eran muy ricos al igual que el tostado en pan arabe. Tienen cervezas y vinos excelentes de todas partes del mundo. Muy recomendable"
+    date: 22-06-2010
+    user: http://mi.guiaoleo.com/members/80913
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Este rest\xF3 es de aquellos a los que quer\xE9s volver, no solo por la comida, tambi\xE9n por su ambiente, poquitas mesas bien distribuidas logran un espacio \xEDntimo y agradable. En fin, un oasis para disfrutar de una buena comida y un buen vino."
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena comida, las opciones de almuerzo son excelentes! sale de lo comun, y altamente recomendable.Buenos precios. Felicitaciones al chef, de primera en calidad y servicio.
+    date: 09-04-2010
+    user: http://mi.guiaoleo.com/members/79828
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me encant\xF3! El ambiente excelente, habia varios extranjeros...muy buena onda. La comida deliciosa, y las tapas que te traen con la cerveza son imperdibles!! El lugar es un poco chiquito pero muy calido.Muy buena bodega."
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/79825
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Lindo lugar en un espacio reducido, con una vereda muy bien aprovechada. La comida no es buena, los fiambres de muy mala calidad y aparenta ser poco higienico. Tienen un espacio ideal para mejorar la propuesta.
+    date: 21-03-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Una muy linda esquina, muy mal aprovechada. De afuera tiene pinta de un lugar agradable para comer algo simple con un buen vino. Pero la verdad es que es familiar en todo el mal sentido de la palabra. Estan los duenios pero no les importa nada. Y la comida? Es mucho mas ambiciosa de lo que puede lograr una cocina tan modesta. Una pena por que podria ser un lugar espectacular. Por ahora, no es nada mas que una decepcion.
+    date: 23-02-2010
+    user: http://mi.guiaoleo.com/members/14032
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La esquina es agradable bien ambientada. La camarera amable. La tabla gourmet es pretensiosa ya que en la misma las hojas verdes est\xE1n cortadas al mil\xEDmetro y llegan a la mesa oxidadas, los panes si  bien tienen buen sabor no pueden servirse humedos. Resulta cara la relaci\xF3n precio calidad."
+    date: 07-02-2010
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buen\xEDsimo! El lugar es divino, super chiquito y muy bien atendido. Es una mini-bodego lind\xEDsima! La comida lleg\xF3 r\xE1pido y muy rica. Recomiendo los pancitos de la panera que son de otro mundo!"
+    date: 10-01-2010
+    user: http://mi.guiaoleo.com/members/41921
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Pocas veces me han atendido peor. La camarera lenta, inoperante, olvidadiza, con un desconocimiento total del contenido de la carta. \xA1Otros comensales salieron quej\xE1ndose a los gritos! El lugar en si es pintorezco y c\xE1lido, los tragos son buenos y el sandwich de salm\xF3n rico, pese a que se olvidaron algunos de sus ingredientes. Imperdonables los langostinos apanados, que hubo que devolverlos porque los apanaron sin pelar, con patas, antenas y todas las dem\xE1s partes no comestibles disimuladas bajo la capa de fritura y el pan rayado semi quemado. Una verdadera l\xE1stima."
+    date: 25-12-2009
+    user: http://mi.guiaoleo.com/members/15570
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Para ser un bar tiene buenos platos gourmet al medio dia y los precios son muy accesibles.la conbinaci\xF3n de los platos principales son exelentes, felicitaciones para el chef."
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/73305
+    ambiente_rank: bueno

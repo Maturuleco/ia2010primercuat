@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es un lugar de paso para comer una pizza o picar algo en caso de encontrase en microcentro. La carta de vino es bastante pobre pero la calidad de la pizza excelente.
+    date: 26-08-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |
+      El peor lugar de Buenos Aires. Tardaron una hora y media en traerme una pizza de muzzarella y dos empanadas. La pizza es patetica y cuesta 30 mangos, varias personas se fueron; no quise hacerlo porque estaba con dos chicas y queria pasar una noche tranqui.
+
+    date: 28-12-2008
+    user: http://mi.guiaoleo.com/members/56729
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: MALISIMO, lo peor de buenos aires
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Un cuasi-comedero al paso. Precios razonables y comida apenas aceptable.
+    date: 04-12-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Para salir del paso con una pizza en la vereda una noche de domingo en el centro cuando casi todo en la zona est\xE1 cerrado y con muy bajo presupuesto no est\xE1 mal"
+    date: 25-11-2007
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buen lugar para comer milanesa de ternera. He ido 2 veces durante mis viajes a BsAs y no me defraud\xF3. Com\xED alli alrededor de las 4 o 5pm, hora en la que todo est\xE1 traquilo (no se c\xF3mo ser\xE1 al mediod\xEDa) y te atienden muy bien."
+    date: 10-10-2007
+    user: http://mi.guiaoleo.com/members/49898
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Lindo lugar para minutas. Las carnes no son muy buenas. Servicio muy simpatico, mis hijos apreciaron las cantidades de dulce de leche en los postres. "
+    date: 06-08-2007
+    user: http://mi.guiaoleo.com/members/17083
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un grill sin pretenciones para almorzar, nada fuera de lo com\xFAn. Servicio r\xE1pido. Carnes marcadas, pero buenas empanadas. "
+    date: 16-04-2007
+    user: http://mi.guiaoleo.com/members/20764
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Todo bueno pero la persona que nos atendi\xF3 se molest\xF3 por que uno de los integrantes del grupo que fuimos ped\xEDa muchas gaseosas."
+    date: 31-01-2007
+    user: http://mi.guiaoleo.com/members/17283
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fuimos 3 peruanos por 5 dias a B.A. y quedamos encantados con la parilla. Tan asi que regresamos al dia siguiente a comer. Ojala pueda volver. Felicitaciones.
+    date: 20-12-2006
+    user: http://mi.guiaoleo.com/members/16387
+    ambiente_rank: muy bueno

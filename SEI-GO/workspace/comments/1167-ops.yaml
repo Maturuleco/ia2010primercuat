@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: para ser de microcentro la comida es exelente y muy variada muy recomendable
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/11040
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: la atencion se lleva los aplausos, a veces descuidan detalles en la comida o en el cafe, pero esta bqastante bien para i a almorzar
+    date: 06-01-2008
+    user: http://mi.guiaoleo.com/members/1698
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui a almorzar como casi todos los d\xEDas y compart\xED con mi mam\xE1 una tarta de puerros y ensalada. En la tarta mi mam\xE1 encontr\xF3 un hueso de carne. Habl\xF3 con el encargado, y \xE9ste confirm\xF3 que era carne. Obviamente nos fuimos sin pagar. Cuando volv\xED sola al otro d\xEDa me pidieron que me retirara y no vuelva m\xE1s. Se perdieron una clienta de primera que lo recomendaba mucho. Cada vez atienden peor, est\xE1n agrandados. No vuelvo m\xE1s. "
+    date: 27-02-2007
+    user: http://mi.guiaoleo.com/members/19694
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Suelo ir seguido a la tarde al salir de la oficina. Me encanta el lugar y la atenci\xF3n que tiene, las camareras son muy simpaticas y amables y los precios estan bien acorde al promedio de la zona."
+    date: 29-11-2006
+    user: http://mi.guiaoleo.com/members/13943
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar donde almuerzo peri\xF3dicamente en el microcentro, donde se come bien y punto. Los platos suelen estar bien presentados, la atenci\xF3n es r\xE1pida y la comida nada deslumbrante, pero para almorzar en hora de trabajo est\xE1 bien y sus precios son razonables. Pero se puede comer igual o mejor por un poco menos al mediod\xEDa en el centro. Un poco menos que buena, pero sin llegar a ser regular (por que estoy bueno lo redondeo para arriba)."
+    date: 16-09-2006
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno

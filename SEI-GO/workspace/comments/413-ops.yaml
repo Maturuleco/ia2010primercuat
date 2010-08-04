@@ -1,0 +1,94 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Un clasico, pero muy caro x lo que sirven. Increiblemente siempre lleno.
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/37163
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es un resto diferente a otros de la zona de la Recoleta, que son mas turisticos, con precios mas elevados y un servicio regular. Aca, la comida y el servicio son muy buenos (recomiendo el lomo a la mostaza) y la atencion es rapida. Los precios son razonables.
+    date: 10-01-2010
+    user: http://mi.guiaoleo.com/members/74921
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El Munich cumplio 50 a\xF1os y sigue manteniendose igual.  Llama la atencion que los extranjeros estan fascinados con su comida porte\xF1a en la que que cada producto tiene sabor propio y el publico local lo tenga un poco olvidado.  Sigue siendo un lugar para habitues y para volver y volver."
+    date: 29-12-2009
+    user: http://mi.guiaoleo.com/members/4900
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La mejor milanesa de Buenos Aires. Un lugar que no sufrio renovaciones en las ultimas decadas. Buen servicio de mozos de toda la vida, esos que son mozos de profesion.
+    date: 20-08-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Es un lugar que recomendio para ir en familia a comer rico, y no esperar nada muy sofisticado. Las cocciones fueron exactas y todo llego a tiempo.Pero en mi opinion, es un poco caro para la simpleza de sus platos. Igualmente, es sorprendente la cantidad de gente que hubo durante toda la noche en el lugar... indiscutiblemente, sigue siendo un lugar donde muchos se siente muy a gusto.Los mozos aportan mucho,ya que te hacen sentir como en casa,con muy buena predisposiion y siempre una sonrisa!El bife de chorizo, se llevo todos los premios!
+    date: 18-06-2009
+    user: http://mi.guiaoleo.com/members/58805
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Restaurante tradicional con amplia carta al estilo de porte\xF1o de hace d\xE9cadas y que ofrece una comida s\xF3lida para atender cualquier antojo, pero sin esperar a cambio de ello preparaciones sofisticadas o complejas, acompa\xF1ado de un servicio razonable pero no destacable. Carta de vinos con precios marcados entre 2 y 3 veces el precio de s\xFAper mercado. En resumen un sitio para comer bien a la manera de varias d\xE9cadas atras, en el que es recomendable olvidarse de pedir vino!"
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Un clasico que se mantiene, con servicio rapido y atento.  Buena opcion para el mediodia si se dispone de poco tiempo.
+    date: 18-10-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: El lugar ya no es lo que era...atencion lenta y distraida, la comida entre regular y buena, y nos agregaron en la cuenta un postre que nunca pedimos, que descontaron ante nuestro comentario pero sin ninguna disculpa. Una pena.
+    date: 08-08-2007
+    user: http://mi.guiaoleo.com/members/23110
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "el lugar es tranquilo y de los antiguos porte\xF1os. La comida buena, recomiendo el sabayon con nueces, de postre. el matambrito que com\xED era abundante y en su punto justo. buena carta y abundante.pidan cerveza tirada: en su temperatura correcta. el pan negro es de los mejores, al igual que el leberwurst que ped\xED de entrada."
+    date: 18-05-2007
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un clasico de Recoleta... para sentarse en la vereda y tomar cafe.  La comida no esta a la altura de la tradici\xF3n del lugar."
+    date: 24-01-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es como visitar a la abuela: Aburrido,\r\n\
+      La comida es cl\xE1sica, l\xE1stima que usan hongos de lata y salchicha vienesa de supermercado."
+    date: 18-01-2007
+    user: http://mi.guiaoleo.com/members/9009
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un restaurante tradicional, de los viejos. La comida es buena. Hay pocos mozos por lo cual atienden muy apurados y con poca dedicaci\xF3n. \r\n\
+      Los precios son muy caros, la carta de vinos es amplia pero car\xEDsima."
+    date: 25-08-2006
+    user: http://mi.guiaoleo.com/members/10249
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Normal, para ir de vez en cuando. \r\n\
+      Ni muy bueno, ni malo. Buena ubicaci\xF3n, con el charme de Recoleta."
+    date: 15-08-2006
+    user: http://mi.guiaoleo.com/members/8668
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es insuperable el revuelto gramajo. Se como muy bien y con atenci\xF3n muy profesional."
+    date: 10-07-2006
+    user: http://mi.guiaoleo.com/members/34334
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es un cl\xE1sico. El lomo a la pimienta con papas a la crema es exquisito. Recomendable."
+    date: 08-07-2006
+    user: http://mi.guiaoleo.com/members/13158
+    ambiente_rank: muy bueno

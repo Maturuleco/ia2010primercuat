@@ -1,0 +1,22 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El ambiente es bueno y la comida tambi\xE9n. Se nota que le ponen dedicaci\xF3n. L\xE1stima la atenci\xF3n, el mozo nos miraba como si no quisiese que estemos all\xED. Quiz\xE1s era \xE9l el que no quer\xEDa estar. Una pena, porque no pudimos disfrutar de eso tan lindo que es la buena comida."
+    date: 25-03-2010
+    user: http://mi.guiaoleo.com/members/76604
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      muy buena propuesta otra vez de la mano de un joven chef, comimos muy bien relajados de estar comiendo comida fresca.
+      platos ricos y bien presentados.
+      felicitaciones!! volvere
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/65253
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una gran experiencia gastron\xF3mica, un viaje de sabores, comida que te hace bailar. Muy muy recomendable!"
+    date: 10-12-2009
+    user: http://mi.guiaoleo.com/members/76175
+    ambiente_rank: muy bueno

@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: la pizza excelente todo bien
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/72493
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Una pizer\xEDa con lindo ambiente pero con una piza a la piedra ins\xEDpida. No vale nada. Muy cara. Si te gusta la piza al molde, la tradicional de muzzarela y aceitunas... NO VAYAS porque la de all\xED no se parece en nada. Si te gusta la piza \"moderna\" a la piedra, SIN SABOR y cara ese es el lugar."
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/75535
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Excelente pizza. Muy buena pizzeria para comer de paso.
+    date: 08-11-2009
+    user: http://mi.guiaoleo.com/members/29067
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza ea muy buena al igual que los postres... es mejor pedir por tel\xE9fono y comer en tu casa. El servicio de delivery es muy eficiente y r\xE1pido."
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/68026
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: estupenda la comida q se iguala con la atencion en el lugar y tambien como via telefonica...para mi pensar es un exelente lugar
+    date: 14-06-2008
+    user: http://mi.guiaoleo.com/members/46236
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Coincido con el usuario  morrissey en que para ser cadena, mantienen bien la calidad de los productos. La pizza es buena, los postres, sobre todo las copas heladas son muy abundantes, lo que no me gusto fueron las medialunas, les senti gusto a pizza, debe ser por el horno o las bendejas, pero en gral, para ser pizzaria es recomendable.
+    date: 10-06-2008
+    user: http://mi.guiaoleo.com/members/39882
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La Continental es una buena pizzer\xEDa; no le pidan maravillas, pero como cadena, mantienen una buena calidad. El local es ruidoso y un poco sucio, y los mozos a veces tardan bastante en atenderte. La pizza Fogato es muy rica, al igual que la vegetariana (aunque la calidad de \xE9sta \xFAltima var\xEDa bastante, al igual que los ingredientes). Opci\xF3n recomendable, con precios razonables."
+    date: 22-02-2008
+    user: http://mi.guiaoleo.com/members/6880
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy rica la pizza y las empanadas. Me gusta la calidad de los productos que utilizan. Recomendable.
+    date: 10-01-2008
+    user: http://mi.guiaoleo.com/members/11598
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La pizza y las empanadas son de lo mejor. El personal es experimentado y sumamente atento con el cliente. Pero el ambiente es medio flojito, sobre todo por la mala climatizaci\xF3n en el piso superior (no se puede estar arriba en verano). Tendr\xEDan que corregir esto pronto por el beneficio de todos, porque los clientes estamos inc\xF3modos y el mozo que sube y baja escaleras directamente se muere. \xA1Pongan un buen aire! Pero todo lo dem\xE1s est\xE1 10 puntos."
+    date: 08-01-2008
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida es riqu\xEDsima; siempre lo fue. Sin embargo, el local es p\xE9simo y muy ruidoso, siempre est\xE1 sucio (mediod\xEDa tarde o noche), nunca lo limpian. La ventana de arriba da a la carniceria cosa que no es muy lindo, a mi no me gusta porque soy casi vegetariana. Ojal\xE1 pudieran cambiar las normas de higiene del local. "
+    date: 19-04-2007
+    user: http://mi.guiaoleo.com/members/21819
+    ambiente_rank: malo/regular

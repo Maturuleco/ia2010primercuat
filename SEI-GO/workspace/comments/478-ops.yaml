@@ -1,0 +1,259 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Desastroza la atenci\xF3n. La carta tiene nombres gourmet, pero la comida es mala. Abstenerce de pedir alguna carne, salvo que le guste la carne hervida.\r\n\
+      Nada recomendable, es una disco que ofrece comida pero muy mala y a precios desorbitados.\r\n\
+      El sushi es tambi\xE9n malo y las piezas son minis. De cada roll deben sacar 12 piezas."
+    date: 18-05-2010
+    user: http://mi.guiaoleo.com/members/82109
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy bueno
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/78600
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: nos llamo la atencion que la camarera no supiera pronunciar los nombres de los platos y menos explicar bien los ingredientes
+    date: 13-03-2010
+    user: http://mi.guiaoleo.com/members/64218
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Asia de Cuba no es un buen restaurante para ir a comer, es una disco que te da ese servicio. Nada mas
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Asia de Cuba es una discoteca, no un lugar para ir a comer.\r\n\
+      Si bien se esfuerzan por armar una carta con nombres que -al menos- intrigan y ambientan el sal\xF3n con un empe\xF1o a reconocer, no es m\xE1s que un intento por atraer gente a que ingrese m\xE1s temprano e inicie su noche comiendo en el lugar que luego va a bailar.\r\n\
+      A tomar algo, a bailar y a conocer gente: SI. A comer: NO."
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/1357
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Si bien Asia de Cuba es una disco y no un lugar para ir a comer, ten\xEDa cierta esperanza por los nombres y descripciones que anuncia el men\xFA. Sin embargo me fui descepcionado no solo por la comida, que me resulto ins\xEDpida y de baja calidad, sino tambi\xE9n por lo descuidado de la atenci\xF3n. \xDAnicamente se podr\xEDa rescatar algunos aspectos de la ambientaci\xF3n, como lo es el uniforme del personal, la m\xFAsica, y la ubicaci\xF3n del local (recomendable una mesa exterior con vista al canal de pto. madero). Si quiere conocer este lugar, vaya a bailar y a tomar alg\xFAn trago, definitivamente no a comer."
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/69568
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Es cheto.
+    date: 14-01-2010
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar agradable con un ambiente muy asi\xE1tico pero poco iluminado, para sena rom\xE1ntica \xA1S\xFAper! La atenci\xF3n es buena, la comida es rica pero el sushi no es su fuerte; una de las ventajas es que despu\xE9s de la 01:00 hs se hace disco. Para conocer."
+    date: 19-09-2009
+    user: http://mi.guiaoleo.com/members/63498
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Muy feo Sushi, creo que uno de los peores que prob\xE9. Tragos mediocres. Atenci\xF3n regular."
+    date: 28-03-2009
+    user: http://mi.guiaoleo.com/members/57142
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es buena, pero deber\xEDan esmerarse m\xE1s por el p\xFAblico al que apuntan, la zona en la que se encuentra el restaurante y el nivel de precios de los platos; en cuanto al servicio, si bien la moza fue amable y agradable en su trato, los platos tardaron una hora en llegar. El ambiente me parece lo m\xE1s destacado pero la luz resulta demasiado escasa a la hora de la cena. De todos modos, vale la pena conocer este rest\xF3 con onda, coqueto y exclusivo en una hermosa ubicaci\xF3n frente al r\xEDo para pasar una noche divertida, cool e internacional en Bs As."
+    date: 23-03-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: la atencion es mala, ya que te atienden diferentes personas, y ya no sabes a quien pedirles las cosas...en mi caso tomamos vino y nos dijeron que se quedaron sin copas para vino, la verdad que de 4ta por el lugar y el precio que pagas, por lo que terminamos tomando en copa de agua un vino carisimo. demoran mucho en traer los platos, la verdad que no hay relacion precio- calidad, ya que debrian brindar un mejor servicio por los precios que cobran,
+    date: 27-02-2009
+    user: http://mi.guiaoleo.com/members/57355
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui con amigos en Halloween. La comida es buena; el problema es que llega siempre poco caliente: los mozos son simp\xE1ticos, aunque se pierden en el sal\xF3n (quizas son pocos para la cantidad de personas). La carta de vinos no es mala, aunque muy cara!. La ambientaci\xF3n del lugar es buena, como oriental pero kitsch. Los ba\xF1os limpios y modernos. Su valor agregado es la disco, y los camastros afuera, todas las tardes."
+    date: 29-10-2008
+    user: http://mi.guiaoleo.com/members/44043
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo recomiendo... para ir a bailar! Olv\xEDdense de cenar decentemente: mala / desinteresada atenci\xF3n, demoras exageradas, platos \"tibios\", el sushi parec\xEDa que lo hizo mi prima de 12 a\xF1os y 4 d\xEDas atr\xE1s! vergonzoso! precios altos, poca luz, etc. etc. Si vuelvo no ser\xE1 para comer, claramente! Saludos!"
+    date: 28-10-2008
+    user: http://mi.guiaoleo.com/members/10480
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es una disco, es un error considerarlo una opci\xF3n para comer. La atencion es desastroza, la comida llega tarde, fria, cruda.... despues de esperar un siglo el hambre hace que comas lo que te traigan, si es que no se olvidan de traer alg\xFAn plato. Recomendaci\xF3n: vayan despues de las 12 a bailar y tomar tragos."
+    date: 24-09-2008
+    user: http://mi.guiaoleo.com/members/8416
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "No me gust\xF3 para nada, la carta de vinos es muy pobre, la luz es tan baja que no podes ver lo que est\xE1s comiendo ni pod\xE9s leer la carta porque las velas no te sirven. Las camareras le tratan de poner onda pero no les gusta trabajar ah\xED, se les nota."
+    date: 27-08-2008
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: regular.
+    date: 15-07-2008
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El ambiente est\xE1 muy bueno, para ir con amigos y pasarla bien. Se arma conga una vez que cierra la cocina y es como un boliche m\xE1s. Muy buena onda, fashion. Eso s\xED, no esperen unos platos b\xE1rbaros, tomenlo como un boliche donde pueden comer algo antes, pero no d\xE1 para ir a comer solamente, para eso, vayan a un resto de verdad."
+    date: 18-06-2008
+    user: http://mi.guiaoleo.com/members/16793
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: mucha onda y la comida es rica. vale la pena visitarlo
+    date: 09-06-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Pesima comida y servicio en un lugar que esta montado para los turistas.  Olvidable.
+    date: 11-04-2008
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Muy caro por lo que es!! se cobra la decoracion del lugar y no los platos y la atencion.
+      Los platos minimos y la atenciond escudiado.
+      La decoracion hermosa, fanal en la mesa, camino de petalos de rosas, todo muy ambientado.. pero las mesas estan una al lado de la otras separadas por 10 cm! mi mesa estaba pegada a la de al lado y con la silla tocaba al de atras!
+      Demasiado olor a sahumerio para mi gusto..
+    date: 24-01-2008
+    user: http://mi.guiaoleo.com/members/38775
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos con un grupo de amigos y es un lugar incre\xEDble, con una ambientaci\xF3n pocas veces vista... El sushi es de lo mejor que probamos y adem\xE1s el lugar te da la posibilidad de quedarte a bailar. La atenci\xF3n por parte de las camareras fue muy buena y la disco explota de gente. Me gusta salir a cenar y conocer restaurantes, y definitivamente voy a volver a Asia de Cuba. es un lugar altamente recomendable!"
+    date: 28-12-2007
+    user: http://mi.guiaoleo.com/members/38632
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El lugar y la ambientacion es muy bueno. Los platos acordes. La barra de tragos muy amplia y buena. La atencion y la espera no es muy buena.
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/40289
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fuimos un jueves x la noche con amigos. El servicio no es suficiente para la cantidad de comensales, esperamos bastante para que nos tomaran cada orden y nos cobraran, tienen bastante desprolijidad en cuanto a la organizaci\xF2n. El men\xF9 era fijo, la carne no fue servida acorde al punto de coccion solicitado, hay bastante gente pero puede escucharse para hablar hasta q a las 1.15 aprox, se hace baile con musica electronica y buen ambiente. "
+    date: 04-10-2007
+    user: http://mi.guiaoleo.com/members/31176
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Llegamos con compa\xF1eros de trabajo a las 12.30. No hab\xEDa nadie. Nos tomaron el pedido. A las 13 nos entregaron las entradas y las bebidas (Ensalada caprese sin albahaca).\r\n\
+      A las 14 hs, decidimos volver a trabajar con la \"alegre\" sorpresa que el agua que nos tomamos y 4 rodajas de tomate con queso fresco salieron $15.\r\n\
+      Un horror la atenci\xF3n. No pienso volver ni recomendar. Que los ayude Buda."
+    date: 28-09-2007
+    user: http://mi.guiaoleo.com/members/19964
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Inmejorable lugar para disfrutar de Puerto Madero a precios razonables y con la opci\xF3n de continuar la noche al ritmo del DJ. La atenci\xF3n es buena, la comida no es nada del otro mundo, pero la presencia del lugar se lleva todos los laureles."
+    date: 27-09-2007
+    user: http://mi.guiaoleo.com/members/33364
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Que se puede decir de un lugar con una carta que no tiene mas de la mitad de lo que promete? Centolla? No. Trucha? No. Los arrolladitos, (que a eso no se le puede llamar sushi), estaban tan duros que parecian de hace 3 dias. La camarera de 40 kilos no tuvo fuerza suficiente en nuestra mesa ni en la de al lado para abrir el champagne o el vino. Los precios carisimos, la manteleria y la vajilla baratas lo mismo que el decorado. Una verguenza, una estafa.
+    date: 09-05-2007
+    user: http://mi.guiaoleo.com/members/23259
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Al mediodia este lugar ofrece unos menues ejecutivos muy completos y sabrosos. Lo ideal es ir durante el verano al mediodia y reservar una de las mesas de afuera. Dan ganas de quedarse toda la tarde recostado en esos sillones tomando un buen trago y hasta llecarse un libro.\r\n\
+      Durante la noche tambi\xE9n es muy bueno, aunque un poco m\xE1s caro. Ideal para ir a cenar despu\xE9s del trabajo y quedarse a bailar unas horas. "
+    date: 05-03-2007
+    user: http://mi.guiaoleo.com/members/25964
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es excelente. Muy bien ambientado. Ideal para parejas. Luces tenues y ambiente muy tranquilo. Para conversar y compartir un momento rom\xE1ntico. La comida es mediocre. El bife era dur\xEDsimo, tard\xF3 bastante en venir el pedido. Las mozas atienden muy bien, y son atentas. "
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/13997
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Comida mediocre y con mucha espera entre entrada y platos. Si vas en grupo, que Dios te ayude ya que las mesas est\xE1n encimadas y las mozas no son lo m\xE1s r\xE1pidas del mundo. Hay poco lugar para moverse.\r\n\
+      La m\xFAsica durante la cena, impide cualquier conversaci\xF3n, no queda claro si es un restaurante con bailable o una disco que antes de te dan de comer."
+    date: 23-12-2006
+    user: http://mi.guiaoleo.com/members/13376
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es s\xF3lo para ir una vez y disfrutar de la disco. \r\n\
+      No lo recomiendo para ir a comer por el poco esmero en la atenci\xF3n y la poca comida."
+    date: 18-12-2006
+    user: http://mi.guiaoleo.com/members/14655
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Realmente s\xF3lo se puede ir a comer aqu\xED cuando uno piensa luego ir al boliche, por que la comida tiene nombre sofisticados, pero gastron\xF3micamente es mediocre. Entradas y ensaladas sin condimento, platos principales frios (para comer carne hay que rogar por un cuchillo que corte) y los postres parecen que los puisieron en el plato con una lupa. Y para peor; el servicio es lento, de muy poca profesionalidad y escasa amabilidad. Como para no ir nunca m\xE1s a comer. A bailar si, a comer nunca m\xE1s."
+    date: 06-12-2006
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "P\xE9sima relaci\xF3n precio, calidad y servicio. Muy mala disposici\xF3n de las mozas. El lomo, dur\xEDsimo. La ensalada con 1 boconccino y 2 tomatitos. \xA1Una l\xE1stima!"
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/14074
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Com\xED bien y la atenci\xF3n fue muy buena. El ambiente es agradable, en especial la m\xFAsica que acompa\xF1a el momento."
+    date: 04-10-2006
+    user: http://mi.guiaoleo.com/members/12544
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Comida mediocre dentro de los rest\xF3s japoneses. La tira de sashimi era un pedacito de 2x3. El servicio es terible y la bebida un absurdo de cara. No vale el precio, no vale la visita."
+    date: 25-08-2006
+    user: http://mi.guiaoleo.com/members/11477
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Um sushi como qualquer restaurante japones mediano. Servi\xE7o atencioso. O ambiente \xE9 escuro, talvez rom\xE2ntico, e a luz de velas, que ajuda a esconder as toalhas de mesa manchadas. Ambiente muito ruidoso, com muita fuma\xE7a e mal conservado, cadeiras nada confort\xE1veis, no entanto at\xE9 \xE9 bonito. Acho que est\xE1 mais para um bar do que para um restaurante. Mas n\xE3o voltarei e n\xE3o recomendo."
+    date: 21-07-2006
+    user: http://mi.guiaoleo.com/members/9762
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Si uno quiere tener una cena normal de a dos, con buena atenci\xF3n y comida, no vaya a este lugar. \r\n\
+      Ahora si lo que se busca es un lugar fashion para salir de noche, sin importarle la comida y el servicio, dele una oportunidad.\r\n\
+      Fui con mi mujer y las mesas de a dos no tienen mas de 20 cm de separaci\xF3n. \r\n\
+      Caro y pretencioso para la comida servida."
+    date: 22-04-2006
+    user: http://mi.guiaoleo.com/members/7902
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El ambiente es ideal, para ir tanto con amigos o en pareja.\r\n\
+      Todo muy tranquilo y un estilo \xE9tnico muy bien logrado. \r\n\
+      Yo fui un viernes y el show me pareci\xF3 divino. Se los recomiendo."
+    date: 12-04-2006
+    user: http://mi.guiaoleo.com/members/7693
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "EL men\xFA ejecutivo es muy bueno. El problema son los mozos: muy desorganizados y demoran much\xEDsimo. El interior del lugar es m\xE1s lindo de noche que de d\xEDa ya que al mediod\xEDa se notan much\xEDsimo las manchas de suciedad de los sillones, cortinas deterioradas y la falta de mantenimiento."
+    date: 23-03-2006
+    user: http://mi.guiaoleo.com/members/7408
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida no es extraordinaria, pero cenar en las mesas especiales de afuera con vista al r\xEDo y la luna puede dar como resultado una velada muy agradable y rom\xE1ntica"
+    date: 21-12-2005
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "\xA1El salm\xF3n del sushi ten\xEDa espinas!"
+    date: 14-11-2005
+    user: http://mi.guiaoleo.com/members/4878
+    ambiente_rank: excelente

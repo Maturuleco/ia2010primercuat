@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "el lugar sigue como siempre, agradable, la atenci\xF3n es muy buena y frecuento el lugar por los precios acertados, la comida deliciosa, si tardan es porque los preparan en el momento. todo a favor."
+    date: 05-01-2010
+    user: http://mi.guiaoleo.com/members/74559
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Me llevaron el buen recuerdo y el actual 30% off en comida (s\xF3lo efectivo, domingo a jueves). No se lo ve muy cambiado (mantiene el piso de cer\xE1mica, espejos, luces dicroicas, imperdonables detalles dorados) a pesar de los manteles y sillones piripip\xED. La comida (supremas, lomos, algunas ensaladas, pizza) es entre buena y muy buena, pero los costos se dispararon rid\xEDculamente. \xBF\xA1$100 por plato, postre y agua?! Me fui pensando \"para esto, hubiera ido a... que es mucho mejor y m\xE1s barato\" (se me ocurrieron diez opciones). S\xF3lo volver\xEDa por sus pastas, de lo poco que se destaca en calidad/precio."
+    date: 25-11-2009
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Elegimos Alo Alo para realizar el evento del Bautismo de mi hijo. Tomamos el t\xE9 libre, realmente riqu\xEDsmo, muy abundante y muy buena atenci\xF3n. \xC9ramos 40 personas y todo el tiempo ten\xEDamos los platos llenos.\r\n\
+      Muy recomendable y volver\xE9 para realizar otra reuni\xF3n."
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/24515
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF3n del mozo, el lugar impecable, la comida que pedimos era fresca y agradable, las porciones de pollo al wok son para compartir. Un lugar para volver."
+    date: 28-06-2009
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lo mejor que tiene el lugar es la vista al parque.\r\n\
+      Los mozoz tienen un humor terrible si uno va con ni\xF1os, evidentemente estan acostumbrados a la gente mayor."
+    date: 02-04-2009
+    user: http://mi.guiaoleo.com/members/60573
+    ambiente_rank: bueno

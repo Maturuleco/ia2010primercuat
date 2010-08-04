@@ -1,0 +1,431 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Ya lo conoc\xEDa, y por eso volv\xED. CANTINA t\xEDpica para ir con amigos, no recomendable para una noche rom\xE1ntica. Las porciones si bien no son muy abundantes, sirven una aceptable porci\xF3n. \r\n\
+      La comida es muy rica, con GRAN gusto casero.Las pastas son muy buenas. Y los postres tambi\xE9n son muy ricos.\r\n\
+      La atenci\xF3n no es muy buena, si no sos conocido de la casa.Es una atenci\xF3n bien de cantina, al igual que el ambiente. Bien pintoresco. Volver\xE9..."
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/83955
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      El lugar es una cantina de barrio, que se llena de
+      clientes incluso los dias de semana, y termina siendo muy ruidoso. Los platos y porciones son muy ricas y abundantes. El servicio es rapido, pero descuidado. En un momento el mozo nos trae la factura como apurandonos a levantarnos (penso que se lo habiamos pedido...bue...). Vale la pena ir a comer, sin pagar mucho, sin darle bola al servicio...
+    date: 29-04-2010
+    user: http://mi.guiaoleo.com/members/32454
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Se come bien,nada del otro mundo pero onda casera en serio. La atenci\xF3n, como otros lo remarcan, deja mucho que desear. El mozo ven\xEDa, y si no le dec\xEDas enseguida lo que quer\xEDas se iba. No era capaz de esperar dos minutos, parec\xEDa que estaba impaciente. Por el contrario, los due\xF1os parecen m\xE1s amables. No tienen caf\xE9 porque si no \"la gente no se va m\xE1s\" (Nunca me lo hab\xEDan dicho tan directamente, aunque sabemos que es as\xED). Mucho ambiente futbolero y de artistas de segunda l\xEDnea, que le dan al lugar esa onda \"de amigos\" que mencionan. Si no pertenec\xE9s, parece que est\xE1s de m\xE1s."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/7483
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Realmente nos encontramos muy bien ya que visitamos esa casa desde hace 33 a\xF1os y hemos visto y conocido a sus fundadores,Hugo padre,su esposa la famosa abuela que amasaba y cocinaba como los Dioses.-"
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/75088
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "el servicio es malisimo, si no te conocen te tratan mal, descartandote. El ambiente muy ruidoso, gente gritando como si estuviesen en la cancha. La comida es muy rica, y los platos poco abundantes. Lo pensar\xEDa dos veces antes de volver a ir."
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/72654
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Una cantina muy bien ambientada (con fotos viejas, cuadros y camisetas de futbol autografiadas). La comida se nota muy fresca, casera y de gran calidad (muy recomendable pastas con salsa Timoteo). Lo unico criticable (muy) es la atencion, que es de "rustica" para abajo. Igualmente se nota que es la "onda del lugar" la manera de antender, no se nota mala intencion. Ideal para ir con amigos, familia y tambien en pareja, pero eso si, no para una cena romantica!
+    date: 29-08-2009
+    user: http://mi.guiaoleo.com/members/6396
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente cantina bodegon,lugar totalmente calido,caseron precioso donde se destacan antiguedades en el subusuelo donde estan los ba\xF1os.atencion muy familiar,se llena de turistas y se genera un ambiente muy acogedor.las carnes y sus combinaciones son exquisitas asi como los bu\xF1uelos SIN CEBOLLA!!!no machi,jejeje.atencion muy buena y los platos muy bien servidos para compartir,con toques particulares bien caseros.carta de vinos escasa pero nos clavamos un gascon poderoso.las pastas son caseras y el lugar es ideal para ir con grupos grandes de amigos,ruido,bullicio y un ambiente super agradable."
+    date: 25-08-2009
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Los platos son muy abundantes, es extremadamente ruidoso, apretado, y si el mozo no te conoce te atiende como si estuvieras molestando. para colmo es carisimo. La ambientacion es horrible. Mucha camiseta de futbol.
+    date: 23-08-2009
+    user: http://mi.guiaoleo.com/members/68004
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Creo que la principal virtud es el precio, porque la atenci\xF3n no es muy buena. En cuanto a la comida, es del tipo casera pero no es muy buena, las pastas tienen la masa demasiado gruesa y no es rica. Me gustan las cantinas pero \xE9sta no es lo que esperaba."
+    date: 22-08-2009
+    user: http://mi.guiaoleo.com/members/65283
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es buena sin destacarse, la atenci\xF3n podria mejorar. Ambiente t\xEDpico de cantina."
+    date: 21-08-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Cantina/bodeg\xF3n de barrio.Ambientaci\xF3n acorde ( fotos , camisetas , manteles de papel encima de los de tela ,etc).Atenci\xF3n buena ,sin sobresalir.Comida rica , casera ,abundante ,con carta donde se pueden eligir esos platos caseros como lentejas , ni\xF1os envueltos o alb\xF3ndigas ,bastante dif\xEDciles de encontrar en otros restaurantes \"snobs\"de la zona palermitana y aleda\xF1a.El ambiente es ruidoso y bochinchero como \"debe ser\"un bodeg\xF3n que se precie de serlo.Si le gusta , como a mi , este tipo de restaurante , se lo recomiendo , los precios son buenos. Si busca cena \xEDntima en lugar fashion no vaya"
+    date: 24-07-2009
+    user: http://mi.guiaoleo.com/members/45039
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es muy simp\xE1tico y pintoresco. El ambiente es familiar y bastante ruidoso. Eramos dos personas y nos toc\xF3 una mesa en el medio de dos super numerosas. Creo que durante la semana debe ser m\xE1s tranquilo, porque no paraba de llegar gente. La comida es rica, muy casera y los precios est\xE1n bien."
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/61540
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida tiene un toque casero, y es sabros\xECsima. Las porciones son adecuadas y la relaci\xF2n calidad/precio es excelente.\r\n\
+      Tal vez el servicio sorprende al principio, pero despu\xE8s de un par de veces mejora."
+    date: 31-05-2009
+    user: http://mi.guiaoleo.com/members/63289
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Como buena cantina, el ambiente es muy familiar, pero al mismo tiempo c\xE1lido y agradable. La atenci\xF3n excelente, uno de los mozos es muy especial con los ni\xF1os y se lo lleva a pasear por el sitio. La comida es excelente, como si estuvieras comiendo en casa de tu abuela en el pueblito italiano. No es la primera vez que voy y no ser\xE1 la \xFAltima tampoco."
+    date: 30-05-2009
+    user: http://mi.guiaoleo.com/members/18050
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Ecxelentes pastas tortas y el budin de pan  .Muy buena atencion
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/61289
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me permitieron hacer una reserva de 14 personas para un s\xE1bado a la noche. Eso ya fue un gran punto a favor de esta cl\xE1sica cantina (que no necesita clientes porque le sobran).\r\n\
+      La atenci\xF3n es muy particular, mozo cantinero a la vieja usanza de los que algunos aman y otros no tanto.\r\n\
+      Comimos comida casera exquisita. Pedimos tortillas de pap\xE1 (recomiendo la que viene con cebolla de verdeo), varios platos de picada y despu\xE9s los platos principales que son todos para compartir. El matambrito al verdeo es un cl\xE1sico imperdible! Pagamos 37$ por persona!!!\r\n\
+      Todos felices y contentos!"
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/24319
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Es una de esas cantinas de barrio con sabor. La han pintado pero todo sigue igual. Muy buena comida casera con grandes raciones. Execelente atencion si vas con asiduos. 
+      Siempre lleno. Vale la pena.
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/55236
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "\"Bodeg\xF3n\" de barrio, atenci\xF3n muy desprolija, platos con sabor casero (nada del otro mundo), la carta es atrayente con propuestas como la \"cocina de la vieja\"\r\n\
+      Habr\xE1 que reincidir para formar una opini\xF3n m\xE1s acabada"
+    date: 30-03-2009
+    user: http://mi.guiaoleo.com/members/18568
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida no me result\xF2 nada del otro mundo: platos de mediana calidad, porciones promedio, precio muy bajo.  La atenci\xF2n es correcta, el lugar es muy ruidoso."
+    date: 27-12-2008
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar para ir a comer con amigos. Pedimos los lomitos y estaban bien servidos y sabrosos. La lasagna muy buena tambi\xE9n. El tiramis\xFA raro, creo que ten\xEDa ricota. Pero los precios son buenos y acordes al lugar (apenas mantenido, esa es su onda). El mozo muy efectivo aunque \"seco\", supongo por tener demasiadas mesas a su cargo."
+    date: 23-08-2008
+    user: http://mi.guiaoleo.com/members/30731
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es lindo, pintoresco.\r\n\
+      Ambiente muy cantina de barrio donde vienen a comer los vecinos del barrio. Muy de habitu\xE9s que saludan al mozo.\r\n\
+      La comida fue abundante y rica. Nada espectacular. \r\n\
+      Los puntos en contra son lo que tardan en servir la comida (esperamos mas de 40 minutos) y que no le pone mucha onda el mozo.\r\n\
+      Un poco ruidoso, tal vez es para ir con amigos."
+    date: 16-07-2008
+    user: http://mi.guiaoleo.com/members/999
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es tan cantina de barrio que, si no sos del barrio, probablemente te sientas fuera de lugar, el mozo te atienda \xFAltimo, te traiga la comida fr\xEDa y cuando quieras pedir postre, te va a quedar solamente flan. Ojo, se llena, la calidad es barbara, pero si queres un panqueque, tenes que esperar 40 minutos hasta que se desocupa el cocinero. Ideal para ir en d\xEDas poco congestionados o en horario del mediodia."
+    date: 16-07-2008
+    user: http://mi.guiaoleo.com/members/5576
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente como siempre, recomiendo el pollo al antelo.
+    date: 19-06-2008
+    user: http://mi.guiaoleo.com/members/3835
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un buen lugar para ir con amigos, una de esas viejas cantinas de barrio. Pero como sugerencia, mejorar\xEDa mucho la atenci\xF3n, hay pocos mozos y los que hay mucha onda no le ponen. La comida se demor\xF3 mas de lo normal, 40 minutos esperamos por un pollo a la calabresa."
+    date: 12-06-2008
+    user: http://mi.guiaoleo.com/members/45380
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Te atienden mal y est\xE1 perfecto. Te dicen que comer y sigue estando perfecto. Hay poco lugar y a veces hay que esperar para sentarse donde casi no hay lugar. Se come tan bien, el ambiente es tan tan de cantina. Conozco gente que nunca consigui\xF3 lugar y est\xE1 muy bien. Para volver siempre, con la familia y con humor y sin apuro. Exigentes abstenerse. Sibaritas y dandys, esto es el para\xEDso. Preguntale al mozo, el sabe lo que hay y lo que est\xE1 muy bueno."
+    date: 08-06-2008
+    user: http://mi.guiaoleo.com/members/11229
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n es p\xE9sima, nos dejaban la comida y ten\xEDamos que servirnos nosotros. Las porciones no son abundantes."
+    date: 13-05-2008
+    user: http://mi.guiaoleo.com/members/5453
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Pocas veces vi faltarle el respeto al cliente como en este lugar. He ido varias veces, pero definitvamente no vuelvo. Los due\xF1os del lugar gritan e insultan en todo momento, cosa que complica mucho el tener una cena tranquila. Los platos estaban frios, eran poco abundantes, demasiado caros y mal preparados. El mozo nos atendi\xF3 de muy mala manera, casi con desprecio. Si no quieren laburar, que cierren."
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/33090
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Comi unas pastas q estaban muy buenas, por el echo de ser abundantes y caseras, no esperen gran calidad, la atencion fue simplemente buena, lastima q hay q esperar mucho para comer. igual en resumen es una CANTINA no esperen mucho ams q eso, nose si vale la pena pagar  lo q se paga a relacion precio calidad.
+    date: 25-03-2008
+    user: http://mi.guiaoleo.com/members/43504
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Una pena que una cantina de barrio no aproveche al maximo sus origenes, la comida fue regular en general, la salsa muy acida y demas. La paradoja es que debe estar de moda ya que estaba lleno de turistas y gente linda de Palermo y alrededores.
+    date: 28-02-2008
+    user: http://mi.guiaoleo.com/members/42494
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena la comida e informal la atenci\xF3n.  Hay que esperar bastante pero vale la pena.  Ba\xF1os muy limpios."
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/14075
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Los Amigos es una cantina de las de \"antes\". La comida es super casera y sabrosa. No hay que pedirle lujos ni nada parecido: buenas porciones y buenos precios. Es ruidosa pero confortable y variopinta, para darse una idea: hay muchas camisetas (de f\xFAtbol, voley, etc.) colgadas, paredes llenas de fotos de famosos autografiadas y hasta retratos de Per\xF3n y Evita coronados por la foto del Papa). La atenci\xF3n es correcta, aunque bien \"de cantina\": es decir, nada de detalles ni preciosismos. Excelente lugar para una cena entre amigos."
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/38047
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Toda la comida es excelente, arrancando por un antipasto con variedad de quesos, salames, chambota y pizza. Los platos son abundantes y muy ricos al estilo cantina. Los postres son normales.\r\n\
+      Un real cantina porte\xF1a!!!!"
+    date: 05-01-2008
+    user: http://mi.guiaoleo.com/members/10459
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El nombre lo dice todo: si no sos amigo o habitue de a\xF1os, te trataran como que te estan haciendo un favor. Muy poca onda. La comida es rica pero nada del otro mundo. Y no es barato."
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/22134
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Salsa rosa horrible...pastas malisimas. Panqueques horribles,con gusto \xE1cido. La atencion pesima.Por favor no se claven....ni lo intenten !"
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/37353
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Te atienden mal pero realmente mal. No se puede creer que uno va con la familia a comer y tenga que ser atendido por personas que parece que hay que agradecerles si te miran cuando les hablas como si te hicieran un favor. No es barato. 
+      La comida es regular, pero se destaca lo mal que atienden
+    date: 15-12-2007
+    user: http://mi.guiaoleo.com/members/41412
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar queda cerca de mi casa, pero la verdad no vamos muy seguido, no se come mal, el ambiente es muy ruidoso, y los mediodias si uno llega un poco tarde el mozo se encarga de hacernos saber que la cocina cierra temprano, espantoso! "
+    date: 01-12-2007
+    user: http://mi.guiaoleo.com/members/35985
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Una cantina de barrio donde comer bien y barato. 
+      Es altamente recomedable para grandes mesas con amigos. Eso si, hay que ir temprano porque sino te quedas sin lugar.
+    date: 16-10-2007
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      se trata de una cantina con muchos cuadros, etc mucho ruido y lio de gente llendo y viniendo.. peor vale la pena ir!
+      ideal con amigos o familia.. me encanto y volvere a ir
+    date: 30-07-2007
+    user: http://mi.guiaoleo.com/members/30479
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Tipica cantina ruidosa, no hay espacion entre las mesas. Las salsas son improvisadas no hay una buena elboracion general de los platos. Atencio poco personalizada y desentendida. "
+    date: 21-07-2007
+    user: http://mi.guiaoleo.com/members/18174
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La cantina sigue siendo un cl\xE1sico de Baires, donde se conjura la la historia de nuestro deporte, una atenci\xF3n buena, y una comida excelente. Su pollo al lim\xF3n( antello) es espectacular, sus pastas buenas siempre, y la entrada te aniquila( pedir unas prociones de su pizza). Sumado al postre de la casa( pedirlo sin helado), har\xE1 que visitar la cantina de una gran experiencia."
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un bodegon, que se a puesto de moda. Muchos futbolistas y fauna de la tv. Pero la comida es buena , especialmente el pollo y las pastas siempre caseras. Siempre esta lleno , y si no sos ni habitu\xE9 ni famoso la atenci\xF3n puede llegar ponerte de muy mal humor (ir relajado)."
+    date: 05-06-2007
+    user: http://mi.guiaoleo.com/members/15246
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: Muy buena la comida, el lugar bien, la atencion malisima, pero la comida lo vale.
+    date: 10-05-2007
+    user: http://mi.guiaoleo.com/members/29319
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Desde hace varios a\xF1os que voy. El sabor de las comidas que prepara la nonna es excelente. La atenci\xF3n de los mozos al ser habitu\xE9s es excelente, aunque un par de veces mand\xE9 amigos a cenar y me dijeron que los atendieron con total frialdad. Si quer\xE9s pasarla bien y comer de lujo, no dudes en ir a la Cantina. El precio es siempre a ojo, pero nunca se zarpan. Si sos medio chulo es el lugar indicado para encontrarte a alg\xFAn famosillo. "
+    date: 11-04-2007
+    user: http://mi.guiaoleo.com/members/22696
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es la t\xEDpica cantina argentina, se percibe el gusto casero en la comida, que es bastante buena, vale la pena. El \"pollo antelo\" es un plato simple pero muy bueno."
+    date: 07-04-2007
+    user: http://mi.guiaoleo.com/members/20471
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una cantina t\xEDpica argentina. Para ir con amigos a comer bien y barato. Atendido por sus due\xF1os, hay que saber esperar puesto que a veces desborda la cantidad de gente. Se pasa un buen rato y la comida es muy rica, fresca y bien preparada."
+    date: 22-02-2007
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si bien la apariencia del lugar no es muy buena, se puede decir que la comida es de un gran nivel. La misma se nota que est\xE1 elaborada con productos frescos y de buena calidad. Pero eso s\xED, no pretendan platos fuera de lo tradicional porque no los van a encontrar. La gente del lugar (en especial, los due\xF1os) se esmera en darte una buena atenci\xF3n, aunque la cantidad de gente a veces los desborda. \r\n\
+      El lugar es bullicioso para nada \xEDntimo. En conclusi\xF3n es una cantina para comer platos sencillos y abundantes de buena calidad."
+    date: 02-02-2007
+    user: http://mi.guiaoleo.com/members/8127
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ricos \xF1oquis.La atenci\xF2n es normal .Es una tipica cantina de barrio, para ir si uno esta cerca.En verano esta bueno comer en la vereda."
+    date: 27-01-2007
+    user: http://mi.guiaoleo.com/members/33330
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "As\xED como la comida es muy rica, la atenci\xF3n fue p\xE9sima. "
+    date: 26-01-2007
+    user: http://mi.guiaoleo.com/members/17162
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Voy asiduamente y confirmo que es uno de los restaurantes en los que mejor se come. Recomiendo a Roberto como mozo.
+    date: 05-11-2006
+    user: http://mi.guiaoleo.com/members/13284
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar ideal para ir con amigos y   \r\n\
+      comer esos matambritos especiales. \r\n\
+      El ambiente est\xE1 muy bueno. \r\n\
+      Muy ricas las albondigas como entrada."
+    date: 30-10-2006
+    user: http://mi.guiaoleo.com/members/10904
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un restaurante t\xEDpico de amigos, para reunirse y luego salir a bailar. El ambiente es un poco ruidoso. El estilo de cantina es lo que me convenci\xF3 para elegirlo."
+    date: 15-10-2006
+    user: http://mi.guiaoleo.com/members/12846
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Lugar excelente, indicado para compartir una buena mesa y ver de pronto como aparecen famosos y deportistas.
+    date: 14-09-2006
+    user: http://mi.guiaoleo.com/members/12050
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Con Hugo Zorzoli era genial y lo sigue siendo. El mozo es un poco amargo, pero es un detalle folcl\xF3rico de este tipo de lugares. \r\n\
+      Los nietos e hijos de Hugo, un fenomeno atendiendo a los clientes, te cobran a ojo. Y las fotos de las paredes imperdibles, un lugar bien argentino."
+    date: 15-07-2006
+    user: http://mi.guiaoleo.com/members/10693
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Riqu\xEDsima comida, lindo lugar, simple pero con p\xE9sima atenci\xF3n. \r\n\
+      S\xF3lo te dan mucha bola si sos conocido de los due\xF1os. \r\n\
+      Entre a preguntarle al de la caja cuanto ten\xEDa de espera y me sac\xF3 volando. "
+    date: 28-06-2006
+    user: http://mi.guiaoleo.com/members/9720
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es normal, muy buena la pasta y el resto, nada del otro mundo. \r\n\
+      Lo del precio es raro, te cobran medio a ojo, no te facturan y te dibujan un descuento. \r\n\
+      Es verdad que hoy en d\xEDa es m\xE1s para cholulos, pero se sigue comiendo bien."
+    date: 26-06-2006
+    user: http://mi.guiaoleo.com/members/9568
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Servicio desastroso, no estoy dispuesto a volver. Cuando voy a un lugar es para que me traten bien. \r\n\
+      Soy un cliente y no me est\xE1n haciendo un favor al darme de comer."
+    date: 25-05-2006
+    user: http://mi.guiaoleo.com/members/15383
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Simp\xE1tico bodeg\xF3n. Son buenas las pastas y los pollos. Todo supervisado por su propio due\xF1o. Ir con paciencia, mucha gente siempre."
+    date: 12-05-2006
+    user: http://mi.guiaoleo.com/members/4874
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida buena, nada del otro mundo. La atenci\xF3n si no te conocen, es regular.\r\n\
+      Es un lugar para cholulos, van los que quieren ver a artistas o deportistas.\r\n\
+      Hay mejores."
+    date: 07-05-2006
+    user: http://mi.guiaoleo.com/members/8862
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fui anoche por primera vez y la verdad me encant\xF3 el lugar, la comida y el trato. La pas\xE9 muy bien."
+    date: 07-04-2006
+    user: http://mi.guiaoleo.com/members/7548
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una muy buena cantina donde se puede comer de todo y bien, con una gentil atenci\xF3n de sus due\xF1os. \r\n\
+      Para comer lo que quieras y bien hecho. \r\n\
+      Una gran opci\xF3n para los que saben comer y no se deslumbran por un \"fashion place\"."
+    date: 23-12-2005
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente comida y sobre todo con excelente sabor, que quiz\xE1s sea lo m\xE1s dif\xEDcil de encontrar. Hay que dejarse guiar por el mozo."
+    date: 15-12-2005
+    user: http://mi.guiaoleo.com/members/4900
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Todo excelente. El mozo es un grande, la tiene muy clara.
+    date: 13-12-2005
+    user: http://mi.guiaoleo.com/members/5417
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es buena, pero el servicio no puede ser m\xE1s malo. \xA1Los platos llegan tan a destiempo que cuando termine de comer, lleg\xF3 el plato de mi compa\xF1ero y eso que pedimos bifes! \r\n\
+      El mozo, era un muchachito vestido a lo \"rolinga\" sin ningun modal. \r\n\
+      No dan factura."
+    date: 08-12-2005
+    user: http://mi.guiaoleo.com/members/6944
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Como en casa, muy rico.
+    date: 27-10-2005
+    user: http://mi.guiaoleo.com/members/4516
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar, muy buena la comida. Es un lugar para ir con actitud: al principio a mi tampoco me daban bola hasta que pegu\xE9 tres gritos. \r\n\
+      Es una cantina italiana y hay que manejar ciertos c\xF3digos, nadie se ofende. \r\n\
+      Sensibles abstenerse."
+    date: 09-08-2005
+    user: http://mi.guiaoleo.com/members/11021
+    ambiente_rank: muy bueno

@@ -1,0 +1,93 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Buena comida sin ser gourmet. El ambiente es muy agradable y la atenci\xF3n esmerada."
+    date: 23-09-2009
+    user: http://mi.guiaoleo.com/members/68234
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: No es el mejor lugar del mundo para comer, pero es buena alternativa si vas al teatro, el lugar tiene su onda y la comida es aceptable, flojo el servicio.
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/13376
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En mi segunda visita confirm\xE9 mi opini\xF3n anterior: no es para andar con demasiadas exigencias pero se come bien a precio muy razonable y es una buena opci\xF3n en la zona para ir tarde, a la salida de un espect\xE1culo. Buen complemento con ambiente bohemio y cool para las salas de cine y teatro del lugar en donde se puede ver propuestas off muy interesantes."
+    date: 28-02-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena opci\xF3n para cuando se va a alg\xFAn espect\xE1cyulo en el lugar, comiendo comida sencilla pero bien elaborada y a precio razonable antes o despu\xE9s de la obra. La atenci\xF3n es correcta y el ambiente es el de gente que come entre gente que hace cola para entrar a las funciones pero todo con la misma onda del lugar. Desaconsejable para ir solo a comer ya que se puede encontar mejor comida, atenci\xF3n o ambiente en un restaurant."
+    date: 04-10-2008
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Algo distinto, la deco es original, aunque le falta... La comida es buena hasta ahi. La atenci\xF3n deberia ser mejor. Mala relaci\xF3n precio calidad."
+    date: 20-02-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es aceptable, los jugos y tragos son muy ricos. Lo que importa es que el ambiente es inmejorable, c\xE1lido, c\xF3modo y la m\xFAsica es muy buena. Recomiendo el mojito."
+    date: 20-11-2007
+    user: http://mi.guiaoleo.com/members/38506
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Equilibrado, lugar medio under al lado de un muy buen teatro, ideal para antes o despues de una obra de teatro. Buenos tragos, ambiente y calidez. No se destaca como restaurante sino mas bien after hour.
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Los cuadros y la deambulaci\xF3n de actores invitan a vivir un momento bohemio, dejando de lado la sencillez del mobiliario. El servicio est\xE1 lleno de buenas intenciones, pero se queda ah\xED. Falta profesionalismo. La comida es buena y abundante, sin ser una excentricidad gourmet, se puede optar por el plato del d\xEDa y sorprenderse gratamente. Interesante carta sin carnes rojas, variedad de vinos y tes. Correcta relaci\xF3n precio/calidad. Vale la pena darse una vuelta. "
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/30475
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: El lugar es muy bueno. Tambien se puede disfrutar de un ambiente bohemio muy interesante. Lo recomiendo.
+    date: 12-04-2007
+    user: http://mi.guiaoleo.com/members/13948
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Es un muy lindo lugar para comer algo rapido, tomar una copa de vino y quizas esperar, haciendo lobby, para ver una de las obras de teatro (si esta no es la salida, quizas pueda incomodar un poco el movimiento de los espectadores que hacen fila, entran y salen de las salas en los horarios \"pico\"). El espacio tiene onda y es calido. Hay muestras de pintura y existen detalles bonitos como por ejemplo la vajilla artesanal. La atenci\xF3n es normal, correcta... y la comida es rica (interesantes opciones de comida natural, \"sana\" o vegetariana) aunque a\xF1os atras era un poquito mejor."
+    date: 03-02-2007
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es muy lindo y la comida est\xE1 b\xE1rbara. Adem\xE1s, el servicio nos pareci\xF3 muy bueno. Y todo por un precio m\xE1s que razonable. \r\n\
+      Muy recomendable."
+    date: 02-02-2007
+    user: http://mi.guiaoleo.com/members/17458
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar con onda y buena comida, sin ser una opci\xF3n muy gourmet."
+    date: 09-12-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Espacio interesante con personalidad. La informalidad permite una estad\xEDa muy c\xF3moda. Buena ambientaci\xF3n."
+    date: 01-09-2006
+    user: http://mi.guiaoleo.com/members/12330
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es lindo, muy intelectual. \r\n\
+      La comida no est\xE1 muy buena y es poco abundante."
+    date: 05-07-2006
+    user: http://mi.guiaoleo.com/members/9815
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida no est\xE1 muy buena, pero el lugar es lindo."
+    date: 03-07-2006
+    user: http://mi.guiaoleo.com/members/10271
+    ambiente_rank: muy bueno

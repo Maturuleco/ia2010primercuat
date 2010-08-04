@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida es simple y buena. Le juega un poco en contra que la recalienten en el microondas.
+    date: 17-07-2009
+    user: http://mi.guiaoleo.com/members/65959
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui a la tarde a tomar un jugo y despejarme, intent\xE9 leer un libro, pero la m\xFAsica estaba muy alta, entonces ped\xED si se pod\xEDa bajar el volumen; y de muy mal modo la mesera me dijo que solo un poco. Segu\xEDa la m\xFAsica muy alta, muy poco \"zen\", y decid\xED irme, pero antes quise pasar al ba\xF1o. La mesera de nuevo de mala manera me dijo - \"espera\". me cerr\xF3 la puerta en la cara, la que da al pasillo, y despu\xE9s me dej\xF3  pasar.\r\n\
+      \xA1\xBFzen?!"
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/64253
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Est\xE1 bien y es una buena opci\xF3n para comer algo liviano a buen precio. Para comer en el lugar es bastante apretadito. La atenci\xF3n normal y siempre tienen problemas con el cambio. Tampoco aceptan d\xE9bito ni tarjeta. La comida esta buena, aunque el calentado en microondas se nota mucho y en general hay que pedir un recalentado m\xE1s."
+    date: 30-05-2009
+    user: http://mi.guiaoleo.com/members/56357
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es chico, pero lindo, se come muy bien y barato, excelente calidad en los platos y en la atenci\xF3n. De los mejores lugares para almorzar."
+    date: 11-04-2008
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Yo fui al que esta en Per\xF3n y esmeralda y la verdad que el lugar es muy lindo, y para estar en zona de oficinas es muy accesible! La comida es riquisima!"
+    date: 17-07-2007
+    user: http://mi.guiaoleo.com/members/24202
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Realmente es muy bueno, subieron un poquito los precios en los \xFAltimos tiempos, pero la comida no baj\xF3 la calidad."
+    date: 03-05-2007
+    user: http://mi.guiaoleo.com/members/22555
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente, todos los d\xEDas almuerzo en este lugar. Muy buena la atenci\xF3n, la m\xFAsica, la limpieza y la calidad de productos. S\xFAper recomendable."
+    date: 21-02-2007
+    user: http://mi.guiaoleo.com/members/18774
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Alma Zen es uno de los mejores lugares de Villa Crespo y, sin lugar a dudas, uno de los mejores de la ciudad, si de comida sana se trata. Practicamente todo es sabroso y la relaci\xF3n precio-calidad no puede ser mejor."
+    date: 17-11-2006
+    user: http://mi.guiaoleo.com/members/13718
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me gust\xF3 mucho el lugar y la comida.\r\n\
+      Lo recomiendo."
+    date: 15-03-2006
+    user: http://mi.guiaoleo.com/members/7031
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ambiente agradable, muy buena atenci\xF3n."
+    date: 02-11-2005
+    user: http://mi.guiaoleo.com/members/4613
+    ambiente_rank: excelente

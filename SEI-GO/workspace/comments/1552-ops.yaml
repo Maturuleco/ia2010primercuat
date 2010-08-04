@@ -1,0 +1,128 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Decididamente, este lugar no se destaca por nada. Tanto el ambiente, como la comida y la atenci\xF3n cumplen pero son olvidables. Considerando que est\xE1 rodeado de lugares m\xE1s lindos, s\xF3lo lo reocmiendo para tomar algo al paso o para no hacer una salida relativamente econ\xF3mica."
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida fue un desastre. Los ravioles a la bolognesa ten\xEDan un sabor \xE1cido horrible. El panqueque de postre ten\xEDa una crema liquida que era mal\xEDsima. Para no volver. El ambiente est\xE1 bueno y la atenci\xF3n de los mozos est\xE1 bien tambi\xE9n, pero la falla en la comida es imposible de remontar."
+    date: 14-04-2010
+    user: http://mi.guiaoleo.com/members/2586
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Muy mala atenci\xF3n, a pesar de ser un lugar caro. Los mozos parecen creer que se trata de un local de comidas r\xE1pidas, porque apuran expl\xEDcitamente a los clientes para que se retiren cuando terminaron los platos. Los env\xEDos a domicilio son tambi\xE9n malos, algo as\xED como 1/3 de las veces se equivocan con los pedidos."
+    date: 08-12-2009
+    user: http://mi.guiaoleo.com/members/73369
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buen lugar para ir en familia; sobre todo con chicos; ya que disponen de un buen lugar; con dos chicas que los cuidan. Los platos son bien presentados y abundantes.
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/30902
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Carisimos los precios, la comida medio pelo, la relacion precio-comida deja mucho que desear, la atencion es nefasta, tardan demasiado, y el ambiente es muy ruidoso. Poca intimidad y excesivamente iluminado.
+    date: 01-07-2009
+    user: http://mi.guiaoleo.com/members/23751
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: La pizza no es lo que era, y nunca fue buena del todo. el lugar esta renovado hace un tiempo y bastante lindo, sin embargo es imposible no ver minimo 10 chicos corriendo por todos lados y entre las muy juntas mesas. en cuanto a la atencion da la impresion de que hay que agradecer que a uno lo atiende por la mala predisposicion. solo ir si la competencia esta lleno.
+    date: 05-05-2009
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una muy buena opci\xF3n para comer algo sobre la vereda. La comida estaba buena, pero no era nada del otro mundo. El servicio tambi\xE9n me pareci\xF3 razonable. El \xFAnico problema fue el ruido, ya sea adentro por el bullicio o afuera por los autos y el tren que pasan por ahi."
+    date: 24-02-2009
+    user: http://mi.guiaoleo.com/members/58345
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Excelente atencion inmejorable, mozo de 20 a\xF1os de antiguedad,un maestro\r\n\
+      lo demas puede mejorarse"
+    date: 29-09-2008
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Elegimos el lugar por el espacio de juegos para chicos, que es una propuesta original en este aspecto. La cuesti\xF3n es que en el precio de la comida te cobran el espacio de juegos, el barrio y la plaza de enfrente, no hay una relaci\xF3n precio calidad. Es para ir y que los chicos jueguen tranquilos pero para comer pizza compartida. El ambiente es un poco ruidoso, pero es esperable pues la mayor\xEDa va con chicos y uno de antemano ya sabe que va a ser as\xED."
+    date: 14-06-2008
+    user: http://mi.guiaoleo.com/members/39927
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Domingo, caminando sin rumbo, ten\xEDamos hambre y vimos El Torre\xF3n. Una milanesa de ternera (NO napolitana) con UN huevo frito encima, unas papas fritas, una porci\xF3n de tarta de jam\xF3n y queso bastante chica y dos aguas con gas: $50 pesos. La tarta estaba con el queso todo derretido alrededor, lo que le daba bu\xE9n aspecto, pero adentro estaba fr\xEDa como la nieve. La milanesa y el resto, realmente nada del otro mundo. La atenci\xF3n, normal, un poco \"forzada\" para hacerla \"de barrio\". \r\n\
+      Hay lugares mucho mejores, con m\xE1s calidad de comida y mejores precios..(mejor NI LES CUENTO el precio de lo dem\xE1s!)"
+    date: 30-03-2008
+    user: http://mi.guiaoleo.com/members/4899
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "voy hace algunos a\xF1os, es el \xFAnico lugar en todo CABA que podes ir con tus hijos, verlos y controlarlos y adem\xE1s comen con Vos no esa nueva moda de verlos tras un vidrio como si fueran peces... Sergio es el mejor mozo que conoci en mi vida."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/35612
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Vuelvo a Buenos Aires despues de 3 a\xF1os y este ha sido un sitio cuyos precios me han dejado de piedra: un almuerzo para dos, bife y milanesa, postre, agua y cafe todo x dos: 94 pesos! \r\n\
+      Sin vino, sin entrada! La comida correcta, repito correcta. No es una propuesta gastronomica nueva o el chef es fulano o mengano, que justifique precios.\r\n\
+      Creyendo que tal vez habia sido por el horario volv\xED pero a desayunar. M\xE1s de lo mismo: cafe, zumo y tostadas... $18, una sola persona!! Veredicto: No vuelvo por el Torre\xF3n."
+    date: 03-11-2007
+    user: http://mi.guiaoleo.com/members/34780
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Aunque la pizza se buena, Muy mala la atenci\xF3n en particular el encargado, es un maleducado. Y no soy el primero que se queja de esto, sino fijarse en el libro de quejas"
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/31517
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No es buena la ecuaci\xF3n precio calidad y la atenci\xF3n es muy poco esmerada. "
+    date: 26-08-2007
+    user: http://mi.guiaoleo.com/members/30545
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida no es buena, todo tiene gusto a caldo. Pero lo cierto es que voy seguido por el espacio para los chicos, de lo mejor que hay. Prefiero comer pizza y listo, es un buen lugar para relajarse con los chicos. "
+    date: 20-07-2007
+    user: http://mi.guiaoleo.com/members/30074
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Vamos siempre, sobre todo por el pelotero: las chicas son muy dedicadas (cuando est\xE1n), y las atracciones para ellos m\xE1s que interesantes. Un comedor como el que m\xE1s, sin mayores ambientaciones, precios razonables, atenci\xF3n esmerada. Siempre hay algo para leer tambi\xE9n (diarios, algunos libros). Linda vista al exterior, sobre todo en la planta baja. "
+    date: 03-06-2007
+    user: http://mi.guiaoleo.com/members/16661
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy natural el sabor y las texturas. \r\n\
+      Buena atenci\xF3n. Pienso volver."
+    date: 11-03-2007
+    user: http://mi.guiaoleo.com/members/3480
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un t\xEDpico restaurante en el que se puede comer una variedad de comidas. Tanquilo, con buen espacio entre las mesas. Es recomendable para los que van con chicos, ya que tiene un excelente lugar con juegos y una persona que les ofrece actividades (pintar, jugar con masa, con juegos de mesa). No es un pelotero descnotrolado, y eso est\xE1 bueno. Una opci\xF3n muy recomendable para familias que quieren comer tranquilas. "
+    date: 01-02-2007
+    user: http://mi.guiaoleo.com/members/17552
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Frecuento este lugar desde chico. \r\n\
+      La milanesa a la napolitana est\xE1 dentro de mi top five personal. Un \"must\"."
+    date: 21-08-2006
+    user: http://mi.guiaoleo.com/members/7019
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida estaba muy bien, pero el ambiente es sumamente ruidoso.\r\n\
+      El precio de mi plato (lomo al gruyere) es de casi treinta pesos, un poco caro para mi gusto, aunque el resto de los platos est\xE1n en precio."
+    date: 22-07-2006
+    user: http://mi.guiaoleo.com/members/10095
+    ambiente_rank: bueno

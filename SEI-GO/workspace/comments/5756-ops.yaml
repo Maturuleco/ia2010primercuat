@@ -1,0 +1,289 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Recomendable
+    date: 23-06-2010
+    user: http://mi.guiaoleo.com/members/1985
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "He ido tres veces a este lugar. La comida es muy rica, y de verdad que los bu\xF1uelos de banana, la masa, espectacular. Pedi canela para ponerle y no habia, y ademas hubiera preferido que este acompa\xF1ado con un helado de canela o vainilla.\r\n\
+      El servicio malo, no em trajeron dos platos para compartir el postre, fui  a buscar mi vaso y no me habia dado cuenta de que me lo habian sacado. Y no me trajeron la entrada que llevaban a todas las mesas, un olvido malo. Igual el ambiente es super calido y me encanta la onda que tiene."
+    date: 13-06-2010
+    user: http://mi.guiaoleo.com/members/68506
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar, la atenci\xF3n y la comida son increibles. La comida lleg\xF3 en tiempo y forma. Con vino y postre gastamos $90 x persona. Sumamente recomendable!!!!"
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/45252
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Todo fue correcto sin ser deslumbrante. El sal\xF3n es bastante chico y a\xFAn as\xED la atenci\xF3n no es muy r\xE1pida. La mayor\xEDa de los platos son bastante picantes (sin opci\xF3n a modificarlos) lo cual hace que la carta resulte reducida, si uno no quiere elegir ese tipo de platos."
+    date: 04-05-2010
+    user: http://mi.guiaoleo.com/members/54429
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar, por la ambientaci\xF3n, promete. Pero la comida deja bastante que desear. La entrada diminuta, la atenci\xF3n lenta, los curris principales extremadamente picantes al punto de no dejar saborear la comida (error mediante a la hora de traer el plato). Los precios el\xE9vadisimos para lo que ofrece. La verdad es que no vuelvo y no lo recomiendo."
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/73096
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente lugar por su comida, atencion y ambientacion. Recomendable al mediodia por su menu economico. La terraza, imperdible.
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/1283
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui al mediod\xEDa. Tienen 3 men\xFAes fijos a precios razonables, aunque lo que no es razonable son las porciones. Las empanaditas como entrada, lo juro, parece un chiste de mal gusto: TRES y del tama\xF1o menor al de un raviol.El principal estaba muy rico: fideos saltados con man\xED,pollo,camarones y vaca con una salsa agridulce deliciosa (levant\xF3 el almuerzo), pero volvemos a caer en el postre, con una porci\xF3n de helado de crema cuasi min\xFAscula con un poco de coco arriba...Si no se come la promoci\xF3n, es caro para lo que ofrece, porciones muy peque\xF1as.Ambiente lindo, pero LENTOS para atender.No vuelvo."
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/4899
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Empezamos con palitos de pollo y lomo con salsa picante de man\xED y salsa agridulce de pepinos, riquisimo! Mi curry verde de pollo estaba exquisito pero demasiado abundante para la cantidad de picante que puedo soportar. El servicio es muy atento y directo acerca de que platos son picantes y a cuales rebajables, asi que en no hay sorpresas. La porcion de salmon era muy abudante y bien preparada, muy buenos ingredientes usan. De postre los bu\xF1uelos de banana geniales! Los tragos que preparan son muy buenos. Los precios un poco saladitos pero comimos muy bien."
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/68861
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      este restaurante no es como se presente,
+      en ingles se llama "tourist trap",
+      muchos platos en la carta no disponible (pato lacqueado, cordero), una sopa thom yang kum realmente malo y otros platos, de nivel de chinode barrio, fideos grasosos sin toque cocinero, 
+      que lastima
+    date: 11-03-2010
+    user: http://mi.guiaoleo.com/members/57976
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Un lugar decepcionante. Fuimos en grupo de 10 personas. Tardaron 1HORA! en traer ALGUNOS pedidos, porque luego de otros 40min, avisaron que no hab\xEDa algunos platos que dabamos por sentado que estaban en preparaci\xF3n. Cdo ofrecieron hacer un cambio de pedido, tardaron OOOOOOTRA HORA m\xE1s!!! Un lugar IMPOSIBLE. Malo en absoluto, NO LO RECOMIENDO NI VUELVO M\xC1S!!!"
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/77607
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Car\xEDsimo!!!! el lugar est\xE1 divinamente ambientado, la atenci\xF3n es buena, la comida... podr\xEDa estar mejor... pero es CAR\xCDSIMO. No es necesario que los platos est\xE9n arriba de 50 pesos para estar buenos igual, una entrada de 3 empanaditas chinas (que compran a la vuelta!!) 25 pesos... exagerad\xEDsimos! eramos dos y gastamos 300 pesos... todo lindo pero no vuelvo."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/1356
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: llegue un sabado ala noche de mucho calor y me invitaron a pasar ala terraza la verdad muy buena opcion,muy divertida para grupos con amigo todo muy rico,atencionlenta pero amigable para recomerdar
+    date: 28-01-2010
+    user: http://mi.guiaoleo.com/members/65461
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es excelente, muy prolijo y bien ambientado. Hay algunas falencias, pero en general vale la pena ir y volver.\r\n\
+      La \"panera\" que te dan de entrada es buenisma, son como unas ostias medio raras, riquisimas. Los principales son abunantes y vienen acompa\xF1ados de arroz. El postre: exquisito el panqueque de frambuesas y frutillas con helado de americana. La carta de vinos deja que desear, con precios bastante altos para el nivel. Para ir en pareja, por persona aprox $80 con vino, compartiendo entrada y postre..  El servicio no es de lo mejor, pero bueno, es una experiencia distinta."
+    date: 26-12-2009
+    user: http://mi.guiaoleo.com/members/42211
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Comida muy buena pero se demor\xF3 una hora en llegar a la mesa. Los tragos excelentes pero  repetimos el mismo trago y entre uno y otro hubo diferencia.\r\n\
+      El servicio casi malo, habia mucha gente esa noche y solo dos camareras, se entiende, pero pero el servicio no fue el adecuado, insisto, la demora de los platos fue excesiva. Ademas de todo esto, hicimos reserva para 2, al llegar nos sentaron en mesa de 4 y cuando lleg\xF3 un grupo de 4 personas, nos pidieron cambiarnos de mesa.\r\n\
+      El ambiente bien decorado pero con poca iluminaci\xF3n para mi gusto.\r\n\
+      Pudo haber sido mala noche, vale la pena reintentar"
+    date: 13-12-2009
+    user: http://mi.guiaoleo.com/members/43823
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar esta muy bien ambientado, el servicio es muy relajado, la comida en general es picante (y riquisima), pero se puede pedir que no lo sea.  Muy buenos tragos. Nos encanto!!! Sin dudas volveremos, faltaba algo asi en la zona.
+    date: 18-11-2009
+    user: http://mi.guiaoleo.com/members/4547
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Bonito lugar, la carta un poco escueta y la comida casi toda muy picante
+    date: 08-11-2009
+    user: http://mi.guiaoleo.com/members/51945
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Una delicia, los conozco desde su vieja ubicacion en Ortega y Gasset y la verdad es que mantienen la calidad intacta. Para algunos puede ser un poco picante, pero cada plato esta bien marcado segun su grado de sabor. Imperdible el pollo con salsa de gengibre y soja, los tempura y el daikiri de maracuya. El ambiente es muy relajante.
+    date: 28-10-2009
+    user: http://mi.guiaoleo.com/members/71525
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar nos pareci\xF3 excelente, comimos entradas y un plato principal para compartir. La comida muy buena, mucho color, textura y sabor.\r\n La camarera que nos sirvio muy atenta y dispuesta, sin embargo tengo una critica constructiva para el lugar: si bien el atuendo de las/los camareros es muy pintorezco y se corresponde con la tematica del lugar, me parecio que estan muy deteriorados y habria que renovarlos. Tambien me parecio il\xF3gico que haya servilletas de papel ya que, adem\xE1s de no acompa\xF1ar al lugar, los cubiertos son cobrados. \r\n\
+      Espero les sirvan mis criticas.\r\n Lugar muy recomendable.."
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/70143
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gusto mucho el lugar y la comida. Adem\xE1s me sorprendieron con buenos tragos para arrancar, recomiendo el de sake, jengibre y te.  Soy fanatico del curry y el rojo que me sirvieron me dejo muy satisfecho. Una peque\xF1o detalle la atenci\xF3n podr\xEDa mejorar, mi moza estuvo un poco distra\xEDda.\r\n\
+      Muy recomendable para ir en pareja. Vale reservar porque el lugar tiene no muchas meses y suele estar bien concurrido"
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/69198
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      entradas diminutas, currys insulsos. 3 entradas 3 principales 2 tragos 2 aguas $310+propina. platos sin ninguna elaboracion. nos dio la sensacion de que solo habiamos "picado". 
+      no vuelvo.
+    date: 08-09-2009
+    user: http://mi.guiaoleo.com/members/68732
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un nuevo recoveco Thai original y pintoresco en pleno barrio Chino. Muy lindo ambiente y servicio amable calido y distendido. Los platos : spring rolls, curri rojo y ensalada de berro con petalos de  rosa, muy ricos , picantes!!!  y el agua mineral $ 8 pesos... Quiiza un poco excedidos los precios."
+    date: 07-09-2009
+    user: http://mi.guiaoleo.com/members/22591
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El lugar es excelente, muy calido e intimista.  La comida es hecha en el momento con productos de calidad.  Muy buena atencion.  Muy recomendable, no solo para los amantes de la comida thai.
+    date: 02-09-2009
+    user: http://mi.guiaoleo.com/members/68460
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encant\xF3 la comida y la ambientaci\xF3n. Muy buenas las opciones de tragos: tomamos uno de sake con jenjibre y te. La moza muy dispuesta pero desconoc\xEDa la carta y la diferencia entre curry y paneng. La entrada de langostinos fritos con coco era un poco escasa (solo 3 langostinos) en relaci\xF3n al precio. El curry rojo de salm\xF3n exquisito, l\xE1stima que el plato en que lo trajeron estaba rajado."
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/51045
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Ten\xEDamos reserva. De la carta de vinos muy variada, no ten\xEDan cabernet disponible, solo malbec en ese $; sino nos ofrec\xEDan otros q costaban el doble! La entrada la sirvieron  caliente por fuera, congelada por dentro! Reclamamos, volvieron a traernos lo mismo, mas caliente, pero fr\xEDo por dentro. Los platos principales, sabrosos pero no distinguen curry de paneng. La copa de champagne que nos hab\xEDan ofrecido se la olvidaron. No tuvieron atencion alguna. No lo recomendamos."
+    date: 29-07-2009
+    user: http://mi.guiaoleo.com/members/66788
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es bastante peque\xF1o, para unas 30 personas como mucho, lo cual lo hace \xEDntimo. Tiene unos adornos muy lindos, pero tambien algunos peque\xF1os detalles, por ejemplo en el pasillo de la entrada hay un cable colgando donde ir\xEDa una l\xE1mpara. Los mozos son muy atentos. Pero lo mejor sin dudas es la comida: las empanaditas de cerdo y camarones con salsa de tamarindos son exquisitas y son muy buenos los tragos y los postres:para probar el panqueque lotus."
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/36627
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar es muy agradable con un ambiente relajado e intimo. Las mesas para sentarse en el suelo son un plus. La comida muy buena como asi tambien los postres. Recomendable
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/32497
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Lo mejorcito que eexperiment\xE9 en BsAs en cuanto a comida Thai. Los pinchos Sate de pollo estaban excelentes, el pollo al curry verde incre\xEDble. 100% sabores y texturas Thai. El ambiente y la atenci\xF3n muy buenos. Decoraci\xF3n original con mucho acento Tailand\xE9s. Recomiendo a full. Da para reincidir seguido!"
+    date: 01-07-2009
+    user: http://mi.guiaoleo.com/members/16793
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me enter\xE9 que se hab\xEDan mudado y ten\xEDa muchas ganas de conocer el nuevo Lotus. Para mi alivio, si bien extra\xF1o la casona de Ca\xF1itas, debo decir que la nueva decoraci\xF3n es excelente! Mucho mejor con el ventanal a la calle y el primer piso con ba\xF1os m\xE1s amplios y una terraza que espero en verano exploten!! La comida sigue siendo la mejor versi\xF3n thai que prob\xE9 en Bs As y los tragos una delicia que nunca puedo dejar de pedir. Recomiendo que reserven mesas porque est\xE1 yendo mucha gente y siempre hay que esperar hasta que se desocupe alguna. La ambientaci\xF3n hace de Lotus el lugar ideal para citas!"
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/19530
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es hermoso, una casona muy bien puesta en pleno barrio chino con una iluminacion ideal para parejas, la comida muy sabrosa, probe el menu del medio dia con una entrada de palitos de lomo con salsa de mani y luego un curry de pollo exquisito, acompa\xF1ado por arroz al jazmin, como postre bananas tibias en leche de coco, y espando la comida te colocon snacks de camarones buenisiimos!!!, la verdad que es muy recomendable para probar nuevos sabores y conocer un lugar muy agradable."
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Muy buena opcion para cambiar la rutina de carne,pasta y pescado tradicional.
+      Volvere!!!
+    date: 18-06-2009
+    user: http://mi.guiaoleo.com/members/5600
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Rica y abundante la comida. Bien presentada y diferente.
+      La critica: hacia mucho frio en el local, y comer con frio puede arruinar una linda experiencia.
+    date: 16-06-2009
+    user: http://mi.guiaoleo.com/members/30014
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Exelente lugar pero es importante ir con reserva.Caimos y de casualidad conseguimos donde sentarnos. Me encant\xF3 la atencion y la buena disposici\xF3n de la gente que nos atendio. Muy buenos los tiempos, la comida riquisima. Lo recomiendo para una salida diferente."
+    date: 11-06-2009
+    user: http://mi.guiaoleo.com/members/58805
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenos sabores, excelente ambientaci\xF3n. La atenci\xF3n buena. Es mejor ir con reserva porque se llena bastante"
+    date: 08-06-2009
+    user: http://mi.guiaoleo.com/members/54365
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Lejos del servicio que sol\xEDan tener en Ca\xF1itas donde estuvieron tanto tiempo. Es una l\xE1stima porque la comida sigue siendo muy buena, ya no muy thai, pero buena al fin. La ambientaci\xF3n como que se les viene un poco abajo y juntaron mucho desordenadamente. El servicio deprimente. Pude comer luego de m\xE1s de una hora para traer 2 platos, quejas inclu\xEDdas que te desmoralizan. La entrada la trajeron en 5 minutos, pero luego no se acordaban ni lo que hab\xEDamos pedido. Vayan a Palitos al lado, no les v\xE1 a fallar."
+    date: 20-05-2009
+    user: http://mi.guiaoleo.com/members/62936
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy lindo el ambiente,como la acustica,buenisima la musica.la atencion floja,los pinchos muy bien condimentados y sabrosos.el pollo con casta\xF1as muy bueno,el curry rojo tambien bueno..una critica, que alla mas variedad de marcas de cervezas y frias....."
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/41525
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Ambiente simp\xE1tico, decorado con colores fuertes y objetos t\xEDpicos.  Mesas algo inc\xF3modas.  Mozo poco comprometido con explicar el men\xFA, confes\xF3 no conocerlo a fondo. Pedimos opci\xF3n del mediod\xEDa. Entradas escasas pero sabrosas (pincho de pollo, empanaditas, salsas varias). Curry de lomo decepcionante.  Muy picante pero nada m\xE1s. Carne dura y poco macerada, sabores sin integrar, salsa aguada, sin ligar ni reducir.  Pollo salteado con vegetales (crocantes, en su punto) fue una mejor opci\xF3n. Postres miniatura, sabores poco originales. Buenas intenciones, pero no logran el resultado esperado."
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/27416
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En mi opinion es un muy buen restaurante thai: de lo mejor que conozco. Recientemente se ha mudado de Las Ca\xF1itas al Barrio Chino; y ahora atienden al mediodia e incorporaron en ese horario un menu ejecutivo muy conveniente en precio, y con muy buenos platos thai; incluyendo curries (ojo: el curry verde de pollo es sabroso pero muy picante). Las comidas son realmente muy gustosas; pero las porciones son bastante escasas. Una cita ineludible para quien ama este tipo de gastronomia."
+    date: 07-05-2009
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar esta muy bien ambientado y es tranquilo y agradable para ir en pareja. Fuimos con reserva y tuvimos que esperar un poco que este lista la mesa y nos convidaron con champagne para amenizar la molestia inicial. La atencion muy buena, la comida es super abundante, con una entrada y un plato principal no hay forma de hacer lugar al postre. La limonada es exquisita, los curries se diferencian muy bien unos de otros. hay mucha diferencia entre los precios de los platos, asiq ue depende la opcion el precio final.
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/26544
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El ambiente es muy agradable, las entradas ricas pero las porciones peque\xF1as, el curry y el PAD THAI muy sabrosos y abundantes, los postres originales y bien elaborados. La relacion precio calidad es adecuada, en fin un lugar recomendable para experimentar nuevos sabores.\r\n\
+      Una critica: era la primera vez que ibamos a un restaurante Thai y la moza no se mostr\xF3 muy dispuesta a asesorarnos."
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/37645
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena comida. Los platos al curry sobresalen. El ambiente y el servicio tambien son buenos Muy recomendable para ir con amigos o pareja.
+    date: 20-04-2009
+    user: http://mi.guiaoleo.com/members/62827
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Comimos curry rojo y curry verde. Vienen bellamente servidos en platos hondos, adornados con un chili cortado imitando una flor peligrosamente roja. La comida es sabrosa y agradablemente picante y muy original el crocante tentempi\xE9 con las salsitas picantes y de man\xED que lo acampa\xF1an. Algunos platos contemplan opciones vegetarianas que b\xE1sicamente consisten en reemplazar la carne por tofu. Sin embargo en mi plato vegetariano el tofu brill\xF3 por ausencia. Los helados de maracuy\xE1 y de mango fueron una decepci\xF3n, cremosos pero de sabor y color artificiales. Lindo ambiente y atenci\xF3n cordial."
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar atrapa por su ambientacion y su calidez bajo un ambiente relajado. El servicio tambien es un poco relajado, tardan un rato en atender y en bajar los platos, pero asesoran correctamente, cosa funadmental en un restaurante etnico.La comida es muy rica, bien picante (como debe ser), y las porciones estan bien servidas, completas.Una alternativa distinta, la que vale la pena probar aunque sea una vez.
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/5180
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Al igual que en los comentarios anteriores, entr\xE9 con mi Sra para ver el lugar  nos quedamos tentados por el men\xFA del mediod\xEDa. La comida es exquisita, muy buen equilibrio de sabores entre dulces y picantes que se equilibran con el arroz jazm\xEDn. Muy amables los mozos y ambiente muy sereno(mientras no est\xE9 lleno) Volveremos de noche para conocer otras opciones de platos tailandeses."
+    date: 05-04-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El ambiente, la comida y la atenci\xF3n son de primera. El precio es muy accesible (al menos al mediod\xEDa) No conoc\xEDa el lugar. Pas\xE9 por casualidad y me llam\xF3 la atenci\xF3n. Entramos con mi se\xF1ora para ver como era. Y por supuesto que vamos a volver"
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/15857
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El men\xFA del mediod\xEDa es super accesible. La entrada de ensalada de berro con p\xE9talos de rosa es riqu\xEDsima. El plato principal muy abundante. Tengo que ir una noche a probar el curry (al mediod\xEDa  no sirven platos de curry). Muy bien ambientado. Los mozos son atentos."
+    date: 29-03-2009
+    user: http://mi.guiaoleo.com/members/54165
+    ambiente_rank: muy bueno

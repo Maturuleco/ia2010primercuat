@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "A mi no me gusto para nada, el wok dejaba bastante que desear, al margen de la tradanza... otro oportunidad le dar\xE9"
+    date: 04-10-2008
+    user: http://mi.guiaoleo.com/members/36514
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: El wok de pollo y verduras era abundante, pero de pollo tenia poco, y las rabas con finas laminas de papas (eran unas viles papas fritas de copetin) y hojas verdes dejaba mucho que desear. No vuelvo.
+    date: 15-07-2008
+    user: http://mi.guiaoleo.com/members/22925
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n para el mediod\xEDa. La comida es sencilla, buenos productos y el ambiente es familiar. Sobresale la barra. "
+    date: 14-03-2007
+    user: http://mi.guiaoleo.com/members/20283
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Voy seguido y es muy bueno. Tiene pocos platos pero siempre son ricos. El caf\xE9 y los postres son excelentes. Bien barato por lo que da."
+    date: 06-04-2006
+    user: http://mi.guiaoleo.com/members/7616
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Bien. Rico, sano y buen precio para mediod\xEDa. \r\n\
+      Un poco de ruido, canasta de pan a mejorar."
+    date: 28-09-2005
+    user: http://mi.guiaoleo.com/members/4067
+    ambiente_rank: muy bueno

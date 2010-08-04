@@ -1,0 +1,283 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Servicio bueno, los platos muy ricos!!! Muy buena la opci\xF3n de tragos!! Recomendaci\xF3n de postre: Volc\xE1n de chocolate!!! \r\n\
+      vuelvo!!"
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/84111
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La ambientaci\xF3n no nos pareci\xF3 nada del otro mundo. Extremadamente ruidoso; tuvimos la mala suerte que hab\xEDa un cocktail con mucha gente en el bar a metros de las mesas, y la m\xFAsica estaba tan fuerte que solo ayud\xF3 a empeorar el griter\xEDo que ven\xEDa del bar.  El mozo fue cordial, pero tardaron mucho en traernos la comida. De entrada pedimos mollejas que honestamente no nos impresionaron para nada.  Por suerte de principal pedimos sushi: estaba rico, y fue lo que nos salv\xF3 la noche.  En resumen, aunque no necesariamente la pasamos mal, no creo que le asignemos ninguna prioridad para volver."
+    date: 10-03-2010
+    user: http://mi.guiaoleo.com/members/62723
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "M\xFAsica suave y luz tenue logran una muy buena ambientaci\xF3n, los platos bien presentados y el servicio muy atento a pesar de que concurrimos al borde del cierre de la cocina."
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/20299
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar muy agradable y calido, con una excelente atenci\xF3n y unos platos muy variados y ricos. Comi sushi y mi esposa se pidio unas mollejas crocantitas, todo exquisito.Muy recomendable y obvio que volvemos."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/76951
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un lugar con un ambiente muy agradable a la vista y una atenci\xF3n personalizada pocas veces experimentada en \xE9ste barrio. Hace mucho hab\xEDa venido pero lo han remodelado de tal manera que est\xE1 c\xE1lido y moderno, irreconocible. Por el precio pagado, la comida es muy buena y abundante. Ideal para cenas con amigos y en pareja."
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/76952
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy pero muy buen sushi, tapas abundantes y ricas y tragos muy originales.  Nuestra experiencia fue realmente muy buena en Freak, recomendable.
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/76523
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "He probado varios platos en Freak y este risotti es deliciosamente rico, y encima viene en cantidad como para llenarse super bien! Los panes y salsas para acompa\xF1ar son exquisitos. Hay una oferta de tragos sin alcohol muy interesante. Tambi\xE9n me gust\xF3 mucho la m\xFAsica que se escuchaba en el lugar. Adelante Freak!"
+    date: 05-02-2010
+    user: http://mi.guiaoleo.com/members/76515
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La pas\xE9 mal.\r\n\
+      Atenci\xF3n de recepcionista / moza: buenas\r\n\
+      Nos dicen que hay 40 minutos de retraso. esperamos esos 40 minutos sin problemas. A la hora Preguntamos y  la respuesta: \"15 minutos\". Respuesta que recibimos varias veces.\r\n\
+      La comida tard\xF3 literalmente 1 hora 40 minutos en llegar. Las batatas estaban arrebatadas, la porci\xF3n era chica. el sushi se desarmaba al tratar de tomarlo. El encargado no se hizo cargo, tuvimos que ir a buscarlo en busca de respuestas, que no supo darnos. Luego de reiteradas quejas logramos el descuento que quer\xEDamos por el p\xE9simo momento que pasamos."
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/75613
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La atenci\xF3n fue mal\xEDsima. La comida tard\xF3 casi 2 horas en llegar. Varias veces tratamos de cancelar el pedido y retiarnos debido a la demora pero constantemente nos reten\xEDan avisando que todo estaba saliendo... El sushi se desarmaba al tartar de tomarlo y el sabor era regular. Las pastas eran incomibles y llegaron frias. Hicimos la queja pertinente pero nadie dio la cara ni vino a preguntar que ocurr\xEDa. P\xC9SIMO! Y CARO!"
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/75704
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Muy mala la atenci\xF3n y la comida, adem\xE1s que tardaron casi 40 minutos en traerla, estaba fria."
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/75232
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La ambientacion a priori muy buena/excelente, aunque sencilla. Con el correr de nuestra visita nos dimos cuenta que el lugar es muy ruidoso, y hay que tener en cuenta que se escucha mucho la mesa de al lado (estan muy pegadas). La atencion deja mucho que desear, esperamos nuestro plato 1 hora y el sushi esta regular, poco sabroso, nada del otro mundo. No vuelvo mas.
+    date: 12-01-2010
+    user: http://mi.guiaoleo.com/members/63334
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Quiz\xE1s porque lo conoc\xED en un evento de muchas personas es que me parec\xEDo algo descuidada la atenci\xF3n y not\xE9 poco esmero en las bebidas y pasadas de calor la temperatura de los vinos. El espacio es muy reducido para tantas mesas. Las picadas estaban buenas y a la vista su elaboraci\xF3n."
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/345
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La atenci\xF3n y ambientaci\xF3n estan muy bien. Tambi\xE9n el descuento de Club La Naci\xF3n es muy bueno. Pero la tabla freak que pedimos era excesivamente grasosa sin nada que corte un poco la fritanga. Le voy a dar otra oportunidad pero para comer otra cosa."
+    date: 25-11-2009
+    user: http://mi.guiaoleo.com/members/10903
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Llegamos sin reserva, eramos 6 y nos sentaron. Pedimos unos tragos para empezar. Muy buenos. En general la atencion, la comida y el lugar (algo aburrido) estuvieron bien. No lo descartar\xEDa."
+    date: 23-11-2009
+    user: http://mi.guiaoleo.com/members/62194
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Desagradable sorpresa para una ambientacion muy buena. El plato principal tardo mas de 40 minutos, y el pescado estaba reseco (en los 4 platos), el pure duquesa frio y grumoso (si a eso le podia llamar pure duquesa) y los vegetales secos. Solo el hambre que portabamos nos hizo comer el principal con el agregado de aceite para darle algo de humedad. La atencion poco dedicada, el ambiente ruidoso, y una muy extra\xF1a version de Tiramisu, hacen un lugar imposible de repetir. El precio carisimo en relacion a la cocina. Barato si el precio por no volver nunca. Ah, la explicacion del encargado,penosa."
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/72158
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La ensalada estaba regular, linda decoraci\xF3n. pesima atenci\xF3n, esperamos mucho la comida, el pan, la predisposici\xF3n de los meseros muy mala, nos dijeron que hab\xEDan tenido la \"amabilidad de atendernos sin reserva\", no voy nunca mas"
+    date: 13-11-2009
+    user: http://mi.guiaoleo.com/members/67968
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lugar agradable, bastante ruidoso. Respetaron la reserva. La atenci\xF3n fue correcta sin demasiado esmero y sin errores. El lugar estaba totalmente lleno y los platos llegaron en tiempo y forma. Recomenable el tapeo como entrada. Muy buenos el Lomo braseado y el milhojas. Postre aceptable.Con el descuento de La Naci\xF3n es para aprovechar."
+    date: 04-11-2009
+    user: http://mi.guiaoleo.com/members/18236
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar resulta ruidoso, es p\xE9sima la atenci\xF3n, existiendo mucha demora en la llegada de los platos. La comida es buena. La relaci\xF3n precio calidad no puede discutirse. Los cinco que fuimos a comer resultamos frustrados, fundamentalmente por la pobre atenci\xF3n que desmerece hasta la comida m\xE1s importante."
+    date: 25-08-2009
+    user: http://mi.guiaoleo.com/members/68183
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena calidad de los alimentos.  Muy atentos los chicos que atendieron las mesas. Gracias por la onda y lo profesionales q parecen ser! Saludos a la recepcionista!
+    date: 15-07-2009
+    user: http://mi.guiaoleo.com/members/65718
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "9puntos!. Buena onda y estilo en la atenci\xF3n, exquisita la comida y recomiendo el volc\xE1n de choco. Copado el clima q se percibe!, los felicito y los pienso seguir visitando y recomendando. Genial mi trago: First Class Citrus!"
+    date: 14-07-2009
+    user: http://mi.guiaoleo.com/members/65717
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelentes Tragos, da gusto ver como los hacen, muy buena la predispocision de toda la gente q trabaja ahi, el Dj tiene la mejor onda. Voy a Recomendar, voy a volver.
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/65729
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es agradable, al igual que la comida. Pero el servicio MUY malo. Tardaron a\xF1os en tomarnos el pedido, en traernos la comida y en hasta cobrarnos!!"
+    date: 07-07-2009
+    user: http://mi.guiaoleo.com/members/60098
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Debo confesar que no concuerdo con muchos comentarios hechos hasta ahora. Es cierto que dejo el beneficio de la duda, porque s\xF3lo he probado sus excelentes risottos, de mar y de hongos. El ambiente es muy agradable, el servicio correcto (hubo que esperar la comida pero un tiempo razonable). La carta de vinos es corta y algo cara."
+    date: 23-05-2009
+    user: http://mi.guiaoleo.com/members/9198
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: comida japonesa? nada bueno, no la pase bien le ponen esmero les falta cosas de la carta pedi una cosa no habia otra no habia termine comiendo lo que les quedaba.
+    date: 28-03-2009
+    user: http://mi.guiaoleo.com/members/60454
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La atenci\xF3n muy mala, cada cosa que le pediamos parecia que nos estaban haciendo un favor, le tuvimos que repetir varias veces las cosas, pedimos unas picadas y nos trajeron lo que quer\xEDan tabla de fiambre sin fiambre!!!, cuando pedimos la cuenta nos demoro como 25 minutos, sin duda no vuelvo."
+    date: 17-02-2009
+    user: http://mi.guiaoleo.com/members/40174
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Cuando un restaurant se presenta con un men\xFA tan masivo y sin perfil propio :\" De autor ,Internacional y Japonesa\" deja espacios para la duda sobre la calidad; sin embargo, fue una sorpresa su buen sushi, com asi la bondiola de cerdo. Muy bien las mesas altas en la vereda. Una l\xE1stima el cancancio de las camareras."
+    date: 05-12-2008
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy, muy buenos los rolls calientes con langostinos (que ahora no recuerdo el nombre exacto)!!! El ambiente es muy calido, aunque le falta decoracion. Las mozas son super amables y el lugar muy limpio. Para recomendar!
+    date: 03-12-2008
+    user: http://mi.guiaoleo.com/members/55198
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Fuimos por el descuento del Club La Nacion. Cuando hicimos el pedido de sushi, la moza nos adelanto que iba a demorar porque tenian un pedido grande que sacar. Cuando llego, me decepciono, piezas chicas y muy caro para lo que nos dieron. La atencion fue buena pero tardan mucho en entregar las bebidas. Se equivocaron en el descuento que me hicieron de La Nacion, era de un 40% y me realizaron un 20%. No vuelvo.
+    date: 11-11-2008
+    user: http://mi.guiaoleo.com/members/22397
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La recepcionista copada, enseguida nos atendio y nos dio un lugar en la barra para esperar a que se desocupe una mesa. La comida muy buena, mas de lo que esperaba. La camarera Julieta muy muy agradable. L\xE1stima que es muy ruidoso, deberian hacer algo para aislar un poco el ruido. Pero todo lo dem\xE1s excelente."
+    date: 09-11-2008
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Estuve con mi amigo el mi\xE9rcoles y mejor\xF3 mucho el clima, bien por los descuents por ser miembro de La nacion y Guia Oleo."
+    date: 05-11-2008
+    user: http://mi.guiaoleo.com/members/42468
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fui por promo de Club La NAcion, la maitre muy buena. El servicio de camareros tambien. Hay una barra con mucha variedad de tragos.\r\n\
+      EL ambiente es muy ruidoso, las mesas estan muy juntas pero la verdad que no molest\xF3 tanto como pensaba.\r\n\
+      La unica critica es al SUSHIMAN:los rolls se desarmaban antes de ponerlos en la salsa y pedimos unsushi caliente MEXICAN y me mandaron otro por lo que tuvimos que devolverlo y esperar.\r\n\
+      Me gust\xF3 la atencion pero no volveria, hay sushis mucho mejores y con piezas mas grandes en otros restos."
+    date: 21-10-2008
+    user: http://mi.guiaoleo.com/members/53183
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fuimos un dia de descuento la nacion y estaba repleto, la atencion muy buena, tardo mucho la comida pero era de imaginarse. tienen variedad de tragos pero les falta un buen barman.
+    date: 29-07-2008
+    user: http://mi.guiaoleo.com/members/40347
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El sushi muy bueno, con buena presentacion, atencion correcta, pero critico el ambiente, ya que las mesas estaban muy juntas y varias no tambaleaban.
+    date: 22-07-2008
+    user: http://mi.guiaoleo.com/members/17298
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Fuimos a Freak y fue un desastre!!! 2 horas esperamos para que nos sirvieran la comida.  Cada vez que reclamabamos los platos nos decian....5 minutos mas...
+      Las rabas estaban super saladas al igual que el lomo a la pimienta que decian que era para compartir y parecia una pelotita de golf. El ojo de bife estaba medio crudo y frio. El sushi zafaba...nada mas... Fuimos un dia de promocion del club de la Nacion y no estaban preparados para tener la capacidad total del restaurant funcionando. Si sabes que va a ir mas gente, contrata mas personal solo por ese dia asi la gente no la pasa tan mal...
+    date: 15-07-2008
+    user: http://mi.guiaoleo.com/members/47568
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buen lugar, muy bien ambientado! Comimos unas tablas de Sushi que estaban espectaculares. El servicio fue muy bueno tambien. Y lo mejor son los tragos que hacen! Lo recomiendo para ir con amigos o parejas!
+    date: 10-07-2008
+    user: http://mi.guiaoleo.com/members/20735
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Espectaculares los rolls de autor. Muy originales!!! La atenci\xF3n muy buena y los tragos excelentes! Muy Recomendable."
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/47220
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Llegamos cuando habia poca gente y la atencion fue buena, al llenarse se complico un poco (pocas camararas) y el retraso en los pedidos se not\xF3. La comida estuvo bien,aunque la entrada que supuestamente llevaba queso brie no definida,la pasta a punto y la salsa gustosa, sushi con buena cantidad de unidades y bien realizado. El postre no fue de lo mejor, tard\xF3 mucho y llego sobrecocido. Las mesas estan muy juntas y el precio es bueno. No volver\xEDa, hay muchos restos con personalidad mas definida y mejor logrados, es uno mas."
+    date: 24-05-2008
+    user: http://mi.guiaoleo.com/members/30144
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      Un lugar tranquilo para ir con amigos. La entrada comida muy buena, el servicio, podrian mejorarlo, el precio me parece que es el justo.
+      Pidanse la limonada!!!! y el trago con sake que estan muy buenos!!!!!!
+    date: 16-05-2008
+    user: http://mi.guiaoleo.com/members/25414
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "fuimos a cenar un grupo de amigos(5)la atencion de la camarera dejaba demasiado que desear no tenia idea de nada con respecto a los platos ni vinos,y el postre fui cuando nos alcanzo la carta para elegir los postre y cuando la llamamos para que levante el pedido ya que demoraba demasiado nos contesto que la cocina estaba cerrada y que no podia levantar el pedido,realmente una pesima atencion y cuando se acerco la encargada del salon se hizo la descentendida,eso acelero el pedido de la cuenta,con respecto a la ambientacion muy agradable,y el plato principal que fue cerdo bastante regular. "
+    date: 24-02-2008
+    user: http://mi.guiaoleo.com/members/19001
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fuimos a festejar mi cumplea\xF1os, eramos 5 personas. Pedimos rabas, un risotto, pescado con verduras, \xF1oquis y lomo. Demoraron m\xE1s de una hora (los \xF1oquis llegaron helados!) y eso que no estaba lleno, cada vez que llamabamos a la moza para reclamar se hac\xEDa la que no escuchaba.Despu\xE9s nos regalaron una copa de champagne por la demora. La comida bastante buena. Lugar para ir sin grandes expectativas."
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/32440
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen ambiente, tranquilo para una cena sin ruidos, muy placentero.  Y la comida muy buena, desde la ensalada ceasar con un dressing riqu\xEDsimo de la casa, hasta el plato de tapas bastante abundante.  Los platos principales seg\xFAn los otros comensales, estaban muy buenos, y el lomo cocido a gusto. Muy buenos los postres y sobre todo los tragos, bien recomendados por la camarera y bien servidos. "
+    date: 05-12-2007
+    user: http://mi.guiaoleo.com/members/8965
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena comida de autor-fusion, muy original con buenos ingredientes de calidad y presentaci\xF3n, musica chill-out y ambiente despojado y moderno, mesas muy juntas, musica electr\xF3nica o bossa and varios, claramente la prioridad es la estetica, aunque la comida es muy buena, quizas demasiado orientado al circuito geografico donde se encuentra, por lo que no llega a distinguirse del resto que lo integran. "
+    date: 23-10-2007
+    user: http://mi.guiaoleo.com/members/16134
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es bastante mala para el rpecio de los platos, el pollo no era nada especial, y es intolerable que el rissotto este hecho con arroz comun en vez de usar el especial para rissotto, eso es inadmisible en un lugar que tiene esos precios. es una lastima pero no lo recomiendo y no volveria. "
+    date: 19-10-2007
+    user: http://mi.guiaoleo.com/members/30424
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Qu\xE9 mala es la comida. \r\n\
+      La nota que recibe en la calificaci\xF3n de \xD3leo no refleja haber comido una bondiola con nervios, y un salm\xF3n en hojaldre que era en realidad una masa (no hojaldre) frita, con gusto a aceite, y una pasta adentro que inclu\xEDa algo de salm\xF3n. Nada recomendable. No env\xEDo el comentario para que lo publiquen, no es mi intenci\xF3n ser cruel, pero s\xED para que bajen radicalemente la nota que recibe, porque es muy injusta."
+    date: 11-10-2007
+    user: http://mi.guiaoleo.com/members/701
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: el lugar esta totalmente reformado.
+    date: 02-08-2007
+    user: http://mi.guiaoleo.com/members/27798
+    ambiente_rank: excelente

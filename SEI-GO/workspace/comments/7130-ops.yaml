@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Tuvimos el placer de compartir una cena con amigos en TORCUATO
+    date: 21-02-2010
+    user: http://mi.guiaoleo.com/members/77166
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Almorc\xE9 a las 4 de la tarde, exquisito. La otra vez tambi\xE9n estuve en un horario raro, y siempre tienen la cocina abierta para comer. Com\xED platos que no se ven en otros lugares, ej los spuntinis, supl\xED di riso, salchicas al vino tinto, la porchetta, las pastas de Mirko. Todo muy rico y artesanal y con insumos de primera calidad. En pasteler\xEDa me mat\xE9 con las mini sfogliatella"
+    date: 07-02-2010
+    user: http://mi.guiaoleo.com/members/75916
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "es un restaurant muy romantico estilo frances, a la noche hay velitas y tiene musica ambiental muy agradable. nos pedimos spuntinis. muy buenos los camarones fritos, las salchichitas al vino tinto y los quesos, ideal para acompa\xF1arlos con un buen vino. no pedimos postre pero s\xED probamos los tragos: la caipiri\xF1a y el trago de la casa que tiene campari super recomendables."
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/75879
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos a cenar con otra pareja de amigos recomendados por la revista LaNaci\xF3n. INcre\xEDble lo que hicieron con esa esquina de la plaza san martin. Nos tentamos con los spuntinis muy tanos y ricos. Los cocktails son buen\xEDsimos, especialmente el Mojito que me tom\xE9. Muy recomendable. Volver\xE9 de d\xEDa."
+    date: 29-01-2010
+    user: http://mi.guiaoleo.com/members/42095
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Servicio extremamante lento y desorganizado. Sin aviso alguno me cobraron 7.00 Pesos de servicio de mesa. Ni siquiera me dieron una canasta de pan y manteca. Al preguntar porque me cobran este servicio ya que lo unico que me dieron es un cuchillo y tenedor, me dijo el gerente que era por el derecho de estar sentado en el local.
+      En este "Bistro" solamante me veran dos veces; la primera y la ultima. No se lo recomiendo a nadie.
+    date: 22-01-2010
+    user: http://mi.guiaoleo.com/members/39079
+    ambiente_rank: bueno

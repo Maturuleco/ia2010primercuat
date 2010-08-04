@@ -1,0 +1,64 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      De arranque me dijeron que no tenian aguas saborizadas, asi que arrancamos mal. La entrada, unas fajitas c/verdura c/palta estaba media insulsa. El plato principal, costillas de cerdo a la mostaza c/batatas fritas, estaba Exquisito! Pero la arruino con un volcan de chocolate que salio enseguida, se ve que ya lo tenian cocinado, tibio y por dentro seco, sin corazon de chocolate derretido.
+      El ambiente muy lindo.
+      Me parecio carisimo! Muy pretencioso sin lograr el cometido. Les convendria volver a lo basico.
+    date: 21-04-2010
+    user: http://mi.guiaoleo.com/members/24247
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es rica y tiene una carta super extensa (ensaladas, pastas, risottos, carnes, pescado...). Pedimos ravioles de espinaca y salm\xF3n y pechuga de pollo rellena (muy buena!), pero me decepcion\xF3 el brownie con helado que no era gran cosa. La relaci\xF3n precio-calidad-cantidad es buena, y la atenci\xF3n un tanto sobrecargada pero atenta. Dato \xFAtil: el piso de arriba es fumador."
+    date: 23-02-2010
+    user: http://mi.guiaoleo.com/members/77177
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui muchas veces a este restaurant. Mi plato favorito es el lomo fum\xE9e (lomo con raviolones de hongos y trocitos de panceta), aunque el risotto del bosque y los ravioles de calabaza son exquisitos. Los mejores postres son el ganache y la tarteleta de frutas. El ambiente es muy tranquilo y c\xE1lido, ideal para parejas. El servicio no es de lo mejor ya que son mozas j\xF3venes, pero igualmente es cordial. La relaci\xF3n precio-calidad-cantidad est\xE1 bien."
+    date: 20-01-2010
+    user: http://mi.guiaoleo.com/members/32086
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es tranquilo, con mucha armon\xEDa. Muy especial. Ideal para parejas y grupos de adultos que gusten disfrutar de un clima relajado. Tiene una carta variada con platos originales y muy ricos. El piso de arriba es para fumadores. Este lugar es perfecto para esos dias que uno quiere desestresarse."
+    date: 24-12-2009
+    user: http://mi.guiaoleo.com/members/74111
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida muy rica y los precios razonables. La atenci\xF3n muy buena, desde el momento incluso que llamamos para hacer la reserva, salvo al final, que estando en el piso de arriba, se olvidaron de nosotros, sin que hubiera casi nadie m\xE1s en el lugar. El lugar est\xE1 muy bueno, bien la m\xFAsica para ambientar sin molestar; lo que s\xED, casi nos asamos arriba con el aire acondicionado."
+    date: 09-08-2008
+    user: http://mi.guiaoleo.com/members/11097
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Local en dos plantas (arriba fumadores), pobre ambientaci\xF3n, atenci\xF3n sorprendentemente distra\xEDda, una camarera tomaba y olvidaba o confund\xEDa los pedidos, otra por otras intentaba remediar los desaguisados (otro lugar mas que reemplaza el profesionalismo en la atenci\xF3n, con ni\xF1as inexpertas y desganadas). De eso es dif\xEDcil recuperarse a la hora de juzgar. Dir\xE9 que la comida era solo aceptable, excepto la muy rica tarta de manzanas con pasas y nueces del final. Con otra atenci\xF3n arrimar\xEDa a \"bueno\"."
+    date: 03-07-2008
+    user: http://mi.guiaoleo.com/members/5889
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Dentro del cl\xE1sico pasaje Bollini resalta el restaurante de ambiente c\xE1lido, rica comida, buen servicio, buenos precios, ricos vinos.Para recomendar"
+    date: 31-03-2008
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Local coqueto e \xEDntimo en una cortadita con encanto; muy buena carta completa, variada y con muy ricas propuestas bien elaboradas; atenci\xF3n eficiente. En suma, recomendable en todos los aspectos"
+    date: 19-02-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar parece m\xE1s un restaurant de mediod\xEDa para la gente del barrio, pero la comida es muy rica y tiene muy buena relaci\xF3n precio-calidad-cantidad. Los platos son para compartir."
+    date: 25-01-2008
+    user: http://mi.guiaoleo.com/members/7026
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es buen condimentada, definitivamente no para la gente que no les gustan especias. Muy creativa! "
+    date: 30-10-2007
+    user: http://mi.guiaoleo.com/members/7210
+    ambiente_rank: muy bueno

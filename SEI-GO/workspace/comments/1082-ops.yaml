@@ -1,0 +1,95 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Esta vez visit\xE9 los ba\xF1os. Lamento quienes se sientan cerca de ese lugar, particularmente al llenarse en el mediodia. La calidad de la comida, b\xE1sica, si se me permite el criterio."
+    date: 25-08-2009
+    user: http://mi.guiaoleo.com/members/345
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La suprema \"Matias\" es una buena opci\xF3n. Me result\xF3 agradable el servicio de las mozas. Un poco caro para un mediodia en el bajo, pero se llena bastante."
+    date: 11-02-2009
+    user: http://mi.guiaoleo.com/members/345
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buena la opci\xF3n de menus para el mediod\xEDa a un precio razonable, la atenci\xF3n en la barra es excelente pero en las mesas los mozos se ven algo desbordados, el ambiente es muy bueno."
+    date: 08-01-2009
+    user: http://mi.guiaoleo.com/members/47331
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un buen pub, muy bien ambientado, para salir a tomar algo . La pizza no es mala pero tampoco es una locura. Deberian mejorar un poco la atenci\xF3n"
+    date: 23-07-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Tipico pub Irlandes con comida aceptable e ideal para pasar un buen rato con amigos y experimentar la gran variedad de cervezas.
+    date: 14-07-2008
+    user: http://mi.guiaoleo.com/members/16793
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Lugar agradable para pasar un buen momento tomando algo con amigos; la comida es correcta y el servicio eficiente
+    date: 14-05-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Excelente opcion para el after office, con amigos, a tomar alguna cervecita importada.
+    date: 06-05-2008
+    user: http://mi.guiaoleo.com/members/43697
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Aumentaron los precios, bajaron un poco la calidad de la comida y las porciones de todo son m\xE1s chicas que hace unos meses. La atenci\xF3n es muy regular, depende el mozo que te toque, a veces tardan una eternidad aunque el local este semivac\xEDo. El ambiente es muy bueno pero no alcanza."
+    date: 25-10-2007
+    user: http://mi.guiaoleo.com/members/14801
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es medio oscuro para un mediod\xECa, sin embargo la comida es muy buena. El men\xFA ejecutivo no es para nada caro e incluye postre y bebida. Com\xED varios mediod\xECas ahi y siempre me atendieron bien y r\xE0pido (fundamental los d\xECas de mucho trabajo, en que uno quiere despejarse una hora)"
+    date: 23-05-2007
+    user: http://mi.guiaoleo.com/members/20284
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Voy desde los 70....recomiendo la barra,la cerveza,las picadas y el roast beef.Un cl\xE1sico que perdura."
+    date: 28-04-2007
+    user: http://mi.guiaoleo.com/members/13145
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Anoche me dirig\xED a Down Town Mat\xEDas, para festejar con mi novia el d\xEDa de San Valent\xEDn y la verdad que fu\xE9 un desastre. Esperamos la comida casi dos horas y luego solicit\xE9 que me cerraran la mesa s\xF3lo con la bebida y la entrada.\r\n\
+      En ning\xFAn momento me explicaron el por que de la demora, si hasta me dijo la moza que el cheff era un desastre. Lamento decirlo pero la pas\xE9 realmente mal."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/18340
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Los platos \xF9ltimamente mejoraron. La ensalada C\xE8sar es la mejor que prob\xE9."
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: A good place to come for a few drinks. The food is said to be typical Irish but they don't serve ham and cabbage or steak and ale pies. There is nothing Irish about this place apart from the bar layout. Stick to the drinks and it's a good place.
+    date: 27-10-2006
+    user: http://mi.guiaoleo.com/members/14818
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un ambiente excelente con espectacular m\xFAsica. \r\n\
+      Es para ir a pasarla con amigos. \r\n\
+      Lo recomiendo, es espectacular; un lugar tranquilo pero a la vez divertido. Gracias por hacer un lugar tan lindo y completo."
+    date: 04-06-2006
+    user: http://mi.guiaoleo.com/members/9074
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Cuando nos atendi\xF3 la ni\xF1a, estuvo todo muy bien, aunque la tuvimos que ir a buscar dos veces. Antes que ella apareciera, buenas cervezas y unas picadas de miedo.\r\n\
+      Despu\xE9s de las bandas los parlantes suenan como para discoteca."
+    date: 02-05-2006
+    user: http://mi.guiaoleo.com/members/8148
+    ambiente_rank: muy bueno

@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Tradicional bar de Buenos Aires con buenas opciones en sandwiches y cafeteria. No tiene altibajos, siempre mantiene su nivel.
+    date: 06-12-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un retrato de un bar tradicional de Buenos Aires. La sandwicher\xEDa fr\xEDa y caliente contiene los antiguos recaudos gastron\xF3micos cl\xE1sicos de Buenos Aires. Recomiendo el sandwich de milanesa de lomo y de postre un tiramis\xFA casero hecho por el cheff \"Angelito\"."
+    date: 20-11-2009
+    user: http://mi.guiaoleo.com/members/34559
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Un ambiente en donde uno se siente bien. Relajado e informal.
+      La tortilla manchega la mejor tortilla que hemos comido en BsAs. Bavosa y con los ingredientes precisos.
+      Ideal cuando uno pasea por Recoleta sin prisas.
+    date: 06-09-2009
+    user: http://mi.guiaoleo.com/members/55236
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Realmente qued\xE9 sorprendida por la calidad de los productos que consumimos y por el servicio que nos dispensaron los mozos.\r\n\
+      El t\xE9 era como para dos personas y muy bien servido; como asi tambien el jugo (sin hielo..!!) y el sandwich de lomo realmente grande y de muy buena calida."
+    date: 15-03-2009
+    user: http://mi.guiaoleo.com/members/8396
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: EL sandwich estaba bien, la carne incrible. El servicio bien y el postre flojo.
+    date: 16-03-2008
+    user: http://mi.guiaoleo.com/members/37163
+    ambiente_rank: bueno

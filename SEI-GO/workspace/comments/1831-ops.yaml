@@ -1,0 +1,26 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: la comida es excelente... la atencion es de primera y es un lugar muy lindo.. los precios son accesibles de acuerdo a la muy buena calidad de comida que tienen.. vallan y prueben que les puedo asegurar que no se van a arrenpentir...
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/82795
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: me gusto mucho el lugar y la atencion, la comida estaba en su punto justo, la carne es de muy buena calidad y las picadas excelentes. recomiendo.
+    date: 18-03-2009
+    user: http://mi.guiaoleo.com/members/62774
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es muy buena, tiene delivery, porciones abundantes pero los precios son levemente altos para la zona.
+    date: 15-12-2007
+    user: http://mi.guiaoleo.com/members/23463
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena la atenci\xF3n. La comida es abundante y el ambiente es muy c\xE1lido.\r\n\
+      Tiene servicio de delivery. "
+    date: 27-01-2007
+    user: http://mi.guiaoleo.com/members/17060
+    ambiente_rank: excelente

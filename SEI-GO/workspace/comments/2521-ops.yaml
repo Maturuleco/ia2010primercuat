@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buena opcion para el mediodia en la zona comercial de Flores, comida suculenta y casera, sin demasiadas pretenciones pero que no defrauda en lo absoluto por precio/calidad.
+    date: 23-10-2008
+    user: http://mi.guiaoleo.com/members/686
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es muy buena, se nota que es re fresca, poque ademas cambian la carta, en su totalidad, todos los dias.\r\n\
+      La atencion es muy buena, los chicos que atienden estan pendientes del comenzal y de la limpieza y el orden del lugar.\r\n\
+      Los due\xF1os estan siempre presentes verificando la calidad de todos los servicios que brindan"
+    date: 17-07-2008
+    user: http://mi.guiaoleo.com/members/47617
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un ambiente familiar y atendido por sus due\xF1os. S\xF3lo atienden al mediodia ya que est\xE1n en una zona comercial de gran importancia. \r\n\
+      Es un restaurante muy agradable."
+    date: 17-04-2006
+    user: http://mi.guiaoleo.com/members/8013
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El men\xFA es variado y la cocina es excelente. Es un lugar normal donde se come muy bien y barato."
+    date: 11-04-2006
+    user: http://mi.guiaoleo.com/members/7678
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar est\xE1 muy bueno. La comida est\xE1 b\xE1rbara y todo es muy casero. \r\n\
+      Se nota el empe\xF1o que le ponen para que todo salga bien. No me quiero olvidar de la atenci\xF3n de los chicos. La verdad es que son muy cordiales."
+    date: 06-04-2006
+    user: http://mi.guiaoleo.com/members/8039
+    ambiente_rank: excelente

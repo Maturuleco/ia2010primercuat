@@ -1,0 +1,63 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Seg\xFAn parece, el lugar habr\xEDa cambiado de due\xF1os. Hace 10 a\xF1os era mucho mejor. Pareciera que desde entonces no han hecho ninguna inversi\xF3n en el ambiente, deber\xEDan hacerlo porque clientela no le falta al lugar. La comida ha empeorado mucho, las empanadas est\xE1n igual que siempre y es lo \xFAnico que merece aprobaci\xF3n."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/72780
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El pur\xE9 de pap\xE1s es el mejor que conoc\xED. Ac\xE1 en mi trabajo lo pedimos siempre, aunque tengamos comida ya. Adem\xE1s con mi trabajo hicieron un convenio y hay descuento."
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/76461
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar tranquilo, se come bien; lo ideal es pedir la promoci\xF3n del men\xFA del d\xEDa, que siempre hay dos opciones e incluye bebida, caf\xE9 y a veces postre, lo cual lo hace muy econ\xF3mico."
+    date: 28-01-2010
+    user: http://mi.guiaoleo.com/members/68959
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Su servicio de delivery es super rapido y la pizza es buena.  Su numero ha cambiado- es 1551 en vez de 1441.
+    date: 23-01-2010
+    user: http://mi.guiaoleo.com/members/74720
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Ideal para ir comer r\xE1pido al medio d\xEDa. No conviene salirse del men\xFA del d\xEDa porque sino el precio suve much\xEDsimo. Las porciones son abundantes y te atienden muy bien y r\xE1pido. Atienden mesas muy grandes de mucha gente sin problemas. Lo recomiendo."
+    date: 22-12-2008
+    user: http://mi.guiaoleo.com/members/52250
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Buena opcion para el mediodia. Las opciones cambian todos los dias. Buena atencion de casi todos los mozos. No es una maravilla, pero como lugar para almorzar con menu ejecutivo, cumple su rol.
+    date: 20-11-2008
+    user: http://mi.guiaoleo.com/members/15718
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida estaba buena, es \xFAtil al mediodia, ya que es r\xE1pido."
+    date: 13-10-2006
+    user: http://mi.guiaoleo.com/members/9209
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bien atendidos. Muy buena onda. Nos gusta mucho ir, porque siempre nos reciben c\xE1lidamente."
+    date: 20-08-2006
+    user: http://mi.guiaoleo.com/members/11311
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Mucho ruido en el sal\xF3n. \r\n\
+      Respecto a la comida, la porci\xF3n es m\xE1s chica que antes. \xBFPor qu\xE9?\r\n\
+      A veces viene fr\xEDa y no deber\xEDa pasar."
+    date: 19-09-2005
+    user: http://mi.guiaoleo.com/members/4085
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: mucho bullicio
+    date: 16-07-2004
+    user: http://mi.guiaoleo.com/members/5
+    ambiente_rank: bueno

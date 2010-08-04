@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Lugar economica, la comida de regular a bueno, nada del otro mundo
+    date: 03-05-2010
+    user: http://mi.guiaoleo.com/members/81216
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: No volveria ni gratis
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/32636
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar aceptable, a metros del Parque Lezama, bien instalado, bien atendido. La carne es buena pero no excelente. Los precios, muy econ\xF3micos."
+    date: 14-03-2010
+    user: http://mi.guiaoleo.com/members/9198
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Agradable y acogedor lugar, especial para una cena intima a solo pasos de San Telmo. Una de las mejores propuestas del barrio de La Boca
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/66689
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La verdad es que es una buena opci\xF3n dentro de la zona del barrio de la Boca. Buena carne, y variedades de ensaladas."
+    date: 18-10-2009
+    user: http://mi.guiaoleo.com/members/63316
+    ambiente_rank: muy bueno

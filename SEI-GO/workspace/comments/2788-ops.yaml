@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "es un bar muy lindo, rustico y amigable en un barrio super porte\xF1o. es interesante para ir con amigos a tomar cerveza o algun trago simple. se fuma solo en el patio climatizado, lo que permite que haya buena circulacion de aire (al menos es lo que siempre experimente yo cdo fui). la atencion es rapida. a veces tambien simpatica.  el menu es breve pero no es un resto ni una pizzeria, es un bar. las pizzas son ricas, finitas, frescas y crocantes. recomiendo la de rucula. en el subsuelo ademas de musica, a veces tambien hay teatro."
+    date: 29-05-2009
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No lo recomiendo en absoluto, fuimos maltratados, la pizza demor\xF3 40min y vino fr\xEDa. Se fuma adentro del lugar y el due\xF1o lo permite. El precio de las bebidas alcoholicas es caro. No tiene variedad en la carta, ni tampoco en la de vinos. P\xE9sima atenci\xF3n."
+    date: 17-04-2009
+    user: http://mi.guiaoleo.com/members/61180
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "M\xE1s que un restaurant, es un bar en el que se sirven comidas sencillas. Dentro de lo que prob\xE9 ,las empanadas son muy buenas, pero lo m\xE1s importante es la onda del lugar, con m\xFAsica en vivo en el s\xF3tano que no molesta en la planta alta. Tiene adem\xE1s un patio interno que es muy agradable. La atenci\xF3n no se destaca demasiado. Es un lugar ideal para ir a tomar algo y dejar pasar el rato de manera muy tranquila y distendida de los que no abundan en esa zona."
+    date: 24-01-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Esta bueno el lugar , muy tranquilo , para tomar unas cervezas con amigos. Tiene como una especie de sotano donde tocan bandas pero si no queres escuharlas, arriba no molesta la musica.
+    date: 07-06-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "A mi se\xF1ora y a mi nos gusto mucho la amplitud del sitio. Tiene un underground donde tocaba una banda y estaba barbaro que si no querias escucharla, en la PB no te invadia el sonido -igual la banda era muy buena-. Una alternativa dinamica en Almagro. Renovada. Ideal para ir a tomar unos ricos tragos a la salida de los teatros de la zona."
+    date: 18-05-2008
+    user: http://mi.guiaoleo.com/members/44868
+    ambiente_rank: muy bueno

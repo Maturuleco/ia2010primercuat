@@ -1,0 +1,39 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: El lugar no tiene nada que amerite ir. Los precios no son baratos, la comida no es espectacularni mucho menos, y la atencion y el ambiente son de regular para abajo. Ir solo si no hay otro lugar.
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/76419
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: la comida es excelente pero la atencion es mala tuvimos que esperar para que nos traigna agua el personal charlando y no nos observaban si necesitabamos algo   cuiden los detalles que son importantes.... no volveremos
+    date: 14-03-2009
+    user: http://mi.guiaoleo.com/members/59885
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un lugar con excelente comida y grandes porciones. Ideal para conocer la comida peruana, y si bien no es tan barato, al lado de lo que vale ir enfrente al Abasto al Patio de comidas, vale la pena.\r\n\
+      \r\n\
+      El ambiente est\xE1 un tanto abandonado, es grande y posee cierta decoraci\xF3n peruana. Tiene una \"rockola\" para pasar m\xFAsica, como las de antes, funcionando.\r\n\
+      \r\n\
+      El servicio es un poco lento, pero con muy buena actitud.\r\n\
+      \r\n\
+      El ceviche es muy rico, igual que el anticucho y el pisco sour.\r\n\
+      \r\n\
+      Vale la pena conocerlo."
+    date: 12-03-2008
+    user: http://mi.guiaoleo.com/members/37861
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente atenci\xF3n. Es un lugar sencillo en el que no se ofrece m\xE1s que lo b\xE1sico, pero la comida es fresca, la atenci\xF3n es muy buena, incluso cuando esta lleno. Crece, dia a dia, han mejorado la ambientaci\xF3n y ampliado la carta. "
+    date: 09-09-2007
+    user: http://mi.guiaoleo.com/members/15499
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: estuvo mas o menos, el ambiente puede ser mucho mejor.
+    date: 21-05-2007
+    user: http://mi.guiaoleo.com/members/23488
+    ambiente_rank: malo/regular

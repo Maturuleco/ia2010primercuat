@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena opci\xF3n en la zona por su men\xFA de mediod\xEDa.  Al menos 8 alternativas de plato principal y 4 de postre. Platos abundantes y bien servidos. El servicio fue atento pero tardaron mucho los platos, el postre y la cuenta. Si est\xE1n sumamente apurados no creo que sea recomendable. El ambiente es simple, sin nada para destacar. Precio econ\xF3mico $28   $2 de \"cubierto\"\xBF? por un plato principal, bebida y postre o caf\xE9. Si se mantienen los valores, la cantidad y la calidad de lo ofrecido, volver\xE9."
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: el lugar es ideal para ir a comer con poco tiempo ya que los platos no demora mas de 10 min almenos el mio . es un lugar de los pocos que quedan ya que se sirve porciones abundante de calidad y no a precios de locos.
+    date: 09-10-2009
+    user: http://mi.guiaoleo.com/members/54652
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy bueno! ante tanta proliferacion de resto (todavia no se lo que significa eso...) una opcion mas que intereresante. la comida es a la antigua, es decir platos abundantes, sabrosos, con ingredientes frescos, y nada de nombres inventados...el plato se llama por los ingredientes que tiene. punto.
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/68646
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buen lugar, con precios muy accesibles. La atenci\xF3n es muy buena. Un detalle; los platos principales son muy accesibles pero las entradas son muy caras en proporci\xF3n. Para ir seguido."
+    date: 29-05-2009
+    user: http://mi.guiaoleo.com/members/49610
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena la atencion, los platos son abundantes como ya no se ve, la mercaderia se nota que es muy fresca. Los mozos mas que atentos. La carta es muy variada y extensa. Buena relacion precio / calidad / cantidad. Para recomendar y volver!!!!
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      Excelente restaurant, bien ambientado, atencion 10 puntos,mesa muy bien puesta (es cada vez mas raro)
+      Muy recomendable, para volver. Hay que tener en cuenta que las porciones son muy abundantes.
+      Lo unico criticable es el aire acondicionado quizas muy fuerte
+    date: 10-02-2008
+    user: http://mi.guiaoleo.com/members/15230
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena comida, acompa\xF1ada de un servicio eficiente y un ambiente distendido.\r\n\
+      En Torcuato se conjuga todo eso para que sea un lugar para tener muy en cuenta.Es super recomendable!"
+    date: 13-11-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es ideal para una cena tranquila, gente grande, comi en el salon fumador donde esta ventilado y con aparatos de fragancias. Los platos abundantes  y la ensalada la sirven en fuentes ovaladas de mas de 30 cm que sobro muchisimo , no estoy de acuerdo que sea un resto al paso preguntando a los mozos me dijeron que hay dos chef con titulo y un ayudante por turno, buenisimo ahora voy cada dos o tres dias a cenar es economico... "
+    date: 04-09-2007
+    user: http://mi.guiaoleo.com/members/31229
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Muy buena la carne, ensaladas escasas. Bien el panqueque de dulce de leche. Nada para destacar. El lugar esta bien ambientado para ser un restaurante al paso. 
+      El gran problema es el olor a grasa que se siente todo el tiempo, tal vez por ser un lugar poco ventilado.
+    date: 14-08-2007
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar muy c\xE1l\xEDdo, tranquilo. El primer piso es ideal para ir con amigos. \r\n\
+      Buenos precios en general."
+    date: 18-03-2006
+    user: http://mi.guiaoleo.com/members/8538
+    ambiente_rank: muy bueno

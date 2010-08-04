@@ -1,0 +1,211 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena comida tradicional china y a precios accesibles, si lo comparamos con otros lugares.\r\n\
+      La ambientaci\xF3n del local es un poco precaria.\r\n\
+      Un lugar para ir a comer \"de vez en cuando\"."
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Decay\xF3 bastante, lamentablemente. Tengo que decir que ya no es el mejor. Conserva todos sus defectos (ambientaci\xF3n nula, atenci\xF3n desatenta, no hay vinos) y va perdiendo sus virtudes culinarias.\r\n\
+      Una sombra de lo que fue. Dudo en volver, parece que ya cumpli\xF3 su ciclo."
+    date: 28-03-2008
+    user: http://mi.guiaoleo.com/members/43050
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Importante variedad de platos. Muy buen sabor en general. Es para ir entre tres o m\xE1s personas y pedir varios platos para compartir y probar diferentes tipos de preparaciones. Al final de la jornada uno habr\xE1 degustado cuatro-cinco comidas y erogado poco dinero. Gran experiencia.  Muy recomendable el pan frito con cebolla, todo un hallazgo. El cerdo canton\xE9s, lomo al curry y la canasta de pollo son imperdibles. Punto en contra: nula variedad en cervezas, solo una marca."
+    date: 23-03-2008
+    user: http://mi.guiaoleo.com/members/42229
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El ambiente siempre fu\xE9 igual....la atenci\xF3n mala como siempre....pero la comida....ERA LA MEJOR COMIDA CHINA DE BUENOS AIRES.....sin exagerar.\r\n\
+      Pero hoy y\xE1 no...no es lo que era.\r\n\
+      Y la competencia es otra....y muy grande.\r\n\
+      Creo que Cant\xF3n ha perdido mucho terreno...ojala lo recupere !"
+    date: 19-01-2008
+    user: http://mi.guiaoleo.com/members/38971
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos por los comentarios que le\xEDmos aqu\xED mismo. \xA1Es cierto! La comida es buena (la carta es muy variada, los platos muy abundantes) y la decoraci\xF3n es fea. La carta de vinos no existe. Est\xE1 bueno para ir a comer verdadera comida china, bien hecha. El pato con hongos y bamb\xFA es un hallazgo. Volveremos, para seguir probando otras delicias."
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/17085
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Increible, no me canso de ir. Es cierto que a la ambientaci\xF3n le falta un poco, pero hay que darle una oportunidad. La comida no es nada aceitosa (algo frecuente en los tenedores libres) y los mozos se esmeran mucho. La comida, impecable, los camarones fresquisimos y con consistencia. \r\n\
+      Recomiendo el pan chino al vapor y la sopa agripicante!"
+    date: 22-10-2007
+    user: http://mi.guiaoleo.com/members/14919
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "una opci\xF3n v\xE1lida para quien gusta de la comida cantones original, sin ninguna sorpresa rara y para disfrutar, lo \xFAnico negativo es q tiene todas las mesas pegadas y casi no queda lugar para pasar entre ellas, buena atencion y rapida para volver cuando hay poco tiempo para cenar."
+    date: 02-10-2007
+    user: http://mi.guiaoleo.com/members/15601
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Voy muy seguido a este lugar \r\n\
+      hay que dejar los prejuicios de lado, no dejarse llevar por la decoracion o el exterior, la comida es excelente, muy sabrosa adem\xE1s hay variedad para todos los gustos buenos precios, he comido en diferentes lugares chinos pero este es mi favorito, recomendable el pato con vegetales, la atencion no es de la mejor pero es esmerada."
+    date: 25-09-2007
+    user: http://mi.guiaoleo.com/members/31974
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "S\xF3lo para quienes puedan disfrutar de una muy buena comida sin pretender un lugar cool. \r\n\
+      El pollo con anan\xE1 y salsa agridulce es espectacular. Ya fui otras veces y siempre me gusta la comida. El lugar puede asustar a los muy sensibles."
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/32340
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "En una palabra; horrendo. Feo el lugar, mala atenci\xF3n y la comida es desagradable. Para no volver. "
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/28409
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar para degustar comidas del oriente, muy recomendable. "
+    date: 06-05-2007
+    user: http://mi.guiaoleo.com/members/22757
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Para objetar la limpieza, pero la comida buena, un poco mas picante que en otros chinos.
+    date: 05-05-2007
+    user: http://mi.guiaoleo.com/members/24051
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buenos precios. Los platos son abundantes y de calidad. La atenci\xF3n es eficiente y el lugar est\xE1 bien, si no se usan los ba\xF1os. El caf\xE9 o el postre (si es que se quiere algo sofisticado) es mejor tomarlo en otro lado. "
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/16898
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Es un cl\xE1sico con alt\xEDsima calidad en comida china, soy asidua concurrente y nunca se compara con los restaurates de la calle Arribe\xF1os. No se deje influir por es aspecto exterior e interior y entre a disfrutar la mejor comida.  "
+    date: 07-04-2007
+    user: http://mi.guiaoleo.com/members/21195
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Simplemente mal\xEDsimo. No voy nunca m\xE1s. Para eso voy a algun tenedor libre chino y como un poco mejor. No lo recomiendo para nada."
+    date: 04-03-2007
+    user: http://mi.guiaoleo.com/members/9509
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "De afuera el lugar parece descuidado pero lo recomendamos. \r\n\
+      Los platos son abundantes, para repartir y la atenci\xF3n es muy buena."
+    date: 29-12-2006
+    user: http://mi.guiaoleo.com/members/17675
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El mejor lugar de Buenos Aires para disfrutar de comida cantonesa. Es notable la diferencia de ingredientes en comparaci\xF3n a los restaurantes chinos tradicionales. \r\n\
+      Abundancia en los platos. \r\n\
+      Calidad excelente. Precios accesibles. La atenci\xF3n es regular. Excelente ambiente."
+    date: 20-11-2006
+    user: http://mi.guiaoleo.com/members/14199
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "A pesar de que los vidrios no siempre est\xE9n limpios, las incomid\xEDsimas esperas de los fines de semana y el aumento de los precios de los \xFAltimos tiempos, voy igual. Hay que ir. En invierno, la sopa agripicante es una delicia. Para los ne\xF3fitos, la canasta de pollo siempre es una buena v\xEDa de entrada. Fuera del bajo Belgrano, de los mejores sitios donde ir a comer comida china. \r\n\
+      Y por si quedan dudas, la carta es inagotable. Siempre  pedimos algo distinto, y hasta el momento, nunca nos decepcionamos. No hay muchos sitios de los que pueda decirse lo mismo."
+    date: 07-11-2006
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Me gusta Cant\xF3n, todo muy t\xEDpico, desde la decoraci\xF3n hasta la comida. \r\n\
+      Los precios aumentaron en el \xFAltimo tiempo pero sigue siendo econ\xF3mico."
+    date: 01-09-2006
+    user: http://mi.guiaoleo.com/members/12319
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ven\xEDa todo bien, con la entrada y el arroz con camarones, pero el pollo parec\xEDa pollo, creo que era mondongo. Muy mal."
+    date: 01-09-2006
+    user: http://mi.guiaoleo.com/members/11655
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui a cenar por recomendaci\xF3n. Al llegar, el lugar me impact\xF3 por lo feo y viejo, pero la persona que me hab\xEDa llevado, me dijo que deje el prejuicio de lado...\r\n\
+      \xA1Y es verdad! \r\n\
+      La comida es maravillosa, la mejor. \r\n\
+      Los platos se pueden compartir, ya que son abundantes. Hay que darle una oportunidad."
+    date: 02-08-2006
+    user: http://mi.guiaoleo.com/members/10779
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Buena comida china,ambiente normal al igual que servicio.lugar ruidoso y a buen precio.es un bodegon chino,ideal para aprender a comer con los palitos.
+    date: 29-06-2006
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es excelente. Los platos son abundantes y sabrosos. Como siempre que vamos nunca sabemos con qu\xE9 quedarnos (porque nos gusta todo) elegimos algunas de las opciones del final del men\xFA. \r\n\
+      Son cuatro alternativas con platos variados para dos comensales. \r\n\
+      Lo cual est\xE1 bueno porque uno se quita las ganas de probar un poco de todo. \r\n\
+      La atenci\xF3n es cordial, si bien algunos de los mozos/as no comprende muy bien el espa\xF1ol se esfuerzan por entenderlo a uno y finalmente siempre llega lo que uno pide. La contra del lugar es la ambientaci\xF3n, un desastre: l\xFAgubre, en mal estado de conservaci\xF3n, hasta tiene pinta de sucio. La tetera con el t\xE9 del final, invariablemente est\xE1 cachada y manchada. Pero bueno, uno regresa por lo buena que es la comida, que sale s\xFAper r\xE1pido y nunca cae pesada (cosa que suele suceder con la comida china)."
+    date: 02-06-2006
+    user: http://mi.guiaoleo.com/members/9019
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente cocina, a veces cuando hay mucha gente se embarullan un poco pero en general es buena la atenci\xF3n.\r\n\
+      Recomendamos la canasta de pollo, es excelente"
+    date: 28-01-2006
+    user: http://mi.guiaoleo.com/members/6243
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Platos abundantes, rica comida, si no te gusta es s\xF3lo porque elegiste mal, ya que la variedad es mucha y la comida es sabros\xEDsima.\r\n\
+      Recomendable, aunque no para una noche rom\xE1ntica o de lujo.\r\n\
+      El precio es muy bueno."
+    date: 30-12-2005
+    user: http://mi.guiaoleo.com/members/5623
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Aut\xE9ntica comida china cantonesa, la mejor de todo Buenos Aires. \r\n\
+      El ambiente es pobre y la atenci\xF3n tiene mucho que mejorar. \r\n\
+      Pero los platos son muy abundantes, baratos y deliciosos."
+    date: 13-10-2005
+    user: http://mi.guiaoleo.com/members/4318
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente un lugar genial. \r\n\
+      El servicio es excelente, la comida es riqu\xEDsima y se respeta el verdadero concepto de la comida cantonesa."
+    date: 01-10-2005
+    user: http://mi.guiaoleo.com/members/2950
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Muy buena comida, mucha variedad. 
+      Muy recomendados los pancitos al vapor, sobre todos los rellenos. 
+      El servicio es entre bueno y regular.
+    date: 10-09-2005
+    user: http://mi.guiaoleo.com/members/4390
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Muy rica la comida, una pena que el servicio no sea tan bueno.\r\n\
+      El area fumador/no fumador no est\xE1 bien delimitada."
+    date: 02-09-2005
+    user: http://mi.guiaoleo.com/members/3709
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "la comida es excelente, mucha variedad a muy buen precio. Las \xFAnicas cosas reprochables son el servicio (pr\xE1cticamente nos echaron) y el ambiente (salvando las mesas giratorias que son practiqu\xEDsimas)."
+    date: 06-06-2005
+    user: http://mi.guiaoleo.com/members/1205
+    ambiente_rank: bueno

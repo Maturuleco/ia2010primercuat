@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Este es el lugar indicado cuando se quiere comer mucho y no hay exigencias sobre el ambiente y la presentacion. Tiene una carta peque\xF1a, pero hay variedad. Las porciones son muy abundantes, el servicio es tirando a malo y el ambiente peor aun. Sin embargo el balance es positivo porque la comida es sabrosa y sale rapido. Ojo que no es tan barato como aparenta."
+    date: 15-03-2010
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Los platos son realmente abundantes, se nota que cada platao esta hecho con ingredientes de calidad. La atencion es increible.Lo recomiendo 100% para los que quieran probar algo nuevo en microcentro.
+    date: 14-09-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es chicquito y extremadamente ruidoso. Las mesas una encimada a la otra y los mozos son cordiales pero sin ninguna delicadeza. M\xE1s all\xE1 de esos detalles la comida siempre es muy rica y con precios muy accesibles. Para visitar una vez por semana en la hora del almuerzo laboral."
+    date: 22-06-2009
+    user: http://mi.guiaoleo.com/members/55854
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida es bastante buena, el lugar es un poco chico y los mosos suelen confundirse. Los platos son bastante abundantes. Es para comer si andas por el centro. Tienen entrega por si queres pedir desde tu empresa.
+    date: 04-08-2008
+    user: http://mi.guiaoleo.com/members/10234
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Pido siempre delivery desde el trabajo. La comida llega fr\xEDa y nunca pero nunca traen condimentos para las ensaladas. Pero la relacion precio/comida es buena."
+    date: 28-02-2008
+    user: http://mi.guiaoleo.com/members/14269
+    ambiente_rank: muy bueno

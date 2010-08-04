@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Pizzer\xEDa moderna de palermo, con una muy generosa y rica pizza a la piedra. Buen ambiente para disfrutar entre amigos."
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/74150
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es a mi criterio (a cada uno le gusta distinta) muy sabrosa y las empanadas tambi\xE9n (aunque en ocasiones que ped\xED por delivery llegan frias y cada vez mas peque\xF1as). El lugar no es para nada agradable para comer: mesas muy apretadas y mucho ruido, aunque la atenci\xF3n es buena."
+    date: 02-11-2009
+    user: http://mi.guiaoleo.com/members/71525
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy rica pizza, buena atenci\xF3n si las chicas est\xE1n con ganas pero en un ambiente extremadamente ruidoso por el volumen de la musica, que va aumentando hasta hacerse insoportable."
+    date: 25-12-2008
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Nada Extraordinario\xA1\xA1\xA1\xA1\xA1 Pero la mejor pizza de Bs.As, la atenci\xF3n muy buena. Volveria."
+    date: 30-05-2008
+    user: http://mi.guiaoleo.com/members/37587
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La calidad decay\xF3 demasiado, la panceta de la pizza se la olvidaron.\r\n\
+      Los precios de la cerveza y las pizzas en general no est\xE1n acorde a la calidad, la cual ten\xEDan antes"
+    date: 11-03-2008
+    user: http://mi.guiaoleo.com/members/42032
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Gran variedad de pizzas, todas muy ricas. La cerveza de litro con precio un tanto elevado.\r\n\
+      El local es un poco chico, por ende hay que ir con anticipaci\xF3n para no esperar mesa; est\xE1 ambientado con buena m\xFAsica que aumenta su volumen a medida que pasa la noche y el local se va llenando. \r\n\
+      Bien entrada la noche parece m\xE1s pub que pizzer\xEDa.\r\n\
+      Las camareras siempre con la mejor onda."
+    date: 27-01-2008
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "la pizza es muy rica pero el ambiente es demasiado ruidoso debido al alto volumen de la m\xFAsica"
+    date: 11-11-2007
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Las empanadas de carne son buenas. La pizza est\xE1 bien, llega caliente y se mantiene as\xED mientras com\xE9s. La m\xFAsica estaba un poco fuerte. Nos atendieron bien."
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/19291
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena pizza, muy buenas empanadas, muy buena onda. La m\xFAsica un poco fuerte, pero muy buena."
+    date: 20-11-2006
+    user: http://mi.guiaoleo.com/members/13637
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lo \xFAnico realmente excelente son los sandwiches con  pan de pizza. Los mejores son los de pavita y el de palmitos. Pero la pizza no tiene mayor atractivo, las empandas: inolvidables, muy feas. Pedimos muchos gustos, pero ninguna fue comible. El ambiente se presta para gente joven, hay buena m\xFAsica (quiz\xE1s mucho ruido). Lo recomiendo para juntarse entre amigos y hacer \"la previa\" antes de salir. El servicio es bastate malo, porque tardan much\xEDsimo y algunas de las mozas tiene cara larga. En fin, una cerveza, sandwinch y amigos en Romario est\xE1 bueno, otra cosa no."
+    date: 30-09-2006
+    user: http://mi.guiaoleo.com/members/12426
+    ambiente_rank: muy bueno

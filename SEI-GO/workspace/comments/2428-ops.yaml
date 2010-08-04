@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Bueno y punto.
+      Entro solo si paso por la puerta
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/60333
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Ped\xED un arroz a la valenciana con pollo, el pollo seco y el arroz azafranado(valenciana) sin azafr\xE1n(ni el m\xE1s m\xEDnimo vestigio ni siquiera de color a azafr\xE1n ) y totalmente fuera del punto de cocci\xF3n, el flan casero desagradable gracias al fuerte sabor a esencia...... Precios caros en relaci\xF3n a la calidad que ofrecen."
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/62615
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Verdaderamente el arroz con pollo es sencillamente incomible, no hay el m\xEDnimo esmero en tratar de complacer al cliente., muy mala calidad y precios caros por lo que ofrecen.\r\n\
+      No vuelvo."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/78947
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ped\xED un pescado a la plancha con panache de verduras $36. Agua sin gas $6. Cubierto $4,5 (un cuadradito de manteca y nada m\xE1s). Total $46,5 (!!)\r\n\
+      La comida estaba bien, la atenci\xF3n es buena y el ambiente agradable, pero me pareci\xF3 fuera de precio; es un simple lugar para almorzar en medio del trabajo. Aumentaron los precios y se nota, estaba medio vac\xEDo, antes no era tan caro y hab\xEDa mas gente."
+    date: 25-06-2009
+    user: http://mi.guiaoleo.com/members/64701
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena opci\xF3n para un mediod\xEDa tranquilo luego de una vertiginosa manana laboral. Ambiente c\xE1lido pero no jovial..."
+    date: 05-08-2008
+    user: http://mi.guiaoleo.com/members/33364
+    ambiente_rank: bueno

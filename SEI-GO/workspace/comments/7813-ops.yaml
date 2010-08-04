@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "comimos muy exquisito de noche. Tienen wi.fi, eso es bueno. Volv\xED despues al mediod\xEDa con amigas, el lugar es agradable y la atenci\xF3n muy amable. Es un buen sitio para almorzar y cenar con buena musica, y quedarse. Lo recomiendo."
+    date: 24-06-2010
+    user: http://mi.guiaoleo.com/members/8529
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Comimos, el POMANGO, LA RECOMENDACION DE LA CASA. MI MARIDO LOS RAVIOLES DE CALABAZA! DE POSTRE NOS RECOMENDARON LA CHOCOTORTA... UN EXITO!!! El servicio, de una calidez increible. Es una esquina que tiene una familiaridad especial. Vale la pena ir. Es comida muy casera y fresca. se come muy bien y el ambiente es muy relajado. Ideal para amigos o una cena romantica! Me lo recomendaron para los sabados al medio dia.
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/75341
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un exquisito bistro en Palermo. Men\xFA reducido pero eficiente. Atenci\xF3n c\xE1lida. Imperdible la chocotorta. Volveremos"
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/46015
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente la comida, excelente ambiente e inmejorable atencion.
+    date: 17-05-2010
+    user: http://mi.guiaoleo.com/members/83817
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Mas alla de que la comida es rica rica, lo que tiene Fernet que lo hace unica es la VIBRA del ambiente! La gente es re buena onda, y esa esquina es MAGICA, especialmente un dia al mediodia con solcito. El precio es razonable, mas teniendo en cuenta lo rica que es la comida!Lo super recomiendo!
+    date: 14-05-2010
+    user: http://mi.guiaoleo.com/members/83373
+    ambiente_rank: excelente

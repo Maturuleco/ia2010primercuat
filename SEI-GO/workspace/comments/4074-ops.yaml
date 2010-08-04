@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Fuimos con muchas ganas de saborear platos fusionados de nuestra comida con algunas latinoamericanas y de otros lares, pero.....sabado de enero, 2130 hs, y el lugar estaba CERRADO!!! Una falta de respeto no advertir, aunque sea en su propia pagina....
+    date: 10-01-2009
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La propuesta es muy interesante, con platos de distintos pa\xECses latinoamericanas. Es excelente la panera: pan caliente, cancha peruana y hasta pochoclo!, acompa\xF1ada de pur\xE9 de berenjenas. No cobran cubierto ni servicio de mesa. Las porciones son grandes y los platos muy bien preparados."
+    date: 08-01-2009
+    user: http://mi.guiaoleo.com/members/21956
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la idea de un lugar de comida latinoamericana fusi\xF3n.\r\n\
+      Un lugar agradable, con una muy buena atenci\xF3n y excelente la comida. Para ir conocer las distintas propuestas."
+    date: 20-12-2008
+    user: http://mi.guiaoleo.com/members/56491
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente, la comida fue buenisima y la atenci\xF3n impecable.\r\n\
+      La ambientaci\xF3n del local esta muy buena. Lo recomiendo!"
+    date: 18-12-2008
+    user: http://mi.guiaoleo.com/members/45844
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy recomendable! ideal para ir con amigos a relajarse! La atencion y la comida son excelentes!
+    date: 24-11-2008
+    user: http://mi.guiaoleo.com/members/55016
+    ambiente_rank: muy bueno

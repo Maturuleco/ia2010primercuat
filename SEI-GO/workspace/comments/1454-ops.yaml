@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      la rejilla aceitos con gusto a mariscos, dura, no se podain pinchar, la carne hecha de recortes de matambrito, los ravioles bien,solo eso.
+      No vuelvo.
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/73780
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Atendido por mozos de los de antes, El Caser\xEDo se merece una visita de los que trabajan en el centro. Ninguno de los platos descolla o desentona, siendo buenas propuestas los pescados, los platos elaborados y las pastas caseras. De vez en cuando, un disgusto: las papas noisette parecen de paquete o se encuentra uno con una porci\xF3n rid\xEDculamente chica. El ambiente es correcto y el precio general a veces roza el \"arriba las manos\", pero entre los caf\xE9s, el champagne de invitaci\xF3n y los caramelos a uno se le va pasando. Denle una chance: capaz que, como yo, se terminan encari\xF1ando."
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "buena cocina, precio correcto por la ubicaci\xF3n del local. Nada me llam\xF3 la atenci\xF3n, todo fue sencillamente correcto."
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/37315
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Comi Brochette de pollo (q parecia de paloma) con papas rejilla con demasiado gusto a aceite y de postre panqueque de manzana q realmente no tenia gusto a nada. Me pareci\xF3 caro para un almuerzo, aprox $50 x pers. Sinceramente, no lo recomiendo."
+    date: 07-02-2008
+    user: http://mi.guiaoleo.com/members/13543
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenas rabas, reci\xE9n hechas como corresponde. El arroz con mariscos un manjar. Sin dudas, para ir seguido."
+    date: 26-12-2007
+    user: http://mi.guiaoleo.com/members/15655
+    ambiente_rank: bueno

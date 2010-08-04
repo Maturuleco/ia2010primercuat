@@ -1,0 +1,94 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: El delivery es rapido y el precio es bajo, pero hay muchas mejores opciones de comida oriental en microcentro. Aunque es regular, ni muy rico ni muy flojo no volveria a pedir por que son chicas las porciones. Muy incomodo la cajita conde traen la comida por q pierde aceite al ser de carton.
+    date: 01-07-2009
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Com\xED una de las sugerencias: Wok de vegetales y arroz, 1 empanadita china y gaseosa de 500 cm3. 22$. Una buena opci\xF3n para el mediod\xEDa."
+    date: 20-05-2009
+    user: http://mi.guiaoleo.com/members/36894
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Pedimos a veces al mediod\xEDa en la oficina y es realmente muy bueno. No es para nada aceitoso y la cantidad es bastante abundante. La \xFAnica recomendaci\xF3n es pedir temprano porque tienen bastantes pedidos y tardan en traerlo. Altamente recomendado."
+    date: 03-11-2008
+    user: http://mi.guiaoleo.com/members/52250
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es una buena elecci\xF3n para un mediod\xEDa. La cantidad y calidad de Wok es muy buena. Tienen un poco descuidado el lugar."
+    date: 25-09-2008
+    user: http://mi.guiaoleo.com/members/49699
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena la comida, pero faltan postres. Tienen 2 opciones solamente, siempre las mismas y no son muy atractivas.
+    date: 16-07-2008
+    user: http://mi.guiaoleo.com/members/33401
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Pedimos a veces en la oficina al mediodia. Para cuando queres cambiar, es realmente rico y no cae pesado.
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/38676
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Pido delivery de vez en cuando al mediod\xEDa. La comida es muy buena, muy rica y poco aceitosa. Pero estan demasiado desbordados con los pedidos y tardan demasiado (no menos de 1 hra.)"
+    date: 14-04-2008
+    user: http://mi.guiaoleo.com/members/41106
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Ya lo conoc\xED del centro Lavalle 180, pero fuimos a comer al nuevo local de Palermo, fitz roy 1818, y nos volvieron a sorprender con un lugar bien decorado, terraza al aire libre y a diferencia del de Microcentro tiene barra de tragos y un tapeo que vale la pena. Si estas para una previa y venis de algun lado WoKINN palermo me parece una excelente opci\xF3n para tener siempre a mano. "
+    date: 22-11-2007
+    user: http://mi.guiaoleo.com/members/35910
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      La comida esta buena, no hay mucha variedad pero es rico. 
+      Pedi 2 veces por delivery, la primera estuvo todo bien, la segunda tuve que esperar 2 hs el delivery (habian dicho 50 min de demora).
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/11438
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buen lugar para comer algo al paso en el centro. El pollo al curry con vegetales y arroz integral es muy rico, aunque un poco suave la salsa de curry.
+    date: 05-09-2007
+    user: http://mi.guiaoleo.com/members/28409
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Como cualquier lugar de microcentro al mediodia estan un poco desbordados. Pero la comida es sabrosa y tienen \"Kombos\" diarios de entre 9 y 15 pesos ademas del men\xFA. "
+    date: 28-06-2007
+    user: http://mi.guiaoleo.com/members/25511
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Ac\xE1 no se trata del ambiente o servicio,  sino de la comida: si ten\xE9s ganas de un delivery distinto o un mediodia original, te recomiendo este lugar, no hay otro parecido. Los langostinos con vegetales y arroz, son deliciosos al igual que todos sus incre\xEDbles woks."
+    date: 26-01-2007
+    user: http://mi.guiaoleo.com/members/6080
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida, abundante y liviana Muy buena atenci\xF3n y r\xE1pida. Voy una vez por semana: es una fija. "
+    date: 23-11-2006
+    user: http://mi.guiaoleo.com/members/13696
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ped\xED el delivery a trav\xE9s de internet y es excelente el servicio, lleg\xF3 a la hora acordada y todo en perfectas condiciones. "
+    date: 22-09-2006
+    user: http://mi.guiaoleo.com/members/12254
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar, un tanto inc\xF3modo, pero con buena onda. La comida, de paso, es muy buena. Desde el arroz yaman\xED hasta los packs con salmon o camarones. \r\n\
+      Lo mejor cuando est\xE1s apurado en el microcentro."
+    date: 11-08-2006
+    user: http://mi.guiaoleo.com/members/11081
+    ambiente_rank: bueno

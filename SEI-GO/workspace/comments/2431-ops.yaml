@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar nos encanta, nos sentimos comodas y bien atendidas.Entre semana, aprovechamos a trabajar con la notebook,ya que es un lugar muy tranquilo.y lo que mas nos gusta es que para ir al ba\xF1o no hay que subir escaleras."
+    date: 24-05-2010
+    user: http://mi.guiaoleo.com/members/82452
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Lindo lugar al aire libre , al principio bien atendido pero a medida que se llenaba la atencion a nuestra mesa decaia , la camarera le costaba recordar las cosas .. muy buen brochet me sirvieron y una provoleta excelente y una inolvidable copa " El Solar" . Lugar recomendable pero.... hay que armarse de paciencia sobre todo si el dia es un dia lindo de sol...
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/80745
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Papas fritas abundantes, hay olor a comida dentro del lugar. Al principio atendieron rapido pero cuando se llen\xF3 un poco nos dejaban de lado. Comimos matambre y vacio que estabn ricos."
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/77999
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo que me pareci\xF3 es que el lugar es demasiado caro para lo que ofrecen. Podr\xE1n decir es Puerto Madero, a lo que contestar\xE9 es Costanera Sur y el lugar es una \"parrillonga\" de la cual te vas con olor a comida.\r\n\
+      30 Pesos por una milanesa con pure y un agua me parece un robo.\r\n\
+      La comida es buena y abundante... pero la verdad que no d\xE1 para que tengan esos precios. Por la zona conseguis propuestas mucho mas accesibles.\r\n\
+      La atenci\xF3n fue buena.\r\n\
+      Creo que no volver\xEDa... hay parrillas mucho m\xE1s econ\xF3micas y con buena mercader\xEDa."
+    date: 05-06-2009
+    user: http://mi.guiaoleo.com/members/5592
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida es buena, es tipica parrilla argentina. Una buena relacion precio calidad, porciones abundantes. Buena atencion, estacionamiento privado. no muy concurrido un viernes por la noche. Esta muy bien para juntarse a comer abundante con amigos.
+    date: 22-08-2008
+    user: http://mi.guiaoleo.com/members/40289
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Comimos una parrillada para dos que estaba muy buena en cocci\xF3n y cantidad pero no tanto en variedad y calidad.Excelente la ensalada completa. A pesar de estar lleno de gente, el ambiente no es ruidoso y la atenci\xF3n r\xE1pida y esmerada. Creo que fue lo que m\xE1s destac\xF3. Lo recomiendo."
+    date: 10-08-2008
+    user: http://mi.guiaoleo.com/members/48592
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: fui a este lugar por esta guia y me sorprendi gratamente al encontrarme con sector fumador,la comida exquisita y abundante y la atencion buena.Es un lugar para recomendar
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/37321
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El lugar es muy lindo,y el servicio es bueno,pero lo realmente destacable es la calidad de las carnes y la cantidad de cortes que trae la parrillada,la cual a su vez incluye papas fritas y ensalada. Esta tal vez un poquito alejado de los restaurantes de Puero Madero, pero vale la pena visitarlos. Excelente!!!
+    date: 07-11-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La verdad es que siempre voy a cenar a El Solar. Es espectacular la carne que sirven; creo que la mejor. Muy buen precio y abundante. La \xFAnica sugerencia es que, si bien el ambiente es muy bueno, le faltar\xEDa un poco de calefacci\xF3n porque el fr\xEDo se siente en las mesas. Igual, muy recomendable. "
+    date: 24-08-2007
+    user: http://mi.guiaoleo.com/members/30614
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La carne es buen\xEDsima, las parrilladas, super completas y baratas. La atenci\xF3n no es la mejor, pero es una t\xEDpica parrilla argentina, lo importante es la carne, y no la pinta. "
+    date: 13-06-2007
+    user: http://mi.guiaoleo.com/members/24380
+    ambiente_rank: muy bueno

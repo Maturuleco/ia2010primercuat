@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Abundantes los platos, aunque no especialmente destacable. Muy lindo ambiente, poco usual por la zona.
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/6781
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Fui a comer un menu especialmente preparado para un espectaculo unipersonal muy bueno.
+      Comimos satisfactoriamente, platos simples pero bien presentados.
+      El lugar esta muy buen puesto, con calides y sin estridencias, luz baja, musica de fondo, buenos tragos, atencion correcta.
+      Buena opcion en un lugar seguro del abasto.
+    date: 24-04-2009
+    user: http://mi.guiaoleo.com/members/6994
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Opte por el menu del d\xEDa, el cual cuenta con 3 opciones. Realmente muy buenas, incluye postre y bebida. El precio es bajo y la calidad muy buena. Como dato negativo el postre no permite grandes opciones y uno termina tomando el tipico helado de vainilla. (tampoco se puede pedir mucho mas por el precio). Igual lo recomiendo y volver\xE9."
+    date: 10-03-2009
+    user: http://mi.guiaoleo.com/members/13948
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es buena, porciones abundantes a un precio razonable. Me gust\xF2 mucho el ambiente, adem\xE1s tiene un espacio amplio para fumadores. Y una barra de tragos importante. Seguramente volver\xE9 en un futuro para ver alg\xFAn show."
+    date: 01-03-2009
+    user: http://mi.guiaoleo.com/members/16741
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La carta es breve pero se come bien (los productos son de calidad, las porciones no son m\xEDnimas y los precios son muy acorde). Los shows musicales (tango, m\xFAsica brasilera, etc) son muy amenos, con el volumen justo: musicalizan sin molestar. La moza era un poco desmemoriada, pero muy amable."
+    date: 19-10-2008
+    user: http://mi.guiaoleo.com/members/38545
+    ambiente_rank: muy bueno

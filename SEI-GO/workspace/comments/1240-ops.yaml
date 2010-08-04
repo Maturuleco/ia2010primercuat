@@ -1,0 +1,100 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente es agradable y la ornamentaci\xF3n t\xED\xEDca con cuadros muy interesantes.\r\n\
+      la comida es abundante y muy bien preparada, algunos problemas de las camareras para explicar la composici\xF3n de cada plato aunque le ponen toda la onda.\r\n\
+      He ido mas de un par de veces y nunca fall\xF3"
+    date: 24-04-2010
+    user: http://mi.guiaoleo.com/members/81664
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comimos muy bien, es un lugar autentico, el estilo es muy t\xEDpico y el servicio fue regular. recomendable para comer peruano."
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      De afuera esta lugar no dice nada. Adentro es lugar es amplio, luminoso, limpio y con mesas separadas entre si. Muy buena opcion de comida Peruana por el Abasto. Sientense en lo posible en la parte de atras. Hay una especie de "patio" cubierto con muda decoracion tipicamente peruana. La comida es rica y tienen platos que no todos los restaurants peruanos de la zona ofercen. 
+      La atencion es un poco lenta y los platos tardaron en salir.
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      es curioso de afuera parece una puerta cerrada
+      una vez que entras estas en parte del peru  no solo visualmente sino en sus sonidos , la comida estaba bien pedi tacu tacu(que es carne con huevo frito arroz con porotos y banana frita) y papas a la huancaina(papas hervisas con una salsa de la casa)ambos platos son abundantes pero personalmente no es gran cosa , la atencion fue buena  y el precio muy economico , pienso volver a probar otros platos sobre todo el ceviche
+    date: 27-06-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Una gran alternativa al patio de comidas. Los platos son abundantes y bien elaborados dentro de la tradici\xF3n peruana. Hay mucha variedad de platos. La atenci\xF3n es muy buena, los mozos siempre muestran predispocisi\xF3n para explicar qu\xE9 es cada plato que aparece en la carta."
+    date: 08-06-2009
+    user: http://mi.guiaoleo.com/members/50036
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es la tercera vez que vamos y no decepciona!.La comida es excelente si te gusta lo picante! Comimos como entrada unos tamales riquisimos,y papa a la huancaina.Como principal una Jalea, que es  una fuente super abundante de mariscos y pescado frito.El mozo es amable, pero habla muy r\xE1pido y la televisi\xF3n est\xE1 muy alta."
+    date: 20-11-2008
+    user: http://mi.guiaoleo.com/members/48362
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Picante pero riquismo! A los que les guste el picante van a disfrutar de este lugar. El chicharr\xF3n de cerdo es muy bueno. Hay que investigar un poco y dejarse llevar por el instinto porque los mozos no te explican mucho. Vale la pena volver!"
+    date: 01-06-2008
+    user: http://mi.guiaoleo.com/members/35547
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buenos platos presentados de forma casera, abundantes. El ambiente familiar, con televisores que pasan videos de m\xFAsica peruana...interesantes pero deber\xEDan bajar un poco el volumen.\r\n\
+      La carta es extensa. Recomendaci\xF3n: saber que trae cada plato antes de ir ya que no est\xE1 el detalle y los mozos no explican nada. \r\n\
+      El ceviche de pescado, muy rico y fresco, para compartir."
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/31973
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "comida buena, sabrosa y en precio. pero son amateurs en la atenci\xF3n, hay que ir con paciencia, trajeron el ceviche (plato frio)despu\xE9s del chupe (plato caliente) y el vino blanco a temperatura ambiente, la camarera no sabia describir los platos, la carta de vinos es muy peque\xF1a. el ambiente agradable, muy amables y c\xE1lidos, pero muy b\xE1sico, todo gasolero y las sillas inc\xF3modas. deber\xEDan asesorarse para que tan buena cocina no se desmereciera con el improvisado servicio."
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/3523
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy recomendable. EL lugar esta muy bien ambientado y muy bien atendido. La comida es excelente.  Vamos a volver y llevaremos gente para que lo conozca.
+    date: 22-03-2008
+    user: http://mi.guiaoleo.com/members/42227
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es muy buena. Tiene el verdadero sabor peruano. Excelente la Chicha Morada. Precios razonables.
+    date: 22-10-2007
+    user: http://mi.guiaoleo.com/members/23382
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se come muy rico, abundante y barato. La atenci\xF3n fue muy amable y nos asesoraron bien en cuanto a los platos. El lugar es una especie de bodeg\xF3n, lo \xFAnico no recomendable es sentarse cerca de la televisi\xF3n."
+    date: 07-07-2007
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Primera vez que vamos a este lugar y la verdad que nos gusto mucho. La chica que nos atendi\xF3 nos recomend\xF3 algunos platos y nos advirti\xF3 que las porciones eran bien abundantes, cosa de no excedernos al pedir. Para volver!"
+    date: 01-04-2007
+    user: http://mi.guiaoleo.com/members/20837
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La atenci\xF3n fue excelente. Los ba\xF1os no son muy higi\xE9nicos. La comida es muy variada, me cost\xF3 elegir, finalmente le pregunt\xE9 a la moza que nos recomendara. Los platos son muy abundantes, recomiendo compartir y, a lo sumo, acompa\xF1ar con una guarnici\xF3n m\xE1s. "
+    date: 26-02-2007
+    user: http://mi.guiaoleo.com/members/9349
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Una carta variad\xEDsima y para ir investigando. Muy lindo ambiente.\r\n\
+      Para superar prejuicios y disfrutar de otra forma."
+    date: 01-07-2006
+    user: http://mi.guiaoleo.com/members/2199
+    ambiente_rank: excelente

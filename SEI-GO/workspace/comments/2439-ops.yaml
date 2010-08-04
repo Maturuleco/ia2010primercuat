@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena pizza, el lugar es tranquilo, de noche no suele haber mucha gente. Las empanadas son muy buenas.
+    date: 29-07-2008
+    user: http://mi.guiaoleo.com/members/3914
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "comi pizza rellena, es muy buena, la milanesa napolitana y las fritas tambien son ricas la porci\xF3n de la milanesa es vastante grande."
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/17182
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo lugar. Fui varias veces, ya que queda cerca de casa. Siempre d\xE1 gusto volver."
+    date: 27-10-2006
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy rico, lleg\xF3 en veinte minutos, lo \xFAnico malo es que se moja un poco el papel y la caja en la que viene la milanesa. Tendr\xEDa que venir en blister."
+    date: 31-08-2006
+    user: http://mi.guiaoleo.com/members/11643
+    ambiente_rank: muy bueno

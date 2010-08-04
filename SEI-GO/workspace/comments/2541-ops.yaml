@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Como dice un profesor muy querido: no pod\xE9s tener valet parking y un men\xFA ejecutivo de 20 pesos.\r\n\
+      \r\n\
+      Si como una milanesa con fritas a caballo no tiene nada que ver un mozo que cuelgue los abrigos y sirva agua a cada centimetro que tomo. Faltar\xEDa que me corte la milanesa"
+    date: 08-07-2009
+    user: http://mi.guiaoleo.com/members/46689
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comimos dos personas, una pid\xEDo salm\xF3n al grille y la otra risotto. Tomamos vino. Los platos son grandes y muy buena la atenci\xF3n."
+    date: 23-04-2009
+    user: http://mi.guiaoleo.com/members/57915
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Es un restaurant (especialmente parrilla)que cuida los detalles. La oferta es honesta en calidad y precios. La comida est\xE1 buena, sin mayores pretensiones, en la onda de los antiguos \"marrones\". Tiene un men\xFA de tres pasos que ofrecen (cosa rara) tambi\xE9n el s\xE1bado por la noche. Excelente ac\xFAstica que nos permiti\xF3 charlar tranquilamente a pesar de tener cerca una mesa con 10 personas. La parrilla no est\xE1 a la vista y en el sal\xF3n no se huele su presencia. Muy buena la atenci\xF3n. Se nota que la gente del barrio va regularmente."
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy recomendable - excelente lugar para ir a almorzar
+    date: 04-11-2008
+    user: http://mi.guiaoleo.com/members/53989
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es deliciosa, el servicio fue bastante r\xE1pido y el ambiente es muy tranquilo (para quien busca huir del ruido callejero). Los precios de los platos son razonables, quedamos muy conformes."
+    date: 07-08-2008
+    user: http://mi.guiaoleo.com/members/49046
+    ambiente_rank: muy bueno

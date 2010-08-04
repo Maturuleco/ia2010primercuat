@@ -1,0 +1,995 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: La muzzarela es imperdible! Vale la pena sufir el calor y ruido que hay en el lugar..
+    date: 01-07-2010
+    user: http://mi.guiaoleo.com/members/36627
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Bajo el nivel de la pizza, el servicio mantiene su nivel desastroso.
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      La pizza es genial, toda mi vida me preguntare como hacen para que todas tengan esa costrita de queso crocante.
+      Por otro lado la Fugazzeta es de las mejores de Buenos Aires, rebosa de queso.
+      Me gusta mucho la comida, pese a que la atencion de los mozos dista mucho de lo mejor.
+      El precio es alto, pero la calidad de los ingredientes es alta.
+    date: 21-05-2010
+    user: http://mi.guiaoleo.com/members/84377
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Comiendo al paso al mediodia, es lejos la mejor pizza de Microcentro.\r\n\
+      La muzzarella denota esa cocci\xF3n en horno de le\xF1a (inigualable), y la fugazzeta es lejos la mejor que prob\xE9, y he pasado por todas la pizzerias de la zona!\r\n\
+      Ambiente y servicio, olvidense..."
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/35485
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Esta es mi pizza preferida de bs as, y creo que hablo con conocimiento de causa, ya que he probado todas la cl\xE1sicas. Si prob\xE1s las cuartetas no pod\xE9s seguir de largo cuando pasas por ah\xED. A veces sacamos el auto y nos vamos hasta el centro para comprar unas porciones. En fin, una pizza irresistible, aunque ciertamente, cada vez m\xE1s cara y la atenci\xF3n de siempre, o sea mala."
+    date: 11-05-2010
+    user: http://mi.guiaoleo.com/members/54836
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Cuanto se equivocan los que dicen que esta es la mejor pizza de BA, aparte $65 por una pizza de jamon y morrones???? un desproposito, la sorpresa?? el mozo trajo los platos, trajo la bebida, pero cuando trajo la pizza le tuve que pedir los cubiertos. INCREIBLE, este lugar hace a\xF1os que dejo de ser lo que supo ser muchos a\xF1os atras, NO VUELVO."
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/23825
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: la mejor pizza de muzarella de Buenos Aires, cada vez que paso por delante no puedo resistir entrar y pedir 2 porciones.
+    date: 31-03-2010
+    user: http://mi.guiaoleo.com/members/1740
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lejos la mejor pizza del centro de buenos aires, ese gustito de horno a le\xF1a, esa muzarella doradita, el resto de las pizerias de la zona, no le llegan ni al tobillo.\r\n\
+      un clasico de buenos aires que el tiempo no ha cambiado."
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/76215
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Volv\xED luego de muchos a\xF1os con una amiga.\r\n\
+      La pizza sigue siendo muy rica, aunque muy cara, me sorprend\xED.\r\n\
+      Hay cerveza de litro, cosa que antes ni se les ocurr\xEDa. Lo mozos son a la vieja usanza , fue correcto y no demor\xF2.\r\n\
+      El ambiente es ruidoso, si el comensal tiene que hablar de algo muy serio o requiere concentraci\xF3n, no es el lugar indicado... es para despu\xE9s de alguna salida por Corrientes y comentarla a los gritos pelados.\r\n\
+      Volver\xEDa si bajan un toque los precios... o con ese dinero trabajen sobre la ac\xFAstica."
+    date: 26-02-2010
+    user: http://mi.guiaoleo.com/members/42857
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: la pizza es excelente, al mediodia es imposible ir, un lugar muy ruidoso y lleno de gente. el servicio es practicamente inexistente, y lento. lo unico que vale la pena es la fugazzeta rellena!!
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/72654
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Lo mejor de la Pizzeria Las Cuartetas es como se conservo la comida y el lugar, tal cual y asi de buena como era en viejos tiempos. Tradicional al mango. Lo mejor que podria existir. Es un Oasis, en un mundo exajeradamente inovativo, ya fuera de control. Comer ahi, es volver a la realidad.
+    date: 30-11-2009
+    user: http://mi.guiaoleo.com/members/72922
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9simo. Realmente hay algunos que creen que preservar los lugares es perpetuar la mugre, la desprolijidad y el maltrato. Nadie va a buscar a las Cuartetas sofisticaci\xF3n. Pero TODOS van a buscar al menos respeto: limpieza (no la hab\xEDa) buen trato (los mozos son unos maleducados)y buena comida ( la pizza de cuarta; nada que ver con lo que era). IMPRESENTABLE. Al due\xF1o o due\xF1os: esto trasunta los \"valores\" que Uds. seguramente manejan. S\xF3lo hacer plata, sin consideraci\xF3n a los clientes. As\xED no es la ecuaci\xF3n..."
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/52696
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      Si comes parado, incomodo, BARATISIMO. Si te sentas, tan caro como $60 la grande de Napolitana.
+      Pizza grasosa, gorda, con mucho queso y muy rica.
+      Atencion mala, descontrolada. Hay que pelearse para ser atendido.
+      Recomiendo para el paso.
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/13584
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Pizza tradicional. Muzzarelosa, grasosa, deliciosa.
+    date: 07-10-2009
+    user: http://mi.guiaoleo.com/members/19728
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Sin lugar a dudas una de las mejores de la avenida Corrientes. Recuper\xF3 la gloria de otros tiempos. Lugar bullicioso, como todas las pizzerias similares pero lo compensa con la calidad del producto. Recomendable."
+    date: 13-09-2009
+    user: http://mi.guiaoleo.com/members/18887
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Una de las mejores pizzas de Buenos Aires. Sin dudas tienen que probarlo. No es para comer pizzas de maza fina. Aca es media maza y de la buena. Tanto la limpieza como el servicio dejan mucho que desear.
+    date: 22-07-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Como porte\xF1a me da verguenza que los turistas crean que es la mejor pizza de buenos aires. con los $100 que gastamos en 2 pizzas chicas y 2 almendrados con gaseosas, comiamos en tenedores libres de puerto madero como siga la vaca.la masa de la fugazzeta y la de muzzarella eran 2 esponjas altas sin coccion, la salsa, invisible, el queso amargo.el mozo bruto con mala cara.se ofuzco cuando le pedi que las metan un rato mas en el horno, respondiendo que ahi las servian asi.los almendrados carisimos con gusto a humedad.en casa, una prepizza me sale 100 veces mas rica.pensar que entramos por la fam"
+    date: 14-07-2009
+    user: http://mi.guiaoleo.com/members/62920
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Para los fanaticos de la pizza esta es una de las mejores pizzerias de buenos aires, el mozo que nos toco a nosotros tenia toda la onda. Saludos
+    date: 13-07-2009
+    user: http://mi.guiaoleo.com/members/55971
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "A la pizzer\xEDa la conozco de los a\xF1os 70, la calidad ha cambiado enormemente. Puro queso con abundante aceite, perdi\xF3 el sabor tradicionl. La atenci\xF3n P\xC9SIMA. La cara de traste que tienen los mozos mejor obviarla. Ped\xED una porci\xF3n de fugazza rellena, me trajeron la com\xFAn, con la cebolla frita y aceitosa. Las porciones de jam\xF3n y morrones recalentadas y quemadas, la de espinaca con queso, parec\xEDa torta mil hojas, amarga, quemada, sin queso y aceitosa, NUNCA M\xC1S!!!"
+    date: 13-07-2009
+    user: http://mi.guiaoleo.com/members/65589
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9simo lugar. Aunque \xE9ramos 4 nos dejaron 2 servilletas. Pedimos mas, nos miraron como si pidi\xE9ramos oro, \xBFhab\xEDa que partir las 2 que ya ten\xEDamos? Pedimos una napolitana que fue imposible comer ya que estaba extremadamente picante. Reclamamos al mozo quien nos dej\xF3 en claro que el problema \xE9ramos nosotras (seg\xFAn el encargado que ni se acerc\xF3). No hubo forma que entendiera que as\xED no se trata al cliente. Pedimos que se la llevara y trajera una de muzzarella, la cual vino semicruda y adornada con un carozo de aceituna masticado. Decidimos irnos, era in\xFAtil seguir tratando que la pared responda"
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/65215
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Digamos la verdad, la pizza era algo amorfo de sabor safaba...el mozo un desagradable...antes iba hacia un a\xF1o que no visitaba el lugar..ademas carisima por el tama\xF1o de las porcios...me quedo con la competencia \"el cuar.....o\""
+    date: 17-06-2009
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Una pizza muy buena para comer parado y despues pegarse un ba\xF1o, ya que se sale con todo tipo de olores y si te queres limpiar con las servilletas de papel, fuisteeeee."
+    date: 16-06-2009
+    user: http://mi.guiaoleo.com/members/56070
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fu\xED varias veces, tanto al medio d\xEDa como a la noche. La considero una de las tres mejores pizzer\xEDas de Buenos Aires. La grande de muzzarella se distingue porque la masa y el queso son muy pero muy buenas. Por la noche en general se llena, pero a pesar de ello la atenci\xF3n y el ambiente son excelentes. La fain\xE1 es muy buena y lo mejor que tienen es la Fugazzetta rellena."
+    date: 31-05-2009
+    user: http://mi.guiaoleo.com/members/63958
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: sin dudas la mejor pizza de buenos aires , la fugazzeta con una faina es lo mejor de lo mejor , la pizza es riquisima la muzzarella de muy buena calidad y bien abundante , la masa super esponjosa , pero los mozos son un desastre te atienden de muy mala gana casi tirandote los platos , sin ganas de trabajar y el ambiente podrian reformarlo un poco ya que no te regalan nada, la pizza esta muyyyy cara en comparacion con otras pizzerias , pero bueno un gusto de vez en cuando no me lo niego
+    date: 30-05-2009
+    user: http://mi.guiaoleo.com/members/54538
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: una de las 5 mejores pizzitas de buenos aires, poderosa! los tipos que atienden tienen una terrible cara de culo, pero con tan rica pizza se te olvida...
+    date: 22-05-2009
+    user: http://mi.guiaoleo.com/members/32702
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es una tipica pizzeria de las de antes: pizza media masa, llenadora, con mucha muzzarella y aceite. El lugar es bullicioso y de espacios apretados, pero la calidad de la pizza lo compensa. Si bien no est\xE0 dentro de mis pizzerias favoritas, reconozco que est\xE0 muy bien."
+    date: 17-05-2009
+    user: http://mi.guiaoleo.com/members/11110
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza es excelente, pero hay que tener en cuenta que la grande es MUY GRANDE y que para 2 personas puede ser mucho... La atenci\xF3n es la peor, los mozos tienen mucha mala predisposici\xF3n pero la comida vale la pena. Mucha muzzarella gustosa y bien tostadita como la que no se come todos los d\xEDas."
+    date: 13-05-2009
+    user: http://mi.guiaoleo.com/members/36040
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Grosisimo!!!!!!!!!lo mas!!!!!!!!aguante la fugazzetta de las cuartetas, lo mas!!!!!si estas por el centro y te estas muriendo de hambre y tenes unos billetitos nada mas en el bolsillo, comete solo dos porciones de fugazzettas de \xE9ste lugar y no vas a comer hasta dentro de dos d\xEDas, bueeennnnnniiiiiiissssssiiiiiiiimooooooo, soy cliente oficial y vitalicio."
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/61733
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es deliciosa, en el centro hay otras que me gustan m\xE1s, pero esta est\xE1 entre las grandes.\r\n\
+      El servicio est\xE1 ok, por lo menos mis cubiertos estaban limpios (cosa que en otras pizzer\xEDas no sucede), igual, cuando fui hab\xEDa poca gente, cuando est\xE1 abarrotada el servicio seguro cambia.\r\n\
+      \r\n\
+      El ambiente est\xE1 bien, se conserva (esta pizzer\xEDa tiene historia, mis abuelos iban y en esa \xE9poca ya era una pizzer\xEDa famosa)\r\n\
+      \r\n\
+      Una buena pizzer\xEDa del centro para visitar, otras pizzer\xEDas de calidad son banchero y guerr\xEDn (que son mis favoritas)."
+    date: 14-04-2009
+    user: http://mi.guiaoleo.com/members/61159
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza realmente exquisita. No es la misma que hacian hace 5 a\xF1os pero todavia es a mi entender de las mejores de capital federal. Recomiendo ir cuando se ande por la zona, seguramente no se van a llevar un chasco. El precio por ser pizza no es el mas economico, pero la calidad hacen que valga la pena. Ademas llena bastante, por lo que por menos de lo que comen en un restaurante se van bien llenos seguro."
+    date: 17-03-2009
+    user: http://mi.guiaoleo.com/members/46725
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La mejor opcion despues de un recital en el Gran Rex o El Luna Park. Es algo indiscriptible la calida de la pizza al molde que se hace en este lugar. Extra queso y bien aceitosa, ya no quedan lugares tan tradiconales como "Las Cuartetas". 100% recomendable despues d eun show.
+    date: 07-03-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Esta es la mejor pizza, no se si del mundo, pero por lo menos de la Argentina seguro... El mozo demostr\xF3 ser muy piola cuando nos trajo la pizza cortada en 6 sabiendo que eramos 3, estaba en todas y era muy atento. Para los que critican el ambiente, les pido que pongan las cosas en perspectiva, es un lugar hist\xF3rico y comer en ese ambiente tiene su magia, no ser\xEDa lo mismo si lo remodernizaran! Es medio caro por ser pizza (las especiales rondaban los $60) pero realmente lo vale."
+    date: 24-02-2009
+    user: http://mi.guiaoleo.com/members/14195
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "EXCELENTE PIZZA, la que no se come en ning\xFAn lado. Doble masa, llena de verdadera muzzarella. Es cierto, el lugar no es lo mejor, pero al ser patrimonio hist\xF3rico de la ciudad tampoco permite muchas reformas. Los mozos, el trato m\xEDnimo indispensable, pero como la pizza es tan rica, el resto pasa a segundo plano. Es para visitar al menos una vez en la vida (y volv\xE9s seguro!!!). De postre: sopa inglesa obligatorio!!!"
+    date: 06-02-2009
+    user: http://mi.guiaoleo.com/members/58295
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Pizza clasica, buena, y abundante. De las mejores de Buenos Aires. Ambiente malo, mozos mala onda, no se le puede pedir mas que buena pizza.
+    date: 26-01-2009
+    user: http://mi.guiaoleo.com/members/75853
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "bueno , hay que tener en cuanta que este es un bodegon con todas las letras , la atencion , las mesas , ba\xF1os , mozos y \"comodidades\" aca no pueden calificarse , la pizza es buena , pero no es la de hace 15 a\xF1os atras tampoco , un lugar para comer una pizza con mucho queso , aceite , para ver chicos mendigando entre las mesas y alguna \"celebrity\" de cuarta linea en alguna mesa , para ir solo con amigos despues de jugar un picado."
+    date: 02-01-2009
+    user: http://mi.guiaoleo.com/members/56109
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Esta pizzer\xEDa es el paradigma de cuando un buen producto supera al \"Marketing\".\r\n\
+      Para m\xED, es LEJOS la mejor pizza del Mundo, seguida quiz\xE1 por la de \"El Cuartito\". Es Pizza al molde, alta y esponjosa (no muy crocante), con una cantidad de muzzarela descomunal (cuando sacas una porcion el queso derretido de las porciones adyacentes ocupa ese lugar).\r\n\
+      La fugazzeta es IM-PRE-SIO-NAN-TE, y la cerveza est\xE1 siempre helada y riqu\xEDsima.\r\n\
+      La atenci\xF3n es un tanto mala, el ambiente es ruidoso y familiar, como las pizzerias de anta\xF1o (no \"evolucion\xF3\" ni un poquito, para el bien de la Pizza)."
+    date: 17-12-2008
+    user: http://mi.guiaoleo.com/members/5592
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es muy rica, a lo mejor un poco alta para mi gusto. El mozo vio que estabamos apuradas y nos atendio medio as\xED nomas. El ambiente es aceptable. Volver\xE9 alguna que otra vez despu\xE9s del teatro..."
+    date: 29-11-2008
+    user: http://mi.guiaoleo.com/members/14919
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza es al molde con abundante queso, bien aceitosa y gustosa. La atenci\xF3n es desprolija el lugar es muy ruidoso."
+    date: 15-11-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Para comer de paso la pizza al molde,bien alta, con extra queso muzzarella,pocos veces vi tanto queso junto.Distinguida fain\xE1. En la parte de atras hay que estar a los gritos limpios para entenderse."
+    date: 31-10-2008
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Despues de tanto tiempo de opciones de pizza fashion (como la ya no tan novedosa pizza a la parrilla) nada como volver a las fuentes. Una muy sabrosa pizza aceitosa y abundante en muzzarella (no queso cremoso o similar), acompa\xF1ada por una cada vez mas floja atencion (no atienden, despachan) y en un ambiente que logra que hasta Mcdonald's sea un lugar mas intimo.\r\n\
+      Asi y todo, recomendable para los amantes de la pizza de otros tiempos."
+    date: 10-10-2008
+    user: http://mi.guiaoleo.com/members/15718
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: Excelente pizza. Demos gracias a Dios por LAS CUARTETAS y su fuerte vinculacion con la vida social de la Calle Corrientes.
+    date: 28-09-2008
+    user: http://mi.guiaoleo.com/members/52066
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena opci\xF3n para quien busque comer buena pizza sin dar demasiada importancia al servicio o el lugar."
+    date: 11-09-2008
+    user: http://mi.guiaoleo.com/members/38518
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: La pizza de rockeford excelente, el ambiente bastante malo, pero el principal problema es la mala atencion de los mozos, una mala onda pocas veces vista, pero la pizza es tan buena, que fui varias veces!!
+    date: 25-08-2008
+    user: http://mi.guiaoleo.com/members/44685
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es conservado como era antiguamente sin nisiquiera una reforma o una mejora. Los ba\xF1os son espantosos, hasta ten\xEDan letrinas!!! La atenci\xF3n dej\xF3 bastante que desear y no es que nos quejemos de su informalidad solo que pretendemos un poco de buena voluntad. La pizza est\xE1 hecha al molde y es exquisita. No se pierdan la de muzzarela! El precio es caro ya que por la misma suma se come en mejores lugares. Vali\xF3 la pena conocerlo pero no sabemos si volveremos!"
+    date: 19-08-2008
+    user: http://mi.guiaoleo.com/members/31386
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fui con turistas a que conozcan esta cl\xE1sica pizzer\xEDa porte\xF1a... gastamos $90 y s\xF3lo comimos 1 grande con 1 agua y 1 cerveza. No entiendo c\xF3mo pueden cobrar una pizza $60... cuando te ponen por ejemplo, jam\xF3n de 2da. A\xFAn as\xED la pizza sigue siendo muy buena, se fueron contentos pero dif\xEDcil explicarles el por qu\xE9, por ejemplo te cobran $20 una cerveza nacional. Entiendo que todo sube de precio, pero me parecen abusivos, teniendo en cuenta que ni siquiera son capaces de invertir 1 mango en el local... ejemplo de los carteles sin letras... Yo no soy turista, no me hace gracia pagar $32 una muza."
+    date: 11-08-2008
+    user: http://mi.guiaoleo.com/members/45063
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: |-
+      Es la tipica pizzeria de buenos aires... la pizza la hacen con el queso abajo, sin lavar el molde como se debe. Para gente que sabe apreciar lo bueno y se quiere mantener lejos del caretaje top de Palermo.
+      Solo una cosa me molesto. Entro una indigente arrastrandose ya que no podia caminar. La mujer no estaba en sus cabales y se quedo sentada en medio del pasillo principal de circulacion. Le prometieron comida si salia del local. Nunca se la dieron, la mujer se canso de esperar. UNA VERGUENZA! Que les cuesta? Es un poco de caridad. Llovia, hacia frio, era de noche... El encargado hizo muy mal
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/32977
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Si pens\xE1s invitar a cenar a Liz Solari a la salida del Teatro, olvidate, porque es un lugar familiar. Pizza grasulienta muy sabrosa. Ideal para acompa\xF1arla con cervecita helada o moscato.\r\n\
+      Es una buena opci\xF3n. La atenci\xF3n es medio rea y el ambiente es digno de una pel\xEDcula de cine bizarro, pero tiene ee aire porte\xF1o que llama a ir. Volver\xE9 seguro."
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/44868
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Excelente Pizza. Pero hay que comerla rapido. Es preferible gastar mas plata y pedir dos chicas que una grande.
+      La mozzarella empieza a mutar cuando se enfria....Se est[an poniendo caras las pizzerias....pagar 50 mangos por una pizza es un poco mucho. Pero esta vale la pena.
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/19964
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Obviamente una de las mejores pizzerias de Buenos Aires. No se puede dejar de probar esta pizza, es distinta a todas. Y se respira un ambiente t\xEDpicamente porte\xF1o. Imperdible."
+    date: 11-07-2008
+    user: http://mi.guiaoleo.com/members/35547
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Mis abuelos y mis padres siempre me hablaron de \"la pizza de Las Cuartetas\"... a los treinta a\xF1os, viaj\xE9 a Buenos Aires y antes de tomar mi avi\xF3n de regreso al norte del pa\xEDs, pis\xE9 el tan recomendado lugar por  mis mayores... \xBFdecepci\xF3n? NINGUNA. Una nostralgia y alegr\xEDa que se vieron m\xE1s que satisfechas por la pizza,los quesos,el ambiente y la r\xE1pida atenci\xF3n en pleno s\xE1bado.MIS APLAUSOS. S\xED,es verdad,no es un spot top Palermo Hollywood ni nada-es lo que siempre fue:la pizzar\xEDa porte\xF1a 100%. \xBFQu\xE9 m\xE1s? Para m\xED, tiene todo lo que tiene que tener.Me vendi\xF3 la imagen que mis viejos me pintaron!"
+    date: 05-07-2008
+    user: http://mi.guiaoleo.com/members/47086
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente pizza. Una de las mejores de Buenos Aires.   \r\n\
+      La ambientaci\xF3n es modesta, pero as\xED debe ser en un icono de las pizzer\xEDas porte\xF1as."
+    date: 09-06-2008
+    user: http://mi.guiaoleo.com/members/10516
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar tradicional sobre todo para ver entre y despues de los espectaculos de la zona. hace ya 15 a\xF1os que lo conoci y sigue estando igual. uno de los pocos lugares para comer doble masa como la gente."
+    date: 05-06-2008
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es una muy buena pizza, pero bastante cara para la calidad q ofrecen. Hay muchas mejores pizzer\xEDas por ese precio."
+    date: 01-06-2008
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "\xB4Siempre escuch\xE9 que este lugar era uno de LOS lugares si se quer\xEDa comer una buena pizza. La realidad es que en cuanto a este tipo de locales, no es de los mejores. La pizza en si es buena y no m\xE1s que eso, pero el ambiente y la atenci\xF3n dejan bastante que desear. Tampoco hay buena relaci\xF3n precio calidad considerando la calidad de los ingredientes."
+    date: 25-05-2008
+    user: http://mi.guiaoleo.com/members/5086
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Lo unico bueno del lugar es que, compartiendo pizza se hace muy barato. La pizza es extremadamente grasosa y el ambiente demasiado bullicioso
+    date: 09-05-2008
+    user: http://mi.guiaoleo.com/members/42423
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Un clasico. De las mejores pizzas al molde
+    date: 08-05-2008
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La mejor pizza al molde de Bs As.\r\n\
+      Fui con unos amigos espa\xF1oles, previo advertirles que no tenia nada que ver con lo que conocian hasta ahora(Palermo, Belgrano), y quedaron fascinados con la pizza, quieren volver todos los dias."
+    date: 24-04-2008
+    user: http://mi.guiaoleo.com/members/40385
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: pedi 3 porciones  una muzza una jam y morrones y una fugazetta  las 3 exelentes el precio es normal y el lugar  no es para gente con pretensiones de pelermo fashion  al que le gusten los bodegones  o esas viejas pizzerias con no mas decoracion que las bandejas de pizzas es un lugar ideal la pizza es increible
+    date: 18-04-2008
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Lejos la mejor pizza, \"chorrea\" la muzzarella y el sabor es sensacional. Y acompa\xF1arla con moscato o vino de la casa (en la jarra met\xE1lica).Sal\xF3n sombr\xEDo y sucio, mozos para nada serviciales y con aspecto mas que mejorable. Totalmente desaconsejable para los cultores de la onda fashion pero una opci\xF3n imposible de obviar para los que buscan deleitar el paladar."
+    date: 12-04-2008
+    user: http://mi.guiaoleo.com/members/45712
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Que pena que se desaproveche una ubicaci\xF3n privilegiada! En alguna \xE9poca Las Cuartetas era casi una cita obligada para comer una buena pizza a la salida del \xD6pera o el Gran Rex pero hoy en d\xEDa ha bajado mucho la calidad. La muzzarela ya no est\xE1 dorada sino quemada y la masa es una goma. Adem\xE1s, no han mejorado el local. Pizzer\xEDa tradicional en franca decadencia."
+    date: 29-03-2008
+    user: http://mi.guiaoleo.com/members/16130
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Recomendable si te gustan las pizzas anchas y llenas de elementos. La masa es muy rica. Los precios son caros. La atenci\xF3n y el lugar son malos y nos remiten a las pizzer\xEDas/bares baratos de hace tiempo."
+    date: 18-03-2008
+    user: http://mi.guiaoleo.com/members/20820
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La mejor pizza al molde de Buenos Aires. Una buena opcion es pedir porciones. Un clasico
+    date: 10-03-2008
+    user: http://mi.guiaoleo.com/members/13262
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Es un clasico porte\xF1o en donde la pizza no tiene desperdicio alguno. La masa es exquisita y las porciones son abundantes. La atenci\xF3n deja mucho que desear asi como la ambientacion, que tiene un dejo melanc\xF3lico y antiguo."
+    date: 26-02-2008
+    user: http://mi.guiaoleo.com/members/38754
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Clasico de buenos aires, riquisima la pizza, para comerla de parado y llevarte para tu casa unas porciones
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/35125
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Otro clasico de buenos aires, riquisima la pizza, para comerla de parado.
+    date: 21-01-2008
+    user: http://mi.guiaoleo.com/members/29170
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy buen servicio y buena comida
+    date: 18-01-2008
+    user: http://mi.guiaoleo.com/members/38429
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "De las Cuartetas original quedan s\xF3lo recuerdos, lamentablemente la pizza no es la misma de hace a\xF1os atr\xE1s. Es un masacote infernal y mojado!  La atenci\xF3n p\xE9sima y el lugar nunca fue lindo pero es lo de menos, el problema, como alguien dijo aqu\xED, son las pizzas. Una pena, otro reducto tradicional menos en Baires."
+    date: 16-01-2008
+    user: http://mi.guiaoleo.com/members/28652
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Malo. Antes era otra cosa. Esos helechos colgando de las paredes solo pueden generar tristeza, la misma que recordar lo bueno qera antes. Sucio, ruidoso. La pizza no nos gust\xF3. Terminamos pidiendo tostados. No volver\xE9, ni por los recuerdos de la ni\xF1ez. "
+    date: 14-01-2008
+    user: http://mi.guiaoleo.com/members/33382
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Sin dudas una de las mejores pizzas de la ciudad. Es uno de esos lugares que no pod\xE9s morirte sin haberlo conocido, y una vez que lo prob\xE1s no pod\xE9s dejar de visitarlo."
+    date: 14-12-2007
+    user: http://mi.guiaoleo.com/members/25657
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Un cl\xE1sico. La pizza es excelente, nunca prob\xE9 las empanadas ni otros platos, si los hay. Lo mejor es pedir por porciones para probar un poco de todo. Ideal para los que trabajan en microcentro o est\xE1n de paso y quieren comer algo r\xE1pido y bien rico. El lugar es algo feo."
+    date: 14-12-2007
+    user: http://mi.guiaoleo.com/members/18816
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      es dificl evaluar estos lugares, tiene una carga que merece solo por ello respeto y son siempre una opcion de vistas. sin embargo no comi bien, la pizza que esperaba me encante era bastante mala, diria que muy mala, mojada la masa, media fria, no se, bastante mala.
+      la atencion es muy discreta, pero ese no seria el problema, el problema es la pizza sin dudas. el sitio es tipico y esperable, y esta bien.
+      no volveria a ir, pero vale la pena conocerlo.
+    date: 06-12-2007
+    user: http://mi.guiaoleo.com/members/36058
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Desde chico cuando me llev\xF3 mi abuelo, como la hermosa muzza de Las Cuartetas. Bien cargada de queso. Vale la pena probar de todo: fugazzeta, napo, provolone, las fatay. Un cl\xE1sico siempre vigente."
+    date: 05-12-2007
+    user: http://mi.guiaoleo.com/members/33466
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Las Cuartetas tienen muy buena fama, ganada en justa ley. La Pizza ex excelente, la m\xE1s rica a mi gusto de la Ciudad, soy habitu\xE9 tambi\xE9n del Palacio de la Pizza, otra de las muy buenas pizzer\xEDas. Las pizzas son excelentes, aunque tambi\xE9n tienen sus d\xEDas. Para criticar, la serie de reformas realizadas no mejoraron, si no por el contrario al local. Los mozos en ocasiones, son bastantes hoscos y como dicen los chicos, no le ponen mucha onda. De todas formas,como voy a comer pizza, recomiendo Las Cuartetas, la mejor pizza de la Ciudad."
+    date: 05-12-2007
+    user: http://mi.guiaoleo.com/members/36639
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Hace a\xF1os que no iba a Las Cuartetas y me lleve una impresion muy desagradable. La pizza era tipo prepizza, con poco queso y ademas carisima para esa calidad. Es sin lugar a dudas un clasico de la calle Corrientes, pero en franca decadencia. Una pena ver como un lugar al que ibamos habitualmente y ademas me fascinaba, le ha quedado solo la fama por su nombre. Se lo hicimos saber al mozo, que por ser joven no pudo entenderlo, pero nos comento que varias personas que iban antes, tambien lo notaron.\r\n\
+      En fin, se me cayo un lagrimon!"
+    date: 06-11-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Ese domingo a la noche sal\xEDamos de un recital en el Gran Rex y Las Cuartetas est\xE1n all\xED enfrente, as\xED que decidimos comer r\xE1pido porque al d\xEDa siguiente se trabajaba. \r\n\
+      Obviamente que este lugar es muy famoso por ser t\xEDpico de Buenos Aires y como tal, sirve una de las mejores pizzas de la ciudad. No se puede ir pensando en que ser\xE1 un lugar 5 tenedores, porque uno estar\xEDa en contra de la propuesta real: comer bi\xE9n, la mejor pizza, r\xE1pido y punto.\r\n\
+      La comida es realmente muy buena, con esa mezcla tan argentina de pizza italiana con influencia de todas las dem\xE1s culturas..., es decir NADA de la italiana y MUCHO de las dem\xE1s culturas: masa gruesa, muuuuucho queso, abundantes sabores y colores y acompa\xF1ada (si se quiere) por una rica fain\xE1.\r\n\
+      Lejos de los platos light y cerca de los \"tapa-arterias\", es excelente de vez en cuando saber y probar que las mejores porciones y variedades de pizza est\xE1n a la vuelta de la salida de un entretenimiento.\r\n\
+      De postre: sopa inglesa. Muy rica y muy borracha, para \"bajar\" la cena.\r\n\
+      La atenci\xF3n fue regular, porque en definitiva a pesar de pensar que iba a ser r\xE1pido, no lo fue tanto. El mozo se equivocaba las bebidas y solo trajo servilletas pasada la mitad de la cena. La cuenta tambi\xE9n tard\xF3.\r\n\
+      Seguro volver\xE9 en otra oportunidad cuando me cruce del Gran Rex."
+    date: 04-11-2007
+    user: http://mi.guiaoleo.com/members/4899
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "No sal\xED fascinado del lugar. La ambientaci\xF3n del lugar, a trav\xE9s de las sucesivas reformas que supo tener, no supo conservar el patrimonio hist\xF3rico del negocio. Solo quedan colgadas en sus paredes fotos ant\xEDguas como testimonio de lo que supo ser. Una l\xE1stima. La pizza muy rica y las empanadas se dejan comer. Alg\xFAn detalle de falta de limpieza para tener en cuenta. Muy destacable lo econ\xF3mico de sus precios."
+    date: 03-11-2007
+    user: http://mi.guiaoleo.com/members/24006
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La mejor pizza de buenos aires...lejos. "
+    date: 26-09-2007
+    user: http://mi.guiaoleo.com/members/32932
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Es incre\xEDble esa pizza! es rico todo: la masa, la muzzarella, la salsa. \r\n\
+      Fui con mi pareja y tuvimos que pedir una pizza chica porque era demasiado (por supuesto que complementamos con una porci\xF3n de exquisita fugazzeta).\r\n\
+      El lugar es bien sencillo pero va todo tipo de p\xFAblico. Para recomendar. "
+    date: 19-08-2007
+    user: http://mi.guiaoleo.com/members/27926
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Si est\xE1s por la zona y apurado, te recomiendo pasar por las cuartetas y pedirte dos o tres porciones al paso (de dorapa), el verdadero menu porte\xF1o!!!\r\n\
+      Eso s\xED, no busquen ni ambiente ni atenci\xF3n esmerada."
+    date: 12-08-2007
+    user: http://mi.guiaoleo.com/members/25934
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "En Buenos Aires hay muy pero muy buenas pizzer\xEDas en todos los tipos de pizzas; pero Las Cuartetas est\xE1 aparte y es UNICA. "
+    date: 03-08-2007
+    user: http://mi.guiaoleo.com/members/28772
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La pizza de este lugar la ubico entre las mejores de buenos aires. \r\n\
+      No es para los acostumbrados a la pizza basura de pizzr\xEDa barata, aunqe el precio no sea tan elevado. Con una porci\xF3n te llen\xE1s de prepo"
+    date: 23-07-2007
+    user: http://mi.guiaoleo.com/members/27658
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Tradicional pizzeria de Buenos Aires, fui con la familia un sabado a la noche. la pizza al molde muuuy buena, pero la faina.. la servilleta era mas gruesa. Pedi Sopa Inglesa, que si bien no estaba mala, no era lo esperado. El servicio bueno y rapido.
+      Lastima que no tienen tarjetas de credito
+      Para volver....
+    date: 23-07-2007
+    user: http://mi.guiaoleo.com/members/20973
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buena pizza, una perla de corrientes, si bien el ambiente y la atenci\xF3n no son de lo mejor, vale la pena ir."
+    date: 22-07-2007
+    user: http://mi.guiaoleo.com/members/6804
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cuando vi el lugar no me llam\xF3 mucho la atenci\xF3n, es de esas tipicas pizzerias de Buenos Aires de hace 40 a\xF1os. El servicio me pareci\xF3 bueno, los mozos son de \"profesi\xF3n\", no las tipicas carilindas que no saben nada. Que decir de la pizza, increible, aunque no soy fan\xE1tico de la pizza al molde, es pare recomendar, por algo habia tantos extranjeros. No se la pierdan!! "
+    date: 20-06-2007
+    user: http://mi.guiaoleo.com/members/16908
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una de las mejores pizzas de BA, al molde, por supuesto. Eso s\xED, and\xE1 preparado para encontrarte, o mejor dicho, NO encontrarte con un gran ambiente... Creo que eso hace a la idiosincrasia del viejo y verdadero \"porte\xF1o\". "
+    date: 19-06-2007
+    user: http://mi.guiaoleo.com/members/20908
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui con mi viejo, que frecuentaba esta pizzeria hace mucho tiempo asi que su opini\xF3n es comparativa:ha decaido la calidad de la pizza. Mi opini\xF3n es s\xF3lo el HOY: hay que ir aunque sea una vez, la pizza es ultra gigante, tan llena de elementos que desborda, muy rica, la atenci\xF3n es justa, nada de protocolos ni firuletes. El lugar es simplemente una pizzeria enorme sin reminiscencias de haber sido una de las mejores pizzerias de capital."
+    date: 10-06-2007
+    user: http://mi.guiaoleo.com/members/44668
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "S\xF3lo para entendidos. Mi vida se une a ella, su sabor es insuperable, sus paredes llenas de historia: en definitiva gracias por existir.  El que cuestiona a Las Cuartetas, cestiona a la esencia misma de Buenos Aires. Lejos la mejor (especialmente en grande de muzarella) y me atrevo a ser soberbio, el atrevido que la compare con otra pizer\xEDa, es un ignorante. Con todo respeto. "
+    date: 05-06-2007
+    user: http://mi.guiaoleo.com/members/23940
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Impresioanante.
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/17643
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Una de las mejores pizzas. La excelente muzzarela y el toque gratinado que le dan la hacen pr\xE1cticamente inigualable. Un cl\xE1sico de Buenos Aires con un ambiente especial."
+    date: 11-05-2007
+    user: http://mi.guiaoleo.com/members/18714
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Como siempre la mejor muzzarela de Buenos Aires. 
+      Hay que ir y disfrutarla.
+    date: 30-04-2007
+    user: http://mi.guiaoleo.com/members/22517
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena pizza. Pizza al molde creo que la mejor del pa\xEDs. Servicio excelente y el lugar sencillo, pero c\xE1lido.\r\n\
+      \r\n\
+      La pizza NO TIENE ACEITE, y es muy sabrosa.\r\n\
+      Super recomendable, aunque creo que ya todos la conocemos."
+    date: 29-04-2007
+    user: http://mi.guiaoleo.com/members/22373
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Mi pizzer\xEDa favorita y eso que no soy amante de la pizza al molde, pero \xE9sta es espectacular. Tienen el punto justo. "
+    date: 18-04-2007
+    user: http://mi.guiaoleo.com/members/21773
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Compramos para llevar, pizza y empanadas. La calidad de la pizza es excelente. Recomendable.
+    date: 06-04-2007
+    user: http://mi.guiaoleo.com/members/15217
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Puro aceite en la pizza. "
+    date: 04-04-2007
+    user: http://mi.guiaoleo.com/members/21407
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Pizza de muzarella, al igual qeu otros lugares, las mejores del pais. Amantes de las pizzas (y de las buenas): vayan ah\xED, no se lo pierdan."
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/19602
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Est\xE1 entre las mejores pizzer\xEDas de Buenos Aires. La muzarella es exquisita, la fain\xE1 diez puntos y la fugazetta ni hablar. Volver\xEDa una y mil veces a Las Cuartetas, siempre que estoy por el lugar pienso en ir a comer ah\xED."
+    date: 03-03-2007
+    user: http://mi.guiaoleo.com/members/22686
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La mejor pizza de la Argentina, un cl\xE1sico que no hay que dejar pasar."
+    date: 18-02-2007
+    user: http://mi.guiaoleo.com/members/21781
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Las Cuartetas no necesita calificaci\xF3n. Hay que ir y disfrutar la historia porte\xF1a de la de Muzza. Es impresionante la calidad, pero lo mas destacable es la f\xF3rmula y la receta. Tengo 57 pirulos y voy desde que ten\xEDa 6 a\xF1os con mis viejos, era un cl\xE1sico despu\xE9s del cine. La sopa inglesa de postre roceada con moscato, te hace a\xF1icos la memoria gustativa de la infancia. Increible... "
+    date: 02-02-2007
+    user: http://mi.guiaoleo.com/members/25936
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      muy rica la pizza, pero la mezcla de olores es muy fuerte,necesitan  arreglar un  poco esa mugre de local o limpiarlo al menos.
+      muchachos media pila. si la levantan con pala
+    date: 12-01-2007
+    user: http://mi.guiaoleo.com/members/4274
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La mejor lejos. \r\n\
+      La pizza no tiene aceite, es que meten todo en crudo al horno y lo que realmente se ve es el suero del queso. Sensacional.\r\n\
+      Fan\xE1ticos de pizza cool, abstenerse."
+    date: 28-12-2006
+    user: http://mi.guiaoleo.com/members/10516
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente pizza al molde. El sabor de la muzzarella es \xFAnico, el lugar es agradable y la atenci\xF3n es buena. Una de las mejores pizzas al molde que prob\xE9."
+    date: 22-12-2006
+    user: http://mi.guiaoleo.com/members/18974
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La pizza tendr\xE1 mucha fama pero la verdad es que no es nada del otro mundo. Demasiado aceite. El aire acondicionado anda perfecto y el mozo fue muy eficiente."
+    date: 03-12-2006
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La pizza de muzarella es la mejor de Buenos Aires, l\xE1stima la atenci\xF3n y el ambiente."
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/1740
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: La mejor pizza del mundo.
+    date: 26-11-2006
+    user: http://mi.guiaoleo.com/members/13804
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Definitivamente la mejor pizza de Buenos Aires. \r\n\
+      Les recomiendo la Salvatori, es sensacional.\r\n\
+      La atenci\xF3n: ir con tiempo, hay tanto p\xFAblico que se nota que los desborda.\r\n\
+      La espera vale la pena."
+    date: 21-11-2006
+    user: http://mi.guiaoleo.com/members/5072
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es mal\xEDsima. La pizza chorrea aceite y encima es car\xEDsima."
+    date: 20-11-2006
+    user: http://mi.guiaoleo.com/members/5921
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La pizza es excelente y de las mejores. Que no se te caiga aceite en la ropa porque... \xA1es radioactivo!. Todas las pizzas son buen\xEDsimas y la atenci\xF3n no es que sea mala, es s\xF3lo que no son muy simp\xE1ticos."
+    date: 19-11-2006
+    user: http://mi.guiaoleo.com/members/2075
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la pizza al molde, de las mejores de Buenos Aires. \r\n\
+      El ambiente es el de una t\xEDpica pizzer\xEDa de anta\xF1o, es decir, sin tanto m\xE1rmol ni luces dicr\xF3icas con lo cual tiene su encanto. Recomendable. Es dif\xEDcil encontrar mesa, as\xED que hay que esperar."
+    date: 16-11-2006
+    user: http://mi.guiaoleo.com/members/6572
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Mi abuela llevaba a mi papa de chico a comer ahi cuando habia que viajar en tranvia. Mi viejo me hizo conocer las cuartetas cuando era chico, siempre que la dieta me lo permite, y ando por el centro, no dudo en pasar a comerme esa excelente y \"esponjosa\" pizza de muzzarela.\r\n\
+      Lo mejor es la faina y la fugazza con queso. \r\n\
+      Mi viejo cuenta que mi abuela era fan\xE1tica de los postres, lo cual puedo confirmar, ya que con el tiempo, siguen siendo excelentes.\r\n\
+      un lugar eterno, en la eterna Corrientes. Un placer para el paladar. Un chapuz\xF3n de nost\xE1lgia para los porte\xF1os."
+    date: 08-11-2006
+    user: http://mi.guiaoleo.com/members/10596
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Pizza al molde, que de tan alta parece una tarta. Exceso de aceite. Queso dorad\xEDsimo en la superficie. Habr\xE1 gente a la que le guste, pero yo de ah\xED, me fui descompuesto.\r\n\
+      El local es largu\xEDsimo (unos sesenta metros) y da esa sensaci\xF3n de encierro, ya que no cuenta con ninguna otra salida, m\xE1s que la puerta de adelante. "
+    date: 04-11-2006
+    user: http://mi.guiaoleo.com/members/15205
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La mejor fugazza con queso que com\xED en mi vida. Es super recomendable."
+    date: 02-10-2006
+    user: http://mi.guiaoleo.com/members/12498
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor pizza de muzzarella de Buenos Aires. Un lujo, con aceite chorreando entre los dedos. S\xF3lo apto para est\xF3magos fuertes."
+    date: 12-09-2006
+    user: http://mi.guiaoleo.com/members/12319
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Dicen de Las Cuartetas que es un cl\xE1sico de la calle Corrientes, pero a m\xED no me gust\xF3 nada el lugar ni la pizza.\r\n\
+      Quiz\xE1s mi error habr\xE1 sido el pedir s\xF3lo una porci\xF3n en lugar de una chica entera. Al perdir una porci\xF3n, \xE9sta lleg\xF3 muy fr\xEDa. Adem\xE1s el vaso de la bebida estaba tan sucio que me daba asco beber de ah\xED. En fin, una decepci\xF3n."
+    date: 12-09-2006
+    user: http://mi.guiaoleo.com/members/1254
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La pizza es excelente, no escatiman en muzarella. La atenci\xF3n es buena, l\xE1stima el lugar, que lo podr\xEDan arreglar un poco, ya un tanto depresivo."
+    date: 10-09-2006
+    user: http://mi.guiaoleo.com/members/10206
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Para m\xED es la mejor pizza de Argentina, l\xE1stima la atenci\xF3n y el lugar, los cuales dejan mucho que desear."
+    date: 05-09-2006
+    user: http://mi.guiaoleo.com/members/11755
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Excelente pizza de la calle Corrientes, pero muy mala la atenci\xF3n y la higiene. El ambiente es regular. Ser\xEDa bueno que tengan en cuenta los comentarios de la gente y solucionen la atenci\xF3n y la higiene del lugar, ya que es la de la mejor pizza de buenos aires, adem\xE1s de ser un lugar hist\xF3rico."
+    date: 05-09-2006
+    user: http://mi.guiaoleo.com/members/11757
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una de las mejores pizzas de Buenos Aires, la atenci\xF3n fue correcta porque fuimos temprano, luego se complica un poco porque es un lugar muy concurrido. El precio es normal para una pizza de esa calidad, el lugar no es \"top\" ni \"fashion\", es para ir a comer algo rico en un lugar cl\xE1sico y no dejarse llevar por la apariencia de otros lugares lindos que prometen mucho y al final no ofrecen nada."
+    date: 15-08-2006
+    user: http://mi.guiaoleo.com/members/9756
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza esta buena, la atenci\xF3n es mal\xEDsima."
+    date: 10-07-2006
+    user: http://mi.guiaoleo.com/members/9969
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Muy mala la atenci\xF3n, la pizza muy aceitosa y con bordes muy gruesos. \r\n\
+      El queso es buen\xEDsimo, pero en la de palmitos faltaba lo elemental: \xA1palmitos!\r\n\
+      Car\xEDsimo para lo que es."
+    date: 07-07-2006
+    user: http://mi.guiaoleo.com/members/11654
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor pizza de Buenos Aires, punto. \r\n\
+      No pidan nada m\xE1s."
+    date: 05-07-2006
+    user: http://mi.guiaoleo.com/members/9812
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Hay que entender el concepto de pizzer\xEDa cl\xE1sica de Buenos Aires: Mala atenci\xF3n (hay que comerla en la barra recien salida), excelente producto. \r\n\
+      Si no tendr\xEDa esos mozos o aceite, no ser\xEDa la pizza que es. \r\n\
+      Mi abuelo de Joven iba a cenar ah\xED y yo hoy estoy orgulloso de seguirla disfrutando. Lejos la mejor."
+    date: 29-06-2006
+    user: http://mi.guiaoleo.com/members/3640
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La mejor pizza de Buenos Aires. \r\n\
+      Tengo un vicio: cada vez que paso frente a las cuartetas, sea la hora que sea no puedo evitar comer una porci\xF3n de muzza en los platos de acero."
+    date: 20-06-2006
+    user: http://mi.guiaoleo.com/members/9435
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza estaba bien, me gust\xF3. Para que te atiendan hay que tener paciencia. El lugar estaba colmado. Me pregunto \xBFqu\xE9 pasar\xEDa si hubiera un incendio y uno est\xE1 en el fondo?\r\n\
+      No me gust\xF3 que el lugar ten\xEDs letrinas. "
+    date: 20-05-2006
+    user: http://mi.guiaoleo.com/members/9929
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Esta es mi pizzer\xEDa favorita, mi abuela la llevaba a mi mam\xE1 cuando era peque\xF1a, mi mam\xE1 comenz\xF3 a llevarme a mi cuando estaba embarazada y apenas pude comer soy un fiel admirador de la pizza y la sopa inglesa. Cada vez que iba al centro no pod\xEDa dejar de ir y comerme una de muzzarela con fain\xE1, una coca-cola y mi postre favorito. \r\n\
+      Vivo en el exterior hace ya veintiocho a\xF1os y cada vez que regreso a Buenos Aires no falto a mi tradicional pizzer\xEDa. \r\n\
+      Gracias a \"Las Cuartetas\" por tantos recuerdos y una pizza que es fenomenal."
+    date: 11-05-2006
+    user: http://mi.guiaoleo.com/members/8392
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Como todas las pizzer\xEDas cl\xE1sicas de Buenos Aires la atenci\xF3n es p\xE9sima y los mozos estan podridos de laburar tantos a\xF1os, pero la pizza es excelente. \r\n\
+      De las dos o tres mejores de la ciudad, claro que un d\xEDa puede salir mejor que otro pero la calidad se mantiene.\r\n\
+      Claro, no esperen atenci\xF3n o m\xE1xima higiene pero vale la pena si se quiere probar la cl\xE1sica pizza porte\xF1a."
+    date: 14-04-2006
+    user: http://mi.guiaoleo.com/members/7738
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fuimos un gupo de amigos varias veces m\xE1s que nada por el precio. \r\n\
+      La pizza es buena, pero no la mejor de Buenos Aires, ya que a veces es un poco aceitosa. \r\n\
+      No se qui\xE9n educ\xF3 a los mozos, pero decidimos no ir m\xE1s por la mala atenci\xF3n."
+    date: 16-02-2006
+    user: http://mi.guiaoleo.com/members/7005
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Espectacular.\r\n\
+      Una de las mejores pizzer\xEDas de Buenos  Aires.\r\n\
+      Como dijo otro, no es para \"fashions\"; es para \"morfar\".\r\n\
+      \xA1Por favor prueben la sopa inglesa!"
+    date: 08-02-2006
+    user: http://mi.guiaoleo.com/members/6255
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "De lo mejor en pizza tradicional.\r\n\
+      No es para los \"fashions\", menos para los cultores de la comida light.\r\n\
+      Es para aquellos que aprecian la pizza cl\xE1sica de verdad.\r\n\
+      Hay muzzarella y aceite como corresponde, hay sabor, hay masa perfecta.\r\n\
+      En las horas pico, \"s\xE1lvese quien pueda\"."
+    date: 01-02-2006
+    user: http://mi.guiaoleo.com/members/5806
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9sima atenci\xF3n. Sumamente lentos los mozos. La cerveza estaba caliente. La pizza de jam\xF3n parece que viene con paleta sandwichera. Para nada recomendable."
+    date: 01-02-2006
+    user: http://mi.guiaoleo.com/members/6165
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La mejor pizza de todo Buenos Aires: bien grandes y con mucha mozzarela supera ampliamente a otras pizzer\xEDas (tambi\xE9n buenas) como \"Guerrin\", \"El palacio de la pizza\", etc. \r\n\
+      La recomiendo."
+    date: 28-01-2006
+    user: http://mi.guiaoleo.com/members/6114
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Soy norteamericano y siempre digo que nosotros tenemos la mejor pizza del mundo, pero "Las Cuartetas" no tiene nada que envidiarnos.
+    date: 08-01-2006
+    user: http://mi.guiaoleo.com/members/5903
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Decepcionante. La pizza no es mala, pero nada que no se pueda encontrar en muchos lugares del centro porte\xF1o. El ruido es ensordecedor y el servicio deprimente. Nos reun\xEDamos all\xED un grupo numeroso de amigos, pero el maltrato de los mozos y el hecho que el lugar y la pizza no compensaran hizo que finalmente busc\xE1ramos otros rumbos."
+    date: 22-12-2005
+    user: http://mi.guiaoleo.com/members/7005
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelente. La pizza que llaman "Salvatore" es espectacular.
+    date: 30-11-2005
+    user: http://mi.guiaoleo.com/members/5072
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hace muchos a\xF1os atras era una buena pizza, hoy da l\xE1stima. La de muzzarella no se puede comer. \r\n\
+      No recomiendo que vayan a este lugar."
+    date: 01-11-2005
+    user: http://mi.guiaoleo.com/members/4595
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La mejor pizza de muzzarela que com\xED en mi vida, sensacional!!!!!!\r\n\
+      \xA1Pizza alta con mucha muzzarela!Riquisima."
+    date: 30-08-2005
+    user: http://mi.guiaoleo.com/members/3605
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Para comer al paso, es excelente.\r\n\
+      Las mesitas de marmol en la entrada, una pizza excelente que baj\xF3 apenas un poquito de nivel pero igual es de lo mejor del pa\xEDs. \r\n\
+      Imperdible la de fugazeta con queso cuadrada."
+    date: 21-08-2005
+    user: http://mi.guiaoleo.com/members/5955
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Un lugar ameno y un sabor excelente.
+    date: 13-08-2005
+    user: http://mi.guiaoleo.com/members/3360
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Est\xE1 bien, pero un escal\xF3n debajo de las mejores pizzer\xEDas. \r\n\
+      La atenci\xF3n: desastrosa, es recomendable armarse de paciencia y no discutir con nadie."
+    date: 08-08-2005
+    user: http://mi.guiaoleo.com/members/4027
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy bien el sabor tradicional, crocante por fuera, caliente y aceitosa por dentro que te quema el paladar...  Pero en horas pico la pizza llega estar media cruda por dentro y la atenci\xF3n es a la bartola...\r\n\
+      El sal\xF3n del fondo es muy caluroso y abarrotado de mesas. \r\n\
+      Ni quiero preguntar por si hay salida de emergencia."
+    date: 05-08-2005
+    user: http://mi.guiaoleo.com/members/6802
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "la mejor pizza que he probado desde los 6 a\xF1os hasta el d\xEDa de hoy y siempre igual, excelente"
+    date: 22-07-2005
+    user: http://mi.guiaoleo.com/members/2830
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La verdad es  que me decepcion\xF3.El mozo tarda a\xF1os en atenderte, te tratan como si le fueses a rogar la comida y la pizza te la traen tibia y media cruda. Por ejemplo, el mozo limpi\xF3 con una rejilla la mesa y con la misma rejilla repas\xF3 los platos. Me di\xF3 tanto asco que le solicit\xE9 que me trajera otro y de mala manera me los tir\xF3 arriba de la mesa, y las servilletas de papel si no las solicitas no te las traen. una decepci\xF3n total antes no era asi es una verguenza."
+    date: 20-07-2005
+    user: http://mi.guiaoleo.com/members/2778
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Los que tenemos m\xE1s de 30, podr\xE1n coincidir conmigo en que Las Cuartetas se transformo en una pizzeria m\xE1s de Buenos Aires, luego de ser por d\xE9cadas una de las mejores de la ciudad. La pizza no es ni cercana a la de antes, s\xF3lo zafable y la verdad que ser\xEDa mala, pero como hay tanta pizza galletita por ah\xED... Ahora es s\xF3lo un recuerdo melanc\xF3lico de la vieja gran Buenos Aires."
+    date: 27-06-2005
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La pizza es muy muy buena. Buen queso, abundante y bien doradito. El mozo tarda a\xF1os en atender, hay que pedirle especialmente las servilletas (de papel) y la pizza demora. El lugar no es lindo y el servicio de mesa muy pobre. Hay que ir s\xF3lo por la pizza, que es genial."
+    date: 19-06-2005
+    user: http://mi.guiaoleo.com/members/1807
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Realmente debo haber comido en otro \"restaurant\", porque la comida me pareci\xF3 horrible. Pedimos una pizza grande de jam\xF3n y muzarella. El mozo (a\xFAn sabiendo que \xE9ramos dos personas) no nos avis\xF3 que iba a ser demasiado, pero bueno, si uno no pregunta tampoco puede esperar que en este tipo de lugares lo asesoren. Cuando la probamos, pudimos comprobar que estaba cruda, incomible. Hicimos el reclamo, vino el encargado y nos explic\xF3 entre el enojo y la indignaci\xF3n, que el problema eramos nosotros que no sab\xEDamos comer pizza, que esa era una pizza \"directa\" y nos explic\xF3 en qu\xE9 consist\xEDa el proceso. Realmente poco me import\xF3 de qu\xE9 se trata, simplemente estaba m\xE1s concentrada en que no me cobraran los 22 pesos que sale la pizza. Se habr\xE1 convertido Bs. As. finalmente en la capital del sushi? Realmente, si en plena calle Corrientes no se puede comer un pedazo de pizza cocida, puede ser que si..."
+    date: 12-06-2005
+    user: http://mi.guiaoleo.com/members/2140
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Con el beneficio de tener tantisima experiencia en el ramo tienen una excelente combinaci\xF3n de atenci\xF3n y muy buena presentaci\xF3n. "
+    date: 25-05-2005
+    user: http://mi.guiaoleo.com/members/1922
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Un monumento a la pizza en pleno centro. Un lugar sencillo y amable.
+    date: 09-05-2005
+    user: http://mi.guiaoleo.com/members/1923
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Para disfrutar de la buena pizza en la avenida Corrientes.
+    date: 28-04-2005
+    user: http://mi.guiaoleo.com/members/1647
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Primer lugar junto con Guerr\xEDn."
+    date: 11-04-2005
+    user: http://mi.guiaoleo.com/members/1422
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena la comida con la calidad y el gusto de siempre, aunque es l\xF3gico que con el pasar del tiempo habr\xE1n cambiado de pizzeros."
+    date: 19-03-2005
+    user: http://mi.guiaoleo.com/members/2101
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: exquisito este restoran... como para ir todos los dias...
+    date: 28-01-2005
+    user: http://mi.guiaoleo.com/members/777
+    ambiente_rank: bueno

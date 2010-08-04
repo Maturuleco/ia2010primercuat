@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es muy chico y est\xE1 ok. El sushi es autoservice, lo cual es una ventaja, sobre todo para llevar. En relaci\xF3n precio-calidad, de lo mejor que hay por la zona. Adem\xE1s, el curry de carne y los yakimeshis de carne y de pollo son una muy rica alternativa. Vamos todas las semanas y lo seguiremos haciendo."
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/33523
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo mas destacable de este lugar es el hecho de ser auto service, es lo que hace que sea fluido el y lo hace ideal para el mediod\xEDa. Tiene mucha variedad de sushi pero no es de lo mejor que he probado, especialmente el sashimi que lo sirvieron muy frio, casi congelado por lo que no ten\xEDa mucho sabor."
+    date: 12-04-2010
+    user: http://mi.guiaoleo.com/members/15539
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      La comida es realmente buena, salvo que el espacio fisico es muy reducido y a veces la espera para conseguir mesas hace que la gente se vaya.
+      Ideal para un almuerzo laboral. La calidad del sushi es alta.
+    date: 04-01-2010
+    user: http://mi.guiaoleo.com/members/49062
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida por ser sushi que ya est\xE0 preparado digamos que \"zafa\"y se nota que es fresco y la medida de arroz en las piezas es razonable.\r\n\
+      Se destaca la rapidez sobre todo si como fu\xE8 mi caso se come sushi ya que te lo serv\xECs vos mismo.\r\n\
+      La ambientaci\xF2n es de terror!!!!No me d\xE0 ganas de volver, ni siquiera me di\xF2 para tomar el caf\xE8 ah\xEC porque era nefasto, sobre todo la parte de arriba con una alfombra toda rota y mesas muy juntas.\r\n\
+      Cambienle la cara al lugar porque como idea no est\xE0 mal pensada y de hecho no hay muchos con ese sistema selfservice pero en esas condiciones no creo que vuelva."
+    date: 10-09-2008
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "El sistema es novedoso y super agil para quienes no disponen de mucho tiempo al mediod\xEDa en plena jornada laboral. Uno se sirve las piezas, pasa por caja y despu\xE9s se sienta a comer.  La comida es aceptable pero lo peor es el lugar, decorado de manera pobre y con mal gusto.  La alfombra celeste corona un escenario lamentable.  Parece comprada a un motel de ruta con 30 a\xF1os de funcionamiento. Increible!"
+    date: 10-09-2008
+    user: http://mi.guiaoleo.com/members/2996
+    ambiente_rank: malo/regular

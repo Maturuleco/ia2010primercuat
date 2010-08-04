@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente la pizza de palmitos, y tienen otros platos tambien exquisitos, abundantes y a buen precio. Un gran lugar para ir a comer. Es sencillito, pero bonito
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lugar correcto para un desayuno o almuerzo al paso, donde falta atenci\xF3n a varios detalles: el servicio es poco esmerado, casi dir\xEDa desganado; la higiene, sobre todo en los ba\xF1os, deja bastante que desear; ped\xED un desayuno americano de $30 y me cobraron $5 por un extra de dulce de leche (dos envasecitos de los de muestra). En fin, varias cosas a mejorar..."
+    date: 02-09-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo \xFAnico que le pe\xED al mozo es que estuvieran 'al dente'. Los trajo hiper pasados de punto,  recalentados en microondas. Un horror. \r\n\
+      Impensable que ese sitio figure GUIA OLEO."
+    date: 14-04-2009
+    user: http://mi.guiaoleo.com/members/60540
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena la atenci\xF3n, el lugar es muy lindo. Y rica la comida, el potre una ensalada de fruta poco natural pero lo demas muy bien.\r\n\
+      Al mozo se le volco agua arriba de mi tia y al terminar de sobremesa vino con una copa de champagne para cada una de las cuatro que habiamos ido."
+    date: 27-03-2009
+    user: http://mi.guiaoleo.com/members/60337
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "fuimos una vez para tomar cerveza (triolet muy abundante) y regresamos por la pizza que realmente nos gusto mucho,muy buena calidad; nos encant\xF3 la atencion y el ambiente.\r\n\
+      lo recomendamos."
+    date: 17-12-2008
+    user: http://mi.guiaoleo.com/members/35409
+    ambiente_rank: muy bueno

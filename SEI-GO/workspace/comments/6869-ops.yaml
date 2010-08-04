@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Muy buen lugar!!!!
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/79396
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy bien ambientado, para conversar y tomar algo, muy lindo.
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/78432
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy buen lugar, lindo, buen ambiente, buena musica y excelente servicio y precio!
+    date: 23-11-2009
+    user: http://mi.guiaoleo.com/members/72557
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un bar de buenos colores y ambientacion, musica agradable, servicio buenisimo y comida artesanal riquisima.
+    date: 18-11-2009
+    user: http://mi.guiaoleo.com/members/72349
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos para festejar cumplea\xF1os, en dos oportunidades y realmente nos atendieron \"como en casa\". El servicio es barbaro, nos armaron un espacio solo para nosotros. El lugar es super tranquilo, la comida riquisima y muy accesibles los precios!Lo recomiendo!"
+    date: 13-11-2009
+    user: http://mi.guiaoleo.com/members/72417
+    ambiente_rank: muy bueno

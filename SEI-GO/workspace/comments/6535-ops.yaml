@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es un hallazgo! precio muy razonable en relaci\xF3n con la calidad. El sushi fresco, la fritura de los chcharrones excelente  como tambi\xE9n el ceviche. Estaria bueno que las porciones de los platos peruanos sean un poco mas generosas. El lugar no se destaca por su ambiente sino por la calidad de la cocina."
+    date: 29-06-2010
+    user: http://mi.guiaoleo.com/members/84312
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El lugar es agradable, bien decorado y se puede hablar perfectamente. El servicio es muy atento. La causa de pollo muy salada, demasiado, las rabas a la peruana no eran muy peruanas que digamos, eran rabas con ensalada de lechuga y cebolla.
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente el lugar, muy conforme con todo el servicio en general. Estoy por visitar la sucursal de Rodriguez Pe\xF1a con unas amigas.Sigan asi chicos, excelente todo"
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/10023
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "uno de l\xF1os mejores sushi que comi y a un precio razonable!!! la moza nos recomend\xF2 un postre peruano muy rico: suspiro lime\xF1o. Atenta atenci\xF3n. Pasra volver!"
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/53188
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es agradable y la comida muy rica. Lo que no me gust\xF3 fue la atenci\xF3n de la moza a la cual le pedi que me recomendara alg\xFAn plato y no le puso demasiado entusiasmo."
+    date: 05-02-2010
+    user: http://mi.guiaoleo.com/members/76177
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El hambre explotaba en mi cuerpo. Caminaba por Corrientes desesperado buscando satisfacer mi instinto. En eso vi un resto nuevo. Iluminacion muy fuerte y nada de decoracion. Dude...Pero mi estomago pudo mas. Le dije a la moza que me recomendara un buen plato: pulpo en crema de aceitunas, fue su respuesta. Sinceramente esquisito. Le pase pancito al plato. Eso si, tuve que esperar ya que todo se hace en el momento. Dias despues lleve a mi familia y todos salieron satisfechos ya que degustaron sushi y mas platos peruanos. Recomiendo este sitio."
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/74351
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Si bien el lugar me daba desconfianza por parecer un poco l\xFAgubre ( la iluminaci\xF3n es horrible ) , me llev\xE9 una gran sorpresa con la comida . Espectacular y muy econ\xF3mica . El sushi lo hacen en el momento y el salm\xF3n es fresqu\xEDsimo . Pedir los rolls de salm\xF3n ahumado y durazno con Philadelphia . Tienen que cambiar las l\xE1mparas de bajo consumo que tienen por otras y apagar el televisor ."
+    date: 27-12-2009
+    user: http://mi.guiaoleo.com/members/74186
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos con dos amigas. Comimos sushi. Es fresco, con abundante salm\xF3n, riqu\xEDsimo. El ambiente es tranquilo, sin m\xFAsica fuerte. La pasamos muy bien gracias a la excelente atenci\xF3n. Nos invitaron una copa de pisco sour. :) Muy recomendable."
+    date: 22-12-2009
+    user: http://mi.guiaoleo.com/members/16892
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fuimos a comer con un grupo de amigos. La pasamos de 10 en cuanto a la comida. La verdad probamos solo comida peruana y nos encanto. Yo me comi una entrada  de anticuchos de lomo y luego segui con un espectacular lomo saltado. Para mejorar los postres, ya que quise probar un postre tipico de peru y no habia.
+    date: 02-11-2009
+    user: http://mi.guiaoleo.com/members/71441
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Estaba en la oficina y un amigo me recomendo un nuevo sushi bar. Tenia poco tiempo asi que me dirigi presuroso. Por suerte hay menues de buen precio, asi que pedi uno de ellos. Sin quejas en cuanto a este almuerzo. Para cambiar es que el ambiente carece de cuadros alusivos al restaurant.
+    date: 26-10-2009
+    user: http://mi.guiaoleo.com/members/71443
+    ambiente_rank: bueno

@@ -1,0 +1,490 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La historia es asi: me toc\xF3 cuidar a mis sobrinas y las peque\xF1as quer\xEDan ir a lugar con \"pelotero\". Ok, se me ocurri\xF3 \xE9ste, fuimos y luego de cenar con mi mujer llegamos a la conclusi\xF3n q la secuencia es la siguiente: enamorate, casate, ten\xE9 hijos y olvidate de ir a cenar a un lugar decente. Un sitio en donde lo destacable es q cuentan con un espacio para \"los m\xE1s chiquitos\" o que las porciones son \"abundantes\" es esperable que sea HORRIBLE!. Cero dedicaci\xF3n en los platos: apuesto q los del patio de comidas de Coto son mejores!... Y bue!, ca\xED en la trampa. Todo pasa."
+    date: 23-05-2010
+    user: http://mi.guiaoleo.com/members/16579
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: pesimo, esperas interminables para comer comida de rotiseria en un lugar lleno de ruidos, repleto de gente que se empuja por servir un poco de alguna ensalada sin ninguna calidad. al otro dia no me senti muy bien, quizas fue algo que comi en otro sitio pero..... no voy nunca mas. no lo recomiendo. para colmo nos cobraron 14 pesos por pedir que la pasta tenga el queso gratinado. ahhh nadie te avisa y no figura en la carta te lo cobran y punto.. pesimo
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/36058
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Excelente para un domingo al medio d\xEDa con hijo chicos. Tienen un lugar para los ni\xF1os con persona que cuida. La porsiones son para compartir y tienen un muy buen Salad Bar."
+    date: 09-05-2010
+    user: http://mi.guiaoleo.com/members/26781
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ideal para ir en grupo, comida abundante y de muy buena calidad. Mucho ruido amibiental. Problemas para estacionar. Desproporciando y exagerado precio de "servicio de mesa"..$12 por persona.
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/20275
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "buena comida, la entra\xF1a no es recomendable. Platos para compartir. Buena mesa de ensaladas.Buena atencion"
+    date: 13-04-2010
+    user: http://mi.guiaoleo.com/members/64811
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Varias veces fui a este restaurante con amigos.\r\n\
+      Es bueno para ir con varias personas. Para nada recomendable para ir en pareja. Los ruidos del local y los ni\xF1itos no son nada agradable. \r\n\
+      La comida est\xE1 bien, es la adecuada a una parrilla. Salvo que en una oportunidad una milanesa de pollo vino cruda, error de los errores, pero hay que pedir parrilla y disfrutar de las ensaladas. Conclusi\xF3n: buen lugar para ir en grupo y no ser pretenciosos! El precio es acorde!"
+    date: 09-03-2010
+    user: http://mi.guiaoleo.com/members/77723
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La atenci\xF3n nos pareci\xF3 a todos excelente, pero lo malo es que aqui en la guia figura que tiene estacionamiento y no es asi. Encima tocaba Metallica en River y no hab\xEDa lugar para dejar los coches... La comida rqu\xEDsima!! y super abundante."
+    date: 21-01-2010
+    user: http://mi.guiaoleo.com/members/75407
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar agradable, ambiente muy familiar, ideal para ir con chicos, el servicio muy buueno y r\xE0pido( un poco caro el cubierto) y muy lindo el detalle de las ristras de ajo. exelente lo de la sala de chicos. Malo lo del estacionaiento ya que es para muy pocos autos y nunca, nunca hay lugar.\r\n\
+      L\xE0stima que no realizan reservas lso fin de semana y uno tiene que ir a esperar 30 min o mas.\r\n\
+      Conclusi\xF2n: recomendable.\r\n\
+      No es un lugar para ir en tu primera citao con tu novia nueva\xA1\xA1\r\n\
+      es mas familias y para personas maduras."
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/75440
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es una cantina/parrilla con un ambiente muy familiar (ideal para familias con chicos chicos, tiene guarder\xEDa con pelotero) y sin mayores pretensiones. El local es muy ruidoso, sin embargo la comida es buena y el servicio es correcto, pero no m\xE1s que eso. Tiene un buen salad bar. Y ofrecen una suerte de memnres\xEDa con descuentos para visitas posteriores. Ideal para comer despu\xE9s de ir al cine y juntarse a debarir sobre la pel\xEDcula reci\xE9n vista."
+    date: 14-01-2010
+    user: http://mi.guiaoleo.com/members/11357
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena mesa de ensaladas, de lo mas variado y de excelente calidad. Los platos principales muy buenos y el postre tambi\xE9n. Solemos ir con amigos y familias, es para volver."
+    date: 06-01-2010
+    user: http://mi.guiaoleo.com/members/61876
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida es buena, el ambiente es muy amplio, y es perfecto para salir con la familia.\r\n\
+      Porciones muy abundantes y men\xFA para chicos"
+    date: 05-01-2010
+    user: http://mi.guiaoleo.com/members/75223
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es sumamente ruidoso, el salad bar es una opci\xF3n que lo diferencia de otros restaurantes pero ser\xEDa conveniente decirle al cocinero que deje el picante para el que le gusta porque no a todos le cae bien...La atenci\xF3n es buena pero un poco lenta."
+    date: 20-12-2009
+    user: http://mi.guiaoleo.com/members/71399
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: No es una cantina, tampoco es una parrilla, ni siquiera es un bodegon al paso de los que a veces nos dan gratas sorpresas. Carece de identidad, el ambiente es desorganizado y por sobre todo lo demas, NO SE COME BIEN.
+    date: 02-12-2009
+    user: http://mi.guiaoleo.com/members/58375
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy buena opci\xF3n para ir con chicos.\r\n\
+      Ofrece una muy buena relaci\xF3n precio/calidad con un amplio men\xFA y la alternativa del salad bar.\r\n\
+      Es para ir con amigos o con familia. Definitivamente no para citas, parejas, etc."
+    date: 26-11-2009
+    user: http://mi.guiaoleo.com/members/32925
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: buena comida y abundante
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/71376
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      El tipico bodegon familiar muy ruidoso,es para ir de a muchos, no en pareja ni para una cena privada.. muchos chicos corriendo en el ambiente
+      los platos principales que elegimos dejaron mucho que desear,eso si el salad bar muy bueno. El servicio no me gusto, mucha espera que no vale lo que luego vas a comer.. los precios bien pero tampoco un regalo.
+    date: 01-10-2009
+    user: http://mi.guiaoleo.com/members/24039
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Voy habitualmente. Buen ambiente aunque un tanto ruidoso. Da para reuniones con amigos. Se come bien. Sabroso y variado. En general el salad est\xE1 bueno y variado aunque esta \xFAltima vez not\xE9 que hab\xEDa bajado un poco la oferta. Como era un martes aprovechamos el 20% de descuento por tener la tarjeta amigoja, los descuentos vienen bien especialmente en estas \xE9pocas. Seguir\xE9 volviendo."
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/67151
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es una parrilla que podr\xEDa dar m\xE1s al cliente, le falta identidad como restaurante. A veces parece un sal\xF3n de juegos y pierde su funci\xF3n gastron\xF3mica. La atenci\xF3n no es de lo mejor. El precio, no combina la calidad"
+    date: 09-08-2009
+    user: http://mi.guiaoleo.com/members/67344
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Sal\xF3n inmenso, no es un lugar tranquilo ni mucho menos. Atenci\xF3n muuuuy lenta y poco preparada. Muy bueno al salad bar. Carnes ricas y abundantes. Papas secas y crocantes. Precio acorde. Para un mediod\xEDa est\xE1 bien"
+    date: 19-07-2009
+    user: http://mi.guiaoleo.com/members/15655
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy rico lugar, familiero, para cumplea\xF1os, para amigos, la pasas bien\r\n\
+      comes bien\r\n\
+      \r\n\
+      lo unico malo es la espera."
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/34966
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      es un buen restaurant con buenas porciones,esta bien para ir con chicos ya que tiene un salon aparte con chicas que los "cuidan" aconsejo pedir platos tradicionales, xq se pueden llevar alguna desilucion con las sugerencias del chef.
+      esta bueno el salad bar salvo que se lo cobran a todos x mas que no lo utilices.
+    date: 27-06-2009
+    user: http://mi.guiaoleo.com/members/25314
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Concurro asiduamente, el lugar para ni\xF1os es muy bueno con excelente atenci\xF3n, el sal\xF3n es amplio y su salad bar muy surtido, los platos estan todos en su justo punto, no consulte motivo por el que no estaba la isla de postres, que es excelente, es un lugar muy familiar y recomendable."
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/30071
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "LLegamos 20.30 de un lunes,poca gente,pense que todo iva a salir bien,pero no.las ensaladas,bien.la entra\xF1a de terror ,cocida coasi quemada por fuera y cruda por dentro,el asado 3 puntos,y las papas fritas buenas pero con demoras,casi servidas al final de las carnes.El lugar me viene defraudando cada vez mas,la de ayer ,creo que es mi ultima visita."
+    date: 04-05-2009
+    user: http://mi.guiaoleo.com/members/50834
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar no es nada malo. Fui con mi mujer y una pareja amiga y entramos sin saber de qu\xE9 se trataba. Era la una de la ma\xF1ana. Comimos la \"pizzanesa\" que nos pareci\xF3 una propuesta creativa. Pedimos la de r\xFAcula y prosciutto y no la pudimos terminar. Estaba muy bien preparada. El lugar es grande pero algo ruidoso. La atenci\xF3n fue correcta. Que tenga salon para ni\xF1os es una gran ventaja para los que tenemos hijos. Ambientaci\xF3n prolija, c\xE1lida. Buen lugar para ir en grupo. El salad bar est\xE1 inclu\xEDdo en el cubierto pero si no com\xE9s otra cosa te sale $ 18. La mesa dulce sale $ 29. Lo recomiendo."
+    date: 04-04-2009
+    user: http://mi.guiaoleo.com/members/60689
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Atencion al cliente pesima.\r\n\
+      Cumplea\xF1os,de criatura de 5 a\xF1os, por no tener el documento no le trajieron la mini torta, ni pagandola"
+    date: 04-03-2009
+    user: http://mi.guiaoleo.com/members/59292
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos un s\xE1bado por la noche, pedimos una picada de entrada que estaba buena, para comer pedi unos fideos siete quesos que taban muy ricos, mis compa\xF1eros pidieron un rissotto que estaba con mucha agua y parec\xEDa una sopa pero que de gusto estaba rico, de postre comimos tiramisu y una copa negra, ambos muy ricos."
+    date: 06-12-2008
+    user: http://mi.guiaoleo.com/members/51670
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es buena, la mesa de dulces tentadora. Mucha gente y en general prefiero los lugares m\xE1s tranquilos. Si bien amerita para ir en familia, creo que hay demasiado movimiento. Para ir de vez en cuando."
+    date: 30-07-2008
+    user: http://mi.guiaoleo.com/members/48400
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Volvi despues de algunos a\xF1os, la atencion de los mozos es correcta la comida bi bien no me parecio mala es comun, nada especial para el precio, las porciones son muy abundantes y te obliga a compartir los platos. no estoy de acuerdo cobn que el salad bar este obligatoriamente incluido en el cubierto de 9 $ aunque uno no quiera comerlo. creo que se puede comer mejor por el mismo precio."
+    date: 13-07-2008
+    user: http://mi.guiaoleo.com/members/37645
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy caro por lo que es. Por el mismo dinero com\xE9s en un lugar de m\xE1s categor\xEDa en lo que respecta a parrilla. Los cortes de carne muy caros. El salad bar es variado y muy bueno. La ambientaci\xF3n familiar."
+    date: 27-06-2008
+    user: http://mi.guiaoleo.com/members/15020
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Luego de un par de a\xF1os sin ir por la cantidad de gente que habitualmente hab\xEDa y la demora consiguiente, intent\xE9 y me encontr\xE9 que no hab\xEDa espera.\r\n\
+      Al terminar la comida entend\xED el porqu\xE9, es impresionante como decay\xF3 ese lugar en calidad de comida y los precios que eran muy accesibles y familiares hoy no lo son tanto"
+    date: 07-06-2008
+    user: http://mi.guiaoleo.com/members/30279
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hace tiempo que no iba; quiza varios a\xF1os(no se si la vote alguna vez aqu\xED), y la verdad me lleve una desiluci\xF3n enorme. Un lugar donde se com\xEDa muy pero muy bien, con gran servicio, y a razonlables precios, se convirti\xF3 en un lugar donde se come s\xF3lo bien, y los precios treparon de modo abusivo, es m\xE1s como dijo algui\xE9n, el servicio de mesa me pareci\xF3n un robo y no hay una panera, ni nada que lo justifique. Fui mucho a fines de los 90' y era un buen lugar, pero al parecer el tiempo pasa, y nos vamos poniendo malos. Si hubiese leido oleo; lo hubiese pensado.Una lastima, una opci\xF3n menos."
+    date: 20-04-2008
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tuvimos una buena experiencia en general. Ya hemos ido varias veces a este restaurante y encontramos en el mismo un ambiente c\xE1lido y ameno donde pasar un buen rato. Respecto del servicio se mantiene inalterable (es bastante bueno) y la comida es sabrosa y en su punto adecuado. Lo que no nos pareci\xF3 gran cosa (por el sabor del helado) fu\xE9 el postre que compartimos (gran helado de chocolate).Y hubo una cosa respecto del ambiente que no nos convenci\xF3, y era que nosotros \xE9ramos 2 y nos ubicaron en una mesa distanciada s\xF3lo 50 cm de otra para 2 (nos escuch\xE1bamos todo lo que dec\xEDamos las 2 mesas)."
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/7928
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fuimos tres personas, si bien el cubierto es caro, incluye \"ensalada libre\" y en la carta dice claramente\"LA ENSALADA LIBRE INCLUYE EL CUBIERTO\" \r\n\
+      Uno de nosotros opt\xF3 por esa opci\xF3n, pero cuando lleg\xF3 la cuenta nos cobraron 3 cubiertos, la carne y la ensalada !!Es decir que por una ensalada pagamos 22$ !! Creo que por mucha variedad que haya, es abusivo y MENTIROSO \r\n\
+      O arreglan la carta o hay que ir a defensa al consumidor para que estos lugares no se sigan aprovechando de la gente\r\n\
+      Por supuesto, que le pedi explicaciones al mozo y me mando a hablar con el encargado...quedo todo ahi"
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/3145
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: la comida era buena, pero no excelente,  pero es una locura lo te cobran el servicio de mesa $8.50, por la misma plata que gastas ahi vas a mejores restaurante,
+    date: 10-02-2008
+    user: http://mi.guiaoleo.com/members/38497
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: precio mentiroso ya que cobran el cubiero 12$ por persona, la comida abundante, pero el lugar manteles de papel ordinario para ese cubierto por persona me parece elevado
+    date: 29-01-2008
+    user: http://mi.guiaoleo.com/members/38221
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lo que sigue siendo interesante es el salad bar. Con los platos... hay que tener suerte. El nivel en el resultado es muy variable. Baj\xF3 bastante el nivel de las carnes y no respetan el nivel de cocci\xF3n solicitado. Esta vez el mozo brill\xF3 por su ausencia. Hab\xEDa que hacer malabarismos para que se acercara."
+    date: 10-01-2008
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es un tanto bullicioso. Da para ir en grupo de amigos, tipo almuerzo de compa\xF1eros de oficina. Las porciones son abundantes y el salad bar es variado y de calidad. La atencion fue apropiada, aunque sin muchos esmeros. Si no vas con demasiadas pretensiones, sal\xEDs satisfecho."
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/11110
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es familiero y ruidoso, tiene un salon para ni\xF1os, hab\xEDa ido hace un par de a\xF1os, me pareci\xF3 todo bueno aquella vez.\r\n\
+      El asesoramiento del mozo Mal ya que le preguntamos los tama\xF1os de las porciones y dijo que era peque\xF1a! SOBR\xD3 como para 2 personas m\xE1s! Pedimos entra\xF1a estaba muy bien a punto, la tira de asado era dura y con bastante grasa, lo mejor el salad bar, muy bien!!! \r\n\
+      Re Flojos los postres, es un plato libre y te pod\xE9s servir a gusto, pero la mayor\xEDa de las opciones son unos menjunjes, tipo budin de pan, todo lo mismo pero con distintos colores, decepcionante!!!\r\n\
+      Me parece algo caro."
+    date: 19-11-2007
+    user: http://mi.guiaoleo.com/members/5399
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Ya no es lo mismo que antes, deja mucho que desear: las porciones no son tan abundantes, el chop-suey \"quemado\", el servicio p\xE9simo de muy mala manera y cero hospitalidad. Encima nos cobraron $7.- por cubierto!! Fuimos un grupo de 14 personas y obviamente NO VOLVEREMOS MAS!!!!"
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/15989
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Una parilla tradicional, con buenos precios. La carne estaba barbara, al jugoso le faltaba jugo, (la proxima pediremos muy jugosa) pero muy rica.\r\n\
+      Exelentes las ensaladas de la isla, nos atendieron bien, todo lo que necesita una parrilla sin lujos pero con calidad. "
+    date: 02-09-2007
+    user: http://mi.guiaoleo.com/members/9583
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "el lugar es muy ruidoso. La comida es buena, sin grandes pretensiones. \r\n\
+      El salad bar sigue siendo interesante, aunque el hecho de que est\xE9 incluido sin cargo es relativo, teniendo en cuenta el alto costo del cubierto."
+    date: 17-06-2007
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 bueno para ir en familia o con chicos. No es recomendable si se busca un sitio \xEDntimo y tranquilo. La comida es muy rica y abundante, tipo casera. El salad bar es bastante variado y el servicio normal. "
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/21160
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Los precios subieron mucho, la comida es muy buena y tambi\xE9n su presentaci\xF3n.  No est\xE1 claro si la ensalada esta incluida en el cubierto o no."
+    date: 16-05-2007
+    user: http://mi.guiaoleo.com/members/1864
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es regular, es para gastar poco, un salad bar mediocre y platos regulares, el mozo dijo que no habia el vino que le pedi como insist\xED lo trajo luego le pregunte de que parte era el asado (medio o punta) me contesto; de la que le toca."
+    date: 15-05-2007
+    user: http://mi.guiaoleo.com/members/22464
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n siempre es muy buena. Los platos abundantes y sabrosos. Es de destacar que si bien el cubierto es muy caro ($7) el mismo incluye ensalada libre (muy variada y de buena calidad). Suele ser muy concurrido."
+    date: 29-04-2007
+    user: http://mi.guiaoleo.com/members/22325
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El lugar es muy ruidoso y la separacion de las mesas no es mucha. sin embargo la comida es buena y y hay poca demora. un lugar para escaparse del trabaja a almorzar rapidito.
+    date: 08-04-2007
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En el men\xFA anuncian \"ensalada libre inclu\xEDda en el servicio de mesa\" el servicio de mesa sale 6.90, la ensalada libre 11.90. Cuando llego la cuenta, nos cobraron 11.90 + 6.90. Cuando le dije al mozo, me dijo que estaba mal la carta. Me parece una falta de respeto, y una caradurez total.\r\n\
+      El servicio es bueno, el ambiente tambi\xE9n, pero no hay argumentos para explicar lo que cobran de m\xE1s."
+    date: 20-03-2007
+    user: http://mi.guiaoleo.com/members/3145
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No tiene sal\xF3n para fumadores, aun cuando la infraestructura del local lo permitir\xEDa. "
+    date: 03-02-2007
+    user: http://mi.guiaoleo.com/members/17517
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "BUena comida y buena atenci\xF3n, con un buen lugar para los chicos."
+    date: 30-01-2007
+    user: http://mi.guiaoleo.com/members/17538
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Pregunt\xE9 al mozo: \xBFQu\xE9 me recomend\xE1s? y me dijo, \"las pastas son muy buenas\"... y yo fu\xED a una parrilla. \r\n\
+      Pedimos la colita de la casa y no era nada del otro mundo. Pobres los juegos para chicos."
+    date: 27-01-2007
+    user: http://mi.guiaoleo.com/members/8
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Las porciones abundantes, buena la comida y la atenci\xF3n, no es caro."
+    date: 16-01-2007
+    user: http://mi.guiaoleo.com/members/9402
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente atenci\xF3n, en especial, Carmelo: \xA1un grande! Siempre tan amable y atento.  "
+    date: 06-01-2007
+    user: http://mi.guiaoleo.com/members/15821
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "No est\xE1 mal, sobre todo por las buenas opciones de acompa\xF1amientos del salad bar."
+    date: 03-12-2006
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es buena, pero el men\xFA ejecutivo tendr\xEDa que ser un poco m\xE1s barato y ser m\xE1s peque\xF1o (no mucha gente puede con la mesa de ensaladas -que es MUY buena-, plato principal -enorme-, postre y caf\xE9). \r\n\
+      El servicio es bueno, pero el lugar es muy grande para pocos mozos. Si ten\xE9s un men\xFA ejecutivo tenes que hacer las cosas m\xE1s r\xE1pidas, desde mi punto de vista.\r\n\
+      El ambiente no disgusta, pero tampoco deslumbra."
+    date: 29-11-2006
+    user: http://mi.guiaoleo.com/members/18339
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Antes que nada, la ambientaci\xF3n es buena, pero hay demasiado ruido. Es todo como muy r\xE1pido y a las apuradas. Ped\xED una porci\xF3n de ri\xF1on bien cocida y estaban marcados, es decir, hervidos previamente para acelerar la cocci\xF3n final. Eso no es adecuado para un lugar que dice ser de \"parrilla\". Las ensaladas que son libres (libres relativamente, ya que el cubierto sale cinco pesos con cincuenta por persona), nada del otro mundo y cuando lleg\xE1s a eso de las once de la noche a comer, ensalada que se termina, ensalada que no reponen. Algunas porciones dicen que son \"para compartir\", pero te encontr\xE1s que no es as\xED y hay que terminar pidiendo algo extra, que encarece el monto final de la cena. Eso no es adecuado. La isla de postres es demasiado cara para la calidad que ofrecen. Creo que cuando un lugar tiene  \"fama\", sobre todo dentro del barrio, eso significa \"dormirse en los laureles\" y creo que es este caso.\r\n\
+      Tal vez, regrese muy espor\xE1dicamente cuando salga del cine y no haya alternativas m\xE1s cerca, de lo contrario, no lo recomiendo."
+    date: 09-11-2006
+    user: http://mi.guiaoleo.com/members/4899
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La Soleada te salva para ocasiones familiares. \r\n\
+      Hasta ah\xED."
+    date: 23-10-2006
+    user: http://mi.guiaoleo.com/members/7687
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En general es buena la atenci\xF3n  y la comida tambi\xE9n. Dir\xEDa muy buena, sin llegar a ser excelente. Lo que me pareci\xF3 malo es que el mozo estuvo um poco distra\xEDdo, nos trajo un agua sin gas a pesar de haberle dicho dos veces que nos trajera con gas."
+    date: 21-10-2006
+    user: http://mi.guiaoleo.com/members/7928
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un buen restaurante, con comida bastante buena pero no espectacular. La atenci\xF3n es bastante buena, pero las papas te las traen antes de empezar a comer, odio eso."
+    date: 25-09-2006
+    user: http://mi.guiaoleo.com/members/11942
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida excelente, me gust\xF3 la mesa de las ensaladas que es muy variada y con producots muy frescos. El \xFAnico problema es que la porci\xF3n de bife de chorizo est\xE1 $24, nos dijeron que era para compartir y en realidad era poco hasta para una persona. Eso es no tener cara."
+    date: 27-08-2006
+    user: http://mi.guiaoleo.com/members/7109
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Ideal para ir con chicos.
+    date: 08-07-2006
+    user: http://mi.guiaoleo.com/members/9930
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Platos abundantes y de buena calidad. Precios acomodados. Muy recomendable.
+    date: 03-07-2006
+    user: http://mi.guiaoleo.com/members/9726
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo excelente, tienen una c\xE1mara para el pelotero, lo cu\xE1l est\xE1 muy bien para ver que los chicos est\xE9n pas\xE1ndola bien. Ambiente familiar, salad bar,  parrilla y postre libre. "
+    date: 25-06-2006
+    user: http://mi.guiaoleo.com/members/16661
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cumple. Platos ricos y abundantes. \r\n\
+      Ambiente familiar bastante ruidoso. \r\n\
+      Los chicos est\xE1n bien cuidados por las celadoras. \r\n\
+      Recomendable para ir en familia."
+    date: 28-05-2006
+    user: http://mi.guiaoleo.com/members/8416
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Comida riqu\xEDsima. La atenci\xF3n es muy buena, hay que probar la isla dulce. \r\n\
+      Muy recomendable."
+    date: 05-05-2006
+    user: http://mi.guiaoleo.com/members/9970
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar para ir en familia. Tiene muy buena guarder\xEDa (a tener en cuenta)."
+    date: 16-04-2006
+    user: http://mi.guiaoleo.com/members/7787
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy bueno para la familia por la relaci\xF3n precio/porciones abundantes sin relegar en calidad en cl\xE1sicos platos locales.\r\n\
+      El \xFAnico problema que tiene es que se llena demasiado y usualmente hay espera."
+    date: 14-04-2006
+    user: http://mi.guiaoleo.com/members/7738
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy recomendable.  \r\n\
+      Los platos son grandes como para compartir y la calidad de la carne es muy buena. \r\n\
+      La mesa de ensaladas es muy completa tambi\xE9n.  Precios excelentes.  Lo \xFAnico malo que tiene es que es un poco ruidoso."
+    date: 02-04-2006
+    user: http://mi.guiaoleo.com/members/7130
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Se come muy bien. Tiene un rato de espera, pero vale la pena.
+    date: 25-01-2006
+    user: http://mi.guiaoleo.com/members/6047
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Se come b\xE1rbaro. Hay un poco de espera, pero vale la pena. Los platos son abundantes y se pueden compartir. Adem\xE1s no es caro."
+    date: 10-12-2005
+    user: http://mi.guiaoleo.com/members/5344
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Esmerada cocina, platos abundantes con las ensaladas inclu\xEDdas en el precio. Gracias al pelotero, para los que tienen chicos es ideal y barato."
+    date: 02-12-2005
+    user: http://mi.guiaoleo.com/members/3523
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fui en un par de oportunidades porque es la parrilla que eligen mis padres. Yo no. Es bastante caro para el lugar. El servicio malo, el a\xF1o pasado festej\xE9 mi cumplea\xF1os junto con el de mi pap\xE1 y cuando un invitado pidi\xF3 repetir el postre le dijeron que no estaba dentro de lo que hab\xEDamos pagado y que se lo ten\xEDan que facturar aparte. Yo cuando lo escuch\xE9 no lo podia creer. Hay un lugar para dejar a los chicos y te ponen un tv para que los veas por el monitor pero el mozo lo cambi\xF3 para ver un partido de f\xFAtbol y cuando una de las invitadas al cumplea\xF1os le pidio que lo cambiara le dijo que no. Me sent\xED maltratada."
+    date: 14-06-2005
+    user: http://mi.guiaoleo.com/members/12432
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida! Excelente la atencion! Para tu cumplea\xF1os los mozos te cantan todos, te dan una tortita, un regalo y brindis gratis. Los chicos tienen un lindo espacio para jugar y pintar y los cuidan muy bien!"
+    date: 16-04-2005
+    user: http://mi.guiaoleo.com/members/1577
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Buen\xEDsima la comida, poca espera, rico pan de pizza y buen\xEDsimas ensaladas libres! Recomiendo sorrentinos con salsa de muzzarella!"
+    date: 20-03-2005
+    user: http://mi.guiaoleo.com/members/1189
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Lugar luminoso, bien decorado, amplio.Buena ubicaci\xF3n, y esencialmente se puede ir con chicos.Excelente la comida.Buen precio."
+    date: 24-02-2005
+    user: http://mi.guiaoleo.com/members/938
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy recomendable
+    date: 17-09-2004
+    user: http://mi.guiaoleo.com/members/203
+    ambiente_rank: excelente

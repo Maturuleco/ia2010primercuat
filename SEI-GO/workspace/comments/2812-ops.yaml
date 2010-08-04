@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es el tipico lugar que te traen el pan y la ensalada media hora antes que la comida para que te llenes. Pedimos achuras y entra\xF1a y se habian \"olvidado\" de la entra\xF1a que curiosamente para cuando la trajeron ya casi no teniamos hambre. Nos \"llenaron\" con ensalada, pan y chinchulines. Es uno de esos lugares donde te van \"midiendo el hambre\" para ver la cantidad de comida que te traen."
+    date: 13-12-2008
+    user: http://mi.guiaoleo.com/members/49354
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La atencion de Eduardo (propietario) TODOS los dias, desde hace mas de 10 a\xF1os, la del parrilero (LUCHO y hasta hace poco, el gran TYSON) y la de los mozos, es de lo mas. Saludos y que lo disfruten."
+    date: 03-12-2007
+    user: http://mi.guiaoleo.com/members/36404
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Voy a volver...
+    date: 23-11-2007
+    user: http://mi.guiaoleo.com/members/36002
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encanta ese lugar. El due\xF1o es muy amigable y sabe como atender a los clientes.\r\n\
+      le falta algo...no se que es...pero me gusta igual!"
+    date: 17-11-2007
+    user: http://mi.guiaoleo.com/members/35451
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Es malo, parece que te atienden de favor.\r\n\
+      y encima es carisimo para lo que es.\r\n\
+      La carne no es buena.\r\n\
+      Nunca m\xE1s."
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/35920
+    ambiente_rank: malo/regular

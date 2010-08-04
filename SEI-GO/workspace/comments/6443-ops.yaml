@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Es una verguenza que en un lugar que supo ser una buena parrilla se coma tan mal. Sin mencionar la pesima atencion del mozo y del encargado, que no se hizo cargo de la mala atencion del mozo.
+      Pagamos como en un lugar que se come bien y comimos como en la peor cantina de aficionados de buenos aires.
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/27523
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "es un punto de encuentro habitual con mis amigas, pero esta \xFAltima oportunidad dej\xF3 sabor a poco: las tablas de achuras (chorizo, molleja y chinchul\xEDn) y la de carnes (bondiola, vacio y entra\xF1a) estaban en su punto justo pero las porciones eran muy pobres, paup\xE9rrimas! Las papas fritas y la ensalada parec\xEDan una muestra gratis, una porci\xF3n no es una guarnici\xF3n, alguien deber\xEDa dec\xEDrselos... Con los precios que cobran podr\xEDan ser un poco m\xE1s generosos con las porciones. Cualquier parrilla de barrio es 100 veces mejor. Creo que fue la \xFAltima vez que vamos..."
+    date: 14-05-2010
+    user: http://mi.guiaoleo.com/members/50920
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Si bien la comida estuvo muy buena, las carnes esn su punto justo y de buen tama\xF1o, la atenci\xF3n de las mozas es deplorable. Atienden sin ganas, hay que pedir tres veces que venga el mozo a la mesa. La ambientaci\xF3n es regular, pero creo que es producto de las luces, claro que es muy subjetivo. Ensaladas chicas, en resumen... la atenci\xF3n le quita todo encanto."
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/72856
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9simo servicio.  1 hora de reloj entre que llegamos y nos trajeron la comida.  A la 2da hora de reloj todav\xEDa no nos hab\xEDan tomado el pedido del postre.  La carne es buena pero las porciones peque\xF1as.  La pasta regular, la salsa mediocre. No lo recomiendo"
+    date: 17-12-2009
+    user: http://mi.guiaoleo.com/members/16652
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Me atendieron super rapido y la comida estaba increible, el bife de chorizo en su punto justo, la mejor parrilla d eBelgrano
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/20889
+    ambiente_rank: muy bueno

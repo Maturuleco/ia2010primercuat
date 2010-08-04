@@ -1,0 +1,39 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      el lugar es desagradable en eu interior, el olor y humo we terrible
+      los mozos muy desatentos y brindan un muy mal servicio, traen errados los pedidos.
+      la calidad de la comida es baja por las siguientes razones:
+      1) es recalentado
+      2) muy aceitosas las papas
+      3) las verduras grilladas escasas desabridas y carisimo
+      no volveria NUNCA mas por suerte no pedimos postre ni vino
+      ambiente 3 puntos
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/51331
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Buena opci\xF3n sin grandes pretensiones."
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/26068
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Un poco de achuras y una pamplona de lomo. Teniamos apuro que cenar asi que pedimos cosas rapidas...No desentono para nada, estuvo todo bien. La pamplona con un colchon de rucula y papas en su punto justo. Cenamos bien, afuera y bien atendidos. Convengamos que pedimos algo basico, alguna vez cuando era La Posada II no me gusto para nada, increiblemente me negaron por falta de stock varias opciones del menu. Tambien una opcion tranqui cuando uno quiero comer una parrillada sin grandes pretensiones.
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/24825
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Una linda parrilla, con espacio de juegos para chicos, bien ambientada y con buen nivel de servicio. Se recomiendan las carnes, pero hay buena variedad de otras comidas.
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/77044
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: lugar agradable y tranquilo a pesar de haber ido un sabado en la noche, amable y esmerada atencion, bien los cortes de carne, en su punto y abundantes porciones que pueden compartirse. Puedo recomendarlo sin temor a equivocarme, buena carta con platos para todos los gustos.
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/3526
+    ambiente_rank: bueno

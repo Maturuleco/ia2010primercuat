@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: los sandwichs son ricos pero los arruinan calentandolos en el microondas, las cosas dulces son muy ricas.
+    date: 05-04-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Simplemente un lugar para parar y tomarse unos minutos a comer algo mientras se est\xE1 de compras en el shopping. No puedo opinar sobre la ambientaci\xF3n pues se utiliza el patio de comidas del Shopping."
+    date: 11-05-2008
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una excusa para hacer un alto en el shopping y optar por un tentenpi\xE9 para seguir la vuelta y nada m\xE1s"
+    date: 24-03-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: no tengo ningun comentario malo,solo que me gusto estar ahi y me senti muy bien
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/45799
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Decir que la Brioche Dor\xE9e tiene comida francesa es lo mismo que decir que un restaurant la tiene porque est\xE1 en la calle Jean Jaures... Como restaurant la comida es la de un bar (si, ricos sandwichs el men\xFA del mediod\xEDa ev\xEDtelo), el servicio es el de un bar de shopping (malo), el ambiente es el de un shopping (malo) y la carta de vinos, bueno... tienen buenos jugos."
+    date: 17-01-2008
+    user: http://mi.guiaoleo.com/members/23846
+    ambiente_rank: malo/regular

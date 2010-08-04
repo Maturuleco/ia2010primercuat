@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Como dicen la mayor\xEDa de los comentarios, el ambiente del lugar no es lo mejor, las mesas est\xE1n muy juntas y la atenci\xF3n es un tanto desprolija.\r\n\
+      La comida, por otro lado, es excelente y los precios muy accesibles. Lugar ideal para ir en invierno y comer un plato del norte."
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/35019
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Vamos a comer al Quebracho o pedimos delivery casi desde que abrio el lugar. La comida regional es muy buena. Los platos son abundantes y el precio mas que razonable. Las pizzas no nos gustan, pero las empanadas son muy ricas. Tienen papas y batatas rellenas que son una bomba. Enormes. Muy recomendable para ir a comer en grupo.
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buen lugar...en el barrio!!
+    date: 30-03-2010
+    user: http://mi.guiaoleo.com/members/77676
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es una copia de otro del rubro muy conocido en Recoleta (manteles de papel, tizas de colores para dibujar, mate a la tarde). La comida es rica, preparada en el momento y buena calidad. El precio es accesible. Es lindo para ir en pareja. La atenci\xF3n es buena."
+    date: 06-03-2010
+    user: http://mi.guiaoleo.com/members/16300
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos un miercoles a la noche y se llena. El lugar es muy agradable y la comida muy rica, se notan los ingredientes frescos. La atenci\xF3n es buena, tardaron mucho tal vez xq pedimos platos regionales, las pizzas sal\xEDan m\xE1s r\xE1pido. Lo recomendamos. Ideal para ir en pareja."
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/77609
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Pedi un vino y me lo trajeron picado, me lo cambiaron y esta picado nuevamente, cambie de bodega y tambien esta picado, lo deje arriba de la mesa x q me dio verguenza volver a cambiarlo. La comida tardo 1 hora, cuando llego el pedido estaba mal, el unico plato q quedo en la mesa estaba frio. Consejo: si quieren comer este tipo de comida, pueden ir a Cumana en Recoleta o Dale perejil al toro en Almagro, este lugar no vale la pena."
+    date: 21-02-2010
+    user: http://mi.guiaoleo.com/members/77216
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "\xA1Extraordinaria propuesta en su tipo! M\xE1s all\xE1 de que su carta y ambientaci\xF3n huelan a \"homenaje\" a un conocido restaurant de comidas criollas sito en Recoleta, El Quebracho (tanto el de Almagro como el de Ciudad Jard\xEDn) tiene m\xE9ritos propios que destacar: muy buenas pizzas y empanadas, picadas contundentes y platos como locro, tamales, pastel de papa, arroz de la estancia y dulces caseros que han alcanzado niveles alt\xEDsimos. El ambiente es un poco inc\xF3modo y el servicio frecuentemente est\xE1 desbordado, pero con esa comida y a ese precio nunca me importa. Comer\xEDa ah\xED por el resto de mi vida!"
+    date: 03-02-2010
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es agradable, la comida muy rica y los precios super accesibles. Vivo cerca y lo frecuento mucho, es una excelente opci\xF3n para quienes buscan un lugar informal, distendido y con buena comida t\xEDpica."
+    date: 29-01-2010
+    user: http://mi.guiaoleo.com/members/61540
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena opci\xF3n para comer comida aut\xF3ctona, excelentes calzones y muy ricos postres regionales, tienen delivery, platos abundantes, productos de buena calidad. Lugar para tener en cuenta"
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: |-
+      fui a cenar con mi flia. y la comida muy rica , pero la atencion deja mucho que desear, terminamos de comer y tuve que pedir 3 veces que retiren las cosas.
+      en un momento veo que una pareja se sienta al lado y viene un mozo despues de 15 minutos de estar sentados y les pide que se muden de mesa , por que en la que estaban habia que levantar lo de los comensales anteriores.
+      , el ambiente bueno , y reitero rica la comida , pero deben mejorar mucho la atencion de los mozos
+    date: 12-12-2009
+    user: http://mi.guiaoleo.com/members/27335
+    ambiente_rank: bueno

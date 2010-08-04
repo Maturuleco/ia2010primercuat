@@ -1,0 +1,100 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Es un clasico de los
+    date: 20-06-2010
+    user: http://mi.guiaoleo.com/members/40505
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Festeje junto a un gran grupo un cumplea\xF1os, ningun plato se vio mal, eran todos grandes. Como era menu no puedo opinar de la carta. Quiza vuelva porque no me desagrado a probar algo de la carta."
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La carta es muy variada y hay platos bien porte\xF1os muy bien preparados. El servicio es bueno, pero no es destacable y me llamo la atencion la falta de una buena carta de vinos. La pasamos muy bien y comimos muy rico. Los precios son un poco elevados, pero entre la calidad de la comida y algunos descuentos (AMEX) termina siendo un buen lugar para ir."
+    date: 22-02-2010
+    user: http://mi.guiaoleo.com/members/74944
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida esta bien, con precios razonables. Hay muchisimas opciones en el menu. Ambiente bien familiar.
+    date: 24-08-2008
+    user: http://mi.guiaoleo.com/members/20593
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Fuimos para Noche Buena, espectacular!!!
+    date: 24-12-2007
+    user: http://mi.guiaoleo.com/members/3480
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Una desilusion la comida.
+      En la carta decia filet con guarnicion (ensalada o papa al natural). Pedi con ensalada y en la cuenta me cobraron la ensalada aparte. El mozo se hizo el desentendido y dijo que la guarnicion era mas chica que lo que el habia traido. Sinceramente me estafaron.
+    date: 08-11-2007
+    user: http://mi.guiaoleo.com/members/35260
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida (porte\xF1a tradicional) est\xE1 de bien a muy bien, el ambiente es tradicional, bien iluminado y tranquilo (no se escucha el tr\xE1nsito de Corrientes pese al gran frente vidriado), se puede conversar. Mozos de los de antes, todav\xEDa con maitre!!!. Me pareci\xF3 un poco caro, eso s\xED, pero como la comida estuvo bien, no puedo decir que la relaci\xF3n precio/calidad no cierre. Digamos: habr\xEDa que entrar pero prevenido, sabiendo que va a ser un poco m\xE1s caro de lo que uno imagina."
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/43050
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Muy buena la comida. Porciones abundantes. Un lugar tradicional para ir con la familia si se busca un ambiente prolijo y comida casera y abundante. 
+      Los precios son un tanto elevados con respecto a otros lugares del estilo. La proxima voy a probar las papas souffle-
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/16892
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "\xA1Qu\xE9 rico lugar! Imperdibles las papas palacio(papas souffl\xE9 con huevo frito y morr\xE9n) y los \xF1oquis verdes. Para los carn\xEDvoros no perderse las milas de lomo. Porciones abundantes.  "
+    date: 17-05-2007
+    user: http://mi.guiaoleo.com/members/23299
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La verdad que fue una desilusi\xF3n esperaba comer las mejores milanesas del mundo y todo lo contrario, me encontr\xE9 con una mercader\xEDa del mont\xF3n y adem\xE1s es car\xEDsimo. No me gust\xF3 nada."
+    date: 18-03-2007
+    user: http://mi.guiaoleo.com/members/23681
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente. Una tradici\xF3n en el barrio."
+    date: 25-12-2006
+    user: http://mi.guiaoleo.com/members/3480
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comimos muy bien. Para una comida sencilla, me pareci\xF3 un poco caro."
+    date: 19-10-2006
+    user: http://mi.guiaoleo.com/members/13092
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No dejen de probar el bife de chorizo; una manteca.\r\n\
+      Atenci\xF3n profesional y destacada.\r\n\
+      Recomendable para ir con la familia."
+    date: 04-10-2006
+    user: http://mi.guiaoleo.com/members/10221
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente es tranquilo y familiar. Cuando est\xE1 lleno es levemente ruidoso pero no molesta. \r\n\
+      La comida es deliciosa, una tortilla de papas excelente, las mollejas crocantes, a punto igual que el bife y las papas soufl\xE9 so\xF1adas. \r\n\
+      La calidad decae un poco en los postres pero de todos modos no esta mal. \r\n\
+      La relaci\xF3n precio-calidad-servicio es muy buena y como siempre, el Palacio es un lugar para volver y recomendar."
+    date: 16-06-2006
+    user: http://mi.guiaoleo.com/members/6637
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Un ambiente adecuado y sumamente agradable para almuerzos de trabajo, teniendo en cuenta el horario de mi asistencia.
+    date: 25-04-2006
+    user: http://mi.guiaoleo.com/members/7970
+    ambiente_rank: excelente

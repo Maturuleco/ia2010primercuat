@@ -1,0 +1,101 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Que lastima que haya lugares as\xED porque los turistas pueden pensar que es un lugar representativo de nuestros resturantes. Fui a este restaurant por razones de trabajo, a pesar que la guia oleo daba indicaciones claras. En resumen es que no hacen nada mal, pero tampoco nada bien"
+    date: 19-05-2010
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      El lugar es lindo, aunque esta venido abajo. La comida estaba bien, pero no una locura, esperaba un poco mas.
+      La atencion correcta. La copa de vino no era lo que decia ser.
+    date: 07-06-2009
+    user: http://mi.guiaoleo.com/members/41367
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "En la \"trampa para turistas\" del corredor de restaurants y comederos de la calle Jun\xEDn, frente a la Recoleta, San Babila zafa. Por su buena comida sin mayores pretensiones y la agradable galer\xEDa. La atenci\xF3n es adecuada y los precios altos, acordes al lugar. Nosotros fuimos porque era domingo al mediod\xEDa, est\xE1bamos en el Barrio Norte y quer\xEDamos comer al aire libre. Se tendr\xE1 que dar una conjunci\xF3n similar para que volvamos."
+    date: 05-04-2009
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fue una noche maravillosa. Los Mi\xE9rcoles por las noches hay una valada oper\xEDstica; los tenores....incre\xEDbles. Excelente comida, servicio correcto. Los camareros brindan un muy buen asesoramiento a la hora de seleccionar los platos.\r\n\
+      Buenas bodegas,toilettes pulcros, ambiente c\xE1lido.\r\n\
+      S\xF3lo basta ver las fotograf\xEDas de las grandes personalidades que suelen frecuentarlo....buena relaci\xF3n precio-calidad.Recomendable."
+    date: 07-05-2008
+    user: http://mi.guiaoleo.com/members/44958
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "San Babila, al rev\xE9s del vino, con el tiempo se pone peor.La comida y su presentaci\xF3n es absolutamente simple lo que no justifica los elevados precios.La atenci\xF3n parece realizada por robots dada la frialdad e indiferencia de los mozos.Tema aparte no cuentan con  el estacionamiento que figura en la gu\xEDa. No es para probar de nuevo."
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/7629
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El ambiente es muy agradable la comida fue buena pero no me gusto la atencion, habia poca gente y habia que esperar a la camarera que se la pasaba charlando con sus conpa\xF1eros en un rincon,  mandando mensajes con los celulares a los cocineros, que se veia por un ventanal que daba al salon, donde tambien se podia obserbar que le faltaba limpieza a la cocina."
+    date: 04-09-2007
+    user: http://mi.guiaoleo.com/members/31571
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Me atendio al sentarme un hombre con acento italiano que al pedirle  me informara si vend\xEDan el vino por copas se hacia el que no entend\xEDa, mostrandome una botella chica de vino, la comida es regular e injustificadamente cara y la atenci\xF3n es mala no es recomendable."
+    date: 10-05-2007
+    user: http://mi.guiaoleo.com/members/22464
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena sorpresa.Ten\xEDa imagen de un lugar de calidad media y la verdad me sorprendi\xF3 la calidad de la comida: Risotto milanese excepcional y ensalada caprese de las mejores."
+    date: 22-04-2007
+    user: http://mi.guiaoleo.com/members/22311
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Fui muchas veces con mis padres los s\xE1bados al mediod\xEDa, siempre fue buen restaurant y caro. La ante\xFAltima vez que fu\xED, un plato de polenta estaba casi 40 pesos. Y la \xFAltima -definitivamente la \xFAltima- vez que fuimos, estaba lleno de turistas y las mozas se desviv\xEDan por atenderlos a ellos. Despu\xE9s de esperar media hora, hice llamar a la maitre, quien -con sorna- nos invit\xF3 a retirarnos si no est\xE1bamos conformes. Result\xF3 ser la due\xF1a, una maleducada, se ve que tira m\xE1s la propina en d\xF3lares que los clientes de siempre. Nunca m\xE1s volvimos, aparte ya se hab\xEDan delirado con los precios."
+    date: 30-10-2006
+    user: http://mi.guiaoleo.com/members/18677
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es buena, sin grandes pretensiones. Hay platos muy ricos que no estan en el men\xFA. Vale la pena preguntar. Ambiente y atenci\xF3n correctos."
+    date: 21-10-2006
+    user: http://mi.guiaoleo.com/members/8668
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La entrada era bien abundante,\r\n\
+      estaba tierna, pero la cobertura era muy gruesa y grasosa. \r\n\
+      Los fideos estaban en su punto justo, aunque no eran caseros y eran escasos los frutos de mar.\r\n\
+      Nos alojaron en el exterior pero la calefacci\xF3n no funcion\xF3, bajaron las cortinas pl\xE1sticas laterales y el ambiente se torno adem\xE1s de frio, ingrato. \r\n\
+      Relaci\xF3n precio/calidad no satisfactoria."
+    date: 29-03-2006
+    user: http://mi.guiaoleo.com/members/6777
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La ambientaci\xF3n del jard\xEDn es muy buena y c\xE1lida.\r\n\
+      Se demoraron un poco en traer la cena.\r\n\
+      El tiramis\xFA no estaba hecho con mascarpone pero era rico de todas formas."
+    date: 11-11-2005
+    user: http://mi.guiaoleo.com/members/4793
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Lejos, la mejor cocina italiana de la ciudad.
+    date: 14-10-2005
+    user: http://mi.guiaoleo.com/members/4343
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena calidad.. los platos son "enormes" y no te dan ganas de pararte e irte, mas si te sentas en el jardin o la terraza (en verano)
+    date: 04-03-2005
+    user: http://mi.guiaoleo.com/members/1038
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena calidad en los platos.
+    date: 19-12-2003
+    user: http://mi.guiaoleo.com/members/7
+    ambiente_rank: muy bueno

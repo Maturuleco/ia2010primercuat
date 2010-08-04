@@ -1,0 +1,96 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es muy buena, sobre todo las pescados y mariscos, la relacion precio calidad es excelente, es una muy buena opcion para ir con amigos, el ambiente es el de un bodegon, para volver
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/79261
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es excelente, abundante, a punto, rica.\r\n\
+      El ambiente es de bodeg\xF3n. El mozo nos atendi\xF3 con cordialidad y eficiencia. Voy a volver."
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/5952
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente bodeg\xF3n. Ideal para ir con amigos. Muy buenas rabas. La milanesa se cortaba sola y su porci\xF3n era abundante. No se deben tener pretenciones sobre su anbientacipon. La atenci\xF3n fue muy buena en todo momento. Lo \xFAnico criticable es que los platos se hac\xEDan esperar demasiado. Insuperable relaci\xF3n calidad/precio. Volver\xEDa siempre."
+    date: 22-05-2010
+    user: http://mi.guiaoleo.com/members/35354
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente relacion calidad/precio. Porciones muy abundantes, bien hechas. Lugar ruidoso pero ameno. SE PUEDE FUMAR! Eso es muy bueno. Voy a volver seguido. Muy buen lugar para reunirse con amigos
+    date: 10-12-2009
+    user: http://mi.guiaoleo.com/members/15230
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lugar tranqui, sencillo, comida abundante y  sabrosa, los mozos recomiendan y son muy gentiles, si bien algo lento el servicio,  las mesas estan algo juntas, sobre todo en el sector no fumador  que esta junto al de fumadores, no hay separaciones, me sorprendi\xF3 y es molesto  ya que el humo circula por todo el local."
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/43390
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Lo rescatable de este bodegon de barrio es la comida (el pulpo y las gambas muy buenas), que sin ser demasiada compleja esta bien preparada. En cuanto a la relacion precio calidad, tambien es buena, gastamos 65 x cabeza con 2 botellas de vino. Por el servicio, al menos a nosotros que eramos una mesa de 7, fue pesimo. Muy lento (llegamos a las 9.30 y nos fuimos a las 12.30), y teniamos que levantarnos para que el mozo se acercara a nuestra mesa. Parece que eramos transparentes. El ambiente tipico de club barrial, sin mas ni menos. No creo qe vuelva.
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/65573
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Me gusto mucho el  sitio porque es muy acogedor. Lo reocmiendo gratamente.
+      daniel
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/69201
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Platos abundantes, excelente el pescado, muy buena relacion precio y calidad, en un ambiente sencillo pero bien atendido!!!
+    date: 29-05-2009
+    user: http://mi.guiaoleo.com/members/55342
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comida casera, con sabores entra\xF1ables. Casi me caigo de la silla cuando me trajeron la cuenta, ya que los precios porte\xF1os siempre me sacuden, y en Oleiros eran muy bajos (en comparaci\xF3n).\r\n\
+      Ya agregaron un joven mozo, Luis, tan profesional como H\xE9ctor. Fui un viernes a las 16 y pregunt\xE9 si pod\xEDa comer. Este joven me respondi\xF3: lo est\xE1bamos esperando. Regres\xE9 al otro d\xEDa, y lo har\xE9 las veces que pueda.\r\n\
+      Cada d\xEDa de la semana hay un plato especial: pastel de papas, guiso de lentejas, etc. Dicen que el puchero es espectacular, pero hay que pedirlo con antelaci\xF3n."
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/61293
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Dos veces festeje cumplea\xF1os.- todos muy contentos.- la comida como en casa.- los precios muy buenos.- bien del barrio.- un poco lento el servicio.- necesitarian agregar un mozo pero siempre dan ganas de volver.-"
+    date: 09-04-2009
+    user: http://mi.guiaoleo.com/members/60852
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Hector es el mejor mozo. Te atienden a cualquier hora y la comida siempre est\xE1 rica. Poca variedad de sabores. Un lugar para ir seguido y en la semana."
+    date: 22-10-2008
+    user: http://mi.guiaoleo.com/members/9152
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La paella era muy abundante y con muchos camarones, aunque le faltaban condimentos. El precio es bueno en relaci\xF3n a las porciones. El lugar puede ser catalogado como tradicional, entra\xF1able, simp\xE1tico, familiar, ruidoso o decadente. Todo menos snob. Esto si que no es un rest\xF3 ni una braserie, ni un bistr\xF3. El mozo muy atento y cordial. Volver\xE9 a probar la cazuela."
+    date: 01-04-2008
+    user: http://mi.guiaoleo.com/members/6463
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Desde que lo descubr\xED, voy siempre. Es un lugar encantador, remite a los viejos clubes sociales de pueblo o barrio. H\xE9ctor, el mozo, es un \"mozo verdadero\", de oficio, no un mesero como le llaman ahora. Por todo esto ma\xF1ana voy a festejar mi cumplea\xF1os en el Oleiros! "
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/36561
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Impresionante lugar. Lo mir\xE9 con desconfianza al principio, pero la calidad de la comida y el precio me cautivaron. La atencion es buena, aunque le faltaria algun mozo para agilizar el servicio. Si no se la creen y aumentan los precios, volvere toda mi vida. "
+    date: 26-07-2007
+    user: http://mi.guiaoleo.com/members/6082
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tanto la comida como la atenci\xF3n son excelentes. "
+    date: 05-04-2007
+    user: http://mi.guiaoleo.com/members/21074
+    ambiente_rank: muy bueno

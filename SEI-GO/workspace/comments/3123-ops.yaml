@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Considero que defintivamente es \"Pizza jobs\" y nada mas. Tiene poca variedad de comidas: solo pizza, tostados, hamburguesas, omelettes y papas fritas.\r\n\
+      Me ped\xED un tostado y era de pan lactal y dejaba mucho que desear.Si hubiera querido eso , me hubiera quedado a comer en mi casa.\r\n\
+      Las papas fritas muy grasientas, e incluso el keptchup estaba vencido!!\r\n\
+      Lo que rescato es que tiene pools, PS, juegos de mesa, dardos. \r\n\
+      Luego tomamos algo yo me pedi un gancia batido, estaba rico, asi que es un punto a favor. Pero una amiga se pidio un tequila sunrise y era intomable"
+    date: 08-01-2010
+    user: http://mi.guiaoleo.com/members/74740
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Fui en pareja a comer pizza con cerveza, los valores son elevados (para turistas), el servicio deja bastante que desear y la comida mala por el precio que sale. no lo recomiendo...
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/28273
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La nueva parte de Jobs, es b\xE1rbara, da una opci\xF3n m\xE1s gourmet, la calidad de los productos es de primera, se nota que hay un chef y la atenci\xF3n tambi\xE9s es genial. Se complementa muy bien con el resto del bar, que es m\xE1s de entretenimiento y de bebidas. "
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/37669
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Una opci\xF3n muy buena para una salida informal y divertida (x la parte del pub y los juegos). El sistema de reservas es excelente, te responden muy r\xE1pido, claro y gratis! La pasamos muy bien"
+    date: 14-12-2007
+    user: http://mi.guiaoleo.com/members/38150
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Mas que nada un lugar divertido como para ir con amigos. No da para hablar de comida o servicio. Un pool sin viejos digamos.
+    date: 18-11-2007
+    user: http://mi.guiaoleo.com/members/31710
+    ambiente_rank: bueno

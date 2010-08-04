@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar es simp\xE1tico s\xF3lo aparentemente: tiene paredes con fotos, pero adolece de falta de espacio, todo encimado y con TV muy fuerte. La comida parec\xEDa reseca, el vino era malo. Y el precio no estaba acorde con un servicio menos que regular."
+    date: 16-11-2009
+    user: http://mi.guiaoleo.com/members/9198
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Es un lugar para cuando uno no quiere cocinar ni gastar mucho dinero. Es peque\xF1o y c\xE1lido, la comida es aceptable. Uno se siente a gusto, a pesar de la falta de espacio. Mejor en \xE9poca invernal, es como un refugio, cuanto m\xE1s feo el d\xEDa mejor. Atiende el due\xF1o y su familia. Es para los amantes de lo sencillo. Siempre vuelvo a la parrillita."
+    date: 05-06-2009
+    user: http://mi.guiaoleo.com/members/63433
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "???...Lejos dentro de los 3 peores restaurantes que fui en mi vida.- Y he ido a bastantes.- Feo lugar, inc\xF3modo, sillas y mesas encimadas, m\xFAsica y televisi\xF3n a un volumen demasiado alto.- Eramos 2.- Milanesas de muzzarella apenas pasables.- Molleja evidentemente vieja, fr\xEDa y pasada varias veces por jugo de lim\xF3n de botella.- Bondiola tambi\xE9n evidentemente vuelta a cocinar varias veces.- Caro.- Muy mal atendido por su due\xF1o.-"
+    date: 04-06-2009
+    user: http://mi.guiaoleo.com/members/23480
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui con una amiga, nos pedimos el plato del dia \" conejo a la cazadora\". Estaba muy bueno, nunca hab\xEDa comido conejo. El lugar es super chico, vi que hac\xEDan mucho delivery. Las mesas est\xE1n muy pegadas, pero entre mesa y mesa uno se pone de acuerdo. El ba\xF1o estaba limpio pero super desprolijo. Volver\xEDa por la comida, el precio y la atencion."
+    date: 31-10-2008
+    user: http://mi.guiaoleo.com/members/9349
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "ESPECTACULAR. ya fui varias veces y cada vez vuelvo m\xE1s contento, y con m\xE1s gente, da ganas de mostrarselo a todo el mundo. Es una adicci\xF3n. La comida, ya venga de la parrilla o de la cocina, los platos caseros elaborados (como locro, lentejas, mondongo) todo es magn\xEDfico, pidas lo que pidas, es imposible arrepentirse. Pero sin duda, Robertito es la especialidad de la casa, due\xF1o, encargado de la parrilla, amigo de todos, te atiende como si te recibiera en su propia casa, y es un placer, mucho humor, mucha buena onda, muchisimo afecto. ES UN PLACER VISITAR LA PARRILLITA, NO SE LO PIERDAN!!!"
+    date: 22-10-2008
+    user: http://mi.guiaoleo.com/members/53292
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Entr\xE9 pensando que iba a ser uno de esos lugares, de los que te vas con olor en la ropa pero aunque es chico y tiene la parrilla atr\xE1s de la barra la ventilaci\xF3n es excelente.\r\n\
+      Es para ir de paso a comer alguna minuta."
+    date: 11-09-2007
+    user: http://mi.guiaoleo.com/members/16892
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "S\xF3lo para comer alguna comida casera que no se consigue en otros lados bien preparada, sin pretensiones y a un precio s\xFAper accesible. El ambiente es m\xEDnimo y con TV a todo volumen y la atenci\xF3n peca de exceso de confianza y a veces se vuelve pesada para mi gusto."
+    date: 12-04-2007
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un buen lugar para ir a comer, sin mucho apuro, un chorizo a las once de la noche o del mediod\xEDa en Villa Crespo. Es chiquito pero c\xE1lido. Quiz\xE1 el ambiente es demasiado \"familiar\" o van muchos habitu\xE9s y puede ser algo molesto el griter\xEDo. Por la infraestructura tambi\xE9n podr\xEDa ser m\xE1s barato, pero es de lo m\xE1s decente de la zona. "
+    date: 15-03-2007
+    user: http://mi.guiaoleo.com/members/91
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El bife de chorizo estaba quemado de afuera(gusto amargo) y jugoso adentro. Las ensaladas estaban bien, al igual que el postre. Los chinchulines estaban buenos.
+    date: 04-03-2007
+    user: http://mi.guiaoleo.com/members/13823
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Roberto hace los chivitos de la misma manera que se los pod\xEDa comer hace a\xF1os en los mejores lugares de Uruguay."
+    date: 24-08-2006
+    user: http://mi.guiaoleo.com/members/11435
+    ambiente_rank: excelente

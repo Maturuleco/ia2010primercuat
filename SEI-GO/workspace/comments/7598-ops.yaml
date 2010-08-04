@@ -1,0 +1,30 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El nombre del restaurant alude a las glorias de la cocina argentina: pizza, pastas, parrilla. Est\xE1 emplazado en un edificio de 1850 puesto en valor de manera original. La comida est\xE1 OK, nada m\xE1s que eso."
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Estuvimos el sabado y sinceramente el lugar deja mucho que desear, la atencion es pesima, nos hicieron esperar mientras habia mesas vacias. el vacio duro y crudo (cabe remarcar que pedi vacio, ya que se habian quedado sin lomo!!) nos sentaron en una mesa que supuestamente era no fumadores, y al lado estaban fumando, solo nos separaba 3 metros entre mesa y mesa, un desastre. la atencion es lenta y mala.  si quieren pasar un momento agradable no vayan a este lugar.
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/78594
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      fuimos el viernes a la noche con mi mujer y una pareja amiga , comimos muy bien el bife muy tiermo y en su punto ,la pizza exelente ,el lugar es hermoso muy bien ambientado tiene 2 pantallas gigantes y la atencion es muy buena .
+      muy recomendable vamos a volver siempre
+    date: 23-04-2010
+    user: http://mi.guiaoleo.com/members/69799
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      El precio es por persona sin alcohol y postre.
+      El lugar excelente con un ambiente muy agradable y muy bien ambientado.
+      La atencion de primer nivel.
+    date: 21-04-2010
+    user: http://mi.guiaoleo.com/members/80533
+    ambiente_rank: excelente

@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: No nos decepciono, entramos de casualidad. Los postres estaban tentadores para volver a la tarde. La comida tampoco nos resulto tan sabrosa. pero las pizzas se veian bien...volvere si ando por alli de nuevo.
+    date: 06-06-2009
+    user: http://mi.guiaoleo.com/members/46089
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Caimos de casualidad. La verdad es que nos fuimos muy contentos, por la calidad de comida, la atenci\xF3n esmerada de los mozos, la limpieza que vimos y el precio, a nuestro entender muy bueno. Fue un buen debut y ya lo recomendamos a un par de parejas amigas."
+    date: 14-02-2009
+    user: http://mi.guiaoleo.com/members/58260
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Es un lugar al que siempre voy a comer pastas y pizza.
+      Las pastas me parecen muy buenas, al igual que las salsas. El ambiente es agradable. Los precios son justos.
+      El pan que sirven es casero (es riquisimo)
+      Para la tarde tambien hacen unos tostados de jamon y mozarella en Pan arabe (casero) muy buenos, bien cargados.
+    date: 25-10-2008
+    user: http://mi.guiaoleo.com/members/49393
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lindo bar, bien arregladito, sin demasiadas pretensiones. Caf\xE9 aceptable. L\xE1stima el mala onda que me atendi\xF3, tuve mala suerte en ese sentido y no quiero hacer general el mal servicio. "
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy buena pizza, quiz\xE1 una de las mejores de Palermo. La de muzzarella tiene todo el queso que uno puede querer. M\xE1s que recomendable la de pasta de anchoas. "
+    date: 25-08-2007
+    user: http://mi.guiaoleo.com/members/30540
+    ambiente_rank: muy bueno

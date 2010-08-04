@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Era el menu de rosh hashana. habia dos menues con un poco de cada cosa de las mas conocidas de la cocina judia. nada especial. muy elevado el precio.el lugar es una confiteria que ademas hace algunas comidas.no merece mayores comentarios.
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/63179
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy rica la comida, como lo prepara mi familia. "
+    date: 04-04-2007
+    user: http://mi.guiaoleo.com/members/21659
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comida casera no muy variada.\r\n\
+      Esmerada atenci\xF3n y limpieza. Recomendable para todos los d\xEDas y sobre todo si uno es de la zona. No ir\xEDa jam\xE1s como salida de s\xE1bado a la noche o domingo al mediod\xEDa."
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/11897
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy rico, como si cocinara mi bobe.
+    date: 03-10-2006
+    user: http://mi.guiaoleo.com/members/10596
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Festej\xE9 un cumplea\xF1os y realmente fue excelente. \r\n\
+      La cheff es espectacular, la comida exquisita, la atenci\xF3n excelente y el precio muy bien para tan buen servicio. Recomendable."
+    date: 25-03-2006
+    user: http://mi.guiaoleo.com/members/10694
+    ambiente_rank: excelente

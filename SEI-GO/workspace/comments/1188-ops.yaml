@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy buena atencion y la comida casera, excelente
+    date: 10-02-2005
+    user: http://mi.guiaoleo.com/members/200
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "un c\xE1lido lugar en una lind\xEDsima zona. Muy bien atendido"
+    date: 17-09-2004
+    user: http://mi.guiaoleo.com/members/201
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy buena presentaci\xF3n de platos."
+    date: 17-09-2004
+    user: http://mi.guiaoleo.com/members/200
+    ambiente_rank: excelente

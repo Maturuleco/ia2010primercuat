@@ -1,0 +1,36 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un t\xEDpico barcito de San Telmo en donde adem\xE1s de tomarte un caf\xE9, pod\xE9s comer muy buenas pizzas y milanesas. Para ir de vez en cuando, sobretodo cuando no ten\xE9s ganas de cocinar y quer\xE9s comer comida casera sin tanta pompa."
+    date: 16-03-2008
+    user: http://mi.guiaoleo.com/members/41344
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena la pizza, el lugar es chiquito, pero esta muy bien ubicado. Si se hace la hora del mediodia y estas por esa zona, es la primera opcion.
+    date: 21-01-2008
+    user: http://mi.guiaoleo.com/members/29170
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "un t\xEDpico bodeg\xF3n de san telmo, la pizza en general es muy buena y la fugazzetta imperdible."
+    date: 29-12-2007
+    user: http://mi.guiaoleo.com/members/19883
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      La mejor pizza y milanesas de buenos aires. 
+      el queso y el aceite de primera algo que no encontre en ninguna otra pizzeria.
+      La milanesa es perfecta.
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/31505
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      es un lugar bueno dentro de todo, por lo clasico x supuesto y lo pintoresco. la comida es barata (hay platos como los ravioles que salen 10$) y esta bien. 
+      lo q hay en el menu se termina rapido (si se va tarde probablemente falte la mitad de lo q dice). el mozo de la noche es un personaje... a veces resulta simpatico, otra veces puede colmarte la paciencia. no es super limpito y la luz blanca es lo peor.
+    date: 08-08-2007
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: bueno

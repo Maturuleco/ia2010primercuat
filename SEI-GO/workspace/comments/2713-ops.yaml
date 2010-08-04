@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Muy buen ambiente, atendido por sus due\xF1os, la comida excelente. Sin duda volvere."
+    date: 07-02-2009
+    user: http://mi.guiaoleo.com/members/49607
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar absolutamente atipico. Donde se puede encontrar hoy, para el mediodia, cabrito,conejo,perdiz,rana, caracoles ,mas pastas preparadas en la mesa de al lado por el due\xF1o, mas todo lo que se les ocurra. Quiere ser algo fashio por la zona, no lo logra, la atencion es directa de los due\xF1os, y ests mas que bien. Un poquito mas de limpieza no le vendria mal. En definitiva, una carta asombrosa por la variedad y mas que corercta por la calidad."
+    date: 10-12-2008
+    user: http://mi.guiaoleo.com/members/32002
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Bodeg\xF3n peque\xF1o, pero con muy buena atenci\xF3n de sus due\xF1os, siempre muy serviciales y con ofertas de vinos para la cena o los almuerzos. Los platos son abundantes y se puede comer tranquilo sin que al comenzal se lo apure. LOs platos tienen la presentaci\xF3n casera, rustica y sabrosa con productos de calidad. Para volver con amigos."
+    date: 24-10-2008
+    user: http://mi.guiaoleo.com/members/3157
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La atenci\xF3n es muy amena, familiar. La ambientaci\xF3n es la de un t\xEDpico almac\xE9n, mostrador con el due\xF1o detr\xE1s conversando, las comidas caseras y abundantes. Para ir y conocer. Los precios son accesibles. Agradable."
+    date: 11-09-2008
+    user: http://mi.guiaoleo.com/members/48400
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "com\xED muy bien. tardan un poco. la bruschetta era demasiado comun. la carta de vinos es demasiado peque\xF1a. quieren aparentar ser un lugar al estilo Guido\xB4s Bar pero no da. Igualmente, demasiado caro para lo que es"
+    date: 06-09-2008
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "un lugar diferente, vale la pena conocerlo, la comida es buena, tiene variedades, mejorar\xEDa un poco la atenci\xF3n"
+    date: 11-12-2007
+    user: http://mi.guiaoleo.com/members/19400
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Nunca en mi vida comi tan mal, y fui tan mal atendido. EL lugar estaba vacio, solo habia una mesa mas, los langostinos y calamaretis estaban sin limpiar, parece que los recibieron, los sacaron de la bolsa, los pasaron por harina y los tiraron a la freidora, la pasta pasada de coccion, el lomo tambien sin limpiar, un desastre y encima nos atendieron de mala gana, el lugar tipico bodego oscuro. NO se con que estomago la gente come ahi, no vuelvo a pasar ni por la puerta. "
+    date: 17-11-2007
+    user: http://mi.guiaoleo.com/members/16066
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un simp\xE1tico lugar, donde se pueden comer variados y sabrosos platos, tranquilo con pocas mesas, un almac\xE9n fashion pero que vale la plena, comimos bien, la atenci\xF3n fue un poquito m\xE1s que buena, pero como se olvido un par de cositas, no habiendo tanta gente baja un punto, el lugar pintoresco, bah! un almac\xE9n, pero se come bien. ( ravioles de pato muy buenos).\r\n\
+      Para ir."
+    date: 07-09-2007
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: muy buena la comida y exelente atencion brindada por toda una familia.
+    date: 06-07-2007
+    user: http://mi.guiaoleo.com/members/26417
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelente la comida y la atenci\xF3n familiar. No dejen de probar el tiramis\xFA! "
+    date: 25-06-2007
+    user: http://mi.guiaoleo.com/members/9175
+    ambiente_rank: bueno

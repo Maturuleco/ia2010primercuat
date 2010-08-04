@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Restaurante peruano tur\xEDstico y familiar. Pocas mesas, ambiente distentido, servicio cercano. Los platos salen r\xE1pido y bien hechos. El pisco sour funciona para acompa\xF1ar. Las porciones son generosas"
+    date: 03-06-2010
+    user: http://mi.guiaoleo.com/members/65580
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy buen sitio para distenderse, es todo muy casero y con ricos sabores. Comi pollo con arroz, el precio no es caro y lo traen rapido. No vayan pretendiendo estar en un resto palermitano, porque no es asi, hay que ir sabiendo que es un lugar de barrio, muy familiar, con la tele prendida y ruidoso. Un 8.
+    date: 18-01-2010
+    user: http://mi.guiaoleo.com/members/75165
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La Orgia de Carones, riquisima... pero nada que ver a mi restauran preferido Cocoroco, que esta a la vuelta en Olzabal 2415, fui porq el otro estaba cerrado (lunes), no vuelvo..
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/21549
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Olor a desinfectante en todo el restaurant\r\n\
+      Pelicula de Bruce Lee en la TV. La sangre llegaba hasta el ba\xF1o\r\n\
+      Vino blanco: Lo fueron a comprar al quiosco de al lado. Estaba caliente.\r\n\
+      Caro en comparacion a otros restaurantes peruanos."
+    date: 13-01-2010
+    user: http://mi.guiaoleo.com/members/25247
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Una buena alternativa de comida peruana en Belgrano, pero hasta ahi nomas. Los platos son abundantes y bien elaborados. No hay mucha variedad en la carta. La atenci\xF3n es buena, la moz mostro predispocisi\xF3n para explicar qu\xE9 es lo que no conociamos."
+    date: 07-11-2009
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: bueno

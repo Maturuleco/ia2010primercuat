@@ -1,0 +1,91 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida, platos bien presentados y la carne en el punto pedido. Muy buena la atenci\xF3n."
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/79504
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El restaurante muy lindo. Muy rico
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/75188
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo excelente! Fuimos el domingo al mediod\xEDa a festejar el cumplea\xF1os de mi pap\xE1, pasamos un momento muy bueno desde que llegamos hasta que nos fuimos, tienen un servicio y calidad de comida espectacular, nos llevamos 2 botellas de vino de regalo y el descuento de American Express hace que el precio sea muy accesible."
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/82997
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: las carnes (pollo, vacio, asado y cerdo) una exquisites; las mollejas un placer. TODO sale como para que uno solo este pendiente de la eleccion del tema de conversacion. El rubro precios tambien esta muy alineado a la calidad del servicio.
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/19189
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Me encant\xF3 el lugar, la comida; pero sobretodo el servicio. Ellos saben describir sus platos que parece que tuviera muchsimo tiempo trabajando all\xED. Lo recomiendo."
+    date: 07-05-2010
+    user: http://mi.guiaoleo.com/members/78286
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un excelente lugar. Uno de los pocos en Bs As en que pod\xE9s comer la carne al punto que te gusta (a m\xED me gusta bien cocida y me la paso en todos los lugares devolviendo carne que llega cruda). Ac\xE1 sale como la pedis. Adem\xE1s el camarero est\xE1 super atento siempre y no ten\xE9s q estar luchando en que te atiendan. Los platos son abundantes y se pueden compartir. El ambiente es muy lindo. S\xF3lo le falta un convenio con el estacionamiento de al lado."
+    date: 06-05-2010
+    user: http://mi.guiaoleo.com/members/79031
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Voy a comer a este lugar desde hace mas de un a\xF1o, al menos 3 veces por semana, siempre al mediod\xEDa, cada vez que voy es igual, nunca se equivocaron en nada, muy buena calidad de carne y achuras (generalmente como ojo de bife y ri\xF1ones) y el tama\xF1o de las porciones, que no las achican por ser un men\xFA ejecutivo, muy bueno y r\xE1pido el servicio, que es fundamental por los tiempos que uno dispone al mediod\xEDa."
+    date: 05-05-2010
+    user: http://mi.guiaoleo.com/members/81477
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: fui un jueves a las 23 hs habia lugar muy buen ambiente al igual que la atencion lo que comi estaba muy bien,pedi cocido y me lo trajieron cocido.... no es barato pero en relacion precio producto y lugar me cierra
+    date: 23-04-2010
+    user: http://mi.guiaoleo.com/members/80649
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "De todas las parrillas a las que fuimos ultimamente, lejos la mejor de todas, el lugar es muy c\xE1lido (un poco ruidoso), lo mismo que el servicio, la comida \"espectacular\", carne tierna, sabrosa y en el punto solicitado y un postre que no recuerdo el nombre que combina helado, mousse de chocolate, dulce de leche y crema, un \"10\", Gracias!!!"
+    date: 09-04-2010
+    user: http://mi.guiaoleo.com/members/79728
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente por donde lo mires, voy siempre y cada vez se come mejor, impresionante el matambre de cerdo a la pizza terminado en horno de barro, gran servicio de parte de todo el personal, desde el chico de la recepci\xF3n hasta cualquiera de los mozos que te antiende, siempre excelente, seguir\xE9 yendo aunque no tengan el descuento de La Naci\xF3n."
+    date: 30-03-2010
+    user: http://mi.guiaoleo.com/members/79443
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comimos Pamplona y el Bife de chorizo, ambos en su punto justo, buenas empanadas, papas fritas espa\xF1olas bien secas y ensalada \"todo verde\". Todo muy bien y la atencion tbn. 162 mangos sin vino y sin postre. Si fuese un 15% mas barato seria ideal. S\xEDntesis, una parrilla 7 puntos."
+    date: 20-03-2010
+    user: http://mi.guiaoleo.com/members/18643
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Mmm... ninguna cosa de locos! El lugar es chico y muy bullicioso! la ambintacion es bien fea y el ba\xF1o horrible! Nada para destacar!"
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/33562
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: La comida nos gusto, la atencion fue muy buena y el precio razonable.
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/76245
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Personalmente la atenci\xF3n fue incre\xEDble. El mozo fue r\xE1pido y efic\xE1z en todo lo que le ordenamos. POr otro lado, yo me ped\xED el plato recomendado de esa noche que era Vac\xEDo con batatas y papas r\xFAsticas salseadas y unos vegetales. ESPANTOSO. Pero entienden lo que es algo espantoso para el paladar? Las papas y batatas recalentadas y fr\xEDas para cuando llegaron a la mesa. El vac\xEDo era grasa pura y hecho a la cacerola con un gusto a aceite que volteaba. Por otro lado mi t\xEDo pidi\xF3 Bife de chorizo con papas fritas y el vino de la casa y qued\xF3 choch\xEDsimo. Recomiendo la parrilla!"
+    date: 29-01-2010
+    user: http://mi.guiaoleo.com/members/75595
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente opcion en Las Ca\xF1itas. Lugar muy tranquilo y bien ambientado. Buena atencion y la comida excelente. Muy recomendable."
+    date: 02-11-2009
+    user: http://mi.guiaoleo.com/members/686
+    ambiente_rank: muy bueno

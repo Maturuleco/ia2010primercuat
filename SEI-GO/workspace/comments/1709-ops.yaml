@@ -1,0 +1,322 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente comida, realmente impecable.\r\n\
+      El \xFAnico detalle es que podr\xEDan poner m\xE1s mozos para atender el sector de arriba."
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/82013
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "comparto plenamente con otros comentarios para los que no saben en un momento fue pesimo todo, no se si si es el due\xF1o pero ahora hay alguien a quien recurrir ,cambio la comida en un 100 % altamente recomendable ,la atencion habria que mejorarla estan los mismos que antes pero vale volver ."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/82101
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fuimos un s\xE1bado al mediod\xEDa. Poca gente. Somosuna pareja con una hija. A decir verdad, escribo este comentario porque soy asiduo comensal de otro restaurante (muy conocido) del mismo tipo de comida. Unos amigos me hab\xEDan recomendado Garbis, no me convenc\xEDa. Debo decir que nos asombr\xF3. El Mahamara estaba deilicioso, el Hummus y el shis kebab de cordero muy por encima de lo que se ofrece en otros restaurantes de cocina armenia (y, creanme, los conozco todos). Dejar\xE9 de frecuentar donde voy siempre, y volver\xE9 a Garbis, sin contar que con el sal\xF3n infantil todo fu\xE9 mas ameno."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/57806
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Lo m\xE1s concreto que se puede decir es: si no lo conocen, vayan. Para mi gusto, la comida es excelente, y la opci\xF3n del buffet libre, para degustar distintos platos, es muy buena idea. La atenci\xF3n depende del mozo, he ido tres veces y ha sido desde superlativa en un caso hasta bastante mala en otro. No es barato, pero los domingos hay descuento y ah\xED s\xED el precio se hace muy conveniente."
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/19249
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un buen lugar para ir a comer el domingo al medio d\xEDa. Atenci\xF3n prolija y r\xE1pida. La c\xF3mida muy sabrosa y fresca. Con el descuento se convierte en una excelente opci\xF3n."
+    date: 02-05-2010
+    user: http://mi.guiaoleo.com/members/73096
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La comida es muy rica y variada, se nota que la misma no est\xE1 marcada ya que la demora que se observa en los platos calientes corresponde a su preparaci\xF3n. La mejor opci\xF3n es pedir los platos calientes antes de ir a los platos fr\xEDos para que cuadren los tiempos. La atenci\xF3n de los mozos podr\xEDa ser mejor ya que no est\xE1n tan atentos a las mesas y eso tiende a fastidiar a los comensales. Tienen lugar para los chicos, con computadora, televisi\xF3n y todo lo habitual que se encuentra en este sector, pero en el cuidado de los mismos podr\xEDan poner un poco m\xE1s de empe\xF1o. Detalles aparte se puede volver."
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/78865
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "A pesar de los comentarios que le\xED en la p\xE1gina, ayer fui a festejar mi cumplea\xF1os en Garbis y todav\xEDa no puedo creer lo riqu\xEDsimo que estaba  todo. Pedimos a la carta seg\xFAn nos recomend\xF3 el mozo una variedad de platitos fr\xEDos para arrancar. El pur\xE9 de garbanzos era delicioso y hab\xEDa un fiambre parecido el jam\xF3n crudo que era un sue\xF1o! Despu\xE9s pedimos el fierrito de pollo y nos lo trajeron lleno de verduras y papas. Est\xE1bamos tan llenos que solo nos qued\xF3 espacio para el caf\xE9 con borra. El precio nos pareci\xF3 adecuado y encima yo no pagu\xE9! Definitivamente para volver."
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/76449
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: |-
+      Vinos muy caros y calientes.... 
+      la comida pobre...el arroz duro .... crudo...
+      la carne a la parrilla quemada...
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/626
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es riqu\xEDsima (imposible encontrar algo as\xED en buenos aires), la atenci\xF3n es correcta, el ambientes est\xE1 espectacular y el precio es justo por lo que com\xE9s. Pasan los a\xF1os y sigue siendo uno de nuestros lugares preferidos para ir a comer."
+    date: 25-06-2009
+    user: http://mi.guiaoleo.com/members/64674
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Comimon genial, los sabores intactos. Muy familiar.Ya un clasico de Buenos Aires .Tienen un espacio para que los pibes lopasen bien. Muy bien. Para recomendar!!
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/64660
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Llegamos a las 22:45 y apenas nos sentamos empezo a apurarnos el mozo diciendo que la cocina cerraba a las 24. No nos dejo ni tiempo para elegir. Cuando terminamos el plato principal nos pidio que eligieramos rapido el postre porque la pastelera se iba. No habiamos terminado el postre todavia cuando se paro al lado nuestro mirando el reloj para que nos vayamos. Eran las 0:15! Una verguenza y falta de respeto total. No voy nunca mas porque la comida tampoco es gran cosa
+    date: 20-01-2009
+    user: http://mi.guiaoleo.com/members/22294
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hac\xEDa rato que no iba y me agrad\xF3 que no bajaran el nivel de la comida.La atenci\xF3n de los mozos muy buena.Los vinos est\xE1n en precio.Solo un detalle: me parece un desprop\xF3sito que cobre cubierto ($6)en un men\xFA libre, se supone que est\xE1 prorrateado en el valor del men\xFA."
+    date: 16-01-2009
+    user: http://mi.guiaoleo.com/members/12015
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Hace mucho pedimos a domicilio y aunque no es un lugar economico, nos dabamos el gusto bastante seguido... Se nos ocurrio ir a conocer, eramos 4 y pagamos $160 sin postre ni vino (y eso que no pedimos el menu libre). Nos decepciono mucho el precio xq realmente que cobren $6.50 por persona el cubierto nos parece una locura. Es una lastima porque el lugar es muy lindo y la atencion es buena, pero no iremos mas, seguiremos pidiendo a domicilio...
+    date: 27-11-2008
+    user: http://mi.guiaoleo.com/members/46002
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es la segunda vez que voy y habra muchas mas.  El mozo Sr. Ricardo nos atendio de manera excelente, no habia un plato que pedimos y nos consulto para cambiarlo.  Nos hizo esperar pero nos consiguio lo que queriamos. La comida deliciosa. Un poco caro quizas para menu libre pero vale la pena probarlo.  Parrafo aparte, la impecable limpieza de los ba\xF1os."
+    date: 30-10-2008
+    user: http://mi.guiaoleo.com/members/6894
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fui a Garbis recomendado, y tiene sus cosas positivas y negativas. La comida es bastante buena, y los mozos explican bien los platos, aunque a veces est\xE1n algo desatentos a las mesas. El ambiente no es malo, pero es demasiado simple, no justifica las tarifas ni que cobren cubierto. El precio es un tanto alto, porque una pareja que cena con un vino debe pagar $150, lo cual es excesivo. Regular."
+    date: 27-06-2008
+    user: http://mi.guiaoleo.com/members/17548
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Inmejorable atencion de el Mozo El Sr Oscar. Un lugar mas que recomendable, buena atencion fresca e inmejorable comida.
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/44931
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Este restaurante ha pasado por diferentes etapas, cuando implement\xF3 el men\xFA libre result\xF3 una buena idea por que permit\xEDa conocer diferentes platos a un precio razonable. Hoy considero que se les fue la mano $ 55.- el men\xFA libre sin bebidas ya era bastante caro, pero cobrar aparte un cubierto de $ 5.-!! lo considero absolutamente inadecuado, no corresponde y es el \xFAnico restaurante de men\xFA libre que lo hace. No ofrecen ning\xFAn servicio o atenci\xF3n que lo justifique. La comida no se corresponde con el nivel de precios, tampoco el ambiente, decoraci\xF3n ni servicio. Dos personas $ 150.-, sin cafe!!"
+    date: 04-04-2008
+    user: http://mi.guiaoleo.com/members/12207
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar est\xE1 muy feo decorado.\r\n\
+      La comida es muy buena pero bastante cara. El sistema tenedor libre es car\xEDsimo, vale la pena ir un d\xEDa de semana que es m\xE1s econ\xF3mico para probar varios platos t\xEDpicos diferentes.\r\n\
+      El ambiente es feo."
+    date: 16-03-2008
+    user: http://mi.guiaoleo.com/members/44328
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: El lugar es simpatico, la atencion a la entrada bastante amable y paremos por ahi. Humus con mayonesa es IMPERDONABLE en un lugar de comida Arabe/Armenia. el mozo era simpatico, pero habia que llamarlo porque solo nunca se acercaba a la mesa. Por el resultado final el precio es carisimo. No volvere mas.
+    date: 14-03-2008
+    user: http://mi.guiaoleo.com/members/37664
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: si,es un poco caro,pero como experiencia se justifica...buena la comida,pero superada ampliamente por el servicio,atento y cordial,los mozos muy bien predispuestos y amables,para orientar al cliente,para volver cada tanto,pero siempre volver.
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/6234
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: los brochettes son buenisimos, pero para mi hay que optar por comer a la carta. vale la pena ir
+    date: 24-02-2008
+    user: http://mi.guiaoleo.com/members/4543
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: buena comida, pero muy cara , hay mejores por el mismo precio
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Es dificil calificar a Garbis. Ejemplo...s\xE1bado mediod\xEDa, el men\xFA libre est\xE1 $ 35, sin bebidas, para un iniciado, hacer un recorrido por el extenso men\xFA, y as\xED conocer, no est\xE1 mal...\r\n\
+      Pero no podemos comparar  a Garbis, con los que \"juegan en primera\", en la comida de medio oriente en Bs as."
+    date: 02-02-2008
+    user: http://mi.guiaoleo.com/members/38971
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos con mi se\xF1ora a cenar y es un lugar muy agradable, salon comodo con refrigeracion,el mozo muy atento,la comida es muy buena, justo no abundante y el precio un poco alto, pero se justifica porque es muy rica. Recomendable."
+    date: 02-12-2007
+    user: http://mi.guiaoleo.com/members/13778
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Volvi despues de mucho tiempo. Me extra\xF1o al principio encontrar el lugar totalmente vacio, pese a que eran casi las 13:00.  Me fui despues de las 15:00 con cuatro mesas ocupadas...\r\n\
+      Motivo: precios deshorbitados! La buena variedad de postres de otros tiempos se esfumo. La calidad de la comida tampoco es la misma, pero los precios se dispararon injustificadamente.  No vuelvo nunca mas."
+    date: 02-12-2007
+    user: http://mi.guiaoleo.com/members/13476
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Cada vez que voy lo noto m\xE1s y m\xE1s desmejorado. Antes era un lujo ir a comer a Garbis, pero esta vez, por m\xE1s que nos atendieron muy bien y fuimos con amigos, con la idea de pasarlo bien, no qued\xE9 conforme. Basta con decir que el tabbouleh estaba hecho con morr\xF3n y no con tomate, lo que le daba un gusto extra\xF1o. Supongo que fue porque esa semana el tomate estaba caro, pero convengamos que  a pesar de ser tenedor libre, no fue para nada barato. Los postres estaban algo mejor. Hac\xEDa mucho calor arriba... en fin, esperaba m\xE1s. Y en enero mi marido volvi\xF3 con unos amigos y tampoco sali\xF3 conforme."
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/36102
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "En mi caso eleg\xED la opci\xF3n de la carta (Hay libre) Se destaca la atenci\xF3n del mozo, estuvo todo el tiempo asesorando y pendiente de la mesa (sin contar las invitaciones para que probara un poco m\xE1s de variedad) La comida es muy condimentada (sin ser picante) muy sabrosa. Las mesas no est\xE1 muy juntas.\r\n\
+      Hay Lugar para los chicos, con disfraces, Juegos, pel\xEDculas (muy importante si se tienen ni\xF1os)."
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/26295
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui varias veces al restaurant pero esta vez pedi comida por el delivery. Pedi Pastron con farfalej y kippes fritos. Estaban muy ricos pero las porciones son pauperrimas y los precios excesivamente caros. En la lista que est\xE1 publicada en la web figura que algunos platos (por ejemplo el pastrami) son \"para dos personas\" pero la cantidad que env\xEDan apenas es para uno (sin mucho apetito). A duras penas hab\xEDa dos fetas de pastr\xF3n cortadas en pedacitos! No volver\xEDa a pedir delivery de ah\xED, es un enga\xF1o!"
+    date: 08-10-2007
+    user: http://mi.guiaoleo.com/members/15741
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Elegimos el menu libre, probamos varios platos tanto entradas como platos principales y todos muy sabrosos. \r\n\
+      El mozo que nos atendio nos supo recomendar y explicar el contenido de cada plato, a la vez que estuvo muy atento a todo lo que necesitabamos. \r\n\
+      Lo original que tienen es que si alguien no se anima a probar la comida tipica armenio arabe poder elegir un bife con papas fritas y pollo a la parrila si es que mal no recuerdo. "
+    date: 17-09-2007
+    user: http://mi.guiaoleo.com/members/14231
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente atencion, el mozo muy bien predispuesto a aconsejarnos, elegimos la opci\xF3n de men\xFA libre para poder probar varias cosas y las sugerencias fueron excelentes. Vamos a volver. "
+    date: 20-08-2007
+    user: http://mi.guiaoleo.com/members/6894
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tienen tres \"modos\" de men\xFA: premium, libre y a la carta. El premium est\xE1 compuesto de tres platos a un precio fijo, el libre tambi\xE9n tiene precio fijo pero la cantidad de platos la defin\xEDs acorde a tu apetito y a la carta es el modo tradicional. Mi esposa y yo nos decidimos por este \xFAltimo. Arrancamos con unas hojas de parra que conten\xEDan en su interior carne sazonada con arroz, riqu\xEDsimas, y una ensalada con morr\xF3n rojo y verde, aceitunas griegas (esas que son arrugadas), cebolla, queso feta, tomate, pepino, menta, etc. Todos vegetales muy frescos, cortados en cuadraditos. Muy rica en verdad. Seguimos con una condimentada carne picada en forma cil\xEDndrica, apoyada sobre un colch\xF3n de cebollas doradas y crema. Excelente. Nos encant\xF3. El postre fue el baklava que siempre pedimos y el caf\xE9 t\xEDpico. La atenci\xF3n fue muy buena. Vale aclarar que hay platos tradicionales tambi\xE9n, o sea, pod\xE9s pedir un bife de chori con guarnici\xF3n o pastas. \r\n\
+      Tambi\xE9n tienen vinos en promoci\xF3n: pag\xE1s uno y llev\xE1s dos. Restaurante muy recomendable por la relaci\xF3n precio/calidad y la atenci\xF3n."
+    date: 13-08-2007
+    user: http://mi.guiaoleo.com/members/19152
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El lugar es ideal para degustar diferentes sabores muy bien logrados, la variedad es mas que amplia, los mozos copados y el costo logico, muy recomendable, no olvidar dejar lugar para varios postres.
+    date: 09-08-2007
+    user: http://mi.guiaoleo.com/members/24600
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Iba mucho cuando no era precio fijo. Aun ahora mantienen razonablemente la calidad. Uso mucho el delivery o paso y compro en el local de venta al publico. Vuelvo siempre. Vuelvo siempre
+    date: 13-07-2007
+    user: http://mi.guiaoleo.com/members/19430
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "no es comida tradicional, esta argentinizada, pero si la idea es probar de todo, ir con amigos o familia (hay platos argentinos para los que no se animan y menues infantiles como bifecito de lomo con pure, ideal porque fui con mis ni\xF1as de 1 y 3 a\xF1os) es EL lugar. el lugar es muy lindo, atencion cordial y sala de juegos CON NI\xD1ERA!!Lo recomiendo "
+    date: 28-06-2007
+    user: http://mi.guiaoleo.com/members/18476
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Cene un d\xEDa de semana. Poca gente pero muy calido el lugar. Personalmente no me gusta mucho el sistema bufet, y hubiese preferido una degustaci\xF3n de los platos sugerida por la casa ya sea de calientes y frios. Pero en lineas generales es un buen lugar de comida Armenia, aunque en el tema nada supere a Sharkis."
+    date: 28-05-2007
+    user: http://mi.guiaoleo.com/members/10633
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: el mozo sabia menos de comida armenia q yo q nunca habia ido ahi. igual la comida muy rica, aunque algo aceitoso el keppe q supuestamente era a la parrilla.
+    date: 20-05-2007
+    user: http://mi.guiaoleo.com/members/20312
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Comida rica abundante muy condinmentada.
+      Ambiente bueno, muy poca gente, buen precio.
+    date: 22-04-2007
+    user: http://mi.guiaoleo.com/members/21473
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n y recomendaciones del mozo fueron muy buenas. El ambiente es excelente y el precio adecuado. \r\n\
+      Debo destacar que fui con mis dos hijas de dos a\xF1os y pude dejarlas al cuidado de la ni\xF1era sin preocuparme, el espacio de juegos es suficiente para varios chicos."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/18841
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Decidimos elegir la posibilidad de comer libremente por un valor de $35 sin bebidas, el precio en relaci\xF3n a la comida me parece que es bueno. En cuanto a los sabores y la variedad, el mozo nos sugiri\xF3 que comer y realmente no se equivoco. Pudimos degustar platos fr\xEDos, vale destacar la higiene mantenida en las bandejas y el cuidado porque no se mezclen los sabores, destaco el pollo al curry y las berenjenas rellenas con tomate y ajo. Despu\xE9s pasamos a los platos calientes y de estos destaco el arroz pilaf y los brochettes (no recuerdo el nombre real). Un lugar recomendable."
+    date: 28-01-2007
+    user: http://mi.guiaoleo.com/members/15081
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "muy caro, fui con mi hija de dos a\xF1os, la paso bien en el lugar para ni\xF1os."
+    date: 28-11-2006
+    user: http://mi.guiaoleo.com/members/13905
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es una opci\xF3n de tenedor libre para ir con mucho hambre. Sino, mejor optar por comer a la carta. Rica comida y buena variedad. Al ambiente le falta algo que le aporte calidez. Especial para ir en familia."
+    date: 04-11-2006
+    user: http://mi.guiaoleo.com/members/10443
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar para chicos est\xE1 muy bueno. Tiene disfraces de princesas y super h\xE9roes. Tambi\xE9n pueden dibujar. La comida no es genial, pero est\xE1 bien. Te traen algunos platitos de regalo: detalle de lo m\xE1s simp\xE1tico. "
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/13131
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buen lugar, la comida excelente y el precio espectacular en relaci\xF3n. L\xE1stima la recepcionista que atiende de muy mala manera y le saca a uno las ganas de volver. M\xE1s all\xE1 de eso, el restaurante vale la pena el mal trago del recibimiento."
+    date: 18-07-2006
+    user: http://mi.guiaoleo.com/members/10294
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El servicio bastante malo y eso que no estaban todas las mesas ocupadas. \r\n\
+      Hubo que repetirle al mozo varias veces lo que uno quer\xEDa."
+    date: 09-07-2006
+    user: http://mi.guiaoleo.com/members/9998
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buen lugar para comida de medio oriente. \r\n\
+      Es muy recomendable para ir con muchas ganas de comer. \r\n\
+      Una buena opci\xF3n variedad de platos."
+    date: 20-05-2006
+    user: http://mi.guiaoleo.com/members/7751
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un lugar realmente agradable en el cual uno tiene la posibilidad de probar distintos platos, ya que se puede optar por men\xFA libre.\r\n\
+      La atenci\xF3n y la comida son muy buenas. \r\n\
+      Un lugar recomendable para aquellos que quieren probar algo nuevo y ex\xF3tico."
+    date: 19-04-2006
+    user: http://mi.guiaoleo.com/members/1754
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena comida y buen servicio pero un poco caro.
+    date: 09-09-2005
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "No se justifica ese precio por lo que hay para comer... como es tenedor libre pero atendido en las mesas, tardan mucho en traer la comida y uno se cansa tanto de esperar que no quiere seguir pidiendo!\r\n\
+      Los platos no son hechos como los t\xEDpicos. No me gusto!"
+    date: 03-06-2005
+    user: http://mi.guiaoleo.com/members/2029
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Totalmente recomendable, no dude en conocer este lugar. LA comida es sabros\xEDsima y contiene lso aormas y sabores originales de Oriente Medio. Se puede degustar de todo aprovechando el men\xFA libre. Lso mozos explican con cordialidad los platos a los ne\xF3fitos. La decoraci\xF3n est\xE1 muy cuidada, hasta en los ba\xF1os. Hay un pelotero donde los ni\xF1os adem\xE1s pueden disfrazarse y pasar un agradable rato mientras sus padres deleitan su paladar. Uno de los mejores lugares de la ciudad."
+    date: 14-05-2005
+    user: http://mi.guiaoleo.com/members/1807
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "TODO MAL! De comida oriental esto tiene muy poco..\xBFDe donde es ese chef? No se en el resto de los locales pero en la sucursal de almagro el tabule parece ensalada criolla (\xBFy el trigo?); el kepe no es mas que una triste alb\xF3ndiga y el arroz pilaf carece de fideos... Si quieren sentir un sabor oriental no vayan a este lugar que de tan multi-gastronomico falta a la promesa de \"Comida de Medio Oriente\"... Ejemplo: En la carta hay milanesas...."
+    date: 08-05-2005
+    user: http://mi.guiaoleo.com/members/1825
+    ambiente_rank: bueno

@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      El lugar es agradable particularmente las mesas que estan en la calle.
+      La atencion de los mozos correcta.
+      La comida llego muy rapida pedimos salmon con vegetales al wok que era comible aunque insipido y un pollo al ajillo, que no tenia sabor alguno pero cuando se le sacaba la salsa se notaba que el pollo habia sido grillado.
+      No nos gusto y no pedimos postre
+    date: 02-02-2009
+    user: http://mi.guiaoleo.com/members/25918
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "no s\xF3lo hay pizza. han incorporado una variedad acotada de platos de cocina tradicional/moderna incluyendo cerdo, trucha, salm\xF3n, pollo, lomo y bife de chorizo en varias presentaciones. la atenci\xF3n es buena porque a pesar de ser un lugar muy concurrido, disponen de muchos mozos."
+    date: 30-08-2008
+    user: http://mi.guiaoleo.com/members/17939
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hemos ido muchas veces a tomar caf\xE9 o cerveza y es hoy la primera vez que nos atienden en forma amable y esmerada. Las empanadas son grandes, de masa casera y realmente apetitosas. La pizza es rica y el ambiente, como siempre, agradable."
+    date: 28-04-2008
+    user: http://mi.guiaoleo.com/members/35098
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un lugar al que sol\xEDa concurrir con frecuencia, pero baj\xF3 su calidad y subieron sus precios. Pedimos unos bastones de muzzarella con dos gancias y llegaron primeros los bastones y 10 minutos despu\xE9s el gancia. Encima los ingredientes que acompa\xF1aban los tragos eran unos m\xEDseros man\xEDes. Cuando les pedimos unas pap\xE1s, nos cobraron aparte, como si los tragos no fueran suficientemente caros. Adem\xE1s, como nos pusieron mantel nos cobraron el cubierto. Pretencioso, caro y no lo justifica en absoluto. Solo para extranjeros."
+    date: 19-01-2008
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "T\xEDpico del Village Recoleta: Comida p\xE9sima, atenci\xF3n sobreactuada, ambiente pretencioso y precios rid\xEDculos. Que decepci\xF3n, por favor."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/18970
+    ambiente_rank: bueno

@@ -1,0 +1,27 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Un clasico de belgarno. La tencion es increible y la comida tiene un exquisito sabor. es mas bien para ir con amigos a comer pizza y a tomar cerveza, sobretodo si hay partido de futbol.:(
+      A la noche el lugar cambia y se torna mas familiar.
+    date: 19-04-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "\xA1muy buenas pizzas!"
+    date: 15-02-2008
+    user: http://mi.guiaoleo.com/members/3167
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "En San Cayetano todo parece exagerado, menos el precio. Los tostados de jam\xF3n y queso desbordan del plato, los licuados de frutas ocupan dos vasos inmensos, los mozos derrochan simpat\xEDa y hospitalidad, las mesas se vuelven multitudinarias y familiares... Entre lo negativo est\xE1 el gran bullicio y el calor, que en horas pico se vuelve agobiante en las mesas m\xE1s internas. El lugar no es para una cita rom\xE1ntica, pero s\xED es muy recomendable para ir con familia y amigos. Muy buen precio y un trato \"como en casa\", una rara avis para esa zona de Belgrano."
+    date: 10-12-2007
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Lugar para ir con amigos a comer pizza y tomar cerveza, los precios son accesibles.
+    date: 08-12-2005
+    user: http://mi.guiaoleo.com/members/5027
+    ambiente_rank: malo/regular

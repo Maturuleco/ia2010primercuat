@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar con mucha onda! Tiene un clima muy distendido y el d\xEDa que fuimos cay\xF3 fabiana cantilo y cant\xF3 hasta las 5 am. Genial"
+    date: 17-04-2010
+    user: http://mi.guiaoleo.com/members/81647
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un hermoso lugar para ir con la pareja. El vagon esta muy bien ambientado. La carta y la carta de vinos no es muy extensa, pero si muy fresca y rica la comida.La atencion muy buena y sobretodo MUY LIMPIO.No es barato pero tampoco tan caro. ES RECOMENDABLE.
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/44082
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Recomendable
+    date: 23-01-2010
+    user: http://mi.guiaoleo.com/members/1985
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un lugar interesante, con un sal\xF3n muy bien ambientado. La carta de platos es variada y la de los vinos m\xE1s a\xFAn. Los platos son buenos pero no justifican los precios por dem\xE1s excesivos. Lo bueno del lugar es el sal\xF3n. Lo malo son los precios MUY CAROS."
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/75535
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar, y sobre todo porque tiene comida para cel\xEDacos que es muy dificil de encontrar restoranes que nos tengan en cuenta. Lo recomiendo"
+    date: 16-12-2009
+    user: http://mi.guiaoleo.com/members/73756
+    ambiente_rank: muy bueno

@@ -1,0 +1,100 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Es un cafe clasico con buena calidad gastronomica en minutas, sandwiches, pizzas, etc.
+    date: 20-01-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Odio este lugar. Es suma, pero sumamente caro y la gente que va ahi se siente siempre superior a todo el resto. S\xF3lo tomamos caf\xE9, estaba aguado y result\xF3 muy caro, promedio de $20 por persona!!! Para variar, el mozo nos pregunt\xF3 si \"hac\xEDa falta que nos trajera el vuelto\" (el vuelto era de $7). No entiendo por qu\xE9 hacerle tanta fama, yo no vuelvo m\xE1s, hay otros miles de lugares en la misma zona con mejor servicio, mejor comida y mejores precios."
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/51429
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es una esquina clasica, ideal para ir a tomar algo sin esperar demasiado.
+    date: 10-05-2009
+    user: http://mi.guiaoleo.com/members/58375
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es impagable, de chiquita sol\xEDa ir. Se nos ocurri\xF3 almorzar ah\xED. No solo el mozo nos atendi\xF3 realmente muuuuy mal (tuvo que venir el encargado a atendernos), sino que tambi\xE9n los precios resultaron excesivamente caros. Un sandwich de 4 rodajas de pavita y 2 rodajas de tomate 40$! sin condimento, sin acompa\xF1amiento, nada.\r\n\
+      Solo para tomar un cafecito y sin que te atienda ese mozo desagradable afuera."
+    date: 26-12-2008
+    user: http://mi.guiaoleo.com/members/48268
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Un lugar de privilegio en Recoleta que perdura a trav\xE9s de los a\xF1os.S\xF3lo objetable la atenci\xF3n decadente de algunos mozos que pareciera que desean no tener p\xFAblico.Tal vez equivocaron su vocaci\xF3n?"
+    date: 10-11-2008
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un cl\xE1sico de recoleta, para tomar el t\xE9 o simplemente un caf\xE9."
+    date: 01-06-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es ssimplemente un cl\xE1sico. No hay que ir a buscar la nueva cocina ni grandes chefs. Un desayuno en la ventana, pedir t\xE9 con tostadas, y llevar el diario; eso es todo.\r\n\
+      Un lugar lindo y pintoresco, ameno, agradable, cl\xE1sico, con un muy buen ambiente, y una atenci\xF3n que var\xEDa entre los distintos mozos, pero que en general no baja de buena.\r\n\
+      Las mesas en la calle son una excelente opci\xF3n para fumadores, bajo los \xE1rboles y frente a la plaza y la iglesia.\r\n\
+      \r\n\
+      Saludos,\r\n\
+      S."
+    date: 18-02-2008
+    user: http://mi.guiaoleo.com/members/37555
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Un tradicional lugar para desayunar en la Recoleta... gran ambiente y lo demas esta bien, aunque sin deslumbrar.  Un clasico de Buenos Aires.
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar cl\xE1sico con una ubicaci\xF3n privilegiada. Recomendable s\xF3lo para tomar un caf\xE9"
+    date: 03-09-2007
+    user: http://mi.guiaoleo.com/members/20593
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Excelente ubicacion, tradicional, tranquilo, desfile de personajes y turistas, con comida a tono y muy buen cafe y servicio, vale por el lugar donde esta. Para volver. "
+    date: 23-08-2007
+    user: http://mi.guiaoleo.com/members/29395
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente y t\xEDpico lugar de Buenos Aires. Yendo un martes a la noche hay muy poca gente y se puede disfrutar de un lindo lugar para charlar tranquilo mientras tom\xE1s un rico caf\xE9. Recomiendo."
+    date: 27-03-2007
+    user: http://mi.guiaoleo.com/members/13027
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fuimos un s\xE1bado a las doce de la noche, hicimos el pedido y antes de traerlo empezaron a bajar las cortinas y nos dejaron encerrados. Terminamos tomando lo que pedimos as\xED. No vuelvo."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/18620
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Una esquina cl\xE1sica y cara. Para ver de afuera, mejor. Lindo pero no vale $28 un sandwich de lomito completo. La atenci\xF3n est\xE1 bien, pero lleno de gente un domingo  se desborda y se pierden un poco.\r\n\
+      Claro que hay que reclamarle la factura, para que la van a traer si est\xE1 lleno de turistas, les da lo mismo."
+    date: 11-02-2007
+    user: http://mi.guiaoleo.com/members/10003
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El ambiente y la ubicaci\xF3n espectacular, el servicio muy bueno, el mozo muy atento hasta nos tom\xF3 fotos, la comida buena y las porciones bien servidas, lo que me encantaron fueron los panqueques sobre todo el de manzana."
+    date: 09-10-2006
+    user: http://mi.guiaoleo.com/members/13370
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Tradicional, ubicado en el corazon de la Recoleta, un "point". 
+      Se ve gente, se encuentra gente... y todos los turistas que quiera.
+    date: 10-09-2006
+    user: http://mi.guiaoleo.com/members/8668
+    ambiente_rank: excelente

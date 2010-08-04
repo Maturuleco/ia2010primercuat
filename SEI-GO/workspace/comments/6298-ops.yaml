@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui por una recomendaci\xF3n al mediod\xEDa, pero fue una gran decepci\xF3n, ten\xEDan solo 4 men\xFAes casi id\xE9nticos y muy b\xE1sicos, de la carta que es bastante breve, casi no hab\xEDa nada la carne no estaba muy buena y la ensalada me la dieron condimentada sin siquiera preguntarme, \r\n\
+      de postre la opci\xF3n era helado o helado, el caf\xE9 fr\xEDo... el mozo, aunque quer\xEDa ser atento pero era inexperto, por suerte queda la opci\xF3n de no volver."
+    date: 27-04-2010
+    user: http://mi.guiaoleo.com/members/80932
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "P\xE9simo: uno no va a un restaurant boutique esperando una gran cantidad de platos, pero s\xED que los platos que tienen, en su mayor\xEDa, esten...elegimos el menu armado (3 platos) sin que nos dijeran que de las 5 opciones de principal s\xF3lo hab\xEDa 2 y de los 5postres s\xF3lo 2; con el vino paso otro tanto, estabamos entre dos (de los 9 que tienen) y tenian uno solo de los preseleccionados; la atenci\xF3n si bien le puso ganas el pobre no tenia ni idea; el lugar es lindo pero por s\xED solo no justifica ni de cerca mortificarse de tal manera..."
+    date: 22-04-2010
+    user: http://mi.guiaoleo.com/members/81890
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Muy buena opci\xF3n para ir en pareja. Fuimos el d\xEDa de los enamorados y el men\xFA era barato y de buena calidad. Para destacar la atenci\xF3n y sobre todo el ambiente."
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/6849
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "berenjena cruda en la ensalda!!!\r\n\
+      el boeuf bourguignon, un asco...\r\n\
+      adentro frio con partes oscuros afuera,\r\n\
+      ya s\xE9 que es slow food, igual podrian dar vuelta en horno\r\n\
+      microondas..."
+    date: 13-01-2010
+    user: http://mi.guiaoleo.com/members/57976
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es la 3ra o 4ta vez que vamos a cenar ah\xED. Es un lugar muy agradable con una excelente atenci\xF3n. La comida es muy rica y est\xE1 muy bien presentada. S\xFAper recomendable."
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/8473
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El ambiente es excelente y la comida riquisima. La pase muy bien y definitivamente volveria a ir.
+    date: 07-12-2009
+    user: http://mi.guiaoleo.com/members/59425
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tiene espacios muy agradables. Nos toco una noche fresca cerca del hogar y se disfruta mucho el lugar. En el exterior tiene dos patios con mesas y supongo que se puede disfrutar mucho una noche calida. La atenci\xF3n fue buen\xEDsima. La carta no logra expresar, a mi entender, un estilo. Todo vale: parrilla, junto a comida gourmet y kebab. La comida muy buena, la tartare de salm\xF3n con un sabor exquisito al igual que los raviolones de salm\xF3n, al igual que los postres. Es muy altamente recomendable"
+    date: 05-09-2009
+    user: http://mi.guiaoleo.com/members/7253
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un excelente lugar , muy buena atenci\xF3n y una calidad de cocina comparable con las mejores.La carta no tiene un estilo definido y quizas es ligeramente mezquina, a pesar de lo cual altamente recomendable"
+    date: 05-09-2009
+    user: http://mi.guiaoleo.com/members/5255
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar distinto en Palermo, distendido, agradable, un hogar a le\xF1a,una excelente calidad y atencion, altamente recomendable, es para tomarlo como una opcion semanal."
+    date: 30-07-2009
+    user: http://mi.guiaoleo.com/members/66608
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      muy buena la comida, y muy bueno el menu del mediodia.
+      altamente recomendable
+    date: 30-07-2009
+    user: http://mi.guiaoleo.com/members/66600
+    ambiente_rank: muy bueno

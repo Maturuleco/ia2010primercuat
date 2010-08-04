@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Es una excelente opci\xF3n para los mediodias; tiene una muy buena relacion precio/calidad y las porciones son muy abundantes. La contra es que tardan muchisimo en atender y traer los platos. Recomendable el bife con batatas. "
+    date: 26-07-2007
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se come bien. Muy buena relaci\xF3n precio/calidad."
+    date: 21-05-2007
+    user: http://mi.guiaoleo.com/members/23470
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente relaci\xF3n precio/calidad...con 2 mozos m\xE1s mejorar\xEDa much\xEDsimo la velocidad de atenci\xF3n."
+    date: 20-05-2007
+    user: http://mi.guiaoleo.com/members/23463
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Para comer en un mediodia de laburo est\xE1 m\xE1s que bien, los platos son buenos como as\xED sus precios. Recomendable."
+    date: 16-05-2007
+    user: http://mi.guiaoleo.com/members/10904
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Fu\xED un mediod\xEDa. Hay 5/6 opciones del d\xEDa con men\xFA ejecutivo. Los platos son buenos, demasiado salados para mi gusto, pero mucho m\xE1s no se puede pedir por ese precio.\r\n\
+      Com\xED unos ricos escalopes y pur\xE9 \"rustico\", que de rustico solo ten\xEDa unas hojitas de perejil....\r\n\
+      Un punto en contra es que la atenci\xF3n es muy lenta, hay solo un mozo por sector por lo que la espera es matadora.\r\n\
+      \r\n"
+    date: 12-02-2007
+    user: http://mi.guiaoleo.com/members/15797
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fuimos varias veces a hacer uso del men\xFA ejecutivo al mediod\xEDa. \r\n\
+      La verdad se come muy bien, platos originales y bien presentados, pero demoran mucho en atender y en servir la comida."
+    date: 19-07-2006
+    user: http://mi.guiaoleo.com/members/10321
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena relaci\xF3n precio/calidad, en buen ambiente."
+    date: 03-05-2006
+    user: http://mi.guiaoleo.com/members/8207
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es una buena relaci\xF3n precio/calidad con un buen postre en el men\xFA ejecutivo."
+    date: 02-05-2006
+    user: http://mi.guiaoleo.com/members/8210
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente relaci\xF3n precio/calidad."
+    date: 06-03-2006
+    user: http://mi.guiaoleo.com/members/6827
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy buena relaci\xF3n calidad/precio."
+    date: 16-02-2006
+    user: http://mi.guiaoleo.com/members/6451
+    ambiente_rank: excelente

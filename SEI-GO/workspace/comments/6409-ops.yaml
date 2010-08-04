@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hac\xEDa tiempo que no iba a Tucson de Recoleta porque las \xFAltimas veces no nos hab\xEDa gustado el servicio, hoy puedo decir que fue bueno y con la comida jam\xE1s tuvimos problemas, eso s\xED, los precios aumentaron mucho en relaci\xF3n a lo que se gastaba 1 a\xF1o atr\xE1s, pero la culpa de de Cristina, N\xE9stor, An\xEDbal, Guillermo, etc........"
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/81477
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente, prob\xE9 el Saint Xavier del Back Steak y realmente me encanto! La atenci\xF3n muy buena. Para recomendar y volver."
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/73084
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Mas o menos. Guacamole sin personalidad y sin el toque de picante propuesto por la lista, langostinos aceptables, sin particularidades.
+    date: 29-11-2009
+    user: http://mi.guiaoleo.com/members/72893
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Solia ir hace un tiempo por la calidad y coccion del salmon. Afortunadamente eso sigue igual. Muy ricos pescados. No obstante, el servicio es malo ya que apuran y te bombardean con los platos sin dejarte disfrutar del momento. En definitiva, buena opcion para la zona aunque por unos pesitos mas me voy al lado.
+    date: 29-10-2009
+    user: http://mi.guiaoleo.com/members/53321
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "La ambientaci\xF3n es excelente, al igual que el servicio, pero si bien la comida es buena (y no excelente) es muy caro para lo que ofrecen en general."
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/49610
+    ambiente_rank: excelente

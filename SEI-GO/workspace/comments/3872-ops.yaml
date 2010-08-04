@@ -1,0 +1,35 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      buena pizza, del tipo de masa alta, las empanadas de carne cortada a cuchilla muy buenas. Tiene menus y sandwiches al mediodia.
+      El precio es muy bueno y la relacion costo producto hace que uno vuelva. 
+      Al local no se le puede pedir mucho, esta en el medio de un quilombo de transito y demas. Igual la atencion es esmerada. 
+      Ideal estudiantes.
+    date: 06-11-2009
+    user: http://mi.guiaoleo.com/members/15501
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "No he tenido oportunidad de visitar el local, pero las empanadas son buen\xEDsimas, tipo caseras y el servicio es muy bueno. No recomiendo las pizzas."
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/67166
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente relaci\xF3n precio-calidad. En general pedimos delivery. Las empanadas son muy variadas y altamente recomandables."
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/18323
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Sol\xEDamos ir muy seguido con compa\xF1eros de la facultad despu\xE9s de clases, en general comiamos piza; pero alguna que otra vez he probado otros platos y la comida en general es muy buena, aunque no muy variada. S\xF3lo un vidrio separa a Parada Puan de la Av. Rivadavia por lo que el ambiente es muy poco tranquilo.  Pero en general, al paso, es un buen lugar. La antenci\xF3n es buena."
+    date: 15-07-2008
+    user: http://mi.guiaoleo.com/members/54880
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy buena atencion y a un precio moderado
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/44942
+    ambiente_rank: bueno

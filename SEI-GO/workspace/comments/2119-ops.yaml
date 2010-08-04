@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Hace cuatro a\xF1os que como ahi, Horacio siempre me da lo mejor, las pastas son unas de sus mejores comidas."
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/35037
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Platos muy ricos y abundantes.\r\n\
+      Servicio bastante r\xE1pido aunque el lugar est\xE9 a full.\r\n\
+      Siempre es recomendable pedir las sugerencias del cheff de la primer pagina del menu. Muy buena relaci\xF3n costo/calidad."
+    date: 28-08-2007
+    user: http://mi.guiaoleo.com/members/25934
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Suelo ir al mediodia, por cercania del trabajo. Hay que ir sin tener en mente alguna comida en especial y simplemente decirle a Horacio, el mozo, \"Horacio, traeme lo que quieras\", que hasta en ciertas ocasiones trae tambien lo que quiere por m\xE1s que hallamos ordenado otra cosa. Siempre la atencion es excelente, el unico inconveniente es que suele llenarse, pero vale la pena esperar algunos minutos hasta que se libera una mesa. Precio accesible y comida acorde."
+    date: 24-07-2007
+    user: http://mi.guiaoleo.com/members/6396
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Adecuado para almorzar en el microcentro. Horacio es un fen\xF3meno."
+    date: 27-09-2006
+    user: http://mi.guiaoleo.com/members/7675
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Pedir sugerencias al mozo Horacio.
+    date: 18-01-2006
+    user: http://mi.guiaoleo.com/members/5907
+    ambiente_rank: muy bueno

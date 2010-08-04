@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: opino lo mismo al que dice "es para sacarse el hambre",nada de otro mundo, una tipica pizzeria de barrio.
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/40635
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: pedimnos en delivery exelente comida a muy buen precio comimos los dos con postre por 30 pesos
+    date: 21-01-2008
+    user: http://mi.guiaoleo.com/members/23187
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Vivo en la misma cuadra, as\xED q lo prob\xE9 varias veces. Es un lugar familiar, los platos son tradicionales, la pizza, las pastas caseras son riqu\xEDsimas.  El resto de los platos est\xE1n bien, pero no son nada del otro mundo, es barato, as\xED la relaci\xF3n precio-plato est\xE1 bien.  \r\n\
+      Atienden muy bien, el ambiente es tranquilo-aburrido y siempre est\xE1 la tele encendida con canales deportivos."
+    date: 03-01-2007
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Es para sacarse el hambre, ya sea en el local como por delivery.
+    date: 22-03-2006
+    user: http://mi.guiaoleo.com/members/5
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar de paso, la comida es rica, los ba\xF1os sin luz, horrible."
+    date: 07-02-2006
+    user: http://mi.guiaoleo.com/members/5706
+    ambiente_rank: malo/regular

@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La carta es variada y con las pretenciones justas. Tiene una buena relaci\xF3n calidad/precio pero los platos no se pueden compartir de ninguna manera. Recomiendo tanto los sandwiches como la pizza que es exquisita y tama\xF1o personal. El lugar es muy tranquilo y super c\xF3modo. Muy recomendable tambi\xE9n todas las tortas, muy originales y frescas!"
+    date: 23-02-2010
+    user: http://mi.guiaoleo.com/members/14880
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fue tarde noche, tomamos un t\xE9 y un Capuchino con la opci\xF3n de probar de mesa de dulce.Venia con una torta a elecci\xF3n, tostadas, jugos de naranjas, mermelada, queso y dulce de leche, todo en abundancia. Excelente presentaci\xF3n y muy ricas cosas."
+    date: 04-12-2009
+    user: http://mi.guiaoleo.com/members/24537
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Muy lindo lugar para tomar el t\xE9 con exquisitas tortas y reposter\xEDa. Es una vieja casa con mesas en los distintos ambientes en la que tambi\xE9n algunos d\xEDas de la semana sirven comidas por la noche. Solo opino respecto al servicio de t\xE9 en el que lo peor resulta la atenci\xF3n, con mozas muy j\xF3venes que tardan much\xEDsimo en atender, se olvidan los pedidos y no logran nunca que todo llegue a la mesa al mismo tiempo."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Sabes que cuando vas a Como en Casa vas a comer muy bien, pero las chicas en este local son muy descuidadas, quiz\xE1s se debe a que el lugar es muy grande, nose, pero soy mas habitue de el de laprida ya que ah\xED son mas amables."
+    date: 19-07-2009
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: malo/regular

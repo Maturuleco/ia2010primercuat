@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La atenci\xF3n fue mal\xEDsima, todo tard\xF3 una eternidad y eso que s\xF3lo pedimos una picada y un tostado, encima se olvidaron cosas. Mientras que en otras mesas, con gente que hab\xEDa llegado despu\xE9s y con comidas m\xE1s elaboradas, sal\xEDan antes. Para colmo, la mesera demasiado confianzuda en el trato y hab\xEDa un cantante de tango que pr\xE1cticamente te recitaba al o\xEDdo. La comida fue rica por lo menos, pero no volver\xEDa."
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/21773
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Ambientado con m\xFAsica porte\xF1a. \r\n\
+      Fugazzeta exquisita con cerveza importada super fria: \xF3ptimo."
+    date: 18-12-2005
+    user: http://mi.guiaoleo.com/members/5390
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Excelente lugar. Comida satisfactoria elaborada en forma artesanal con ingredientes de primera calidad.
+    date: 18-12-2005
+    user: http://mi.guiaoleo.com/members/5386
+    ambiente_rank: excelente

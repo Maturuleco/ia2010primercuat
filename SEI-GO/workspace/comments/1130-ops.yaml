@@ -1,0 +1,62 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: La comida no tiene mucho sabor y no se renuevan con los platos. La pizza estaba realmente mala, a uno lo hacia recordar a la prepizza preparada en casa. El ambiente es muy ruidoso y la atencion es amable, pero lenta.
+    date: 11-01-2008
+    user: http://mi.guiaoleo.com/members/15685
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Cada vez esta mas caro, los platos, son casi siempre los mismos, y los mismos son bastante malos. Por mas que sean plato del dia, tardan mucho en traerte el plato, y mas, si son varios comensales.
+    date: 03-01-2008
+    user: http://mi.guiaoleo.com/members/29170
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Realmente la pasamos muy mal, una verg\xFCenza, la atenci\xF3n muy mala y la comida... creo que se puede comer mejor en un bodeg\xF3n, todo fr\xEDo y cuando hay mucha gente no te dan bola, la m\xFAsica es de cuarta el dj estaba en otro boliche. "
+    date: 29-03-2007
+    user: http://mi.guiaoleo.com/members/20771
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se puede comer bien, pero no tienen sector para no-fumadores y es muy plomo el que habla por micr\xF3fono todos los d\xEDas."
+    date: 30-08-2006
+    user: http://mi.guiaoleo.com/members/11660
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida estaba fr\xEDa."
+    date: 21-01-2006
+    user: http://mi.guiaoleo.com/members/6029
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La pasta es excelente, les recomiendo los sorrentinos y de postre la mousse de chocolate.\r\n\
+      Muy buena atenci\xF3n. Los shows imperdibles."
+    date: 09-12-2005
+    user: http://mi.guiaoleo.com/members/5247
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La pas\xE9 genial y les recomiendo a los que no fueron todav\xEDa que no se lo pierdan."
+    date: 29-11-2005
+    user: http://mi.guiaoleo.com/members/5070
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es de normal para abajo, exceptuando el mousse de chocolate. Da m\xE1s sensaci\xF3n de bar que de restaurant."
+    date: 07-11-2005
+    user: http://mi.guiaoleo.com/members/4685
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 mucho el ambiente, participe el domingo de una reuni\xF3n de Salsa."
+    date: 08-08-2005
+    user: http://mi.guiaoleo.com/members/3327
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Exelente la onda , la atenci\xF3n, los shows, la musica y el grupo humano."
+    date: 06-07-2005
+    user: http://mi.guiaoleo.com/members/2511
+    ambiente_rank: excelente

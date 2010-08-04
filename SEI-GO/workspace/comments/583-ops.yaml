@@ -1,0 +1,102 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Algo mas en pleno centro, bueno, pero caro para lo que ofrecen. No creo volver
+    date: 17-11-2009
+    user: http://mi.guiaoleo.com/members/15227
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo lugar para ir a almorzar con amigos o en familia. muy buena comida, rica y abundante. linda panera completa y sabrosa , sobre todo el pan de pizza, un manjar. \r\n\
+      en cuanto a la atenci\xF2n y el servicio excelentes, permiten que el comenzal se sienta c\xF2modo y con ganas de continuar luego del almurzo, con la charla.\r\n\
+      linda ambientaci\xF2n y sobre todo ba\xF1os muy limpios.\r\n\
+      recomendado."
+    date: 26-09-2009
+    user: http://mi.guiaoleo.com/members/68299
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: estaba de paseo conociendo buenos aires y comimos alli, nos gusto mucho la atencion, la variedad de platos, y particularmente me encantaron las ensaladas, la pizza 4 quesos y los panecillos. es un restaurante genial y volveria siempre que vaya a buenos aires. hasta el patito de peluche de mi hijo se sintio a gusto.la atencion es muy gentil.
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/46654
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena. El pan (aunque es un detalle) es excelente. Lo \xFAnico malo es que no se justifican los precios altos que tienen, al menos para almuerzos laborales."
+    date: 28-01-2008
+    user: http://mi.guiaoleo.com/members/41106
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      El ambiente es muy bueno. Amplio y comodo.
+      Con respecto a la comida, la misma es excelente aunque es banstante caro. Ideal para almuerzos de trabajo en donde la empresa paga. 
+      El delivery es muy caro....
+    date: 23-01-2008
+    user: http://mi.guiaoleo.com/members/38728
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "estaba de paso y me llamo la atencion la gran variedad de ensaladas...\r\n\
+      prob\xE9 un poquito de cada una y me encantaron!\r\n\
+      en cambio mi novio pidio \xF1oquis y no tenias gusto a nada y perecia que flotaban en el aceite...\r\n\
+      pero repito!\r\n\
+      las ensaladas son geniales!"
+    date: 27-12-2007
+    user: http://mi.guiaoleo.com/members/35451
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un buen lugar para la hora del almuerzo. La comida es de buena calidad, variada y la atenci\xF3n adecuada."
+    date: 24-09-2007
+    user: http://mi.guiaoleo.com/members/1264
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Sal\xF3n amplio y comodo, buena atenci\xF3n, porciones moderadas, relaci\xF3n ligeramente desmedida respecto de precio calidad. Intesante salad bar. "
+    date: 11-06-2007
+    user: http://mi.guiaoleo.com/members/28450
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es caro. La ensalada de frutas se fue encogiendo a lo largo de los a\xF1os."
+    date: 10-03-2007
+    user: http://mi.guiaoleo.com/members/16166
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La calidad de la comida es buena, pero los precios son excesivamente caros. Sobre todo en delivery, est\xE1n muy superiores con respecto a otros restaurantes de la misma zona. "
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/15741
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la pizza de provoleta y la atenci\xF3n. \r\n\
+      El ambiente es amplio. Lindo lugar para comer en familia."
+    date: 17-12-2006
+    user: http://mi.guiaoleo.com/members/14655
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una buena opci\xF3n en el centro. La comida es muy buena."
+    date: 06-11-2006
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Nada del otro mundo, para zafar una noche a \xFAltima hora."
+    date: 18-07-2006
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Buena comida y atenci\xF3n."
+    date: 01-07-2006
+    user: http://mi.guiaoleo.com/members/9696
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Lo recomiendo, es un cl\xE1sico moderno, seguro no te clav\xE1s y la panera es excelente."
+    date: 09-06-2006
+    user: http://mi.guiaoleo.com/members/9204
+    ambiente_rank: muy bueno

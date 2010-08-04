@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Aunque el lugar es un poco chico me encanta. La atencion es muy amable y la comida excelente y por muy buen precio. Me encanta el jugo de naranja exprimido y la ensalada de frutas, tambien hecha ahi. Un lugar recomendable y se que voy  volver!
+    date: 22-03-2009
+    user: http://mi.guiaoleo.com/members/58012
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Nada del otro mundo, lo que si el servicio no es bueno, la moza te atiende con pocas ganas, el local no estaba del todo limpio y la forma de servir una ensalada es un desastre, poco recomendable
+    date: 17-07-2008
+    user: http://mi.guiaoleo.com/members/47366
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy bueno, pero el local es muy chico.
+    date: 28-11-2005
+    user: http://mi.guiaoleo.com/members/5111
+    ambiente_rank: bueno

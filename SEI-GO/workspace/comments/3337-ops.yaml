@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El Piano Bar del Duhau resulta muy ameno para compartir una velada con suma tranquilidad y muy comodo. La unica falla es el servicio que suele ser lento, es por eso que hay que ir con tiempo.
+    date: 25-04-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El Palacio Duhau es majestuoso y encantador su jard\xEDn oriental en pendiente. Maravilloso asomarse en su terraza al atardecer. Eso s\xED: el servicio de t\xE9 -completo- que proponen es triste; no las infusiones en s\xED que son refinadas, pero la pasteler\xEDa realmente mala y ni siquiera fresca. Al servicio le falta para llegar a la categor\xEDa de lujo pretendida."
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/77721
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      el Palacio hermoso, comimos en el patio, muy refinado todo. Lindo
+      La carta de vinos muy muy cara. Exagerados los precios!
+    date: 15-10-2009
+    user: http://mi.guiaoleo.com/members/49531
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: El todo es un resultado impecable, las piezas que lo componen, comenzando por el lugar que ya tiene su propia magia, siguido por el servicio que es impecable cuidando cada detalle sin ser molestos, el ambiente sofisticado y elegante, la calidad de los productos  y calidez en la atencion hacen que vuelva a elegir este lugar y lo siga recomendando.
+    date: 27-05-2009
+    user: http://mi.guiaoleo.com/members/13183
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Piano Nobile, a mi modo de ver, no tiene estructura (cantidad de personal) de servicio para atender como restaurant independiente del hotel. Cuando un pasajero, en horas pico de servicio, est\xE1 con un inconveniente las hostess, del restaurant, desaparecen y uno queda librado a la sirvienta que NUNCA debe hacer la recepci\xF3n de una reserva, porque no fue capacitada para esta funci\xF3n y la hace mal. El resultado termina siendo malo en detrimento de la excelente comida y los buenos vinos que sigen despu\xE9s. Tomar el t\xE9 es otra historia. He ido una tarde y el servicio es espectacular."
+    date: 10-09-2008
+    user: http://mi.guiaoleo.com/members/23846
+    ambiente_rank: muy bueno

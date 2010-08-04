@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar agradable, bien puesto y con buena atenci\xF3n. recomendable la parrillada para dos."
+    date: 04-10-2009
+    user: http://mi.guiaoleo.com/members/23135
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El ambiente es agradable, los platos son abundantes; pero la pizza no es una buena opci\xF3n en este lugar: deja mucho que desear...no es buena,deber\xEDa ser mas gomosa, le falta tomate, y tiene escasa muzarella."
+    date: 18-12-2008
+    user: http://mi.guiaoleo.com/members/45378
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "excelente lugar con una amplia carta donde todos quedan satisfechos. Bien las pizzas y mejor aun las opciones de matambrito, lomo o costillas de cerdo con m\xFAltiples combinaciones. porciones para compartir con buenas guarniciones. muy recomendable."
+    date: 13-12-2008
+    user: http://mi.guiaoleo.com/members/16898
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Pedi delivery un par de veces y si bien las pastas estan bastante buenas y son de porciones grandes, las pizzas pueden llegar a ser un poco gomosas para mi gusto.
+    date: 07-11-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Al de once vamos dos veces por semana, la comida nunca falla, me encanta el bife de costilla con lomo,siempre cocido pero jugoso, tambi\xE9n las pastas con estofado y las omellettes. La atenci\xF3n es muy buena y los precios muy accesibles."
+    date: 18-10-2008
+    user: http://mi.guiaoleo.com/members/52926
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "No est\xE1 mal como opci\xF3n para ir en grupo porque ofrecen un men\xFA con diversas opciones, correctas y abundantes sin ser del otro mundo, a un precio razonable. Pero si el grupo es demasiado grande se complica el servicio: tardaron m\xE1s de media hora para traer los pedidos y varios llegaron equivocados, as\xED que para no alargar la espera com\xED lo que quiso el abrumado mozo, que de todos modos y por suerte estaba ok."
+    date: 22-07-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Los platos de este restaurante son abundantes y sabrosos. El lugar es comodo y los mozos atienden muy bien. Se puede comer a precios razonables y las opciones del menu son bastante variadas. Para volver y comer bien.
+    date: 29-11-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Pertenece a esa nueva clase de pizzer\xEDas-restaurant que hay en las esquinas m\xE1s ic\xF3nicas de Buenos Aires. Esta se destaca porque el ambiente no es tan bullicioso, las mesas est\xE1n a una distancia razonable y la comida es m\xE1s bien casera. La pizza era muy rica y ojo con los platos porque algunos son para compartir. Ideal si uno anda por la zona y quiere encontrarse con alguien a charlar o comer algo sencillo despu\xE9s del trabajo. "
+    date: 12-07-2007
+    user: http://mi.guiaoleo.com/members/7848
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "la verdad muy bueno pero faltaria una pagina de internet con los precios asi se le facilita al cliente, por la comida es excelente y muy abundante (incluso se dificulta poder terminar el plato), con una amplia variedad de sabores. "
+    date: 23-06-2007
+    user: http://mi.guiaoleo.com/members/25211
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "calidad y servicio en pleno barrio de once. el men\xFA es variado y satisface todas las expectativas. al mediod\xEDa hay diferentes alternativas de men\xFA ejecutivo de plato, postre y bebida a precios aceptables. la atenci\xF3n es correcta y los platos llegan en tiempo razonable. "
+    date: 22-06-2007
+    user: http://mi.guiaoleo.com/members/25256
+    ambiente_rank: muy bueno

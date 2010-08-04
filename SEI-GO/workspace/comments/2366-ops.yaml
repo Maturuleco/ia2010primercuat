@@ -1,0 +1,15 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy ricas las empanadas. \r\n\
+      El local tiene una puesta sencilla y correcta; el precio est\xE1 acorde.\r\n\
+      Muy buena onda tiene Pepe: uno va por primera vez y se siente como de la casa."
+    date: 12-03-2008
+    user: http://mi.guiaoleo.com/members/42069
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Las mejores empanadas. Un poco chicas quizas, pero excelentes.
+    date: 29-12-2005
+    user: http://mi.guiaoleo.com/members/5617
+    ambiente_rank: excelente

@@ -1,0 +1,27 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Siendo que fui a tomar un t\xE9 con un tostado a la hora de cenar, me atendieron muy bien. Me gust\xF3 mucho la ambientaci\xF3n y el esmero del mozo para atendernos, aunque tardaba un poco. Algo para destacar: nos sorprendimos con la cuenta, cre\xEDmos que por la zona y la onda del lugar nos iban a cobrar much\xEDsimo m\xE1s. Lindo."
+    date: 30-05-2007
+    user: http://mi.guiaoleo.com/members/22471
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Unos buenos fideos, coloridos. Los mozos atentos, pero el tema es que el lugar est\xE1 siempre vacio. Nunca hay nadie.\r\n\
+      A\xFAn as\xED, recomendable."
+    date: 01-04-2007
+    user: http://mi.guiaoleo.com/members/8758
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida con magn\xEDfica presentaci\xF3n y muy buen servicio. \r\n\
+      Recomendable."
+    date: 24-03-2007
+    user: http://mi.guiaoleo.com/members/7629
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Muy buen ambiente. La comida es buena, con productos frescos.
+    date: 09-01-2007
+    user: http://mi.guiaoleo.com/members/10781
+    ambiente_rank: excelente

@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Excelente comida, precio muy bueno, lindo lugar. Confortable.
+      Muy recomendable.
+    date: 01-06-2010
+    user: http://mi.guiaoleo.com/members/82971
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar muy bien puesto, muy tranquilo y siempre concurrido. El ambiente es muy lindo, luz agradable y colores claros con madera. Las mesas y espacios amplios, salvo el ba\xF1o un poco chico. El servicio en general es muy bueno y la comida, precios y tiempos de espera tambi\xE9n. Lo recomiendo para una cena, ya que en precio y calidad es MUY BUENO. No se pierdan el sabayon con nueces... es una bomba casera."
+    date: 03-05-2010
+    user: http://mi.guiaoleo.com/members/81340
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy buena la relaci\xF3n, precio-calidad, el ambiente es c\xE1lido y agradable, la atenci\xF3n es cordial, el lugar llama a volver.algo chico el ba\xF1o de caballeros, demasiada baja la intensidad de la luz."
+    date: 09-03-2010
+    user: http://mi.guiaoleo.com/members/81254
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Una parrilla simp\xE1tica y con buen precio. La carne vino en un buen punto y el servicio de mesa es abundante. Es una buena opci\xF3n cuando uno no quiere gastar demasiado."
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/73632
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Antiguo bodeg\xF3n remodelado. Si bien ofrece parrilla y buenas pastas, lo mejor (lejos) es la milanesa napolitana con fritas y otras minutas. Porciones generosas (muchos platos son para compartir), precios razonables en un ambiente familiar y relajado. Lo m\xE1s flojo sea tal vez la carta de vinos. Si piensan en comida porte\xF1a tradicional, es una muy buena opci\xF3n."
+    date: 12-12-2009
+    user: http://mi.guiaoleo.com/members/16579
+    ambiente_rank: bueno

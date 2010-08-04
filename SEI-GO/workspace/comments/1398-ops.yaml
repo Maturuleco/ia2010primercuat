@@ -1,0 +1,29 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un barcito, nada especial de afuera, pero tiene unos pastas incre\xEDbles que hace el chef. Los precios son re buenos, y los mozos simp\xE1ticos y atienden r\xE1pidamente."
+    date: 17-04-2008
+    user: http://mi.guiaoleo.com/members/43585
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy calido. La atencion es casi familiar y se come muy bien. No es muy exquisito pero si muy casero y rico.
+    date: 03-01-2008
+    user: http://mi.guiaoleo.com/members/26240
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente simple, la atenci\xF3n muy buena, y la comida muy rica. En especial unos creps de verdura que estaban mortales!!\r\n\
+      De naturista...poco, pero la comida estaba rica de todos modos. \r\n\
+      Recomendable para los que est\xE9n cerca."
+    date: 25-07-2007
+    user: http://mi.guiaoleo.com/members/27799
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar tiene un ambiente muy hogare\xF1o y el d\xEDa que fui est\xE1bamos solos. \r\n\
+      Se puede hablar tranquilo y fuimos tratados de primera a muy buenos precios. \r\n\
+      Adem\xE1s la carta si bien es breve permite salir de lo t\xEDpico."
+    date: 09-12-2005
+    user: http://mi.guiaoleo.com/members/5723
+    ambiente_rank: muy bueno

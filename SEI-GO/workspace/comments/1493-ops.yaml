@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Mala relaci\xF3n precio calidad. Muy caro para lo que es... un restaurant que no tiene nada especial."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/67669
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: No se destaca en nada.. Es para tomar un cafe o el te
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Ped\xED una ensalada para llevar. Ensalada Caribe coun una porci\xF3n generosa de nueces. Muy buena opci\xF3n para el mediod\xEDa."
+    date: 11-09-2007
+    user: http://mi.guiaoleo.com/members/31781
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Una verguenza, pedi 2 porciones de torta que costaban 7.50 cada una, y me trajeron 2 \"mini-tortas\" del tama\xF1o de un apoyavaso. En la carta figuraban como porciones, y en ningun lado decia la palabra \"mini\", salvo en el recibo. Lamentable"
+    date: 03-06-2007
+    user: http://mi.guiaoleo.com/members/10656
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Muy mala la comida y la atenci\xF3n. No voy m\xE1s"
+    date: 20-11-2006
+    user: http://mi.guiaoleo.com/members/17216
+    ambiente_rank: bueno

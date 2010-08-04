@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "coincido plenamente con el tema de la ambientaci\xF3n al estilo comedor de colegio. M\xE1s all\xE1 de eso, la comida es +buena (se recomienda lajmashin abierta y pastron especialmente). La atencion tambien dejanun poco que desear."
+    date: 05-10-2008
+    user: http://mi.guiaoleo.com/members/10221
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: El lugar esta carente de toda decoracion, no es agradable aunque esta limpio, la comida no es mala pero tampoco deslumbra. Los vinos son pesimos ademas de caros.
+    date: 01-07-2007
+    user: http://mi.guiaoleo.com/members/3526
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El lugar es limpio, pero la ambientaci\xF3n parece un comedor escolar tirado a menos. la comida respeta las reglas del kashrut, los sabores tradicionales, y se nota que es muy muy casera. particularmente la comida turca no es mi fuerte pero amantes de esta cocina sabran disfrutar de uno de los mejores comedores segun tengo entendido. el servicio es pesimo."
+    date: 18-12-2006
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La verdad que la atenci\xF3n de los mozos es p\xE9sima y al due\xF1o no le importa mucho tampoco."
+    date: 18-09-2006
+    user: http://mi.guiaoleo.com/members/12137
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buena comida kosher.
+    date: 26-04-2006
+    user: http://mi.guiaoleo.com/members/7987
+    ambiente_rank: bueno

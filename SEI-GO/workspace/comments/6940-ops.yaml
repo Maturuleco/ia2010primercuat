@@ -1,0 +1,25 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un buen lugar porque hay para comer de todo. Tambi\xE9n hay mucha gente que va s\xF3lo a tomar un caf\xE9 y degustar las tortas que tiene que son muy buenas."
+    date: 19-06-2010
+    user: http://mi.guiaoleo.com/members/76803
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "No es el restaurante ideal para una cena rom\xE1ntica, ni para salir a cenar si se espera comida original, novedosa o deliciosa. Pero s\xED para ir con amigos con ni\xF1os que ya pasaron la edad de los peloteros. El lugar donde mantienen a los reto\xF1os entretenidos tiene todos los jueguitos electr\xF3nicos que ellos adoran, wii, xbox, etc. De esta forma,si bien no se puede disfrutar de una cena maravillosa, se puede tener una tranquila velada con cena pasable, y charla relajada. El servicio, en esta oportunidad, profesional y oportuno."
+    date: 05-06-2010
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Salimos del BAFICI en medio de la lluvia y el granizo. Solo esto puede disculpar nuestro error. Si pueden evitarlo, mejor.
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/58162
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Fui con una amiga a merendar mientras hac\xEDamos tiempo para ir al cine, y casi llegamos tarde por culpa del mozo...le pedimos la cuenta con tiempo, y tard\xF3 casi 20 miunutos en tra\xE9rnosla, y encima despu\xE9s no nos cobraba porque dec\xEDa que no ten\xEDa cambio, nos dej\xF3 colgadas al punto que nos tuvimos que levantar e ir a la caja para que nos cobren! Detalle: yo hab\xEDa pedido unas medialunas rellenas...que nunca llegaron...la verdad, entre el servicio y el precio, es para no volver nunca..."
+    date: 08-02-2010
+    user: http://mi.guiaoleo.com/members/68959
+    ambiente_rank: bueno

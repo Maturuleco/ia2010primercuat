@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Muy malo en general, sobre todo la comida.
+    date: 02-07-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "A favor: la camarera\r\n\
+      En contra:Olvidable comida, 1/2 punto arriba de cualquier fast food de shopping, con el aliciente de una correcta atenci\xF3n (en nuestro caso particular). Carta escueta, car\xEDsima, cheto muy cheto, si digo ruidoso es una obviedad...lo m\xE1s sorprendente la cantidad de \xA8nuevos ricos\xA8 brasileros haciendo cola desesperadamente para comer!, que mal se est\xE1 comiendo en el pa\xEDs de Lula por Diossss!!!...\r\n\
+      Ni vuelvo ni recomiendo"
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: No se destaca en nada. Esta bien para almorzar o tomar un cafe en el shopping
+    date: 11-11-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es rica sin destacarse, el lugar y la atenci\xF3n son buenos."
+    date: 01-11-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Elegante, al paso, comida bien y muy buena atencion. desde el precio hasta el ultimo detalle lleva relacion con su ubicacion.
+    date: 16-04-2009
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La verdad que la ambientaci\xF3n que tienen los caf\xE9s Francesca son incre\xEDbles, muy elegantes. Las veces que he ido, estaba apurada y siempre me atendieron r\xE1pido y correctamente. Comida original ( no la comida de un resto del patio de comidas de un shopping) Es distinguido. Las tortas, tienen muy buena apariencia, y no defraudan!!"
+    date: 29-08-2008
+    user: http://mi.guiaoleo.com/members/43603
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es m\xE0s bien unbar donde se pude tomar algo, recomiendo un rico champagne viendo pasar a la gente en un ambiente distendido como es el del Patio Bullrich.\r\n\
+      Los sanwiches, caf\xE8 y ensaladas est\xE0n muy bien."
+    date: 30-05-2008
+    user: http://mi.guiaoleo.com/members/4074
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen caf\xE9/ rest\xF3: bien decorado, c\xF3modo y con excelentes opciones en sandwiches, especialmente el club sandwich y el de sal\xF3n ahumado en pan de campo. Muy recomendable para la salida del cine o cuando tenemos ganas de hacer un alto para la charla en el paseo por el shopping y darnos un gustito."
+    date: 13-01-2008
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Conoc\xEDa este lugar en el Patio Bulrich y en Galer\xEDas Pac\xEDfico, pero bienvenido a Alto Palermo!! Es una buena propuesta para cualquier hora del d\xEDa, ya que son muy ricos los platos y tambi\xE9n la variedad de emparedados."
+    date: 13-01-2008
+    user: http://mi.guiaoleo.com/members/6997
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No es la primera vez que voy y puedo decir que siempre com\xED excelente!! \r\n\
+      Me tengo que cuidar para no engordar y por eso me abstengo de ciertos platos exquisitos como el rissotto (con camarones o con calabaza; los precios son sin postre."
+    date: 28-10-2007
+    user: http://mi.guiaoleo.com/members/34930
+    ambiente_rank: excelente

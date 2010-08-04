@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: No puedo recomendar este lugar.  La comida no era buena, Las achuras parecian recalentadas.  El lomo no era nada tierno y la bondiola estaba super seca.  La ambientacion es mala y el buen servicio no compensa.  Creo que en la zona hay mejores opciones.
+    date: 13-01-2010
+    user: http://mi.guiaoleo.com/members/48137
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente restaurant!! Definitivamente voy a volver y a recomendar ya que la atencion es muy buena y la comida es muy casera. Nos sentimos como en casa. El staff es muy cordial y el ambiente muy acogedor. Por la calidad de la comidad pagamos dentro de los parametros normales.
+    date: 31-12-2009
+    user: http://mi.guiaoleo.com/members/74379
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena parrilla. Fuimos un d\xEDa de semana por la noche y el lugar estaba muy tranquilo. Eramos 8 personas y todos los platos estuvieron en su punto justo. La atenci\xF3n fue esmerada. Para recomendar."
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/1264
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena comida! el lugar es regular, no es para ir en una cita, se puede ir con familia o amigos, la carne tiene muy buen nivel, los meseros son atentos pero no te arreglan bien la mesa, los manteles y la decoracion podria ser mejor, pero lo compensa con lo que es la carne. Buenisima carne
+    date: 18-10-2009
+    user: http://mi.guiaoleo.com/members/70502
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida era muy buen, la relacion precio calidad sobresaliente, quizas debido a que era el domingo del dia de la madre, el servicio fue lento y poco coordinado, sin embargo definitivamente regresaria en familia a comer.
+    date: 18-10-2009
+    user: http://mi.guiaoleo.com/members/18341
+    ambiente_rank: bueno

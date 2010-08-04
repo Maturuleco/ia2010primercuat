@@ -1,0 +1,493 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El precio es un poco alto en relaci\xF3n al producto, servicio y ambiente, pero el men\xFA tiene buena calidad y variedad si no se est\xE1 en busca de algo realmente innovador."
+    date: 25-06-2010
+    user: http://mi.guiaoleo.com/members/25303
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La carta tiene buena variedad, al que no le gusta el sushi puede disfrutar de un wok. Nosotros optamos por el sushi y nso gusto mucho! la atencion es muy buena, el lugar peque\xF1o..."
+    date: 24-06-2010
+    user: http://mi.guiaoleo.com/members/84799
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Felicitamos al gerente del local!! Muy buena atencion!DAto: los lunes hay importantes descuentos que no incluyen la bebida ( 30%, 40%, 50%)Si van con CLUB LA NACION el descuento es s\xF3lo del 20 pero sobre el total"
+    date: 21-06-2010
+    user: http://mi.guiaoleo.com/members/53183
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente propuesta de lo que personalmente denominar\xEDa \"sushi occidentalizado\", con creaciones en verdad notables, diferentes y plancenteras.\r\n\
+      Hay un men\xFA de mediod\xEDa (a\xFAn fines de semana y feriados) muy conveniente que incluye 17 piezas a elecci\xF3n (rolls, makis, geishas, sashimis, etc.), copa de vino o gaseosa, agua y caf\xE9 por $70.\r\n\
+      Yo gast\xE9 un poco m\xE1s porque ped\xED alguna orden extra.\r\n\
+      Es muy buena la proporci\xF3n arroz/pescado ya que no es un pedacito insignificante de salm\xF3n dentro de un \"cilindro\" de arroz."
+    date: 29-05-2010
+    user: http://mi.guiaoleo.com/members/83253
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Bom sushi; combinado traz pouco sashimi. Entrada com camar\xF5pes, excelente. Ambiente escuro demais para comida japonesa, e um tanto tumultuado. Servi\xE7o pouco atencioso."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/82114
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Cuando el lugar al que vamos buscando una comida de moda, es m\xE1s una franquicia que un verdadero restaurant donde se lucen m\xE1s las cantidades de restos que la calidad de la comida, el resultado es malo.\r\n\
+      Piezas muy chicas, faltan de maceraci\xF3n y t\xE9cnica. Servicio de vinos malo a malisimo.\r\n\
+      Es un lugar chic, para gente a la que no le importa la calidad de lo que come, sino m\xE1s bien que lo vean."
+    date: 08-05-2010
+    user: http://mi.guiaoleo.com/members/81478
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente todo. Muy buenas las sugerencias del mozo. Se notaba que los ingredientes del suchi eran frescos. Recomiendo que se tomen un trago mientras esperan el sushi... prueben en daiquiri de maracuy\xE1."
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/79846
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Hermoso lugar, hice reserva previamente, nos atendieron muy bien, un amor Adriana que estaba pendiente de nosotros y a cada rato preguntaba si necesit\xE1bamos algo.  Un lugar muy rom\xE1ntico, muy c\xE1lido, y el sushi nos gust\xF3 mucho... las piezas eran chicas, pero muy buen sabor! No es para ir todos los d\xEDas, pero si para tenerlo en cuenta para fechas especiales."
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/14438
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Me gusto el ambiente. El sushi es bueno. El servicio sin embargo deja bastante que desear. Nos sentamos y nos tomaron el pedido cuarenta minutos despues, terminamos comiendo alrededor de las 12 de la noche. Tienen que mejorar en ese aspecto para brindar un mejor servicio.
+    date: 20-01-2010
+    user: http://mi.guiaoleo.com/members/44985
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Definitivamente NO VUELVO MAS! Habia concurrido anteriormente con mi pareja y fue pasable.Decidimos volver para probar pues habian cambiado la carta. Pedimos un roll que tiene palmitos.Tambien pedimos un combinado de 15 piezas y realmente cada vez es mas chico y mas caro.Tambien probamos shots de ostras que picaban mucho y de postre desgustacion de chocolate,bueno.La atencion del personal muy buena, lastima que se desvanece pues tarda mucho el pedido. El ambiente muy oscuro no se ve la carta y no tiene intimidad pues las mesas estan muy juntas,como tambien habia olor a aceite frito de pescado.NO Vuelvo "
+    date: 21-11-2009
+    user: http://mi.guiaoleo.com/members/24750
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Hay muchas mejores opciones para comer sushi. El servicio y el ambiente son regulares
+    date: 26-08-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Definitivamente no es el mejor sushi de Buenos Aires y s\xED muy caro para la propuesta que tienen.\r\n\
+      En el combinado de pescado que pedimos solo hab\xEDa salm\xF3n y mero, demasiado queso y kanicama para mi gusto. La atenci\xF3n es muy buena pero el lugar es demasiado oscuro."
+    date: 22-08-2009
+    user: http://mi.guiaoleo.com/members/24319
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es riqu\xEDsima, lleg\xF3 pronto y con la temperatura perfecta. La presentaci\xF3n de los platos es muy buena y los postres son excelentes.\r\n\
+      El precio se podr\xEDa bajar un poco. Para volver."
+    date: 10-08-2009
+    user: http://mi.guiaoleo.com/members/38988
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Reservamos con anticipacion y comimos el menu de 4 pasos Guia Oleo, maridado con vinos Trumpeter. Simplemente espectacular la combinacion de platos con los vinos. Pincho de pulpo con suavignon blanc, seleccion de sushi con Chardonay, Risoto de mero y langostinos con Merlot, y degustacion de postres con cosecha tardia.
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/12733
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Voy cada 15 d\xEDas porque me encanta. No solo la calidad del sushi es buena (auqnue a veces les falta at\xFAn o alg\xFAn pescado blanco) sino que las otras propuestas como los woks son super ricas. La decoraci\xF3n es linda aunque las mesas est\xE1n muy juntas y mal iluminadas. El servicio es muy bueno. Lo recomiendo"
+    date: 28-07-2009
+    user: http://mi.guiaoleo.com/members/33872
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El mejor sushi, excelente calidad de productos. El lugar es muy c\xF3modo y la atenci\xF3n es excelente, son muy atentos."
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/65262
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se sabe, SushiClub presta un servicio que nunca decepciona. El sushi siempre es riqu\xEDsimo y la variedad es muy amplia, aunque tambi\xE9n vale la pena probar los platos y entradas calientes. \r\n\
+      Lo \xFAnico que le recomendar\xEDamos es subir un poco la intensidad de la luz, o agregar focos sobre las mesas, porque para leer el men\xFA debimos apoyar la vela encima."
+    date: 11-05-2009
+    user: http://mi.guiaoleo.com/members/30026
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "el sushi espectacular...las piezas no son muy grandes, pro como era libre no import\xF3. solo tuvimos demora en el primer pedido, pero luego vino todo muy a tiempo.\r\n\
+      lo peor de todo es uqe las mesas estan demasiado juntas y eso quita privacidad. Recomiendo el sush libre 100%, no es barato, pero vale la pena."
+    date: 16-02-2009
+    user: http://mi.guiaoleo.com/members/44929
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Si te gusta el sushi, uno de los mejores de buenos aires, no falla, no es barato pero se come muy pero muy bien. Sushi club hasta ahora nunca me fallo. Postre si hay un lugarcito... Creme Brulee
+    date: 16-01-2009
+    user: http://mi.guiaoleo.com/members/57306
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Me parecio un lugar pretencioso. No me gusto la decoracion, ni la atencion por ser demasiado formal.  El sushi esta bien, pero las piezas son chicas. Es caro y no lo vale.
+    date: 16-11-2008
+    user: http://mi.guiaoleo.com/members/17988
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: El sushi muy bien, no es de lo mejor pero esta bien, lo que le falta lo compensa por los tragos, el servicio y el ambiente. La terraza, si esta llena es incomoda, las mesas estan muy amontonadas.
+    date: 03-11-2008
+    user: http://mi.guiaoleo.com/members/15246
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Mi experiencia fue de comer sushi libre, cosa que hace a\xF1os que vengo haciendo y en el mismo lugar.  Lo sirven en cantidad como pidas, todo lo que quieras al pie de la letra.  Atencion barbara, y todo el resto tambien pero lo que me parece que ya es un abuso que COBREN UN LIBRE $129, se aprovechan porque van extranjeros, la verdad, totalmente defraudado y aunque muera de ganas de comer sushi bueno no pienso ir, y seria bueno que todos se den cuenta porque mientras haya gente que pague ellos seguiran subiendo."
+    date: 02-07-2008
+    user: http://mi.guiaoleo.com/members/3562
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un cl\xE1sico del buen Sushi, no puedo decir nada en relaci\xF3n a la calidad del mismo, pues siempre es muy bueno o excelente.\r\n\
+      lamentablemente cada vez m\xE1s caro y ya se torna inaccesible, el suhi libre 119 pesos es una locura.\r\n\
+      Y por favor cambien la m\xFAsica o bajen el volumen"
+    date: 08-06-2008
+    user: http://mi.guiaoleo.com/members/30279
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "No tenia muchas expectativas por los comentarios de la guia, pero fui un martes y la verdad que la pasamos re bien. La atenci\xF3n muy buena, la comida riquisima y el ambiente, precioso! Vayan a la terraza y tomense un vinito sentados en los sillones!! vale la pena...\r\n\
+      Ah, y si, es carito. Para darse el gusto a veces."
+    date: 22-04-2008
+    user: http://mi.guiaoleo.com/members/28202
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Fui varias veces a este restaurante, y el nivel es siempre igual, no es ni el mejor ni el peor lugar para comer sushi. Una opcion mas, pero hay mejores lugares de Sushi. Para rescatar, los nuevos rolls como el futurama y de entrada tempura de langostino envuelto en batata.
+    date: 18-03-2008
+    user: http://mi.guiaoleo.com/members/32454
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida es buena. El ambiente es bueno pero el aire parece que no funcionaba porque hacia un calor de locos. Sobre la atencion, la moza derramo un aperitivo sobre mi pantalon LAMENTABLE y lo peor que no nos hicieron ninguna atencion. No lo recomendaria ni cerca.
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/42169
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Buenismo, despues de Osaka, el mejor lugar
+      Exquisitos los futuramas (sushi con tempura de langostinos)
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/38630
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: No conocia el lugar, y la verdad que pense que era mucho mejor. Tardaron en atenderme, cuando lo hicieron, tardaron en traerme la comida, y cuando vino la comida, se equivocaron de pedido. UN DESASTRE.. no volvere
+    date: 24-01-2008
+    user: http://mi.guiaoleo.com/members/38104
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El sushi es malisimo y la atencion mas o menos ,mucho circo con publicidad y la gente que va a este lugar no sabe nada de sushi solo comen hasta no dar mas , para que sepan el sushi de bokoto es excelente, soy cliente desde el a\xF1o pasado y no lo cambio x nada.  "
+    date: 17-01-2008
+    user: http://mi.guiaoleo.com/members/38456
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 el sushi aunque las variedades son bastante parecidas entre s\xED; mis preferidas fueron el sashimi de pulpo y unas bombitas de tempura de pescado blanco. Los dem\xE1s aspectos son para mejorar: el ambiente es muy oscuro, la atenci\xF3n es lenta y los platos se hacen esperar demasiado."
+    date: 18-12-2007
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El mejor sushi de capital federal por mucho,\r\n\
+      hay otros que son buenos pero Sushi Club en verdad que es el mejor, lo malo el espacio tan reducido de sus restaurantes en las ca\xF1itas, y el servicio que es lento cuando hay mucha gente"
+    date: 08-12-2007
+    user: http://mi.guiaoleo.com/members/36973
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La comida fue excelente como siempre y sobre todo uno de los nuevos postres: la variedad de golosinas,eran peque\xF1isimas porciones de varias confituras, muy muy rico.el unico problema fue que,mas alla de la muy buena predisposicion del mozo,la tabla tardo mucho porque supuestamente otro mozo la habia llevado a otra mesa,conclusion al traerlo, nos obsequiarion algunas piezas.en sintesis, solamente les queda perfeccionar a los mozos, se puede volver."
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/34614
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El sushi est\xE1 correcto aunque nada del otro mundo. Hace combinaciones innovadoras pero eso no alcanza. El ambiente es demasiado oscuro e impide observar en detalle las distintas piezas, cuesti\xF3n importante en el ritual del sushi."
+    date: 13-11-2007
+    user: http://mi.guiaoleo.com/members/33593
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Sinceramente es la primera vez que como sushi as\xED que no tengo mucho con lo que comparar, pero estaba riqu\xEDsimo! Un combinado de 30 piezas de salm\xF3n nos dej\xF3 satisfechos a dos personas.\r\n\
+      En cuanto al lugar, linda ambientaci\xF3n, todo muy bonito... aunque para variar a los sanitarios no se les ha prestado tanta atenci\xF3n como al resto.\r\n\
+      La atenci\xF3n: cordial, pero muy lenta... se entiende la demora en traer el sushi, pero no en la cuenta...\r\n\
+      Volver\xE9? Por supuesto!"
+    date: 27-10-2007
+    user: http://mi.guiaoleo.com/members/31361
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Como siempre el lugar excelente, la atenci\xF3n muy buena, la recepci\xF2n con una peque\xF1a enbtrada y un daiquiri muy bueno.\r\n\
+      lamentablemente est\xE0 CARISIMO!!!!!\r\n\
+      $103 el sushi libre por persona y casi $180 una tabla de 75 piezas"
+    date: 24-09-2007
+    user: http://mi.guiaoleo.com/members/30279
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      No hay vuelta que darle. Es el mejor sushi de Buenos Aires. Innovador y exquisito.
+      Eso si, es CARISIMO. Voy a hipotecar la casa para volver.
+      Si no molesta gastar, muy recomendable.
+    date: 14-07-2007
+    user: http://mi.guiaoleo.com/members/13584
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me parecio correcto. Buen sushi, no es el mejor, pero estuvo bien. El servicio como en todo restaurante, atento, pero nada profesional. En lineas generales: bueno, sin grandes pretensiones."
+    date: 02-07-2007
+    user: http://mi.guiaoleo.com/members/1377
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      El mejor sushi de buenos aires. no es tan lindo como la sucursal de puerto nuevo frente al faena pero el sabor es el mismo y la atencion formidable.
+      siempre vale la pensa sushiclub si se puede pagar.
+    date: 17-06-2007
+    user: http://mi.guiaoleo.com/members/10843
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      no es de los mejores sushis, creo que se diferencia de las otras sucursales para peor. recomiendo el de recoleta. 
+      buena predisposicion e intencion sin embargo.
+    date: 14-06-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "un blof! pura pinta y buen ambiente que apacigua el sushi... es muy regular, nada del otro mundo y costoso!  No volver\xE9 a comer sushi, si acaso para unos \"drinks\" y punto de encuentro con algunos amigos."
+    date: 12-05-2007
+    user: http://mi.guiaoleo.com/members/19203
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Comida buena aunque algunos langostinos ten\xEDan olor rarito. El tiempo entre bandejas fue muy prolongado. El precio es caro, 85 pesos el sushi, una copa de vino (menos de la mitad). Es verdad que falta luz\r\n\
+      Estuvimos arriba, la atenci\xF3n del mozo fue deficiente, ya que las indicaciones fueron p\xE9simas, sin consejos adecuados buscando vender m\xE1s en lugar de asesorar.\r\n\
+      Se fuma en el balc\xF3n terraza (cerrado con vidrios: sobra humo, falta ventilaci\xF3n y sobra fr\xEDo). "
+    date: 09-05-2007
+    user: http://mi.guiaoleo.com/members/22772
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Un lugar con mucha onda no alcanza para salvar el apenas aceptable nivel del sushi, donde al final todo tiene el mismo sabor.
+    date: 15-03-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Contrariamente a la mala impresi\xF3n de hace dos semanas, anoche \xE9ste local se reinvindic\xF3. Estuve en la planta baja y la atenci\xF3n fue muy buena por parte del mozo. La comida estuvo bien en cuanto a presentaci\xF3n, calidad y sabor. Recomendable, para volver prontito. "
+    date: 02-03-2007
+    user: http://mi.guiaoleo.com/members/15485
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente, el sushi es muy rico, lo \xFAnico es que el ambiente es muy oscuro y ten\xE9s que hacer un esfuerzo por ver que estas comiendo. Est\xE1 bueno el clima que quieren crear, pero un poco mas de luz hace falta.\r\n\
+      El resto, todo espectacular."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/18046
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hace mucho que suelo ir a Sushi Club, en varias sucursales. pero no al de Baez y la verdad es que \xE9ste \xFAltimo es una verg\xFCenza. Tardaron mas de cincuenta minutos en traer la comida, la cual estaba p\xE9simamente presentada. No trajeron la entrada inclu\xEDda. Al reclamarla, dijeron que lo hab\xEDan olvidado y nuevamente, no la trajeron. El sushi estaba mal armado, algunas piezas sin terminar o sin doblar bien. Pedimos un tenedor y hubo que recordarlo una vez m\xE1s. Para terminar, no me entregaron factura. Un desastre, no vuelvo m\xE1s."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/17195
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente atenci\xF3n: el mozo y el gerente del local fueron muy atentos y c\xE1lidos. \r\n\
+      La comida estuvo en tiempo y forma. \r\n\
+      Es cierto que el ambiente es muy oscuro; pero nos alcanzaron una vela de otra mesa para compensar y luego tuvieron una atenci\xF3n."
+    date: 13-02-2007
+    user: http://mi.guiaoleo.com/members/10872
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buen sushi, pero nada de otro mundo. Es una l\xE1stima que normalmente no tengan at\xFAn rojo. El servicio es bueno pero algo informal. \r\n\
+      El lugar es muy lindo."
+    date: 12-02-2007
+    user: http://mi.guiaoleo.com/members/12266
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El mejor lugar para ir a comer sushi libre. No te hacen problema con nada, le ped\xEDs cincuenta piezas y te las traen. Entre bandeja y bandeja hay poca demora. El nivel de atenci\xF3n es muy bueno. Es un poco caro, pero lo vale. Sal\xEDs de ah\xED contento sin hacerte mala sangre. Este local y el de Madero me parecieron los mejores. "
+    date: 08-01-2007
+    user: http://mi.guiaoleo.com/members/15075
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Resumen: empezaron bien, se crearon fama y ahora se echaron a dormir. Relato las peripecias de las \xFAltimas dos veces que estuvimos, que ser\xE1n las \xFAltimas. Pedimos un \"sashimi club\" y el condrio estaba muy pasado, am\xE9n de que tuvimos que recordarle al mozo que el \"sashimi club\" suele incluir ostras porque de lo contrario no las tra\xEDa. Parecer\xEDa que comenzaron a preparar el sushi con arroz com\xFAn porque varias de las piezas se desarman antes de llegar a la boca y no tienen la consistencia debida. Las piezas con langostinos, si bien no estaban pasadas, tampoco estaban en su punto justo. La luz es insuficiente hasta para adivinar lo que dice el men\xFA y las mesas est\xE1n demasiado conglomeradas. Si no les resulta econ\xF3micamente servir sushi libre por 76$, dejen de hacerlo en lugar de ofrecer un producto deficiente y que no est\xE1 en su justo punto."
+    date: 05-01-2007
+    user: http://mi.guiaoleo.com/members/16320
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "La gente que va no entiende nada de lo que es comer un verdadero sushi, no puede entrar en mi cabeza. Lo \xFAnico que puedo destacar como bueno, es lo atento que fue el mozo que nos atendi\xF3, del resto estoy realmente desilucionada. "
+    date: 11-12-2006
+    user: http://mi.guiaoleo.com/members/14231
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Buena atenci\xF3n, bonito el lugar, pero la comida es bastante mala. Tiene m\xE1s de club, que de sushi."
+    date: 06-12-2006
+    user: http://mi.guiaoleo.com/members/14169
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Com\xED sushi libre, porque unos amigos me invitaron. La verdad es que no me gust\xF3, mucho marketing y poco estilo. Los niguiris estaban hechos y los rolls estaban fr\xEDos ( sacados de la heladera). Me temo que si es as\xED el sushi, est\xE1n desprestigiando la cocina japonesa. He probado muchos mejores."
+    date: 10-11-2006
+    user: http://mi.guiaoleo.com/members/11909
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Sushi club tiene buen ambiente, atenci\xF3n respetable y el precio caro para el producto. Es el peor sushi que com\xED teniendo en cuenta la trayectoria del lugar. No lo termin\xE9 de comer. "
+    date: 18-10-2006
+    user: http://mi.guiaoleo.com/members/12944
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Que puedo decir? MALISIMO. Los  cortes de sashimii, \xBFcomo te lo dan en cubito? Eso no es sushi, \xA1es un trozo de pescado crudo! Y los rolls ni hablar, no es del tama\xF1o que tiene que ser un roll y los niguiris son desproporcionados. Es todo un arte y lo que hace Sushi Club es desprestigiar la gastronomia japonesa. Debido a la iluminaci\xF3n del ambiente no se ve nada, no distingu\xEDa cual era del salm\xF3n y cual de lenguado. Los postres -sabiendo que no son japones- estuvieron pasables."
+    date: 20-09-2006
+    user: http://mi.guiaoleo.com/members/5241
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Com\xED muy bien, caro pero vali\xF3 la pena."
+    date: 17-09-2006
+    user: http://mi.guiaoleo.com/members/12109
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La verdad que excelente, la llev\xE9 a mi madre que nunca hab\xEDa ido. \r\n\
+      Muy buen servicio, excelente la moza que nos atendi\xF3, con muy buena onda, pero muy ubicada. \r\n\
+      El sushi, simplemente el mejor, se notaba que todo era fresco. Lo recomiendo."
+    date: 10-09-2006
+    user: http://mi.guiaoleo.com/members/9501
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fue tal cual como esperaba, muy buena atenci\xF3n, muy dispuestos y atentos con mis gustos y el sushi de un nivel excelente. Totalmente recomendable."
+    date: 04-09-2006
+    user: http://mi.guiaoleo.com/members/11735
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente.
+    date: 29-08-2006
+    user: http://mi.guiaoleo.com/members/11569
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Es un lugar en el que saben lo que hacen, se nota creatividad y experiencia.
+    date: 21-08-2006
+    user: http://mi.guiaoleo.com/members/11355
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Soy un asiduo cliente de este local y debo decir que tanto la cocina como el sushi y el servicio son excelentes.
+    date: 15-08-2006
+    user: http://mi.guiaoleo.com/members/11350
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Pedimos una porci\xF3n de sushi de sesenta  piezas y lo compartimos cuatro personas. Estaba muy rico, bien servido y el precio razonable. Los postres bastante buenos."
+    date: 10-08-2006
+    user: http://mi.guiaoleo.com/members/11069
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "Los cortes del sashimi eran enormes y duros. \r\n\
+      El skin roll es de lo peor que he comido. Con un aroma fuert\xEDsimo a pescado. \r\n\
+      Muy bueno el servicio, pero la comida no me pareci\xF3 nada buena."
+    date: 10-08-2006
+    user: http://mi.guiaoleo.com/members/7251
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Todo muy bien, ambiente tranquilo aunque un poco oscuro. La comida subi\xF3 de precio pero estuvo rica. Muy buen servicio."
+    date: 04-08-2006
+    user: http://mi.guiaoleo.com/members/8637
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "El sushi es bastante bueno, la atenci\xF3n es de lo peor. \r\n\
+      No existe el respeto, faltar\xEDa que tambi\xE9n te lo cobren para respetarte... El ambiente es muy poco \xEDntimo, las mesas est\xE1n muy pegadas y no se puede conversar con comodidad. Del precio ni hablar, es alt\xEDsimo, el sushi lo vale, pero el resto del servicio seguro que no. \r\n\
+      Por mi parte evitar\xE9 este lugar en el futuro."
+    date: 02-07-2006
+    user: http://mi.guiaoleo.com/members/9528
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Los precios son muy caros con respecto al servicio y la calidad de los productos.
+    date: 24-06-2006
+    user: http://mi.guiaoleo.com/members/9886
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La variedad y calidad del sushi es excelente. El servicio tambi\xE9n excelente. Muy recomendable pedir sushi libre."
+    date: 18-06-2006
+    user: http://mi.guiaoleo.com/members/2126
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Regular.\r\n\
+      La decoraci\xF3n (fashion) y los sillones transmiten comodidad. La luz es excesivamente baja.\r\n\
+      La carta no fue bien explicada. El tempura aceptable, pero los rolls muy malos. Mal elaborados y poca cantidad. El precio es excesivo por este nivel de comida."
+    date: 25-03-2006
+    user: http://mi.guiaoleo.com/members/5806
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Debe ser uno de los peores sushis y sin embargo est\xE1 siempre lleno. Incre\xEDble. \xA1La calidad del salm\xF3n es p\xE9sima y el arroz un plomo! La gente no tiene idea, come cualquier cosa. Y no es m\xE1s barato como antes. No voy m\xE1s."
+    date: 17-03-2006
+    user: http://mi.guiaoleo.com/members/12826
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un poco ruidoso, pero bueno.
+    date: 01-03-2006
+    user: http://mi.guiaoleo.com/members/7687
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente. Hay variedad, es fresco y sabroso. $77 Sushi libre. Vale la pena.
+    date: 22-01-2006
+    user: http://mi.guiaoleo.com/members/16563
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Todo muy rico. La atenci\xF3n fue buena. L\xE1stima la iluminaci\xF3n, que me pareci\xF3 pobre."
+    date: 14-01-2006
+    user: http://mi.guiaoleo.com/members/7220
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Todo muy bueno, empezando por la sopa que te sirven cuando lleg\xE1s, hasta la atenci\xF3n y la comida. \r\n\
+      Sin embargo, es caro."
+    date: 02-10-2005
+    user: http://mi.guiaoleo.com/members/3287
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Le sigue faltando mucho al sushi en Baires. Faltan m\xE1s variedades de at\xFAn, anguila y otras componentes b\xE1sicas.  El abuso del queso crema y los rolls a lo california dejan bastante que desear. La calidad del jenjibre es realmente mala. Detro de lo malo del sushi local, igualmente se destaca."
+    date: 23-09-2005
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un sushi de muy buena calidad: Fresco, bien presentado. La atenci\xF3n de los camareros es excelente. Muy recomendable."
+    date: 08-05-2005
+    user: http://mi.guiaoleo.com/members/1880
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Altamente recomendable. Voy super seguido porque me siento realmente a gusto. Todo es excelente.
+    date: 22-04-2005
+    user: http://mi.guiaoleo.com/members/1612
+    ambiente_rank: excelente

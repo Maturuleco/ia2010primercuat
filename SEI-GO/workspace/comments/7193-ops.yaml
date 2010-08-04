@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar para escuchar un buen show y comer 10 puntos!\r\n\
+      Lo recomiendo, es \xFAnico!!!"
+    date: 05-07-2010
+    user: http://mi.guiaoleo.com/members/84802
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente salida!encontramos una especial combinacion de de buna m\xFAsica, buen ambiente,tiene un hermoso jardin para tomar algo antes del show, y buena comida(mejor\xF3 much\xEDsimo desde la otra vez que hab\xEDamos ido hace un a\xF1o).Todo eso por un precio m\xE1s que accesible.Un lugar diferente."
+    date: 29-06-2010
+    user: http://mi.guiaoleo.com/members/84489
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Great food and attention. The music is the best in the world, JAZZ!!!.My days at Bs As are better thanks to this place.
+    date: 28-06-2010
+    user: http://mi.guiaoleo.com/members/84518
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente relaci\xF3n precio/ calidad.\r\n\
+      Un lugar \xFAnico por su jard\xEDn en pleno centro de buenos aires: un pulm\xF3n verde y tranquilo para desacelerar y volver con pilas al trabajo.\r\n\
+      volver\xE9 de noche a ver algun show."
+    date: 24-06-2010
+    user: http://mi.guiaoleo.com/members/84256
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui con mi marido y una pareja amiga, realmente me encanto el lugar.  El ambiente es muy agradable y tanto la atenci\xF3n como la comida fueron excelente.  Muy recomendable."
+    date: 18-06-2010
+    user: http://mi.guiaoleo.com/members/84137
+    ambiente_rank: muy bueno

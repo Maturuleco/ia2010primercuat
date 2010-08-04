@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy bueno todo, pedimos panqueques dulces salados y de postre uno de manzana con helado buenisimo tood\r\n\
+      muy abundante y muy bueno el servicio\r\n\
+      el local peque\xF1o \r\n\
+      podrian mejorar los ba\xF1os"
+    date: 06-10-2009
+    user: http://mi.guiaoleo.com/members/69939
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Buena comida, ricos panques salados y el de dulce de leche con chocolate excelente. ambiente un poco chico. muy buena atencion
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/9132
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me gusta ir seguido. Los aros de cebolla gigantes y el panqueque de la foto son buen\xEDsimos. Gran variedad de panqueques y hamburguesas."
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/72296
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los panqueques son riqu\xEDsimos e inmensos, el servicio est\xE1 muy bien, buena gente. El lugar es m\xE1s para ir con amigos o pareja pero nada rom\xE1ntico, mucho ruido, pero si vas a distraerte est\xE1 perfecto. Fuimos varias veces y lo recomendamos. Un dato interesante: cada panqueque tiene un nombre de un famoso al cual fue dedicado."
+    date: 17-04-2009
+    user: http://mi.guiaoleo.com/members/67574
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: comimos unos lomitos los cuales no nos parecieron nada del otro mundo. Caro, atencion lenta, papas fritas aceitosas y lomitos como en cualquier lado. Creo que zafan con los panqueques que una vez comi en la costa.
+    date: 09-08-2008
+    user: http://mi.guiaoleo.com/members/18743
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "ahora son todos carlitos? pobre carlitos tiene mas familiares que los campanelli. la comida es ahi no mas, la pizza parecia la gomosa de carrefour, no vuelvo ni lo recomiendo fui dos veces p\xF3r estar de paso pero la proxima me como una torta frita en la plaza jajajaja"
+    date: 29-02-2008
+    user: http://mi.guiaoleo.com/members/40134
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "En Carlitos se comen muy ricos panqueques (hay muchas variedades, tanto en salados como en dulces). El lugar es peque\xF1o, pero acogedor. La atenci\xF3n es siempre buena onda, aunque de vez en cuando tarden un rato en venir. El precio es aceptable."
+    date: 19-01-2008
+    user: http://mi.guiaoleo.com/members/38402
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La nueva generacion de Carlitos deja mucho que desear. Es mucho mejor lo de Carlitos en otras localidades: mucho mejor la atencion y mucho mejor todo."
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/19602
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Estaba paseando por la zona y decidimos entrar. El lugar es peque\xF1o y muy sobrecargado. Fue dif\xEDcil encontrar una mesa. El servicio es mal\xEDsimo, tardaron un mont\xF3n en atendernos y traernos el pedido. La comida es buena, no tiene mucha variedad como en otros Carlitos. \r\n\
+      La relaci\xF3n precio/calidad est\xE1 bien y los platos son abundantes. Algo que no me gust\xF3 es que las mesas est\xE9n tan juntas."
+    date: 23-02-2007
+    user: http://mi.guiaoleo.com/members/15820
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La verdad que los panqueques y las hamburguesas son buen\xEDsimas, no duden en ir."
+    date: 09-04-2006
+    user: http://mi.guiaoleo.com/members/7621
+    ambiente_rank: muy bueno

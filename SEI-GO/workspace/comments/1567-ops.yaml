@@ -1,0 +1,65 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Concuerdo con un comentario anterior. Nada demasiado destacable pero tampoco nada fuera de lugar.
+    date: 23-06-2010
+    user: http://mi.guiaoleo.com/members/77044
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: El lugar es muy estetico. Parece una pulperia. El lomo que pedimos fue mal cocinado (arrebatado), cocido por afuera y crudo por dentro, tal es asi que estaba frio adentro. Ademas no era tierno.
+    date: 04-04-2010
+    user: http://mi.guiaoleo.com/members/78469
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "el dia que fui hubo show, de dos tenores, excelente!!!!! la comida es muy buena, tambien el servicio. El ambiente me encant\xF3, muy de campo, ideal para ir con amigos."
+    date: 18-01-2010
+    user: http://mi.guiaoleo.com/members/75165
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Es un lindo lugar, sin nada que se destaque pero tampoco nada para criticarle. La comida es simple pero rica, y la atencion muy buena.
+    date: 30-09-2009
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Este lugar me trae bellos recuerdos, eh ido a comer muchas veecs con gente muy querida y siempre eh salido queriendolos mas.
+      El calzone es excelente, la pizza es rica y hasta la cerveza me cae bien.
+      Un lidno lugar que a veces hay shows y se la pasa bien.
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/34966
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fuimos por casualidad y nos encontramos con una rica pizza y con mucha variedad de minutas. No nos arriesgamos a los platos elaborados, veremos. El servicio es bueno, pero algunas veces se quedan en la barra charlando y no estan atentos a las mesas, estuve 15 minutos para pedir la cuenta. Pero tampoco es "mala atencion". El ambiente es muy agradable, un poco despareja la decoracion, como que no se define por nada, y le falta algo de musica de fondo... pero es comodo. No dejen de probar la pizza de roquefort que es deliciosa.
+    date: 08-05-2009
+    user: http://mi.guiaoleo.com/members/1487
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy lindo lugar en el barrio, sin grandes lujos pero buena la comida, que se ha mantenido en estos a\xF1os. Los precios accesibles y buen ambiente. En este caso fui un viernes pero tambi\xE9n he ido los s\xE1bados con show, interesante. Para volver"
+    date: 29-12-2008
+    user: http://mi.guiaoleo.com/members/10204
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "De lo mejor que hay en el barrio!!! La pizza es exquisita!!! Lo conoc\xEDamos de noche y nos gustaba much\xEDsimo tanto por la comida como por los shows de los s\xE1bados. La verdad que al mediod\xEDa es una de las mejores propuestas en el barrio para un almuerzo mas que l\xF3gico!!! Volveremos!!!"
+    date: 14-04-2008
+    user: http://mi.guiaoleo.com/members/43428
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos con la intenci\xF3n de comer algo rico, sin pretensiones. Lo que no sab\xEDamos era que los precios de la siembra s\xED taaan pretensiosos. ($36 por un sandwich de lomito). Nos quedamos, luego de esperar media hora larga (uh chicos, me olvid\xE9 de uds!) pedimos una pizza de verdura con jam\xF3n. Para ser la especialidad del lugar: malisima. Saladisima y sin gracia. La masa aceptable. Para no volver nunca. A tres cuadras se encuentran opciones m\xE1s ricas, en lugares m\xE1s lindos y a mitad de precio."
+    date: 23-02-2008
+    user: http://mi.guiaoleo.com/members/6964
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar agradable, tranquilo, con varios a\xF1os en el barrio. Suelo ir a tomar un cafecito  y a comer pizza con amigos. \r\n\
+      La pizza me parece muy rica (a la piedra) y muy interesante la relaci\xF3n precio calidad."
+    date: 05-09-2007
+    user: http://mi.guiaoleo.com/members/21080
+    ambiente_rank: muy bueno

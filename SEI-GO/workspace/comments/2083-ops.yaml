@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La atenci\xF3n es muy buena, el sushi bueno, el postre podr\xEDa ser mejor. \r\n\
+      El lugar est\xE1 muy bien ambientado, s\xF3lo debieran mejorar los ba\xF1os."
+    date: 02-05-2007
+    user: http://mi.guiaoleo.com/members/22537
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar diferente en Avenida de Mayo, al ser el \xFAnico de la zona con sushi..atenci\xF3n r\xE1pida, comida abundate y sabrosa.."
+    date: 13-04-2007
+    user: http://mi.guiaoleo.com/members/21529
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fuimos ocho personas. Los platos son variados. Buena la atenci\xF3n, (era mi\xE9rcoles, hab\xEDa poca gente). Sushi bueno, gigot regular; la guarnicion estaba bien lograda; la carne era dura; el carr\xE9 recocido y la salsa quemada (\xBFpor qu\xE9 no devolvimos el plato?). Las pechugas estaban aceptables; los que pidieron sushi repitieron. La carta de vinos es tradicional. Dudoso. "
+    date: 07-03-2007
+    user: http://mi.guiaoleo.com/members/13097
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy cl\xE1sico y muy buena atenci\xF3n del mozo. El servicio es r\xE1pido y la comida abundante y buena."
+    date: 07-01-2007
+    user: http://mi.guiaoleo.com/members/15686
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Lugar muy tranquilo, con excelente atenci\xF3n. \r\n\
+      El pescado estaba excelente pero en cuanto al tiramis\xFA, he comido mejores. \r\n\
+      Se destaca en la relaci\xF3n costo/beneficio."
+    date: 29-07-2006
+    user: http://mi.guiaoleo.com/members/7394
+    ambiente_rank: muy bueno

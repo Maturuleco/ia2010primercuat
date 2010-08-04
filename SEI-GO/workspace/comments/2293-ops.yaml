@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La comida muy mala, parecia todo recalentado. No tenia gusto a nada. La verdad es que es una verguenza que le ofrezcan esa comida a los extranjeros.
+    date: 19-03-2009
+    user: http://mi.guiaoleo.com/members/59995
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: El lugar son un par de mesas en la calle. La carne que comimos estaba terriblemente dura. El show fue muy pobre, no te daban ganas de mirarlo. Para nada recomendable.
+    date: 16-03-2009
+    user: http://mi.guiaoleo.com/members/59861
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Buena ambientaci\xF3n, c\xE1lida atenci\xF3n, productos frescos y muy buena presentaci\xF3n de los platos."
+    date: 28-01-2006
+    user: http://mi.guiaoleo.com/members/6105
+    ambiente_rank: excelente

@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: no me gusto la comida mala el servicio esmerado no volveremo!!!
+    date: 01-07-2010
+    user: http://mi.guiaoleo.com/members/84611
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "En este caso voy a referirme a la comida respecto de su precio, la cual en si es bastante buena. Lo mejor de este lugar es el delivery, tiene comida de buena calidad con varios men\xFAes preparados con precios muy econ\xF3micos que arrancan en el orden de los $15 ideal para aquellos que piden a diario y quieren batallar comiendo variado y econ\xF3mico. Mi comida estaba bastante buena, un lomo jugoso con una salsa adecuada. Un lugar para comer sin exigencias, en un lugar con mozos de oficio, en un ambiente sencillo sin modernimos. Para comer si se est\xE1 al paso y quiz\xE1 aprovechar el delivery."
+    date: 01-04-2009
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: bueno y barato no van de la mano, por $30 hoy por hoy no se puede pedir mucho, de todos modos en cuanto a la atencion fue una de las eXperiencias mas bizarras que he vivido a lo largo de mi vida.
+    date: 05-07-2008
+    user: http://mi.guiaoleo.com/members/20961
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: NO vuelvo mas. Si bien los $30 del menu (plato, postre y bebida por la noche) es muy accesible, la comida demoro 55' tratandose de un menu promocional . Los zapallitos de light no tenian nada, ya que contenian salsa blanca y queso de maquina gratinado. El mozo seria nuevo , no se, pero no sabia ni siquiera sumar , menos que menos atender. Hubo que reclamar el servicio de mesa (una empanda fria y picante ) que tardo 25' en ser servida. NO vuelvo
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/20990
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Muy buena la atencion de la srta mesera, muy voluntariosa y atenta,la comida un desastre imaginense un chop suey de pollo con berenjenas duras y una lasagna de berenjenas con la verdura sin cocinar, dura la pasta un desastre, solo tenian 1 botella de cerveza negra, que restaurante!!y a la hora de la queja el due\xF1o o encargado no dio la cara y se nego a cambiar un plato del menu, el helado de frutilla un fiasco, al igual que el resto de la comida, PESIMO!! cambiaron de cocinero MAL. Debut y Despedida, hasta quitaron el cafe del menu..."
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/38321
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Recomendable el men\xFA de $25 que incluye plato, bebida, postre y caf\xE9. Hay mucha variedad para elegir y es abundante y rico (salvo el helado). La moza bien pero en algunos momentos ten\xEDa contestaciones un poco extra\xF1as."
+    date: 13-01-2008
+    user: http://mi.guiaoleo.com/members/9487
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La verdad para recomendar. Muy buena la atencion. Se cumple precio, calidad y servicio.
+    date: 01-10-2007
+    user: http://mi.guiaoleo.com/members/22617
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Se trata de un lugar comun, sin lujos, buena comida y presetacion, lo mejor de todo es el precio de sus menues (23 con postre y cafe) y una variedad muy extensa de opciones (algunas light). Lo recomiendo.
+    date: 01-09-2007
+    user: http://mi.guiaoleo.com/members/20990
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "muy buena  comida y super la decoraci\xF3n de los platos, quede bien con mi novia y mis suegros"
+    date: 07-08-2007
+    user: http://mi.guiaoleo.com/members/29037
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Comida buena, fuimos con un grupo de amigos. Recomendable para agasajar a alguien.
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/21578
+    ambiente_rank: excelente

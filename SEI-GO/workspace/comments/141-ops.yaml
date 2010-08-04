@@ -1,0 +1,102 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Pedi Delivery y tardo 2horas y 40 en llegar.
+      De hecho llego 30 minutos despues de que cancelemos el pedido. Pesimo.
+      Este lugar solia ser bueno...
+      El servicio = siempre dejo mucho que desear
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/84377
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Clasica decoracion de resto chino pero bastante venido a bajo... Los platos t\xEDpicos (chow mien, fan, etc) son muy buenos pero si pedis algo con poca salida deja mucho que desear como el cerdo picante que comi yo...Muy buenas los arrolladitos primavera..."
+    date: 03-03-2010
+    user: http://mi.guiaoleo.com/members/77284
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Era cliente asiduo hasta que reclam\xE9 por un delivery (pescado recalentado y duro) y me respondieron p\xE9simo, sobretodo el mozo que no s\xE9 por qu\xE9 se meti\xF3 en el medio. Muy mal."
+    date: 05-09-2009
+    user: http://mi.guiaoleo.com/members/68627
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La comida es rica, en especial el pollo con almendras y el chaw fan. Los arrolladitos estaban con demasiado aceite para mi gusto. El lugar podria mejorar bastante con una decoracion mejor. La atencion es buena, aunque estan a full con el delivery y a veces te descuidan. Gracias,
+    date: 20-07-2009
+    user: http://mi.guiaoleo.com/members/47670
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida muy buena, uno de los mejores, la ambientaci\xF3n podria mejorar mucho, ya que esta un poco descuidada."
+    date: 08-05-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: la verdad me gusta mucho ese lugar, no por que pase ahi las mejores cenas de mi vida, sino xq es un lugar tranquilo, comida abundante, buen trato, y precios muy accesibles. pido seguido comida ahi y voy seguido porque esta a metros de mi casa, jejeje. el pollo con almendras muuuuy rico. y siempre pido salsa agridulce de mas! me encanta! y la chinita q atiende a veces el telefono es divina,jeje.
+    date: 15-09-2008
+    user: http://mi.guiaoleo.com/members/49268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Pedi a domicilio, eramos 5 personas de las cuales 3 hombres. Pedimos pollo agridulce, recomendable, el chaw fan bien hecho tiene que estar bien, y asi fue.
+      Por otra parte pedimos fideos fritos, tambien recomendables y un plato de fideos de soja que me recomendaron en el local. Una comida divertida, sabrosa, muy economica que llego en tiempo y forma y por sobre todas las cosas abundante.
+    date: 18-04-2008
+    user: http://mi.guiaoleo.com/members/18034
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: antes era mejor, igual mantiene la calidad de los arrolladitos y el servicio. el ambiente habria que mejorarlo y modernizar un poco los platos.
+    date: 12-01-2008
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Deberian reajustar la ambientaci\xF3n ya. La comida es sabrosa y el precio justo. "
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/21064
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Este es un lugar que es muy conocido como delivery pero es realmente muy bueno tambi\xE9n para una cena tranquila, en la cual puedes probar las exquisitas variedades de pollo y chow fan. el servicio es bueno la comida muy buena y abundante (generalmente para compartir), y el ambiente esta bien. recomendable"
+    date: 07-06-2007
+    user: http://mi.guiaoleo.com/members/18704
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es mejor que en cualquier otro restaurante chino. \r\n\
+      Es riqu\xEDsimo comiendo en el lugar o pidiendo a domicilio. \r\n\
+      Como en este lugar hace medio a\xF1o bastante seguido, porque es excelente."
+    date: 10-08-2006
+    user: http://mi.guiaoleo.com/members/11053
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cen\xE9 un pollo agridulce, con arroz con huevo y empanaditas. \r\n\
+      Lo ped\xED a domicilo, r\xE1pido , con buena onda, una alegr\xEDa incomparable. Un lujo.\r\n\
+      Sin comparaci\xF3n en el barrio."
+    date: 15-06-2006
+    user: http://mi.guiaoleo.com/members/9346
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un restaurant normal que hacen comida china, pierde mucho con la falta en la ambientaci\xF3n, hasta en la vestimenta de las mozas."
+    date: 27-02-2006
+    user: http://mi.guiaoleo.com/members/19123
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "El pollo con bamb\xFA es riqu\xEDsimo, los arroladitos regular. En China Town lo hacen mejor."
+    date: 24-02-2006
+    user: http://mi.guiaoleo.com/members/6604
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente y es uno de los restaurantes m\xE1s cordiales de Capital.\r\n\
+      La atenci\xF3n es muy buena."
+    date: 28-11-2005
+    user: http://mi.guiaoleo.com/members/5036
+    ambiente_rank: muy bueno

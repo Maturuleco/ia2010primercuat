@@ -1,0 +1,67 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El ambiente es muy pintoresco y atractivo. Quiz\xE1s demasiados objetos, pero el sitio es tur\xEDstico y parecer agradar a los visitantes. La comida fue muy buena. Las mollejas al oporto como entrada fueron muy ricas, y el lomo a las tres pimientas en su punto. Los platos no me parecieron nada escasos. Pidiendo entrada, fueron m\xE1s que abundantes. Los postres no pudimos probarlos, una l\xE1stima. Pero es un lugar para volver y m\xE1s aun con el beneficio Amex."
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/77723
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Un lugar muy tranquilo con una ambientaci\xF2n muy pintoresca. La atenci\xF2n muy buena. La comida buena tambien, solo que las pociones son un poco escasas, ya que por el valor se puede comer mucho mejor en otros lugares. Lo recomiendo para una noche de calorcito en la vereda con una cerveza tirada."
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/24928
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ya no tiene el dise\xF1o ni la comida de la epoca del Gato Dumas, el publico tambien elige distinto.\r\n\
+      Transformado en parrilla ha ido logrando su impronta y hoy con una decoracion vistosa es una buena opcion en la remodelada vereda de Recoleta.\r\n\
+      Buenos cortes a la parrilla, atencion amable, precios accesibles para la zona.\r\n\
+      Para darle una oportunidad."
+    date: 24-03-2010
+    user: http://mi.guiaoleo.com/members/6994
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Comimos afuera, trato cordial, todo en termino.
+      Bien.
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/49531
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena, la atenci\xF3n de los mozos es correcta. Un poco excesivo el precio, supongo que es por la zona en que se encuentra."
+    date: 21-08-2009
+    user: http://mi.guiaoleo.com/members/40485
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Todo bueno pero nada extraordinario, como uno puede esperar de Recoleta y del viejo Clarks. Ambiente y atencion discreto, ba\xF1os chicos pero limpios.\r\n\
+      No me gusto que cobraran cinco pesos el cubierto que ofrecia pancitos humedos y un pancito de manteca."
+    date: 28-08-2008
+    user: http://mi.guiaoleo.com/members/16255
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos a cenar para festejar un cumplea\xF1os y la verdad que el lugar deja bastante que desear, la atenci\xF3n realmente muy mala, a desgano y con prepotencia, la comida escasa y no muy buena, lo \xFAnico que me gusto fue la empanada de entrada. El ambiente tranquilo y agradable, en ese aspecto sin quejas, pero mejor optar por otra opci\xF3n, en mi opini\xF3n. "
+    date: 16-11-2007
+    user: http://mi.guiaoleo.com/members/35696
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Requiem para el Clark''s tradicional. No qued\xF3 m\xE1s que el nombre. Ahora en tren de convertirse en una parrilla de segunda. S\xED, aunque los clientes tradicionales no lo puedan creer. "
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/7603
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena la atenci\xF3n. Buena comida, especialmente el plato principal: \xA1riqu\xEDsimo!. El valor es un poco caro, pero es Recoleta."
+    date: 25-09-2006
+    user: http://mi.guiaoleo.com/members/7210
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El viernes por la noche estuvimos por recoleta y nos encontramos con este restaurante. Somos Chilenos y la atenci\xF3n y el clima fueron en extremo agradables. Hab\xEDa show y muy bueno. Excelente y abundante la comida. El trato por parte de los mozos fue excelente tambi\xE9n. Realmente de estar en Buenos Aires, lo elegir\xEDamos como nuestro preferido."
+    date: 20-09-2006
+    user: http://mi.guiaoleo.com/members/12197
+    ambiente_rank: excelente

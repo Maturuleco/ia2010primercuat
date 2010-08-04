@@ -1,0 +1,377 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Bastante caro para lo que era la comida. Tardamos m\xE1s de una hora en sentarnos y eso que ten\xEDamos reserva. El ambiente no me gust\xF3 para nada."
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/84331
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente comida. Los helados son muy ricos y tienen un gusto casero. El servicio fue muy bueno, y las masitas con el caf\xE9 son imperdibles."
+    date: 21-06-2010
+    user: http://mi.guiaoleo.com/members/81346
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Buenos panes. La calidad de los ingredientes,hongos, mariscos y el pescado es \xF3ptima, no as\xED la preparaci\xF3n, ya que toda la comida,como de costumbre, estaba  p\xE9simamente condimentada, le faltaba de todo empezando por la sal,y el salm\xF3n estaba pasado de punto. A la parrillada le faltaba pulpo y lo agregaron cuando les dijimos.La atenci\xF3n, p\xE9sima, como siempre, ya que le aclaramos el orden de las entradas y platos principales al mozo, repiti\xE9ndolo tres veces, y trajo todo junto, quedando durante toda la comida las parrillitas de hierro echando humo sobre nuestros rostros y ropa."
+    date: 18-05-2010
+    user: http://mi.guiaoleo.com/members/36322
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Fervor es un restaurante que fue pensado y las mayorias de las cosas estan muy bien logradas. El valet parking es muy importante pero el auto lo dejan en la calle y frente al restaurant es un descontrol todas las noches. La comida es de muy buena calidad, tanto el pescado como las carnes (la parrillada de mar es excelente y el asado de tira  se distingue del resto de los cortes). El helado es el mejor que pueden probar en Buenos Aires y alrededores. Proveniente de "La Taberna" de Lomas de Zamora, uno puede disfrutar de un helado espectacular, al igual que en Sottovoce.
+    date: 16-05-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Comida bien preparada y presentada. La atencion , mejorable.
+    date: 28-04-2010
+    user: http://mi.guiaoleo.com/members/30665
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buen lugar.Para adoptarlo
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/66916
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      El Lugar es muy lindo, muy buena la ambientacion, pero bastante ruidoso.
+      La comida muy buena y abundante, Pedimos media porcion de mollejas para 3 y estuvo muy bien! La carta de vinos muy buena. El servicio es lento, esperamos 40 minutos por un postre!!
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/34062
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: longa espera, de uma hora, mas valeu o tempo gasto.
+    date: 19-03-2010
+    user: http://mi.guiaoleo.com/members/78606
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar magn\xEDfico donde comer pescado es un placer. El punto del pescado es el justo. La parrillada de mar tiene una excelente relaci\xF3n precio calidad, comen abundantemente 2 personas adultas.\r\n\
+      El servicio es incre\xEDble, la atenci\xF3n de los camareros es siempre la correcta y nunca cargosean a los comensales. Est\xE1n pero no se hacen notar.\r\n\
+      En la planta superior no hay tanto bullicio como en planta baja.\r\n\
+      Recomendable."
+    date: 02-03-2010
+    user: http://mi.guiaoleo.com/members/77723
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente parrilla con variedad de carne y pescado (cosa rara). Servicio atento y cuidadoso. El lugar es muy lindo, excelente para una salida con amigos. Demasiado ruidoso para una cena en pareja. Para volver!
+    date: 02-03-2010
+    user: http://mi.guiaoleo.com/members/42568
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Siempre que voy a Fervor es un placer, la comida excelente y el entorno sin ser pretencioso es agradable, especialmente al mediod\xEDa, la atenci\xF3n muy correcta sin resultar cargosa, me gusta mucho este lugar..."
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/7277
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "En mi opini\xF3n, muy por encima de otras parrillas mejor calificadas en \xD3leo. Toda la comida es de calidad, y la carne de muy buen nivel. la parrilla de pescado es cierto que sale un poco seca. En todo caso, el conjunto claramente por encima del 18 que obtiene en el apartado de la comida."
+    date: 04-02-2010
+    user: http://mi.guiaoleo.com/members/57149
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Ayer fue mi primer visita a vuestro local. Me gusto ver tantos comensales disfrutando de vuestras especialidades. Un placer haber estado en vuestro lugar.
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/73940
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      El servicio es excelente! los mozos muy cordiales y respetuosos. 
+      La comida muy buena y a punto. Rapido servicio. 
+      La ambientacion no es tan buena, las mesas estan muy juntas y le falta luminosidad.
+    date: 14-12-2009
+    user: http://mi.guiaoleo.com/members/73672
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena opcion con la variante de parrilla de mar. Buena calidad de alimentos como asi tambien la preparacion de los mismos. El ambiente es agradable aunque un tanto ruidoso y las mesasun poco juntas. Vale la pena repetir.
+    date: 25-11-2009
+    user: http://mi.guiaoleo.com/members/43152
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "\xA1 Estuve realmente  en este hotel ayer sabado 14 a la noche junto a mis primos de USA ? lA COMIDA  era tan mala, sobrecocida, las ensaladas tan pobres, un plato supuestamente muy original sin ningun sabor particular: champignones a las brasas. Los postres, poco varaiados, los que uno pide habitualmente en una fonda en Buenos Aires. Varios mozos alrededor, poco sonrientes y  profesionales ,con un dominio pobre del ingles. Las mesas pegadas, ruidosas. Le hice, finalmentye un reclamol al gerente, no demostro mucha preocupacion. Quede mal con mis primos. Obviamente, \xA1 Nada recomendable !"
+    date: 15-11-2009
+    user: http://mi.guiaoleo.com/members/14892
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Siempre que voy me sorprenden gratamente. Hacen sentir bien a la gente desde que llega hasta que se va. Para mi es la MEJOR parrilla de Buenos Aires. Sin duda la que mejor sabe tratar las delicias de mar. Uno se siente un rey. Los tragos son deliciosos y los postres manjares.Es imposible no enforvorizarse con este restaurante. GENIAL!!
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/1730
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy lindo lugar con buen servicio. Nos sentaron en una mesa al lado de la cocina/caja que ni deberia existir en un lugar de este nivel, pero pedimos que nos cambien y nos pasaron a una mesa correcta. La comida estuvo muy bien y abundante. Los precios muy altos. La carta de vinos incluye algunas opciones muy interesantes a precios razonables.
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/25520
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fuimos por segunda vez, con amigos de Puerto Rico. La comida en general es buena, con la excepci\xF3n de los pimientos a las brasas, acuosos y sin sabor y el pulpo, lamentable, gomoso y con sabor a parrilla, no a pulpo y eso que te lo cobran 85 pesos, un disparate, si por lo menos fuese bueno !..Toda la comida est\xE1 te\xF1ida con el mismo sabor a parrilla, pidas lo que pidas, lo que lo hace mon\xF3tono. Esta vez el servicio fue mejor,  apretado el primer piso, nos sent\xEDamos un poco ahogados.\r\n\
+      En fin, de 0 a 10...6,50 y pierdo plata."
+    date: 07-10-2009
+    user: http://mi.guiaoleo.com/members/69970
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La parrillada muy rica y abundante. Una decepcion la carta de postres, esperaba algo mas original. La mayoria eran postres tipicos: flan casero, panqueques, vigilante, mousse...etc"
+    date: 04-09-2009
+    user: http://mi.guiaoleo.com/members/68597
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es buena, los platos abundantes, los pescados no los sobrecocinan, que es lo habitual en la mayor\xEDa de los restaurantes, a\xFAn los muy buenos. Los precios muy altos, $ 24,00 por una ensalada y $ 19,00 por unas papas fritas es un desatino y encima te caen con $ 8,00 de cubierto por persona, despu\xE9s de que te marcaron el triple los precios de los vinos.\r\n\
+      El servicio es lamentable, los mozos son mal educados y brutos, uno me tiro un pedazo de chorizo dentro de la copa de vino y ni cuenta se di\xF3. El lugar un poco ruidoso y las mesas muy pegadas. "
+    date: 03-09-2009
+    user: http://mi.guiaoleo.com/members/8487
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Buena ubicacion. Siendo los mismos de Sottovoce uno siempre llega con preconceptos y espera que este a la altura de su primo. Los pescados estan bien. A veces las cocciones de los mismos pecan por satisfacer el paladar de los locales que no saben comer pescado. Seria ideal respetar las cocciones que se merece la pesca. Igualmente es una buena opcion. La deco es medio aburrida "TARGET Senior Citizens", pero seguro que tienen claro que son sus clientes...
+    date: 19-08-2009
+    user: http://mi.guiaoleo.com/members/68651
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: la comida es de calidad y hay una buena relacion entre esta y el precio, el servicio si bien no es muy profesional no desentona demasiado yen cuanto al lugar es una vidriera para ver y ser visto, igualmente no deja de ser agradable y calido. Volveria
+    date: 29-07-2009
+    user: http://mi.guiaoleo.com/members/36525
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me encant\xF3. El ambiente, el servicio y la comida muy buena.\r\n\
+      El helado de maracuya una delicia as\xED como el de mandarina, atenci\xF3n de la casa.\r\n\
+      El precio es adecuado, si bien no es barato, con la atenci\xF3n recibida.\r\n\
+      Volveremos y lo recomendaremos a amigos"
+    date: 26-07-2009
+    user: http://mi.guiaoleo.com/members/41274
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Muy buena la panera, la carne regular fuera de punto y dura, muy ricos los helados, los petits fours muy malos, el cafe quemado y la atencion regular
+    date: 16-07-2009
+    user: http://mi.guiaoleo.com/members/65596
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "No es barato, pero posee una adecuada relaci\xF3n calidad precio. Muy buena la parrillada de pescados y mariscos."
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy buenos platos, la mayor\xEDa para compartir. Recomendable."
+    date: 24-06-2009
+    user: http://mi.guiaoleo.com/members/64665
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Habia mucha gente y el lugar se tornaba muy ruidoso, siendo 6 adultos nos sentaron en una mesa redonda para 4 y estabamos muy incomodos sin poder apoyar nada en la mesa. Debieron retirar platos de pan, etc para servirnos.  Los tenedores y platos estaban engrasados y esperamos 10 minutos para que nos sirvan el vino porque no tenian copones para los 6. La comida aceptable aunque le faltaba un poco de sabar y temperatura. El panqueque de dulce de leche no pueden meterlo en microondas en un lugar de este nivel y con estos precios ya que sale como goma.  Por el precio esperaba mucho mas...
+    date: 24-06-2009
+    user: http://mi.guiaoleo.com/members/63764
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La comida aceptable, el lugar muy agradable pero ruidoso. El servicio casi aceptable y los precios muy por encima de lo que deberian.
+    date: 21-06-2009
+    user: http://mi.guiaoleo.com/members/41367
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos un sabado a la noche con mi novia por recomendacion, pero para nada es un lugar para gente joven , el promedio era de 60 a\xF1os hacia arriba. La comida normal, nada espectacular, buen servivio de valet parking, critico la carta de vinos , faltan opciones mas accesibles sobre todo vinos blancos, lo que lei de la copa de cortesia es asi , para algunos si , para otros no, no me ha pasado esto en otros restos como Piegari o La Parolaccia. Consejo: para ir acompa\xF1ado con sus padres."
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/32581
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Reciclaron con buen resultado una antigua tintorer\xEDa del barrio, lograron un ambiente agradable pero algo ruidoso, suele estar muy concurrido, no se pierdan la original ara\xF1a de cucharas, sugiero fundamentalmente las parrilladas de mariscos, productos frescos y de exquisitos sabores, como as\xED tambi\xE9n los helados caseros muy ricos,el servicio es eficiente, los precios son acordes a la calidad y tienen un buen valet parking, la \xFAnica cr\xEDtica es que deben mejorar la temperatura de los platos que suelen llegar un poco fr\xEDos,vamos a volver.-"
+    date: 13-06-2009
+    user: http://mi.guiaoleo.com/members/17263
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Increible la parrillada de mar, no asi la carne. En general va gente mayor y el lugar es un tanto ruidoso. Siempre es mejor reservar. Buen servicio de valet parking.
+    date: 07-06-2009
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La atenci\xF3n es bastante buena,aunque a veces hacen diferencias(atienden mejor y con m\xE1s esmero) a los extranjeros:no se olviden que los locales somos sus clientes seguros...Un d\xEDa copa de cortes\xEDa,otro d\xEDa no.La comida es muy buena y est\xE1 hecha con las mejores materias primas.El precio es razonable de acuerdo a la calidad.El ba\xF1o est\xE1 a dos pisos por escaleras:atenci\xF3n si ha decidido beber!!!Hemos ido varias veces y sigue valiendo la pena."
+    date: 17-05-2009
+    user: http://mi.guiaoleo.com/members/21633
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Vamos seguido. Nos encanta la comida. El servicio es eficiente aunque deber\xEDa mejor. Las porciones son abundantes. La ambientaci\xF3n es muy bonita."
+    date: 17-05-2009
+    user: http://mi.guiaoleo.com/members/62835
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente. La parrillada de mar es fant\xE1stica , el lugar precioso y la atenci\xF3n de todos, en especial de Ricardo es sobresaliente. Pienso seguir visitando Fervor"
+    date: 14-05-2009
+    user: http://mi.guiaoleo.com/members/45301
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La parrillada estaba en su justo punto.Se not\xF3 la frescura en los ingredientes.Los vegetales no estab\xE1n en la misma sinton\xEDa que la parrillada:llegaron casi fr\xEDos a la mesa."
+    date: 24-04-2009
+    user: http://mi.guiaoleo.com/members/57285
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Hace mucho vamos los domigos porque es uno de los pocos restaurantes que abre ese dia. Ha venido de mayor a menor, volviendose cada vez m\xE1s pretencioso y menos agradable. Los mozos quieren dar lecciones de comida a los clientes y la comida ha empeorado de calidad evidentemente."
+    date: 10-04-2009
+    user: http://mi.guiaoleo.com/members/60923
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy bueno el servicio. Ernesto es un genio. La comida a punto y las recomendaciones, excelentes.\r\n\
+      Sorprende la propuesta de conjugar comidas de mar con un buen asado.\r\n\
+      \r\n\
+      Se\xF1ores: dejense deleitar con esta propuesta"
+    date: 16-03-2009
+    user: http://mi.guiaoleo.com/members/29755
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida excelente (muy recomendable la parrillada de mar); tiene una muy buena carta de vinos (aunque con precios muy elevados); la atenci\xF3n es regular."
+    date: 15-03-2009
+    user: http://mi.guiaoleo.com/members/20985
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Ambientado demasiado formal. El servicio fue lento. La carta de vinos es bastante buena. Com\xED lomito de cordero que vino exageradamente especiado. la pr\xF3xima, si vuelvo, pedir\xE9 pescado a la parrilla. Caro en su relaci\xF3n precio calidad."
+    date: 05-03-2009
+    user: http://mi.guiaoleo.com/members/797
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "La comida excelente. El lugar lindo. El servicio floj\xEDsimo, una pena."
+    date: 23-02-2009
+    user: http://mi.guiaoleo.com/members/8584
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comimos muy bien. De entrada pedimos una empanadas santiague\xF1as, la entra\xF1a (exquisita),morcillas y una buena ensalada. Muy buena la atencion. Recomendable."
+    date: 22-02-2009
+    user: http://mi.guiaoleo.com/members/51379
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ambiente tradicional. Servicio amable y equilibrado. Detalles de hospitalidad infrecuente: nos ofrecieron una copa de espumante y entremeses antes del pedido y nos regalaron un almendrado en el postre. Lo m\xE1s emotivo: el nivel de la parrillada de mar (variada, en su punto, bien preparada, comen tres personas, sin espinas ni nada para descartar). Los vegetales grillados son grillados en serio (no fritos ni asados). El resultado global se refleja en un sal\xF3n grande que estaba lleno antes de las 22 hs un martes de enero."
+    date: 30-01-2009
+    user: http://mi.guiaoleo.com/members/10417
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Sitio muy bien puesto, que  puede ser ruidoso cuando est\xE1 lleno; las mesas est\xE1n muy juntas con lo que es ineludible enterarse de las conversaciones del vecindario. Amplia carta de vinos a precios moderadamente altos. Panera bien surtida, que se repone frecuentemente con panes frescos de muy buena factura. Carta de Men\xFA variada en entradas, carnes, pescados, pastas y postres. Atenci\xF3n correcta, pero a veces desordenada pues son varios los mozos que atienden cada mesa. Calidad de comida despareja: algunas piezas de pescado cocidas a la perfecci\xF3n, otras de mariscos y carnes dejaron que desear"
+    date: 28-01-2009
+    user: http://mi.guiaoleo.com/members/32061
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente calidad de comida, buen armado y oferta de platos. Comi parrilla y era de primer\xEDsima. Las mollejas no tenian ni un gramo de descarte. Buen ambiente, muy agradable, solo peque\xF1os detalles de servicio pero digno de recomendar espero se mantenga!"
+    date: 27-01-2009
+    user: http://mi.guiaoleo.com/members/7407
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena la parrillada, pero seria bueno que sea mas amplia, es ecir mas surtido.
+    date: 20-01-2009
+    user: http://mi.guiaoleo.com/members/4466
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Una vez m\xE1s se justific\xF3 haber concurrido a este restaurante. La parrillada de pescado y mariscos es excelente. Destaco el pulpo a la parrilla que no es habitual encontrarlo en otros lugares. Los helados caseros son realmente ricos. La atenci\xF3n muy profesional."
+    date: 13-01-2009
+    user: http://mi.guiaoleo.com/members/52743
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fervor realmente me sorprendi\xF3!!! La parrillada de mar fu\xE9 excelente, el pulpo en su punto justo, los chipirones, langostinos y vieyras muy bien cocinadas, el salm\xF3n en su punto justo. Posee una muy buena carta de vinos y el ambiente es muy bueno. La atenci\xF3n 10 puntos, en ning\xFAn momento nos dejaron librados al azar y el trato fue muy cordial. Ojo, es un lugar serio y paquete con p\xFAblico variado en promedio 40 a\xF1os. Lo recomiendo!!!"
+    date: 02-12-2008
+    user: http://mi.guiaoleo.com/members/16998
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fervor es muy particular,merece una descontracturaci\xF3n. La comida es excelente, no solo las carnes y pescados son de altisma calidad sino que sabes servirla al punto y gusto justo del cliente. El parrillero no se merece menos que una ovaci\xF3n en este punto. Las guarniciones (casi todas) acompa\xF1an soberbiamente los platos. Excepto por las papas fritas, que son las de paquete congeladas. El servicio no es ideal, como nos tiene acostumbrado su \"hermano\" Sottovocce. hay que reconocer que a los camareros les falta afinarse para estar a tono, pero tienen las ganas y la predisposici\xF3n. Para Conocer."
+    date: 23-11-2008
+    user: http://mi.guiaoleo.com/members/1730
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buen lugar, buena comida, buena atenci\xF3n. El punto de cocci\xF3n de los platos que com\xED (pulpo grillado, ojo de bife y cordero) fue excelente y las porciones generosas. La atenci\xF3n es la misma de Sottovoce, tambi\xE9n la concurrencia...volver\xE9 a pesar de esto \xFAltimo."
+    date: 22-11-2008
+    user: http://mi.guiaoleo.com/members/28003
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Una brasserie que pretende mucho mas (cobrando acorde) de lo que llega a ser. La parrillada de mar, supuesta especialidad de la casa, bastante mediocre (el pulpo, por ejemplo, estaba chamusqueado, y el pescado pasado de punt). El servicio muy flojo: la mesa es atendida simultaneamente por varios mozos, pero falta coordinaci\xF3n entre ellos, con lo cual se caen los pedidos. Pedimos un vino blanco, y cuando fue servido para probarlo, notamos que las copas estaban manchadas por borra de vino tinto: el mozo cambio las copas, perdiendo el vino ya servido, sin un pedido de disculpas. Desilusionante."
+    date: 21-11-2008
+    user: http://mi.guiaoleo.com/members/54895
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Estoy impresionado por la calidad de Fervor. Absolutamente destacable dentro de la gastronom\xEDa local. Me sorprenden much\xEDsimo algunos comentarios negativos de usuarios que me precedieron en el comentario. La atenci\xF3n es de alta escuela cl\xE1sica de mozos, algo que est\xE1 en extinci\xF3n. El ambiente y la est\xE9tica, arriba y abajo, son muy agradable. Y la cocina realmente de calidad en pescado y pasta."
+    date: 01-11-2008
+    user: http://mi.guiaoleo.com/members/15
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Se come muy bien pero el servicio tiene que mejorar. El ambiente es clasico.
+    date: 11-10-2008
+    user: http://mi.guiaoleo.com/members/47496
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar me parecio super agradable, muy bien puesto, la atencion maso, fui tarde y senti que no tenian mucho empe\xF1o en atenderme. La comida estaba bien, las porciones eran para compartir y los precios elevados."
+    date: 29-09-2008
+    user: http://mi.guiaoleo.com/members/41367
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El matambre estaba gomoso y grasoso. Las papas no estaban reci\xE9n hechas.Los cuchillos no cortan.Me parece mala la relaci\xF3n precio calidad.La atenci\xF3n est\xE1 bien. La ambientaci\xF3n muy linda. L\xE1stima."
+    date: 14-09-2008
+    user: http://mi.guiaoleo.com/members/51329
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Clasico lugar para \"ver y ser visto\", muy buen ambiente local, pero lamentablemente la comida deja que desear en muchos platos y el servicio es muy apresurado, sigo prefiriendo su local hermano: Sottovoce"
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/4900
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar muy bien ambientado, la barra est\xE1 muy bien para esperar, nos trajeron el vino despu\xE9s de las entradas!!!!, pero fuera de ese detalle es servicio muy bien. A este lugar hay que ir si se quiere comer pescados a la parrilla, son espectaculares, frescos, salen a punto, muy bien. Las carnes normales."
+    date: 29-08-2008
+    user: http://mi.guiaoleo.com/members/20889
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Nueva opci\xF3n de parrilla tradicional-elegante del barrio (Recoleta). Est\xE9ticamente muy agradable y elegante, con mozos al viejo estilo. La comida, en cuanto a carnes y pollo, demasiado com\xFAn como de cualquier parrilla, pero mucho m\xE1s cara. La parrillada de mar en cambio aparec\xEDa como muy superior. El servicio correcto.Los clientes, bien de la zona, eran b\xE1sicamente personas mayores muy elegantes. La relaci\xF3n precio calidad no justifica el retorno. Eso si si se est\xE1 por ah\xED tomarse algo en la barra y disfrutar de la ambientaci\xF3n del lugar."
+    date: 23-08-2008
+    user: http://mi.guiaoleo.com/members/23075
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Buenos productos, bien elaborados... aunque la cocina resulte, tal vez, excesivamente simple. Muy agradable la decoraci\xF3n pero el ruido -al menos en la planta baja- es excesivo. El servicio es muy atento y experimentado. La carta de vinos corta y sin especial atractivo, sobre todo los que se piden por copa, y los precios de los vinos son correctos."
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/16143
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: excelente la tortilla, la parrillada, la corvina y el tiramisu. excelentes tambien los aperitivos en la barra. el ambiente y el servicio, como la carta de vinos muy buenos al nivel que nos tienen acostumbrados los waisman en sus otros locales. para recomendar y volver a probar las carnes y achuras.
+    date: 16-08-2008
+    user: http://mi.guiaoleo.com/members/478
+    ambiente_rank: muy bueno

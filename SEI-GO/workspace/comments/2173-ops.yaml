@@ -1,0 +1,393 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "La relaci\xF3n precio cantidad podr\xEDa decirse que es acorde, la relac\xED\xF3n precio calidad para nada. Las barbacoa q tienen las ribs es intragable. Las \"papas fritas\" muy aceitosas y extremadamente gruesas y el cole slaw parecer\xEDa ser que no tienen ganas de picar finito los ingredentes. El lugar est\xE1 venido a menos.\r\n\
+      No lo vale."
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/48268
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Tengo a TUCSON como uno de mis primeras opciones a la hora de elegir un lugar para cenar. La atenci\xF3n de las chicas es de primera. Siempre bien predispuestas y con buenos modos. Si bien los precios son altos, los platos son abundantes. Recomiendo la Caesar Salad, siempre la pido y nunca logro terminarla.\r\n\
+      Un buen lugar para tener en cuenta."
+    date: 07-04-2010
+    user: http://mi.guiaoleo.com/members/79793
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lo mejor la deco \"American Style\" pero la atenci\xF3n,los platos y el precio para olvidar. Ribs de cerdo quemados y \"untados\" con salsa artificial, el medall\xF3n de lomo sin gusto y mal cocido, las papas fritas aceitosas. Para colmo demoraron 40 minutos en traer los platos y para rematarla el \"Apple Cramble & Ice\" era un masacote relleno de manzana con una bocha de helado sin gusto. Muy mala experiencia y muy caro. No vuelvo."
+    date: 05-03-2010
+    user: http://mi.guiaoleo.com/members/67320
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Un lugar de comida americana que se inici\xF3 con un buen nivel y empez\xF3 a caer.\r\n\
+      He ido m\xE1s de una vez y fui notando como la calidad fue decayendo, tanto en su comida como en su servicio.\r\n\
+      La atenci\xF3n es muy desprolija y desganada. Como si quisieran que te fueras.\r\n\
+      Ojal\xE1 vuelvan a ser lo que eran hace unos a\xF1os."
+    date: 28-02-2010
+    user: http://mi.guiaoleo.com/members/1357
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Muy buen lugar , escondido, por ende no suele haber mucha gente lo que hace un excelente lugar.\r\n\
+      El servicio no suele estar acostumbrado a tener el lugar lleno, y es ahi cuando se pierden y te vienen a preguntar mil veces el plato, idem el lugr de estacionamiento entran solo 4 autos.\r\n\
+      \r\n\
+      sacando que se llena muy pocas veces en el a\xF1o, es excelente para el que busca algo tranquilo y escondido"
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/46948
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Anoche fuimos a cenar all\xED por \xFAltima vez. Pedimos guacamole, un vaso de vino, 2 gaseosas, y 2 hamburguesas. Las bebidas y el guacamole vinieron r\xE1pido. Las hamburguesas, luego de UNA HORA de espera se acerca el mozo y se disculpa por la demora... dijo que llevaron nuestra comida a otra mesa. A los 15 minutos trajeron las hamburguesas. Mas o menos ricas (sin absolutamente nada de sal). El Cole Slaw MUY amargo, y las papas fritas FRIAS y gomosas. Al quejarnos, y preguntar si nos cobrar\xEDan esos platos o c\xF3mo nos compensar\xEDan, el mozo consult\xF3 y dijo que nos \"convidar\xEDan con la cafeter\xEDa\"."
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/44696
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lugar muy bien cuidado, pero la comida no es nada especial. Lo novedoso: La flor de cebolla muy rica (el cebollon)"
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo malo: cuando llegamos fue un poco mala la recepci\xF3n, el pan estaba crudo (muy crudo) y se olvidaron un plato que pedimos. \r\n\
+      Lo bueno: la comida y la ambientaci\xF3n.\r\n\
+      Buena relaci\xF3n en cuanto precio-calidad."
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/66785
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Tucson es un lugaqr muy recomendable para ir con un grupo de amigos. Las costillitas son muy buenas y la ensalada caesar que las acompa\xF1a hace que el plato valga la pena. El ambiente es muy ruidoso y si te toca un box, hay que aguantar la espalda. La atencion se complica con mucha gente."
+    date: 31-07-2009
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una muy buena opci\xF3n para ir a comer bien por la zona.... las porciones se pueden compartir sin problemas."
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/37805
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Se le critica mucho la atenci\xF3n y el servicio a este lugar algo que creo que va en suerte. En mi caso me toc\xF3 caer tarde, sentarme al toque y que me trajeran todo r\xE1pido. Solo reclam\xE9 la cuenta que tardaba en venir. Reconozco que me hab\xEDan atendido mucho mejor en la sucursal del Unicenter. En cuanto a la comida, los cl\xE1sicos ribbs son muy buenos pero est\xE1n siguen varios escalones abajo de los de Kansas. Al menos esta noche me llev\xE9 lo que fu\xED a buscar, comer algo rico y r\xE1pido por la zona. Voy a volver."
+    date: 18-07-2009
+    user: http://mi.guiaoleo.com/members/52250
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La relaci\xF3n precio/calidad/cantidad es muy mala, la comida no es incomible, pero no es nada del otro mundo, carece de sabor. El tama\xF1o de los platos dista mucho de otros restaurants del mismo estilo. Los precios me resultaron demasiado altos para lo que ofrecen. Se ve que el personal no debe estar muy contento con su trabajo, porque te atienden muy a desgano (como si te estuvieran haciendo un favor!). No vuelvo.. no soy fan de la comida yankie, pero prefiero otras visitar otras \"Ciudades de USA\" que ofrecen mejor calidad y servicio."
+    date: 01-07-2009
+    user: http://mi.guiaoleo.com/members/23830
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Me parecio muy caro por ser una hamburguesa, un postre y una lata de gaseosa ya que la del vaso normal viene sin gas y es intomable.
+      La atencion muy deficiente. Las camareras no estan preparadas para el servicio.
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/63764
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Quiero destacar que la atencion de este lugar es desastroza, falta personal, te atienden mal sin ganas, no saben de los platos. 
+      La comida cada ves decae mas su calidad.
+      En un principio era de gran nivel su atencion y calidad de la comida, pero cada vez va decayendo mas y los precios siguen subiendo.
+      Me da la sensacion que esta como medio quedado el lugar. Me Querian cobrar por pedir un pote de salsa de barbacoa, una locura como q te cobren la mayonesa.
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/51681
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No volver\xEDa. Los precios no tienen nada que ver con lo que te ofrecen en cuanto a servicio. La comida es normal, pero si pens\xE1s lo que te cobran no lo vale. \r\n\
+      La carta de vinos es cara en comparaci\xF3n a otros lugares similares.\r\n\
+      El ambiente es muy bueno, super tranquilo."
+    date: 13-04-2009
+    user: http://mi.guiaoleo.com/members/80063
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Realmente la comida deja mucho que desear, el salmon estaba seco, la ensalada con pollo no tenia sabor, la entra\xF1a estuvo bien y el pure muy bien. Eramos un grupo grande y nos pusieron afuera (aunque adentro del local estaba casi vacio) y realmente no veiamos lo que comiamos, pedimos mas velas y asi y todo no se veia nada. Muy buena la seguridad en el local, pero la comida es de terror."
+    date: 27-03-2009
+    user: http://mi.guiaoleo.com/members/60641
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Hice una reserva con 15 d\xEDas de anticipaci\xF3n  para 18 personas. Sin embargo, tardamos 3 horas en almorzar ya que hab\xEDa una \xFAnica moza (de mala gana) para atendernos a nosotros y a las restantes 5 mesas. El guacamole era palta que ni siquiera estaba bien pisada. Los precios de las entradas  ni de los postres tienen relaci\xF3n con la calidad y cantidad ofrecida. Los principales (cerdo, pollo, bife de chorizo) no ten\xEDan gusto a nada (todos los comensales dejaron el plato por la mitad). Hace dos a\xF1os que no iba y baj\xF3 notoriamente la calidad de la comida. No vuelvo y no es para recomendar."
+    date: 19-12-2008
+    user: http://mi.guiaoleo.com/members/51045
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad que las Back Ribs con salsa barbacoa estaban en su punto y la carne era muy tierna. Lamentable que la atenci\xF3n sea tan pero tan mala aunque es justo reconocer que no es culpa del personal. Simplemente tienen demasiada poca gente para atender un local de gran dimension. El local es normal, no tiene nada particular, uno mas de los tantos lugares comunachos que hay en Buenos Aires.\r\n\
+      Personalmente, no volver\xEDa."
+    date: 26-11-2008
+    user: http://mi.guiaoleo.com/members/47294
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me pareci\xF3 muy caro y la comida no me gust\xF3 tanto, por el mismo precio o menos se come mucho mejor en el otro lugar muy americano, la ambientaci\xF3n es acorde, no es tan ruidoso y el servicio no me pareci\xF3 bueno en relaci\xF3n al precio. El salad bar es variado y muy bueno. No volv\xED por lo detallado"
+    date: 07-10-2008
+    user: http://mi.guiaoleo.com/members/6783
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Comida regular. Buena atenci\xF3n y ambientaci\xF3n . No vale lo que cuesta. Como ya dije en un comentario anterior, una mala imitaci\xF3n de Kansas. Por algo la gente espera ah\xED 1 hora y aca hay siempre lugar, incluso un Domingo a mediod\xEDa o S\xE1bado a la noche (\xFAnica virtud)."
+    date: 27-07-2008
+    user: http://mi.guiaoleo.com/members/14579
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "No tiene relaci\xF3n los precios con la calidad de la comida y el servicio. Un fast food m\xE1s con pretenciones de restaurant..no pienso volver"
+    date: 09-04-2008
+    user: http://mi.guiaoleo.com/members/5803
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "La atenci\xF3n es bastante buena, el lugar es agradable y con cierta calidez, pero los precios NO muy elevados para el tipo de comida y calidad que ofrecen. Incluso la Caesar tiene un aderezo rico, pero no es Caesar bien gringa. La carne, en Argentina hay 100 lugares para comer carne.\r\n\
+      Resumiendo: Caro y Regular.No me gust\xF3."
+    date: 18-03-2008
+    user: http://mi.guiaoleo.com/members/96
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Tardan mucho para atender, peo mucho... y los precios no estan acordes a la comida. Con $5 menos por plato, cerrar\xEDa bastante mejor."
+    date: 08-02-2008
+    user: http://mi.guiaoleo.com/members/35064
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "D\xEDa de semana a la noche, perfecto para ir en pareja.\r\n\
+      Ambiente: muy cuidado, todo impecable en cuanto a la limpieza, luces, separaci\xF3n de mesas, quiz\xE1 faltar\xEDa algo de m\xFAsica de fondo.\r\n\
+      Servicio: la mejor atenci\xF3n que recib\xED en mucho tiempo. Los mozos siempre atentos y con una sonrisa.\r\n\
+      Comida: abundante, en especial la Caesar's Salad, que era una especie de torre de lechuga que misteriosamente se manten\xEDa en equilibrio. Para criticar: la temperatura del \"Saint Xavier del Back Steak\", tanto de la carne como de las John's Potatoes, deber\xEDan llegar m\xE1s calientes a la mesa.\r\n\
+      \r\n\
+      Recomendable."
+    date: 28-01-2008
+    user: http://mi.guiaoleo.com/members/31361
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente lugar, el ambiente es muy agradable y la atenci\xF3n y comida fueron muy buenas. Anteriormente hab\xEDamos ido al local de Unicenter, del cual nos fuimos desilucionados, tanto por la comida como por la atenci\xF3n. Seguramente volveremos a ir."
+    date: 29-12-2007
+    user: http://mi.guiaoleo.com/members/4458
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy agradable el lugar, las entradas son abundantes sabrosas y variadas, a mi gusto todas para compartir, fui con una amiga, es preferible pagar un tenedor m\xE1s y no pedir dos platos, las porciones son grandes, el servicio r\xE1pido, agradables los boxes, hay para todos los gustos, el salad bar es pobrisimo, los precios excesivos para lo que es el plato, pag\xE1s ambiente, los tragos nada del otro mundo. Le pedimos que nos dijera a la camarera si las porciones eran muy grandes, nos dijo que pidieramos un plato cada una! No llegamos al postre que era lo que queriamos comer por que era execiva la cantidad!\r\n\
+      Agradable lugar un poco caro."
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/5399
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Ayer descubr\xED un sitio que realmente me sorprendi\xF3. Me lo recomendaron el fin de semana. Restaurante estadounidense que rompe con los t\xF3picos: no se parece nada a los otros. Con respecto a la atencion el camarero excelente y la comida supera expectativas. Volvere."
+    date: 23-11-2007
+    user: http://mi.guiaoleo.com/members/36019
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es muy lindo. La comida especial del lugar, el guadalupe ribs excelente. Abundante para compartir. Escaso de ensaladas como acompa\xF1amiento. Precios acorde al lugar y comida."
+    date: 19-11-2007
+    user: http://mi.guiaoleo.com/members/13388
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El ambiente esta muy lindo y bien cuidado, da gusto, pero la comida deja mucho que desear.\r\n\
+      Es para ir con amigos pero no a comer. "
+    date: 13-10-2007
+    user: http://mi.guiaoleo.com/members/32820
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Si bien es un Steakhouse y su principal plato es la carne, deberia tener al menos una opcion vegetariana, mi mujer es vegetariana y tuvo que conformarse con una papa.\r\n\
+      La camarera que nos toco estaba papando moscas, en ningun momento dio a parecer que tuviera el minimo interes en prestar atencion o estar atenta. La hamburguesa colmo las expectaticas, pero con esos precios y la patetica atencion no creo que vuelva. "
+    date: 20-08-2007
+    user: http://mi.guiaoleo.com/members/29999
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Hac\xEDa fr\xEDo en el lugar, nos tuvimos que cambiar de mesa por un olor bastante asqueroso y la comida fue todo menos buena. La papa que viene con panceta y ciboulette, vino con unos cuadrados fr\xEDos de paleta y sin ciboulette, enorme en un plato m\xEDnimo que se desbocaba y era dificilisimo comer. No ten\xEDan pan para hamburguesas y trajeron unas rodajitas m\xEDnimas d pan de campo para reemplazarlo, tuvimos que esperar media hora para que el mozo \"recordara\" que le habiamos solicitado ketchup y mayonesa y ademas la comida estaba fr\xEDa.\r\n\
+      Nos arriesgamos a pedir postre y fueron desabridos y todo rociado con una melaza pegajoza y unas garrapi\xF1adas que no pod\xEDan ocultar que el postre no tenia gusto a nada.\r\n\
+      Terrible la presentaci\xF3n de los platos. "
+    date: 01-08-2007
+    user: http://mi.guiaoleo.com/members/30014
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos varias veces y no nos defraud\xF3... salvo la \xFAltima vez que dej\xF3 bastante que desear. \r\n\
+      La carne no era de las mejores.  Igualmente merece buena calificaci\xF3n porque es una alternativa interesante si uno no est\xE1 dispuesto a esperar una hora o m\xE1s para conseguir mesa en restaurantes de este tipo. La atenci\xF3n fue muy buena y el ambiente c\xE1lido."
+    date: 29-07-2007
+    user: http://mi.guiaoleo.com/members/28325
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Fuimos el dia que nevaba en buenos aires y hacia mucho frio en el salon, la camarera muy atenta y tambien la hosstes. Las hamburguesas son exelentes no asi las carnes. Tuvimos que pedir pan a que no lo habian traido. Es un lugar para ir a comer bien y nada mas. No esperen buena musica ni una ambientacion genial. Recomiendo igualmente pasas a visitar este Resto.
+    date: 09-07-2007
+    user: http://mi.guiaoleo.com/members/24152
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La \xFAltima vez que fuimos fue a merendar. Aunque no hab\xEDa casi nadie, las mesas estaban sucias, se ve que levantaron los platos de los clientes anteriores y dejaron la mesa con los restos de sal y grasa en la mesa, hab\xEDan pedazos de lechuga en los asientos y ella dec\xEDa que reci\xE9n hab\xEDan limpiado. A fin de 2006 fuimos de noche a tomar algo por mi cumplea\xF1os y tardaron horrores en tomarnos el pedido y despu\xE9s para traer todo, algunos quer\xEDan cenar y pasaron hambre. Propina CERO"
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/23418
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La atenci\xF3n ha mejorado, se nota el esfuerzo en el cambio de predisposicion para atender al comensal. El ambiente como todos los tucson es encantador, salvo que a veces resulta muy ruidoso.\r\n\
+      La comida quizas ha bajado su calidad, sobre todo las carnes, pues la caesar es excelente! Ideal para ir en grupos grandes, yo fui a festejar mi cumplea\xF1os alli, y hable dias antes con la gerenta para reservar el sector vip con mesas mobibles, ya que el resto del salon se basa en boxes.\r\n\
+      Si lo ven, entren y disfruten!"
+    date: 09-05-2007
+    user: http://mi.guiaoleo.com/members/15145
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Caro y porciones chicas. Me desilucion\xF3 mucho a cuando fui el a\xF1o pasado. "
+    date: 09-05-2007
+    user: http://mi.guiaoleo.com/members/22914
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Te reciben mal desde un principio, como no tenian mesa para tantas personas (el salon estaba vacio) no ofrecieron solucion alguna. Superado esto, la comida no era muy buena, la presentacion barbara pero la calidad de la carne pesima. El lugar esta muy bien ambientado.
+    date: 03-05-2007
+    user: http://mi.guiaoleo.com/members/8999
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Hab\xEDamos dejado de ir porque la calidad de la comida y el servicio no eran los mismos que al momento de la apertura. \r\n\
+      Volvimos y nos alegramos del cambio para mejor. La comida volvi\xF3 a ser lo que era y hay mozos nuevos mucho m\xE1s amables y comprometidos que algunos del staff anterior. Seguimos sin compratir la idea de pagar algo para compartir plato. De todos modos, quienes lo abandonaron, vuelvan a darle una oportunidad."
+    date: 16-04-2007
+    user: http://mi.guiaoleo.com/members/21160
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La decorac\xF3on de todos los Tucson es la misma, muy linda. En este fall\xF3 la atenci\xF3n, que fue mala y lenta. La comida, rica como siempre. Un poco caro."
+    date: 24-02-2007
+    user: http://mi.guiaoleo.com/members/19530
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "En una \xE9poca lo visit\xE1bamos seguido, pero la \xFAltima vez que fu\xED me pareci\xF3 deprimente. El mozo estaba distra\xEDdo, el servicio dej\xF3 bastante que desear. La comida fue regular y encima aument\xF3 disparatadamente el costo. Es caro para lo que se come. Una l\xE1stima, porque a mi hija le gustaba ir."
+    date: 13-02-2007
+    user: http://mi.guiaoleo.com/members/16544
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Somos vecinos por lo cual somos habitu\xE9s. Las carnes son muy buenas y con un poco de suerte vienen con el punto de cocci\xF3n pedido. Las pastas son excelentes. Las lamb chops son para pasar hambre. En todos los casos, los precios subieron y las porciones se achicaron. La oscuridad suele ser un problema para ver el men\xFA."
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "No pod\xE9s ofrecer una ensalada especial (car\xEDsima) y decir que es para compartir y despu\xE9s cobrarte $6 por compartirla.\r\n\
+      No pod\xE9s cobrar $6,50 por una latita de gaseosa.\r\n\
+      Comimos mal, pagamos una fortuna y nos fuimos llenos de bronca entendiendo por qu\xE9 estaba vac\xEDo. Si pasan cerca, huyan."
+    date: 19-01-2007
+    user: http://mi.guiaoleo.com/members/16592
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Mala copia de Kansas. El servicio no es tan bueno y los precios son exagerados para la atenci\xF3n que se recibe. Por algo siempre hay lugar (\xFAnica ventaja). Aparte est\xE1 cerca de mi casa y le gusta a mis hijas."
+    date: 15-12-2006
+    user: http://mi.guiaoleo.com/members/14579
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Coincido con varos que el nivel ha decaido bastante. Fu\xED con unos amigos, ellos pidieron los Ribs y estaban bastante mal preparados. No ten\xEDan BBQ, estaban secos, el gusto era como aguado (como que ten\xEDan poco gusto) y el cole slaw tampoco estuvo bueno. Por mi parte, ped\xED Lamb Chops para probarlo, porque ya hab\xEDa comido los ribs ac\xE1, y nunca esutvieron a la altura de Kansas. Este plato concistia de trescientos gramos de cordero, que eran cuatro huesos con muy poca carne y para variar estaba pasada (si eran ciento cincuenta gramos de carne, sin hueso es mucho). Lo mejor del plato fue la ensalada C\xE9sar. Por otro lado, puedo decir que las porciones son bastante m\xE1s chicas que las de Kansas, la entrada de la ensalada C\xE9sar (en el caso de los ribs) es la mitad del tama\xF1o que en Kansas. los ribs, si bien creo que en ambos restaurantes figuran en la carta por seisientos gramos, la porci\xF3n que sirven ac\xE1, es practicamente la mitad.\r\n\
+      Tambi\xE9n me gustar\xE9a detallar que hemos cenado afuera y la iluminaci\xF3n eran tan mala que no se pod\xEDa ni leer la carta, hab\xEDa que destapar las velas. Seguramente me falte alguna que otra cosa para contarles, pero ahora no la tengo en mente. Para el que quiera comer comida yankee y que est\xE9 excelente, le recomiendo que visite alguna de las dos sucursales del Kansas."
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/14058
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La calidad de las comidas decay\xF3 dram\xE1ticamente. No s\xE9 si cambiaron de due\xF1o, pero ya no es el Tucson de antes. Las costillitas de cerdo estaban secas, como si las hubiesen recalentado en el microondas.\r\n\
+      De entrada pedimos un plato llamado Devil's Tail; jam\xE1s, pero jam\xE1s pidan eso, es un simple chorizo con una especie de llamarada, y encima vale diecisiete pesos con cincuenta.\r\n\
+      Comimos al aire libre y no se ve\xEDa absolutamente nada, apenas observ\xE1bamos nuestras caras.\r\n\
+      La atenci\xF3n es mal\xEDsima, se olvidaron de traernos el pan que te dan al principio.\r\n\
+      Me decepcion\xF3 much\xEDsimo Tucson. "
+    date: 01-12-2006
+    user: http://mi.guiaoleo.com/members/2106
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Com\xED hamburguesa con papas fritas (incomibles), decay\xF3 much\xEDsimo la calidad de la comida y el servicio de mesa."
+    date: 17-09-2006
+    user: http://mi.guiaoleo.com/members/12109
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es muy lindo, pero es demasiado caro.\r\n\
+      La hamburguesa casera que ped\xED es enorme y te llena. Los aros de cebolla no son aros, no que son.\r\n\
+      La moza me pidi\xF3 si me pod\xEDa traer la cuenta, parec\xEDaa apurada por que nos vayamos.\r\n\
+      Para comer, est\xE1 bueno, pero vayan con plata porque es caro."
+    date: 21-07-2006
+    user: http://mi.guiaoleo.com/members/8758
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La calidad decay\xF3 much\xEDsimo. Ped\xED una hamburguesa de lomo, fue el lomo m\xE1s duro que com\xED en mi vida. Casi dejo la dentadura en ese sandwich (de m\xE1s esta decir que termin\xE9 comiendo el pan -duro- y la carne por separado, porque era imposible comerlo como hamburguesa). \r\n\
+      Es un lugar caro, al estilo norteamericano, pero le faltan platos t\xEDpicos (aros de cebolla, m\xE1s variedad de comida con barbacoa, etc) y la carne \"argentina\" es car\xEDsima sin siquiera valer mucho la pena.\r\n\
+      Los precios quedaron desfasados respecto de la calidad de la comida y la atenci\xF3n, las camareras se nota que no tienen experiencia. \r\n\
+      \xA1Basta de papas fritas McCain congeladas! Encima las cobran car\xEDsimo y les salen peor que a uno en casa.\r\n\
+      No lo recomiendo, aunque es una l\xE1stima porque el lugar es bueno, aunque no le vendr\xEDa mal un poco m\xE1s de iluminaci\xF3n."
+    date: 26-04-2006
+    user: http://mi.guiaoleo.com/members/7933
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Comida sabrosa, el pan calentito pero muy duro, tambi\xE9n duros los croutones de la ensalada Caesar. Muy atentas las camareras."
+    date: 15-04-2006
+    user: http://mi.guiaoleo.com/members/3523
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Reservamos para ocho por un cumplea\xF1os y nos quisieron poner en una mesa de seis todos apretados. \r\n\
+      Cuando me quej\xE9, me hicieron esperar quince minutos y entonces me dieron una mesa buena. \r\n\
+      La comida baj\xF3 mucho en cantidad y calidad a lo que era. \r\n\
+      Las mozas no saben a quien atender y cuando. No lo recomiendo."
+    date: 15-04-2006
+    user: http://mi.guiaoleo.com/members/7537
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es agradable aunque muy ruidoso: hab\xEDa s\xF3lo tres o cuatro mesas ocupadas y ya costaba comunicarse. \r\n\
+      Las porciones no son abundantes y los platos hechos con poco esmero. \r\n\
+      Fueron muy \"yanquis\" a la hora de cobrar un cubierto extra (4 pesos) por compartir el plato principal (sin tener en cuenta que hab\xEDamos pedido varias entradas) pero s\xF3lo dan un \"refill\" al comprar una gaseosa, lo cual no es muy \"yanqui\" que digamos. \r\n\
+      Los platos son excesivamente caros para el lugar y los precios de las ensaladas, los postres y del cafe son definitivamente inaceptables. \r\n\
+      No volver\xE9 y aconsejo no ir, me parece Buenos Aires ofrece cosas much\xEDsimo mejores."
+    date: 01-03-2006
+    user: http://mi.guiaoleo.com/members/5401
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Depende de las sucursales. \r\n\
+      En la de Salguero, la atenci\xF3n es muy buena, pendiente del cliente pero respetando la intimidad que genera la ambientaci\xF3n.\r\n\
+      Los platos a primera vista son caros pero de un tama\xF1o que permite compartirlos.\r\n\
+      Fui en varias oportunidades y siempre fue asi."
+    date: 20-02-2006
+    user: http://mi.guiaoleo.com/members/6528
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La hamburguesa media cruda y tardaron cuarenta minutos en d\xE1rmela. Precios car\xEDsimos para lo que te dan. \r\n\
+      La atenci\xF3n de las peores. No lo recomiendo."
+    date: 17-02-2006
+    user: http://mi.guiaoleo.com/members/6469
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "He ido varias veces ya que adoro la comida norteamericana. \r\n\
+      Los platos son variados, hay diferentes alternativas de carnes y ensaladas. \r\n\
+      Los postres imperdibles. La atenci\xF3n no es tan buena, siempre apurados, dejan los platos en la mesa y se retiran r\xE1pido sin preguntar si se desea algo mas como los aderezos."
+    date: 13-02-2006
+    user: http://mi.guiaoleo.com/members/6339
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "El entrecote no ten\xEDa buen gusto. La papa rellena tampoco. \r\n\
+      Muy caro para el escaso esmero que ponen en la calidad de la comida."
+    date: 11-02-2006
+    user: http://mi.guiaoleo.com/members/5885
+    ambiente_rank: muy bueno

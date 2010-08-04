@@ -1,0 +1,133 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Ibamos seguido... al parecer cambiaron de due\xF1o y la verdad... desastre!!!! El matambrito tiernizado lo dejaron 7 d\xEDas seguidos en \"leche\" la ensalada \"sucia\" los precios un disparate por el servicio que prestan. Hace falta decir algo m\xE1s????"
+    date: 21-03-2010
+    user: http://mi.guiaoleo.com/members/16883
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: lugar barato para ir a comer una parrilla de calidad media con amigos.
+    date: 01-02-2010
+    user: http://mi.guiaoleo.com/members/75258
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Achuras recalentadas y en dudoso estado, atenci\xF3n floja y ambientaci\xF3n desprolija. No vuelvo m\xE1s."
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/13262
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: parrilla de barrio un poco descuidada, mas de lo aceptable para este tipo de lugares. la comida es buena, precios accesibles. mejor es pedir a domicilio. ojos que no ven, corazon que no siente.
+    date: 21-02-2009
+    user: http://mi.guiaoleo.com/members/57272
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      El lugar no llama mucho la atencion, pero la comida es muy buena!! La verdad que no esperaba que las porciones fuesen tan abundantes.
+      Lo que mas recomiendo es la parilla!!
+      Los mozos son bastante atentos.
+      El delivery es de la misma calidad que comer ahi y no tarda tanto.
+    date: 12-02-2009
+    user: http://mi.guiaoleo.com/members/50216
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Parrilla al paso muy popular por la cantidad y calidad de la carne, el vacio a punto EXCELENTE!, no pidas de mas todo se comparte, suelen demorar porque tambien hay delivery, por lo tanto paciencia en la espera pero vale la pena, por el resto - el ambiente - no te fijes. es
+    date: 14-12-2008
+    user: http://mi.guiaoleo.com/members/41206
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Es una parrilla bien de barrio que solia ser muy buena, pero desde hace un tiempo bajo mucho su nivel. Se ve que se echaron a dormir luego sde hacerse la fama. 
+      No es lo que solia ser
+    date: 23-09-2008
+    user: http://mi.guiaoleo.com/members/26831
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Uff, la verdad es que no entiendo como hay gente que sigue llendo. La parrillada fue horrible, la carne dura, los chinchulines .... sin palabras, ni los com\xED..bah pr\xE1cticamente no com\xED. Adem\xE1s el vivir cerca me permite ver lo poco higi\xE9nico que es el lugar... ni hablar de la Sra Cuca que caminaba por el cartel del mostrador... nunca mas :("
+    date: 07-02-2008
+    user: http://mi.guiaoleo.com/members/30355
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es la segunda vez que voy, e ir\xEDa muchas veces m\xE1s. Es la perfecta parrilla de barrio donde se come muy buena carne, a precios razonables. La atenci\xF3n es buena, los mozos son muy atentos y respetuosos. Hay que esperar para sentarse, pero vale la pena. \r\n\
+      El ambiente es b\xE1sico, pero c\xF3modo. Recomendable."
+    date: 28-09-2007
+    user: http://mi.guiaoleo.com/members/33447
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Fui a comer con una amiga, la comida exquisita, muy buena carne y a buen precio. El \xFAnico problema fue que los los mozos dejan mucho que desear con respecto al trato que tienen con la gente... \r\n\
+      A pesar de eso pudimos disfrutar de un buen almuerzo"
+    date: 21-07-2007
+    user: http://mi.guiaoleo.com/members/21948
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El \xFAnico problema que encuentro cada vez que voy a comer all\xED es que existe mucha demora entre el momento que realizo el pedido y que me lo traen. Suele pasar entre treinta y cuarenta y cinco minutos. \r\n\
+      Me parece bastante raro ya que en general no pedimos platos demasiado elaborados."
+    date: 24-10-2006
+    user: http://mi.guiaoleo.com/members/13651
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena la carne, un poco crudas las achuras que ven\xEDan en la parrillada, pero no tuvieron problemas en cocinarlas un poco m\xE1s. Bastante recomendable."
+    date: 19-07-2006
+    user: http://mi.guiaoleo.com/members/3423
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Altamente recomendable por calidad, precio y servicio. Para no perd\xE9rsela. Porciones y ambiente para compartir en familia y con amigos."
+    date: 14-07-2006
+    user: http://mi.guiaoleo.com/members/10078
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Mantiene la calidad, a pesar de alg\xFAn mozo malhumorado."
+    date: 22-06-2006
+    user: http://mi.guiaoleo.com/members/9482
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente mercader\xEDa."
+    date: 16-06-2006
+    user: http://mi.guiaoleo.com/members/9355
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente parrilla, t\xEDpica de barrio donde las porciones son enormes y la calidad no defrauda. Volveremos, ideal para aquellos que comen bien. Muy recomendable."
+    date: 19-05-2006
+    user: http://mi.guiaoleo.com/members/3772
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la parrillada para dos, bastante abundante (comen 3 personas bien). La carne de gran calidad. Vamos muy seguido y nunca nos defraud\xF3."
+    date: 25-04-2006
+    user: http://mi.guiaoleo.com/members/7842
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Utilizamos frecuentemente el delivery y resulta muy bueno.
+    date: 11-03-2006
+    user: http://mi.guiaoleo.com/members/6961
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una sencilla parrilla de barrio, buena atenci\xF3n, excelente relaci\xF3n precio/calidad. Muy recomendable."
+    date: 06-02-2006
+    user: http://mi.guiaoleo.com/members/6234
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un lugar para ir con amigos y familia. No esperen lujo, es bien de barrio. \r\n\
+      Lo podr\xEDan acondicionar mejor, pero  perder\xEDa sus caracter\xEDsticas.\r\n\
+      Excelente la parrilla, bien por los platos de cocina. \r\n\
+      Opci\xF3n de bebidas gaseosas tama\xF1o grande. Buena atenci\xF3n de los mozos."
+    date: 20-01-2006
+    user: http://mi.guiaoleo.com/members/5959
+    ambiente_rank: muy bueno

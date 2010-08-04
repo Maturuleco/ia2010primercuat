@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Estuve en un ambiente muy distinto al que hay en la zona, la comida satisface y es suave. La atenci\xF3n es muy buena, formada por un grupo de gente joven y muy alegre. Muy recomendable."
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/81218
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Genial, me encant\xF3 la propuesta, es diferente a lo que hay en la zona."
+    date: 28-04-2010
+    user: http://mi.guiaoleo.com/members/81052
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Pasamos por la puerta con una compa\xF1era del laburo, nos divirti\xF3 el men\xFA ( todo muy natural) y entramos. La verdad nos sorprendi\xF3 a los dos por que los platos estan muy buenos, los jugos increibles y no es nada caro. Buena opci\xF3n para cortar al mediodia y comer algo liviano en un ambiente relajado. Lo recomiendo!"
+    date: 26-04-2010
+    user: http://mi.guiaoleo.com/members/80840
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Original propuesta para comer \"sano y rico\", atendido por sus propios due\xF1os que se esmeran en la atencion. L\xE1stima el lugar, mal ubicado y muy mal puesto, parece una choriceria al paso, y contrasta notablemente con la propuesta gastron\xF3mica. Si no levantan la punter\xEDa con la ambientacion, no les veo mucho futuro, maxime en una zona plagada de propuestas para comer variado y por el mismo precio."
+    date: 08-04-2010
+    user: http://mi.guiaoleo.com/members/6922
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Comida muy rica y sana, buen servicio y atendido por los due\xF1os. Recomiendo mucho los licuados!"
+    date: 30-03-2010
+    user: http://mi.guiaoleo.com/members/79292
+    ambiente_rank: muy bueno

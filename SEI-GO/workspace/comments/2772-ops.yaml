@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy buena parrilla al paso. Recomiendo la tortilla de papa.
+    date: 01-03-2010
+    user: http://mi.guiaoleo.com/members/13948
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Para ser una parrila/parripollo un tanto caro pero la comida es muy rica.
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/36408
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida muy buena, no es un lugar para ir de levante o llevar a tu pareja, pero es bueno cuando tu billetera pide algo barato.
+    date: 11-08-2008
+    user: http://mi.guiaoleo.com/members/49307
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buenas porciones, atenci\xF3n cordial y a tiempo. Recomendable!!"
+    date: 03-03-2008
+    user: http://mi.guiaoleo.com/members/23860
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Nosotros vamos desde hace a\xF1os, cuando ten\xEDan menos mesas y menos local. Tenemos cero quejas. La comida esta siempre bien y a tiempo. Recomendamos bondiola y entra\xF1a.\r\n\
+      Ademas...Luis (el mozo) es lo m\xE1s!! \r\n\
+      Comentario para el comenzal que se fastidi\xF3con el delivery. Amigo, no se pide delivery de parrilla! La carne pierde temperatura y la grasa se condensa y hay que volver a calentar! Ped\xED pastas o pizza (en otro boliche)y Good Show!"
+    date: 09-11-2007
+    user: http://mi.guiaoleo.com/members/35358
+    ambiente_rank: excelente

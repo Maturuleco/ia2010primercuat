@@ -1,0 +1,67 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La pizza es pesima, el queso es de muy mala calidad, la selecci\xF3n de cervezas es muy mala y la atenci\xF3n fue de muy mala gana\r\n\
+      El \xFAnico punto bueno es la ubicaci\xF3n, frente a la plaza Dorrego\r\n\
+      Para nada recomendable, no vuelvo"
+    date: 25-02-2009
+    user: http://mi.guiaoleo.com/members/45340
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      Como yo ya habia ido en reiteradas oportunidades, fui con un grupo y no fue grato ver que hbaian cambiado todo. La atencion fue pesima, nos acomodaron en el fondo y nos morimos de calor de todo el pedido que hicimos la moza se olvido y solo trajo la pizza. No Recomendable.
+      Cabe aclarar que el de la mala atencionn fue el que esta enfrente de la plaza dorrego, por que despues fuimos al de San Juan y Defensa y la atencion fue de 20 + iva.
+    date: 08-11-2008
+    user: http://mi.guiaoleo.com/members/45319
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Lugar ideal para compartir con amigos, tomarse una buena cerveza que la sirven helada y degustar alguna picada, el ambiente es muy original y la decoracion nos remonta a los arrbales... ampliamente recomendable
+    date: 17-07-2008
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Hace 2 o 3 meses que cambiaron parte de los due\xF1os. Y luego de ir 3 veces veo que estan haciendo varias reformas (cambiaron el personal, la carta, reformaron los locales, y ampliaron la carta de cerveza).\r\n\
+      \r\n\
+      Recomendable ir, sobre todo para los que ya habian ido alguna vez, se llevaran una gran sorpresa."
+    date: 02-06-2008
+    user: http://mi.guiaoleo.com/members/31480
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "me parecio extraordinario el lugar y como me atendieron, fuimos 8 en total y pudimos tomar  cervezas artesanales que en ning\xFAn lugar habiamos visto. Las cervezas tiradas siempre frias. Tuvimos que esperar para conseguir mesa, pero vali\xF3 la pena. Sin dudas lo recomendamos!!"
+    date: 06-05-2008
+    user: http://mi.guiaoleo.com/members/44543
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "P\xC9SIMO! caro, mala atenci\xF3n, mala calidad de la comida y poca variedad de cervezas disponibles. Nada Recomendable"
+    date: 09-02-2008
+    user: http://mi.guiaoleo.com/members/15476
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La verdad un verdadero desastre, mala atencion, no tenian variedad de cerveza, no volveria a ir.
+    date: 26-01-2008
+    user: http://mi.guiaoleo.com/members/33316
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Esta bueno para comer unas pizzas y tomar buenas cervezas, ademas hay bastante variedad . Pero el servicio es muy malo, la primer pizza tardo facil 30 minutos o mas y el trato de los mozos con la gente deja mucho que desear.
+    date: 06-01-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "pesimo lugar. no podes ufanarte de ser \"patio cervecero\" y no tener mani, pedimos 6 cervezas y no habia mas, al pedir la carta nos dijeron que no habia (??). ni les digo del mozo, un verdadero desastre, traia todo mal, un improvisado. encima nos mataron con el precio, injustificable. da bronca que este lleno y el due\xF1o facture a morir dando un horrendo servicio. no vuelvo ni aunque me regalen 1000 litros de cerveza."
+    date: 20-12-2007
+    user: http://mi.guiaoleo.com/members/7696
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La verdad es un desastre este lugar. Recomendamos no ir. Mal sino pesima atencion, la comida no es buena y los precios por las nubes. Solo para turistas.
+    date: 21-11-2007
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: malo/regular

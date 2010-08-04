@@ -1,0 +1,169 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente comida. La atenci\xF3n no est\xE1 a la altura. El ambiente es el tradicional."
+    date: 10-03-2010
+    user: http://mi.guiaoleo.com/members/1740
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: La verdad nunca habia estado, es exelente la comida muy abundante el matambre arrollado es casero digno de destacar y los mozos de oficio realmente lo asen sentir a uno especial
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/75441
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La mejor relaci\xF3n precio-calidad que he encontrado en el centro. Excelente atenci\xF3n y comida."
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/72780
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: si lo que buscan es comer bien, super recomendable, los escalopes al marsalla con papas soufle impresionantes!!
+    date: 08-07-2009
+    user: http://mi.guiaoleo.com/members/56070
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Una horrible decepcion. Imagin\xE9 inocentemente que iba a tener variadas opciones de papas y amplia carta de excelente calidad. El resultado: unas papas recalentadas que llegaron en 2 minutos, incluso antes de la bebida. No vuelvo."
+    date: 26-06-2009
+    user: http://mi.guiaoleo.com/members/75853
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: me encanto el mini bife palacio!! la atencion fue excelente!!! sinceramente lo recomiendo! y comimos con menos de 50$ incluido postre y copa de vino!!!
+    date: 29-05-2009
+    user: http://mi.guiaoleo.com/members/60808
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Aunque era domingo y el restaurante estaba semi vac\xEDo tardaron much\xEDsimo en traer la comida.  Los mozos no responden al llamado, tal si fueras invisible.  Pedimos dos ensaladas y el mozo se neg\xF3 a anotar los ingredientes; se equivoc\xF3 en ambas.  La supremas y las papas espa\xF1olas estuvieron sabrosas y lo mismo los crepes.  Las ensaladas dejaron mucho que desear. La verdura parec\xEDa cortada hac\xEDa d\xEDas y los tomates sin madurar.  El salm\xF3n estuvo p\xE9simo. Cuatro laminas delgadas, grasosas y muy pasadas de cocci\xF3n, a punto suela.  Si otro evento familiar no me convoca, no volver\xE9."
+    date: 17-05-2009
+    user: http://mi.guiaoleo.com/members/53642
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Com\xED un \"Bife poblano\" (minibife de chorizo con papas souffl\xE9 y ensaladita) \r\n\
+      El bife estaba tal como lo ped\xED: JUGOSO. Y muy sabroso, adem\xE1s. Las papas souffl\xE9 est\xE1n buenas, qu\xE9 se puede decir? El plato un poco recargado (la ensaladita podr\xEDa haber venido aparte) y la atenci\xF3n del mozo muy correcta, a la antigua. \r\n\
+      El arroz con leche con canela estaba muy bien.\r\n\
+      Un CL\xC1SICO, sin dudas."
+    date: 11-05-2009
+    user: http://mi.guiaoleo.com/members/17085
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Este restaurante se caracteriza por una buena relaci\xF3n precio calidad. Es ideal para ir en amigos, con modestias pretensiones gastron\xF3micas y dispuestos a comer en abundancia sin fijarse demasiado en aquellos detalles que no suelen escaparse en los rataurantes \"Top\" de la ciudad.\r\n\
+      La calidad de la comida es buena, pudiendo ser mejor si mejoraran por ej. la absorci\xF3n de aceite de sus tan afamadas papas soufles.\r\n\
+      Los vinos son algo caros y salen a tmperatura...ambiente!!\r\n\
+      La atenci\xF3n fue muy calida aunque se puede ver que algunos mozos ya tienen los vicios del oficio."
+    date: 18-04-2009
+    user: http://mi.guiaoleo.com/members/43577
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: La comida es buena...nada mas. Excelente atencion de mozos. El lugar es antiguo para mi gusta (tradicional) y cuando hay gente es ruidoso.
+    date: 11-04-2009
+    user: http://mi.guiaoleo.com/members/60948
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: |-
+      la carne es muy buena en este lugar, y la atencion excelente. no es  fashion pero se come muy bien
+      por menos de 60 pesos comes platos abundantes con entrada postre y gaseosas
+      comer a la carta es caro pero tiene buenos menu para aprovechar.
+      lo recomiendo
+    date: 02-04-2009
+    user: http://mi.guiaoleo.com/members/61065
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Se come muy bien en este lugar la atencion es excelente, los mozos son como los de antes estan en los detalles. no es gourmet porque la carta tiene todos platos clasicos. recomiendo el bife de chorizo y por supuestos las papas souflee
+    date: 25-03-2009
+    user: http://mi.guiaoleo.com/members/61137
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "este lugar es de los pocos que quedan en buenos aires, secome muy bien el bife que pedi era una manteca, ni hablar de las papas souffle, me encantaron y de postre peras al borgo\xF1a y mi novio ensalada de frutas con helado. y a un precio accesible con bebida y la entrada 56 pesos.\r\n\
+      tenemos que volver me quede con las ganas de probar las pastas. la atencion fue muy buena"
+    date: 20-03-2009
+    user: http://mi.guiaoleo.com/members/60529
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un rest\xF3 marr\xF3n o gris, el ambiente es como de hace 50 a\xF1os, pero a cambio de todo eso, el servicio es eficiente y con experiencia. La comida es como hace 50 a\xF1os tambi\xE9n pero en esto es positivo. Los platos son cl\xE1sicos (milanesas, supremas, papas fritas, obviamente) y abundantes. No es para cenas \xEDntimas ni para deslumbrar a nadie ni para hacerlo como programa pero est\xE1 a la vuelta de los teatros y se come bien, sin pretensiones. Precios promedio."
+    date: 02-11-2008
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Como no podia ser de otra manera, las papas souffle son unicas y muy buenas, El bife de chorizo estaba a punto, muy recomendable, al igual que el flan palacio exclusivo para golosos. La atencion fue muy buena, rara vez se encuentran mosos atentos y dedicados al servicio como en este lugar.
+    date: 01-10-2008
+    user: http://mi.guiaoleo.com/members/28711
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "un lugar tradicional, con muy buenas papas soufle, pero con la  carne mas dura de argentina, y precios muy altos para el tipo de comida (son para bajarle la ca\xF1a  a los turistas) solo volveria a comer papas fritas.."
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Los precios realmente exagerados: 30 pesos para una ensalada personalmente me parece un robo, y de hecho no comi ensalada sino las papas fritas soufle que realmente son riquisimas! La carne algo regular. 
+      La atencion es regular, no descortes, pero los mozos parecen poco presentes. El lugar es lindo, algo caracteristico, pero creo que es mas para turistas que para locales, sobre todo por los precios.
+    date: 04-03-2008
+    user: http://mi.guiaoleo.com/members/14216
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El Palacio de la papa frita es un clasico que esta decayendo. Las papas souffle no se sirven como antes y portando ese nombre deberian hacer gala de la elaboracion de las mismas. La atencion sigue siendo muy profesional, pero la cocina no esta a la altura de las circunstancias.Una pena para los nostalgicos.
+    date: 28-11-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es tradicional y simple, pero las papas souffle son realmente incre\xEDbles. Eso s\xED, los precios son un poo excesivos, supongo que est\xE1n m\xE1s pensados para los turistas."
+    date: 23-11-2007
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Cuando en un lugar llamado el Palacio de la papa frita, la papa frita llega a la mesa tibia, aceitosa, gomosa y con gusto a aceite de camion evidentemente la cosa no funciona.
+      Mi experiencia se puede reducir a un simple "mal", malas las papas, malo el bife de chorizo, mala la entrada, mala la atencion, malo el ambiente y malos los precios. Total y completamente desaconsejado hasta a mi peor enemigo.
+    date: 06-09-2007
+    user: http://mi.guiaoleo.com/members/6990
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El t\xEDpico restaurant porte\xF1o que no le nada chico a Lavalle. Cada visita es una experiencia positiva asegurada. \r\n\
+      M\xE1s all\xE1 de las cl\xE1sicas papas souffl\xE9, los platos de la carta, que ha sufrido m\xEDnimas modificaciones a lo largo de los a\xF1os nunca decepcionan. Un cap\xEDtulo aparte a los mozos que son gente capacitada y no mozos cool que de atenci\xF3n saben poco y nada, de los que ahora hay, y muchos. Hasta cubren con un mantel la silla donde uno deja los abrigos y las carteras, para que no se manchen. \r\n\
+      Si bien las mesas est\xE1n algo juntas, el ambiente no deja de ser agradable."
+    date: 11-08-2007
+    user: http://mi.guiaoleo.com/members/25303
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Lamentable lugar. La comida es p\xE9sima, las papas soufle parecen remojadas en aceite usado una y mil veces, la carne dura y nervuda y los precios exagerados. Servicio lento. Si pueden evitarlo, haganlo. "
+    date: 06-08-2007
+    user: http://mi.guiaoleo.com/members/28458
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "buen lugar, no defrauda, uno va a buscar lo que te dan, la atencion es pesima, y el lugar no dice nada pero como dije qnteriormente la comida zafa. "
+    date: 14-06-2007
+    user: http://mi.guiaoleo.com/members/24408
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buen lugar para comer papas soufle y minutas. Me parecio que como lugar para almuerzo por el microcentro es un poco caro. Pague $35 por el menu fijo que incluia entrada, plato, postre/cafe y bebida.
+    date: 15-05-2007
+    user: http://mi.guiaoleo.com/members/6663
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Mucho ruido en el sal\xF3n. Porciones muy abundantes pero bien hechas.\r\n\
+      Desde que lo frecuentan turistas encareci\xF3 mucho."
+    date: 08-05-2006
+    user: http://mi.guiaoleo.com/members/8331
+    ambiente_rank: muy bueno

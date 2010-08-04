@@ -1,0 +1,248 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Sali decepcionado, carne dura pastas malas, no volvere
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/15227
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cocina porte\xF1a de la mejor. Perfectas rabas a la romana. Incre\xEDbles \xF1oquis con un tuco digno de cualquier abuela italiana. Sorprendente matambrito al berdeo. Flan casero de verdad. Almendrado de primera. Una pena el piano en vivo, impecable, pero tapado por los euf\xF3ricos comensales que no dejan de festejarse. El due\xF1o, Lalo, te recibe en la puerta. Y afamados artistas y m\xFAsicos cenan a tu lado. Para ir con amigos o festejar en familia.  Ni bien pueda, vuelvo."
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/75144
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se come muy bien, buena relaci\xF3n calidad-precio, los platos son sabrosos, bien presentados y con el tama\xF1o justo, servidos por mozos que conocen a la perfecci\xF3n su oficio, nada de gente que simulan serlo. El ambiente es acogedor y muy bien decorado, aunque algo ruidoso se puede conversar. Algo a mejorar ser\xEDa la carta de postres que es menos a b\xE1sica. \r\n\
+      Un lugar ideal para ir en familia o con amigos.\r\n\
+      Volver\xEDa a concurrir."
+    date: 02-01-2010
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Las pastas son buenisimas. El bife de chorizo, de los mejores que comi en Buenos Aires. Las papas fritas son perfectas, plato simple que cada vez es mas dificil de encontrar. El budin de pan es exquisito. Voy seguido y la calidad se mantiene.
+    date: 03-12-2009
+    user: http://mi.guiaoleo.com/members/7678
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "si bien la comida es gustosa y las porciones correctas, lo que deja mucho que desear en este lugar es el servicio.El mozo que nos atendio dejo MUCHO que desear, a la vez me parecio un poco caro, esto seguro es por la zona donde se ubica. el ambiente es el de un viejo bodegon de buenos aires. un comentario extra: a este lugar suelen ir muchos artistas a la salida del teatro."
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/34068
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy rica la comida y una atenci\xF3n con mucho oficio. Muy buena relaci\xF3n calidad-precio!!!"
+    date: 15-10-2009
+    user: http://mi.guiaoleo.com/members/43393
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente desde todo punto de vista. La comida abundante y de excelente calidad. La carne en su punto (entra\xF1a y asado) y las pastas son muy buenas. Las ensaladas son para compartir. La atenci\xF3n de los mozos es muy calida y el pianista esta muy bien adecuado al lugar ya que la musica esta en un tono justo, ni muy bajo ni muy alto."
+    date: 19-09-2009
+    user: http://mi.guiaoleo.com/members/63446
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Lugar para ir alguna vez despu\xE9s del teatro, ambiente muy ruidoso pero bien decorado, atenci\xF3n muy buena con los mozos de antes, la comida normal."
+    date: 26-06-2009
+    user: http://mi.guiaoleo.com/members/62077
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar recomendable, platos abundantes y muy buena atencion. la entra\xF1a estaba en su pusto justo , era para 2 pero podria ser tranquilamente para 3."
+    date: 03-05-2009
+    user: http://mi.guiaoleo.com/members/42164
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "(en portugnol) Despues de conocer el Lalo yo lo recomendo a todos los brasile\xF1os que conosco.  Excelente parilla como en Puerto Madero pero por la mitad del precio."
+    date: 27-02-2009
+    user: http://mi.guiaoleo.com/members/59329
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar clasico de Buenos Aires, la comida es de buena calidad, los platos son abundantes. La relaci\xF3n precio calidad de los platos me parecio muy buena."
+    date: 15-02-2009
+    user: http://mi.guiaoleo.com/members/57769
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar con historia. Muy buena comida y mozos profesionales. Tal vez un poco anticuada y tipo cantina la decoraci\xF3n pero interesante como documento viviente de la historia porte\xF1a. Un lugar para conocer."
+    date: 03-12-2008
+    user: http://mi.guiaoleo.com/members/7744
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Si bien el precio nos pareci\xF3 muy alto, la calidad de lo que comimos fue excelente, la atenci\xF3n muy buena y la ambientaci\xF3n muy buena.\r\n\
+      tomamos agua mineral sin postre y sin vino 120 pesos."
+    date: 24-11-2008
+    user: http://mi.guiaoleo.com/members/25570
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un bodegon del centro, hecho bonito. Muy rica comida de parrilla, buena carne, excelentes ensaladas y muy ricos postres. Simple pero bueno.
+    date: 06-10-2008
+    user: http://mi.guiaoleo.com/members/28409
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Todo excelente, platos elaborados y salsas de primer\xEDsima calidad. En mi humilde opini\xF3n, el mejor lugar de Buenos Aires."
+    date: 13-09-2008
+    user: http://mi.guiaoleo.com/members/22495
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: un clasico de Buenos Aires por ambientacion y comida. Es un lugar altamente recomendable
+    date: 02-07-2008
+    user: http://mi.guiaoleo.com/members/46895
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Agradable ambiente, comida y atenci\xF3n. nada superlativo pero tampoco nada malo. Con dos botellas de vino entre 6, un plato cada uno y 4 postres y cuatro caf\xE9s pagamos $65 cada uno incluyendo $20 de propina (un poquitito caro)"
+    date: 16-05-2008
+    user: http://mi.guiaoleo.com/members/45068
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Soy brasile\xF1o de San Pablo, resido actualmente en la ciudad de Asunci\xF3n en PY, y a cada 2 meses nos damos un paseo por BUE, para ver teatro, y restaurantes, y el Lalo de BUE hace parte de nuestro rotero SIEMPRE.La comida es excelente , la atencion de primera, y los precios me parecen muy justos en relacci\xF3n a la calidad de la comida.Deseo exitos para siempre a los amigos del Lalo, y les voy enviar cada vez mas amigos, porque esos SI saben trabajar bien."
+    date: 18-04-2008
+    user: http://mi.guiaoleo.com/members/43837
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: El lugar esta bien, la comida tambien esta bien pero los precios son muy caros. Creo que hay mejores opciones por el mismo valor. No lo recomiendo por ninguna comida porque no vi que se detacara en nada, la comida esta bien pero no sobresale ningun plato. Las porciones no son para compartir y la carta de pastas es muy escasa.
+    date: 29-03-2008
+    user: http://mi.guiaoleo.com/members/12897
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena y abundante comida porte\xF1a. Mozos con experiencia, ambientaci\xF3n tanguera y bastante ruido pero se come muy bien (mollejas al verdeo o ravioles negros de salm\xF3n: imperdibles). Para cholulos: es un lugar frecuentado por gente de teatro y TV, aspecto que no mejora la comida pero contribuye a la ambientaci\xF3n."
+    date: 07-03-2008
+    user: http://mi.guiaoleo.com/members/38729
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lindo lugar en el centro (buena opcion si se va al teatro por ahi). Buen ambiente, buena iluminacion y rica comida. Tipico porte\xF1o pero con aires modernos. Las porciones son abundantes (las ensaladas son grandes por ejemplo) pero solo algunos platos son para compartir (ver bien la carta o preguntar al mozo si toca uno con buena onda o DESPIERTO). Recomiendo las mollejas al verdeo: muy buenas! Recomiendo tambien insistir con el punto de las carnes. Tener en cuenta que se llena bastante a medida que se acerca la medianoche."
+    date: 25-01-2008
+    user: http://mi.guiaoleo.com/members/13208
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena comida y abundantes porciones. Comida tipica porte\xF1a con ambiente tanguero. Si estas en el centro es una buena opcion."
+    date: 02-11-2007
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bueno al cuadril al vino tinto con milhojas de papa. Tambi\xE9n recomiendo los ravioles fritos de choclo con pesto de r\xFAcula. Muy interesante tiramis\xFA.\r\n\
+      En cuanto a la atenci\xF3n, depende del mozo que nos atienda. Excelente pianista."
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/35000
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Esperaba mucho mas del lugar.comimos pasta y las salsas un poco acidas. Las porciones normales. Muy lindo el ambiente y malisimo los mozos pocas ganas de atender, era casi tarde pero seguia entrando gente a comer.
+    date: 05-10-2007
+    user: http://mi.guiaoleo.com/members/7858
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La carne fue servida en el punto solicitado. Las ensaladas son abundantes. Los postres, especialmente la mousse de chococolate, muy buenos. L\xE1stima el panqueque de dulce de leche -demasiado peque\xF1o-. T\xEDpico restaurante porte\xF1o, muy bien puesto. Amigable. Tal vez las mesas un poco juntas y bastante bullicio. Pero, por lo dem\xE1s, todo muy bueno. "
+    date: 28-08-2007
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Exelente lugar, muy bien atendido, muy limpo y el tiramisu expectacular.
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/26154
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Eran las 3 de la ma\xF1ana y todo el mundo nos cerraba las puertas despues de ver teatro. Hasta que llegamos a Lalo. Nos recibieron barbaro, pese a la hora y habia buen clima. Pedimos entrada y plato principal y el mozo nos atendio y sirvio en 15 minutos a la perfeccion. Los platos son normales y los precios son accesibles. El lugar esta bien decorado y el ambiente plagado de cuadros gardel y piazzola lo hacen mas agradable a la vista, aunque no es nada de otro mundo. En resumen IDEAL cuando vayan a ver teatro u otro show de la calle corrientes. "
+    date: 23-06-2007
+    user: http://mi.guiaoleo.com/members/22323
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Me decepcion\xF3. Pedimos carne porque pensamos que era la especialidad. No s\xF3lo no estaba en el punto que la solicitamos, sino que tambi\xE9n la misma era de mala calidad. La ensalada ya la trajeron condimentada con demasiado aceite. Encima de todo, cometieron un \"error\" en la factura cobrando bastante mas de lo que figuraba en carta. No vuelvo mas."
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/1409
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si planea una salida al teatro este es el mejor lugar para completar la noche. Buen ambiente y mejor atenci\xF3n. Parece el cl\xE1sico lugar para enganchar turistas desprevenidos, con fotos de Gardel por todos lados, pero lo cierto es que se come bien. La carne es de primera, las mollejas al verdeo podr\xEDan estar cortadas con m\xE1s delicadeza, el flan es espectacular. Largamente aprobado. "
+    date: 01-03-2007
+    user: http://mi.guiaoleo.com/members/18497
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Ottimo indirizzo. Rapporto qualit\xE0/prezzo decisamente buono.\r\n\
+      Good place; try it because prices are really cheap according to the quality of the food."
+    date: 17-02-2007
+    user: http://mi.guiaoleo.com/members/15076
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Siempre es un placer ir a Lalo. Hay pocos lugares en Buenos Aires d\xF3nde la cocina est\xE9 abierta hasta tarde."
+    date: 14-02-2007
+    user: http://mi.guiaoleo.com/members/18452
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente. Recomiendo la parrilla y la ensalada de radicheta a la italiana. El tiramis\xFA, ni hablar, con verdadero mascarpone. La lista de vino es abundate. La atenci\xF3n es muy esmerada. Lindo para ir despu\xE9s del cine o teatro. Est\xE1 muy bien decorado.  "
+    date: 02-02-2007
+    user: http://mi.guiaoleo.com/members/17460
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un excelente lugar, donde todos los platos, desde el tradicional asado hasta una lasagna son de primera calidad. \r\n\
+      No se puede dejar de ir a Lalo si gusta de la cocina porte\xF1a. El flan casero es \xFAnico."
+    date: 13-12-2006
+    user: http://mi.guiaoleo.com/members/15866
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Soy un argentino que vive en New York, no s\xF3lo me sorprendi\xF3 la calidad y el ambiente, si no los buenos precios. No me canso de mandar turistas, ya que representa lo mejor de Buenos Aires a nivel internacional, manteniendo la autenticidad. "
+    date: 09-10-2006
+    user: http://mi.guiaoleo.com/members/19741
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lindo lugar para comer m\xE1s o menos bien a precios razonables y con una atenci\xF3n aceptable. La vieja \"comida marr\xF3n\" de Buenos Aires."
+    date: 03-09-2006
+    user: http://mi.guiaoleo.com/members/6835
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente la comida, para el que le gusta como bien y abundante es un lugar imperdible. Increibles las empanadas de carne como entrada. El ambiente es sencillo porque es el t\xEDpico restaurante porte\xF1o de antes. Los precios son razonables."
+    date: 01-08-2006
+    user: http://mi.guiaoleo.com/members/17814
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n como siempre es excelente y el servicio que brindan los mozos merece un comentario aparte por ser todos muy serviciales.\r\n\
+      Debo destacar a uno en especial, Sergio, excelente profesional."
+    date: 21-12-2005
+    user: http://mi.guiaoleo.com/members/5478
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Execelentes las pastas y las carnes rojas.
+    date: 21-08-2005
+    user: http://mi.guiaoleo.com/members/3421
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encanta el lugar, es un ambiente agradable y muy bien atendido. Ideal para parejas o grupos de amigos. Los precios resultan bajos en relaci\xF3n a la calidad de los platos. \xA1Muy buenas las carnes y las ensaladas, servidas como \"en casa\"!"
+    date: 20-08-2005
+    user: http://mi.guiaoleo.com/members/3503
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente restaurante.
+    date: 12-02-2005
+    user: http://mi.guiaoleo.com/members/11334
+    ambiente_rank: excelente

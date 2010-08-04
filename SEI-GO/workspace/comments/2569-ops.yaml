@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar exelente en el ambiente, la comida en tiempo y forma, muy buena la calidad de la salsa, los fideos al dente, y la atencion muy buena, un lugar para recomendar.
+    date: 20-10-2009
+    user: http://mi.guiaoleo.com/members/70657
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Comimos una picada muy abundante y barata con una cerveza. La comimos en la amplia vereda por enfrente de la estaci\xF3n carranza, la picada muy bien aunque ten\xEDa mucho salam\xEDn de dudosa procedencia. Igual lo recomiendo para una picada o un desayuno (tipo brunch) al aire libre."
+    date: 22-12-2007
+    user: http://mi.guiaoleo.com/members/27488
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La comida es evidente que no est\xE1 hecha con productos de calidad, a pesar de que los precios creo que lo justifican (tampoco es caro). No es muy rica, pero sale r\xE1pido. No nos atrevimos a pedir cosas con mayor elaboraci\xF3n debido a que nos llevamos una muy mala impresi\xF3n con la atenci\xF3n, mozos/as poco motivadas y la atenci\xF3n poco menos que desganada del due\xF1o en el mostrador. El ambiente no est\xE1 en la mejor zona, pero est\xE1 al menos bien iluminado."
+    date: 07-05-2007
+    user: http://mi.guiaoleo.com/members/19232
+    ambiente_rank: bueno

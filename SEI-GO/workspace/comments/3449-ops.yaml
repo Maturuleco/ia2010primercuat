@@ -1,0 +1,96 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: un lugar muy frio, y no concuerda el estilo del lugar con la comida a mi opinion. Creo tambien que hay una muy mala organizacion ya que promocionaron un show, el cual nunca comenzo, y falta de coordinacion dentro del resutante con respecto a las comidas, ya que promocionan pastas, y en ningun momento las ofrecieron. creo que falta mucha experiencia.
+    date: 06-08-2009
+    user: http://mi.guiaoleo.com/members/63046
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La atenci\xF3n es espectacular, el pan que sirven es imperdible, el asado tieno y variado, la verdad, vuelvo con gusto"
+    date: 01-02-2009
+    user: http://mi.guiaoleo.com/members/57647
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: Carta pobre, atencion inexperta, porciones diminutas y  de baja calidad. los precios para lo que se come son altisimos. y bueno, haberlo sabido antes!!
+    date: 14-01-2009
+    user: http://mi.guiaoleo.com/members/57272
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Volveria a ir a me gusto!, la comida estaba rica, la atencion buena, el ambiente es tranquilo...recomendable!
+    date: 10-10-2008
+    user: http://mi.guiaoleo.com/members/25135
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Lo unico "atractivo" del lugar son los precios...pero luego de probar la comida, se entiende por que es tan barato. Creo que es el tipo de lugar equivocado para la zona. Las instalaciones son tristes, y no invitan a quedarse, y la carta es terrible.
+      Pedimos una tarta y la masa era saladisima y super grasosa. La ensalada escasa y con ingredientes de segunda calidad.
+      No lo recomiendo ni para zafar a fin de mes.
+    date: 28-08-2008
+    user: http://mi.guiaoleo.com/members/9987
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: es un lugar triste con una comida normal , una carta corta y sin cosas que entusiasmen. No vuelvo
+    date: 26-06-2008
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Lo unico rescatable es el ambiente. Demoraron en llevarnos a la mesa y teniamos reserva, el mozo no venia a tomarnos el pedido, y entre plato y plato esperamos casi una hora, ademas la comida llego cruda y fria! MUY FEA!! Lo peor de todo son los precios que tienen! No hay relacion entre precio y calidad! NO VOLVEREMOS JAMAS!!
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/46545
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Este restaurante es un desastre y te rompen la cabeza!!! Volvi indignado y por eso es que quiero denunciarlo aca.. Un "mini" bife de chorizo esta $37.00.-... no se puede creer.. si van dos personas terminas gastando con bebida, y una entrada mas de $75.- por persona!!!! Ademas, el servicio es malisimo, la carta hiper acotada y cuando pedi el plato de pescado del dia, obvio que no habia mas!!! Desepcionante!!! no lo vale.
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/33487
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Me hab\xEDan hablado bien de El Quia y no me enga\xF1aron. Comenz\xF3 bien ya con la calidez del lugar, su atenci\xF3n esmeado y el salm\xF3n a la parrilla fue lo mejor de la noche, a seguir asi!"
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/36514
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es confortable y c\xE1lido. La comida es buena pero las porciones son muy escasas y los precios son caros para los platos que ofrecen.  En general lo demas bien."
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/43610
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      muy buena atencion y carne.
+      volvere!
+    date: 24-01-2008
+    user: http://mi.guiaoleo.com/members/15532
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar tiene muy buena energ\xEDa,"
+    date: 11-01-2008
+    user: http://mi.guiaoleo.com/members/38027
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui con un grupo de amigos, comimos una carne deliciosa Pedimos bife de chorizo, achuras, una provoleta y asado de tira(Toda la carne de buena calidad y la sirvieron al punto que la pidi\xF3 cada uno).Las ensaladas tama\xF1o razonable. Muy buena ambientaci\xF3n. La atenci\xF3n es correcta. Nos atendieron r\xE1pido, y picas algo antes de la comida principal .El lugar es ameno, c\xF3modo (con una distancia razonable entre las mesas). Musica agradable y no invasiva. Te permite conversar y disfrutar de la velada. Recomendable, buena relaci\xF3n precio-calidad. Creo que vale la pena considerarlo"
+    date: 04-01-2008
+    user: http://mi.guiaoleo.com/members/26746
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Todo muy bien. "
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/37638
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "No lo conocia, inauguro recientemente. Buena parrilla y con un ambiente mas tranquilo al estar alejado de las calles mas concurridas de Palermo hollywood. "
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/37639
+    ambiente_rank: excelente

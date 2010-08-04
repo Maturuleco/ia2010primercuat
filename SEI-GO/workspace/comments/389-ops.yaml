@@ -1,0 +1,566 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Porciones abundantes, comida con el sabor casero, la ant\xEDtesis de los falsos platos gurmet de Palermo.\r\n\
+      Se come como se debe, l\xE1stima el \xE1mbiente ruidoso y la atenci\xF3n, que aunque r\xFAstica hace acordar a cuando los mozos eran referentes de los comensales."
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/40262
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Cantina t\xEDpica , ya hab\xEDamos estado , ambiente familiar , grupos de amigos. Bochinche de cantina. Platos abundantes.picada para 2 comen 4.buenas y muy abundantes las pastas, se pueden pedir medias porciones.Buena relaci\xF3n precio-calidad.Para ir."
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/45039
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Es la t\xEDpica cantina bodegon, donde la comida es bien casera (y muy buena por cierto) y con precios accesibles. Pero en un ambiente muy ruidoso. La atenci\xF3n no era buena, se notaba que faltaban mozos.\r\n\
+      Lo recomendar\xEDa para ir los d\xEDas de poco movimiento no el s\xE1bado pro la noche."
+    date: 01-05-2010
+    user: http://mi.guiaoleo.com/members/55002
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La verdad un desastre , fuimos 7 amigos , llegamos 20 y 30 hs. , entramos a las 22 hs. , otros 40 minutos para que nos tomaran el pedido , 10 minutos mas y vino la comida , nunca com\xED tuco tan malo en mi vida , las pastas muy buenas , pero totalmente desmerecidas por la salsa , la acidez de la noche no me la olvido jamas , como se podr\xE1n imaginar no pasamos mas ni por la puerta , pensar que hace 20 a\xF1os era uno de los mejores restaurantes de pastas de la Capital Federal."
+    date: 23-04-2010
+    user: http://mi.guiaoleo.com/members/46063
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Le Spiagge di Napoli es SIEMPRE una opci\xF3n. La atenci\xF3n es genial, el lugar es muy pintoresco y los fideos son espectaculares. Eso s\xED, como es tipo cantin\xF3n, no es apto para quienes odian los ruidos o el amuchamiento."
+    date: 28-03-2010
+    user: http://mi.guiaoleo.com/members/76836
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: muy buena comida, el servicio es regular a malo, muy pocos mozos para un salon lleno de gente, realmente me quedo con la opcion de delivery, buena calidad mala atencion
+    date: 07-03-2010
+    user: http://mi.guiaoleo.com/members/4488
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Si de bodegones hablamos, debe ser uno de los mejores restaurantes de pastas. Concurro desde hace 20 a\xF1os y han sabido mantener la calidad y el servicio. Que te sigan trayendo un plato repleto de un buen queso de rallado, no es poca cosa. Tienen algunos platos destacados: el antipasto y los ni\xF1os envueltos, por ejemplo. Los mozos, si bien han rotado, mantienen el estilo: parcos pero eficientes."
+    date: 27-02-2010
+    user: http://mi.guiaoleo.com/members/40783
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Bien de barrio y con una larga trayectoria en la zona, Spiagge merece estar lleno de los que van a buscar comida sencilla, rica y sin pretensiones. La carta es limitada, pero alcanza para encontrar perlas como los Sstrechynatty caseros con tuco y alb\xF3ndigas (\xBFd\xF3nde se los consigue, si no ah\xED?). Muy buenas las pastas caser\xEDsimas y las minutas en general. La atenci\xF3n es informal pero correcta y el ambiente, en su estilo, es agradable. Los precios, incre\xEDbles: \xA1dos bebidas cuestan lo que un buen plato! \xDAsenlo de comod\xEDn cada vez que alguien diga"
+    date: 10-02-2010
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: comida muy abundante y sana ,con ambiente familiar e higiene buena
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/76207
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Grandes pastas en un bodeg\xF3n aut\xE9ntico (prestar atenci\xF3n a los detalles) La cantidad de salsas es adecuada y tradicionales, el punto de las pastas es bueno y el sabor estupendo. Hay pocos mozos, pero la experiencia lo vale."
+    date: 21-12-2009
+    user: http://mi.guiaoleo.com/members/65580
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: el lugar es una cantina con estilo clasico de bodega, vinos, cuadros con imagenes viejas de personalidades que lo han visitado, carteles con leyes super antiguas, pero con mucha mucha onda!!! y la comida es excelente, no vayan con muchas pretensiones de lujo porque no lo hay. Ahi se come muy bien y abundante, ademas de tener un precio super accesible
+    date: 03-12-2009
+    user: http://mi.guiaoleo.com/members/73116
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Muy buena pasta, comimos sorrentinos con salsa caprese, fucilli al fierrito con salsa principe di Napoli, la variedad de pasta y salsas es enorme, y las porciones son abundantes.
+      vayan temprano para los que no nos gusta esperar
+    date: 08-11-2009
+    user: http://mi.guiaoleo.com/members/21473
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "A las pastas y al tiramis\xFA le faltaba gusto. El ambiente y servicio normal, de este estilo de restaurantes. El mantel estaba sucio. La tortilla de papas estaba buena, pedimos espa\xF1ola pero trajeron una com\xFAn, por suerte igual cobraron la com\xFAn :)\r\n\
+      Otro punto a favor es que la gaseosa es de 600 cm3\r\n\
+      La verdad que no volver\xEDa."
+    date: 25-10-2009
+    user: http://mi.guiaoleo.com/members/9487
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Cantina/bodeg\xF3n italiano ,bullicioso ,no apto para cena rom\xE1ntica pero ideal para la cena en familia y con amigos.El ambiente es refamiliar , la decoraci\xF3n t\xEDpica de cantina , la atenci\xF3n correcta y la comida  casera , abundante y rica ,con precios accesibles , en fin una ecuaci\xF3n mas que interesante para el paladar porte\xF1o.Recomendable.Ir temprano porque dopo 21:30 hay que esperar."
+    date: 23-10-2009
+    user: http://mi.guiaoleo.com/members/45039
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui varias veces y comi muy bien . Esta \xFAltima vez no me fue muy bien .\r\n\
+      Quien pide fusiles o pollo come bien .La atenci\xF3n un desastre , el mozo olvido dos de los platos que pedimos . Lamentablemente pedi otro tipo de fideos con salsa Scarparo . Un desastre .\r\n\
+      Los ba\xF1os estaban sucios .\r\n\
+      Pero otra de las veces hemos comido muy rico ."
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/53254
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Es un restaurante fetiche de mi familia, porque ademas de que nos queda a tres cuadras, las pastas son DE LO MEJOR. Parece que estuviera nuestra abuela cocinando... otra cosa que tengo que recomendar son las Rabas. Lejos las mejores que com\xED, superando a restaurantes de la costa.\r\n\
+      Los mozos son un poco lentos, pero en general es un buen lugar para ir a disfrutar de una comida abundante y a buen precio."
+    date: 29-09-2009
+    user: http://mi.guiaoleo.com/members/69565
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Bodegonazo. Pastas caseras exquisitas con variantes cl\xE1sicas en salsas. Tambi\xE9n cocina variada. Si no se busca \"el ambiente\", de lo mejor en pastas."
+    date: 21-09-2009
+    user: http://mi.guiaoleo.com/members/14579
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar para comer pastas muy buenas y a buen precio. Siempre hay gente esperando en la puerta, asi que hay que ir con paciencia o despu\xE9s de las 23:30hs. El ambiente es ruidoso, la atenci\xF3n r\xE1pida, las mesas est\xE1n muy juntas. Pero es un bodeg\xF3n excelente. Pastas son siempre muy buenas y tienen algunas cosas raras como caracoles con tuco. Siempre volvemos. Es un lugar para ir con amigos."
+    date: 18-09-2009
+    user: http://mi.guiaoleo.com/members/7930
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Para ir y comer llanamente. La media picada que ofrecen, es hasta para tres personas. La pasta excelente y muy abundante. Muy buen detalle el tener alcohol en gel en cada mesa. No hay que quejarse del ambiente ruidoso y las mesas juntas...es una cantina de barrio que mantiene con dignidad los platos abundantes a muy buen precio. Para algo mas silencioso, peque\xF1o y caro, dirigirse a los rest\xF3 de palermo."
+    date: 10-09-2009
+    user: http://mi.guiaoleo.com/members/10779
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: el lugar es asi de barrio es para ir a comer rico y barato sobre todo pastas que son la especialidad  si podes pasar por alto la espera la onda del mozo que te toque y las mesas medio apretadas este es tu lugar sin duvida , a mi me encanta
+    date: 17-08-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un bodegon, con ambiente familiar; ped\xED bife de chorizo con fritas, y estaba bien. me digeron que la especialidad del lugar son las pastas, por cierto, cuando pedi el bife de chorizo, despues, relogeando las mesas aleda\xF1as y viendo los platos de pastas... me arrepenti; pero bueno, volver\xE9 a probar las pastas!. un lugar para comer si estas ppor la zona"
+    date: 08-08-2009
+    user: http://mi.guiaoleo.com/members/65885
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un lugar muy agradable, para comer pastas y antipasto como los hac\xEDan antes. Tienen unas botellas de chianti envueltas en paja de adorno y fotos del restaurante en la d\xE9cada del 40, del 50 y del 60. Es cierto que es ruidoso y un poco apretadas las mesas, pero la comida es rica, decente y sin pretensiones, los mozos son profesionales (no pueden ser demasiado amables porque est\xE1n muy ocupados) Lo recomiendo fervorosamente a los que les guste comer rico, pastas y antipasto; hay que ir temprano. Ver el Spiagge de Napoli e doppo morire!"
+    date: 15-07-2009
+    user: http://mi.guiaoleo.com/members/64701
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida muy rica y abundante, la atenci\xF3n del mozo fue muy amable, el lugar tipico de cantina, buena relaci\xF3n precio/calidad/servicio. Para volver y recomendar. Estaba lleno asi q hay que ir temprano si no quieren esperar."
+    date: 19-06-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Primera visita y no defraudo en la comida, hay que bancarse el ruido y las mesas api\xF1adas.\r\n\
+      Pero todo forma parte del ambiente de cantina, bien popular u ruidosa\r\n\
+      Para volver por la comida, eso si con tiempo porque no te reservan"
+    date: 11-06-2009
+    user: http://mi.guiaoleo.com/members/13376
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Est\xE1 ubicado en el Barrio de Boedo y no en Congreso (Av. Independencia y Boedo)Muy buena comida, bien presentada y abunadnte. Ambiente mesas muy api\xF1adas. Buena carta en general. Hay de todo, no solo pastas, tambi\xE9 hay platos de pescado y mariscos."
+    date: 07-06-2009
+    user: http://mi.guiaoleo.com/members/37562
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Es un bodega con todas las letras. Siempre hay gente esperando, aunque sea un dia de semana. La comida es muy buena, recomiendo la 1/2 picada, muy completa y comen 3 personas facil. Es ideal para ir a comer fideos con estofado y platos por el estilo. Venden fideos por peso, es decir te venden una fuente con 1 kg de fideos con tuco por ej a $ 80, comen 5 o 6 personas minimo. Es para ir a conocer. Los postres estan bien, el tiramisu realmente bueno y el flan acorde con el lugar.
+    date: 29-05-2009
+    user: http://mi.guiaoleo.com/members/27508
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Suelo ir a este lugar por la cercan\xEDa a mi casa.\r\n\
+      La comida y la variedad son muy buenas, puedes pedir desde mariscos, hasta una suprema napolitana. las salsas, en mi opini\xF3n son su especialidad. los mozos, son un tanto amargos y muy pocos. el ruido es francamente insoportable, dado que siempre esta lleno. el precio, en concordancia con la comida y el ambiente. si solucionaran el problema de la ac\xFAstica seria excelente."
+    date: 26-05-2009
+    user: http://mi.guiaoleo.com/members/63566
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: vierenes a la noche no se toman reservas!!! esperamos una hora en la calle,; la espera valio la pena, la comida es exquisita. un bodegon de barrio, da para volver con amigos.
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/7875
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Fuimos con mi familia, eramos 6 adultos y un bebe, compartimos varios platos, vino y postre sin cafe. la comida buena y abundante, por precio y calidad es excelente, el servicio es tipico de un bodegon, si sos piola al final le terminas robando una sonrisa al mozo, sino olvidate, porque la atencion no es el fuerte. recomiendo a las familias, no asi a las parejas o comidas de negocio.
+    date: 02-05-2009
+    user: http://mi.guiaoleo.com/members/65820
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Bodegon imperdible de esos en donde uno lee el menu y entiende lo que le van a traer sin necesidad de pedirle explicaciones al mozo. Aca no hay Cheff, solo cocineros con oficio.
+      Esta bien puesto dentro de la categoria Bodegon.
+      Las pastas son realmente excelentes. Muy recomendables. No puedo decir lo mismo de la Corvina a la Vasca. Muy bueno el pescado, pero de Vasca, la salsa tenia solo el nombre.
+      Para tener en cuenta las albondigas (ENORMES), y las pastas imperdibles. Porciones grandes y sabrosas.
+      Conviene ir temprano ya que el lugar no es muy grande. Volvemos seguro.
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/62410
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Comimos pastas exelentes, bien parecidas a la "pasta di nonna"!!! Riquisimo.. el lugar y la ambientacion no es de lo mejor ... pero equipara con lo rico de los platos.. obviamente volveremos!!!
+    date: 15-04-2009
+    user: http://mi.guiaoleo.com/members/7138
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Bodeg\xF3n de barrio sin pretensiones, donde puede comerse buenas pastas caseras por muy poca plata. Los fusillis al fierrito con salsa putanesca y el estofado son excelentes, y saben mejor a\xFAn acompa\xF1ados por un vino de la casa (que viene en botella) con soda (de sif\xF3n, obviamente). El ambiente no dice mucho pero tampoco desentona, y el servicio es correcto aunque puedo imaginarme que 3 mozos para un sal\xF3n completo puede resultar poco. Queda marcado para volver!"
+    date: 14-04-2009
+    user: http://mi.guiaoleo.com/members/59497
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fuimos con amigos y comimos muy bien. Muy buenos los sorrentinos capresse. Precios accesibles.
+    date: 06-04-2009
+    user: http://mi.guiaoleo.com/members/25134
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Restaurante muy familiar; en el que sus platos se destacan por su calidad, abundancia y exquisitez. Si a esto le sumamos precios muy economicos; la ecuacion cierra perfectamente.La atencion es realmente buena, y muy valorable el hecho de invitarte con el cafe. El ambiente bullicioso, sin desentonar demasiado; es el punto mas flojo del lugar. Restaurante para tener en cuenta
+    date: 19-02-2009
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es ciertamente como rese\xF1a la gran mayor\xEDa: buenas pastas, precios acomodados (depende que pidas), buenas porciones, sal\xF3n ruidoso (siempre a full) y recetas cl\xE1sicas de la comida italo-porte\xF1a. Eso s\xED, nos toc\xF3 un mozo maniero con mala actitud, que nos trajo las cosas como quiso y cuando quiso: casi que dir\xEDa que comimos intimidados (ok, ok, exagero un poco!!). As\xED que mi experiencia qued\xF3 \"tamizada\" por este hombre. Tal vez deba volver, darle una nueva oportunidad al Spiagge.... mmmmm, no s\xE9."
+    date: 07-02-2009
+    user: http://mi.guiaoleo.com/members/16579
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Tipica cantina de barrio con platos abundantes y barato. Recomiendo pastas sencillas (fideos) con estofado. Los vinos son acordes al lugar, con vino de la casa, y deber\xEDa haber alg\xFAn mozo m\xE1s para atender, pero se las arreglan bien. No apto para habitues de Ca\xF1itas o Palermo. Dos personas comimos 2 platos de pasta con vino de $27 y 2 postres por $90."
+    date: 05-02-2009
+    user: http://mi.guiaoleo.com/members/2588
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Bodegon que cumple con la finalidad de comer bien y barato.\r\n\
+      Me quedo solo con los fussilles al fierrito con estofado. Los postres, para dejarlos de lado, el Tirasmis\xFA parec\xEDa n biscochuelo h\xFAemdo de caja."
+    date: 23-12-2008
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un restaurante familiar donde el atractivo principal es la pasta (rica y abundante) a precios m\xE1s que razonables. Buena variedad de vinos, acorde al lugar. No esperar cocina gourmet, ni platos de autor o ambiente new age, aqu\xED el encanto pasa por otro lado."
+    date: 25-11-2008
+    user: http://mi.guiaoleo.com/members/12243
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Soy vegetariana, ped\xED ravioles de calabaza con fileto y la salsa ten\xEDa restos de carne. Los ravioles eran un masacote sin sabor, me los cambiaron y me trajeron con crema que no ten\xEDa ni sal. Un desastre. El resto de la gente que comi\xF3 conmigo dice que comi\xF3 muy bien. Yo paso."
+    date: 14-09-2008
+    user: http://mi.guiaoleo.com/members/4979
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "ruidoso, mesas juntas, el mozo que nos toc\xF3 era bastante bueno, el pan es horrible, las pastas caseras muy buenas, la salsa filetto... hummmm. No es un t\xEDpico restaurante italiano, m\xE1s bien es un bolich\xF3n a la vieja usanza. Nada para destacar salvo que es barato y tardan en traerte la comida. Pero bueno, de lo m\xE1s barato en estos tiempos..."
+    date: 12-09-2008
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Me lo recomendaron con mucho entusiasmo,esperaba\r\n\
+      encontrame con la t\xECpica cantina italiana de anta\xF1o, pero me decepcion\xF2 totalmente.\r\n\
+      La comida es vulgar y sumamente aceitosa, el barullo que impera en el local es insoportable, y la antenci\xF2n deja mucho que desear.\r\n\
+      Para descartarlo."
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/2836
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: excelente ambiente familiar, excelente relacion precio-comida, pasta casera de muy buena calidad.
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/47738
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Si un restor\xE1n est\xE1 lleno siempre, a toda hora, es buen s\xEDntoma de que se come rico y barato. El sal\xF3n no es muy grande y las mesas est\xE1n un tanto api\xF1adas... pero realmente la comida es sabrosa, casera y abundante. No se pueden pretender nada de preciosismos a la hora de ser atendido ni en la presentaci\xF3n de los platos, pero s\xED hay buenos ingredientes, buenas porciones y precios, y la casi extinguida atm\xF3sfera de cantina de barrio. Para los memoriosos: es un lugar muy similar a uno que se llamaba \"I Giovanotti\", que quedaba a dos cuadras del Abasto. En fin, la Spiagge... muy recomendable."
+    date: 01-07-2008
+    user: http://mi.guiaoleo.com/members/38047
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: una cantina de verdad, muy buena onda. fuimos un domingo a la tarde y habia mucha cola. recomendable.
+    date: 29-06-2008
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      Excelente cantina. Atencion inmejorable. Ojala los lugares "fashion" y modernos tuvieran una atencion tan esmerada como la que tuvimos.
+      Las 4 personas que fuimos queremos volver para probar las pastas caseras.
+      Muy recomendables los caracoles.
+      Preparense para una espera de 30 minutos por lo menos para conseguir una mesa. Pero vayan porque vale la pena.
+    date: 29-06-2008
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Yo iba con mi padre de chiquito y hoy voy con mis hijos y se sigue comiendo maravilloso, y el ambiente sigue bien de barrio. Las pastas son exquisitas y en pocos lados se pueden comer un caracoles como los que preparan ac\xE1. Se lo recomiendo a todo aquel que quiera comer bien sin necesidad de caretear. Es como comer en la casa de la abuela"
+    date: 14-04-2008
+    user: http://mi.guiaoleo.com/members/40133
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es uan cl\xE1sica cantina, las pastas son excelentes, todas... y las rabas tambien"
+    date: 14-04-2008
+    user: http://mi.guiaoleo.com/members/12586
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "t\xEDpica cantina de barrio con una amplia oferta de pastas, la calidad de la comida es aceptable, el ambiente es algo ruidoso, pero sin llegar a ser molesto, cuando hay mucha gente la comida tarde un poco pero lo bueno es que viene todo junto, no apto para el que busca un lugar \"fashion\""
+    date: 05-04-2008
+    user: http://mi.guiaoleo.com/members/15003
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El mini bife deber\xEDan llamarlo MICRO bife de chorizo. Seco, adem\xE1s.\r\n\
+      Las pastas muy bien, pero MUY bien. \r\n\
+      Esta vez los perdono porque hace muchos a\xF1os que voy, y porque en \"promedio\" no estuvo mal. Es hora de ofrecer otros vinos. Recomiendo la entrada para uno: comen (bien) dos y pican cuatro, sin exagerar. El estruendo del sal\xF3n, inevitable, salvo que termines de cenar antes de las 22 o de almorzar antes de las 14."
+    date: 04-04-2008
+    user: http://mi.guiaoleo.com/members/43050
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida estaba bien. La atencion era buena. Al pasar al ba\xF1o se ve la cocina y luego de esto ya no dan mas ganas de seguir comiendo."
+    date: 08-03-2008
+    user: http://mi.guiaoleo.com/members/14968
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      La zona,es regular,y mas de noche.Como trabajo cerca,me queda de paso.
+      Fui con unos clientes,y me hicieron quedar como un rey,el mozo,atentisimo y simpatico,el lugar me hizo acordar a la pelicula EL PADRINO 1.
+      Los platos mas que buenos,abundantes,fresco,bien hecho,como si cocinara la nonna.
+      Carta de vinos,obsoleta,pero para el lugar esta excelente,es ideal para gordos,que les gusta comer bien y barato,PARA RECOMENDAR,VAYA TRANQUILO
+    date: 16-02-2008
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Los fusiles alla scarparo que comimos mi mama yo y mi novio eran una delicia, aun sigo so\xF1ando con ellos, pero la lasgna que se pidio otro comensal, muy mala, fria por dentro, los tagliatelli en salsa de estofado que pidieron otros fue acida la salsa\r\n\
+      solo recomiendo los fussiles a la scarparo el resto de la comida bajo bastante la calidad\r\n\
+      ahhhh las rabas a la romanas muy buenas\r\n\
+      si piden esos dos platos quedan bien con los amigos por que es buena la relacion calidad precio PERO SOLO ESOS PLATOS , EL RESTO DEL NIVEL DE LA COMIDA YA NO ES LA MISMA DE ANTES!!!!"
+    date: 06-02-2008
+    user: http://mi.guiaoleo.com/members/39617
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Las pastas son riqu\xEDsimas. El lugar es bastante ruidoso y con poco espacio para pasar entre las mesas, para llegar a los ba\xF1os hayq ue pasar por la cocina y los mismos est\xE1n bastante desarreglados. Los mozos a veces no dan abasto pero son muy considerados (al punto de traer una cerveza bien fr\xEDa cuando se termina la anterior sin preguntar siquiera). Platos grandes, pan hasta morirse y pesto en baldes."
+    date: 02-01-2008
+    user: http://mi.guiaoleo.com/members/28409
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es una cantina muy amena, se come genial, pero recomiendo plenamente ir en la semana. Los findes adem\xE1s de tener que esperar un mont\xF3n la atenci\xF3n baja much\xEDsimo. Lo recomiendo para ir en la semana a comer comida casera, bien rica."
+    date: 13-12-2007
+    user: http://mi.guiaoleo.com/members/35136
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Excelente comida, como siempre. Como cada vez que voy, opto por pedir r\xE1pidamente, comer a todo vapor (tratando de disfrutar el plato, obvio) y mandarme a mudar lo antes posible. El ambiente del lugar es insoportable: ruido, m\xE1s ruido y mucho movimiento. Sucede que el sabor de sus pastas amerita sufrir un rato este desasociego...\r\n\
+      Adem\xE1s, como soy del barrio, me estoy convirtiendo en habitu\xE9...\r\n\
+      Para los que tengan que hacer un viajecito para llegar hasta all\xE1, les aseguro que vale la pena!"
+    date: 11-12-2007
+    user: http://mi.guiaoleo.com/members/14886
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Cantina Italiana, es el lugar para el que busca un lugar donde la comida es bien casera y abundante no es para quien busca servicio o ambientaci\xF3n. "
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/36846
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Se vuelve por las pastas, la atencion de los mozos es amable pero regular, aunque no importa por la comida y los precios bajos. El ambientes es el de un bodegon quedado en el tiempo. 
+      El unico defecto es que el lugar es muy ruidoso, conviene, para estar mas tranquilo, ir un sabado al mediodia, temprano, o un dia de semana antes de las 9. Cuando el lugas esta mas vacio la atencion mejora y los ruidos desaparecen.
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/7618
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El lugar es una tipica cantina italiana.La atencion es muy buena y la comida excelente.Los precios son muy economicos teniendo en cuenta la calidad de los platos y lo abundante de los mismos.La atencion de los mozos es buena.Es para recomendar y disfrutar, sobre todo para los amantes de la buena mesa italiana!
+    date: 08-09-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "No hay lugar entre las mesas y es muy ruidoso. La comida es muy buena pero lo peor que tiene el lugar es el cajero que es descortes. Somos habitues desde hace a\xF1os pero estamos pensando no ir mas porque la atencion (y no de los mozos) deja mucho que desear."
+    date: 03-08-2007
+    user: http://mi.guiaoleo.com/members/32397
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Comida casera muy sabrosa y sin demasiada sal se nota el sabor de los ingredientes, fui por leer los comentarios, en especial de una persona que comento que fue mal atendida pero le gusto la comida, no pongo en duda su experiencia, pero a mi me atendieron muy bien, realmente lo recomiendo sinceramente.
+    date: 28-07-2007
+    user: http://mi.guiaoleo.com/members/28144
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Una cantina bien de barrio, antiguo pero lindo, con una comida rica y una atencion desastrosa y no del los mozos q tienen mucho trabajo pero cumplen. Me refiero al pelado de la caja q se encarga de dar las mesas, un amargo y maleducado, todo bien menos este tipo. "
+    date: 28-07-2007
+    user: http://mi.guiaoleo.com/members/15601
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Es lo que es. Un bodegon de pastas. Con mosos pasionales. Pasillos estrechos. Siempre lleno.\r\n\
+      No busques, COME! "
+    date: 17-07-2007
+    user: http://mi.guiaoleo.com/members/11441
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Buena comida, p\xE9sima atenci\xF3n, las esperas son terribles, dicen 20 minutos y te com\xE9s una hora larga. El due\xF1o un d\xE9spota (sin anestesia y clarito.Adem\xE1s se lo dije en la cara, no le interesa conservar al cliente ni buscar mas. Hay mucha gente. La relaci\xF3n precio y calidad de la comida es muy buena. Un detalle a tener en cuenta: Los fideos se pueden pedir por peso. 1/4 kg de spaghettis tuco y pesto, son tres porciones abundantes ($ 16). La pasta al dente y las salsas sencillas y caseras. L\xE1stima el pelado vinagre con cara de tano napolitano.\r\n\
+      El estacionamiento est\xE1 en Boedo (a la vuelta), no pares en la puerta porque te hacen la boleta. "
+    date: 04-07-2007
+    user: http://mi.guiaoleo.com/members/25936
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida del lugar es excelente. La carta es variada y prevalecen los platos que remiten a la cocina \"de la abuela\". De elaboraci\xF3n sencilla y platos abundantes. Lo lamentable es la atenci\xF3n del due\xF1o. Debido a la alta popularidad no hacen reservas pero tampoco son exactos con el tiempo de espera. No le importa ya que siempre tienen gente. No es muy agradable en invierno esperar una hora y cuarto en la calle. No soporta cr\xEDticas, menos le importa mantener un cliente. Es una pena, pero en lo personal no vuelvo m\xE1s (diversidad gastron\xF3mica en Buenos Aires sobra y muy buenas). "
+    date: 03-06-2007
+    user: http://mi.guiaoleo.com/members/22039
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: La cantina sigue excelente como siempre. Las pastas son como las de la nonna y los mariscos y pescados de primera. Por suerte quedan estos oasis para salirse de lo meramente "moderno" y volver a las fuentes sin que te cobren por la vista del lugar.  El que no haya ido debe hacerlo.
+    date: 01-06-2007
+    user: http://mi.guiaoleo.com/members/22821
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: Cantina italiana con cocina exelente. Hay que soportar la espera (por lo menos los dias sabados es asi) y la atencion poco amable, pero la llegada de los platos hace olvidar todo. Pastas increibles y bien caseras, los caracoles a excelente precio como entrada, el tiramisu bien hecho. Se veia bien la cazuela de mariscos. Muy recomendable.
+    date: 27-05-2007
+    user: http://mi.guiaoleo.com/members/7652
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar es ruidoso, hay que esperar en la puerta, no hacen reservas. A los mozos hay que llamarlos y piderles la comida, no se acercan a ofrecer. Las pastas son excelentes, caseras, donde dice ricota hay ricota y no una mezcla extra\xF1a, no est\xE1n pasadas de cocci\xF3n. Las salsas son cl\xE1sicas pero bien preparadas. En las entradas est\xE1n las cl\xE1sicas como el jam\xF3n crudo con ensalada rusa. Hay buenos frutos de mar,rabas a la romana, caracoles con salsa de tomate, mejillones, cazuelas. Los postres son simples y ricos, el tiramis\xFA est\xE1 muy bueno.\r\n\
+      La relaci\xF3n precio calidad es excelente. Fuimos cuatro, con entradas, plato principal, postres, vino y gaseosas y gastamos $120.\r\n\
+      Para volver!"
+    date: 27-05-2007
+    user: http://mi.guiaoleo.com/members/7930
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: MUY buenas las rabas y los sorrentinos capresse. El ambiente es muy bullicioso y los mozos atienden con desgano.
+    date: 17-05-2007
+    user: http://mi.guiaoleo.com/members/19
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Generalmente vamos a comer a este restaurante debido a la excelente comida que tiene, en especial por las pastas, pero el resto de los platos son tambien deliciosos. Sin embargo se debe tener en cuenta que es una cantina italiana por lo tanto mantiene dicha atmosfera y servicio. Por ej: el mozo tira la etiqueta del vino al abrirlo directamente al piso, el cual no esta muy limpio y con razon, ni tampoco el servicio es tan refinado como otros restaurantes. Ademas del hecho que el establecimiento ya tiene sus a\xF1os y personalmente una busca lugares mas modernos. A pesar de eso, el restaurante mantiene su estilo clasico italiano y tiene muy buenas ofertas si se busca comprar pastas por kilo."
+    date: 01-05-2007
+    user: http://mi.guiaoleo.com/members/9868
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Cantina al viejo estilo: familiero, bullicioso, platos abundantes, panzas llenas y corazones contentos.\r\n\
+      Si buscas refinamientos, este no es el lugar. Si lo que queres es juntarte con tus viejos amigos de la adolescencia, y a muchos de ellos no les fue tan bien como a vos, este es el lugar para que ningun bolsillo ni ning\xFAn afecto se quede resentido.\r\n\
+      El tiramisu, un \"must\". Las pastas, b\xE1rbaras. Las rabas, uno de los platos m\xE1s caros de la carta ($14), la rompen. \r\n\
+      Los mozos est\xE1n a full, y le ponen onda a pesar de todo."
+    date: 27-04-2007
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un boliche de los de antes! Cantina. se come muy rica pasta, la traen muy r\xE1pido, hay variedad de salsas. Las rabas son muy ricas. El \xFAnico defecto es que es muy ruidoso y por momentos se te parte la cabeza estando ahi."
+    date: 01-04-2007
+    user: http://mi.guiaoleo.com/members/19814
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fuimos con una amigos a almorzar y la verdad es que desde la picada, pasando por las rabas y los fucciles al fierrito por kilo, estuvieron excelente, todo de muy buena calidad. Los fucciles los pedimos al dente y as\xED vinieron. La relaci\xF3n entre la calidad de la comida y el precio es muy favorable. En cuanto a la atenci\xF3n, los mozos son predispuestos si les caes bien, sino es dif\xEDcil. "
+    date: 09-03-2007
+    user: http://mi.guiaoleo.com/members/13284
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Los canelones estaban fr\xEDos en su interior. La salsa ten\xEDa un sabor agrio y todav\xEDa estoy buscando la salsa blanca. Mucho ruido dentro del sal\xF3n, termin\xE1s hablando a los gritos. No hay lugar entre las mesas. Los mozos ponen mala cara y trabajan a desgano. "
+    date: 02-02-2007
+    user: http://mi.guiaoleo.com/members/17406
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buen lugar para ir a comer pastas. Muy rico, precios acomodados y buen ambiente. Lo \xFAnico que le falta son mozos con mejor onda. Volveremos por las rabas y las papas fritas. Ir temprano porque se llena. Ten\xE9 en cuenta que si vas en auto lo pod\xE9s dejar en el garage que est\xE1 a una cuadra (dos horas gratis). "
+    date: 26-01-2007
+    user: http://mi.guiaoleo.com/members/17010
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Es una cantina de barrio donde se come a buen precio. Las pastas son muy ricas y las porciones muy abundantes. El mozo no nos atendi\xF3 muy bien. La panera ten\xEDa pan comido y tuvimos que pedir que lo cambiaran. Para una comida r\xE1pida est\xE1 bien el lugar, pues se come rico y barato; pero no es para una salida elegante. El lugar es bastante bullicioso. "
+    date: 20-01-2007
+    user: http://mi.guiaoleo.com/members/15573
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Las pastas muy buenas, pero salsas un poco pesadas, el fileto ten\xEDa demasiada aceite. Muy buena la carne. Tuvimos mucha espera (era s\xE1bado a la noche). El ambiente es bastante ruidoso. El mozo correcto."
+    date: 13-01-2007
+    user: http://mi.guiaoleo.com/members/13644
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Linda cantina, muy buenas las pastas, bien abundantes los platos.\r\n\
+      El servicio podr\xEDa mejorar, el mozo estaba desganado. A otras mesas les serv\xEDa la comida en los platos. A nosotros nos dejaba las bandejas en la mesa.\r\n\
+      Igual le dare otra oportunidad."
+    date: 08-12-2006
+    user: http://mi.guiaoleo.com/members/5959
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy lindo lugar para ir a comer en familia. La comida es espectacular, sobre todo las pastas con salsa pr\xEDncipe de n\xE1poles que te la traen en bandejita gratinada con mucho queso y jam\xF3n."
+    date: 17-10-2006
+    user: http://mi.guiaoleo.com/members/12897
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "una de las mejores trattorias de Buenos Aires. Volvi a este lugar despues de haber estado ausente en Buenos Aires por 20 a\xF1os  y sigue siendo la mejor. La calidad de la comida, la atencion de los mozos, todo bueno. Siempre extra\xF1o a Mateo. Uno de sus fundadores. Vaya, no se va arrepentir. No encontrara lujo. Encontrara un ambiente familiar que no se puede comparar con ningun otro restaurant."
+    date: 27-07-2006
+    user: http://mi.guiaoleo.com/members/78739
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Lo tengo cerca de casa y es una gran opci\xF3n para ir en familia o amigos.\r\n\
+      T\xEDpica cantina de barrio.\r\n\
+      Las pastas estan en el punto justo.\r\n\
+      La atenci\xF3n del mozo es con poca educaci\xF3n, se ve que estaba cansado de trabajar tantos a\xF1os. Que l\xE1stima, pero por lo dem\xE1s es recomendable."
+    date: 02-05-2006
+    user: http://mi.guiaoleo.com/members/4684
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Vamos siempre, seamos dos o dieciseis en la mesa la atenci\xF3n siempre es de primera. \r\n\
+      La comida es excelente. \r\n\
+      Hay que ir temprano porque se llena a los 45 minutos de abrir y cierra temprano, pero vale la pena. \r\n\
+      Si no lo conocen es para ir y adoptarlo."
+    date: 06-01-2006
+    user: http://mi.guiaoleo.com/members/5657
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "A pesar de que es una cantina algo ruidosa y de que por lo general hay que esperar afuera, la pasta es muy buena. \r\n\
+      La carta de vinos es escasa, pero se pueden encontrar esos cl\xE1sicos nobles que nunca fallan."
+    date: 19-11-2005
+    user: http://mi.guiaoleo.com/members/4902
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente calidad y cantidad.
+    date: 30-07-2005
+    user: http://mi.guiaoleo.com/members/3100
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelentes entradas y pastas, un clasico para recomendar.
+    date: 24-06-2005
+    user: http://mi.guiaoleo.com/members/2396
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Ya no es el viejo lugar pastero que conoc\xED hace m\xE1s de 25 a\xF1os. La mesas est\xE1n muy pegadas unas a otras."
+    date: 16-04-2005
+    user: http://mi.guiaoleo.com/members/1662
+    ambiente_rank: bueno

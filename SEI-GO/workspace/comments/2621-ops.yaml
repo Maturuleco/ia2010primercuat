@@ -1,0 +1,22 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "EL menu ejecutivo no es variado. Hay dos opciones\r\n\
+      1- Milanesa de Soja con queso y tomate acompa\xF1ada de ensalada verde $33\r\n\
+      2- Pollo al verdeo con papas espa\xF1olas\r\n\
+      Me incluin\xE9 por la opci\xF3n (1). Pero trae solo una milanesa y la ensalada es.  El ambiente del lugar es c\xE1lido y agradable."
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/45903
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Buena atencion, muy buena comida. Es un lindo lugar con precios accesibles y buenas opciones para el mediodia.
+    date: 14-07-2008
+    user: http://mi.guiaoleo.com/members/39214
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Los platos bien servidos y un ambiente agradable, ojo no se pongan cerca del horno de barro si hace mucho calor!
+    date: 18-12-2007
+    user: http://mi.guiaoleo.com/members/35266
+    ambiente_rank: bueno

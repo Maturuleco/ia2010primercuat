@@ -1,0 +1,13 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo m\xE1s parecido a un buffet de club."
+    date: 14-07-2006
+    user: http://mi.guiaoleo.com/members/2592
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es de muy buena calidad. Est\xE1 muy bien ambientado."
+    date: 21-01-2006
+    user: http://mi.guiaoleo.com/members/6013
+    ambiente_rank: excelente

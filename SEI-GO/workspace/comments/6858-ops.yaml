@@ -1,0 +1,323 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Caro por lo que ofrecen, por favor hagan algo con los ba\xF1os!!"
+    date: 01-07-2010
+    user: http://mi.guiaoleo.com/members/84325
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Un lugar muy recomendable y super agradable la atencion muy buena y la comida ni hablar super rica es un lugar al que volvere en comida tipica Argentina lo mejor es Chori & Wine y de paso les recomiendo en comida Hindu Taj Mahal
+    date: 22-06-2010
+    user: http://mi.guiaoleo.com/members/73802
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: rica la comida, un poco caro por lo que es, no me sorprendio
+    date: 18-06-2010
+    user: http://mi.guiaoleo.com/members/84327
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Volvimos despu\xE9s de seis meses y vali\xF3 la pena. Realmente reconfort\xF3 la noche de un s\xE1bado fr\xEDo y muy h\xFAmedo y lluvioso, con su deliciosa comida. Una excelente parrilla en el coraz\xF3n de palermo en un ambiente acogedor, atendida por su due\xF1o, excelente calidad de productos y buena relaci\xF3n precio -calidad. No deje de probar la mousse de chocolate. S\xED o s\xED hay que reservar porque son muy pocas mesas."
+    date: 16-06-2010
+    user: http://mi.guiaoleo.com/members/73632
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La c\xF3mida es muy buena, muy buena materia primera, con platos bien presentados y muy bien preparada por el chef/parrillero/due\xF1o, quien a su vez aconseja muy bien y trata de preparar de acuerdo con el gusto del comensal. Esto hace que tambi\xE9n la atenci\xF3n sea muy buena, cordial y personalizada. El lugar no tiene la mejor decoraci\xF3n, las mesas est\xE1n juntas y los ba\xF1os algo viejos.Si se busca comer buena parrilla, y ser bien atendidos es recomendable, si se busca lucirse por lo imponente del lugar, se deben buscar otras opciones."
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/47331
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Porciones abundantes, muy bien atendidos y el parrillero/mozo/due\xF1o sumamente amable y sincero en sus recomendaciones. Realmente un lugar para volver."
+    date: 03-06-2010
+    user: http://mi.guiaoleo.com/members/30470
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: excelente!! la comida estuvo muy rica, el matambrito de cerdo estuvo muy tierno y sabroso y ademas recien hecho y las porciones fueron super generosas. El ambiente es calido y acogedor. lo recomiendo y volvere, ya que por el precio adecuado uno se asegura calidad de comida.
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/82253
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Mantiene la excelente calidad de sus materias primas desde el primer dia, los puntos de coccion pedidos son los que llegan a la mesa (no es poca cosa).
+      la atencion sigue siendo brillante y el lugar muy confortable.
+      la panera espectacular y los postres buenisimos...sigo yendo y recomendando.
+    date: 13-05-2010
+    user: http://mi.guiaoleo.com/members/15435
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Si bien la comida no es mala, me parece que es demasiado caro para lo que ofrece. Tampoco tiene vinos menores a 50 pesos. La comida no fue mala, y el servicio fue muy bueno, pero el precio fue muy caro (100 pesos con vino).
+    date: 10-05-2010
+    user: http://mi.guiaoleo.com/members/24337
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Empiezo diciendo que el pan era un placer comer, y eso es buen indicio de buen restaurant.
+      
+      La cominda fue muy buena, el servicio excelente.
+      El parrillero al ver que eramos dos hombres y de buen diente, la porcion de cordero fue extra generosa.
+      Ademas fue un placer quedarnos hablando con los mozos y el parrillero cuando cerraron el lugar y tomando vino con ellos y hablando de la vida.
+      VUELVO SEGURO!!!!
+    date: 30-04-2010
+    user: http://mi.guiaoleo.com/members/79424
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida es excelente, el ojo de bife, la provoleta, la ensalada completa y la mouse de chocolate sin palabras. La atenci\xF3n fue personalizada y muy agradable. Todas las recomendciones fueron acertadas, el punto de la carne, el vino y las cantidades. Sin lugar a dudas volveremos."
+    date: 28-04-2010
+    user: http://mi.guiaoleo.com/members/81575
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Buena parrilla para compartir una cena descontracturada con amigos. Muy buena atencion, se preocupan por satisfacer al cliente. Recomendable
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "comida muy rica aunque las porciones no eran muy abundantes. El bife de lomo era muy tierno pero para  m\xED la cantidad no correspond\xEDa a la que estaba en la carta. servicio bueno."
+    date: 19-04-2010
+    user: http://mi.guiaoleo.com/members/80421
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Mollejas en pedacitos carbonizados - chorizos agrios - cordero mal trozado y pesimamente asado.en mi vida he comido tan mal. el ba\xF1o es deplorable. ya no me anim\xE9 a probar el tan mentado mouse de chocolate porque para muestra basta un boton y yo tuve tres de muestra."
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/82116
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Chori & Wine brinda un ambiente acogedor tanto en el sal\xF3n como en la terraza. Para destacar la calidez en la atenci\xF3n por parte de Laura y Jorge,que hacen que cada uno se sienta totalmente c\xF3modo en su restaurante. Muy buena y fresca la comida y una menci\xF3n especial para la mousse suiza de chocolate,con un sabor y una textura inigualables! Muy bien!, volveremos."
+    date: 11-04-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Fuimos con muchas expectativas por los comentarios de la gu\xEDa, nos fuimos desencantados porque la relaci\xF3n precio calidad no nos pareci\xF3  la correcta, un bife de chorizo a $75 que se promociona para dos result\xF3 excesivamente caro ya que su tama\xF1o no parec\xEDa concordar con los 600 gs. que  aparec\xEDa en la carta de hecho el haber pagado $235 sin postre dos personas comiendo un chorizo una morcilla, media porci\xF3n de entra\xF1a y el bife de chorizo, sin postre con un vino de $60 nos result\xF3 excesivo.la atenci\xF3n sin embargo fue buena."
+    date: 03-04-2010
+    user: http://mi.guiaoleo.com/members/46836
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Muy buena carne, de lo mejor de la Gral. Paz adentro. El lugar es chico pero c\xE1lido, y la atenci\xF3n es excelente: el detalle del asador dando recomendaciones mesa por mesa es muy destacable.\r\n\
+      \r\n\
+      Ah, y no se pierdan el mousse de chocolate."
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/42197
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos muy bien atendidos, las mollejas eran espectaculares, la carne riqu\xEDsima y las porciones muy muy abundantes. El chimichurri es poco picante pero super sabroso. La terraza es chica pero bien ambientada. Una noche muy linda. Ideal para quienes quieren calidad y cantidad, y a precios normales."
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/75636
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente lugar. La atenci\xF3n muy buena, el lugar chiquito pero muy bien ambientado, la m\xFAsica correcta y tiene buena ac\xFAstica. Adem\xE1s el olor a parrilla no se siente. Lo m\xE1s importante: la comida 10 puntos. Recomiendo el mousse de chocolate. Otra ventaja es que tiene gran lugar para estacionar al rededor."
+    date: 01-04-2010
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bien! parrilla de barrio del siglo XXI; excelente relacion calidad/cantidad/precio; muy prolijo ambiente, sin pretensiones de moderno o \"palermitano\", atencion correcta y personalizada; parrilla a la vista y ni un poco humo u olor en el ambiente. Es el camino a seguir en la restauracion porte\xF1a; para recomendar y volver."
+    date: 22-03-2010
+    user: http://mi.guiaoleo.com/members/71896
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "El lugar es lindo, con la parrilla como protagonista del local. A pesar de ser peque\xF1o no se siente el olor al asado. Las porciones son generosas por lo que es importante escuchar la sugerencia del parrillero en cuanto a que cantidad pedir. Del matambre y la entra\xF1a que pedimos, ambos cortes vinieron con distinto punto de coccion: una parte segun lo solicitado y la otra parte muy seca. Definitivamente hay que probar la mouse suiza: es deliciosa!!"
+    date: 17-03-2010
+    user: http://mi.guiaoleo.com/members/44190
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tal como sale publicado en la mayor\xEDa de los restantes comentarios, vale la pena ir. No se pierdan las papas bastones y no le teman a la salsa criolla que no es para nada fuerte. Atiende el due\xF1o y chef en persona recomendando la porci\xF3n justa. Como toda escoba nueva barre bien. Espero que NO BAJEN LA CALIDAD."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/78280
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Descato la atencion, muy esmerada! La comida es realemtne muy buena, destaco la mousse de chocolate suiza, cita obligada en choori&wine, realmente imperdible!! Para mi gusto a mejorar: carta de vinos, demasiado acotada y las copas. Volvere..."
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/57769
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "genial la pasamos genial. nos reunimos a festejar un cumplea\xF1os y nos retiramos super conformes.la comida excelente al igual que la atenci\xF3n. el lugar es muy lindo y la terraza est\xE1 buen\xEDsima.tuvieron la deferencia de convidarnos con una copa de champagne y jam\xE1s nos insinuaron que deb\xEDamos irnos pese a quedarnos bastante mas de lo habitual.un lugar super recomendable."
+    date: 26-02-2010
+    user: http://mi.guiaoleo.com/members/72585
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Restaurante maravilhoso e ambiente sensacional. A comida foi indica\xE7\xE3o do dono do restaurante e amamos.\r\n\
+      \r\n\
+      Melhor restaurante porte\xF1o na minha visita a buenos aires."
+    date: 25-02-2010
+    user: http://mi.guiaoleo.com/members/77410
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Riquisimo todo, muy atentos y muy linda la terraza.
+    date: 17-02-2010
+    user: http://mi.guiaoleo.com/members/28735
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Realmente se come muy buena carne ya que no esta pre-cocida sino que todo esta hecho en el momento.Tanto el cordero como la entra\xF1a muy muy ricos. Atendido muy amablemente por sus due\xF1os, Jorge y CO. Saludos y suerte"
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/68711
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fuimos con mi chica, 1 morcilla que estaba 10 puntos, 1/2 porcion de mollejas 8 puntos y 1/2 porcion de asado especial 6 puntos. Fui con mejores expectativas a comer parrilla y la verdad que el \"asado especial\" no ten\xEDa nada de especial. Por el mismo precio se come mucho mejor en otras parrillas, \"Don Julio\" por ejemplo..."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/74150
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Nunca escribo, pero este nuevo restaurant lo merece: la carne es de la mejor que se puede comer en BAires, la atenci\xF3n, excelente y el lugar no es pretensioso (no es para una cena aniversario o para sorprender), sino un lugar tranquilo para comer bien y relajado.\r\n\
+      Por fin un lugar con buena carne como en otros tiempos! De entrada, el chorizo es la mejor elecci\xF3n; el pan que usan y la carne eran realmente superiores. Pedimos ojo de bife para compartir, que estuvo INCREIBLE. La atenci\xF3n personalizada del due\xF1o es el valor agregado de este lugar, asi como las servilletas de papel que ponen."
+    date: 04-02-2010
+    user: http://mi.guiaoleo.com/members/76563
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena la ceasar, la pasta exelente y la mousse de chocolate es la mejor que he probado hasta ahora
+    date: 16-01-2010
+    user: http://mi.guiaoleo.com/members/75134
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El ojo de bife, el chorizo, las papas al horno y la ensalada mixta, excelentes!, y la atancion tbn muy buena. Contras: S\xF3lo aceptan efete y el famoso cubierto...en este caso de 5 mangos."
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/18643
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La carne es excelente, la mousse tambi\xE9n, la atenci\xF3n es pr\xE1cticamente prsonalizada. Muy recomendable a la hora de elegir un resto para comer carne. La terraza en verano, muy buena elecci\xF3n."
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/58861
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "fuimos siete personas y comenzamos con ensalada cesar de salmon rosado muy buena y abundante, chorizo de muy buena calidad igual que la provoleta. luego compartimos bife ce chorizo, ojo de bife y asado que son para compartir. la calidad de la carne y el punto justo de coccion hicieron una cena memorable. terminamos con media porcion de cordero tambien excelente- como postre la mousse de chocolate coincidimos todos que fue la mejor de todas las probadas anteriormente. una mencion especial merece la atencion personalizada del due\xF1o: jorge que nos hizo sentir como en casa. buena la bodega."
+    date: 14-01-2010
+    user: http://mi.guiaoleo.com/members/478
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fuimos un grupo de 12 personas. Comimos bife de chorizo (excelente), ojo de bife (muy bueno), tira de asado (excelente) y entra\xF1a (muy mala con gusto a ri\xF1on). El mousse de chocolate es imperdible"
+    date: 07-01-2010
+    user: http://mi.guiaoleo.com/members/74915
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy buena la comida......el punto justo..recomiendo la ensalada cesar de salom.riquisima!!!!!gracias por la atencion me senti como en casa...no dejen de conocerlo
+    date: 31-12-2009
+    user: http://mi.guiaoleo.com/members/74316
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Nada del otro mundo. Comimos ojo de bife y estuvo bueno. Las papas picantes no pican mucho que digamos. SOn papas con pimenton y un poquito de chile. Los pimientos a la parrila estaban muy ricos, con bastante ajo. El servicio fue un poco lento pero lo compensaron regalandonos una mouse de chocolate suizo muy muy rica.
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Nada del otro mundo.  El servicio fue un poco lento
+    date: 28-12-2009
+    user: http://mi.guiaoleo.com/members/9310
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Muy buen lugar fundamentalmente la terraza.
+      La carne muy sabrosa y de muy buena calidad. No perderse la mousse de chocolate.
+    date: 26-12-2009
+    user: http://mi.guiaoleo.com/members/16615
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 este nuevo rinconcito parrillero en Palermo. Impecable la calidad y cocci\xF3n de la carne y la suntuosidad de la mousse suiza de choco que es especialidad de la casa con receta secreta. P\xE1rrafo aparte para la cordialidad de los simpatiqu\xEDsimos due\xF1os, George y Laura, que te atienden como reyes. Volver\xE9 a probar m\xE1s cosas ricas y a visitar la recomendada terraza!!!"
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "El lugar es agradable. Las carnes son de buena calidad y se respeta el punto solicitado. A mi gusto, lo m\xE1s recomendable fue la atenci\xF3n de Laura y la exqusita mousse suiza!!!"
+    date: 19-12-2009
+    user: http://mi.guiaoleo.com/members/24741
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Nos gust\xF3 el lugar, la comida muy buena y la atenci\xF3n muy c\xE1lida y generosa, opini\xF3n que compartimos con mi esposa y nuestros dos amigos"
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/73872
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena esquina,ubicada en palermo.La atencion es muy buena y las carnes en su punto justo.La ensalada de salmon,muy recomendable.Para el postre,la mousse y el flan casero,te hacen terminar muy satisfecho.La nueva terraza,un salto de calidad.
+    date: 18-12-2009
+    user: http://mi.guiaoleo.com/members/58120
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me encant\xF3 el lugar, el ambiente es muy calido, la comida riquisima y el servicio impecable.\r\n\
+      El mousse de Chocolate, exquisito!!!!\r\n\
+      Definitibamente voy a volver"
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/23603
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es excelente, de muy buena calidad. La terraza s\xFAper c\xF3moda. La atenci\xF3n fue muy personalizada y con mucha onda, y eso que eramos 18 personas para cenar. Las sugerencias fueron exactas. La mousse de chocolate suiza doble crema es un manjar. Volver\xEDa seguido, y lo recomiendo sin dudarlo."
+    date: 14-12-2009
+    user: http://mi.guiaoleo.com/members/73757
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida muy buena, impresionante la mousse suiza de chocolate (el postre de la casa) y una excelente atenci\xF3n. Muy recomendable"
+    date: 12-12-2009
+    user: http://mi.guiaoleo.com/members/73632
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente las achuras y el ojo de bife es unico.vamos muy seguido porque realmente vale la pena.Jorge el due\xF1o es una maravilla en cuanto a su habilidad para cocinar y asesor al cliente."
+    date: 10-12-2009
+    user: http://mi.guiaoleo.com/members/73526
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      espectacular la ensalada caesar de salmon.
+      la parrilla excelente, todo en su punto y de primera calidad.
+      la atencion excelente, y el ambiente muy agradable....tiene una terracita muy confortable....vuelvo
+    date: 30-11-2009
+    user: http://mi.guiaoleo.com/members/72981
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente el ojo de bife, justo como lo pedimos y para compartir.\r\n\
+      La atenci\xF3n impecable, la terraza un hit y la mousse de chocolate imperdible."
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/39845
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Increibleeeeeee! Poder recibir consejos del parrillero que se acerc\xF3 a la mesa a peguntarnos el punto de cada corte y recibirlo exactamente como se pidi\xF3 es lo m\xE1s ! Todo bien fresquito va a la parrilla a la vista en el momento que lo ped\xEDs. El mejor ojo de bife que com\xED en mi vida, adem\xE1s a un precio increible. Un lugar super c\xE1lido y una terraza para el verano buen\xEDsima. Me sent\xED como en el quincho de mi casa con amigos. Volver\xE9, volver\xE9, volver\xE9 (por m\xE1s mollejas de cordero !!!!)"
+    date: 24-11-2009
+    user: http://mi.guiaoleo.com/members/72046
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente resto en una ubicaci\xF3n privilegiada, llegue y encontr\xE9 lugar para estacionar en una calle cortada frente al lugar, nos atendi\xF3 el mozo muy atento y cordial, nos recomend\xF3 algunos cortes que nos sorprendieron gratamente, el chorizo excelente, matambre tierno pero no hervido, ojo de bife brillante, mollejas ,excelente la idea de las papas al horno,todo mercader\xEDa de primera calidad, mas la mano del chef que nos conto que estudio gastronom\xEDa en varios pa\xEDses...y se nota. Para terminar nos invitaron una copa de champagne en la terraza que es espectacular...altamente recomendable"
+    date: 10-11-2009
+    user: http://mi.guiaoleo.com/members/15435
+    ambiente_rank: excelente

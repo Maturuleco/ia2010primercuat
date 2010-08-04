@@ -1,0 +1,14 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La verdad es que el servicio fue pobre y la ambientaci\xF3n es muy mala. \r\n\
+      Es como un maxikiosko o el comedero de una estaci\xF3n de servicio. Regular tirando a malo."
+    date: 18-01-2007
+    user: http://mi.guiaoleo.com/members/16512
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Muy buenas empanadas.
+    date: 03-03-2005
+    user: http://mi.guiaoleo.com/members/1025
+    ambiente_rank: muy bueno

@@ -1,0 +1,17 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "EL restaurant se llama \xD1unez ahora y no tien ni pizza ni comida macrobiotica. Solo sushi y un par de platos mas.\r\n\
+      La tncion fue excelente asi como tambien el sushi. Fresco y de buena calidad.\r\n\
+      Lo recomiendo."
+    date: 15-08-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente atenci\xF3n.\r\n\
+      Se nota que todo es fresco y preparado en el momento.\r\n\
+      Muy sabrosos los platos."
+    date: 15-11-2008
+    user: http://mi.guiaoleo.com/members/12809
+    ambiente_rank: bueno

@@ -1,0 +1,385 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: ecxcelente , ademas unico bar notable de flores. se lo merecen
+    date: 11-06-2010
+    user: http://mi.guiaoleo.com/members/8675
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Con la picada para 1 come una pareja, los ingredientes bastante buenos aunque alguno eran de una caldiad inferior al resto.
+      Buena onda de los mozos!
+    date: 20-04-2010
+    user: http://mi.guiaoleo.com/members/50625
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Buena y abundante la tabla de fiambres y quesos, aunque la fondue de queso no ten\xEDa la textura que deb\xEDa. El servicio un tanto disperso y el ambiente c\xE1lido y con una decoraci\xF3n muy original. Bien para lo que ofrece."
+    date: 18-04-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy rica, el lugar est\xE1 espectacular con la hambientaci\xF3n...\r\n\
+      el servicio medio pelo"
+    date: 16-04-2010
+    user: http://mi.guiaoleo.com/members/48059
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: es un buen lugar para ir con amigos,tiene un ambiente agradable
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/79474
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La relaci\xF3n precio calidad es excelente. El lugar es muy lindo (es muy similar al Bar de Cao, es de los mismos due\xF1os) porque mantiene la decoraci\xF3n original que era, precisamente, una farmacia. Sirven picadas y la especialidad son las fondeu. \xA1Impecable!"
+    date: 28-03-2010
+    user: http://mi.guiaoleo.com/members/76836
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Muy bueno en calidad/precio. La comida es, casi exclusivamente, minutas, panqueques y picadas. El ambiente es m\xE1s bien joven, inc\xF3modo en algunas mesas (como la que est\xE1 contra un tabique que divide el sal\xF3n en dos) y extra\xF1amente decorado. La atenci\xF3n es informal y correcta (aunque probablemente viniera bien un mozo de refuerzo). En cuanto a la comida, \"buena\" le queda bien porque muestra flaquezas: por caso, el salame, la mortadela y uno de los quesos no est\xE1n para nada a la altura del resto de los ingredientes de la picada. Aunque no descolla, es un muy buen lugar para encuentro con amigos!"
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/42011
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar ocn ambiente joven, ideal para ir al mediodia. Fuimos con mi vieja un sabado para picar algo: pedimos unas papas fritas que vinieron frias, y una ensalada de zanahoria, manzana, queso, palmitos y anana, a la cual le faltaban palmitos. Reclamamos las dos cosas, y no tuvieron inconvenientes en traernos papas fritas calientes y recien hechas, y en agregarle palmitos a la ensalada. Los precios, a lo mejor un poco elevados, pero es una buena opcion para estar de paso. La decoracion, impecable, mantuvieron la onda de la farmacia que sol\xEDa ser."
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/14919
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un lugar a precios accesibles, que no te va a defraudar, no te molestan los ruidos y te vas lleno y contento.
+    date: 16-09-2009
+    user: http://mi.guiaoleo.com/members/69112
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: un lugar unico  e irrepetible  no se lo pierdan
+    date: 06-09-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un gran lugar para comer picadas !!
+    date: 01-08-2009
+    user: http://mi.guiaoleo.com/members/64804
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Una opcion excelente para comer una picada con amigos, muy abundante y con muchos ingredientes.
+      Por lo que pude ver mientras estaba en el lugar tiene una opcion de panqueques buenisima.
+      El lugar parece una vieja farmacion con los frasquitos antiguos y posters de remedios viejos, muy buena ambientacion. Puede ser tanto para parejas como grupos de amigos. El lugar se presta.
+    date: 08-07-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Exceente propuesta gastronomica! La ambientaci\xF3n muy original! Un lugar para volver!! A mejorar: carta de vinos y atenci\xF3n de los mozos."
+    date: 12-06-2009
+    user: http://mi.guiaoleo.com/members/57769
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: excelente la picada....volveremos con mas amigos
+    date: 24-04-2009
+    user: http://mi.guiaoleo.com/members/60047
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la Fondeu de queso, vi pasar muchas picadas, y la verdad, la atenci\xF3n de los camareros excelente. Muy buen ambiente y muy buena m\xFAsica. Pasaron compactos de Sabina, de Nirvana entre otros. Muy lindo todo. Lo recomiendo. Volver\xE9 por las picadas."
+    date: 25-03-2009
+    user: http://mi.guiaoleo.com/members/60294
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui por los comentarios de la guia, me decepcion\xF3, sillas sucias, papas fritas de las congeladas, huevos fritos resecos.La picada los quesos bien,fiambres malos, mortadela toda grasa y tibia?. Un s\xF3lo mozo para todo el interior hace lo que puede.No volver\xE9"
+    date: 26-02-2009
+    user: http://mi.guiaoleo.com/members/29105
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar r\xFAstico pero muy lindo. Rica comida y muy pero muy buen ambiente."
+    date: 02-02-2009
+    user: http://mi.guiaoleo.com/members/28409
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui con mi esposa y mis hijos y dejando de lado la comida que nos pareci\xF3 muy buena, queremos destacar la exelente atenci\xF3n de un hermano chileno llamado Cristobal, quien se tom\xF3 todo el tiempo del mundo para satisfacer nuestras consultas sin dejar de atender al resto de los comensales con total respecto y cordialidad. Den por seguro que volveremos"
+    date: 24-01-2009
+    user: http://mi.guiaoleo.com/members/58274
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Soy de Flores y La Farmacia fue una grata sorpresa cuando abri\xF3. Es el \xFAnico bar de ese estilo que qued\xF3 en Flores. Buenas picadas, buena atenci\xF3n, buen ambiente animado por las noches."
+    date: 23-11-2008
+    user: http://mi.guiaoleo.com/members/9717
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "el lugar lindo, raro, mezcla de una restauracion de una antigua farmacia, con cuadros de fotos de artistas, publicidades antiguas de bebidas, etc. Una pescera (?), los muebles no son muy lindos. Pedimos cervezasimportada de la carta, no tenian, alguna premium, no tenian, tomamos la cerveza que querian, la pasamos bien, la esquina: linda"
+    date: 08-11-2008
+    user: http://mi.guiaoleo.com/members/49531
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Fui dos veces, la primera una picada con dos cervezas 70 pesos.. mm La picada no vale lo que es... creo que no tenian fiambres ese dia.. Otro dia que fui me sente afuera y tome dos cervezas con jamon crudo y queso y gaste 40 pesos... a las mesas de afuera le tendrian que poner sombrillas a todas las mesas... Tengo que volver para probar la famosa Fondeau de queso y despues les cuento... saludos
+    date: 06-11-2008
+    user: http://mi.guiaoleo.com/members/28273
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es un lugar muy especial por la ambientaci\xF3n cual farmacia antigua.  Me parece un buen lugar para ir a comer entre semana, porque es informal y el ambiente es relajado.  Voy cada tanto y lo recomiendo."
+    date: 22-10-2008
+    user: http://mi.guiaoleo.com/members/31822
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy lindo lugar, la comida es rica y abundante, con precios econ\xF3micos. Vale la pena visitarlo."
+    date: 26-09-2008
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Es un lugar que tiene ANGEL. Se come rico, las fopndeus y picadas son la especialidad. Es un tipico bar de PALERMO pero en Flores.
+      La unica contra que tiene es que se llena de gente enseguida y si queres cenar tener que ir antes de las 21 15 o desp de las 23.
+      Lo recomiendo
+    date: 07-08-2008
+    user: http://mi.guiaoleo.com/members/53183
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Excelente lugar, muy acogedor. 100% recomendable
+    date: 06-08-2008
+    user: http://mi.guiaoleo.com/members/39776
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      La verdad es que vivo a 2 cuadras, y la unica razon por la que se llena es porque no hay otra cosa en todo flores. El ambiente lo es todo, el servicio es de los peores en la ciudad entera.... realmente no les importa nada, todo se lo tenes que pedir 4 veces, y lo traen mal. Lo se porque no tengo opcion y termino yendo seguido.
+      Ah! cierran muy temprano, como bar.... 12.30 te empiezan a echar....
+    date: 28-07-2008
+    user: http://mi.guiaoleo.com/members/9176
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy lindo lugar, buena onda y tranquilo.
+    date: 15-07-2008
+    user: http://mi.guiaoleo.com/members/47528
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La picada es muy abundante y viene con distintos productos, la verdad q muy buena. La atencion muy mala, tuve q pedir 10 veces q me sacaran los platos sucios q no eran mios de la mesa. Tardaron mucho en atendernos y no tuvimos tiempo de comer la picada por q nos dijieron q nos teniamos q ir, una verguenza.
+    date: 30-05-2008
+    user: http://mi.guiaoleo.com/members/45694
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos un s\xE1bado a la noche y nos encontramos con comida muy rica y accesible, y de porciones abundantes.No es para nada caro, teniendo en cuenta la zona, y el ambiente es muy lindo, ideal para ir a picar algo entre amigos.No probamos la fondue, ni la picada, pero lo vamos a tener en cuenta para la pr\xF3xima.Eso s\xED:se llena mucho, es recomendable ir temprano."
+    date: 15-05-2008
+    user: http://mi.guiaoleo.com/members/44625
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Fuimos un sabado a la noche y habia mucha familia joven y parejitas. el lugar es una belleza, muy bar el federal de san telmo, mucha madera, cuadritos, sifones, pasaron un disco acustico de the cure buenisimo.la atencion muy buena, y la comida es tremenda, delicia total. son imperdibles la fondue (con puerro, salchichas, berenjenas, fiambre, aceitunas, champignones para picar) y las cazuelitas.
+    date: 02-05-2008
+    user: http://mi.guiaoleo.com/members/30039
+    ambiente_rank: excelente
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La farmacia debe poner el acento en algunos detalles respecto de la ambientaci\xF3n, la idea es buena pero no esta lograda, mejorar la parte de limpieza (recordemos que es un sitio plagado de objetos de adorno, cuadros, propagandas antiguas, etc.)y deben mostrarse impecables y mejorar unos cuantos detalles sobre mesas, sillas y sillones que est\xE1n viejos, rotos o deslucidos. Valdr\xEDa la pena prestar atenci\xF3n a estas cosas ya que la comida y la picada son muy buenas, el personal es atento, la idea es muy original y tiene un caudal de p\xFAblico considerable."
+    date: 11-03-2008
+    user: http://mi.guiaoleo.com/members/12207
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me gust\xF3 mucho el lugar. La comida, picadas y panqueques salados, me pareci\xF3 muy buena. Abundante y nada caro.  El postre muy rico.\r\n\
+      Un lugar sencillo, sin grandes pretensiones pero muy agradable."
+    date: 12-02-2008
+    user: http://mi.guiaoleo.com/members/43898
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lo malo: La insoportable mezcolanza de m\xFAsica, ruidos, tele y gritos del p\xFAblico. El olor a fritanga que qued\xF3 impregnado en nuestras ropas. \r\n\
+      Lo bueno: La excelente picada, la temperatura correcta de la cerveza, el precio moderado. \r\n\
+      Recomendaci\xF3n: trate de conseguir una mesa en la vereda."
+    date: 01-02-2008
+    user: http://mi.guiaoleo.com/members/12667
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me pareci\xF3 una buena opci\xF3n dentro de la zona. La fondue me pareci\xF3 un poco escasa y el queso se quemo debido a que no funcionaba el regulador del mechero.\r\n\
+      Igualmente me parece un esmerado lugar para ir."
+    date: 17-11-2007
+    user: http://mi.guiaoleo.com/members/32612
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una muy buena opci\xF3n para la zona, un bar tranquilo pero con onda para ir con amigos o en pareja, la picada es muy rica y no es cara en relacion a su muy buena calidad, adem\xE1s es muy completa.\r\n\
+      Los mozos fueron muy atentos y serviciales a pesar de que el lugar estaba totalmente completo. "
+    date: 22-10-2007
+    user: http://mi.guiaoleo.com/members/34439
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy buen bar. Ideal para tomar algo y picar tb. El toque antiguo esta muy bueno. No es caro. Vale la pena.
+    date: 04-09-2007
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo ambiente, las picadas abundantes y con ingredientes de muy buena calidad, un lugar para ir en pareja o con amigos, muy c\xE1lido"
+    date: 17-08-2007
+    user: http://mi.guiaoleo.com/members/8815
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Un lugar particular para compartir una magnifica picada. De noche es muy bullicioso
+    date: 10-08-2007
+    user: http://mi.guiaoleo.com/members/5952
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy contentos del lugar, fui con amigos y la verdad se disfruto mucho de la picada y la fondeu de queso. La atencion algo lenta pero buena onda por parte de los mozos.
+    date: 04-08-2007
+    user: http://mi.guiaoleo.com/members/9969
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Ambiente muy agradable, buena la comida y amable la atenci\xF2n, voy a volver para probar la picada"
+    date: 03-08-2007
+    user: http://mi.guiaoleo.com/members/28757
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El ambiente es interesante, la atenci\xF3n es por momentos lenta pero muy cordial. Las fondeu (queso y chocolate) muy buenas. "
+    date: 05-07-2007
+    user: http://mi.guiaoleo.com/members/25968
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Picada muy variada y grande. Ingredientes de muy buena calidad. El precio es muy bueno al igual que el ambiente. "
+    date: 05-07-2007
+    user: http://mi.guiaoleo.com/members/30135
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar, como siempre, excelente!!! Ayer fui a comer algo y me encontr\xE9 con la grata sorpresa que ahora tiene Fondeau de Queso y Chocolate. Impresionante, para dos personas m\xE1s que bien de hecho no la pudimos terminar, calidad suprema como siempre. El ambiente hermoso, y los chicos siemore atienden con la mejor onda !!! Apto para ir de a dos o en grupo."
+    date: 12-06-2007
+    user: http://mi.guiaoleo.com/members/21282
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Riqu\xEDsima y abundante picada. Lind\xEDsima ambientaci\xF3n, volveremos a probar la fondue. "
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/17085
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Sin duda es un lugar ideal para comer una picada. El sevicio, de tan relajado, resulta malo. El ambiente es para personas con muy poca exigencia. "
+    date: 02-06-2007
+    user: http://mi.guiaoleo.com/members/17053
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Nos encontramos varios amigos que hacia mucho no nos veiamos. El ambiente -la vieja farmacia- fue un marco especial para la reunion, intimo,calido, a pesar de haber mucha gente, en nuestro lugar pudimos charlar sin ruidos, disfrutando la picada de excelente calidad de productos, asi como los jugos naturales de fruta. Muy buena atenci\xF3n. Muy buen lugar, para recomendar."
+    date: 17-05-2007
+    user: http://mi.guiaoleo.com/members/23691
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Atenci\xF3n, m\xFAsica y lugar excelente. La comida muy buena y econ\xF3mica. En Palermo por lo mismo, pag\xE1s el doble."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/18686
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ese lugar es incre\xEDble, no hay otro as\xED. El ambiente es maravilloso, los mozos atentos y la comida exquisita. Vale la pena conocerlo y volver. S\xF3lo los domingos no, porque est\xE1 cerrado."
+    date: 20-02-2007
+    user: http://mi.guiaoleo.com/members/8675
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "\xC9sta es la posta, no la farmacia de San Telmo. Bar-pub tradicional antiguo en una esquina espectacular. Con elementos farmac\xE9uticos de \xE9poca, por ejemplo la balanza que la us\xE9 antes de comer, brindan un detalle espacial y especial. Esmerada atenci\xF3n, a pesar de la cantidad de gente. Ideal para ir a picar algo. "
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Pedimos una picada para dos y el mozo nos recomend\xF3 que prob\xE1ramos con la de uno. Fue muy buen consejo porque no la pudimos terminar. Enorme, muy variada y con todo fresco. Voy a volver."
+    date: 12-01-2007
+    user: http://mi.guiaoleo.com/members/15132
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Un lugar interesante que me parece un poco demasiado tranquilo con el servicio. Pero vale la para ir a cenar.
+    date: 11-01-2007
+    user: http://mi.guiaoleo.com/members/16126
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un muy agradable ambiente, el personal es amable y con onda.\r\n\
+      Por el momento no tengo nada que criticar, espero que no pierdan clientes con todo este tema de la prohibici\xF3n de fumar, pero creo que donde est\xE1 el piano ser\xEDa apto para fumadores."
+    date: 16-09-2006
+    user: http://mi.guiaoleo.com/members/12829
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un lugar pintoresco y diferente que vale la pena conocer. La picada es abundante, con productos cl\xE1sicos y normales."
+    date: 19-08-2006
+    user: http://mi.guiaoleo.com/members/11293
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena ambientaci\xF3n y m\xFAsica. \r\n\
+      La comida es muy buena y con porciones abundantes. \r\n\
+      Muy buena atenci\xF3n, pero s\xF3lo hab\xEDa un mozo con todas las mesas que no paraba de correr de ac\xE1 para all\xE1."
+    date: 04-08-2006
+    user: http://mi.guiaoleo.com/members/10442
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Es un lugar muy acogedor. A quienes les guste comer picadas y panqueques salados con una rica cerveza tirada, no puede dejar de visitarlo. \r\n\
+      El lugar es peque\xF1o y cuesta conseguir lugar. Una vieja farmacia adonde volver\xE9 sin dudarlo."
+    date: 04-08-2006
+    user: http://mi.guiaoleo.com/members/10249
+    ambiente_rank: excelente
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es ideal para reunirse con amigos a tomar y picar algo o para ir con tu pareja. \r\n\
+      Est\xE1 muy bien ambientado, vale la pena conocerlo."
+    date: 03-08-2006
+    user: http://mi.guiaoleo.com/members/10847
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar de ensue\xF1o, \xFAnico. \r\n\
+      El que no lo conoce no sabe lo que se pierde: atenci\xF3n incomparable, el cheff una maravilla, los platos sugeridos son deliciosos."
+    date: 20-05-2006
+    user: http://mi.guiaoleo.com/members/8675
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar muy c\xE1lido, ambientado como una farmacia antigua, con m\xFAsica de fondo muy tranquila. La atencion es b\xE1rbara. Un lugar ideal para picada y cerveza en pareja o amigos."
+    date: 12-05-2006
+    user: http://mi.guiaoleo.com/members/3815
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: |
+      El lugar tiene muy buena onda, se la pasa muy bien, con un buen ambiente. 
+
+    date: 23-12-2005
+    user: http://mi.guiaoleo.com/members/5501
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Muy buena picada, variada.
+    date: 24-09-2005
+    user: http://mi.guiaoleo.com/members/1063
+    ambiente_rank: muy bueno

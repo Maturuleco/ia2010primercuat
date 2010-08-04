@@ -1,0 +1,67 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Insuperable,Un 10 la comida,el ambiente y la atencion del mozo.un deleite para los sentidos,
+      Sublime.
+    date: 26-06-2010
+    user: http://mi.guiaoleo.com/members/64355
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      La fabada es simplemente espectacular aunque sea una entrada y no muy abundante.
+      Todo es delicioso, el ambiente es muy bueno y tiene una linda vista al dique de puerto madero. Los mozos hay de todo, algunos simpaticos y otros bastantes reacios.
+      Para volver solo para probar mas platos ibericos.
+    date: 21-06-2010
+    user: http://mi.guiaoleo.com/members/37840
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es un pecado tener productos de excelente calidad y arruinarlos como lo hacen aqui. Champagne franc\xE9s helado mas copa helada, puntos de cocci\xF3n incorrectos son cosas que no pueden ocurrir en un restaurante con intenciones y precios de uno de primer nivel. Lo mismo ocurre con el servicio que presenta serias muestras de falta de profesionalismo."
+    date: 04-06-2010
+    user: http://mi.guiaoleo.com/members/21461
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Restaurant con cero onda. Muy grande, siempre lucio semi vacio. La atencion es erratica. Los platos no resultan acordes con un precio excesivo. No recomendable. Solo para aficionados.
+    date: 25-05-2010
+    user: http://mi.guiaoleo.com/members/79628
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "muy buena comida espa\xF1ola"
+    date: 16-03-2010
+    user: http://mi.guiaoleo.com/members/78451
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy buena calidad de la comida, la tortilla muy buena y en el punto justo. La paella recomendable, con bastantes bichos y el punto del arroz genial!!!!!
+    date: 08-03-2010
+    user: http://mi.guiaoleo.com/members/70028
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: EXELENTE, el pulpo rico y abundante,los fiambres de primera,el cordero muy correcto el postre modesto lo recomiendo
+    date: 23-02-2010
+    user: http://mi.guiaoleo.com/members/6591
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La verdad, todo de primera: la comida, el servicio, el lugar... y lo que m\xE1s me sorprendi\xF3 fu\xE9 que al momento de llegar la cuenta, no doli\xF3 tanto como me imagin\xE9. Otra a favor: tiene las mesas bastante separadas entre si. \r\n\
+      Altamente recomendable."
+    date: 13-02-2010
+    user: http://mi.guiaoleo.com/members/27926
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El ambiente es bueno, al igual que la atencion y la comida, pedimos de entrada unas torradas de jamon crudo, y una 1/2 tortilla espa\xF1ola que estaba muy bien ( recomiendo ), luego yo pedi pez espada con salsa de ajies y papas espa\xF1olas, un plato mas, nada especial. tambien ordenamos solomillo de ternera con salsa demiglace y papas espa\xF1olas, que estuvo bien. y de postre volcan de chocolate para compartir y fue bueno,de bebida solo tomamos agua ya que despues tenia que manejar de regreso a mi casa. gastamos $ 207, comimos 2 y es un buen restaurante, pero creo que por ese dinero hay mejores."
+    date: 05-12-2009
+    user: http://mi.guiaoleo.com/members/55707
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Sin palabras, realmente qued\xE9 encantada por el lugar, la ambientaci\xF3n el servicio y la calidad de la comida. Sin bien no es un lugar barato, el precio lo vale por la excelente comida."
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/10900
+    ambiente_rank: excelente

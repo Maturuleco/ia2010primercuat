@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar es mu lindo, tiene jard\xEDn, L\xE1stima que este tan mal aprovechado, tenia solo un plato del d\xEDa el resto eran ensaladas, la atenci\xF3n del mozo era amable pero poco profesional."
+    date: 17-10-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: La ambientacion del lugar es excelente. la comida recomendable, poco abundante, el precio normal para la zona. la atencion de los mozos y del gerente lamentable. (toman mal las reservas, los mozos son lentos y traen mal el pedido). el show de tango que hay, deja mucho que desear, la mayoria de las cantantes desafinan mucho.
+    date: 29-08-2008
+    user: http://mi.guiaoleo.com/members/50663
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fui con unos clientes extranjeros con una expectativa muy grande por los comentarios de la gu\xEDa y la web del lugar. Una absoluta decepci\xF3n: no s\xF3lo \xE9ramos los \xFAnicos del lugar (por algo ser\xE1), si no que la comida era escasa y lejos de lo esperado por el precio. Para completar, el servicio tuvo muchas falencias. Experiencia para olvidar r\xE1pidamente."
+    date: 16-07-2008
+    user: http://mi.guiaoleo.com/members/43224
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "me encant\xF3 todo lo que com\xED, el lugar es maravilloso y la atenci\xF3n muy buena, que lindas orquideas y que cantidad... vuelvo seguro"
+    date: 25-06-2008
+    user: http://mi.guiaoleo.com/members/46767
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La porci\xF3n de pinchos fu\xE9 muy bien recomendada por el mozo para compartir, el salm\xF3n exquisito, y el postre estupendo. Me sorprendi\xF3 que tienen espejos de agua tanto en el sal\xF3n como en su propio jard\xEDn, peces, y 200 plantas de orquideas de todos los colores, tama\xF1os, perfumes y precios, un lugar que realmente me sorprendi\xF3 como hac\xEDa mucho ning\xFAn restaurant lo pod\xEDa hacer. Estoy seguro que volver\xE9 ya que hace muy poco abrieron y por supuesto merecen una nueva visita.."
+    date: 02-06-2008
+    user: http://mi.guiaoleo.com/members/14551
+    ambiente_rank: excelente

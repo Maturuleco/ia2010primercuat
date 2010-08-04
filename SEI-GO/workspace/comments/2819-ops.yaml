@@ -1,0 +1,34 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente nivel de comidas. el servicio de mesa es eficiente y el ambiente es muy agradable en especial en los sillones.limpeza correcta  Ricardo enero 2010
+    date: 26-01-2010
+    user: http://mi.guiaoleo.com/members/75588
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: La verdad que la comida deja mucho que desear  y los camareros creen que estan de paseo porque no son nada atentos.
+    date: 06-12-2009
+    user: http://mi.guiaoleo.com/members/73305
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "A favor:tiene la ventaja de no estar en el patio de comidas y por momentos suma.\r\n\
+      En contra:buff, la comida en nuestro caso particular fue muy desagradable, pero que se puede esperar del restaurante de un shopping???, adem\xE1s es car\xEDsimo en relaci\xF3n a lo que se ofrece, mi tarta de verduras parec\xEDa de cart\xF3n.\r\n\
+      sinceramente ni recomiendo ni vuelvo.\r\n\
+      Un detalle el chef no es el que figura en gu\xEDa , en la carta aparece una mujer, pero no recuerdo el nombre."
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/34474
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Fui a merendar. Servicio bueno y lugar tambi\xE9n bueno. Tienen una torta llamada Bahiana que es deliciosa. En la carta se ve\xEDan platos muy buenos y sabrosos. Los precios normales."
+    date: 24-05-2009
+    user: http://mi.guiaoleo.com/members/17067
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Si bien est\xE1 dentro del shopping Paseo Alcorta est\xE1 separado del Patio de Comidas, junto a un gran vental, es un lugar agradable para sentarse. Siempre he ido a tomar el t\xE9 y las tortas son riquisimas. La atencion a veces deja que desear pues los mozos y camareras no siempre estan atentos y a veces hay que esperarlos bastante, pero si uno no tiene apuro vale la pena pasar a tomar el t\xE9."
+    date: 05-12-2008
+    user: http://mi.guiaoleo.com/members/16205
+    ambiente_rank: muy bueno

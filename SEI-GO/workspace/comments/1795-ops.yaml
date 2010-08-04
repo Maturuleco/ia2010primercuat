@@ -1,0 +1,264 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: excelentes las pizzas, sobre todo la napolitana, y tambien las empanadas
+    date: 15-06-2010
+    user: http://mi.guiaoleo.com/members/83735
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy alegre el salon, especialmente el balconcito. Pizzas muy finitas y bien corcantes, con productos de muy buena calidad, sin excesos de sal, buenisimas las empanadas de carne picante y la faina. Usan muy buenas aceitunas tambien. El delivery tambien es muy bueno!
+    date: 20-05-2010
+    user: http://mi.guiaoleo.com/members/10693
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza excelente como  siempre, para mi es una de las mejores de buenos aires. Las empanadas tambi\xE9n suelen ser muy buenas, pero ayer com\xED una de carne que no estaba rica. De cualquier modo es un lugar al que suelo volver para comer una pizza excelente en un ambiente relajado..."
+    date: 27-01-2010
+    user: http://mi.guiaoleo.com/members/73067
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Es un lugar del barrio, pero tiene onda y es muy confortable. Las mesas son amplias y est\xE1n alejadas, y te dejan sentarte donde quieras. Las mozas son muy lindas, amables y aceptan cualquier reclamo con una sonrisa. La pizza, crocante, con buen gusto en la masa, el queso y los ingredientes. A las empanadas le faltan un par de noches. El postre: razonable. El ambiente est\xE1 muy bien para conversar y el entorno de comensales es un p\xFAblico tranquilo, piola. Muy recomendable para un d\xEDa de semana."
+    date: 04-10-2009
+    user: http://mi.guiaoleo.com/members/23812
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Conoc\xEDa la comida porque hab\xEDa pedido por delivery pero nunca hab\xEDa ido al sal\xF3n. No fue una experiencia incre\xEDble pero tampoco me decepcion\xF3. Las empanadas y la pizza son muy recomendables. El lugar tiene una ambientaci\xF3n muy mexican style que est\xE1 buena para grupos de amigos... e incluso para ir en pareja... Los precios son algo elevados para ser una comida tan b\xE1sica aunque est\xE1n a la par que Romario... La atenci\xF3n bastante dispersa. Si bien el mozo era simp\xE1tico aparec\xEDa muy de vez en cuando. El sal\xF3n result\xF3 bastante ruidoso ya que no tiene buena ac\xFAstica y encima ponen la m\xFAsica a pleno."
+    date: 18-06-2009
+    user: http://mi.guiaoleo.com/members/19530
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Hace a\xF1os que conozco el local y siempre voy.  La comida siempre es buena y tienen variedad.  Me gusta la terraza y como fumadora agradezco que la habiliten como sector fumadores.  En cuanto a la atencion es p\xE9sima, casi que hay que pedir por favor que las camareras atiendan, charlan entre ellas y no estan pendientes de lo que pasa en las mesas.  Lo sigo eligiendo por la comida y por que me es comodo.-"
+    date: 07-05-2009
+    user: http://mi.guiaoleo.com/members/23791
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "fui con amigos neoyorkinos el domingo por la noche y no permitieron que juntaramos mesas y cenaramos en el balcon...aqui solo para mesas de dos!nos dijeron....\r\n\
+      media hora despues el gerente del lugar armo una super mesa donde no pudimos estar nosotros, junto a sus amigos, ceno,y rio, comio con ellos...\r\n  queja: la moza me dijo que era el gerente y no le podia decir nada...\r\n\
+      una argentinada mas! nos creemos vivos aporvechando oportunidad para sacar tajada... esa amigos buscaban lugar.. (se radican por un a\xF1o aca) donde reunirse a menudo, con amigos, ya que su depto es chico...agueroa/renales"
+    date: 22-02-2009
+    user: http://mi.guiaoleo.com/members/59020
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: es un lugar copado para ir con amigos. lo seguimos eligiendo a pesar de que ultimamente la atencion no es tan buena, pero volvemos porque la pizza es exquisita!!!
+    date: 28-01-2009
+    user: http://mi.guiaoleo.com/members/44189
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El local tiene una terraza que puede ser muy aprovechada en tardes de sol, sobre todo porque el interior es bastante oscuro. La comida est\xE1 bien, lo esperable. La masa que utilizan es finita y crocante (no parece un bizcochuelo como en otros lugares). La atenci\xF3n es correcta."
+    date: 16-11-2008
+    user: http://mi.guiaoleo.com/members/5086
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es hermoso y la comida muy buena, el men\xFA del d\xEDa siempre es excelente. \r\n\
+      Lo \xFAnico que no me gusta es que las camareras son un poco desatentas y se quedan charlando en la barra sin prestar atenci\xF3n a las mesas. (esto me pas\xF3 repetidas veces)\r\n\
+      Todo lo dem\xE1s es muy bueno. Lo recomiendo."
+    date: 30-08-2008
+    user: http://mi.guiaoleo.com/members/45938
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "No se puede creer lo mal que atienden... ser\xE1 una t\xE9cnica nuva, ni idea de la carta, y eso que no es complicada, la comida no es lo mismo que antes y el lugar apestaba de humo..."
+    date: 10-08-2008
+    user: http://mi.guiaoleo.com/members/36514
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La pizza no es nada del otro mundo, es correcta. El lugar esta muy bien para ir con amigos. con el servicio tuvimos mala suerte, nos toco una moza con muy poca actitud. no es culpa de los clientes que tengan que atender muchas mesas.
+    date: 24-07-2008
+    user: http://mi.guiaoleo.com/members/16898
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Pizzeria estilo romario para ir con amigos a pasarla bien,ambiente distendido y buena pizza.
+    date: 09-07-2008
+    user: http://mi.guiaoleo.com/members/13262
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: La pizza es bastante buena , bien finita y crocante. El lugar esta bueno para ir con amigos y quedarse despues tomando unas cervezas. Muy parecido al estilo de Romario
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida es muy buena, y no es cara. La pizza es muy finita y muy rica. El lugar me parece muy lindo. Una vez pedi delivery y es bastante rap\xECdo.\r\n\
+      La atenci\xF3n de algunas camareras deja mucho que desear, no limpian bien las mesas, a veces no traen el pan hasta que se lo pedis."
+    date: 30-05-2008
+    user: http://mi.guiaoleo.com/members/31820
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      La verdad que fue una de las mejores pizzas que comi en mi vida, muy buena.Al ser tan finita, podes degustar mucho mejor sus ingredientes y te cae realmente muuuy bien.
+      Voy a volver.
+    date: 22-03-2008
+    user: http://mi.guiaoleo.com/members/42203
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Aca e comen muy buenas empanadas, el servicio depende del mozo que te toque, mejor si es un chico porque las chicas a veces les falta onday rapidez, e sun lugar juvenil para ir entre amigos y reunirse a pasar una noche distendida.
+    date: 25-01-2008
+    user: http://mi.guiaoleo.com/members/23324
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Riquisima comida,muy buen ambiente,precios coherentes. L\xE1stima que nos invitaron a retirarnos demasiado temprano."
+    date: 05-12-2007
+    user: http://mi.guiaoleo.com/members/27505
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La pizza, muy sabrosa, pero el servicio no estuvo a la altura, l\xE9ase, demasiado tiempo de espera entre el pedido y la comida. Hasta pareci\xF3 que se nos hac\xEDa un favor cuando solicitamos la cuenta y despu\xE9s de qui\xE9n sabe cu\xE1nto tiempo optamos por dirigirnos a la caja y terminar con la agon\xEDa. "
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/21676
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar esta bueno para tomarte una cervecita bien fria, acompa\xF1ada de una buena pizza a la piedra. En estos dias mas calarurosos es ideal conseguirse un lugarcito en la terraza. Eso si siempre hay mucha gente, por lo que cuesta conseguir lugar y hay bastante ruido de fondo. Esta bueno para ir con un grupo de amigos y divertirse un rato!"
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/26817
+    ambiente_rank: bueno
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Vamos a Bakano dos veces por semana m\xEDnimo, la pizza que recomendamos es mitad provolone, mitad panceta, la de salm\xF3n tambi\xE9n est\xE1 muy buena. La atenci\xF3n de los mozos no es buena, vamos solo por la pizza y descubrimos que la atenci\xF3n en la barra es lo mejor."
+    date: 16-10-2007
+    user: http://mi.guiaoleo.com/members/33952
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "El lugar es bastante lindo, c\xF3modo, quiz\xE1 estar\xEDa bien un poco m\xE1s de luz para poder leer bien la carta (y para distinguir bien lo que uno est\xE1 comiendo).\r\n\
+      \xC9ramos un grupo de 30 personas pero los mozos pudieron atendernos r\xE1pidamente y traer los pedidos. \r\n\
+      La pizza muy rica y finita, con buena cantidad de jam\xF3n y muzzarella, sin embargo voy a criticar que las aceitunas estaban frias. Hay que cuidar el detalle!\r\n\
+      \r\n\
+      Muy recomendable."
+    date: 13-10-2007
+    user: http://mi.guiaoleo.com/members/31361
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lamentablemente tengo que decir que no hay una buena coordinaci\xF3n con las reservas. \r\n\
+      El dia anterior a ir reserv\xE9 una mesa para 10 personas en la terraza de la calle aguero, me dieron el ok; es m\xE1s el mismo dia antes de ir reconfirme la reserva y todo bien. Al momento de llegar al horario acordado, me encuentro con que el local no ten\xEDa mi reserva.  Me tuvieron que ubicar en un lugar que yo no habia reservado. Y como fue un error de ellos lo quisieron remediar regalandonos dos cervezas. Cabe aclarar que la atencion fue buena y esto creo QUE FUE por el inconveninte de entrada que tuvimos."
+    date: 29-09-2007
+    user: http://mi.guiaoleo.com/members/33173
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Las pizzas muy buenas, prueben la de verdura. Para ser un lugar especilizado en pizzas el pescado y las verduras estaban muy bien. La atenci\xF3n pesima.  la moza que nos atendi\xF3 le dedic\xF3 m\xE1s atenci\xF3n a su celular que a los comensales que estabamos en la terraza. Tuvimos que bajar y pedir de pagar directamente en la caja por que estuvimos esperando ''15 por reloj que levantara la cabeza para pedirle la cuenta."
+    date: 05-09-2007
+    user: http://mi.guiaoleo.com/members/23791
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Muy rica pizza.
+    date: 07-08-2007
+    user: http://mi.guiaoleo.com/members/30308
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy bueno los platos del dia. El sitio muy ruidoso, probablemente por tener el techo tan alto. Buena cocina por estar catalogado como pizzer\xEDa."
+    date: 01-05-2007
+    user: http://mi.guiaoleo.com/members/23590
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar sencillo y sin pretensiones de restaurante. Para tomar unas cervezas y comer unas pizzas o empanadas con amigos. Como es un poco chico, la terraza es lo mejor. Los sandwiches con pan de pizza son muy buenos. Me queda para otra oportunidad probar las comidas. Hay men\xFAs completos a buen precio. "
+    date: 28-01-2007
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lo mejor que tiene este lugar es la pizza (finita la masa, ingredientes frescos y abundantes). El precio es algo elevado por tratarse de pizza. La ambientaci\xF3n es buena pero suele llenarse y se torna ruidoso e incomodo. La atenci\xF2n deja que desear."
+    date: 28-01-2007
+    user: http://mi.guiaoleo.com/members/14566
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Ideal para ir a cenar con amigos. La pizza es finita y rica. Es cierto que por ah\xED algunos gustos pecan de poco queso. Recomenable para compartir un rato con amigos."
+    date: 28-12-2006
+    user: http://mi.guiaoleo.com/members/10143
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fui a festejas mi cumplea\xF1os y me dieron mil vueltas para reservar. Tuve que llamar en reiteradas oportunidades para confirmar. Una vez en el lugar, la comida, el ambiente y la atenci\xF3n fueron bueni\xEDsimas. Volver\xEDs, es  tranquilo y c\xF3modo. "
+    date: 09-12-2006
+    user: http://mi.guiaoleo.com/members/13896
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Relamente la nota distintiva del lugar es la calidad de la comida. \r\n\
+      La atenci\xF3n no es mala y el lugar dado su tama\xF1o y disposici\xF3n no resulta muy confortable."
+    date: 03-11-2006
+    user: http://mi.guiaoleo.com/members/13204
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es agradable, pero un tanto reducido. La atenci\xF3n: Buena. La comida es espectacular. Yo en lo personal, recomiendo fervientemente la pizza."
+    date: 20-07-2006
+    user: http://mi.guiaoleo.com/members/10854
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "Nos llev\xF3 un amigo, nos dijo q era una pizzeria buena, para cambiar un poco. Pedimos unas pizzas. Result\xF3 q la masa era extremadamente finita, fria, poco queso y encima del malo y bastante \"light\" para mi gusto. \r\n\
+      Es buena pizza para fiestas, pero no para cenar. La atencion? regular: muy confianzudos y poca seriedad. No lo recomiendo."
+    date: 30-06-2006
+    user: http://mi.guiaoleo.com/members/13952
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: "El ambiente es normal, pero son de esos lugares donde uno va a hacer mas facha que a comer. Las pizzas, supuestamente cargadas de sabor y condimentos, no tienen demasiado sabor. Y para salir satisfecho hay que comer en cantidades inauditas. Pizzer\xEDa moderna, donde se cuida mas las estetica, que la calidad del producto."
+    date: 16-06-2006
+    user: http://mi.guiaoleo.com/members/13951
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La calidad es excelente, los platos son bien servidos, la atenci\xF3n es de parte de unas camareras t\xEDpicas pendejas y el precio es inmejorable. \r\n\
+      Generalmente la comida es cuasi-light."
+    date: 25-05-2006
+    user: http://mi.guiaoleo.com/members/8828
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buena pizzer\xEDa. La atenci\xF3n es simp\xE1tica y profesional. Est\xE1 muy bien ambientado el local con el horno a la vista de los comensales. "
+    date: 23-05-2006
+    user: http://mi.guiaoleo.com/members/8726
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Las empanadas son muy buenas, la masa es casera. El mejor lugar del local es el balc\xF3n del primer piso."
+    date: 07-05-2006
+    user: http://mi.guiaoleo.com/members/8473
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Buen ambiente para ir con amigos a tomar una cerveza y una pizza. 
+      Local simil al de romario y con pizza similar. Es bastante buena a la piedra sacada bien caliente. 
+      Empanadas muy buenas.
+    date: 14-04-2006
+    user: http://mi.guiaoleo.com/members/7738
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy bueno para ir con amigos a tomar un vino o una cerveza y comer rico y barato.\r\n\
+      La terraza es s\xFAper agradable."
+    date: 27-03-2006
+    user: http://mi.guiaoleo.com/members/7130
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen ambiente. \r\n\
+      La terraza es b\xE1rbara en el verano. \r\n\
+      La pizza y las empanadas son muy buenas y el servicio depende del d\xEDa. \r\n\
+      Fui varias veces y algunas me atendieron bien y otras m\xE1s o menos. \r\n\
+      Ideal para ir con amigos."
+    date: 17-01-2006
+    user: http://mi.guiaoleo.com/members/5877
+    ambiente_rank: excelente

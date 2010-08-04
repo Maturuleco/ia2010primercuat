@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me encanta este bar. No es el mejor lugar para ir a comer, las picadas por ejemplo son mal\xEDsimas, no vale la pena pedirlas. Pero como bar es perfecto. La ambientaci\xF3n es hermosa, el caf\xE9 con leche gigante, y en verano no hay nada mejor que una cerveza en las mesitas de la vereda. Voy muy seguido, y voy a seguir yendo."
+    date: 10-06-2010
+    user: http://mi.guiaoleo.com/members/70044
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Si bien la atenci\xF3n no es r\xE1pida vale la pena sentarse y esperar en esta joyita escondida en el barrio de Caballito. Tienen mesas para sentarse afuera y disfrutar del vientito con un buen licuado. Las comidas y bebidas son abundantes, econ\xF3micas y sabrosas."
+    date: 14-12-2009
+    user: http://mi.guiaoleo.com/members/70751
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hace mil que no vamos a este barcito. Cuando viviamos cerca nos gustaba ir a tomar cerveza bien fr\xECa con manies. Sobre todo los fines de semana y cuando volviamos de pasear por el parque centenario."
+    date: 16-08-2009
+    user: http://mi.guiaoleo.com/members/63846
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Barcito que pasa desapercibido en una esquinita de diagonales. No tiene aire acondicionado sino unos ventiladores que poco ventilan pero es muy simp\xE1tico, los licuados (al menos el de banana) es bueno ($8) y la pizza casera-casera riqu\xEDsima y a buen precio. Para desayunar o merendar, los caf\xE9s con leche son enormes y ricos. Buenos s\xE1ndwiches y lomitos tambi\xE9n. La cerveza la traen con ingredientes. Tiene mesitas afuera tambi\xE9n. No es un gran lugar, la atenci\xF3n es p\xE9sima (lenta) pero vale la pena. Voy seguido y siempre vuelvo. Un rinconcito lindo y para comer bien y a precios razonables."
+    date: 17-11-2008
+    user: http://mi.guiaoleo.com/members/28106
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen ambiente, buena m\xFAsica y buena comida. Muy buena la atenci\xF3n, realizada por su due\xF1o."
+    date: 18-05-2006
+    user: http://mi.guiaoleo.com/members/8612
+    ambiente_rank: excelente

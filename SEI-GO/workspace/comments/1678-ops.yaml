@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: La calidad de los insumos que aqui se expenden es de nivel premium. Es una delicia saborear sus quesos, jamones y fiambres. Hay muchas variedades importadas que cuesta conseguir en el mercado interno. Al irnos, no pudimos resistir la tentacion de encargar algunas otras "delikatessen" para saborear en casa.
+    date: 23-09-2009
+    user: http://mi.guiaoleo.com/members/45672
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Excelente las picadas. No hay mejor lugar donde comprar fiambres y quesos de calidad.
+    date: 26-08-2009
+    user: http://mi.guiaoleo.com/members/14091
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente calidad en las picadas.
+    date: 19-05-2009
+    user: http://mi.guiaoleo.com/members/25498
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lugar ideal para darse el gusto y comer algo saladito al paso. Es un lugar peque\xF1o lleno de deliciosos quesos,fiambres y panes caseros Adem\xE1s la atenci\xF3n es muy correcta. No te lo pierdas."
+    date: 04-11-2008
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "s\xF3lo comimos un par de sandwichs al paso, conocemos este lugar de comprar fiambres y quesos de calidad excelente, el restaurant es un complemento de atenci\xF3n esmerada, pero de men\xFA muy acotado, si van tienen que ir dispuestos a desentenderse de los precios de la comida -en la bebida es normal-, todo muy rico."
+    date: 14-06-2008
+    user: http://mi.guiaoleo.com/members/37315
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente por donde se lo mire. La atencion es cuidada al mas minimo detalle. Con respecto a la comida, es simplemente de calidad premium. Como dice un comentario anterior, la excelencia tiene su precio.
+    date: 19-04-2008
+    user: http://mi.guiaoleo.com/members/21690
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "la excelencia tiene su precio. creo que es el \xFAnico lugar donde hay jamones de primera clase. te dejan probar para que te saques las dudas, un servicio de primera."
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/4264
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Excelente calidad en quesos y fiambres, un festival para la vista, para perderse mirando esos quesos y esos jamones mientras uno sopesa el colesterol contra el placer. Obviamente gana el placer y vale la pena! Servicio atento, ambiente..., es una fiambrer\xEDa, me explico? Si pueden perdonar ese detalle, no se lo pierdan."
+    date: 01-03-2008
+    user: http://mi.guiaoleo.com/members/18513
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: De lo mejor en quesos y fiambres, superlativo. Los jamones crudos son insuperables. Para deleitar el paladar. El ambiente es chiquito y el servicio ameno. Muy recomendable.
+    date: 18-10-2007
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El mejor Delicatessen de Buenos Aires.  Se consiguen los mejores quesos y fiambres del mundo (son importadores directos de la mayoria de lo que venden), todo presentado y conservado de la mejor manera.  Precios caros pero acordes con la mejor calidad.  Muy recomendable.
+    date: 15-09-2007
+    user: http://mi.guiaoleo.com/members/2630
+    ambiente_rank: muy bueno

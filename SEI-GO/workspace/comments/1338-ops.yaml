@@ -1,0 +1,98 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Las empanadas de la morada no son del todo parejas, en los ultimos tiempos han bajado el nivel las de jamon y queso y las capresse, sin embargo las de carne siguen siendo buenas. El lugar es peque\xF1o y la atencion no es buena. Es una buena opcion de delivery"
+    date: 30-05-2010
+    user: http://mi.guiaoleo.com/members/46390
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Si bien no he comido en el salon, suelo pedir casi todas las semanas sus empanadas que son realmente excelentes. Con masa casera recomiendo las de carne picante y las de pascualina. Un lujo.
+    date: 10-03-2010
+    user: http://mi.guiaoleo.com/members/10693
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: pido empanadas de delivery y a veces las voy a buscar. Impredibles las de carne picante, humita y calabresa...el local es chico, nada especial, el delivery a veces demora mucho.
+    date: 30-01-2010
+    user: http://mi.guiaoleo.com/members/412
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelentes las empanadas de carne, aunque son un poco chicas, la masa y el relleno de los mejores de bs as. El lugar esta bien ambientado aunque tampoco se destaca, el precio es accesible.
+    date: 08-01-2010
+    user: http://mi.guiaoleo.com/members/75873
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Muy buenas empanadas. El lugar muy bien ambientado, pero muy chico
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/73894
+    ambiente_rank: muy bueno
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Lamentablemente es s\xF3lo para delivery. El lugar no est\xE1 preparado para recibir clientes. Las empanadas son correctas. Los pasteles de papa son servidos en envases de pl\xE1stico."
+    date: 11-10-2009
+    user: http://mi.guiaoleo.com/members/65580
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Un lugar peque\xF1o pero bien ambientado. Empanadas y porciones muy generosas, atenci\xF3n familiar y servicio veloz. Los precios pueden parecer un poco altos, pero guardan buena relaci\xF3n con la calidad y la cantidad."
+    date: 03-08-2009
+    user: http://mi.guiaoleo.com/members/25056
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Un lugar con toda la onda, se parece a los almacenes de antes, muy bien ambientado y una comida excelente,le pasa el trapo a La querencia 
+      que cada que iba a comer tenia que pedirme 6 empanadas y 2 locros para no irme con apetito.
+    date: 10-07-2009
+    user: http://mi.guiaoleo.com/members/65410
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Las empanadas excelentes, la atenci\xF3n cort\xE9s y oportuna, el ambiente agradable y los precios accesibles.\r\n\
+      Volveremos !!"
+    date: 28-06-2009
+    user: http://mi.guiaoleo.com/members/64858
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Simplemente un Clasico! Uno se siente como en su casa. sin exagerar, son las mejores empanadas de carne que comi en mi vida. excelente el locro y el guiso. Es un local muy chico el de larrea pero muy bien decorado y ambientado. la atencion es muy muy buena y se come barato, por $40comen 2 personas bien. Buenos pastelitos tambien. Uno de mis lugares favoritos de bs as.
+    date: 05-01-2009
+    user: http://mi.guiaoleo.com/members/50222
+    ambiente_rank: excelente
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es muy, muy chico, se parece m\xE1s a una despensa que a un restaurante, pero la comida es excelente, las mejores empanadas de carne y el mejor guiso de lentejas de mi vida.\r\n\
+      El servicio es muy atento y agradable.\r\n\
+      El precio de las empanadas es alto, pero como he dicho vale la pena.\r\n\
+      Sin dudas ya me hice habit\xFAe del lugar, muy recomendable."
+    date: 28-01-2008
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Las empanadas son excelentes... en el trabajo de lunes a viernes pido el delivery, pero un s\xE1bado fui a comer sentada en la sucursal de la calle Larreay la atencion de los muchachos perfecta, el lugar es muy tranquilo, la comida caliente y sin demora. Recomiendo las empanadas de humita! Tendrian que abriir m\xE1s sucursales y ampliar el espacio para comer en los mismos. La ambientacion es genial!"
+    date: 06-10-2007
+    user: http://mi.guiaoleo.com/members/23960
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Coincido con los comentarios previos: las empanadas son excelentes. El ambiente es muy chiquito, con pocas mesas. Funciona m\xE1s como delivery que como restaurante. Recomiendo ver la p\xE1gina web www.lamorada.com.ar que est\xE1 muy bien armada."
+    date: 29-01-2007
+    user: http://mi.guiaoleo.com/members/16255
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Ped\xED junto a dos amigos una docena de empanadas a domicilio, llegaron en quince minutos, bien calientes, con ingredientes de primera.\r\n\
+      Muzarella exquisita, la carne picante bastante moderada y muy buena masa, se nota que est\xE1 hecha sin escatimar recursos, cada sabor reinventa el alma con cada mordisco. Las de pollo son una experiencia light pero realmente espiritual."
+    date: 30-10-2006
+    user: http://mi.guiaoleo.com/members/13143
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Que buen locro, no se lo pierdan
+    date: 09-09-2006
+    user: http://mi.guiaoleo.com/members/1174
+    ambiente_rank: bueno

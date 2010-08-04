@@ -1,0 +1,20 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Excelente la comida y el servicio. Es una atenci\xF3n familiar, el lugar es chico, con una linda ambientaci\xF3n y calido y agradable, los precios super accesibles y el pollo al curry y el chow fan con camarones, los dos deliciosos"
+    date: 21-02-2010
+    user: http://mi.guiaoleo.com/members/77167
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El local es peque\xF1o,tiene un mini rstaurant,con solo algunas mesas,cinco.El fuerte es el delivery.Esta bien la cocina y el men\xFA,que es de lo mejorcito de Urquiza(no hay muchas ni buenas opciones)El pollo con almendras y los chaw fan, aceptables."
+    date: 06-12-2009
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Tiene una exelente cocina, las comidas son muy buenas y se puede apreciar la frescura de sus ingredientes. \r\n\
+      Recomendaci\xF3n el Chau Fan Vegetariano (arroz salteado con verdura) y el plato que se llama \"la verdura de la 8 fortuna\"."
+    date: 17-07-2009
+    user: http://mi.guiaoleo.com/members/65796
+    ambiente_rank: bueno

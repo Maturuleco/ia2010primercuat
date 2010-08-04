@@ -1,0 +1,95 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La pizza es un 8 (nada mal). La atenci\xF3n es un tanto... atolondrada. Las mozas suelen tener buena onda, pero nunca sab\xE9s qui\xE9n corno te atiende porque viene siempre una moza distinta a la mesa; incluso a veces se equivocan en los pedidos. En una oportunidad me llev\xE9 a casa media pizza y cuando llego me desayuno que me dieron la de otro cliente... y desprolijidades de ese estilo. La ambientaci\xF3n est\xE1 bien dentro del rubro Pizzer\xEDa. IMPORTANTE: la m\xFAsica por momentos es pianta-clientes, no s\xF3lo por el volumen sino por el estilo rock-chab\xF3n-quema-cabeza..."
+    date: 14-02-2010
+    user: http://mi.guiaoleo.com/members/75519
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Comer afuera con vista a Osaka es medianamente agradable. La pizza zafa...la sirven bien caliente y la masa suele estar bien cocida, pero la mozzarella tiene un gusto medio pl\xE1stico que no te termina de cerrar. En cuanto al personal, son generalmente chicas muy lindas, un regalo para la vista, y hacen bien su trabajo. El ambiente es como demasiado informal...el interior es desabrido, no hay un patr\xF3n m\xEDnimo de deco y cerca del horno hace bastante calor, adem\xE1s los repartidores, el personal de barra y los mozos suelen acodarse a charlar entre ellos, lo que le quita atm\xF3sfera a cualquier comida."
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/23812
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: La pizza es buena, hay mucho mejores. La atencion es pesima y el lugar le falta decoracion.
+    date: 11-04-2009
+    user: http://mi.guiaoleo.com/members/60948
+    ambiente_rank: malo/regular
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Me encanta la pizza de romario pero no hay ni uno solo donde te atiendan bien!!! la anteultima vez la mesera no nos atendia por que estaba jugando a las cartas en otra mesa con el cocinero y otras meseras, volvi a ir ayer y la musica era insoportable!! cumbia villera en pleno palerno cuando estas pagando como $40 una pizza chica, la faina ni la pedimos por que jamas se acuerdan de traertela.
+    date: 23-02-2009
+    user: http://mi.guiaoleo.com/members/51871
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Bueno...la verdad rica la pizza, pero me parece un descaro pagar 48 pesos una pizza CHICA de jamon y morrones...Al ver el precio imagine los mejores ingredientes del mercado, pero, oh sorpresa, el jamon no era rico, y las aceitunas eran de tercera cosecha (chiquititas y duras)...Creo que le quedo la fama al lugar, pero solo la fama. Una pena, no vuelvo mas.
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/9988
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Que paso con este lugar que solia tener una de las mejores pizzas de la ciudad?\r\n\
+      Ahora no es as\xEC.La masa parece chicle y el queso de muy mala calidad.Bajaron mucho el nivel."
+    date: 25-01-2008
+    user: http://mi.guiaoleo.com/members/33330
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "A mi me encanta la pizza de Romario, se nota que todos los ingredientes son de excelente calidad (por ejemplo, en una pizza cuatro quesos uno puede distinguir que est\xE1n presentes todas las variedades, no ponen m\xE1s de muzzarella y de mala calidad para abaratar los costos). Suelo ir a este local en particular porque es bastante grande, compar\xE1ndolo con el de las ca\xF1itas (es peque\xF1o y siempre hay que esperar). Los d\xEDas de semana, uno puede comer tranquilo, sin demoras. La atenci\xF3n es normal... Insisto, trato de no ir en d\xEDas u horarios complicados. Para dos personas, con dos pizzas chicas basta y sobra. Muy recomendable."
+    date: 30-11-2007
+    user: http://mi.guiaoleo.com/members/24386
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "la pizza es muy buena y totakmente recomendable. En lo que respecta al servicio estuvimos sentados un buen rato antes que alguien nos atienda y eso que hab\xEDa poca gente. \r\n\
+      El ambiente en el interior del local es tan caluroso por el horno que solo en las mesas mas alejadas es tolerable, suerte que tienen mesas en la vereda."
+    date: 21-10-2007
+    user: http://mi.guiaoleo.com/members/19883
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: el lugar es agradable, la terraza tambien esta bien , pero el ambiente es DESASTROSO! La musica esta tan alta que practicamente hay que GRITAR para poder oir y hacerse oir. No vuelvo mas, solo sera para delivery. Una pena porque el lugar es muy lindo y aca les falta publicar el que esta en Gurruchaga y Gorriti.
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/12539
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza muy buena, el lugar es simple con mucho pero mucho ruido para hablar. Precios accesibles.\r\n\
+      Atenci\xF3n buena, nada fuera de lo normal."
+    date: 14-10-2007
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Tardan un poco en atender, y la ensalada de r\xFAcula, panceta y parmesano deja mucho que desear."
+    date: 19-09-2007
+    user: http://mi.guiaoleo.com/members/11097
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Me encanta Romario. Pero por favor: la cerveza tiene que estar fr\xEDiiiaaa!!!!!  La sirven tibiecita muchachos. Cuando voy pido gaseosa, que caliente no es tan mala."
+    date: 17-07-2007
+    user: http://mi.guiaoleo.com/members/27040
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "para matar el antojo de comer pizza, para m\xED es de los lugares m\xE1s ricos!!! lo \xFAnico malo es que entraba mucho fr\xEDo!!! cenamos con las camperas de invierno puestas!!!!!"
+    date: 18-05-2007
+    user: http://mi.guiaoleo.com/members/22350
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La pizza es rica pero seg\xFAn la moza que te toque pod\xE9s estar 1 hora m\xE1s de lo que quer\xEDas, hay algunas muuuuuuy lentas. El precio normal y el lugar medio apretado."
+    date: 03-05-2007
+    user: http://mi.guiaoleo.com/members/22775
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Vamos muy seguido, es barato y las pizzas y empanadas son buenas.\r\n\
+      Recomiendo las mesas de afuera y la pizza de muzzarela con r\xFAcula: \xA1Riqu\xEDsima! Para comer barato y bien es una de las mejores opciones."
+    date: 20-03-2007
+    user: http://mi.guiaoleo.com/members/19927
+    ambiente_rank: muy bueno

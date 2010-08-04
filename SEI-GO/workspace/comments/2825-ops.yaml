@@ -1,0 +1,706 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Extensa variedad de vinos aunque no as\xED la disponibilidad de los mismos. No se indica en la carta si la botella es de 750cc \xF3 500cc (compramos San Huberto resuponiendo que era de 750 y fu\xE9 de 500)  Precios elevados.Ambiente chico, no invita a la sobremesa.."
+    date: 24-06-2010
+    user: http://mi.guiaoleo.com/members/81885
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida tardo bastante. la relaci\xF3n precio-cantidad mala. la lasa\xF1a era muy peque\xF1a y si no pedis algo mas te quedas con hambre. el ambiente deja mucho que desear. sinseamente es caro en relaci\xF3n a la ambientaci\xF3n y la cantidad. la comida es rica, pero no me pareci\xF3 nada del otro mundo."
+    date: 18-06-2010
+    user: http://mi.guiaoleo.com/members/84114
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es muy rica! Las porciones son abundantes, el guly\xE1s tiene opcion de 1/2 porci\xF3n. El chucrut tambi\xE9n para compartir. Tomando esto en cuenta es muy buena la relaci\xF3n precio/calidad. Utilizando el descuento que ofrece gu\xEDa \xF3leo termina siendo una excelente propuesta para probar algo nuevo. La comida tarda, es cierto, pero la panera es muy buena, variada y elaborada, no en todos lados dan algo as\xED, entonces me parece que la espera no molesta. La \xFAnica sugerencia es que estar\xEDa bueno que haya en la carta cervezas importadas para completar mejor la experiencia. Ideal para ir con el fr\xEDo."
+    date: 17-06-2010
+    user: http://mi.guiaoleo.com/members/57966
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Recomiendo el crepe de papas de entrada. Realmente una delicia. El goulash muy bueno tambi\xE9n. Postre ya no entraba, as\xED que no puedo opinar."
+    date: 15-05-2010
+    user: http://mi.guiaoleo.com/members/23933
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El Guly\xE1s es bueno, muy abundante (tienen la opcion de 1/2 porcion). Buena relaci\xF3n precio/calidad. Atenci\xF3n correcta. El lugar no esta mal aunque es chico pero tiene la opcion de comer en la vereda (tienen esos radiadores que dan mucho calor bajo un toldo). Buena opcion para comer algo distinto a buen precio si compartis los platos que repito son abundantes"
+    date: 04-05-2010
+    user: http://mi.guiaoleo.com/members/24198
+    ambiente_rank: malo/regular
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida es excelente, los platos muy abundantes y para compartir. La relacion precio-calidad es de lo mejor. Nos atendieron muy bien y comimos muy rico. LA decoracion no es muy buena y el lugar es un poco ruidoso, pero definitivamente VOLVERIA
+    date: 24-04-2010
+    user: http://mi.guiaoleo.com/members/80209
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: El lugar es chiquito pero acogedor. La comida me parecio muy rica y la atencion muy amable. Es bastante calorico con lo cual es preferible ir en dias frescos o en invierno. Los precios acordes con la zona, pero no me parecio demasiado caro. Buen lugar para probar comida hungara.
+    date: 15-04-2010
+    user: http://mi.guiaoleo.com/members/23818
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La comida es rica, pero los precios son excesivos para el tipo de restaurant que es. Definitivamente, un lugar para visitar \xFAnicamente en invierno. Los postres ricos, pero repito, muy caro el lugar."
+    date: 23-03-2010
+    user: http://mi.guiaoleo.com/members/63384
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: |-
+      La comida es irregular, algunos platos bien logrados. Los spatzle del goulasch pasados.
+      La atencion fuen muy deficiente; tardaron una hora desde que pedimos hasta que nos trajeron el primer plato.
+      Me fui desencantado. Otras referencias de amigos me dijeron que se come bien, quizas fue una mala noche.
+    date: 25-02-2010
+    user: http://mi.guiaoleo.com/members/44880
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un Restaurante peque\xF1o atendido con cordialidad y asesoramiento de parte del mozo, el plato t\xEDpico estaba bien pero no deslumbraba, hay mejores en la zona, no creo que vuelva."
+    date: 20-02-2010
+    user: http://mi.guiaoleo.com/members/1421
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: esta todo bien. Pero nada mas.  Con el descuento se puede volver.  Me quedaron probar otros platos que sonaban interesantes.  Tal vez algun dia vuelva.
+    date: 06-02-2010
+    user: http://mi.guiaoleo.com/members/76190
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Nos gusto muchisimo la calidad de los platos, en cuanto a la relacion precio y calidad bastante bien, considerando que la materia prima para elaborarlos es alto costo, vamos a volver en el invierno para probar comida tipica.
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/71926
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Muy rica la comida, bien condimentada y porciones abundantes como para compartir. Lo recomiendo para variar un poco respecto a la comida tradicional.
+    date: 26-12-2009
+    user: http://mi.guiaoleo.com/members/29136
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Mi esposo es hijo de hungaros y sinti\xF3 gusto familiar en esta cena. La lista de vinos es peque\xF1a pero los precios son muyyy razonables.Todo estuvo muy rico, a tiempo y con la temperatura justa. Nos gusto mucho- Volveremos"
+    date: 07-12-2009
+    user: http://mi.guiaoleo.com/members/71946
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Hemos utilizado un cup\xF3n con descuento sobre la comida y postre, as\xED result\xF3 bien la relaci\xF3n comida/precio. Volver\xEDa a ir, siempre con el descuento !!!"
+    date: 03-12-2009
+    user: http://mi.guiaoleo.com/members/48855
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      La Comida es excelente, salvo el arenque, no es el fuerte.
+      Vale la pena!
+    date: 30-11-2009
+    user: http://mi.guiaoleo.com/members/52037
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy recomendable, excelente atenci\xF3n"
+    date: 29-11-2009
+    user: http://mi.guiaoleo.com/members/72887
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "UNA MARAVILLA!! hace mucho tiempo que no com\xEDa comidas tan ricas.. un ambiente amable, lindo..  comimos una entrada de strudel deliciosa.. r\xF3tolo de pollo y un gulyas incre\xEDble (se entiende porque es la especialidad de la casa) tambien vimos que hay muchos platos para los d\xEDas de veranito.\r\n\
+      De postre pedimos una selva negra, era para compartir, muy buena calidad, y deliciosa!\r\n\
+      volveremos a probar la torta sacher! y todos esos platitos para el calor q se ve\xEDan ricos!\r\n\
+      los felicito.. sigan asi!"
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/72963
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El ambiente es lindo y la moza ten\xEDa buena onda. Ahora bien, eso no quita que no se si me dieron gulyas de conejo o de hamster, por el tama\xF1o min\xFAsculo de la porci\xF3n de carne. Y el otro punto floj\xEDsimo fue la demora: 40 minutos para que nos trajeran la entrada. El resto, bien y rico pero nada que me subyugue."
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/16880
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: El lugar es bueno, habia pasado muchas veces y no me habia llamado la atencion. Fuimos y me sorprendio, comi goulash de conejo y mi marido de salchicas... los dos muy buenos. El postre era un parfait de naranja, nada del otro mundo. Muy buena atencion. Los precios sin descuento me resultan caros, con el descuento estuvo bien!
+    date: 19-11-2009
+    user: http://mi.guiaoleo.com/members/6040
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Propuesta interesante para probar comidas no tradicionales en la oferta porte\xF1a. De entrada canasta turandot: rica, pero en la carta promet\xEDa m\xE1s. Gulash de cordero: bien preparado, con tintes caseros, de buen sabor. Es para compartir si se come antes una entrada. \r\n\
+      El ambiente es agradable por su m\xFAsica, la atenci\xF3n en nuestro caso fue buena y personalizada ya que estuvimos un noche donde apenas hab\xEDa 3 mesas ocupadas. El postre no destac\xF3. era una torre de panqueques que hubiese preferido que estuviera tivia.\r\n\
+      Incluso con el descuento me pareci\xF3 elevado el precio."
+    date: 09-11-2009
+    user: http://mi.guiaoleo.com/members/20752
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: yo comi goulash de salchichas y mis amigas de cerdo y de pollo...estaban muy ricos...muy generoso el plato..muy buena la atencion y muy lindo el lugar..muy acogedor...
+    date: 16-10-2009
+    user: http://mi.guiaoleo.com/members/22965
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Fuimos a cenar un jueves. Ambiente tranquilo y c\xE1lido. La atenci\xF3n fue correcta, agradecemos el aviso de que los platos son abundantes. Genial la panera y la trencita de pan tibia. Pedimos roll de champignon y panceta en masa philo, delicioso, y despu\xE9s Chucrut a la h\xFAngara que tambi\xE9n estaba incre\xEDble. Con el descuento de la gu\xEDa queda un precio acorde, creo que sino es un poco elevado."
+    date: 15-10-2009
+    user: http://mi.guiaoleo.com/members/45503
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida muy buena.Vivi 4 a\xF1os en hungria y comiendo en Turandot me senti comiendo en budapest por el sabor y la receta de sus platos. Lo recomiendo"
+    date: 13-10-2009
+    user: http://mi.guiaoleo.com/members/23980
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Cada plato vale por dos. El cordero envuelto en masa filo estaba riquisimo despues pedimos unas costillitas de cerdo con croquetas de papa que tambien estaban ricas pero no pude llegar al postre de lo satisfecha que estaba. Mi novio pidio un chucrut, estaba muy bien preparado por lo que vi pero no es de mi agrado personal. Es un lugar para ir en invierno y compartir platos.
+    date: 09-10-2009
+    user: http://mi.guiaoleo.com/members/65361
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El especio es reducido y amigable con simpaticos elementos que nos refieren el centro de Europa.Las propuestas son originales, con sabores bien logrados en la porcion justa. La atencion de la moza correcta, aunque podria ser mas agradable y diligente. Los precios guardan una buena relacion con el descuento Guia Oleo, de lo contrario resulta excesivo.
+    date: 08-10-2009
+    user: http://mi.guiaoleo.com/members/6103
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Excelente comida, los gulash son increibles, las entradas muy buenas , los postres excelentes. Superrecomendable lugar.
+    date: 01-10-2009
+    user: http://mi.guiaoleo.com/members/68443
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida me pareci\xF3 deliciosa, super abundante, mujeres pueden compartir entrada y plato principal, fui con amigas y cada una pidio un plato diferente y todo estaba riquisimo, el lugar es amplio y tiene unos hermosos murales, la musica acompa\xF1a la velada y la atenci\xF3n muy cordial, la camarera se preocupo de que nos sintieramos a gusto y que todo fuera de nuestro agrado, volveremos pronto a probar la picada hungara!!"
+    date: 29-09-2009
+    user: http://mi.guiaoleo.com/members/69577
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Fu\xED con mi marido y mis hijos y pasamos una noche muy linda. La comida DELICIOSA, y los platos h\xFAngaros bien abundantes, com\xED un chucrut RIQUISIMO. El lugar es bien c\xE1lido y amable y la camarera tambien, tuvo el detalle como era el cumplea\xF1os de mi hijo de poner una velita en el postre. Muy recomendable! para volver seguido!"
+    date: 28-09-2009
+    user: http://mi.guiaoleo.com/members/69553
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "\"El lugar es lleno de colores y alegre, parece que lo ampliaron, nada que ver con las fotos que uds. tienen en la p\xE1g. Com\xED una copa Strogonoff muy fresca y bien presentada y a mi marido le encant\xF3 el arenque a la crema, fui un d\xEDa de semana y ten\xEDan una selecci\xF3n de muy buen jazz, es para volver porque la carta es amplia y tentador. Muy amables las camareras.\""
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/69432
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "La comida es deliciosa y el lugar muy agradable. Muy recomendable si se quiere probar algo diferente, comida t\xEDpica de Europa del Este."
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/61540
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Realmente tuve una gran desilusi\xF3n. En primer lugar los platos tardaron 50 minutos en llegar, siendo que el local no desbordaba en absoluto de gente. La espera hubiera valido la pena si los platos lo merecieran, pero el plato que yo ped\xED fue un fiasco, en la carta dec\xEDa \"Bondiola macerada con Galette de batatas, quenel de verduras y crocante avena\", en el plato ven\xEDa una bondiola quemada y dura, batatas fritas, y 3 rodajas de berenjenas grilladas, o sea: no exist\xEDa ni la galette, ni la quenel, ni el crocante y la bondiola era incomible. Nunca m\xE1s, un desastre y los precios irracionales."
+    date: 24-09-2009
+    user: http://mi.guiaoleo.com/members/16535
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El lugar es s\xFAper c\xE1lido, ambientado con pinturas h\xFAngaras coloridas y alegres, y la atenci\xF3n muy buena y amable, la camarera conoc\xEDa muy bien la carta, y supo gu\xEDarnos. La comida excelente, ya hab\xEDa comido los platos h\xFAngaros que son de muy buena calidad, pero las nuevas sugerencias son deliciosas. Altamente recomendable! vamos a volver pronto!"
+    date: 23-09-2009
+    user: http://mi.guiaoleo.com/members/69434
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: le falta de todo, ambientacion,antencion,calidad de comida, precio, no entiendo las opiniones de la gente, para mi y mi esposa que contantemente vemos las distintas propuestas, le falta de todo, parece un almacen de barrio donde se despacha comida.
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/45952
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El d\xEDa que fuimos hicimos uso del cup\xF3n de 50% descuento, por suerte! porque si ten\xEDamos que pagar sin el descuento, hubiese sido un robo, ya que es demasiado caro para lo que ofrecen. El sal\xF3n es muy ruidoso y las mesas muy peque\xF1as."
+    date: 17-09-2009
+    user: http://mi.guiaoleo.com/members/36009
+    ambiente_rank: malo/regular
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente el lugar, muy recomendable, la comida sabrosa y en su temperatura justa, espectaculares los panes que le traen con el servicio.
+    date: 24-08-2009
+    user: http://mi.guiaoleo.com/members/48420
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: El lugar es chico y sin muchas pretenciones, la atencion fue correcta. La comida era sabrosa especialmente el goulash en ambas versiones de pollo y de ternera, la degustacion de postres hungaros fue muy escasa y un poco insulza. Como no conozco mucho de cocina hungara no puedo comparar.
+    date: 24-08-2009
+    user: http://mi.guiaoleo.com/members/36525
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Segunda , muy buena experiencia en Turandot.La comida estuvo b\xE1rbara , de entrada rolls de panceta con hongos y cr\xE9pe Praga , riquisimos; pricipal chucrut a la H\xFAngara para compartir ,muy bueno ; de postre strudel de amapola con crema ( raro ,pero rico).Para destacar la atenci\xF3n de la Srta.Selene , nos asesor\xF3 en el pedido , de tal forma que pedinos lo justo para quedar mas que satisfechos , adema\xE1s de recomendarnos el postre , de diez.Como en la visita anterior , recomiendo este lugar ;si le gusta la comida centro-europea vaya no lo va a defraudar."
+    date: 21-08-2009
+    user: http://mi.guiaoleo.com/members/45039
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy rico el chucrut transilvania. Porciones abundantes. El servicio en las mesas es bueno y amable.
+    date: 16-08-2009
+    user: http://mi.guiaoleo.com/members/632
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Excelentes el strudel de espinacas con crema de albahaca de entrada y el strudel de guindas con helado de postre.Esperaba m\xE1s del guly\xE1s de ternera con spaetzle,que por ser una comida t\xEDpicamnete h\xFAngara no cubri\xF3 totalmente nuestras expectativas.De todos modos,s\xFAper interesante el resultado final con el descuento de GO."
+    date: 13-08-2009
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Los varenikes son especialmente ricos, no as\xED el bife a la budapest, es normal. El postre de parfait de frambuesa no lo recomiendo, no nos gust\xF3.\r\n\
+      El lugar es acogedor y la atenci\xF3n muy buena."
+    date: 07-08-2009
+    user: http://mi.guiaoleo.com/members/66634
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Muy bueno para probar algo diferente, el ambiente era  calido y la atencion muy amable y efeciente.Nos fuimos con la sensacion de haber comido muy rico.
+    date: 02-08-2009
+    user: http://mi.guiaoleo.com/members/64472
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: espectaculares ambos platos a lo mejor podrian preguntar si alguien lo quiere un poco mas picante, pero realmente muy rico todo y super casero. No se lo pierdan
+    date: 22-07-2009
+    user: http://mi.guiaoleo.com/members/5779
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buena atenci\xF3n, te explican los platos y hacen recomendaciones sobre el menu.\r\n\
+      Muy c\xE1lido el ambiente."
+    date: 14-07-2009
+    user: http://mi.guiaoleo.com/members/63396
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: |-
+      La entrada de arenque con queso crema y alcaparras es riquisima!!!! La de cordero envuelto en masa fila y curry no estaba muy buena. Muy salado...muy concentrado. El principal de noquis con carne era rico pero le faltaba sabor. El goulash de cerdo estuvo bueno. Muy abundante. Pechito de cerdo, albondigas, panceta y salchicha ahumada junto con el chucrut. Muy bueno, pero tenia demasiado gusto a ahumado.
+      Esta bien pero me parece que cobran demasiado para lo que ofrecen.
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/7680
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos un jueves y estaban todas las mesas ocupadas. A pesar de estar bastante juntas el ambiente era agradable. Pedimos el goulash de cerdo con gnocchis hungaros, algo le faltaba, quiza un poco m\xE1s de salsa o especias. De postre pedimos una especie de mousse de naranja con chocolate, dejaba mucho que desear.\r\n\
+      Nos pareci\xF3 caro para lo que ofrecian, pero no comimos mal."
+    date: 03-07-2009
+    user: http://mi.guiaoleo.com/members/9349
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Lo que m\xE1s me sorprendi\xF3 es la amplitud de la carta, algo poco com\xFAn en los rest\xF3s de Palermo. Es dif\xEDcil elegir entre tantas opciones tan ricas, yo me decid\xED por una trucha con casta\xF1as y champignones, riqu\xEDsima. Las porciones son muy abundantes, tengan en cuenta eso al pedir. Tal vez el punto m\xE1s d\xE9bil del lugar sea la ambientaci\xF3n, que si bien es correcta y pintoresca, es bastante sencilla."
+    date: 30-06-2009
+    user: http://mi.guiaoleo.com/members/44509
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: Ya sabia que el lugar no es pretencioso, pero que su cocina era buena, no me defraudo pero lamentablemente el postre (soy pastelera algo entiendo) lo que menos era un parfait era una mouse con demasiada gelatina y con sabor a viejo. lastima porque el final de velada se opaco por este detalle. espero lo corrijan. la atencio fue excelente y trajeron la comida a tiempo. nos aceptaron los descuentos de Guia Oleo muy bien.
+    date: 26-06-2009
+    user: http://mi.guiaoleo.com/members/61739
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Lo m\xE1s destacado es la comida en la que se aprecian aut\xE9nticas especialidades h\xFAngaras, bien caseras y con resultado exquisito. La carta es un abanico muy tentador de platos suculentos y s\xFAper recomendables para la \xE9poca invernal. Para volver seguro a seguir probando m\xE1s opciones, especialmente aprovechando el descuento GO."
+    date: 25-06-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El local es muy chico, con mesas muy proximas entre si.La atenci\xF3n de la \xFAnica moza fue regular, comprensible por la cantidad de comensales. El arenque fue soberbio, los crepes caseros, sin mucho misterio. El gulasch me result\xF3 muy com\xFAn, esperaba m\xE1s especias y menos salsa de tomate...falt\xF3 \"mano h\xFAngara\", creo. Lo que s\xED me gust\xF3 mucho fue la degustaci\xF3n de vinos. Debo decir que por la demora de uno de los platos, el due\xF1o tuvo la gentileza de ofrecernos dos copas de un exquisito malbec gran reserva. Los precios,menos mal q tenia un cupon de 50%...SINTESIS: BUEN LUGAR,PARA VOLVER UN DIA"
+    date: 25-06-2009
+    user: http://mi.guiaoleo.com/members/40640
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Excelente calidad, gulash para compratir, mucha amabilidad.
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/17214
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Realmente un sitio recomendable.\r\n\
+      El ambiente excelente, la atenci\xF3n muy buena, la ambientaci\xF3n,de primera...todos con mascaras venecianas. Los tenores y sopranos caminando y cantando entre las mesas hacen que pases una velada inolvidable.\r\n\
+      Si te gusta la opera no podes dejar de conocer este lugar.\r\n\
+      Altamente recomendable !!!"
+    date: 20-06-2009
+    user: http://mi.guiaoleo.com/members/27652
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Es una buena opcion para ir, como fuimos nosotras, un grupo de amigas que va a divertirse, pagando un valor accesible y sin mucha exigencia por la comida.
+      Por recomendaciones previas pedimos goulash, yo esperaba algo mas sabroso y casero. Me defraudo el postre, la torta Dobosh que conozco, es mucho mas rica de la que comi alli.
+    date: 04-06-2009
+    user: http://mi.guiaoleo.com/members/17050
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy bueno!!!! la carta es muy amplia y completa ya que ofrece en algunos platos la posibilidad de pedir 1/2 porcion, lo que indica que los mismos son abundantes. No nos gusto la atenci\xF3n de la moza, que no conocia lo que se ofrece... Igualmente el servicio fue r\xE1pido. El ambiente muy tranquilo. Volveremos con la intencion de degustar otros platos."
+    date: 16-05-2009
+    user: http://mi.guiaoleo.com/members/42778
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Fuimos a una degustacion de vinos lo que hacia la propuesta mas interesante. Pagamos entre los 2 $130.-. Teniamos un descuento del 40% y el menu era fijo con una botella de vino cada 2 personas. 
+      Lo que degustamos de comida, rico. De todas maneras, no me sorprendieron los sabores. Tipica comida para el invierno.
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/44426
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: No me canso de ir y probar siempre comidas diferentes. Algunas son algo picantes, pero en general todo es muy rico.
+    date: 07-04-2009
+    user: http://mi.guiaoleo.com/members/31986
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Nuevamente fuimos y nos gusto mucho la comida, teniamos una promo de 50% de descuento asique por dos personas con postre y bebidas gastamos $77.00 sino era realmente excesivo. es recomendable la comida es buena y la atencion tambien. volveremos!!
+    date: 13-03-2009
+    user: http://mi.guiaoleo.com/members/44189
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Platos tan abundantes como invernales. Ninguno de los platos t\xEDpicos -chucrut, goulash, etc.- defrauda. Lo que parece excesivo en precio se trata en verdad de un error de marketing: la carta no est\xE1 armada de modo que resulte clara ni m\xE1s tentadora que los platos, y la ambientaci\xF3n est\xE1 por debajo del standard de la zona y de lo que pretende quien va a un resto con este perfil (p. ej. el fileteado hungaro se aprecia s\xF3lo en un vajillero lateral, y las baldosas del piso son las de la cocina de la casa de la abuela). En inverno volvemos, y ojal\xE1 no nos defrauden."
+    date: 07-02-2009
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: para quien gusta de la cocina de europa oriental (en particular la hungara, de la que escasean propuestas en buenos aires) es una opcion interesante. pedimos goulash de ternera, arenque a la crema (lo sirven con alcaparras, pepino y cebolla), de postre strudel de manzana c helado. con una cerveza de litro, la cuenta (descuento del 30% mediante) dio 80 (sin la bonificacion se hace algo excesivo). los platos no descollan pero tampoco defraudan. rica panra y queso blanco con paprika. el ambiente dice poco, lo cual se compensa con la atencion de una rubia divina.
+    date: 14-01-2009
+    user: http://mi.guiaoleo.com/members/46178
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Volvimos a Turandot con el recuerdo del gulyas y el sholet, dos platos que hab\xEDamos disfrutado mucho la primera vez que fuimos. Esta vez no descoll\xF3 como la anterior pero probamos una deliciosa entrada de arenque a la crema que vali\xF3 la noche. El resto, los huevos de codorniz con camarones y el carre de cerdo, s\xF3lo nos dio un poco de nostalgia de aquella primera cena. Fuimos con un descuento (Turandot ofrece muchos) sino hubi\xE9semos pagado 135 pesos con una cerveza, un poco caro para lo que fue."
+    date: 07-01-2009
+    user: http://mi.guiaoleo.com/members/45739
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Muy bueno, una carta sorprendentemente completa, muy buena atenci\xF3n y explicaci\xF3n de platos (especialidad h\xFAngara, y muy buena comida. Para volver y recomendar."
+    date: 13-12-2008
+    user: http://mi.guiaoleo.com/members/11546
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bueno el gulyas, especialmente el de cordero y el de conejo. Pedimos 1/2 porci\xF3n e igualmente fue abundante. La atenci\xF3n fue r\xE1pida y eficiente. Ambiente tranquilo, fuimos al mediodia. Volveremos en invierno a degustar otros platos."
+    date: 12-12-2008
+    user: http://mi.guiaoleo.com/members/3775
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Este fin de semana nos toco conocer los sabores del Este de Europa, al ver el men\xFA encontr\xE9 muchas semejanzas con la cocina alemana. Como plato principal opte por el Chucrut a la Hungara, un estofado con repollo, cerdo, paprika, albondigas y salchicha, como se puede ver es algo bastante pesado para el clima que tenemos ahora, y el lugar no estaba acondicionado para soportar la gran temperatura del plato (algo que condiciono el sabor). M\xE1s alla de eso, el plato estuvo bueno bien, con una porci\xF3n generosa. El servicio estuvo bien al igual que la limpieza, el lugar es chiquito, bastante austero."
+    date: 06-12-2008
+    user: http://mi.guiaoleo.com/members/51922
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Comimos lo no tipicamente h\xFAngaro, que dicen que es lo mejor . Aceptable  pero nada especial"
+    date: 01-11-2008
+    user: http://mi.guiaoleo.com/members/31653
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La comida de este lugar es excelente, el gulyas de conejo es un plato q hay q probar, los precios son correctos, la atenci\xF2n fue b\xE0rbara (fuimos un lunes y hab\xECa poca gente)muy buen asesoramiento y trato.  EL lugar no es lindo, no est\xE0 bien ambientado y la m\xF9sica...repiten 4 temas durante toda la noche."
+    date: 20-10-2008
+    user: http://mi.guiaoleo.com/members/16356
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente comida. Bien explicado por el mozo. Totalmente recomendable. Una delicia el strudel de guindas con helado de canela. Podr\xEDa mejorar la ambientaci\xF3n, pero no deja de ser c\xE1lido y familiar. No me parece tan caro teniendo en cuenta la zona."
+    date: 12-10-2008
+    user: http://mi.guiaoleo.com/members/52859
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Muy rica comida, el gulyas de conejo es riquisimo.Un postre espectacular es el Panqueque Gundel. La atencion de primera. Solo le faltaria una ambientacion mas esmerada.Buena relacion precio/calidad/cantidad. Para volver a degustar otros platos.
+    date: 04-10-2008
+    user: http://mi.guiaoleo.com/members/4268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La comida es muy buena, el gulyas de conejo estaba en su punto y muy bien condimentado y el strudel de guindas con helado, excelente. Es una pena que el lugar no es atractivo y ayer estaba especialmente ruidoso. Deber\xEDan arreglar el purificador de aire de la cocina: quedamos impregnados de olor a comida... La atenci\xF3n, amable."
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/48163
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: No lo recomiendo. Carisimo. He comido en luagres mucho mejores por mucho menos costo. El gulyas si bien estaba muy bueno y el strudel de espinaca es muy suave y delicioso como dicen, tuvo un al cierre con los postres que realmente no concuerdan. La relacion precio calidad no tiene proporcion. Comimos 3 personas por 240 pesos, lo cual me parece una locura. Hay lugares mejores donde deleitarse con un buen cordero, o conejo.
+    date: 05-09-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Buena gastronom\xEDa sin ser sobresaliente, correctas las gulyas en sabor y presentaci\xF3n. Platos abundantes. Amable y simp\xE1tica la mesera pero falta de oficio. Es una pena que al ambiente sea tan poco c\xE1lido y descuidado ya que con muy poco podr\xEDan hacerlo m\xE1s agradable. De todas maneras, creo que vale la pena conocerlo y disfrutar sus sabores en un lugar at\xEDpico para una zona donde a veces lo fashion prepondera sobre lo bueno."
+    date: 08-08-2008
+    user: http://mi.guiaoleo.com/members/30951
+    ambiente_rank: bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Al que le gusta ese tipo de comida, no se va a  arrepentir. El strudel de espinaca es exquisito. La atencion es correcta, por ahi le falta un poco mas de ambiente para que sea un excelente restaurant
+    date: 07-08-2008
+    user: http://mi.guiaoleo.com/members/44877
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: excelente, la comida abundante y simplemente deliciosa. no llegamos a terminar el plato. Muy buena la atencion de los mozos!! un lugar para pasarla lindo en pareja o con amigos!!!
+    date: 26-07-2008
+    user: http://mi.guiaoleo.com/members/44189
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Simplemente, me encant\xF3. El Hot pastrami estaba delicioso. Tambi\xE9n destaco el strudel de manzana, exquisito !!! El gulash de ternera correct\xEDsimo. Cenamos excelente con una m\xFAsica buen\xEDsima y nos atendieron de 10, qu\xE9 m\xE1s para una cena en pareja?"
+    date: 11-07-2008
+    user: http://mi.guiaoleo.com/members/34973
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Nos pareci\xF3 muy buena la comida, sabrosa, bien presentada. Los platos realmente abundantes, casi para compartir. El ambiente deja bastante que desear, pero se compensa con lo bueno de la comida. Los precios, razonables. Volveremos para seguir probando otros platos"
+    date: 07-07-2008
+    user: http://mi.guiaoleo.com/members/5515
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Realmente es una muy buena opci\xF3n para los que quieren encontrar sabores europeos. Prob\xE9 los gulyas de ternera y me parecieron increibles. Respecto al ambiente, es verdad que no se destaca pero compensa la muy buena atenci\xF3n de sus mozos. Volver\xE9 paa probar nuevos platos."
+    date: 21-06-2008
+    user: http://mi.guiaoleo.com/members/46534
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: "No puedo dejar de volver.  Se me ha hecho un vicio, mas a\xFAn en meses de frio. Los platos son deliciosos y abundantes y es un tipo de comida aut\xE9ntica que se aleja de las pretensiones fashion de la zona y privilegia el sabor.  Lo \xFAnico criticable es el lugar que tiene poca onda. La atenci\xF3n de los mozos es excelente y la relaci\xF3n calidad precio es muy buena.  Seguir\xE9 yendo"
+    date: 20-06-2008
+    user: http://mi.guiaoleo.com/members/790
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Sin dudas lo mejor del restaurant es la comida.de afuera parece un bar , la ambientacion no es prcisamente centroeuropea , la atencion correcta , la carta de vinos es buena , pero la comida es buenisima , hay que ir varias veces para probar todos los platos , nos quedamos con ganas del chucrut a la hungara y la parrillada hungara. vamos a volver. nota: se podrian mejorar los ba\xF1os."
+    date: 07-06-2008
+    user: http://mi.guiaoleo.com/members/45039
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "la entrada estaba muy rica, aunque chica era realmente rica. no me gusto el gulyas de cordero, entre el cordero cortado a cuchillo estaba cortada la grasa entera, la cantidad de aceite y grasa era importante, por demas pesado. y los \xF1oquis hungaros nada de nada.\r\n\
+      de todas maneras vale la pena conocerlo, ya que hay muchas opciones y la atencion es muy buena. el lugar es por demas sencillo, nada que se destaque al respecto. los precios son razonables pero no baratos y la carta en general es completa."
+    date: 06-06-2008
+    user: http://mi.guiaoleo.com/members/36058
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una experiencia realmente sorprendente. Conoc\xEDa el lugar de pasar habitualmente, pero la est\xE9tica externa no deja imaginar la calidad de los platos, tanto en sabor como en presentaci\xF3n. Realmente excelente, muy recomendable."
+    date: 11-05-2008
+    user: http://mi.guiaoleo.com/members/7026
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      La comida es muy buena y abundante. Los ahumados de la parrillada son de muy buena calidad.
+      El sevicio es muy bueno ya que los mozos son muy amables y siempre atentos al llamado del comensal.
+      El ambiente es tranquilo sin demasiadas pretensiones. Ideal para pasar un buen momento con amigos.
+    date: 04-05-2008
+    user: http://mi.guiaoleo.com/members/44485
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Comida sabrosa y relaci\xF3n en precio/cantidad. El guly\xE1s muy rico y abundante (si se piden entrada les recomiendo pedir 1/2 porci\xF3n ;) salvo q vayan con mucho hambre). La carta bastante variada. El mozo muy atento, no se cansa de responder todas las preguntas...Lo que me gust\xF3 del lugar, como dicen los otros usuarios, es q se sale de lo que es palermo \"fashion\", es un lugar luminoso y c\xF3modo."
+    date: 26-04-2008
+    user: http://mi.guiaoleo.com/members/9952
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Vale la pena ir a conocerlo, la comida me parecio muy autoctona de Hungria, el arenque de entrada no vale mucho, el gulyas de cordero(gulash)me gusto, estaba muy bueno, es bien de invierno... El postre es bueno, pedimos helado de canela con striddel de manzana.  Muy buena atencion pero el lugar no e smuy lindo.
+    date: 28-03-2008
+    user: http://mi.guiaoleo.com/members/41278
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Habia ido con mi novia la semana anterior y tenia que llevar a la flia: la comida es sencillamente increible. Todo tiene esa nota de la comida t\xEDpica de esa zona. El goulash directamente se TIENE que compartir, pero no todos los platos son tan abundantes.\r\n\
+      Los mozos son correctos, pero el lugar muy chiquito, aunque acogedor. Un buen lugar para esconderse del Palermo fashion diriamos.\r\n\
+      Los precios son acorde a la comida que ofrecen. \r\n\
+      Me debo la picada h\xFAngara.\r\n\
+      Para recomendar."
+    date: 17-02-2008
+    user: http://mi.guiaoleo.com/members/35485
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "PASAMOS POR LA TARDE Y TENIAN UN HAPPY HOUR CON UNA PICADA HUNGARA MUY RECOMENDABLE MUCHOS FIAMBRES Y COSAS RICAS ACOMPA\xD1AD POR LICUADOS BASTANTE FRESCO Y NADA CARO LA CALIDAD MUY BUENA LA ATENCION EXLENTE."
+    date: 20-01-2008
+    user: http://mi.guiaoleo.com/members/18758
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar tranquilo, sin pretensiones, no parece de Palermo Hollywood. El menu es variado pero es mas recomendable para invierno (por las sopas y el goulash) que para verano: los platos bien preparados, las porciones un poco chicas."
+    date: 09-01-2008
+    user: http://mi.guiaoleo.com/members/5971
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es h\xFAngaro for export. El goulas no es goulas sino p\xF4rk\xF4lt. El goulas verdadero es una sopa.\r\n\
+      Exceptuando esos detalles que son t\xEDpicos errores de los restauraters argentinos, la comida estaba bien."
+    date: 10-12-2007
+    user: http://mi.guiaoleo.com/members/137
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: me gusto el lugar, el goulash estaba rico, no sobresaliente pero tenia su toque de sabor. A la ambientacion le falta un poco, pero tampoco esta mal.Muy atentos, parecen nuevos en el rubro pero bien predispuestos
+    date: 07-12-2007
+    user: http://mi.guiaoleo.com/members/35973
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: La comida y la atencion muy buena, en cuanto a la ambientacion es prolija y sobria.
+    date: 10-11-2007
+    user: http://mi.guiaoleo.com/members/20961
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "El Gulash de cordero y de cerdo son muy buenos. La Atenci\xF3n es Muy buena. La ambientaci\xF3n podr\xEDa ser m\xE1s acorde al tipo de gastronom\xEDa que representa.\r\n\
+      El lugar es Altamente Recomendable. Sin dudas volver\xE9."
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/32662
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Una alternativa diferente para un s\xE1bado al mediod\xEDa. Si bien el ambiente no se encuentra orientado al tipo de comida que sirven, es un estilo normal, c\xE1lido y tranquilo. La comida excelente en su condimento junto. \r\n\
+      La atenci\xF3n impecable. Sin duda volver\xE9 para probar otros platos."
+    date: 22-09-2007
+    user: http://mi.guiaoleo.com/members/8757
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Exelente cocina en un lugar que, por no ser \"moderno\", no tiene demasiada gente. No se espera la mesa ni la comida m\xE1s de lo necesario (la parrillada que com\xED tarda, pero avisan). El ambiente es muy agradable con un servicio atento pero muy discreto.\r\n\
+      Muy, pero muy recomendable."
+    date: 31-08-2007
+    user: http://mi.guiaoleo.com/members/18847
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El lugar es muy chico. La comida es muy buena, platos justos en cantidad ni poco ni muy abundante. Cuando fui estaba lleno y tardaron mucho en atenderme, pero siempre muy amables y con una muy buena comida. Recomendable.
+    date: 12-08-2007
+    user: http://mi.guiaoleo.com/members/42995
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El lugar no entra por los ojos, es cierto. Verlo de afuera no le da credito. Es m\xE1s, no tiene pinta de buen restaurante \xE9tnico. Pero la comida supera ampliamente esa falencia. El gulash de cordero es muy bueno, pero el de cerdo es \xF3ptimo. Y con los spetzle a punto! La entrada (strudel) y el postre (espuma de naranja con chocolate y frutos rojos -buen bajativo-) resultan muy sabrosos. La carta de vinos merece mas variedad. Un dato importante: hay que ir temprano. "
+    date: 04-08-2007
+    user: http://mi.guiaoleo.com/members/15494
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es la mejor comida h\xFAngara que com\xED en mi vida. \r\n\
+      Exquisita, en un lugar muy amable y con precios razonables. Para ir sin dudar"
+    date: 28-07-2007
+    user: http://mi.guiaoleo.com/members/28277
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Jueves por la noche,poca gente.Atenci\xF3n esmerada.Tres parejas .Atenci\xF3n correcta,gulash de cerdo muy recomendable(muy abundante).Lugar algo impersonal pero amable.Precio muy razonable.Con tarjeta \xF3leo 20 de descuento sobre el total.Sin duda volver\xE9. "
+    date: 29-06-2007
+    user: http://mi.guiaoleo.com/members/21633
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: muy bueno todo!!!! los felicito y gracias por la tarjeta de decuento q me dieron
+    date: 09-06-2007
+    user: http://mi.guiaoleo.com/members/21550
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Se trata de una propuesta distinta y bastante fiel a la cocina h\xFAngara. Si logra ir m\xE1s all\xE1 de una carta algo confusa y desprolija, encontrar\xE1 sabrosas opciones en porciones amplias con buenos ingredientes. Si desea algo distinto al t\xEDpico goulash, atr\xE9vase a la \x93parrillada h\xFAngara\x94. Tenga en cuenta que algunos platos tienen un precio algo altos aunque no desentonan con los valores a pagar por otros restaurants de Palermo a la moda. La atenci\xF3n es esmerada y correcta. El punto m\xE1s d\xE9bil es el ambiente que no logra tener personalidad ni recrear un t\xEDpico resto h\xFAngaro. De todas formas, considerando todos los aspectos, uno se puede sentir suficientemente c\xF3modo y pasar un buen momento."
+    date: 25-05-2007
+    user: http://mi.guiaoleo.com/members/14566
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: muy buena la comida, el mozo no era conocedor de la comida hungara. pero reconocio su ignorancia y pudo preguntar. vale la pena por el precio y por el chef
+    date: 24-05-2007
+    user: http://mi.guiaoleo.com/members/21303
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Ten\xEDamos reserva para las 22.30 y nos sentamos a las 23hs, pero eso no es lo peor, sino que reci\xE9n nos sirvieron los platos a las 00.30 !! luego de ver que nos est\xE1bamos yendo. Si, 1 hora y media de espera. Eramos una mesa de 6 personas, donde 4 platos eran iguales. El due\xF1o se la pas\xF3 charlando con otra mesa, viendo y escuchando que la nuestra no estaba atendida y s\xF3lo atin\xF3 a decir \"es un d\xEDa especial\". Los 2 meseros no tienen idea de lo que es la gastronom\xEDa, uno de ellos no conoce la carta y el otro te sirve lo que el quiere. Yo hab\xEDa pedido Goulash de cerdo y me trajeron de cordero, dici\xE9ndome que yo NO pedi de cerdo y en la comanda dec\xECa de cerdo! Por otro lado, el ba\xF1o no estaba en buenas condiciones.\r\n\
+      No lo recomiendo y no volver\xE9."
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/10334
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: Recomiendo este lugar si la idea es probar algo distinto y de buena calidad. La comida es muy sabrosa, la atencion es muy buena y el ambiente es calido. Ademas, con la tarjeta oleo nos hicieron un 20% de descuento con lo cual 4 platos, aguas y un caballero de la cepa nos costo 30 por persona. Mas que bien.
+    date: 17-05-2007
+    user: http://mi.guiaoleo.com/members/7380
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Bien la comida (faltaban algunos platos de la lista), correcta y educada atencion, opcion de vinos a buen precio, decoracion ambiente impersonal, le juega en contra por ser poco atractiva en una zona de gran movimiento nocturno y con opciones bien presentadas.\r\n\
+      Es un restaurante de buenos amateurs que saben hacer los platos de su regi\xF3n a precios accesibles.\r\n\
+      Use mi tajeta Oleo sin ningun inconveniente"
+    date: 04-05-2007
+    user: http://mi.guiaoleo.com/members/6994
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Fuimos a cenar y pedimos goulash, la verdad es que tanto la presentaci\xF3n del plato como el gusto fue excelente. \r\n\
+      Encima nos regalaron un cup\xF3n de descuento para una proxima visita."
+    date: 25-04-2007
+    user: http://mi.guiaoleo.com/members/8812
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Espectacular el goulash de cerdo. Sugiero, si van en grupo pedir todas las opciones de goulash (cerdo, cordero y carne vacuna). Los postres, una delicia, especialmente el de panqueques con crema y chocolate es alucinante, parece ser la especialidad de la casa. La atenci\xF3n fue buena. El lugar tal vez no es tan caro, precisamente porque la ambientaci\xF3n no tiene nada de h\xFAngaro, es un lugar chiquito que podr\xEDa pasar por bar tranquilamente. As\xED y todo, yo privilegio la comida, por eso volver\xEDa. Adem\xE1s,quiero destacar que tuve el descuento de un 20% por la tarjeta Oleo."
+    date: 14-04-2007
+    user: http://mi.guiaoleo.com/members/17934
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Est\xE1 ok. Uno entra a un lugar y sabe qu\xE9 esperar. El mozo compensaba su inexperiencia con buena onda. La ambientaci\xF3n no es impactante, pero el lugar es c\xF3modo. La comida la verdad que deja bastante que desear. El goulash es bueno, no prob\xE9 el strudel de postre, pero mi mujer dice que ten\xEDa gusto salado (tambi\xE9n sirven strudel salados: se habr\xE1 mezclado???). A\xFAn as\xED es un lugar recomendable para comer aceptablemente a buen precio."
+    date: 31-03-2007
+    user: http://mi.guiaoleo.com/members/16366
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El lugar es chiquito y c\xE1lido. Muy buena comida h\xFAngara a precios razonables. \r\n\
+      Los platos principales son abundantes. Fui un jueves a la noche y hubo cantante en vivo. Tuvimos la oportunidad de hablar con el due\xF1o del restaurante interesado por saber qu\xE9 opin\xE1bamos del lugar y la comida."
+    date: 22-03-2007
+    user: http://mi.guiaoleo.com/members/20473
+    ambiente_rank: bueno
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Excelente Goulash de cordero, muy buen arenque de entrada. Poco experimentada pero muy buena atenci\xF3n. Las mesas est\xE1n un poco pegadas adentro, pero como fumo, com\xED afuera y el espacio es correcto. \r\n\
+      La carta de vino es muy pobre (hab\xEDa un Malbec de $80 y el siguiente costaba $30, lo mismo pasaba con los Cabernet Sauvignon) y no tienen descorche. \r\n\
+      Muy bueno el strudel. Sin ser especialista en comida h\xFAngara, me pareci\xF3 muy recomendable para probar."
+    date: 17-03-2007
+    user: http://mi.guiaoleo.com/members/14682
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Si bien he probado otros goulash, ninguno se compara a la autenticidad de \xE9ste. No hab\xEDa algunos platos de la carta, pero, cort\xE9smente, el mozo nos sugiri\xF3 otras alternativas muy recomendables. \r\n\
+      \r\n\
+      Presentamos el beneficio del descuento. Todo m\xE1s que bien!"
+    date: 12-03-2007
+    user: http://mi.guiaoleo.com/members/14759
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena la comida y buena la atenci\xF3n. \r\n\
+      Excelente presentaci\xF3n de los platos y ambiente muy ajustado."
+    date: 08-02-2007
+    user: http://mi.guiaoleo.com/members/18335
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Todo muy bueno. La primera vez que como un verdadero goulash.
+    date: 12-01-2007
+    user: http://mi.guiaoleo.com/members/16203
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "La comida es excelente la atenci\xF3n es muy buena, el paprika era el toque especial no se de donde sac\xF3 eso! la verdad altamente recomendable para ir con su pareja Los postres, una delicia."
+    date: 11-01-2007
+    user: http://mi.guiaoleo.com/members/16157
+    ambiente_rank: excelente

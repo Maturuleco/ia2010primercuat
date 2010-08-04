@@ -1,0 +1,61 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Hacia mucho que no visitaba el lugar,muy buena imagen.El bife de chorizo espectalurar.,las fritas tambien,fiambres barbaros ,supremass ricas,Todo Bien.Una cena sencilla ,pero de diez puntos.
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/50834
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Clasico. Lugar detenido en el tiempo, con mozos profesionales y comida muy buena. La picada es buena y las rabas y calamaretis muy ricos, de buena fritura. Cerveza tirada bien fresca. Nada de modernidades. Sale con rusa!!!
+    date: 22-12-2009
+    user: http://mi.guiaoleo.com/members/22134
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Restaurante setentoso, parece detenido en el tiempo.La clientela es mayor de 60 a\xF1os. Platos variados y abundantes (ideales para compartir). Mozos que conocen el oficio. Recomendable para ir en familia."
+    date: 04-10-2009
+    user: http://mi.guiaoleo.com/members/22328
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: La comida es buena y abundante, casi todos los platos se pueden compartir. La atencion es buena, sin muchbo esmero, pero buena. El lugar es ruidoso y eso puede arruinar cualquier almuerzo o cena. Es un clasico pero en picada descendiente. Tendria que innovar un poco el aspecto del espacio interno. Caro por ser comida muy pero muy tradicional.
+    date: 04-07-2008
+    user: http://mi.guiaoleo.com/members/17050
+    ambiente_rank: malo/regular
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un cl\xE1sico, la atenci\xF3n muy buena y la comida nunca falla, pero esta vez el revuelto gramajo un poco escaso y me llam\xF3 la atenci\xF3n los precios, si bien la inflaci\xF3n hace que cada semana nos asombremos, en este caso me parece que se les fue un poco la mano"
+    date: 17-05-2008
+    user: http://mi.guiaoleo.com/members/30279
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Una tradicional opci\xF3n para los cl\xE1sicos. Buena comida, muy buena atenci\xF3n de los mozos, la ambientaci\xF3n antigua pero excelentemnte conservada. En fin, hoy es caro pero ... se come bien. Ahora digo yo ? Los precios que tenemos en la gu\xEDa como referencia de los distintos restaurantes no sirve, lamentablemente cambian todos los dias, por supuesto que es culpa de una enorme inflaci\xF3n."
+    date: 02-04-2008
+    user: http://mi.guiaoleo.com/members/41545
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Siempre me pareci\xF3 una buena opci\xF3n para comer en Belgrano, y no digo que haya dejado de serla pero elevaron demasiado los precios. Son muy buenas las supremas que preparan (en cualquiera de sus variedades). El ambiente es cl\xE1sico y la atenci\xF3n de los mozos profesional."
+    date: 26-10-2007
+    user: http://mi.guiaoleo.com/members/16130
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un restaurante que no conoc\xEDa y siempre pasaba de largo, de estilo cl\xE1sico, donde se come muy bien, buena atenci\xF3n del mozo y un ambiente tranquilo.Ojo: bien dicho, cocina internacional."
+    date: 01-08-2007
+    user: http://mi.guiaoleo.com/members/24006
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Los mozos son los de antes, el lugar est\xE1 bien, la comida nos gust\xF3 bastante."
+    date: 25-07-2007
+    user: http://mi.guiaoleo.com/members/16166
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar es un cl\xE1sico del barrio. Est\xE1 ah\xED para comer bien. La carta es amplia y los canelones son una bomba. Ah! si sos de la zona y ten\xE9s fiaca, el delivery llega en muy buenas condiciones. "
+    date: 15-03-2007
+    user: http://mi.guiaoleo.com/members/13376
+    ambiente_rank: muy bueno

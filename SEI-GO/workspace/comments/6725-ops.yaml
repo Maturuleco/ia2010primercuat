@@ -1,0 +1,40 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy ricas pizzas, falta mejorar la carta de vinos, vale la pena ir
+    date: 11-02-2010
+    user: http://mi.guiaoleo.com/members/76408
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: |-
+      Un lugar exelente. Buena atencion, la comida es exelente dentro de su rubro.
+      Muy recomendable.
+    date: 09-02-2010
+    user: http://mi.guiaoleo.com/members/76419
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hace a\xF1os que voy o q pido delivery, es la mejor pizzer\xEDa de la zona, su pizza barrilete a la que se le pueden elegir 4 sabores es excelente, con una pizza comen 4 personas y quedan muy piponas.\r\n\
+      Las empanadas tb son muy buenas.\r\n\
+      y es barato.\r\n\
+      Relaci\xF3n precio-calidad 10 puntos"
+    date: 25-01-2010
+    user: http://mi.guiaoleo.com/members/37989
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "El tama\xF1o de la pizza grande es INCRE\xCDBLE!\r\n\
+      Algo sumamente destacable: dado el tama\xF1o de la pizza, se pueden pedir cuatro sabores distintos por cada una. Y son muy buenas!\r\n\
+      Lo que a m\xED no me gusta mucho de La Jazmina son las empanadas.\r\n\
+      Normalmente pido a domicilio. \r\n\
+      El lugar no est\xE1 mal. Es una peque\xF1a pizzer\xEDa de barrio. Lo que s\xED destaco es la atenci\xF3n. Siempre he tenido muy buenas experiencias."
+    date: 21-12-2009
+    user: http://mi.guiaoleo.com/members/32925
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La mejor pizza elaborada de Buenos Aires para el que no quiere solamente muzzarella
+    date: 24-10-2009
+    user: http://mi.guiaoleo.com/members/70904
+    ambiente_rank: bueno

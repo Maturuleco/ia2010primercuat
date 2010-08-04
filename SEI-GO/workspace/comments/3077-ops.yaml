@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Simplemente una muy buena parrilla/bodeg\xF3n, las porciones son abundantes, el ambiente es algo ruidoso y los mozos tienen oficio (por fin mozos que saben). La carne es muy buena seguro que iremos seguido.\r\n\
+      Tiene sal\xF3n fumador \"bien separado\" de sal\xF3n de los que no fumamos."
+    date: 12-06-2010
+    user: http://mi.guiaoleo.com/members/16883
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: Muy rica comida. El lugar es ruidoso y hay que tenerle pasiencia.
+    date: 16-04-2010
+    user: http://mi.guiaoleo.com/members/81766
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: parrrila buena carne y achuras, el servicio muy bueno, por momentos el ambiente un poco ruidoso, se come muy bien, los precio son razonables ya que la calidad es muy buena.
+    date: 01-05-2009
+    user: http://mi.guiaoleo.com/members/57469
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Carne perfect\xEDsima, servicio adorable. Un poco caro, dos medios bifes + 1 ensalada entre dos y 1 provoleta con 2 cocas, $120. Me pareci\xF3 un poco mucho pero volver\xEDa."
+    date: 20-01-2008
+    user: http://mi.guiaoleo.com/members/24230
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "La mejor parrilla de la ciudad. Para comer en la barra o en la mesa. No hay nada marcado, hay que esperar un cachito, pero la familiaridad de los parrilleros y los mozos es espectacular. Los precios muy buenos si se tiene en cuenta el tama\xF1azo de las porciones. Soy cliente habitual, a veces opto por las pastas, otras por las rabas. Muy buena atenci\xF3n. Vale la pena darse una vueltita. "
+    date: 30-06-2007
+    user: http://mi.guiaoleo.com/members/25936
+    ambiente_rank: excelente

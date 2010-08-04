@@ -1,0 +1,19 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Las pizzas, aunque bien logradas carecen de contundencia, Las pastas tiene puntos de coccion erroneos aunque la porci\xF3n es abundante, en cuanto al pescado, el punto es bueno, pero las guarniciones parecen no tener la importancia que deberian. La vajilla y cubiertos no est\xE1n lavados ni faginados correctamente y algunos vasos presentan olores extra\xF1os. Solo recomendable para la hora del T\xE9"
+    date: 09-06-2010
+    user: http://mi.guiaoleo.com/members/82446
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un lugar sumamente espacioso con mesas que guardan una amplia separaci\xF3n entre s\xED, tanto en el sal\xF3n como en la calle. La esquina tiene una hermosa vista a la Plaza Guadalupe y permite disfrutar de un momento distendido. La atenci\xF3n es la correcta y la comida no es lo m\xE1s destacable del lugar. Volver\xEDa s\xF3lo para disfrutar de un momento placentero en esa esquina privilegiada."
+    date: 14-05-2010
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: La comida estubo deliciosa y las porciones son como para 2 comensales. Me gusto mucho porque ademas da a la plaza y es super agradable el ambiente.
+    date: 12-05-2010
+    user: http://mi.guiaoleo.com/members/81781
+    ambiente_rank: muy bueno

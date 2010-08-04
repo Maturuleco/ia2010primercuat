@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "La comida es mala. Las rabas pasadas de cocci\xF3n por lo que estaban a mitad de camino entre ser una piedra y un chicle. Paella sin gusto y con el pollo s\xFAper pasado y los mariscos ins\xEDpidos. La atenci\xF3n zafa pero nada m\xE1s."
+    date: 30-06-2010
+    user: http://mi.guiaoleo.com/members/6268
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Un lugar que puede servir como alternativa no muy cara para llevar alg\xFAn visitante \"laboral\" extranjero y salir de la carne. La c\xF3mida, la atenci\xF3n y el ambiente son aceptables, aunque no pasan de eso."
+    date: 24-06-2010
+    user: http://mi.guiaoleo.com/members/47331
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: mala/regular
+    text: Casi cualquiera sabe hacer una tortilla mejor. Realmente mal
+    date: 19-11-2009
+    user: http://mi.guiaoleo.com/members/9688
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "La comida no es buena, Frituras aceitosas, paella ins\xEDpida. Demasiado caro para lo que es."
+    date: 15-04-2008
+    user: http://mi.guiaoleo.com/members/34334
+    ambiente_rank: malo/regular
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Festej\xE9 mi cumplea\xF1os (eramos 15) y quedamos todos muy conformes con el sabor y la abundancia de los platos. El servicio fue excelente."
+    date: 24-11-2007
+    user: http://mi.guiaoleo.com/members/36094
+    ambiente_rank: muy bueno
+- - servicio_rank: excelente
+    comida_rank: excelente
+    text: A mi gusto es ambiente es muy agradable, los mozos son amorosos y el servicio y la comida con excelentes.
+    date: 22-11-2007
+    user: http://mi.guiaoleo.com/members/35911
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "La comida es muy fuerte y con buen gusto, pero en la carta no est\xE1n bien especificados los platos. S\xF3lo hay explicaci\xF3n en ingl\xE9s, la cual es incompleta. S\xF3lo dec\xEDs que ten\xEDa muzzarella, no explicaba el resto del plato.\r\n\
+      El ambiente es muy agradable, el aire acondicionado estaba perfecto."
+    date: 24-10-2007
+    user: http://mi.guiaoleo.com/members/21402
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El precio indicado inclu\xEDa el vino (1/2 botella por persona) y todas las bebidas, as\xED como tambien el postre.\r\n\
+      Fuimos un grupo de 15 personas, y yo como organizador estaba en ascuas. Todos quedaron incre\xEDblemente satisfechos por la calidad y cantidad de las porciones. \r\n\
+      No llegamos a comer los \xFAltimos componentes del tapeo.\r\n\
+      Una torta de cumplea\xF1os excelente.\r\n\
+      Soy habitu\xE9 y no entiendo los malos comentarios.\r\n\
+      S\xED es cierto, por exigencias del mercado, la carta se aporte\xF1\xF3."
+    date: 04-02-2007
+    user: http://mi.guiaoleo.com/members/13126
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Calidad buena, en platos no muy abundantes, pan y tostadas no del d\xEDa. \r\n\
+      Mozos que apuraban la finalizaci\xF3n de la cena."
+    date: 19-10-2006
+    user: http://mi.guiaoleo.com/members/12916
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Muy buen servicio y calidad de comida. "
+    date: 25-08-2006
+    user: http://mi.guiaoleo.com/members/12396
+    ambiente_rank: muy bueno

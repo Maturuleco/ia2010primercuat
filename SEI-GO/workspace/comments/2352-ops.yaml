@@ -1,0 +1,32 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Las pastas estaban riquisimas. el cafe es excelente. La camarera super agradable.Voy a volver. Lo recomiendo.
+    date: 10-06-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: Solo pido pizza por telefono. Aunque es verdad que la calidad bajo un poco, sigue siendo muy buena. Otros platos pobre muy poco, y como la pizza no hay. Creo que la mejor de la zona. Eso si, podrian esmerarse un poco con el servicio de delivery.
+    date: 03-06-2009
+    user: http://mi.guiaoleo.com/members/63353
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El ambiente bueno, es muy amplio y algo ruidoso. El servicio es aceptable. La comida es de acuerdo el plato, si uno pide pizza o un lomo strogonoff se puede decir que es m\xE1s que buena, pero no es recomendable pedir otra cosa. El costo es bastante elevado, no coincide la relaci\xF3n precio calidad.\r\n\
+      Lo \xFAnico recomendable es el pan dulce artesanal."
+    date: 15-04-2009
+    user: http://mi.guiaoleo.com/members/34017
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Vivo por la zona y voy al galeon tanto para tomar un cafe como para almorzar o cenar. La gente te atiende muy bien, las mesas estan muy bien servidas y la comida es de muy buena calidad. Tambi\xE9n suelo pedir delivery, te traen los mismos panes que te sirven en la mesa (saborizados, tipo pizza , etc)"
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/9349
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "La comida es muy rica, pero mucha demora por una simple pizza. Mala experiencia, no voy m\xE1s."
+    date: 01-05-2007
+    user: http://mi.guiaoleo.com/members/22458
+    ambiente_rank: muy bueno

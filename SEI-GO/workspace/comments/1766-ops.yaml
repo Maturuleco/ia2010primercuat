@@ -1,0 +1,31 @@
+--- 
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Me pareci\xF3 car\xEDsimo para lo que ofrecen, una comida que apenas llega a bueno: el lomito era un corte de descarte (no un medall\xF3n sino la cola, finita y cortajeada) y vino seco y la tortilla estaba menos cocida que el punto pedido. Se aprovechan de la ubicaci\xF3n del local porque no hay demasiadas opciones potables por la zona... solo para salir del paso con algo r\xE1pido"
+    date: 22-08-2009
+    user: http://mi.guiaoleo.com/members/5016
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Pizzeria con buena calidad en sus materias primas. La pizza que ofrecen no sale del estandar, es rica y bien preparada pero no mas que eso. El lugar no tiene ningun tipo de ambientacion destacable, el servicio bueno. Nos atendieron en una mesa para mas de 10 personas y sin embargo estuvieron atentos.
+    date: 17-12-2008
+    user: http://mi.guiaoleo.com/members/51685
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: Fui a desayunar, las medialunas estaban buenas y todo lo demas tambien  pero la atencion fue un desastre. El mozo nos atendia como si quisiera que nos fueramos, ademas pedi manteca para una de las tostadas y me trajeron un paquetito de 5x5 y al final me lo cobraron como 4 pesos, una locura.
+    date: 09-10-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Coincido con el usuario Corona Master. La atenci\xF3n es terror\xEDfica. \xA1No pueden ser m\xE1s maltratadores los mozos!!! (aunque tuve un poco de mala suerte con los dos ogros que me tocaron en dos ocasiones diferentes, ya que observ\xE9 que otras plazas ten\xEDan mejor atenci\xF3n). Pero bueno, suficiente para no volver nunca m\xE1s."
+    date: 01-10-2008
+    user: http://mi.guiaoleo.com/members/13770
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo lugar, fente a un lugar hist\xF3rico y con excelente atenci\xF3n. Altamente recomendable. "
+    date: 18-09-2007
+    user: http://mi.guiaoleo.com/members/7115
+    ambiente_rank: excelente

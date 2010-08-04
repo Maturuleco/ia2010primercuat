@@ -1,0 +1,33 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: El lugar es exelente, la comida es bien casera y esta bien aunque lo mejor es el ambiente bluesero y la musica en vivo.
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/72206
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: No puedo creer que en la Boca exista un lugar asi. Se abusan de la historia acumulandola en las paredes. Una mugre desde donde se lo vea. Desde la encargada a los mozos, unos maleducados. Groserias delante de clientes. Me cayo muy mal la comida. Deberian clausurarlo. Cualquier otro lugar hubiese sido mejor que eso.
+    date: 17-08-2008
+    user: http://mi.guiaoleo.com/members/31931
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Lugar para ir a disfrutar el ambiente blusero. \r\n\
+      No es para ir todos los d\xEDas, es m\xE1s bien para tomarse una cerveza con man\xED y ver lo que pasa con algunos personajes que se ven de cartoon."
+    date: 15-04-2006
+    user: http://mi.guiaoleo.com/members/7756
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Lo mejor de la zona.
+    date: 16-10-2005
+    user: http://mi.guiaoleo.com/members/4354
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Me pareci\xF3 unlugar extraordinario, muy original y muy bien atendido, por gente del blues con historias de vida incre\xEDbles, que se muestran muy sencillas y humildes.\r\n\
+      Muchos extranjeros de cualquier edad visitan el lugar en busca de buena m\xFAsica y ser atendidos con buena onda."
+    date: 20-03-2005
+    user: http://mi.guiaoleo.com/members/1374
+    ambiente_rank: excelente

@@ -1,0 +1,71 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      La verdad muy malo el servecio. nadie nos atendio en 20 minutos de estar sentados en la mesa, nos bajaron las luces, las subieron, las baaron de nuevo. un desastre! el unico mozo que estaba ahi cantaba a los gritos en lugar de atender.
+      de la comida no se nada, porque nos fuimos de ahi ya que nunca nos atendieron.
+    date: 28-11-2008
+    user: http://mi.guiaoleo.com/members/55379
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: El servicio no es bueno por que faltan empleados, pero los que estan te tratan muy bien y con mucho respeto.
+    date: 08-11-2007
+    user: http://mi.guiaoleo.com/members/36472
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: |-
+      Realmente no es recomendable. 
+      No lo recomiendo para nada. La comida no es muy brasilera para alguien que es de Brasil.
+    date: 23-06-2007
+    user: http://mi.guiaoleo.com/members/35477
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "La gente tiene buena onda. El lugar ofrece un men\xFA muy pobre con pocos platos brasileros. Los tragos son buenos. El lugar es muy chico para la cantidad de gente que va y la parte donde se puede bailar y fumar es el patio donde ahora en invierno te moris de frio. Es para gente que quiere m\xFAsica brasilera y divertirse. "
+    date: 13-06-2007
+    user: http://mi.guiaoleo.com/members/25964
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Vivi 3 a\xF1os en Brasil, y este restaurante es una verg\xFCenza a la tradici\xF3n culinaria del pa\xEDs vecino. La feijoada ven\xEDa sin naranjas, sin farofa, y el couve ven\xEDa con el ajo quemado.  Lo peor no fue la comida, sino el servicio malo. La verdad una experiencia p\xE9sima."
+    date: 19-05-2007
+    user: http://mi.guiaoleo.com/members/23529
+    ambiente_rank: malo/regular
+- - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Realmente no es muy recomendable.\r\n\
+      Yo fui con amigos a cenar y se hace todo muy aburrido.\r\n\
+      La atenci\xF3n es p\xE9sima, te tiran todo como si fastidiaras.\r\n\
+      No lo recomiendo para nada. La comida no es muy brasilera para alguien que ya fue a Brasil."
+    date: 30-12-2006
+    user: http://mi.guiaoleo.com/members/10500
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: buena
+    text: "Est\xE1 bueno el lugar para ir con amigos, s\xF3lo que es un poco chico por la cantidad de personas que van."
+    date: 05-09-2006
+    user: http://mi.guiaoleo.com/members/11767
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Demasiado caro para lo que son las comidas. La atenci\xF3n horrible: me sirvieron algo que no ped\xED, me retiraron el plato antes de que termine de comer. No hab\xEDa pan ni servilletas, jam\xE1s preguntaron si quer\xEDamos algo m\xE1s. \r\n\
+      No volver\xEDa y no lo recomiendo."
+    date: 15-06-2006
+    user: http://mi.guiaoleo.com/members/9321
+    ambiente_rank: bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "\xA1Muy buen lugar, excelente m\xFAsica y terribles morochos!"
+    date: 12-11-2005
+    user: http://mi.guiaoleo.com/members/4781
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      Muy buena onda en el lugar, un poco chico, pero todo bien igual.
+      Excelente musica, hay muchos brasileros ;o).
+    date: 12-11-2005
+    user: http://mi.guiaoleo.com/members/4780
+    ambiente_rank: excelente

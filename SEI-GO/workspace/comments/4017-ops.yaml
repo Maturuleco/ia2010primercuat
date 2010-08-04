@@ -1,0 +1,68 @@
+--- 
+- - servicio_rank: excelente
+    comida_rank: buena
+    text: "Ante todo, destaco la atenci\xF3n. \xC9ramos una mesa eterna y la moza jam\xE1s se perdi\xF3, despist\xF3 o atras\xF3, sino que mantuvo siempre la sonrisa y estuvo siempre a la vista y atenta. \r\n\
+      Comimos en el jard\xEDn y me result\xF3 un lindo espacio de aire en medio del bullicio de Palermo un s\xE1bado, un placer. \r\n\
+      La comida fue abundante y sabrosa, pero la carta no es nada del otro mundo."
+    date: 10-04-2010
+    user: http://mi.guiaoleo.com/members/30026
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Siempre vuelvo para degustar los ricos mojitos que preparan! la carta cuenta b\xE1sicamente con cositas para picotear (sandwiches, hamburguesas, tacos, ensaladitas, picadas). Tiene una muy buena ambientaci\xF3n de bar, el jard\xEDn es muy ameno (pero ojo con los que son cortos de vista a la hora de leer porque la luz es tenue. Muy buenos precios."
+    date: 21-01-2010
+    user: http://mi.guiaoleo.com/members/73820
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Bonito lugar, las mesas ubicadas en el patio son una opci\xF3n muy rom\xE1ntica por su tranquilidad, luces y un dise\xF1o moderno adornan este bello lugar de Palermo. La carta es un poco acotada pero la pizza estaba deliciosa y los precios son justos. Volvere para probar los tragos."
+    date: 15-12-2009
+    user: http://mi.guiaoleo.com/members/70751
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Fuimos con mi grupo . El lugar es pintoresco . Volver\xEDa a ir para conocer los tragos y disfrutarlo de otra forma ."
+    date: 14-11-2009
+    user: http://mi.guiaoleo.com/members/43011
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: |-
+      No esta mal para pasar un rato. La comida es basica, la carta no tiene muchas cosas...
+      El lugar es lindo, especialmente al fondo.
+      
+      Volveria para tomar algo y picar algo rapido. Los precios no son malos.
+    date: 05-11-2009
+    user: http://mi.guiaoleo.com/members/56740
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: buena
+    text: "Cambio gratamente este lugar, fui a principio de a\xF1o y la verdad que ahora el servicio es mas rapido y el lugar muy bien ambientado, las luces tenues, el jardin increible con esa ba\xF1era blanca de la abuela, hacen del lugar muy copado para parejas, pero aun asi con onda para grupos de amigos."
+    date: 30-10-2009
+    user: http://mi.guiaoleo.com/members/31824
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Fuimos por recomendaci\xF3n. La atenci\xF3n, mala desde el principio: al preguntar por las frutas con que hac\xEDan los licuados (no figuraban en la carta), la moza respondi\xF3 de muy mala gana, con tono condescendiente, \"est\xE1n en la carta\". Trajeron mal el pedido (cosas que no hab\xEDamos pedido) y los tacos, que eran -literalmente- Rapiditas con relleno de empanada, llegaron fr\xEDos a la mesa. Tuvimos que quejarnos con el encargado para que los mozos dejaran de tratarnos como una molestia. Pens\xE1bamos quedarnos a cenar, pero en una hora nos levantamos y nos fuimos a otro lugar, indignados. El lugar, lindo."
+    date: 03-10-2009
+    user: http://mi.guiaoleo.com/members/69766
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: Excelente bar de Palermo para disfrutar con amigos o en pareja. 100% recomendable.
+    date: 09-07-2009
+    user: http://mi.guiaoleo.com/members/14709
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente lugar para ir a tomar unas cervezas con amigos y charlar tranquilos. Muy buena ambientaci\xF3n y precios accesible. Bien ubicado.\r\n\
+      Muy recomendable."
+    date: 07-05-2009
+    user: http://mi.guiaoleo.com/members/2477
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Lindisimo lugar, muy buena atenci\xF3n y precios. Altamente recomendable para pasar un buen momento"
+    date: 02-03-2009
+    user: http://mi.guiaoleo.com/members/59136
+    ambiente_rank: excelente

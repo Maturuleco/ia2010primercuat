@@ -1,0 +1,330 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: Todo muy bien pero el servicio es regular y lento,despachan no atienden
+    date: 04-07-2010
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: mala/regular
+    text: "Pedi un bife de chorizo con mixta, me pareci\xF3 una opci\xF3n segura....mal por m\xED, no me preguntaron el punto, cosa que me entusiasm\xF3 significaba que sabian lo que hac\xEDan, mal nuevamente, una piedra y frio, cuando me quejo timidamente el camarero no ayudo a sentirme comodo pidiendo otra cosa, no pedi postre ni caf\xE9....una corona y me f\xFAi...obvio cobraron cubiertos, no recomendable"
+    date: 22-06-2010
+    user: http://mi.guiaoleo.com/members/37972
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "Buena ambientaci\xF3n recordando los viejos caf\xE9s de barrio l\xE1stima que lo tienen un poco sucio el piso del lugar y los ba\xF1os. Las picadas de buena calidad, ideal para ir con amigos. En cuanto al mozo,la atenci\xF3n dej\xF3 mucho que desear, hab\xEDa que pedirle varias veces lo mismo."
+    date: 02-04-2010
+    user: http://mi.guiaoleo.com/members/72040
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: solo una cerveza en su terazza ya vale la pena, ricas hambuerguesas.
+    date: 30-12-2009
+    user: http://mi.guiaoleo.com/members/74301
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: fuimos con mi esposa al mediodia para probar las picadas. No son gran cosa. Las empanadas de carne a la parrilla muy buenas. El lugar tiene esa onda antigua y la atencion fue correcta. Volveremos a probar otras cosas del muy extenso menu.
+    date: 28-11-2009
+    user: http://mi.guiaoleo.com/members/36525
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: excelente
+    text: "Yendo m\xE1s tarde a Margot (s\xF3bado bien pasado el mediod\xEDa) la atenci\xF3n mejora, aunque seguimos padeciendo el problema de las mesas demasiado juntas y la escasez del servicio en la vereda.\r\n\
+      \xBFLa pavita? Como siempre: \xA1la mejor del mundo! Esta vez la ped\xED en escabeche.\r\n\
+      Saquen dos mesas, se\xF1ores propietarios. Dos mesas. Es todo lo que los separa de la perfecci\xF3n absoluta."
+    date: 10-10-2009
+    user: http://mi.guiaoleo.com/members/43673
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: |-
+      exelente  lugar , muy pintoresco con onda muy similar al bar de cao , buena atencion
+      la comida bien, las mesas un poco juntas 
+      pero es un lugar para ir aunque sea una vez a beber una cervecita en verano
+    date: 20-09-2009
+    user: http://mi.guiaoleo.com/members/39628
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: buena
+    text: "La comida es abundante pero de calidad un tanto mediocre. Lo que se destaca es el ambiente, el servicio, y la espectacular cerveza artesanal. Recomendado para ir con amigos a comer picadas. El lomo embuchado es muy rico tambi\xE9n."
+    date: 30-07-2009
+    user: http://mi.guiaoleo.com/members/64793
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Sanguchotes!!!... ricos y abundantes platos. Lindo lugar... le falta una barra pero el lugar es lindo.
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/9323
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Con unos amigos estamos haciendo un tour por Bodegones de Buenos Aires. Que buscamos? Comida rica, abundante, buen precio y ambiente estilo bodeg\xF3n.\r\n\
+      Este lugar cumple las 4 cosas."
+    date: 08-06-2009
+    user: http://mi.guiaoleo.com/members/64171
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy bueno el lugar. Te traslada a un Buenos Aires antiguo de barrio, del que nos contaban los abuelos.\r\n\
+      El s\xE1ndwich de pavita con anan\xE1 y palmitos, abundante. Pedimos adem\xE1s MEDIO bife de lomo a caballo y papas: muy buena porci\xF3n. Para seguir volviendo. El barrio (Boedo) tiene mucha vida de d\xEDa y de noche. Recomendable, sin dudas."
+    date: 18-05-2009
+    user: http://mi.guiaoleo.com/members/47086
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "El lugar me encanta, habia ido a comer picada y estuvo bien. Fui el viernes pasado y hac\xEDa mucho que no la pasaba tan mal en un Restaurant. Pedimos ri\xF1ones al verdeo y ravioles de pavita, que estaban en la pizarra como \"especiales\" y ambos platos eran incomibles. Sobre todo los ri\xF1ones, una verg\xFCenza. Tambien pedimos un bife de chorizo y era un chicle. Me desilusion\xF3 porque no son comidas muy dif\xEDciles. Una l\xE1stima."
+    date: 08-05-2009
+    user: http://mi.guiaoleo.com/members/62262
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "Es hermoso el lugar. La barra, las paredes y los muebles. En la espera hubo que comer todo el mani, palitos, pancitos, creo que ped\xED 2 aguas, hasta que llego el sandwich de pavita, que no estaba tan bueno como parec\xEDa. y que los vendedores ambulantes te saluden con un beso cuando le estas dando un mordizco al sandwich, no est\xE1 tan tan bueno."
+    date: 06-05-2009
+    user: http://mi.guiaoleo.com/members/46689
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Me encanta este lugar, para el mediod\xEDa y para la noche y tanto para comer afuera como adentro. La comida es riqu\xEDsima, del tipo \"pedimos de todo y picamos\", y el barrio est\xE1 buen\xEDsimo. Muy agradable. La atenci\xF3n es regular."
+    date: 30-04-2009
+    user: http://mi.guiaoleo.com/members/50563
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Excelente lugar no solo ofrece sandwich y picadas excelentes, si no que otros platos sencillos y parrilla. Buena atenci\xF3n y buen precio"
+    date: 06-04-2009
+    user: http://mi.guiaoleo.com/members/55342
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      excelente sandwicheria y muy buenas picadas, lindo lugar ideal para una cervecita y a dormir.
+      servicio por momentos algo descortes y descuidado, va demasiada gente.
+    date: 20-02-2009
+    user: http://mi.guiaoleo.com/members/57272
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Bar antiguo con mesas afuera, ideal para estas calidas noches. Excelentes los sandwiches: en variedad -recomiendo el escabeche de pavita- y tama\xF1o."
+    date: 03-02-2009
+    user: http://mi.guiaoleo.com/members/30882
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Comida casera y sencilla pero bien elaborada servida displicentemente por mozos algo \"aburridos\" de su tarea. lo que vale la pena, m\xE1s que la experiencia gastron\xF3mica es visitar el lugar, s\xEDmbolo de los bares de antes que resisten a las remodelaciones."
+    date: 31-01-2009
+    user: http://mi.guiaoleo.com/members/9725
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: |-
+      Realmente uno de los mejores lugares para comer pavisat, ya sea blanco comola espes
+      cialidad en escabeche
+    date: 31-01-2009
+    user: http://mi.guiaoleo.com/members/14907
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Un caf\xE9 para gozar. Picada excelente y comida abundante y rica. Precios acordes. No es para exquisitos sino para los que quieren comer bien sin tomar en cuenta el contexto."
+    date: 20-08-2008
+    user: http://mi.guiaoleo.com/members/11820
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: Hermoso bar. La verdad no fui a comer, por lo que debo otra visita. Pero comimos unos sandwiches muy buenos y nos atendieron rebien. Un lugar lleno de historia. Para volver, sin dudas
+    date: 05-08-2008
+    user: http://mi.guiaoleo.com/members/4124
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: Hermoso bar notable en el corazon de Boedo. Ideal para tomarse unas cervezas con una picadita en noches de verano. Muy agradable.
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/23548
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: Es un antiguo cafe del barrio de Boedo, donde se pueden comer buenas picadas en un lindo ambiente . Los precios estan bien, se puede comer tranquilo.
+    date: 02-08-2008
+    user: http://mi.guiaoleo.com/members/26161
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Hermoso lugar. No modificaron en nada al viejo y querido TRIANON. Las picadas son geniales (la que tienen ravioles fritos excelente). La tortilla es espectacular, como la hacia mi abuela. Y me encant\xF3 la cerveza oscura artesanal.\r\n\
+      El mozo no da abasto, y es secundado por una chica que se pasa de tonta (una vez nos atendi\xF3 y juro trajo todo al rev\xE9s). Me olvidava imperdible la minipicada como entrada trae un pan tipo campo caliente que es la locura."
+    date: 26-07-2008
+    user: http://mi.guiaoleo.com/members/48736
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "El lugar es muy simpl\xF3n, si bien es un tradicional caf\xE9 de Buenos Aires. Pero las porciones de comidas son abundantes y ricas. Tienen sandwiches de muchas variedades y los precios son m\xF3dicos. Para comer sin demasiadas pretenciones."
+    date: 19-07-2008
+    user: http://mi.guiaoleo.com/members/26251
+    ambiente_rank: malo/regular
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Una excelente opci\xF3n en el barrio de Boedo. Un lugar muy pintoresco que recuerda los viejos bares recomendado para aquellos que prefieren los jamones colgando antes que la deco minimalista. Los precios son acordes a la comida. Los sandwiches son buenisimos, 100% recomendables!!"
+    date: 18-05-2008
+    user: http://mi.guiaoleo.com/members/12897
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "no solo para almorzar o cenar, sino tambi\xE9n para desayunar los domingos ya que tiene mesas al sol y las medialunas son gordas -parecen hechas por Botero- y ricas!\r\n\
+      Los s\xE1bados est\xE1 m\xE1s concurrido y puede resultar inc\xF3modo afuera, pero dentro es muy pintoresco.  Deber\xEDan poner un mozo m\xE1s, el que est\xE1 se esmera pero no alcanza."
+    date: 11-05-2008
+    user: http://mi.guiaoleo.com/members/30882
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Margot es absolutamente tradicional, la comida (especialmente los sandwiches de pavo, que es lo que siempre pido) son extraordinarios, pero...\r\n\
+      Pero. S\xE1bado a las 2 de la tarde. Completamente lleno. Cuarenta minutos para que un mozo se digne atenderte. Te trae cerveza con uno de los vasos \xA1usado!. Las mesas amontonadas, te ponen atr\xE1s (como me pas\xF3 a m\xED) un discapacitado en silla de ruedas y fuiste. El tercer mozo (una camarera) entra a trabajar a las 3 de la tarde, 1 hora despu\xE9s de la hora pico. \xBFEl precio? Razonable por la calidad de  los alimento, pero todo lo dem\xE1s, flojo, flojito..."
+    date: 12-04-2008
+    user: http://mi.guiaoleo.com/members/43673
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: muy barato muy abundante muy rico una opcion grande como una casa
+    date: 15-03-2008
+    user: http://mi.guiaoleo.com/members/42212
+    ambiente_rank: excelente
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "La ambientacion es excelente,de casi 70 a\xF1os antes,muy bien conservado,sin objecion,es lerdo el servicio,de favor,mas al mediodia que estas trabajando,pero la pavita,el jamon,la variedad de panes,es excelente,no es un despacho de sandwich,es una excelente sandwicheria que le falta promocion,esta desaprovechada."
+    date: 07-03-2008
+    user: http://mi.guiaoleo.com/members/37798
+    ambiente_rank: muy bueno
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Uno de los bares m\xE1s t\xEDpicos y lindos de Boedo. El lugar transimite una esencia \xFAnica. Tiene una apl\xEDsima carta de sandwichs de todo tipo (especialidad en los de pavita)."
+    date: 03-02-2008
+    user: http://mi.guiaoleo.com/members/39231
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Es un t\xEDpico bar tradicional, el ambiente agradable y buena la atenci\xF3n.\r\n\
+      Lo m\xE1s lindo es disfrutar de lo a\xF1ejo del ambiente, tan representativo del barrio de Boedo."
+    date: 17-01-2008
+    user: http://mi.guiaoleo.com/members/38253
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "La comida es buena, no excelente pero buena, y a diferencia de otros usuarios, la atenci\xF3n me result\xF3 muy c\xE1lida. En mi opini\xF3n, es superior a muchos bares \"tradicionales\" de la ciudad en cuanto a precios, ambientaci\xF3n y conservaci\xF3n."
+    date: 16-12-2007
+    user: http://mi.guiaoleo.com/members/29088
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      Uno de los pocos e increibles bares tradicionales de Buenos Aires. Muy pintoresco, suele llenarse siempre. 
+      Solo vale la pena ir por el lugar en si. Los sandwiches y ravioles de pavita son lo mejor que tiene este Bar. Para terminar el strudel casero.
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/20589
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: buena
+    text: "El lugar es c\xE1lido y nos trae a la memoria los antiguos bares de la zona.\r\n\
+      Los platos son bastante buenos y la relacion precio-calidad es normal; el tema es que cobran el pan, que seria aceptable si fuese un pan especialmente bueno ,pero en este caso era pan calentado(no recien hecho)y las tostadas saborizadas le hacian honor a la antiguedad del lugar  ya que estaban hechas con bastante anticipacion y no estaban crocantes como debia ser. El mozo que nos atendio lo hizo con desgano.\xA8Es una pena que se precie de ser un clasico donde funcionaba El Trianon(de hecho hay una placa que lo recuerda) y muestre una atencion no acorde a ello. Una pena!"
+    date: 15-10-2007
+    user: http://mi.guiaoleo.com/members/28938
+    ambiente_rank: bueno
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy lindo lugar, dentro de todo econ\xF3mico y la atenci\xF3n es c\xE1lida."
+    date: 09-10-2007
+    user: http://mi.guiaoleo.com/members/33707
+    ambiente_rank: muy bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: "Hace 3 a\xF1os que vivo en San Cristobal y desde la primera vez que fui a Margot me hice habitu\xE9.\r\n\
+      Ir un s\xE1bado a almorzar tipo 3PM es un placer, el lugar es hermoso tranquilo.\r\n\
+      Hay que ir sabiendo que los mozos se hacen esperar (no desesperar). Comidas: tostados, sandwiches, lomitos y ravioles de pavita. Ideal para ir a leer o charlar con un amigo."
+    date: 24-09-2007
+    user: http://mi.guiaoleo.com/members/32767
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Muy buen lugar, calido. Conserva el aire que tuvo en a\xF1os anteriores.Es uno de los \"cafes notables \" de Buenos Aires.La comida es buena,abundante y la atencion es justa."
+    date: 30-07-2007
+    user: http://mi.guiaoleo.com/members/28425
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Es un lugar increible, en el que se respira Buenos Aires. "
+    date: 23-06-2007
+    user: http://mi.guiaoleo.com/members/25152
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Llegamos tipo 19hs. con mi hermana y mi cu\xF1ado. Pedimos una picada y cerveza tirada. El ambiente, bien de bodegon porte\xF1o. La calidad de los fiambres de la picada era excelente al igual que los quesos. Muy recomendable!!\r\n\
+      Me quede con ganas de probar la sidra tirada. "
+    date: 20-06-2007
+    user: http://mi.guiaoleo.com/members/24966
+    ambiente_rank: muy bueno
+- - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "El ambiente es excelente, un caf\xE9 bien de los de antes. La atenci\xF3n normal, mozos tambi\xE9n de los de antes que cumplen lo justo. El tiempo de espera tambi\xE9n cumple con lo esperable. La comida de primera. La tortilla de papa excelente e inmensa. La hamburguesa casera con huevo frito y panceta es inmejorable. Trae panceta como para un regimiento. No le escatiman en nada. El precio buen\xEDsimo, es raro comer tan bien por esa plata hoy en d\xEDa. Lo recomiendo a muerte para todos aquellos que no tengan problemas en alejarse de las zonas de moda.  "
+    date: 01-06-2007
+    user: http://mi.guiaoleo.com/members/22775
+    ambiente_rank: excelente
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Es un lugar ideal para ir con amigas, tomar una cerveza o una sidra tirada y comer una picada. No ir con ning\xFAn tipo de pretenciones, s\xF3lo a de disfrutar de un lugar con un ambiente bien porte\xF1o. "
+    date: 14-03-2007
+    user: http://mi.guiaoleo.com/members/4795
+    ambiente_rank: muy bueno
+  - servicio_rank: excelente
+    comida_rank: excelente
+    text: "Un lugar muy bonito, siempre con mesas y con muy buena atenci\xF3n.\r\n\
+      Las picadas son la especialidad, excelente queso y aceitunas muy frescas.\r\n\
+      Las pastas son incre\xEDbles, y a un precio excelente. Recomiendo los ravioles rellenos de pavita. "
+    date: 07-03-2007
+    user: http://mi.guiaoleo.com/members/11942
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un amigo me invit\xF3 y reamente fue una grata sorpresa. Aclaro que comimos una picada, no prob\xE9 otros platos de cocina. Todo lo que nos sirvieron estaba fresco y muy gustoso. El ambiente tranquilo, agradable y la atenci\xF3n buena hasta ah\xED. \r\n\
+      De hecho voy a volver porque me qued\xE9 sin probar la sidra tirada, as\xED como la cerveza, es muy recomendable. "
+    date: 24-02-2007
+    user: http://mi.guiaoleo.com/members/13284
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Un lugar \xFAnico, para disfrutar de todo: la comida, la ambientaci\xF3n, el barrio. Excepto para el desayuno, siempre es mejor ir acompa\xF1ado."
+    date: 10-02-2007
+    user: http://mi.guiaoleo.com/members/17939
+    ambiente_rank: excelente
+- - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Lugar bien antiguo de Boedo. Las mesas son como las de antes. Se puede comer desde un plato caliente cl\xE1sico hasta diferentes variedades de sandwiches. \r\n\
+      La comida est\xE1 bien por el lugar, pero no es nada deslumbrante. En el verano tiene mesas afuera donde se puede disfrutar de un chopp helado de sidra. La atenci\xF3n podr\xEDa mejorar."
+    date: 10-01-2007
+    user: http://mi.guiaoleo.com/members/5959
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Un bar. Mejor dicho: EL bar. Antes encontrabas equivalentes en todos los barrios. Ahora qued\xF3 este en Boedo, y alg\xFAn otro vaya a saber d\xF3nde...\r\n\
+      Si quer\xE9s comer, si quer\xE9s cafetear, si quer\xE9s escribir y mirar por la ventana, si quer\xE9s hacer vereda y birra con los amigos, da para todo eso. \xBFQu\xE9 m\xE1s quer\xE9s?\r\n\
+      En este marco, lo de tenerle paciencia a los mozos, lo del ruido ambiente de algunas horas, y cosas por el estilo, son s\xF3lo detalles que vienen en el combo.\r\n\
+      En s\xEDntesis: si viviera por la zona, ah\xED tendr\xEDa mi oficina."
+    date: 07-01-2007
+    user: http://mi.guiaoleo.com/members/6307
+    ambiente_rank: excelente
+  - servicio_rank: excelente
+    comida_rank: muy buena
+    text: "Un lugar \xEDntimo muy lindo para ir en pareja.\r\n\
+      Recomiendo las picadas."
+    date: 30-09-2006
+    user: http://mi.guiaoleo.com/members/8660
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El ambiente y el lugar es muy bueno. Las picadas son excelentes. Mucha calidad y buenos precios. Un poco lenta la atenci\xF3n. Es para disfrutar en ronda de amigos."
+    date: 16-09-2006
+    user: http://mi.guiaoleo.com/members/12131
+    ambiente_rank: excelente
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Muy bien ambientado y la comida muy abundante, un poco ruidoso ya que al ser chico el lugar, las mesas est\xE1n muy juntas. Igualmente muy bueno."
+    date: 27-07-2006
+    user: http://mi.guiaoleo.com/members/5749
+    ambiente_rank: muy bueno

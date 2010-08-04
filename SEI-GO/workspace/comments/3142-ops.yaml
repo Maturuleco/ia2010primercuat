@@ -1,0 +1,28 @@
+--- 
+- - servicio_rank: malo/regular
+    comida_rank: excelente
+    text: "Es un restaurante de barrio con excelente comida. Precios muy buenos. La atenci\xF3n de los mozos no es muy buena, parecen siempre enojados. \xA1Chicos, una sonrisa, por favor! Nortealbruna"
+    date: 15-09-2009
+    user: http://mi.guiaoleo.com/members/69443
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: |-
+      Siempre voy a este lugar si bien la atencion no es de diez esta bien pero las comida es riquisima no se compara con otro restaurante
+      lo super recomiendo
+    date: 11-07-2009
+    user: http://mi.guiaoleo.com/members/65459
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "La verdad, fui con un poco de recelo, sobretodo porque soy una gran fan\xE1tica de la comida peruana, y es dificil encontrar buenos lugares que respeten el gusto criollo. \r\n\
+      Puedo decir que Sabor Norte\xF1o no tiene la mejor decoraci\xF3n o ambiente, pero la comida parece traida de Per\xFA. Al menos los platos que prob\xE9."
+    date: 25-04-2009
+    user: http://mi.guiaoleo.com/members/61557
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Los condimentos y su elaboraci\xF3n, hace que el gustos de los platos criollos peruanos hacen que sean casi identico al original de las zonas del pacifico en Per\xFA."
+    date: 20-11-2007
+    user: http://mi.guiaoleo.com/members/35830
+    ambiente_rank: malo/regular

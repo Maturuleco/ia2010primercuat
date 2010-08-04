@@ -1,0 +1,38 @@
+--- 
+- - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Pedimos comida (delivery) y siempre la atenci\xF3n es excelente. SI hay demora nos avisan.\r\n\
+      La relaci\xF3n precio / comida es la correcta.\r\n\
+      La pizza es exquisita (te envian fain\xE1 y pan de pizza de regalo).\r\n\
+      Las milanesas de pollo y  el pur\xE9 muy ricos.\r\n\
+      Consejo: preguntar por el plato del d\xEDa. Sale 17 pesos e incluye postre."
+    date: 12-07-2008
+    user: http://mi.guiaoleo.com/members/18922
+    ambiente_rank: bueno
+  - servicio_rank: bueno
+    comida_rank: buena
+    text: |-
+      clasico con el daro, vamos siempre que nos reunimos, conviene mas que un delivery!
+      restaurant muy economico, con un menu completisimo a un precio mas que barato, servicio, comida y ambiente normales. es muy buena opcion cuando se encuentra todo cerrado y se quiere ir tarde, comer minutas, unas cervecitas, revistas a disposicion y para todo tipo de reuniones, mas para grupos. ahh, las pastas no son muy buenas, las empanadas excelentes y el flan es casero.
+    date: 16-06-2008
+    user: http://mi.guiaoleo.com/members/15773
+    ambiente_rank: bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "muy buen srvicio, la comida estaba bien preparada y abundante\r\n\
+      excelente caf\xE9 irlandes"
+    date: 10-02-2008
+    user: http://mi.guiaoleo.com/members/15230
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: "Uno entra al restaurante y el olor a grasa se impregna por todas partes. Mi acompa\xF1ante pregunt\xF3, antes de pedir, si la empanada de verdura era con salsa blanca: la moza indic\xF3 que s\xED. Hubo que cambiarla porque era s\xF3lo de verdura. Tardaron m\xE1s de quince minutos en traernos la empanada y una porci\xF3n de fain\xE1 (con gusto a nada). Y otros diez para traernos una pizza chica de mozzarella (el local estaba casi vac\xEDo). De repente, escuchamos los gritos de un comensal que se quejaba de los nervios que ten\xEDa no se qu\xE9 carne que estaba comiendo y otra gritaba por el peque\xF1o muslo que hab\xEDa recibido. Un verdadero desastre. "
+    date: 30-08-2007
+    user: http://mi.guiaoleo.com/members/15068
+    ambiente_rank: malo/regular
+  - servicio_rank: bueno
+    comida_rank: excelente
+    text: "El lugar no es nada extraordinario, pero las pastas que sirven son excelentes. Muy buena relaci\xF3n calidad/precio."
+    date: 03-12-2006
+    user: http://mi.guiaoleo.com/members/13706
+    ambiente_rank: muy bueno
