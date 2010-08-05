@@ -78,6 +78,7 @@ public class Main {
 		BufferedWriter out = new BufferedWriter(fstream);
 		
 		HashMap<String, Integer> dic = ParserComments.getDic();
+		HashMap<String, List<String>> stemmerDic = ParserComments.getStemmerDic();
 		out.write("word|count");
 		out.newLine();
 		for (Iterator it = dic.entrySet().iterator(); it.hasNext();) {
@@ -85,6 +86,15 @@ public class Main {
 			out.write(key.getKey() + "|" + key.getValue());
 			out.newLine();
 		}
+		out.write("STEMMER");
+		out.write("word|count");
+		out.newLine();
+		for (Iterator it = stemmerDic.entrySet().iterator(); it.hasNext();) {
+			Entry key = (Entry) it.next();
+			out.write(key.getKey() + "|" + key.getValue());
+			out.newLine();
+		}
+		
 		out.close();
 		System.out.println("END Escribiendo diccionario.." );
 	}

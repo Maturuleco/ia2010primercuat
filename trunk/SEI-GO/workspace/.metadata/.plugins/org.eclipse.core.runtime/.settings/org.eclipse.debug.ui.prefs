@@ -1,6 +1,6 @@
-#Thu Aug 05 16:28:28 GFT 2010
+#Thu Aug 05 17:34:29 GFT 2010
 org.eclipse.debug.ui.switch_perspective_on_suspend=always
-pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="219" org.eclipse.debug.ui.SASH_VIEW_PART\="765"/>
+pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="222" org.eclipse.debug.ui.SASH_VIEW_PART\="777"/>
 org.eclipse.debug.uiinspectPopupSashWeights=643\:356
 eclipse.preferences.version=1
 preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
