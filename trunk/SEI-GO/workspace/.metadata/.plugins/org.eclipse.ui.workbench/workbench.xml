@@ -25,7 +25,7 @@
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1280926227669" focus="true" label="Workspace - Debug">
+<page aggregateWorkingSetId="Aggregate for window 1280926227669" focus="true" label="Workspace - Java">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
@@ -47,15 +47,11 @@
 </editorArea>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/Main.java" title="Main.java" tooltip="SEI-GO/src/Main.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/Main.java"/>
-<editorState selectionHPixel="0" selectionLength="0" selectionOffset="2019"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ParserComments.java" partName="ParserComments.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/ParserComments.java" title="ParserComments.java" tooltip="SEI-GO/src/ParserComments.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/ParserComments.java"/>
-<editorState selectionHPixel="0" selectionLength="0" selectionOffset="3605"/>
+<editorState selectionHPixel="0" selectionLength="0" selectionOffset="1616"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RuleManager.java" partName="RuleManager.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/RuleManager.java" title="RuleManager.java" tooltip="SEI-GO/src/RuleManager.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/RuleManager.java"/>
-<editorState selectionHPixel="0" selectionLength="0" selectionOffset="1392"/>
+<editorState selectionHPixel="0" selectionLength="0" selectionOffset="1365"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Rule.java" partName="Rule.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/Rule.java" title="Rule.java" tooltip="SEI-GO/src/Rule.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/Rule.java"/>
@@ -63,7 +59,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EntityWordManager.java" partName="EntityWordManager.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/EntityWordManager.java" title="EntityWordManager.java" tooltip="SEI-GO/src/EntityWordManager.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/EntityWordManager.java"/>
-<editorState selectionHPixel="0" selectionLength="0" selectionOffset="483"/>
+<editorState selectionHPixel="0" selectionLength="0" selectionOffset="940"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WordManager.java" partName="WordManager.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/WordManager.java" title="WordManager.java" tooltip="SEI-GO/src/WordManager.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/WordManager.java"/>
@@ -71,7 +67,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmptyWordManager.java" partName="EmptyWordManager.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/EmptyWordManager.java" title="EmptyWordManager.java" tooltip="SEI-GO/src/EmptyWordManager.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/EmptyWordManager.java"/>
-<editorState selectionHPixel="0" selectionLength="0" selectionOffset="1125"/>
+<editorState selectionHPixel="0" selectionLength="0" selectionOffset="594"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdjetiveWordManager.java" partName="AdjetiveWordManager.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/AdjetiveWordManager.java" title="AdjetiveWordManager.java" tooltip="SEI-GO/src/AdjetiveWordManager.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/AdjetiveWordManager.java"/>
@@ -81,16 +77,19 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/WordManagerFactory.java"/>
 <editorState selectionHPixel="0" selectionLength="0" selectionOffset="244"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Comment.java" partName="Comment.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/Comment.java" title="Comment.java" tooltip="SEI-GO/src/Comment.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Comment.java" partName="Comment.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/Comment.java" title="Comment.java" tooltip="SEI-GO/src/Comment.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/Comment.java"/>
-<editorState selectionHPixel="0" selectionLength="0" selectionOffset="2006"/>
+<editorState selectionHPixel="0" selectionLength="0" selectionOffset="1972"/>
+</editor>
+<editor focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StemmerManager.java" partName="StemmerManager.java" path="C:/Documents and Settings/csanchez/Desktop/Dtodo/mio/ia/svnIA/SEI-GO/workspace/SEI-GO/src/StemmerManager.java" title="StemmerManager.java" tooltip="SEI-GO/src/StemmerManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SEI-GO/src/StemmerManager.java"/>
+<editorState selectionHPixel="0" selectionLength="0" selectionOffset="0"/>
 </editor>
 </editors>
 <views>
 <view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy"/>
 <view id="org.eclipse.search.ui.views.SearchView" partName="Search">
 <viewState isPinned="false">
-<view IMemento.internal.id="org.eclipse.jdt.ui.JavaSearchResultPage" org.eclipse.jdt.search.resultpage.grouping="3" org.eclipse.jdt.search.resultpage.limit="1000" org.eclipse.jdt.search.resultpage.limit_enabled="TRUE" org.eclipse.jdt.search.resultpage.sorting="1" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2"/>
 <view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
 </viewState>
 </view>
@@ -152,7 +151,7 @@
 <view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.debug.ui.DebugPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="com.swtdesigner.actionset"/>
@@ -422,49 +421,14 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/RuleManager.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/Main.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/Comment.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/EntityWordManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/EmptyWordManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/Rule.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/RuleManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/StemmerManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/Main.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SEI-GO/src/ParserComments.java"/>
 </editors>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
-<item historyLabel="RuleManager.java" index="0">
-<position/>
-</item>
 <item historyLabel="RuleManager.java" index="0">
 <position/>
 </item>
@@ -570,8 +534,50 @@
 <item historyLabel="Main.java" index="1">
 <position info="not_deleted" x="2019" y="0"/>
 </item>
-<item active="true" historyLabel="Comment.java" index="2">
+<item historyLabel="Comment.java" index="2">
 <position info="not_deleted" x="1687" y="0"/>
+</item>
+<item historyLabel="EntityWordManager.java" index="3">
+<position info="not_deleted" x="483" y="0"/>
+</item>
+<item historyLabel="EmptyWordManager.java" index="4">
+<position info="not_deleted" x="1125" y="0"/>
+</item>
+<item historyLabel="Rule.java" index="5">
+<position info="not_deleted" x="850" y="0"/>
+</item>
+<item historyLabel="RuleManager.java" index="6">
+<position info="not_deleted" x="1365" y="0"/>
+</item>
+<item historyLabel="StemmerManager.java" index="7">
+<position/>
+</item>
+<item historyLabel="Rule.java" index="5">
+<position info="not_deleted" x="850" y="0"/>
+</item>
+<item historyLabel="Main.java" index="8">
+<position info="not_deleted" x="2019" y="0"/>
+</item>
+<item historyLabel="ParserComments.java" index="9">
+<position info="not_deleted" x="3605" y="0"/>
+</item>
+<item historyLabel="Main.java" index="8">
+<position info="not_deleted" x="2552" y="0"/>
+</item>
+<item historyLabel="Comment.java" index="2">
+<position info="not_deleted" x="1972" y="0"/>
+</item>
+<item historyLabel="Main.java" index="8">
+<position info="not_deleted" x="1616" y="0"/>
+</item>
+<item historyLabel="Rule.java" index="5">
+<position info="not_deleted" x="850" y="0"/>
+</item>
+<item historyLabel="RuleManager.java" index="6">
+<position info="not_deleted" x="1365" y="0"/>
+</item>
+<item active="true" historyLabel="StemmerManager.java" index="7">
+<position/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -579,12 +585,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.ToolsFolderView"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -592,11 +592,13 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.ConsoleFolderView"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StemmerManager.java" tooltip="SEI-GO/src/StemmerManager.java">
+<persistable path="/SEI-GO/src/StemmerManager.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Comment.java" tooltip="SEI-GO/src/Comment.java">
 <persistable path="/SEI-GO/src/Comment.java"/>
 </file>
@@ -614,9 +616,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EntityWordManager.java" tooltip="SEI-GO/src/EntityWordManager.java">
 <persistable path="/SEI-GO/src/EntityWordManager.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StemmerManager.java" tooltip="SEI-GO/src/StemmerManager.java">
-<persistable path="/SEI-GO/src/StemmerManager.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Manager.java" tooltip="SEI-GO/src/Manager.java">
 <persistable path="/SEI-GO/src/Manager.java"/>
