@@ -1,0 +1,90 @@
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.FilenameFilter;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map.Entry;
+
+public class Main {
+
+	/**
+	 * SEI: obtinene hechos de los documentos, o sea, extrae y organiza la informacio
+	 * relevante e ignora la irrelevante. 
+	 * 
+	 */
+	public static void main(String[] args) throws Exception {
+		
+		System.out.println(" ~ INICIO Procesamiento de comentarios ~" );
+		
+		String sourcePath = "..\\";
+		File commentfolder = new File(sourcePath + "comments\\");
+		File[] commentFiles = commentfolder.listFiles(new FileListFilter("yaml"));
+		File dataSetResult = new File(sourcePath + "/comments.csv"); // para weka, ahora solo es el diccionario.. testing
+		
+		if (commentFiles == null) {
+			throw new Exception("No se pudo encontrar el path: " + sourcePath);
+		}
+		
+		
+		try {
+			
+			List<Comment> restoComments = new LinkedList<Comment>();
+			
+			for (int j = 0; j < commentFiles.length; j++) {
+				File restoComment = commentFiles[j];
+				System.out.print("file "+ j +": " + restoComment.getName() +"\n");
+				
+	    		restoComments.addAll(ParserComments.generateComment(restoComment));
+			}
+			
+			
+			writeDic(dataSetResult);
+			
+			
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		System.out.println(" ~ FIN Procesamiento de comentarios ~" );
+	}
+	
+
+	private static void writeDic(File dataSetResult) throws IOException {
+		System.out.println("INIT Escribiendo diccionario.." );
+		FileWriter fstream = new FileWriter(dataSetResult);
+		BufferedWriter out = new BufferedWriter(fstream);
+		
+		HashMap<String, Integer> dic = ParserComments.getDic();
+		out.write("word|count");
+		out.newLine();
+		for (Iterator it = dic.entrySet().iterator(); it.hasNext();) {
+			Entry key = (Entry) it.next();
+			out.write(key.getKey() + "|" + key.getValue());
+			out.newLine();
+		}
+		out.close();
+		System.out.println("END Escribiendo diccionario.." );
+	}
+
+
+	static class FileListFilter implements FilenameFilter {
+		private String extension; 
+
+		public FileListFilter(String extension) {
+		  this.extension = extension;
+		}
+		
+		public boolean accept(File directory, String filename) {
+		  boolean fileOK = true;
+		  if (extension != null) {
+		    fileOK &= filename.endsWith('.' + extension);
+		  }
+		  return fileOK;
+		}
+	}
+
+}

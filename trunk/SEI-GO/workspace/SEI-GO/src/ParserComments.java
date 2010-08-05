@@ -59,7 +59,7 @@ public class ParserComments {
 			words = getTextWords(text);
 			
 			//TODO comentar para no crear los objetos y generar solo el diccionario
-			//result.add(new Comment(resto,serviceRank,foodRank,environmentRank,date,user,text, words));
+			result.add(new Comment(resto,serviceRank,foodRank,environmentRank,date,user,text, words));
 		}
 	    
 	    return result;
@@ -83,10 +83,11 @@ public class ParserComments {
 		HashMap<String, Integer> map = new HashMap<String, Integer>();
 		String processText = cleanText(text);
 		String[] words = processText.split(" ");
+		
 		for (int i = 0; i < words.length; i++) {
 			String word = words[i].trim().toLowerCase();
 			
-			if( !"".equals(word) && !EmptyWordManager.isEmptyWord(word) ){
+			if( !"".equals(word) && !EmptyWordManager.getInstance().containWord(word) ){
 				Integer value = new Integer(1);
 				if( map.containsKey(word) ){
 					value = map.get(word) + 1;
@@ -108,11 +109,11 @@ public class ParserComments {
 		dic.put(word, value);
 	}
 
-	private static String cleanText(String text) {
-		String processText = text.replaceAll("\\,", " ");
-		processText = processText.replaceAll("\\.", " ");
-		processText = processText.replaceAll("\\;", " ");
-		processText = processText.replaceAll("\\:", " ");
+	public static String cleanText(String text) {
+		String processText = text.replaceAll("\\,", " ,");
+		processText = processText.replaceAll("\\.", " .");
+		processText = processText.replaceAll("\\;", " ;");
+		processText = processText.replaceAll("\\:", " :");
 		processText = processText.replaceAll("\\¿", " ");
 		processText = processText.replaceAll("\\?", " ");
 		processText = processText.replaceAll("\\(", " ");

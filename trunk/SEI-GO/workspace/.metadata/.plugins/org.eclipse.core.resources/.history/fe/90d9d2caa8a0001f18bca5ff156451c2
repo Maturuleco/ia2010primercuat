@@ -1,0 +1,11 @@
+import java.util.LinkedList;
+import java.util.List;
+
+
+public class Rule {
+
+	private List<String> estructure = new LinkedList<String>();
+	
+	
+	
+}

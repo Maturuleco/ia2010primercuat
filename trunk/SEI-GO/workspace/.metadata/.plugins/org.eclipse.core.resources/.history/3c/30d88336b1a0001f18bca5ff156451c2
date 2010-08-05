@@ -1,0 +1,21 @@
+
+public class WordManagerFactory {
+
+	private static String KEY_NAME_AD = "ADJETIVE";
+	private static String KEY_NAME_EM = "EMPTY";
+	private static String KEY_NAME_EN = "ENTITY";
+	
+	public static WordManager getWordManager(String name){
+		
+		if(KEY_NAME_AD.equals(name)){
+			return AdjetiveWordManager.getInstance();
+		}else if(KEY_NAME_EM.equals(name)){
+			return EmptyWordManager.getInstance();
+		}else if(KEY_NAME_EN.equals(name)){
+			return EntityWordManager.getInstance();
+		}
+		
+		return null;
+	}
+	
+}

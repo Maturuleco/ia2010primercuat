@@ -1,9 +1,13 @@
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
 
 
 public class Comment {
 
+	private static SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy");
+	
 	private String resto;
 	private String serviceRank;
 	private String foodRank;
@@ -80,7 +84,10 @@ public class Comment {
 
 	@Override
 	public String toString() {
-		String comment = "<"+ serviceRank+ ", "+ foodRank+", "+environmentRank+", "+date.toString()+">";
+		String comment = "";
+		comment = "<"+resto + ", service: "+ serviceRank+ ", food: "+ foodRank+", enviroment: "+environmentRank+", date: "+formatter.format(date)+">\n";
+		comment += "Texto orig: " + text;
+		
 		return comment;
 	}
 	

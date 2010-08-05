@@ -1,0 +1,26 @@
+import java.util.LinkedList;
+import java.util.List;
+
+
+public class Rule {
+
+	private List<String> estructure = new LinkedList<String>();
+
+	public Rule(String[] values) {
+		super();
+		for (int i = 0; i < values.length; i++) {
+			estructure.add(values[i]);
+		}
+	}
+
+	public List<String> getEstructure() {
+		return estructure;
+	}
+
+	public void setEstructure(List<String> estructure) {
+		this.estructure = estructure;
+	}
+	
+	
+	
+}

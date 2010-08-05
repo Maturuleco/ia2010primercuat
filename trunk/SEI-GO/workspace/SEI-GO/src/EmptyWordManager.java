@@ -5,15 +5,17 @@ import java.util.LinkedList;
 import java.util.List;
 
 
-public class EmptyWordManager {
+public class EmptyWordManager implements WordManager{
 
-	private static List<String> words = new LinkedList<String>();
 	
+	private static String KEY_NAME = "EMPTY";
+	private static List<String> words = new LinkedList<String>();
+	private static EmptyWordManager instance;
 	/**
 	 * Pueden ser articulos, preposiciones etc. 
 	 */
-	public EmptyWordManager(String path) {
-		File source = new File(path + "emptyWords.txt");
+	public EmptyWordManager() {
+		File source = new File("..\\emptyWords.txt");
 		
 		try {
 			BufferedReader buffer = new BufferedReader( new FileReader( source ) );
@@ -25,13 +27,24 @@ public class EmptyWordManager {
 				}
 			}
 		} catch (Exception e) {
-			System.out.println("No se pudo cargar las palabras vacias. " + e.getMessage());
+			System.out.println("No se pudo cargar las palabras entidades. " + e.getMessage());
 			e.printStackTrace();
 		}
 	}
 	
-	public static Boolean isEmptyWord(String word){
+	public static EmptyWordManager getInstance(){
+		if(instance == null){
+			instance = new EmptyWordManager();
+		}
+		return instance;
+	}
+	
+	public Boolean containWord(String word){
 		return words.contains(word.toLowerCase());
+	}
+	
+	public String getName(){
+		return KEY_NAME;
 	}
 	
 }

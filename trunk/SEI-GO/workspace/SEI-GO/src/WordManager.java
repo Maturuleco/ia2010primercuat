@@ -1,0 +1,7 @@
+
+public interface WordManager {
+
+	public String getName();
+	public Boolean containWord(String word);
+	
+}

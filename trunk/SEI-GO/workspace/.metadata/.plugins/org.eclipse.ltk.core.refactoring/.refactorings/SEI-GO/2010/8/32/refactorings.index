@@ -7,3 +7,9 @@
 1280933530738	Copy compilation unit
 1280933662184	Rename local variable 'path'
 1280934100292	Extract method 'cleanText'
+1281021692950	Copy compilation unit
+1281022779836	Copy compilation unit
+1281022807180	Rename field 'words'
+1281022862352	Rename method 'isEmptyWord'
+1281023577466	Delete element
+1281026276687	Rename method 'isEntityWord'
