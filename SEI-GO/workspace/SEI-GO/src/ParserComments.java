@@ -7,11 +7,14 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 
+import org.tartarus.snowball.SnowballStemmer;
+
 
 public class ParserComments {
 	
 	private static SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy");
 	private static HashMap<String, Integer> dic = new HashMap<String, Integer>();
+	private static HashMap<String, List<String>> stemmerDic = new HashMap<String, List<String>>();
     
 	public static List<Comment> generateComment(File restoComment) throws Exception{
 		
@@ -95,9 +98,9 @@ public class ParserComments {
 				
 				map.put(word, value);
 				addOrModifyWordToDictionary(word);
+				addOrModifyWordToStemmerDictionary(word);
 			}
 		}
-		// TODO pasar el lematizador (StemmerManager), para obtener la raiz de las palabras
 		return map;
 	}
 
@@ -107,6 +110,34 @@ public class ParserComments {
 			value = dic.get(word) + 1;
 		}
 		dic.put(word, value);
+	}
+	
+	private static void addOrModifyWordToStemmerDictionary(String word) {
+		try {
+			Class stemClass = Class.forName("org.tartarus.snowball.ext.spanishStemmer");
+		
+			SnowballStemmer stemmer = (SnowballStemmer) stemClass.newInstance();
+			
+			List<String> value = new LinkedList<String>();
+			value.add(word);
+			stemmer.setCurrent(word);
+			stemmer.stem();
+			String stemmerWord = stemmer.getCurrent();
+			
+			if( stemmerDic.containsKey(word) ){
+				if( word != null && ((List<String>)stemmerDic.get(stemmerWord)) != null && !((List<String>)stemmerDic.get(stemmerWord)).contains(word)) 
+					((List<String>)stemmerDic.get(stemmerWord)).add(word);
+				else if( word == null || ((List<String>)stemmerDic.get(stemmerWord)) == null ) {
+					value.add(word);
+				}else{
+					value = (List<String>)stemmerDic.get(stemmerWord);
+				}
+			}
+			stemmerDic.put(stemmerWord, value);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 	public static String cleanText(String text) {
@@ -124,6 +155,10 @@ public class ParserComments {
 
 	public static HashMap<String, Integer> getDic() {
 		return dic;
+	}
+	
+	public static HashMap<String, List<String>> getStemmerDic() {
+		return stemmerDic;
 	}
 	
 }

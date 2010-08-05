@@ -1377,3 +1377,39 @@ org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+!SESSION 2010-08-05 17:20:58.155 -----------------------------------------------
+eclipse.buildId=M20071023-1652
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -Xms512M -Xmx512M
+Command-line arguments:  -os win32 -ws win32 -arch x86 -Xms512M -Xmx512M
+
+!ENTRY org.eclipse.jface 2 0 2010-08-05 17:21:07.936
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2010-08-05 17:21:07.936
+!MESSAGE A conflict occurred for F12:
+Binding(F12,
+	ParameterizedCommand(Command(org.eclipse.ui.window.activateEditor,Activate Editor,
+		Activate the editor,
+		Category(org.eclipse.ui.category.window,Window,null,true),
+		org.eclipse.ui.internal.ActivateEditorHandler@a6fed5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F12,
+	ParameterizedCommand(Command(com.instantiations.designer.core.commands.switch,Switch between Source/Design Views,
+		Switch between the Source and Design views.,
+		Category(com.instantiations.designer.core.actions.category,WindowBuilder Pro,WindowBuilder Pro actions,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(F12,
+	ParameterizedCommand(Command(com.swtdesigner.commands.switch,Switch between source and designer,
+		Switch between source and designer,
+		Category(com.swtdesigner.actions.category,SWT Designer,SWT Designer actions,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
