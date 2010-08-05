@@ -7,12 +7,17 @@
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="com.sun.net.ssl.internal.www.protocol.https.Handler"/>
 <fullyQualifiedTypeName name="Comment"/>
-<fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="com.sun.xml.internal.fastinfoset.algorithm.BuiltInEncodingAlgorithm.WordListener"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="EmptyWordManager"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="ParserComments"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.lang.Readable"/>
+<fullyQualifiedTypeName name="RuleManager"/>
+<fullyQualifiedTypeName name="WordManager"/>
+<fullyQualifiedTypeName name="AdjetiveWordManager"/>
+<fullyQualifiedTypeName name="EmptyWordManager"/>
+<fullyQualifiedTypeName name="EntityWordManager"/>
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="ParserComments"/>
 </qualifiedTypeNameHistroy>
