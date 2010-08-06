@@ -7,8 +7,6 @@ import java.util.List;
 
 public class AdjetiveWordManager implements WordManager{
 
-	private static String KEY_NAME = "ADJETIVE";
-	
 	private static List<String> positiveWords = new LinkedList<String>();
 	private static List<String> negativeWords = new LinkedList<String>();
 	private static AdjetiveWordManager instance;
@@ -17,7 +15,7 @@ public class AdjetiveWordManager implements WordManager{
 	 * Pueden ser adjetivos positivos o negativos. 
 	 */
 	public AdjetiveWordManager() {
-		File source = new File("..\\positiveWords.txt");
+		File source = new File("../positiveWords.txt");
 		
 		try {
 			BufferedReader buffer = new BufferedReader( new FileReader( source ) );
@@ -29,7 +27,7 @@ public class AdjetiveWordManager implements WordManager{
 				}
 			}
 			
-			source = new File("..\\negativeWords.txt");
+			source = new File("../negativeWords.txt");
 			buffer = new BufferedReader( new FileReader( source ) );
 			while ( (line = buffer.readLine())!=null) {
 				String[] sourceWords = line.split(";");
@@ -56,6 +54,6 @@ public class AdjetiveWordManager implements WordManager{
 	}
 	
 	public String getName(){
-		return KEY_NAME;
+		return Constant.KEY_NAME_AD;
 	}
 }
