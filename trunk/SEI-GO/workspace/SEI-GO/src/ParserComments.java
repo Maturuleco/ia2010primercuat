@@ -143,6 +143,7 @@ public class ParserComments {
 		dic.put(word, value);
 	}
 	
+	@SuppressWarnings("unchecked")
 	private static String addOrModifyWordToStemmerDictionary(String word) {
 		String stemmerWord = "";
 		try {
