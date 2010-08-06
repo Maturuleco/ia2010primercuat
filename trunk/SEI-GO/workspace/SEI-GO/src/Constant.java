@@ -6,5 +6,6 @@ public class Constant {
 	public static String KEY_NAME_VE = "VERB";
 	public static String KEY_NAME_AR = "ART";
 	public static String KEY_NAME_RU = "RULE";
+	public static String KEY_NAME_ST = "STATIC";
 	
 }

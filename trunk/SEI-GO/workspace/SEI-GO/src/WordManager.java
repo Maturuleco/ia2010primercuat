@@ -38,6 +38,9 @@ public abstract class WordManager {
 		return Boolean.TRUE;
 	}
 	
+	public void setName(String name){
+		
+	}
 	
 	
 }
