@@ -12,10 +12,6 @@ public abstract class WordManager {
 	public abstract String getPath();
 	public abstract String getName();
 	
-	public Boolean containWord(String word){
-		return words.contains(word.toLowerCase());
-	}
-	
 	protected void loadWords(){
 		File source = new File(getPath());
 		
@@ -32,6 +28,14 @@ public abstract class WordManager {
 			System.out.println("No se pudo cargar las palabras. " + e.getMessage());
 			e.printStackTrace();
 		}
+	}
+	
+	public Boolean containWord(String word){
+		return words.contains(word.toLowerCase());
+	}
+	
+	public Boolean getAspect(String stemmerWord) {
+		return Boolean.TRUE;
 	}
 	
 	

@@ -62,8 +62,9 @@ public class Main {
 		for (Iterator<Comment> it = restoComments.iterator(); it.hasNext();) {
 			Comment comment = it.next();
 			String value = RuleManager.getInstance().getResultRule(comment.getText());
+			comment.setAspect(RuleManager.getAspect(value));
 			if( value != null && !"".equals(value) ){
-				System.out.print("comment"+comment.toString()+ "\n");
+				System.out.print("comment: "+comment.toString()+ "\n");
 				System.out.print("	result: \n" + value + "\n\n");
 			}					                
 			

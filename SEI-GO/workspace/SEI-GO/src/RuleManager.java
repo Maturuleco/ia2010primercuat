@@ -90,7 +90,6 @@ public class RuleManager {
 					while(!finish && i < words.length){
 						word = words[i];
 						stemmerWord = getStemmerWord(word);
-						
 						if( wmanager.containWord(stemmerWord) ){
 							result += " " + word;
 							i++;
@@ -122,9 +121,13 @@ public class RuleManager {
 		if( !"".equals(result) ){
 			result+="-";
 		}
-			
 		
 		return result;
+	}
+
+	public static Boolean getAspect(String text) {
+		WordManager wmanager = WordManagerFactory.getWordManager(Constant.KEY_NAME_AD);
+		return wmanager.getAspect(text);
 	}
 
 	@SuppressWarnings("unchecked")
@@ -146,6 +149,5 @@ public class RuleManager {
 	public static String getName(){
 		return Constant.KEY_NAME_RU;
 	}
-	
 	
 }

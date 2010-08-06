@@ -57,4 +57,24 @@ public class AdjetiveWordManager extends WordManager{
 	public String getPath(){
 		return "../positiveWords.txt";
 	}
+	
+	public Boolean getAspect(String text) {
+		
+		int positive = 0;
+		int negative = 0;
+		
+		String[] words = text.split(" ");
+		for (int i = 0; i < words.length; i++) {
+			String word = words[i];
+			if(containWord(word.toLowerCase())){
+				if(negativeWords.contains(word.toLowerCase())){
+					negative++;
+				}else{
+					positive++;
+				}
+			}
+		}
+		
+		return positive >= negative;
+	}
 }
