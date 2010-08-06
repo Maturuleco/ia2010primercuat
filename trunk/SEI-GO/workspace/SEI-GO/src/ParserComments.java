@@ -99,8 +99,8 @@ public class ParserComments {
 				if( map.containsKey(word) ){
 					value = map.get(word) + 1;
 				}
-				
-				map.put(word, value);
+				// TODO como aun esto no se usa lo comento...
+				//map.put(word, value);
 				addOrModifyWordToDictionary(addOrModifyWordToStemmerDictionary(word));
 				
 			}
