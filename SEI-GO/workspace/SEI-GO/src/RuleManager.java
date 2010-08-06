@@ -46,8 +46,8 @@ public class RuleManager {
 		String[] words = ParserComments.cleanText(text).split(" ");
 		
 		String result = "";
-		for (Iterator it = rules.iterator(); it.hasNext();) {
-			Rule rule = (Rule) it.next();
+		for (Iterator<Rule> it = rules.iterator(); it.hasNext();) {
+			Rule rule = it.next();
 			String ruleResult = evaluateRule(rule, words);
 			if( ruleResult != null && !"".equals(ruleResult)){
 				result += "               | " + rule.getName() +" "+  ruleResult + "\n";
@@ -70,74 +70,77 @@ public class RuleManager {
 
 	private static String evaluateRule(Rule rule, String[] words, int from) {
 		String result = "";
-		try {
-			Class stemClass = Class.forName("org.tartarus.snowball.ext.spanishStemmer");
-			SnowballStemmer stemmer = (SnowballStemmer) stemClass.newInstance();
-		
-			int indexRule = 0;
+		int indexRule = 0;
 			
-			for (int i = from; i < words.length; i++) {
-				String word = words[i];
-				stemmer.setCurrent(word);
-				stemmer.stem();
-				String stemmerWord = stemmer.getCurrent(); 
-				if( !"".equals(word) ){
+		for (int i = from; i < words.length; i++) {
+			String word = words[i];
+			String stemmerWord = getStemmerWord(word); 
+			if( !"".equals(word) ){
+					
+				if( indexRule == rule.getEstructure().size() ){
+					break;
+				}
+				String rulePart = rule.getEstructure().get(indexRule);
+				WordManager wmanager = WordManagerFactory.getWordManager(rulePart);
+				if( rulePart.contains("+") || rulePart.contains("*") ){
+					
+					// se pueden tner mas de una repeticion de esta parte en el texto
+					boolean finish = false;
+					int count = 0; 
+					while(!finish && i < words.length){
+						word = words[i];
+						stemmerWord = getStemmerWord(word);
 						
-					if( indexRule == rule.getEstructure().size() ){
-						break;
-					}
-					String rulePart = rule.getEstructure().get(indexRule);
-					WordManager wmanager = WordManagerFactory.getWordManager(rulePart);
-					if( rulePart.contains("+") || rulePart.contains("*") ){
-						
-						// se pueden tner mas de una repeticion de esta parte en el texto
-						boolean finish = false;
-						int count = 0; 
-						while(!finish && i < words.length){
-							word = words[i];
-							stemmer.setCurrent(word);
-							stemmer.stem();
-							stemmerWord = stemmer.getCurrent(); 
-							
-							if( wmanager.containWord(stemmerWord) ){
-								result += " " + word;
-								i++;
-								count++;
-							}else {
-								finish = true;
-								i--;
-							}
-							
-						}
-						if(  rulePart.contains("+") && count == 0 ){
-							result = ""; // inicio nuevamente la regla
-							break;
-						}
-					}else{
-						// es una parte simple
 						if( wmanager.containWord(stemmerWord) ){
 							result += " " + word;
+							i++;
+							count++;
 						}else {
-							result = ""; // inicio nuevamente la regla
-							break;
+							finish = true;
+							i--;
 						}
-						
 					}
-					indexRule++;
+					if(  rulePart.contains("+") && count == 0 ){
+						result = ""; // inicio nuevamente la regla
+						break;
+					}
+				}else{
+					// es una parte simple
+					if( wmanager.containWord(stemmerWord) ){
+						result += " " + word;
+					}else {
+						result = ""; // inicio nuevamente la regla
+						break;
+					}
 				}
+				indexRule++;
 			}
-			if(indexRule < rule.getEstructure().size())
-				result = "";
+		}
+		if(indexRule < rule.getEstructure().size())
+			result = "";
+		
+		if( !"".equals(result) ){
+			result+="-";
+		}
 			
-			if( !"".equals(result) ){
-				result+="-";
-			}
-			
+		
+		return result;
+	}
+
+	@SuppressWarnings("unchecked")
+	private static String getStemmerWord(String word) {
+		String stemmerWord = "";
+		try{
+			Class stemClass = Class.forName("org.tartarus.snowball.ext.spanishStemmer");
+			SnowballStemmer stemmer = (SnowballStemmer) stemClass.newInstance();
+			stemmer.setCurrent(word);
+			stemmer.stem();
+			stemmerWord = stemmer.getCurrent();
 		} catch (Exception e) {
-			System.out.println("No se pudo evaluar la regla. " + e.getMessage());
+			System.out.println("No se pudo encontrar la raiz de la palabra. " + e.getMessage());
 			e.printStackTrace();
 		}
-		return result;
+		return stemmerWord;
 	}
 
 	public static String getName(){

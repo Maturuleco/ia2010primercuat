@@ -1,9 +1,8 @@
 
 
-public class EmptyWordManager implements WordManager{
+public class EmptyWordManager extends WordManager{
 
 	
-	private static String KEY_NAME = "EMPTY";
 	private static EmptyWordManager instance;
 	
 	public static EmptyWordManager getInstance(){
@@ -26,7 +25,11 @@ public class EmptyWordManager implements WordManager{
 	}
 
 	public String getName(){
-		return KEY_NAME;
+		return Constant.KEY_NAME_EM;
+	}
+	
+	public String getPath(){
+		return "";
 	}
 	
 }

@@ -5,15 +5,12 @@ import java.util.LinkedList;
 import java.util.List;
 
 
-public class AdjetiveWordManager implements WordManager{
+public class AdjetiveWordManager extends WordManager{
 
+	private static AdjetiveWordManager instance;
 	private static List<String> positiveWords = new LinkedList<String>();
 	private static List<String> negativeWords = new LinkedList<String>();
-	private static AdjetiveWordManager instance;
 	
-	/**
-	 * Pueden ser adjetivos positivos o negativos. 
-	 */
 	public AdjetiveWordManager() {
 		File source = new File("../positiveWords.txt");
 		
@@ -55,5 +52,9 @@ public class AdjetiveWordManager implements WordManager{
 	
 	public String getName(){
 		return Constant.KEY_NAME_AD;
+	}
+	
+	public String getPath(){
+		return "../positiveWords.txt";
 	}
 }

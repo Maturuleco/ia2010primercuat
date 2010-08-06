@@ -35,8 +35,8 @@ public class Rule {
 	@Override
 	public String toString() {
 		String result = "";
-		for (Iterator it = estructure.iterator(); it.hasNext();) {
-			String word = (String) it.next();
+		for (Iterator<String> it = estructure.iterator(); it.hasNext();) {
+			String word = it.next();
 			result += " " + word;
 		}
 		return result;

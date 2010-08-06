@@ -94,7 +94,7 @@ public class Comment {
 	@Override
 	public String toString() {
 		String comment = "";
-		comment = "<"+resto + ", service: "+ serviceRank+ ", food: "+ foodRank+", enviroment: "+environmentRank+", date: "+formatter.format(date)+">\n";
+		comment = "<"+resto + ", user: "+ user +", service: "+ serviceRank+ ", food: "+ foodRank+", enviroment: "+environmentRank+", date: "+formatter.format(date)+">\n";
 		comment += "Texto orig: " + text;
 		
 		return comment;

@@ -12,7 +12,7 @@ import java.util.Map.Entry;
 public class Main {
 
 	/**
-	 * SEI: obtinene hechos de los documentos, o sea, extrae y organiza la informacio
+	 * SEI: obtinene hechos de los documentos, o sea, extrae y organiza la informacion
 	 * relevante e ignora la irrelevante. 
 	 * 
 	 */
@@ -25,8 +25,7 @@ public class Main {
 		File commentfolder = new File(sourcePath + "commentsTest/");
 		
 		File[] commentFiles = commentfolder.listFiles(new FileListFilter("yaml"));
-		//File dataSetResult = new File(sourcePath + "/comments.csv"); // para weka, ahora solo es el diccionario.. testing
-		File dataSetResult = new File(sourcePath + "/comments.csv");
+		File dataSetResult = new File(sourcePath + "/comments.csv"); // para weka, ahora solo es el diccionario.. testing
 		
 		if (commentFiles == null) {
 			throw new Exception("No se pudo encontrar el path: " + sourcePath);
@@ -57,10 +56,11 @@ public class Main {
 	}
 	
 
+	@SuppressWarnings("static-access")
 	private static void processComment(File dataSetResult, List<Comment> restoComments) {
 		
-		for (Iterator it = restoComments.iterator(); it.hasNext();) {
-			Comment comment = (Comment) it.next();
+		for (Iterator<Comment> it = restoComments.iterator(); it.hasNext();) {
+			Comment comment = it.next();
 			String value = RuleManager.getInstance().getResultRule(comment.getText());
 			if( value != null && !"".equals(value) ){
 				System.out.print("comment"+comment.toString()+ "\n");
@@ -68,11 +68,10 @@ public class Main {
 			}					                
 			
 		}
-		// TODO Auto-generated method stub
-		
 	}
 
 
+	@SuppressWarnings("unused")
 	private static void writeDic(File dataSetResult) throws IOException {
 		System.out.println("INIT Escribiendo diccionario.." );
 		FileWriter fstream = new FileWriter(dataSetResult);
@@ -82,19 +81,19 @@ public class Main {
 		HashMap<String, List<String>> stemmerDic = ParserComments.getStemmerDic();
 		out.write("word|count");
 		out.newLine();
-		for (Iterator it = dic.entrySet().iterator(); it.hasNext();) {
-			Entry key = (Entry) it.next();
+		for (Iterator<Entry<String, Integer>> it = dic.entrySet().iterator(); it.hasNext();) {
+			Entry<String, Integer> key = it.next();
 			out.write(key.getKey() + "|" + key.getValue());
 			out.newLine();
 		}
 		out.close();
-		File stemmerFile = new File( "..//stemmerFiel.csv");
+		File stemmerFile = new File( "..//stemmerFile.csv");
 		fstream = new FileWriter(stemmerFile);
 		out = new BufferedWriter(fstream);
 		out.write("stemmer|list");
 		out.newLine();
-		for (Iterator it = stemmerDic.entrySet().iterator(); it.hasNext();) {
-			Entry key = (Entry) it.next();
+		for (Iterator<Entry<String, List<String>>> it = stemmerDic.entrySet().iterator(); it.hasNext();) {
+			Entry<String, List<String>> key =  it.next();
 			out.write(key.getKey() + "|" + key.getValue());
 			out.newLine();
 		}
