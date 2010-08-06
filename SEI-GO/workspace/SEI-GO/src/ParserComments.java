@@ -188,6 +188,7 @@ public class ParserComments {
 		processText = processText.replaceAll("hhh", "h");
 		processText = processText.replaceAll("aaa", "a");
 		processText = processText.replaceAll("Buenos Aires", "BsAs");
+		processText = processText.replaceAll("Bs As", "BsAs");
 		processText = processText.replaceAll("buenos aires", "BsAs");
 		processText = processText.replaceAll("\\¿", " ");
 		processText = processText.replaceAll("\\?", " ");

@@ -80,8 +80,9 @@ public class AdjetiveWordManager extends WordManager{
 		
 		int positive = 0;
 		int negative = 0;
-		
+		text = text.replaceAll("-", " ");
 		String[] words = text.split(" ");
+		
 		for (int i = 0; i < words.length; i++) {
 			String word = words[i];
 			word = getStemmerWord(word);

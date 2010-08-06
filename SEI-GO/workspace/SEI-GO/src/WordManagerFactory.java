@@ -17,9 +17,12 @@ public class WordManagerFactory {
 			return ArticlesWordManager.getInstance();
 		}else if(name.startsWith(Constant.KEY_NAME_VE)){
 			return VerbWordManager.getInstance();
+		}else{
+			StaticWordManager swm = StaticWordManager.getInstance();
+			swm.setName(name);
+			return swm;
 		}
 		
-		return null;
 	}
 	
 }
