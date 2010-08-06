@@ -74,7 +74,8 @@ public class ParserComments {
 		result = result.replaceAll("\\\\xE1", "a");
 		result = result.replaceAll("\\\\xED", "i");
 		result = result.replaceAll("\\\\xFA", "u");
-		result = result.replaceAll("\\\\xf1", "ñ");
+		//result = result.replaceAll("\\\\xf1", "ñ");
+		result = result.replaceAll("\\\\xf1", "ni");
 		result = result.replaceAll("\\\\xA8", "¿");
 		result = result.replaceAll("\\\\\"", "");
 		result = result.replaceAll("\\\\r\\\\n\\\\", " ");
@@ -87,8 +88,38 @@ public class ParserComments {
 		String processText = cleanText(text);
 		String[] words = processText.split(" ");
 		
+		
 		for (int i = 0; i < words.length; i++) {
 			String word = words[i].trim().toLowerCase();
+			
+			// Para tener el el comment las palabras de su texto y cantidad de apariciones.
+			// por ahora no se usa.
+			if( !"".equals(word) && !ArticlesWordManager.getInstance().containWord(word) ){
+				Integer value = new Integer(1);
+				if( map.containsKey(word) ){
+					value = map.get(word) + 1;
+				}
+				
+				map.put(word, value);
+				addOrModifyWordToDictionary(addOrModifyWordToStemmerDictionary(word));
+				
+			}
+		}
+		return map;
+	}
+/*
+ 	// La idea era obtener las oraciones remplazadas con los terminos de reglas y luego aplicarle una expresion
+ 	// regular posta, esto no termine porque no se como hacer para obtener despues la oracion real una vez que 
+ 	// se que aplica la regla 
+	private static List<String> getRulesSentences(String text) {
+		List<String> map = new LinkedList<String>();
+		String processText = cleanText(text);
+		String[] sentences = processText.split(".");
+		
+		for (int i = 0; i < sentences.length; i++) {
+			String sentence = sentences[i];
+			String[] words = sentence.split(" ");
+			
 			
 			if( !"".equals(word) && !EmptyWordManager.getInstance().containWord(word) ){
 				Integer value = new Integer(1);
@@ -97,13 +128,13 @@ public class ParserComments {
 				}
 				
 				map.put(word, value);
-				addOrModifyWordToDictionary(word);
-				addOrModifyWordToStemmerDictionary(word);
+				addOrModifyWordToDictionary(addOrModifyWordToStemmerDictionary(word));
+				
 			}
 		}
 		return map;
 	}
-
+	*/
 	private static void addOrModifyWordToDictionary(String word) {
 		Integer value = new Integer(1);
 		if( dic.containsKey(word) ){
@@ -112,7 +143,8 @@ public class ParserComments {
 		dic.put(word, value);
 	}
 	
-	private static void addOrModifyWordToStemmerDictionary(String word) {
+	private static String addOrModifyWordToStemmerDictionary(String word) {
+		String stemmerWord = "";
 		try {
 			Class stemClass = Class.forName("org.tartarus.snowball.ext.spanishStemmer");
 		
@@ -122,22 +154,22 @@ public class ParserComments {
 			value.add(word);
 			stemmer.setCurrent(word);
 			stemmer.stem();
-			String stemmerWord = stemmer.getCurrent();
+			stemmerWord = stemmer.getCurrent();
 			
-			if( stemmerDic.containsKey(word) ){
-				if( word != null && ((List<String>)stemmerDic.get(stemmerWord)) != null && !((List<String>)stemmerDic.get(stemmerWord)).contains(word)) 
+			if( stemmerDic.containsKey(stemmerWord) ){
+				if(!((List<String>)stemmerDic.get(stemmerWord)).contains(word)) {
 					((List<String>)stemmerDic.get(stemmerWord)).add(word);
-				else if( word == null || ((List<String>)stemmerDic.get(stemmerWord)) == null ) {
-					value.add(word);
-				}else{
-					value = (List<String>)stemmerDic.get(stemmerWord);
 				}
+			
+				value = (List<String>)stemmerDic.get(stemmerWord);
 			}
 			stemmerDic.put(stemmerWord, value);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
+		return stemmerWord;
 	}
 
 	public static String cleanText(String text) {
@@ -145,11 +177,32 @@ public class ParserComments {
 		processText = processText.replaceAll("\\.", " .");
 		processText = processText.replaceAll("\\;", " ;");
 		processText = processText.replaceAll("\\:", " :");
+		
+//		String processText = text.replaceAll("\\,", " ");
+//		processText = processText.replaceAll("\\.", " ");
+//		processText = processText.replaceAll("\\;", " ");
+//		processText = processText.replaceAll("\\:", " ");
+//		processText = processText.replaceAll("\\*", " ");
+		
+		processText = processText.replaceAll("hhh", "h");
+		processText = processText.replaceAll("aaa", "a");
+		processText = processText.replaceAll("Buenos Aires", "BsAs");
+		processText = processText.replaceAll("buenos aires", "BsAs");
 		processText = processText.replaceAll("\\¿", " ");
 		processText = processText.replaceAll("\\?", " ");
+		processText = processText.replaceAll("\\!", " ");
+		processText = processText.replaceAll("\\-", " ");
 		processText = processText.replaceAll("\\(", " ");
 		processText = processText.replaceAll("\\)", " ");
+		processText = processText.replaceAll("\\$", " ");
+		processText = processText.replaceAll("\\#", " ");
+		processText = processText.replaceAll("\\%", " ");
+		processText = processText.replaceAll("\\\\x93", " ");
+		processText = processText.replaceAll("\\xa1", " ");
+		//processText = processText.replaceAll("[0-9]*", " ");
 		processText = processText.replaceAll("\\|", "/");
+		processText = processText.replaceAll("\\/", " ");
+		
 		return processText;
 	}
 

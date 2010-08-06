@@ -5,10 +5,11 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
+import org.tartarus.snowball.SnowballStemmer;
+
 
 public class RuleManager {
 	
-	private static String KEY_NAME = "RULE";
 	private static List<Rule> rules = new LinkedList<Rule>();
 	private static RuleManager instance; 
 	
@@ -49,7 +50,7 @@ public class RuleManager {
 			Rule rule = (Rule) it.next();
 			String ruleResult = evaluateRule(rule, words);
 			if( ruleResult != null && !"".equals(ruleResult)){
-				result += "| " + rule.getName() +" "+  ruleResult;
+				result += "               | " + rule.getName() +" "+  ruleResult + "\n";
 			}
 		}
 		return result;
@@ -69,58 +70,78 @@ public class RuleManager {
 
 	private static String evaluateRule(Rule rule, String[] words, int from) {
 		String result = "";
-		int indexRule = 0;
-		for (int i = from; i < words.length; i++) {
-			String word = words[i];
-			if( !"".equals(word) ){
-					
-				if( indexRule == rule.getEstructure().size() ){
-					break;
-				}
-				String rulePart = rule.getEstructure().get(indexRule);
-				WordManager wmanager = WordManagerFactory.getWordManager(rulePart);
-				if( rulePart.contains("+") || rulePart.contains("*") ){
-					// se pueden tner mas de una repeticion de esta parte en el texto
-					
-					boolean finish = false;
-					int count = 0; 
-					while(!finish && i < words.length){
-						word = words[i];
-						if( wmanager.containWord(word) ){
+		try {
+			Class stemClass = Class.forName("org.tartarus.snowball.ext.spanishStemmer");
+			SnowballStemmer stemmer = (SnowballStemmer) stemClass.newInstance();
+		
+			int indexRule = 0;
+			
+			for (int i = from; i < words.length; i++) {
+				String word = words[i];
+				stemmer.setCurrent(word);
+				stemmer.stem();
+				String stemmerWord = stemmer.getCurrent(); 
+				if( !"".equals(word) ){
+						
+					if( indexRule == rule.getEstructure().size() ){
+						break;
+					}
+					String rulePart = rule.getEstructure().get(indexRule);
+					WordManager wmanager = WordManagerFactory.getWordManager(rulePart);
+					if( rulePart.contains("+") || rulePart.contains("*") ){
+						
+						// se pueden tner mas de una repeticion de esta parte en el texto
+						boolean finish = false;
+						int count = 0; 
+						while(!finish && i < words.length){
+							word = words[i];
+							stemmer.setCurrent(word);
+							stemmer.stem();
+							stemmerWord = stemmer.getCurrent(); 
+							
+							if( wmanager.containWord(stemmerWord) ){
+								result += " " + word;
+								i++;
+								count++;
+							}else {
+								finish = true;
+								i--;
+							}
+							
+						}
+						if(  rulePart.contains("+") && count == 0 ){
+							result = ""; // inicio nuevamente la regla
+							break;
+						}
+					}else{
+						// es una parte simple
+						if( wmanager.containWord(stemmerWord) ){
 							result += " " + word;
-							i++;
-							count++;
 						}else {
-							finish = true;
-							i--;
+							result = ""; // inicio nuevamente la regla
+							break;
 						}
 						
 					}
-					if(  rulePart.contains("+") && count == 0 ){
-						result = ""; // inicio nuevamente la rule
-						break;
-					}
-				}else{
-					// es una parte simple
-					if( wmanager.containWord(word) ){
-						result += " " + word;
-					}else {
-						result = ""; // inicio nuevamente la rule
-						break;
-					}
-					
+					indexRule++;
 				}
-				indexRule++;
 			}
-		}
-		if( !"".equals(result) ){
-			result+="-";
+			if(indexRule < rule.getEstructure().size())
+				result = "";
+			
+			if( !"".equals(result) ){
+				result+="-";
+			}
+			
+		} catch (Exception e) {
+			System.out.println("No se pudo evaluar la regla. " + e.getMessage());
+			e.printStackTrace();
 		}
 		return result;
 	}
 
 	public static String getName(){
-		return KEY_NAME;
+		return Constant.KEY_NAME_RU;
 	}
 	
 	

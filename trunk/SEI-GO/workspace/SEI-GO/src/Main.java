@@ -20,12 +20,13 @@ public class Main {
 		
 		System.out.println(" ~ INICIO Procesamiento de comentarios ~" );
 		
-		String sourcePath = "..\\";
+		String sourcePath = "../";
 		//File commentfolder = new File(sourcePath + "comments\\");
-		File commentfolder = new File(sourcePath + "commentsTest\\");
+		File commentfolder = new File(sourcePath + "commentsTest/");
 		
 		File[] commentFiles = commentfolder.listFiles(new FileListFilter("yaml"));
-		File dataSetResult = new File(sourcePath + "/comments.csv"); // para weka, ahora solo es el diccionario.. testing
+		//File dataSetResult = new File(sourcePath + "/comments.csv"); // para weka, ahora solo es el diccionario.. testing
+		File dataSetResult = new File(sourcePath + "/comments.csv");
 		
 		if (commentFiles == null) {
 			throw new Exception("No se pudo encontrar el path: " + sourcePath);
@@ -63,8 +64,8 @@ public class Main {
 			String value = RuleManager.getInstance().getResultRule(comment.getText());
 			if( value != null && !"".equals(value) ){
 				System.out.print("comment"+comment.toString()+ "\n");
-				System.out.print("		result: " + value + "\n\n");
-			}
+				System.out.print("	result: \n" + value + "\n\n");
+			}					                
 			
 		}
 		// TODO Auto-generated method stub
@@ -86,8 +87,11 @@ public class Main {
 			out.write(key.getKey() + "|" + key.getValue());
 			out.newLine();
 		}
-		out.write("STEMMER");
-		out.write("word|count");
+		out.close();
+		File stemmerFile = new File( "..//stemmerFiel.csv");
+		fstream = new FileWriter(stemmerFile);
+		out = new BufferedWriter(fstream);
+		out.write("stemmer|list");
 		out.newLine();
 		for (Iterator it = stemmerDic.entrySet().iterator(); it.hasNext();) {
 			Entry key = (Entry) it.next();

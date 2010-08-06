@@ -1,36 +1,10 @@
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.util.LinkedList;
-import java.util.List;
 
 
 public class EmptyWordManager implements WordManager{
 
 	
 	private static String KEY_NAME = "EMPTY";
-	private static List<String> words = new LinkedList<String>();
 	private static EmptyWordManager instance;
-	/**
-	 * Pueden ser articulos, preposiciones etc. 
-	 */
-	public EmptyWordManager() {
-		File source = new File("..\\emptyWords.txt");
-		
-		try {
-			BufferedReader buffer = new BufferedReader( new FileReader( source ) );
-			String line;
-			while ( (line = buffer.readLine())!=null) {
-				String[] sourceWords = line.split(";");
-				for (int i = 0; i < sourceWords.length; i++) {
-					words.add(sourceWords[i]);
-				}
-			}
-		} catch (Exception e) {
-			System.out.println("No se pudo cargar las palabras entidades. " + e.getMessage());
-			e.printStackTrace();
-		}
-	}
 	
 	public static EmptyWordManager getInstance(){
 		if(instance == null){
@@ -40,9 +14,17 @@ public class EmptyWordManager implements WordManager{
 	}
 	
 	public Boolean containWord(String word){
-		return words.contains(word.toLowerCase());
+		Boolean containWord = !AdjetiveWordManager.getInstance().containWord(word) && 
+							  !EntityWordManager.getInstance().containWord(word) &&
+							  !VerbWordManager.getInstance().containWord(word) &&
+							  !ArticlesWordManager.getInstance().containWord(word) && !sign(word);
+		return containWord;
 	}
 	
+	private boolean sign(String word) {
+		return ".".equals(word);
+	}
+
 	public String getName(){
 		return KEY_NAME;
 	}
