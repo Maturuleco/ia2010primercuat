@@ -4,6 +4,8 @@ import java.io.FileReader;
 import java.util.LinkedList;
 import java.util.List;
 
+import org.tartarus.snowball.SnowballStemmer;
+
 
 public class AdjetiveWordManager extends WordManager{
 
@@ -58,6 +60,22 @@ public class AdjetiveWordManager extends WordManager{
 		return "../positiveWords.txt";
 	}
 	
+	@SuppressWarnings("unchecked")
+	private static String getStemmerWord(String word) {
+		String stemmerWord = "";
+		try{
+			Class stemClass = Class.forName("org.tartarus.snowball.ext.spanishStemmer");
+			SnowballStemmer stemmer = (SnowballStemmer) stemClass.newInstance();
+			stemmer.setCurrent(word);
+			stemmer.stem();
+			stemmerWord = stemmer.getCurrent();
+		} catch (Exception e) {
+			System.out.println("No se pudo encontrar la raiz de la palabra. " + e.getMessage());
+			e.printStackTrace();
+		}
+		return stemmerWord;
+	}
+	
 	public Boolean getAspect(String text) {
 		
 		int positive = 0;
@@ -66,6 +84,7 @@ public class AdjetiveWordManager extends WordManager{
 		String[] words = text.split(" ");
 		for (int i = 0; i < words.length; i++) {
 			String word = words[i];
+			word = getStemmerWord(word);
 			if(containWord(word.toLowerCase())){
 				if(negativeWords.contains(word.toLowerCase())){
 					negative++;
