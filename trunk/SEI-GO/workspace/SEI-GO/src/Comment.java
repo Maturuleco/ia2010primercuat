@@ -15,6 +15,7 @@ public class Comment {
 	private Date date;
 	private String user;
 	private String text;
+	private Boolean aspect;
 	private HashMap<String, Integer> words;
 	private List<String> ruleSentences;
 	
@@ -94,10 +95,19 @@ public class Comment {
 	@Override
 	public String toString() {
 		String comment = "";
-		comment = "<"+resto + ", user: "+ user +", service: "+ serviceRank+ ", food: "+ foodRank+", enviroment: "+environmentRank+", date: "+formatter.format(date)+">\n";
+		comment += (aspect?"POSITIVO\n":"NEGATIVO\n");
+		comment += "<"+resto + ", user: "+ user +", service: "+ serviceRank+ ", food: "+ foodRank+", enviroment: "+environmentRank+", date: "+formatter.format(date)+">\n";
 		comment += "Texto orig: " + text;
 		
 		return comment;
+	}
+
+	public Boolean getAspect() {
+		return aspect;
+	}
+
+	public void setAspect(Boolean aspect) {
+		this.aspect = aspect;
 	}
 
 
