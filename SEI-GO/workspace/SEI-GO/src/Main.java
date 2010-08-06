@@ -21,8 +21,8 @@ public class Main {
 		System.out.println(" ~ INICIO Procesamiento de comentarios ~" );
 		
 		String sourcePath = "../";
-		//File commentfolder = new File(sourcePath + "comments\\");
-		File commentfolder = new File(sourcePath + "commentsTest/");
+		//File commentfolder = new File(sourcePath + "commentsTest\\");
+		File commentfolder = new File(sourcePath + "comments/");
 		
 		File[] commentFiles = commentfolder.listFiles(new FileListFilter("yaml"));
 		File dataSetResult = new File(sourcePath + "/comments.csv"); // para weka, ahora solo es el diccionario.. testing
@@ -37,7 +37,7 @@ public class Main {
 			
 			for (int j = 0; j < commentFiles.length; j++) {
 				File restoComment = commentFiles[j];
-				System.out.print("file "+ j +": " + restoComment.getName() +"\n");
+				//System.out.print("file "+ j +": " + restoComment.getName() +"\n");
 				
 	    		restoComments.addAll(ParserComments.generateComment(restoComment));
 			}
@@ -57,18 +57,42 @@ public class Main {
 	
 
 	@SuppressWarnings("static-access")
-	private static void processComment(File dataSetResult, List<Comment> restoComments) {
+	private static void processComment(File dataSetResult, List<Comment> restoComments) throws IOException {
 		
+		File stemmerFile = new File( "..//SEI-GO result.csv");
+		FileWriter fstream = new FileWriter(stemmerFile);
+		BufferedWriter out = new BufferedWriter(fstream);
+		
+		int restoCount = 1;
+		String resto = "";
 		for (Iterator<Comment> it = restoComments.iterator(); it.hasNext();) {
 			Comment comment = it.next();
 			String value = RuleManager.getInstance().getResultRule(comment.getText());
 			comment.setAspect(RuleManager.getAspect(value));
 			if( value != null && !"".equals(value) ){
-				System.out.print("comment: "+comment.toString()+ "\n");
-				System.out.print("	result: \n" + value + "\n\n");
+				
+				//System.out.print("comment: "+comment.toString()+ "\n");
+				//System.out.print("	result: \n" + value + "\n\n");
+				if( !comment.getResto().equals(resto)){
+					resto = comment.getResto(); 
+					System.out.print("restó: " + restoCount +" - "+resto + "\n");
+					restoCount++;
+				}
+				
+				out.write("comment: "+comment.toString());
+				out.newLine();
+				out.write("	result:");
+				out.newLine();
+				out.write(value);
+				out.newLine();
+				out.newLine();
+				  
 			}					                
 			
 		}
+		out.close();
+		System.out.print("	ya se generaron los resultados ");
+		
 	}
 
 
