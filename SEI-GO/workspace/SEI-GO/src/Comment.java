@@ -1,6 +1,7 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.List;
 
 
 public class Comment {
@@ -15,6 +16,7 @@ public class Comment {
 	private String user;
 	private String text;
 	private HashMap<String, Integer> words;
+	private List<String> ruleSentences;
 	
 	public Comment(String resto, String serviceRank, String foodRank, String environmentRank,
 			Date date, String user, String text, HashMap<String, Integer> words) {
@@ -81,6 +83,14 @@ public class Comment {
 		this.words = words;
 	}
 
+	public List<String> getRuleSentences() {
+		return ruleSentences;
+	}
+
+	public void setRuleSentences(List<String> ruleSentences) {
+		this.ruleSentences = ruleSentences;
+	}
+	
 	@Override
 	public String toString() {
 		String comment = "";
@@ -89,8 +99,8 @@ public class Comment {
 		
 		return comment;
 	}
-	
-	
+
+
 	
 	
 }

@@ -5,16 +5,13 @@ import java.util.LinkedList;
 import java.util.List;
 
 
-public class EntityWordManager implements WordManager{
+public class VerbWordManager implements WordManager{
 
 	private static List<String> words = new LinkedList<String>();
-	private static EntityWordManager instance;
-	
-	/**
-	 * Pueden ser nombre de platos, lugares etc.  
-	 */
-	public EntityWordManager() {
-		File source = new File("../entityWords.txt");
+	private static VerbWordManager instance;
+
+	public VerbWordManager() {
+		File source = new File("../verbWords.txt");
 		
 		try {
 			BufferedReader buffer = new BufferedReader( new FileReader( source ) );
@@ -26,25 +23,24 @@ public class EntityWordManager implements WordManager{
 				}
 			}
 		} catch (Exception e) {
-			System.out.println("No se pudo cargar las palabras vacias. " + e.getMessage());
+			System.out.println("No se pudo cargar los verbos. " + e.getMessage());
 			e.printStackTrace();
 		}
 	}
 	
-	public static EntityWordManager getInstance(){
+	public static VerbWordManager getInstance(){
 		if(instance == null){
-			instance = new EntityWordManager();
+			instance = new VerbWordManager();
 		}
 		return instance;
 	}
 	
-	@Override
 	public Boolean containWord(String word){
 		return words.contains(word.toLowerCase());
 	}
 	
 	public String getName(){
-		return Constant.KEY_NAME_EN;
+		return Constant.KEY_NAME_VE;
 	}
-		
+	
 }
