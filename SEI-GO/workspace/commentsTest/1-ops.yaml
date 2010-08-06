@@ -1,4 +1,18 @@
 --- 
+ -  servicio_rank: excelente
+    comida_rank: excelente
+    text: |-
+      Sin dudas, uno de los mejores lugares para comer en buenos aires. De entrada la pizza de panceta es insuperable. como plato principal spaghetti con navajas, al dente, como buen restaurante italiano, y el semifredo de turron una delicia!!!!
+      Mas que recomendable... seguro que vuelvo!!!
+    date: 10-04-2008
+    user: http://mi.guiaoleo.com/members/43254
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: excelente
+    text: "Hac\xEDa tiempo que no iba y me agarr\xF3 nostalgia. Los sabores siguen id\xE9nticos, la cocina es excelente y la pizza, a mi entender, de la mejor pizza italiana que se hace en Buenos Aires, finita, bien a la piedra, y con ingredientes de primera. El carpaccio de lomo es buen\xEDsimo y da para compartir. Creo que es la mejor opci\xF3n cuando uno est\xE1 por el centro. Comida italiana genuina. Muy recomendable."
+    date: 13-04-2010
+    user: http://mi.guiaoleo.com/members/12213
+    ambiente_rank: bueno
 - - servicio_rank: bueno
     comida_rank: buena
     text: "La ambientaci\xF3n es piola aunque es un lugar bastante ruidoso. La pizza sigue siendo rica.La desilusi\xF3n fue el \"tartufo\", que la moza me asegur\xF3 que era igual que en Italia y era un simple helado de chocolate. Que lo llamen de otra manera, entonces."
@@ -17,12 +31,6 @@
     date: 04-05-2010
     user: http://mi.guiaoleo.com/members/81688
     ambiente_rank: malo/regular
-  - servicio_rank: muy bueno
-    comida_rank: excelente
-    text: "Hac\xEDa tiempo que no iba y me agarr\xF3 nostalgia. Los sabores siguen id\xE9nticos, la cocina es excelente y la pizza, a mi entender, de la mejor pizza italiana que se hace en Buenos Aires, finita, bien a la piedra, y con ingredientes de primera. El carpaccio de lomo es buen\xEDsimo y da para compartir. Creo que es la mejor opci\xF3n cuando uno est\xE1 por el centro. Comida italiana genuina. Muy recomendable."
-    date: 13-04-2010
-    user: http://mi.guiaoleo.com/members/12213
-    ambiente_rank: bueno
   - servicio_rank: bueno
     comida_rank: mala/regular
     text: "A favor:la atenci\xF3n fue expeditiva.\r\n\
@@ -66,8 +74,7 @@
     ambiente_rank: malo/regular
 - - servicio_rank: malo/regular
     comida_rank: muy buena
-    text: "Cada tanto voy al mediod\xEDa, me encanta la margharita y la de espinacas, pido mitad y mitad. El pan de pizza es excelente, las chicas que atienden no son muy profesionales pero tienen buena onda en general. \r\n\
-      Los precios est\xE1n un poco altos teniendo en cuenta eso."
+    text: "Cada tanto voy al mediod\xEDa, me encanta la margharita y la de espinacas, pido mitad y mitad. El pan de pizza es excelente, las chicas que atienden no son muy profesionales pero tienen buena onda en general. Los precios est\xE1n un poco altos teniendo en cuenta eso."
     date: 27-01-2010
     user: http://mi.guiaoleo.com/members/66088
     ambiente_rank: bueno
@@ -232,14 +239,6 @@
     date: 24-05-2008
     user: http://mi.guiaoleo.com/members/29189
     ambiente_rank: malo/regular
-  - servicio_rank: excelente
-    comida_rank: excelente
-    text: |-
-      Sin dudas, uno de los mejores lugares para comer en buenos aires. De entrada la pizza de panceta es insuperable. como plato principal spaghetti con navajas, al dente, como buen restaurante italiano, y el semifredo de turron una delicia!!!!
-      Mas que recomendable... seguro que vuelvo!!!
-    date: 10-04-2008
-    user: http://mi.guiaoleo.com/members/43254
-    ambiente_rank: muy bueno
   - servicio_rank: muy bueno
     comida_rank: excelente
     text: "un clasico que se mantiene vigente, la pizza de las mejores en version italiana, por primera vez probe las pastas y estaban espectaculares, el unico defecto es el dise\xF1o de menu que por la cantidd de platos, exhaustiva, uno se confunde y termina sin recorrer la totalidad de la carta, la barra espectacular con bebidas muy dificiles de conseguir en la ciudad, una vez mas, bravog"
