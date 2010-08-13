@@ -88,13 +88,16 @@ public class Main {
 					}
 					
 					System.out.print("Comentarios procesados: " + total +"\n");
-					System.out.print("	    Positivos: " + restoPositive + " ~ " + percentagePos +"%\n");
-					System.out.print("	    Negativos: " + restoNegative + " ~ " + percentageNeg +"%\n");
+					System.out.print("	    Positivos: " + restoPositive + "	~ " + percentagePos +"%\n");
+					System.out.print("	    Negativos: " + restoNegative + "	~ " + percentageNeg +"%\n");
 					System.out.print("-----------------------------------------------\n");
 					System.out.print("restó: " + restoCount +" - "+resto + "\n");
 					restoCount++;
 					restoPositive = 0;
 					restoNegative = 0;	
+					
+					out.write("<<<<<: "+resto+" :>>>>>------------------------------------------------------------------------------------------");
+					out.newLine();
 					
 				}
 				if(comment.getAspect()){
@@ -121,13 +124,13 @@ public class Main {
 			percentageNeg = (restoNegative / total)*100;
 		}
 		System.out.print("Comentarios procesados: " + total +"\n");
-		System.out.print("	    Positivos: " + restoPositive + " ~ " + percentagePos +"%\n");
-		System.out.print("	    Negativos: " + restoNegative + " ~ " + percentageNeg +"%\n");
+		System.out.print("	    Positivos: " + restoPositive + "	~ " + percentagePos +"%\n");
+		System.out.print("	    Negativos: " + restoNegative + "	~ " + percentageNeg +"%\n");
 		System.out.print("-----------------------------------------------\n");
 		
 		out.close();
 		System.out.print("	ya se generaron los resultados en " + stemmerFile.getName() + "\n");
-		System.out.print("	------------------------------\n");
+		System.out.print("	------------------------------------------------------\n");
 		
 	}
 
