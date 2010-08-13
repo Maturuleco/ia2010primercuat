@@ -85,6 +85,7 @@ public class ParserComments {
 		result = result.replaceAll("\"", "");
 		result = result.replaceAll("\\.", ". ");
 		result = result.replaceAll("\\!\\!", "");
+		result = result.replaceAll("\\!", "");
 		result = result.replaceAll("\\(", " ( ");
 		result = result.replaceAll("\\)", " ) ");
 		return result;

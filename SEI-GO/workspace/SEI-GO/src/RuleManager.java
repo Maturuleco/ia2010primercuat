@@ -116,7 +116,7 @@ public class RuleManager {
 				indexRule++;
 			}
 		}
-		if(indexRule < rule.getEstructure().size())
+		if(indexRule < rule.getEstructureSize())
 			result = "";
 		
 		if( !"".equals(result) ){
