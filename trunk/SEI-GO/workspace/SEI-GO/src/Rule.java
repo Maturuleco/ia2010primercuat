@@ -27,8 +27,17 @@ public class Rule {
 	public List<String> getEstructure() {
 		return estructure;
 	}
-
-	public void setEstructure(List<String> estructure) {
+	
+	public int getEstructureSize() {
+		
+		int size = estructure.size();
+		
+		if( size > 0 && estructure.get(size-1).contains("*") )
+			size--;
+		return size;
+	}
+	
+		public void setEstructure(List<String> estructure) {
 		this.estructure = estructure;
 	}
 

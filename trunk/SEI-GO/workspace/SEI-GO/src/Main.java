@@ -64,6 +64,8 @@ public class Main {
 		BufferedWriter out = new BufferedWriter(fstream);
 		
 		int restoCount = 1;
+		double restoPositive = 0;
+		double restoNegative = 0;
 		String resto = "";
 		for (Iterator<Comment> it = restoComments.iterator(); it.hasNext();) {
 			Comment comment = it.next();
@@ -73,12 +75,33 @@ public class Main {
 				
 				//System.out.print("comment: "+comment.toString()+ "\n");
 				//System.out.print("	result: \n" + value + "\n\n");
-				if( !comment.getResto().equals(resto)){
+				if(  !comment.getResto().equals(resto)){
 					resto = comment.getResto(); 
+					double total = restoPositive + restoNegative;
+					
+					double percentagePos = 0;
+					double percentageNeg = 0;
+					
+					if(total > 0){
+						percentagePos = (restoPositive / total)*100;
+						percentageNeg = (restoNegative / total)*100;
+					}
+					
+					System.out.print("Comentarios procesados: " + total +"\n");
+					System.out.print("	    Positivos: " + restoPositive + " ~ " + percentagePos +"%\n");
+					System.out.print("	    Negativos: " + restoNegative + " ~ " + percentageNeg +"%\n");
+					System.out.print("-----------------------------------------------\n");
 					System.out.print("restó: " + restoCount +" - "+resto + "\n");
 					restoCount++;
+					restoPositive = 0;
+					restoNegative = 0;	
+					
 				}
-				
+				if(comment.getAspect()){
+					restoPositive++;
+				}else{
+					restoNegative++;
+				}
 				out.write("comment: "+comment.toString());
 				out.newLine();
 				out.write("	result:");
@@ -90,6 +113,18 @@ public class Main {
 			}					                
 			
 		}
+		double percentagePos = 0;
+		double percentageNeg = 0;
+		double total = restoPositive + restoNegative;
+		if(total > 0){
+			percentagePos = (restoPositive / total)*100;
+			percentageNeg = (restoNegative / total)*100;
+		}
+		System.out.print("Comentarios procesados: " + total +"\n");
+		System.out.print("	    Positivos: " + restoPositive + " ~ " + percentagePos +"%\n");
+		System.out.print("	    Negativos: " + restoNegative + " ~ " + percentageNeg +"%\n");
+		System.out.print("-----------------------------------------------\n");
+		
 		out.close();
 		System.out.print("	ya se generaron los resultados en " + stemmerFile.getName() + "\n");
 		System.out.print("	------------------------------\n");
