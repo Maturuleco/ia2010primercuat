@@ -21,7 +21,11 @@ public class EmptyWordManager extends WordManager{
 	}
 	
 	private boolean sign(String word) {
-		return ".".equals(word);
+		return ".".equals(word) || 
+			   ",".equals(word) || 
+			   "y".equals(word) || 
+			   "(".equals(word) || 
+			   ")".equals(word);
 	}
 
 	public String getName(){
