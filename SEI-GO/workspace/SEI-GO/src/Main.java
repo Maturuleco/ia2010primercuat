@@ -21,8 +21,8 @@ public class Main {
 		System.out.println(" ~ INICIO Procesamiento de comentarios ~" );
 		
 		String sourcePath = "../";
-		//File commentfolder = new File(sourcePath + "commentsTest\\");
-		File commentfolder = new File(sourcePath + "comments/");
+		File commentfolder = new File(sourcePath + "commentsTest\\");
+		//File commentfolder = new File(sourcePath + "comments/");
 		
 		File[] commentFiles = commentfolder.listFiles(new FileListFilter("yaml"));
 		File dataSetResult = new File(sourcePath + "/comments.csv"); // para weka, ahora solo es el diccionario.. testing
@@ -91,7 +91,8 @@ public class Main {
 			
 		}
 		out.close();
-		System.out.print("	ya se generaron los resultados ");
+		System.out.print("	ya se generaron los resultados en " + stemmerFile.getName() + "\n");
+		System.out.print("	------------------------------\n");
 		
 	}
 

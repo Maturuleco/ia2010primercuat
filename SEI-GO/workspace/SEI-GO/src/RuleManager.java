@@ -14,7 +14,7 @@ public class RuleManager {
 	private static RuleManager instance; 
 	
 	public RuleManager() {
-		File source = new File("..\\rules.txt");
+		File source = new File("../rules.txt");
 		
 		try {
 			BufferedReader buffer = new BufferedReader( new FileReader( source ) );
@@ -60,7 +60,8 @@ public class RuleManager {
 		String result = "";
 		for (int i = 0; i < words.length; i++) {
 			String evaluate = evaluateRule(rule, words, i);
-			result += evaluate;
+			if( !result.contains(evaluate) )
+				result += evaluate;
 			if( !"".equals(evaluate) ){
 				i+=evaluate.split(" ").length-2;
 			}
@@ -81,7 +82,7 @@ public class RuleManager {
 					break;
 				}
 				String rulePart = rule.getEstructure().get(indexRule);
-				WordManager wmanager = WordManagerFactory.getWordManager(rulePart);
+				List<WordManager> wmanagers = WordManagerFactory.getWordManagers(rulePart);
 				if( rulePart.contains("+") || rulePart.contains("*") ){
 					
 					// se pueden tner mas de una repeticion de esta parte en el texto
@@ -90,7 +91,7 @@ public class RuleManager {
 					while(!finish && i < words.length){
 						word = words[i];
 						stemmerWord = getStemmerWord(word);
-						if( wmanager.containWord(stemmerWord) ){
+						if( someWordManagerContainWord(wmanagers, stemmerWord) ){
 							result += " " + word;
 							i++;
 							count++;
@@ -105,7 +106,7 @@ public class RuleManager {
 					}
 				}else{
 					// es una parte simple
-					if( wmanager.containWord(stemmerWord) ){
+					if( someWordManagerContainWord(wmanagers,stemmerWord) ){
 						result += " " + word;
 					}else {
 						result = ""; // inicio nuevamente la regla
@@ -123,6 +124,16 @@ public class RuleManager {
 		}
 		
 		return result;
+	}
+
+	private static boolean someWordManagerContainWord(List<WordManager> wmanagers, String stemmerWord) {
+		boolean containWord = false;
+		for (Iterator<WordManager> it = wmanagers.iterator(); it.hasNext() && !containWord;) {
+			WordManager wordManager = (WordManager) it.next();
+			if(wordManager.containWord(stemmerWord))
+				containWord = true;
+		}
+		return containWord;
 	}
 
 	public static Boolean getAspect(String text) {

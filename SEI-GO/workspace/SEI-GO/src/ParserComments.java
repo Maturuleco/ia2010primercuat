@@ -71,15 +71,22 @@ public class ParserComments {
 	private static String replaceCodes(String text) {
 		String result = text.replaceAll("\\\\xF3", "o");
 		result = result.replaceAll("\\\\xE9", "e");
+		result = result.replaceAll("\\\\xEB", "e");
 		result = result.replaceAll("\\\\xE1", "a");
 		result = result.replaceAll("\\\\xED", "i");
+		result = result.replaceAll("\\\\xEF", "i");
 		result = result.replaceAll("\\\\xFA", "u");
 		//result = result.replaceAll("\\\\xf1", "ñ");
 		result = result.replaceAll("\\\\xf1", "ni");
+		result = result.replaceAll("\\\\xF1", "ni");
 		result = result.replaceAll("\\\\xA8", "¿");
 		result = result.replaceAll("\\\\\"", "");
 		result = result.replaceAll("\\\\r\\\\n\\\\", " ");
 		result = result.replaceAll("\"", "");
+		result = result.replaceAll("\\.", ". ");
+		result = result.replaceAll("\\!\\!", "");
+		result = result.replaceAll("\\(", " ( ");
+		result = result.replaceAll("\\)", " ) ");
 		return result;
 	}
 	
@@ -187,15 +194,17 @@ public class ParserComments {
 		
 		processText = processText.replaceAll("hhh", "h");
 		processText = processText.replaceAll("aaa", "a");
+		processText = processText.replaceAll("\\.\\.\\.", " ");
 		processText = processText.replaceAll("Buenos Aires", "BsAs");
 		processText = processText.replaceAll("Bs As", "BsAs");
 		processText = processText.replaceAll("buenos aires", "BsAs");
+		processText = processText.replaceAll("buenos aires.", "BsAs");
 		processText = processText.replaceAll("\\¿", " ");
 		processText = processText.replaceAll("\\?", " ");
 		processText = processText.replaceAll("\\!", " ");
 		processText = processText.replaceAll("\\-", " ");
-		processText = processText.replaceAll("\\(", " ");
-		processText = processText.replaceAll("\\)", " ");
+		//processText = processText.replaceAll("\\(", " ");
+		//processText = processText.replaceAll("\\)", " ");
 		processText = processText.replaceAll("\\$", " ");
 		processText = processText.replaceAll("\\#", " ");
 		processText = processText.replaceAll("\\%", " ");
