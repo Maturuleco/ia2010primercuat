@@ -1,4 +1,28 @@
 --- 
+  - servicio_rank: bueno
+    comida_rank: muy buena
+    text: "Es el \xFAnico lugar en Buenos Aires en el que hacen aut\xE9ntica pizza italiana (y con ingredientes de muy buena calidad) y pienso que es un sitio al que por eso vale la pena ir. El ambiente es original aunque demasiado ruidoso y la atenci\xF3n algo ca\xF3tica. Como nota negativa el costo excesivo del servicio de mesa."
+    date: 29-05-2009
+    user: http://mi.guiaoleo.com/members/16130
+    ambiente_rank: bueno
+  - servicio_rank: malo/regular
+    comida_rank: mala/regular
+    text: Fue una experiencia espantosa, la pizza parecia una galletita de agua con tomate rebajado en agua unas hojitas de radicheta y unos pedacitos infimos de queso brie. de sabor horrenda,precio carisimo, tres pizzas grandes y en promedio dos coronas chicas por persona casi 500 pesos (eramos 6 personas). les recomiendo abstenerce de ir, no es un buen lugar, no se come bien, el servicio es malisimo, te ponen la botella de corona en la mesa sin siquiera servirte medio vaso como corresponde. un asco, deberia darles verguenza tener un restaurant asi, el peor al que he ido.
+    date: 12-03-2010
+    user: http://mi.guiaoleo.com/members/65361
+    ambiente_rank: muy bueno
+  - servicio_rank: muy bueno
+    comida_rank: muy buena
+    text: "Buena la comida, la atenci\xF3n pero me parece alto el precio."
+    date: 15-01-2010
+    user: http://mi.guiaoleo.com/members/60333
+    ambiente_rank: muy bueno
+  - servicio_rank: malo/regular
+    comida_rank: muy buena
+    text: "No puedo zafar... A pesar de que la atenci\xF3n es mal\xEDsima (los mozos siempre est\xE1n mirando para otro lado o hablando entre \xE9llos...) voy una vez por semana... casa diez d\xEDas a lo sumo, porque la pizza es sublime y el antipasto de frutos de mar... incre\xEDble. Buen\xEDsimo el tiramis\xFA y las contras que comenta todo el mundo... pero si no quer\xE9s ruido..."
+    date: 07-07-2009
+    user: http://mi.guiaoleo.com/members/34109
+    ambiente_rank: bueno
  -  servicio_rank: excelente
     comida_rank: excelente
     text: |-
@@ -46,12 +70,6 @@
     date: 16-03-2010
     user: http://mi.guiaoleo.com/members/47331
     ambiente_rank: bueno
-  - servicio_rank: malo/regular
-    comida_rank: mala/regular
-    text: Fue una experiencia espantosa, la pizza parecia una galletita de agua con tomate rebajado en agua unas hojitas de radicheta y unos pedacitos infimos de queso brie. de sabor horrenda,precio carisimo, tres pizzas grandes y en promedio dos coronas chicas por persona casi 500 pesos (eramos 6 personas). les recomiendo abstenerce de ir, no es un buen lugar, no se come bien, el servicio es malisimo, te ponen la botella de corona en la mesa sin siquiera servirte medio vaso como corresponde. un asco, deberia darles verguenza tener un restaurant asi, el peor al que he ido.
-    date: 12-03-2010
-    user: http://mi.guiaoleo.com/members/65361
-    ambiente_rank: muy bueno
   - servicio_rank: bueno
     comida_rank: buena
     text: "HAce a\xF1os que no pisaba este lugar..., comi pizza para mi de sabor bien y a mi pareja no le gusto.el lugar estaba muy quedado, oloroso, ruidoso y sucio.Me parecio muy caro y malo, no voy mas."
@@ -78,12 +96,6 @@
     date: 27-01-2010
     user: http://mi.guiaoleo.com/members/66088
     ambiente_rank: bueno
-  - servicio_rank: muy bueno
-    comida_rank: muy buena
-    text: "Buena la comida, la atenci\xF3n pero me parece alto el precio."
-    date: 15-01-2010
-    user: http://mi.guiaoleo.com/members/60333
-    ambiente_rank: muy bueno
   - servicio_rank: bueno
     comida_rank: muy buena
     text: "Muy bueno el sandwich de focaccia con mortadella y mozzarela; el ambiente sigue siendo canchero y con onda. Tambi\xE9n mejor\xF3 la atenci\xF3n que en mi primera visita hab\xEDa sido mal\xEDsima, gracias a Lorena porque a pesar de que hubo un error con el pedido lo subsanaron enseguida. Me gust\xF3"
@@ -139,23 +151,11 @@
     user: http://mi.guiaoleo.com/members/31824
     ambiente_rank: muy bueno
   - servicio_rank: malo/regular
-    comida_rank: muy buena
-    text: "No puedo zafar... A pesar de que la atenci\xF3n es mal\xEDsima (los mozos siempre est\xE1n mirando para otro lado o hablando entre \xE9llos...) voy una vez por semana... casa diez d\xEDas a lo sumo, porque la pizza es sublime y el antipasto de frutos de mar... incre\xEDble. Buen\xEDsimo el tiramis\xFA y las contras que comenta todo el mundo... pero si no quer\xE9s ruido..."
-    date: 07-07-2009
-    user: http://mi.guiaoleo.com/members/34109
-    ambiente_rank: bueno
-  - servicio_rank: malo/regular
     comida_rank: mala/regular
     text: "M\xFAsica muy alta y nada apta para comer, la  atenci\xF3n de las meseras es muy deficiente, nada de amabilidad ni cortes\xEDa, la comida con presentaci\xF3n demasiado casera e ins\xEDpida y el precio alt\xEDsimo. Me sent\xED robado. Quiz\xE1s sea un buen lugar para ir a tomar un trago, pero para cenar no lo recomiendo en lo absoluto."
     date: 03-07-2009
     user: http://mi.guiaoleo.com/members/17379
     ambiente_rank: malo/regular
-  - servicio_rank: bueno
-    comida_rank: muy buena
-    text: "Es el \xFAnico lugar en Buenos Aires en el que hacen aut\xE9ntica pizza italiana (y con ingredientes de muy buena calidad) y pienso que es un sitio al que por eso vale la pena ir. El ambiente es original aunque demasiado ruidoso y la atenci\xF3n algo ca\xF3tica. Como nota negativa el costo excesivo del servicio de mesa."
-    date: 29-05-2009
-    user: http://mi.guiaoleo.com/members/16130
-    ambiente_rank: bueno
   - servicio_rank: malo/regular
     comida_rank: mala/regular
     text: "Realmente mal\xEFsimo! conozco Filo desde hace mas o menos 12 a\xF1os...pero lo de anoche fue p\xEBsimo.La calidad ha ido cayendo, tanto de los productos como de los servicios.Mala la atenci\xF3n, me apuraban, no me dejaron disfrutar nada,era notable el desgano de la camarera,la ensalada \"AROMATICA\" que la pido siempre anoche estaba deplorable. La pizza que pidi\xF3 mi marido estaba buena, pero nada extraordinario.\r\n\
