@@ -1,3 +1,4 @@
+<<<<<: 1-ops.yaml :>>>>>------------------------------------------------------------------------------------------
 comment: NEGATIVO
 <1-ops.yaml, user: 16130, service: bueno, food: muy buena, enviroment: bueno, date: 29-05-2009>
 Texto orig: Es el unico lugar en Buenos Aires en el que hacen autentica pizza italiana  ( y con ingredientes de muy buena calidad )  y pienso que es un sitio al que por eso vale la pena ir.  El ambiente es original aunque demasiado ruidoso y la atencion algo caotica.  Como nota negativa el costo excesivo del servicio de mesa. 
@@ -101,6 +102,7 @@ comment: POSITIVO
 Texto orig: Muy bueno el sandwich de focaccia con mortadella y mozzarela; el ambiente sigue siendo canchero y con onda.  Tambien mejoro la atencion que en mi primera visita habia sido malisima, gracias a Lorena porque a pesar de que hubo un error con el pedido lo subsanaron enseguida.  Me gusto
 	result:
                | R6  bueno el sandwich- mejoro la atencion-
+               | R9  Muy bueno el sandwich-
 
 
 comment: POSITIVO
@@ -111,7 +113,7 @@ Texto orig: Fuimos varios a almorzar y nos atendieron correctamente, la comida e
                | R1  el ambiente es descontracturado-
                | R2  la comida es muy rica-
                | R5  un buen lugar-
-               | R7  nos atendieron correctamente-
+               | R8  nos atendieron correctamente-
 
 
 comment: POSITIVO
@@ -243,6 +245,13 @@ Texto orig: La pizza nos encanta, aunque esta vez vino medio fria y bastante que
                | R1  La pizza nos encanta- mesa es caro- la pizza es excelente- EL servicio es pesimo-
 
 
+comment: POSITIVO
+<1-ops.yaml, user: 30992, service: muy bueno, food: excelente, enviroment: muy bueno, date: 03-04-2008>
+Texto orig: un clasico que se mantiene vigente, la pizza de las mejores en version italiana, por primera vez probe las pastas y estaban espectaculares, el unico defecto es el disenio de menu que por la cantidd de platos, exhaustiva, uno se confunde y termina sin recorrer la totalidad de la carta, la barra espectacular con bebidas muy dificiles de conseguir en la ciudad, una vez mas, bravog
+	result:
+               | R4  la barra espectacular-
+
+
 comment: NEGATIVO
 <1-ops.yaml, user: 36540, service: bueno, food: mala/regular, enviroment: malo/regular, date: 23-02-2008>
 Texto orig: Para redondear, todo es de mal gusto, salvo la camarera que nos atendio bien, el resto desastre, precios altisimos, la comida no es mas de lo que se puede comer en un bodegon italiano, recomiendo que no vayan, van a salir de mal humor. 
@@ -262,6 +271,7 @@ comment: POSITIVO
 Texto orig: Muy buen ambiente y la comida muy buena.  Lo que me hizo enojar bastante  ( y por esta razon no volvere a ir )  es que han empezado a cobrar por cubiertos.  6 Pesos por persona.  Como si se pudiera comer sin cubiertos Esta estafa la deben haber copiado de Europa. 
 	result:
                | R0  la comida muy buena-
+               | R9  Muy buen ambiente-
 
 
 comment: POSITIVO
@@ -306,6 +316,7 @@ comment: POSITIVO
 Texto orig: Muy buenas pizzas, gran variedad para elegir.  El servicio fue correcto pero tuvo algunas fallas.  Es ideal para ir con amigos, pero aun no entiendo el por que de esa especie de amazona que se encuentra en la entrada. 
 	result:
                | R1  El servicio fue correcto pero tuvo algunas fallas-
+               | R9  Muy buenas pizzas-
 
 
 comment: POSITIVO
@@ -322,7 +333,7 @@ comment: POSITIVO
 <1-ops.yaml, user: 30992, service: muy bueno, food: excelente, enviroment: muy bueno, date: 01-09-2007>
 Texto orig: Que placer recuperar los sabores de italia que me recuerdan a los olores de la infancia, insuperable el rabo y una ensalada con pescados y mariscos maravillosa, la carta es un poco confusa por lo extensa, volvere para probar las pastas y las pizas que me fueron recomendadas.  
 	result:
-               | R7  me fueron recomendadas-
+               | R8  me fueron recomendadas-
 
 
 comment: POSITIVO
@@ -408,6 +419,8 @@ comment: POSITIVO
 Texto orig: Muy bueno el lenguado.  Quien hubiera dicho que podiamos comer un increible pescado en un lugar en donde predominan las buenas pizzas.        La musica italiana GENIAL       Diez puntos para los tanos Doce para las chicas que atienden, que son argentinaaaasss
 	result:
                | R5  un increible pescado- las buenas pizzas-
+               | R6  bueno el lenguado-
+               | R9  Muy bueno el lenguado-
 
 
 comment: POSITIVO
@@ -430,6 +443,7 @@ comment: POSITIVO
 Texto orig: Muy buen lugar, las pizzas son muy originales y respetan su origen italiano, recomendable siempre. 
 	result:
                | R2  las pizzas son muy originales-
+               | R9  Muy buen lugar-
 
 
 comment: POSITIVO
@@ -533,6 +547,7 @@ Texto orig: Muy buen menu de pizzas, al estilo italiano.  El ambiente excelente 
 	result:
                | R1  Los precios son altos pero-
                | R4  El ambiente excelente- la atencion buena-
+               | R9  Muy buen menu-
 
 
 comment: POSITIVO
@@ -540,6 +555,7 @@ comment: POSITIVO
 Texto orig: Muy buenas las ensaladas y pizzas, recomiendo el lugar pese al servicio que es muy lento. 
 	result:
                | R6  buenas las ensaladas- recomiendo el lugar-
+               | R9  Muy buenas las ensaladas-
 
 
 comment: POSITIVO
@@ -607,7 +623,7 @@ comment: POSITIVO
 <1-ops.yaml, user: 1214, service: excelente, food: excelente, enviroment: muy bueno, date: 27-04-2005>
 Texto orig: Me encanto el lugar y la comida.  Uno de los mas ricos risottos que he probado Vi el menu en una revista y me encanto lo que ofrece el restaurant. 
 	result:
-               | R6  encanto el lugar-
+               | R6  Me encanto el lugar-
 
 
 comment: POSITIVO
@@ -632,6 +648,7 @@ Texto orig: Buenas entradas y pizza, para los amantes de los risottos pedir mejo
                | R1  los risottos pedir mejor-
 
 
+<<<<<: 4-ops.yaml :>>>>>------------------------------------------------------------------------------------------
 comment: POSITIVO
 <4-ops.yaml, user: 84791, service: muy bueno, food: buena, enviroment: muy bueno, date: 20-06-2010>
 Texto orig: El lugar esta muy bien ambientado, los meseros muy atentos y tienen buena predisposicion para explicarte los contenidos de las comidas, lo malo que tiene es la carta,podria ser mas extensa.  Lo que no tienen que dejar de probar son los Margaritas, los mejores que he probado.  En fin es un buen lugar para ir de vez en cuando. 
@@ -794,6 +811,13 @@ Texto orig: La atencion fue muy mala, estuvimos esperando mesa por una hora apro
                | R2  La atencion fue muy mala-
 
 
+comment: POSITIVO
+<4-ops.yaml, user: 73894, service: bueno, food: buena, enviroment: muy bueno, date: 11-08-2009>
+Texto orig: Muy linda ambientacion.  No es como comer el mexico, pero bien por el esfuerzo.  Lo que hay es muy rico y sabroso
+	result:
+               | R9  Muy linda ambientacion-
+
+
 comment: NEGATIVO
 <4-ops.yaml, user: 46390, service: malo/regular, food: buena, enviroment: malo/regular, date: 11-08-2009>
 Texto orig: El lugar es muy chico y las mesas estan demasiado pegadas.  La atencion no es buena.  La comida no es mala pero tienen mucho por mejorar.  Si estas en las mesas de afuera y queres ir al banio, tenes que esperar que alguno de los mozos se digne a abrirte la puerta ya que esta trabada. \r\n En los ultimos meses aumentaron demasiado los precios para el servicio que ofrecen. 
@@ -839,7 +863,8 @@ Texto orig: Tuvimos que esperar pero nos sentaron rapido, buen servicio.  Primer
                | R0  plato muy sabroso- las mesas muy juntas-
                | R1  queso me decepcionaron-
                | R5  los mejores lugares-
-               | R7  nos sentaron rapido-
+               | R8  nos sentaron rapido-
+               | R9  Muy buen ambiente-
 
 
 comment: POSITIVO
@@ -856,7 +881,7 @@ Texto orig: Me encanto el lugar, la comida estuvo muy buena aunque el los tacos 
 	result:
                | R0  los platos muy rapidos-
                | R2  la comida estuvo muy buena aunque el los tacos al pastor- La atencion estuvo muy bien-
-               | R6  encanto el lugar-
+               | R6  Me encanto el lugar-
 
 
 comment: POSITIVO
@@ -897,6 +922,8 @@ Texto orig: Me gusto mucho la comida, pense que iba a ser mas picante, pero por 
                | R1  El ambiente es bueno-
                | R2  la comida es muy buena-
                | R6  mucho la comida-
+               | R7  Me gusto mucho la comida-
+               | R8  Me gusto mucho-
 
 
 comment: POSITIVO
@@ -957,7 +984,6 @@ comment: NEGATIVO
 <4-ops.yaml, user: 46342, service: malo/regular, food: mala/regular, enviroment: bueno, date: 13-06-2008>
 Texto orig: Muy malo todo, fui hace mucho y era excelente este lugar.   Ahora la comida es escasa, encima fria y sin sabor por lo que su alto precio no lo vale.   Desastroso, no vuelvo ni loco.  La moza parecia que le dolia la vida porque no explicaba nada y con la cara de fastidio auyentaba cualquier posible pregunta. 
 	result:
-               | R0  sabor por lo que su alto precio-
                | R1  la comida es escasa-
 
 
@@ -969,12 +995,11 @@ Texto orig: ANTES QUE NADA, RECOMIENDO LAS TRUFAS DE POSTRE.  UN VIAJE DE IDAUn 
                | R4  Los platos abundantes-
 
 
-comment: POSITIVO
+comment: NEGATIVO
 <4-ops.yaml, user: 44877, service: bueno, food: muy buena, enviroment: malo/regular, date: 04-05-2008>
 Texto orig: La comidad mexicana es de lo mejor de la zona, el problema que tiene este resto, es que el espacio es muy chico, por lo que las mesas estan muy juntas por lo tanto no es muy comodo. 
 	result:
                | R0  las mesas estan muy juntas-
-               | R2  mexicana es de lo mejor de la zona-
 
 
 comment: POSITIVO
@@ -1006,7 +1031,7 @@ comment: POSITIVO
 <4-ops.yaml, user: 39975, service: muy bueno, food: muy buena, enviroment: muy bueno, date: 12-02-2008>
 Texto orig: El lugar es lindo, pero recomiendo hacer reserva antes de ir.  La comida muy buena, auqnue los tacos muy pequenios, y solo dos por persona, te podes quedar con hambre.  Los nachos con guacamole recomendables, no asi los nachos con queso, el queso no era de lo mejor, y ademas muy poco para la cantidad de nachos que vienen.  Terminas comiendo nachos solos.  La cerveza mexicanan muy rica.  Fuimos 4 personas, pedimos dos entradas de nachos, y dos porciones de tacos, una de carne y otra de cordero  ( la de cordero espectacular ) , con gaseosas y cerveza mexicana gastamos 35$ por persona
 	result:
-               | R0  La comida muy buena- el queso no era de lo mejor- mexicanan muy rica-
+               | R0  La comida muy buena- mexicanan muy rica-
                | R1  El lugar es lindo-
 
 
@@ -1045,6 +1070,7 @@ comment: POSITIVO
 Texto orig: Muy linda la ambientacion del local.  La comida no me sorprendio pero fue servida en tiempo y forma.  Habia mucha gente y como eramos 2, nos toco una mesita pegada a una de 4  ) :
 	result:
                | R6  linda la ambientacion-
+               | R9  Muy linda la ambientacion-
 
 
 comment: POSITIVO
@@ -1053,6 +1079,7 @@ Texto orig: Muy rica la comida mexicana, insuperable el guacamole.  El ambiente 
 	result:
                | R0  las mozas muy atentas-
                | R6  rica la comida-
+               | R9  Muy rica la comida-
 
 
 comment: POSITIVO
@@ -1084,7 +1111,7 @@ comment: POSITIVO
 <4-ops.yaml, user: 5971, service: bueno, food: buena, enviroment: muy bueno, date: 24-11-2007>
 Texto orig: Es un lugar chiquito, con buen ambiente, muy bien decorado.  Hay mucha espera, pedimos una mesa para 6 y esperamos casi una hora.  La comida es buena pero no espectacular.  El mozo que nos atendio fue muy amable, la moza que asigna las mesas en la puerta no tanto. 
 	result:
-               | R1  La comida es buena pero no-
+               | R1  La comida es buena pero no espectacular-
                | R4  un lugar chiquito-
 
 
@@ -1123,7 +1150,7 @@ comment: POSITIVO
 <4-ops.yaml, user: 16793, service: bueno, food: buena, enviroment: bueno, date: 01-10-2007>
 Texto orig: Me decepcione bastante con Cielito Lindo.        La comida se deja comer sin ser espectacular ni mucho menos, pero ademas es un pobre reflejo de la cocina azteca, y como es un resto de Palermo fashion  ( a pesar de que la decoracion es de un bodegon mexicano ) los precios estan acordes a la zona, es decir, un poco caros en relacion con la calidad y el servicio.  Probe, pero no reincidire.         Con una visita, basta y sobra. 
 	result:
-               | R0  espectacular ni mucho-
+               | R0  comer sin ser espectacular-
 
 
 comment: POSITIVO
@@ -1140,6 +1167,7 @@ comment: POSITIVO
 Texto orig: Muy buen lugar en el cual la relacion precio calidad es muy buena.  Uno de los mejores lugares para comer mexicano. 
 	result:
                | R5  los mejores lugares-
+               | R9  Muy buen lugar-
 
 
 comment: POSITIVO
@@ -1186,12 +1214,14 @@ Texto orig: no hay espacio para sentarse comodo, el ambiente es muy ruidoso.  La
                | R2  el ambiente es muy ruidoso-
 
 
-comment: NEGATIVO
+comment: POSITIVO
 <4-ops.yaml, user: 26008, service: bueno, food: muy buena, enviroment: bueno, date: 23-06-2007>
 Texto orig: Me gusto mucho la comida, esta muy bien ambientado, lo que no me gusto es que es muy chico y las mesas estan demasiado juntas.  Personalmente a nosotros nos toco una mesa cerca de la cocina y era muy incomoda ya que pasaban todo el tiempo personas pegadas a mi.  
 	result:
                | R0  las mesas estan demasiado juntas-
                | R6  mucho la comida-
+               | R7  Me gusto mucho la comida-
+               | R8  Me gusto mucho-
 
 
 comment: POSITIVO
@@ -1239,7 +1269,6 @@ comment: POSITIVO
 Texto orig: Lamento discernir con algunos comentarios que he leido, pero las dos veces que fui a este lugar me paso exactamente lo mismo: todo muy lindo hasta que llega la comida.         La entrada de guacamole era sabrosa pero muy pequenia; los platos, lejos de ser abundantes, estaban recalentados y no los encontre sabrosos.  Comparando con otros mexicanos, realmente dejo mucho que desear.         De todas formas me senti bien atendido y el ambiente esta bien logrado. 
 	result:
                | R0  el ambiente esta bien-
-               | R2  lugar me paso exactamente lo mismo : todo muy lindo hasta que llega la comida-
 
 
 comment: POSITIVO
@@ -1274,7 +1303,7 @@ comment: POSITIVO
 <4-ops.yaml, user: 10003, service: muy bueno, food: muy buena, enviroment: muy bueno, date: 03-02-2007>
 Texto orig: Lugar agradable.  Hay que esperar mesa.  Me atendieron bien, amable.  Estaba en un rincon minimo.  Entrada las sincronizadas  ( nada del otro mundo ) .  Probe el pollo al achiote.  El valor del mismo es de diecinueve pesos y los tacos al pastor que estaban muy ricos.  El pastel tres leches  ( nueve pesos )  era muy sabroso.  Acompanie con una Margarita chica dulce  ( siete pesos ) .  Si bien todo es bastante rico, es caro y las porciones son chicas.  Hay que pedir factura, te traen el pedido nomas como cuenta.  Lugar para conocer.  
 	result:
-               | R7  Me atendieron bien-
+               | R8  Me atendieron bien-
 
 
 comment: POSITIVO
@@ -1337,6 +1366,7 @@ Texto orig: Muy buena la comida, el alambre de carne con queso fundido es un cla
                | R2  La decoracion es muy linda tiene muchos objetos preciosos de Mexico-
                | R5  un clasico como-
                | R6  buena la comida-
+               | R9  Muy buena la comida-
 
 
 comment: POSITIVO
@@ -1396,6 +1426,7 @@ Texto orig: Muy buena la comida y la atencion.  Es un excelente lugar para ir en
 	result:
                | R5  un excelente lugar-
                | R6  buena la comida-
+               | R9  Muy buena la comida-
 
 
 comment: POSITIVO
@@ -1405,6 +1436,7 @@ Texto orig: La mejor comida mexicana que comi en Buenos Aires, es recomendable e
                | R1  El servicio es excelente-
                | R5  La mejor comida-
                | R6  recomendable el lugar-
+               | R7  es recomendable el lugar-
 
 
 comment: POSITIVO
@@ -1460,6 +1492,7 @@ Texto orig: Muy rica la comida principal, el trago muy bueno y el postre no se d
 	result:
                | R0  el trago muy bueno- el postre no se destacaba demasiado-
                | R6  rica la comida- lastima el servicio-
+               | R9  Muy rica la comida-
 
 
 comment: POSITIVO
@@ -1487,6 +1520,14 @@ Texto orig: Muy bueno el lugar a pesar de ser un poco chico.  La atencion buena 
                | R0  la comida no estaba mal-
                | R4  La atencion buena-
                | R6  bueno el lugar-
+               | R9  Muy bueno el lugar-
+
+
+comment: POSITIVO
+<4-ops.yaml, user: 3832, service: excelente, food: excelente, enviroment: excelente, date: 13-09-2005>
+Texto orig: Muy buen lugar.  Un poco pequenio, pero dicen que lo bueno viene en frasco chico.  Me siento como en mi casa, muy comodo. 
+	result:
+               | R9  Muy buen lugar-
 
 
 comment: NEGATIVO
@@ -1501,8 +1542,17 @@ comment: POSITIVO
 Texto orig: Muy rica la comida, opcion para no poner la carne en la comida y convertirlo en vegetariano. 
 	result:
                | R6  rica la comida-
+               | R9  Muy rica la comida-
 
 
+comment: POSITIVO
+<4-ops.yaml, user: 7, service: excelente, food: muy buena, enviroment: muy bueno, date: 05-02-2005>
+Texto orig: Muy buena comida mexicana.  Los sabados por la noche se llena a mas no poder, hay por lo menos 45 minutos de espera, pero al final vale la pena. 
+	result:
+               | R9  Muy buena comida-
+
+
+<<<<<: 7-ops.yaml :>>>>>------------------------------------------------------------------------------------------
 comment: POSITIVO
 <7-ops.yaml, user: 55402, service: muy bueno, food: excelente, enviroment: excelente, date: 04-07-2010>
 Texto orig: El lugar es super increiblemente agradable y exacto en las dimensiones y distancia entre mesa y mesa.  El jardin es ideal para amigos y parejas que quieran descanzar con un trago en mano.  Es como una extension del jardin de nuestras casas. 
@@ -1522,6 +1572,7 @@ comment: POSITIVO
 <7-ops.yaml, user: 84413, service: bueno, food: muy buena, enviroment: excelente, date: 27-06-2010>
 Texto orig: Un lugar precioso Lamentablemente el jardin esta siempre ocupado por los fumadores y los no fumadores nos vemos vedados mirando desde vidrio adentro los verdes.  En un dia soleado es un lugar hermoso.  Los menues del mediodia excelentes Cerveza casera muy buena
 	result:
+               | R0  Los menues del mediodia excelentes Cerveza-
                | R4  Un lugar precioso Lamentablemente- un lugar hermoso-
 
 
@@ -1589,6 +1640,7 @@ comment: POSITIVO
 Texto orig: Excelentes los tragos en base a vodka.  Muy lindo lugar y buena cocina.  Excelente punto de partida para una noche especial. 
 	result:
                | R6  Excelentes los tragos-
+               | R9  Muy lindo lugar-
 
 
 comment: POSITIVO
@@ -1713,6 +1765,7 @@ Texto orig: Fuimos un sabado que tienen un menu especial con 4 opciones de entra
 	result:
                | R0  presentacion para mejorar-
                | R1  La atencion fue buena-
+               | R4  un menu especial-
 
 
 comment: POSITIVO
@@ -1751,7 +1804,7 @@ comment: POSITIVO
 Texto orig: Me encanta el lugar, en cualquier estacion y a toda hora.  La comida es muy buena  ( algunos platos algo pequenios ) , los tragos, mas.  Absolutamente recomendable. 
 	result:
                | R2  La comida es muy buena-
-               | R6  encanta el lugar-
+               | R6  Me encanta el lugar-
 
 
 comment: POSITIVO
@@ -1760,6 +1813,13 @@ Texto orig: |-      En principio no me gusto que la carta este en el mantel, me 
 	result:
                | R0  las mesas hace que unas sean muy buenas-
                | R4  La comida demoraba-
+
+
+comment: POSITIVO
+<7-ops.yaml, user: 46674, service: muy bueno, food: muy buena, enviroment: muy bueno, date: 10-06-2009>
+Texto orig: Un lugar al que cada tanto vuelvo.  Muy buena atencion y predisposicion para darnos una buena mesa, mientras la esperabamos nos arrimamos a la barra y como siempre un placer elegir algun trago con vodka.  Sabores distintos a lo tradicional, para renovar el paladar
+	result:
+               | R9  Muy buena atencion-
 
 
 comment: POSITIVO
@@ -1800,14 +1860,14 @@ comment: POSITIVO
 Texto orig: Me encanto la comida si bien no es tipicamente escandinava.  Riquisima.  El servicio bastante bueno,esperaba menos y la ambientacion muy relajada aunque las mesas para dos personas estan muy juntas.  En general: muy bueno. 
 	result:
                | R0  la comida si bien- El servicio bastante bueno- personas estan muy juntas-
-               | R6  encanto la comida-
+               | R6  Me encanto la comida-
 
 
 comment: POSITIVO
 <7-ops.yaml, user: 4074, service: muy bueno, food: muy buena, enviroment: excelente, date: 05-04-2009>
 Texto orig: Un cl\xE0sico al que siempre me d\xE0 ganas de volverEn ambienatci\xF2n siempre me cuesta encontrar alguno que lo supere, v\xEC una carta renovada con muchas opciones y todos en  la mesa quedamos conformes con lo elegido  ( polllo relleno, at\xF9n rojo, orechiete y slam\xF2n ) y para m\xEC sorpresa una de las fallas que sol\xECa tener que era el servicio lo encontr\xE8 mucho m\xE0s eficaz y atento, as\xEC c\xF2mo los tiempos que manejaron que a veces eran eternos. Me alegro ya que insisto es un  lugar especial. Los precios acordes al momento
 	result:
-               | R0  carta renovada con muchas- el servicio lo encontr\xE8 mucho-
+               | R0  carta renovada con muchas-
                | R4  un lugar especial-
 
 
@@ -1827,6 +1887,8 @@ Texto orig: La verdad es que me gusto muchisimo el lugar, si bien las recomendac
                | R0  el mozo conocia muy bien- Un lugar muy recomendable-
                | R2  la atencion me parecio excelente-
                | R6  muchisimo el lugar- bien la carta-
+               | R7  me gusto muchisimo el lugar-
+               | R8  me gusto muchisimo-
 
 
 comment: POSITIVO
@@ -1835,6 +1897,7 @@ Texto orig: Excelente.  Muy buena la comida, aunque el plato principal es un poc
 	result:
                | R0  postre esta mas que bien- el servicio iba a ser malo-
                | R6  buena la comida-
+               | R9  Muy buena la comida-
 
 
 comment: POSITIVO
@@ -1844,6 +1907,13 @@ Texto orig: muy buen lugar para ir en grupo, excelente la degustacion de vodkas 
                | R0  vodkas con canapes tipicos-
                | R4  la comida bien elaborada-
                | R6  destacada la atencion-
+
+
+comment: POSITIVO
+<7-ops.yaml, user: 39836, service: bueno, food: excelente, enviroment: muy bueno, date: 03-03-2009>
+Texto orig: |-      Un gran lugar para dsifrutar de comidas y bebidas que generalmente, no se consume en otros restaurantes.       La atencion dista de ser la mejor pero para lo que nos acostumbro esa zona, es buena.       Muy buena barra y comida en su punto justo. 
+	result:
+               | R9  Muy buena barra-
 
 
 comment: POSITIVO
@@ -1904,6 +1974,7 @@ Texto orig: Muy buena la ambientacion y el uso del jardin, las mozas muy lindas 
 	result:
                | R0  las mozas muy lindas-
                | R6  buena la ambientacion-
+               | R9  Muy buena la ambientacion-
 
 
 comment: POSITIVO
@@ -1983,7 +2054,7 @@ comment: POSITIVO
 <7-ops.yaml, user: 6268, service: bueno, food: muy buena, enviroment: bueno, date: 25-07-2008>
 Texto orig: Original la entrada de canapes con vodka, ideal si no sos un experto.  La comida es de muy buena calidad aunque casi escasa  ( parece frances y no noruego ) .  Hay que pedir entrada.  El precio razonable.  Las mesas demasiado juntas, aunque eso hoy es inevitable.  La atencion fue mejor que lo que me habian dicho. 
 	result:
-               | R1  La atencion fue mejor que lo que-
+               | R1  La atencion fue mejor que-
                | R2  La comida es de muy buena calidad aunque casi escasa -
                | R4  El precio razonable- Las mesas demasiado juntas-
 
@@ -2001,6 +2072,7 @@ comment: POSITIVO
 Texto orig: hay que ir a Olsen es un lugar espectacular, tanto en invierno  ( por sus platos bien consistentes ) como en verano  ( el jardin es especial ) .  Lo unico que no me gusto fue el cocktail que pedi, le faltaba azucar y hielo  ( tuvo que llevarselo el camarero para mejorarlo ) .  Pero fue un detalle simplemente,  ( cuestiones de gusto personal ) . Muy bueno Olsen
 	result:
                | R0  el camarero para mejorarlo-
+               | R4  un lugar espectacular-
 
 
 comment: POSITIVO
@@ -2019,13 +2091,13 @@ Texto orig: Muy bueno el lugar, la ambientacion es lograda.  Los platos se desta
                | R0  Los platos se destacan- el Cerdo ahumado Exquisito-
                | R1  Las porciones son escasas-
                | R6  bueno el lugar-
+               | R9  Muy bueno el lugar-
 
 
 comment: POSITIVO
 <7-ops.yaml, user: 35220, service: muy bueno, food: excelente, enviroment: muy bueno, date: 21-06-2008>
 Texto orig: Fui con mi novia y la verdad que Olsen me sorprendio.  Me parecio todo muy bueno, el servicio bueno, la moza nos explico y recomendo los platos.  El ambiente es moderno, ideal para ir a tomar algo y mejor en verano, ya que tiene un lindo parque con mesas.  La comida me parecio de lo mejor y muy original, para destacar la panera y las cremas de salmon y pepinos.  Recomiendo la merluza negra y el cordero.  Para volver
 	result:
-               | R2  La comida me parecio de lo mejor-
                | R4  el servicio bueno-
                | R6  recomendo los platos- destacar la panera-
 
@@ -2035,6 +2107,7 @@ comment: POSITIVO
 Texto orig: El lugar es muy calido, adecuado para ir en pareja o con amigos.  Muy buenos tragos y entradas.  Los principales me desilucionaron un poco, sobre todo la presentacion.  El postre fue lo que bajo el promedio.  No estaba muy rico. 
 	result:
                | R2  El lugar es muy calido-
+               | R9  Muy buenos tragos-
 
 
 comment: POSITIVO
@@ -2099,6 +2172,7 @@ Texto orig: Nos gusto mucho.  La comida resulto excelente al igual que la atenci
 	result:
                | R0  La comida resulto excelente-
                | R4  los platos recomendados-
+               | R8  Nos gusto mucho-
 
 
 comment: POSITIVO
@@ -2106,6 +2180,7 @@ comment: POSITIVO
 Texto orig: Muy originales los platos y la presentacion, el ambiente lindisimo.  Muy bien preparados los cocktails.  Atencion regular. 
 	result:
                | R6  originales los platos-
+               | R9  Muy originales los platos-
 
 
 comment: POSITIVO
@@ -2119,6 +2194,7 @@ comment: POSITIVO
 <7-ops.yaml, user: 43633, service: muy bueno, food: buena, enviroment: muy bueno, date: 19-04-2008>
 Texto orig: Sitio ideal para brunch, fashion, acogedor jardin, lamentablemente a menos que tenga reservacion es mision imposible sentarse afuera.  La comida buena, un poco pesada  ( ej. , frita )  tanto para el horario, como para el tipo de cocina: vivi 4 anios en Escandinavia y a decir verdad lo unico que tiene de escandinavo el lugar es la decoracion minimalista y de maderas blancas, el jardin, la variedad de de vodkas y la entrada con piezas de pan de centeno.  Faltan incluir en el menu propuestas mas frescas de pescado, vegetales y variedad en panes.  Podrian mejorar mucho. 
 	result:
+               | R0  el menu propuestas mas frescas-
                | R4  La comida buena-
 
 
@@ -2151,6 +2227,7 @@ Texto orig: buen servicio en cuanto a la comida es buena la ambientacion esta bi
                | R0  la ambientacion esta bien-
                | R1  la comida es buena-
                | R6  buena la ambientacion-
+               | R7  es buena la ambientacion-
 
 
 comment: POSITIVO
@@ -2189,6 +2266,7 @@ comment: POSITIVO
 Texto orig: Muy lindo el lugar, original la entrada.  Pedi un risotto a la naranja con almendras que estaba exquisito.  Recomendable. 
 	result:
                | R6  lindo el lugar-
+               | R9  Muy lindo el lugar-
 
 
 comment: POSITIVO
@@ -2221,7 +2299,7 @@ comment: POSITIVO
 Texto orig: El lugar es espectacular.  La decoracion, el ambiente, y hasta la parte exterior son muy buenas.  La comida es interesante, para paladares que se atreven a probar cosas nuevas.  Comi ravioles de ciervo y cereza con ensalada y la verdad que fue toda una experiencia.  La bondiola con salsa de frutos rojos es muy recomendable.  La degustacion de canapes y vodkas en una buena opcion para probar un poco de todo.  Los postres tambien son buenos, la tarta de frutillas con albahaca y helado de pimienta fue un excelente cierre para una cena diferente. 
 	result:
                | R0  vodkas en una buena-
-               | R1  La comida es interesante-
+               | R1  El lugar es espectacular- La comida es interesante-
 
 
 comment: POSITIVO
@@ -2251,7 +2329,6 @@ Texto orig: El lugar esmuy bueno.  La decoracion es lo mas importante, tanto ade
 	result:
                | R0  El lugar esmuy bueno- las camareras dejan mucho-
                | R1  La atencion es excelente-
-               | R2  La decoracion es lo mas importante-
 
 
 comment: POSITIVO
@@ -2268,11 +2345,19 @@ Texto orig: Comida que llega raspando a buena, en muy buen ambiente, pero otra v
                | R0  Comida que llega raspando a buena- experiencia que podria haber sido mucho-
 
 
+comment: POSITIVO
+<7-ops.yaml, user: 39517, service: muy bueno, food: excelente, enviroment: muy bueno, date: 16-12-2007>
+Texto orig: Muy buen lugar.  Concurri varias veces y siempre me atendieron muy bien.  La cocina es EXCELENTE, aunque me gustaria una carta un poco mas variada.  Aconsejo arrancar con un 5x5 y terminar con una degustacion de postres  ( para compartir ntre varios ) , de plato principal, cualquier opcion es acertada.  Por favor no se zarpen con los precios
+	result:
+               | R9  Muy buen lugar-
+
+
 comment: NEGATIVO
 <7-ops.yaml, user: 8366, service: bueno, food: buena, enviroment: excelente, date: 29-11-2007>
 Texto orig: |-      El ambiente es espectacular, pero la comida tiene nombre raro y es standard  ( y cara )        Tambien, es muy molesto que los mozos pasen a cada rato a preguntarte si queres mas bebidas y te saquen cada botella consumida. . .  estan entrenados para que consumas todo lo que puedas.  Te van a decir que los platos tardan un rato y que te pidas una entrada. . .         Volveria solo para una cena romantica en los silloncitos, o para tomar algo con amigos
 	result:
                | R0  la comida tiene nombre raro-
+               | R1  El ambiente es espectacular-
                | R4  los platos tardan-
 
 
@@ -2334,6 +2419,7 @@ comment: POSITIVO
 Texto orig: Me gusto mucho el Olsen, uno de los mejores restaurantes que conoci en Buenos Aires.         Es una optima opcion para los turistas que desean cambiar un poco del estilo parrilla/bife. 
 	result:
                | R5  los mejores restaurantes-
+               | R8  Me gusto mucho-
 
 
 comment: POSITIVO
@@ -2365,6 +2451,13 @@ Texto orig: Una experiencia muy agradable a un precio justo.  Completamente reco
 
 
 comment: POSITIVO
+<7-ops.yaml, user: 25520, service: excelente, food: muy buena, enviroment: excelente, date: 30-09-2007>
+Texto orig: Muy lindo lugar con mesas en el jardin ideales para almorzar un dia soleado.  El brunch de los domingos es muy bueno.  El personal es joven y con muy buena onda. 
+	result:
+               | R9  Muy lindo lugar-
+
+
+comment: POSITIVO
 <7-ops.yaml, user: 2276, service: bueno, food: muy buena, enviroment: muy bueno, date: 23-09-2007>
 Texto orig: Se come muy bien a buen precio.  El ambiente es muy lindo pero muy ruidoso.    
 	result:
@@ -2385,6 +2478,7 @@ Texto orig: Excelente el lugar.  Una ambientacion  unica.  Me soprendio ver al f
 	result:
                | R0  comida al mejor- precios mas que razonables-
                | R6  Excelente el lugar-
+               | R9  Muy buena atencion-
 
 
 comment: POSITIVO
@@ -2401,6 +2495,13 @@ Texto orig: Increible conjuncion entre la comida, el servicio y el ambiente.  La
 	result:
                | R0  las mozas muy buena-
                | R5  el exquisito plato-
+
+
+comment: POSITIVO
+<7-ops.yaml, user: 20379, service: muy bueno, food: excelente, enviroment: muy bueno, date: 25-08-2007>
+Texto orig: Una vez mas la cocina de German Martitegui sorprende.  Se elaboracion del menu es original y excelente.  Hay que ir con reservas, siempre hay mucha gente.  La carta de tragos ayuda a qu se prolongue la velada.  Buen ambiente.  
+	result:
+               | R1  menu es original-
 
 
 comment: POSITIVO
@@ -2429,9 +2530,9 @@ comment: POSITIVO
 <7-ops.yaml, user: 15476, service: muy bueno, food: muy buena, enviroment: excelente, date: 21-07-2007>
 Texto orig: Un lugar imperdible.  Muy buena ambientacion.  Me sorprendio ver comentarios sobre lo malo del servicio; en mi experiencia, me atendieron barbaro.  La comida es excelente.  Precios algo elevados, pero vale la pena conocerlo.  No dejen de probar la degustaciond de vodkas
 	result:
-               | R0  comentarios sobre lo malo-
                | R1  La comida es excelente-
-               | R7  me atendieron barbaro-
+               | R8  me atendieron barbaro-
+               | R9  Muy buena ambientacion-
 
 
 comment: POSITIVO
@@ -2447,7 +2548,6 @@ comment: POSITIVO
 Texto orig: Excelente, un lugar fantastico donde la comida es siempre de lo mejor, unas papas rotas inolvidables sopas frias exquisitas, y el resto simplemente sensacional. 
 	result:
                | R0  papas rotas inolvidables sopas frias exquisitas-
-               | R2  la comida es siempre de lo mejor-
 
 
 comment: POSITIVO
@@ -2457,11 +2557,11 @@ Texto orig: Hay que reconocer que durante el paso de los anios Olsen, mantuvo un
                | R5  La mejor barra-
 
 
-comment: NEGATIVO
-<7-ops.yaml, user: 25727, service: malo/regular, food: mala/regular, enviroment: muy bueno, date: 01-07-2007>
-Texto orig: El lugar seduce desde su ambientacion.   Pareciera que con esto alcanzara para el personal del lugar, porque despues es todo descortesia y displicencia.        Por otro lado, algunas de las reglas del lugar rayan lo ridiculo. 
+comment: POSITIVO
+<7-ops.yaml, user: 26356, service: muy bueno, food: mala/regular, enviroment: muy bueno, date: 07-07-2007>
+Texto orig: Es como comer en IKEA high end.   Fui con un grupo y fije un menu que promete pero no llega a ser rico.   Lo mejor son los tragos con vodka especialmente mint con maracuja y menta.   Arquitectonicamente es divino y dan ganas de quedarse
 	result:
-               | R0  lugar rayan lo ridiculo-
+               | R0  un menu que promete pero no llega a ser rico-
 
 
 comment: POSITIVO
@@ -2516,6 +2616,7 @@ Texto orig: Fui dos veces con mi novia.  El lugar es muy lindo de los mas lindos
 	result:
                | R2  El lugar es muy lindo de los mas lindos de BsAs-
                | R6  buena la bondiola-
+               | R9  Muy buenos tragos-
 
 
 comment: POSITIVO
@@ -2653,7 +2754,7 @@ Texto orig: La comida fue muy buena, recomomiendo la bondiola.         El servic
 	result:
                | R0  El lugar esta muy buen-
                | R2  La comida fue muy buena-
-               | R7  nos atendieron cordial-
+               | R8  nos atendieron cordial-
 
 
 comment: POSITIVO
@@ -2684,6 +2785,7 @@ comment: POSITIVO
 Texto orig: La atencion fue muy buena, el ambiente del lugar es espectacular y la comida excelente.         Los que se quejaban del precio se ve que no salen mucho a comer afuera, se paga por la calidad de la comida y por lo cool del ambiente. 
 	result:
                | R0  precio se ve que no salen mucho-
+               | R1  lugar es espectacular-
                | R2  La atencion fue muy buena-
                | R4  la comida excelente-
 
@@ -2704,6 +2806,13 @@ Texto orig: Muy fashion e ideal para branch.  muy buena recepcion y ambientacion
 
 
 comment: POSITIVO
+<7-ops.yaml, user: 17795, service: excelente, food: muy buena, enviroment: excelente, date: 09-02-2007>
+Texto orig: Muy lindo lugar; con ambiente confortable.  Me gusto la arquitectura. 
+	result:
+               | R9  Muy lindo lugar-
+
+
+comment: POSITIVO
 <7-ops.yaml, user: 17265, service: muy bueno, food: muy buena, enviroment: muy bueno, date: 30-01-2007>
 Texto orig: Excelente lugar para tomar un buen trago.  La cockteleria es de altisimo nivel.  No hay que pensar en una cena abundante para pedir, pero vale la pena probar las degustaciones de vodkas.  La atencion del personal es buena, con asesoramiento permanente y sugerencias respecto al menu y los tragos.  La demora en los platos es avisada por los camareros, ya que la cocina trabaja a partir de cada pedido.  
 	result:
@@ -2717,6 +2826,7 @@ Texto orig: Olsen me gusta, es un lugar donde se come siempre muy bien, me gusta
 	result:
                | R0  come siempre muy bien-
                | R5  un clasico como-
+               | R8  me gusta mucho-
 
 
 comment: POSITIVO
@@ -2749,6 +2859,7 @@ comment: POSITIVO
 Texto orig: Me parecio un lugar para conocer y volver.  Muy buena la comida, increible la ambientacion.  Del servicio nada que decir, como debe ser.  Una velada perfecta. 
 	result:
                | R6  buena la comida- increible la ambientacion-
+               | R9  Muy buena la comida-
 
 
 comment: POSITIVO
@@ -2793,6 +2904,14 @@ Texto orig: Muy recomendable el ambiente de este restaurante.  La comida me pare
 	result:
                | R2  La comida me parecio buena-
                | R6  recomendable el ambiente-
+               | R9  Muy recomendable el ambiente-
+
+
+comment: POSITIVO
+<7-ops.yaml, user: 16128, service: muy bueno, food: buena, enviroment: excelente, date: 29-12-2006>
+Texto orig: El lugar es espectacular para pasar un rato agradable con amigos.         No es apto para ninios  ( hay un espacio con agua y una escalera ) . 
+	result:
+               | R1  El lugar es espectacular para pasar-
 
 
 comment: POSITIVO
@@ -2861,7 +2980,7 @@ comment: POSITIVO
 Texto orig: Lo mejor, sin dudas, es el lugar en si que es PRECIOSO.  La comida esta bien pero, mas alla de ser sofisticada, no es gran cosa.  Los tragos muy buenos.  Lo que te hace ir poco es el precio.  MUY caro.  Nos atendieron bien, aunque lentos.  \xA1El jardin de la entrada es una delicia que hay que conocer En cuanto a disenio, \xA1un 10
 	result:
                | R0  La comida esta bien- Los tragos muy buenos-
-               | R7  Nos atendieron bien-
+               | R8  Nos atendieron bien-
 
 
 comment: POSITIVO
@@ -2879,6 +2998,13 @@ Texto orig: Excelente comida, me gusta la idea de poder degustar vodkas de cualq
 
 
 comment: POSITIVO
+<7-ops.yaml, user: 13213, service: excelente, food: muy buena, enviroment: excelente, date: 27-10-2006>
+Texto orig: Muy buen lugar.  \xC1ltamente recomendable. 
+	result:
+               | R9  Muy buen lugar-
+
+
+comment: POSITIVO
 <7-ops.yaml, user: 14199, service: bueno, food: excelente, enviroment: excelente, date: 21-10-2006>
 Texto orig: Ambiente muy agradable.  Excelente patio.  Ideal para primera cita o salida de pareja.  Variedad infinita para los que gustan del vodka. 
 	result:
@@ -2890,6 +3016,7 @@ comment: POSITIVO
 Texto orig: Me gusto mucho la onda del lugar.  Estuvimos en el deck, lo cual hizo aun mas bonita la cena.  Los vodkas saborizados merecen ser probados  ( buenos consejos de la camarera al respecto ) .  La comida es riquisima y distinta.  La atencion es inmejorable: calida y amena.  \xA1Lo super recomiendo.  Voy a volver para algun brunch. 
 	result:
                | R1  La comida es riquisima- La atencion es inmejorable : calida-
+               | R8  Me gusto mucho-
 
 
 comment: POSITIVO
@@ -2905,7 +3032,7 @@ comment: POSITIVO
 Texto orig: Me encanto el lugar.  Fui con amigos, el servicio es fabuloso, muy buena onda.         La comida es buena, pero me parecio poca.  El lugar es genial, ideal para ir un domingo al mediodia, lo recomiendo. 
 	result:
                | R1  La comida es buena-
-               | R6  encanto el lugar-
+               | R6  Me encanto el lugar-
 
 
 comment: POSITIVO
@@ -2920,6 +3047,7 @@ comment: POSITIVO
 Texto orig: Muy buen resto, ademas la atencion super cordial y muy atentos desde la recepcionista, el maitre hasta el camarero.  Muy recomendable. 
 	result:
                | R0  la atencion super cordial-
+               | R9  Muy buen resto-
 
 
 comment: POSITIVO
@@ -2974,6 +3102,7 @@ Texto orig: Lugar extraordinario.         Muy buena ambientacion.         Los pl
 	result:
                | R1  Los platos son abundantes- Los tragos son exquisitos-
                | R2  la atencion es muy cordial-
+               | R9  Muy buena ambientacion-
 
 
 comment: POSITIVO
@@ -2991,10 +3120,18 @@ Texto orig: Muy originales y complejos los sabores de los platos, especialmente 
 
 
 comment: POSITIVO
+<7-ops.yaml, user: 10904, service: muy bueno, food: muy buena, enviroment: muy bueno, date: 13-08-2006>
+Texto orig: Buena comida, en la semana al mediodia tienen un menu interesante. 
+	result:
+               | R4  un menu interesante-
+
+
+comment: POSITIVO
 <7-ops.yaml, user: 11044, service: excelente, food: excelente, enviroment: muy bueno, date: 10-08-2006>
 Texto orig: Espectacular la bondiola.  El jugo de tomate excelente preparado sin alcohol, porque estoy embarazada, pero buenisimo.         La atencion y los consejos son de primera. 
 	result:
                | R0  El jugo de tomate excelente-
+               | R6  Espectacular la bondiola-
 
 
 comment: POSITIVO
@@ -3003,6 +3140,7 @@ Texto orig: Mesas muy juntitas.         Buenisima la tabla de smorrevrod, que vi
 	result:
                | R5  Los mejores tragos-
                | R6  Buenisima la tabla-
+               | R9  Muy buena presentacion-
 
 
 comment: POSITIVO
@@ -3140,6 +3278,7 @@ comment: POSITIVO
 Texto orig: Muy buen servicio y comida.  Un poco caro.  Muy atento el personal. 
 	result:
                | R6  atento el personal-
+               | R9  Muy buen servicio- Muy atento el personal-
 
 
 comment: POSITIVO
@@ -3149,13 +3288,6 @@ Texto orig: El lugar es excelente, esta muy bien puesto y una perlita es ese jar
                | R0  la atencion a veces se ve desbordada porque hay mucho-
                | R1  El lugar es excelente-
                | R2  La comida es muy buena-
-
-
-comment: POSITIVO
-<7-ops.yaml, user: 7835, service: excelente, food: muy buena, enviroment: excelente, date: 19-04-2006>
-Texto orig: Me parecio un lugar magnifico.  Nos juntamos con unos amigos y la atencion fue de lo mejor, como tambien la comida y la onda que tiene el lugar.  Lejos, lo mas lindo de Palermo. 
-	result:
-               | R2  la atencion fue de lo mejor-
 
 
 comment: POSITIVO
@@ -3187,6 +3319,13 @@ comment: NEGATIVO
 Texto orig: A veces la comida decepciona. 
 	result:
                | R4  la comida decepciona-
+
+
+comment: POSITIVO
+<7-ops.yaml, user: 7349, service: bueno, food: excelente, enviroment: muy bueno, date: 28-03-2006>
+Texto orig: Muy buena ambientacion, cocina y  tragos.  Lo unico negativo es la atencion. 
+	result:
+               | R9  Muy buena ambientacion-
 
 
 comment: POSITIVO
@@ -3227,6 +3366,13 @@ Texto orig: El lugar esta muy bien puesto, los sillones al aire libre son barbar
                | R0  El lugar esta muy bien-
                | R1  La barra es ideal para-
                | R5  un buen trago-
+
+
+comment: POSITIVO
+<7-ops.yaml, user: 6554, service: muy bueno, food: excelente, enviroment: muy bueno, date: 21-02-2006>
+Texto orig: Muy buena ambientacion y muy buena comida.  No me parece muy bien que cobren $4 de servicio de mesa por persona y que ello no incluya la propina. 
+	result:
+               | R9  Muy buena ambientacion-
 
 
 comment: NEGATIVO
@@ -3304,11 +3450,11 @@ Texto orig: \xA1Arruinaron el atun con toneladas de comino Imperdonable.        
                | R0  el lugar merece algo mejor-
 
 
-comment: NEGATIVO
+comment: POSITIVO
 <7-ops.yaml, user: 5046, service: bueno, food: buena, enviroment: muy bueno, date: 25-11-2005>
 Texto orig: Un ambiente muy cool.  El menu del mediodia tiene buen precio, pero la comida no es demasiado buena y el servicio extremadamente lento. 
 	result:
-               | R0  el servicio extremadamente lento-
+               | R0  El menu del mediodia tiene buen precio- el servicio extremadamente lento-
 
 
 comment: POSITIVO
@@ -3317,6 +3463,13 @@ Texto orig: La comida es muy buena, muy rico el pan.  Las dos entradas que pedim
 	result:
                | R2  La comida es muy buena- El lugar es muy agradable- la atencion me parecio buena-
                | R6  rico el pan-
+
+
+comment: POSITIVO
+<7-ops.yaml, user: 4620, service: excelente, food: muy buena, enviroment: excelente, date: 03-11-2005>
+Texto orig: Muy buen lugar para comer con pareja. 
+	result:
+               | R9  Muy buen lugar-
 
 
 comment: POSITIVO
@@ -3391,6 +3544,13 @@ Texto orig: Me esperaba algo mas del lugar, tenia creadas muchas expectativas.  
 
 
 comment: POSITIVO
+<7-ops.yaml, user: 1395, service: muy bueno, food: excelente, enviroment: excelente, date: 19-08-2005>
+Texto orig: El mejor menu del mediodia de Buenos Aires.  Es el restaurante favorito de mi hijo Nicolas y el mio.  Por la comida, la atencion, el lugar, en fin. . .  todo. 
+	result:
+               | R5  El mejor menu-
+
+
+comment: POSITIVO
 <7-ops.yaml, user: 3379, service: malo/regular, food: muy buena, enviroment: excelente, date: 18-08-2005>
 Texto orig: |      La comida es excelente, pero el servicio es malo.  Los chicos son arrogantes. 
 	result:
@@ -3417,7 +3577,7 @@ comment: POSITIVO
 <7-ops.yaml, user: 2867, service: excelente, food: excelente, enviroment: excelente, date: 22-07-2005>
 Texto orig: Estaba repleto, excelentes los chicos de la entrada, fuimos sin reserva y nos acomodaron rapidamente.  El ambiente muy calido y los mozos de lo mejor que hemos visto.  Muy recomendable Nuestra experiencia ha sido realmente grata. 
 	result:
-               | R0  El ambiente muy calido- los mozos de lo mejor-
+               | R0  El ambiente muy calido-
 
 
 comment: POSITIVO
@@ -3469,7 +3629,6 @@ comment: POSITIVO
 <7-ops.yaml, user: 1785, service: excelente, food: excelente, enviroment: excelente, date: 12-05-2005>
 Texto orig: Voy casi todas las semanas, los camareros son muy atentos y saben recomendar, excelentes tragos Lo recomiendo. 
 	result:
-               | R0  tragos Lo recomiendo-
                | R2  los camareros son muy atentos-
 
 
@@ -3478,6 +3637,7 @@ comment: POSITIVO
 Texto orig: Me gusto mucho, excelente ambiente.  El servicio esta OK pero podria mejorar.  La cocina impresionante.  Lo mas recomendable, la entrada de canapes y vodkas saborizados. 
 	result:
                | R0  El servicio esta OK pero podria mejorar-
+               | R8  Me gusto mucho-
 
 
 comment: POSITIVO
