@@ -5,8 +5,8 @@
 		<item value="false" key="USE_EVALUATION"/>
 		<item value="250" key="DIALOG_Y_ORIGIN"/>
 		<item value="true" key="WRAP_TEXT"/>
-		<item value="377" key="DIALOG_HEIGHT"/>
 		<item value="463" key="DIALOG_X_ORIGIN"/>
+		<item value="377" key="DIALOG_HEIGHT"/>
 		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
 	</section>
 </section>

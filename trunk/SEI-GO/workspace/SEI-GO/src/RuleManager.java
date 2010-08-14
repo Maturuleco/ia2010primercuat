@@ -74,7 +74,7 @@ public class RuleManager {
 		int indexRule = 0;
 			
 		for (int i = from; i < words.length; i++) {
-			String word = words[i];
+			String word = words[i].toLowerCase();
 			String stemmerWord = getStemmerWord(word); 
 			if( !"".equals(word) ){
 					
@@ -89,7 +89,7 @@ public class RuleManager {
 					boolean finish = false;
 					int count = 0; 
 					while(!finish && i < words.length){
-						word = words[i];
+						word = words[i].toLowerCase();
 						stemmerWord = getStemmerWord(word);
 						if( someWordManagerContainWord(wmanagers, stemmerWord) ){
 							result += " " + word;
@@ -116,8 +116,13 @@ public class RuleManager {
 				indexRule++;
 			}
 		}
-		if(indexRule < rule.getEstructureSize())
+		if(indexRule < rule.getEstructureSize()) {
 			result = "";
+			MagicWordManager.getInstance().cleanWords();
+		} else {
+			MagicWordManager.getInstance().acceptWords();
+		}
+		
 		
 		if( !"".equals(result) ){
 			result+="-";
@@ -154,7 +159,7 @@ public class RuleManager {
 			System.out.println("No se pudo encontrar la raiz de la palabra. " + e.getMessage());
 			e.printStackTrace();
 		}
-		return stemmerWord;
+		return stemmerWord.toLowerCase();
 	}
 
 	public static String getName(){
