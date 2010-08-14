@@ -21,7 +21,7 @@ public abstract class WordManager {
 			while ( (line = buffer.readLine())!=null) {
 				String[] sourceWords = line.split(";");
 				for (int i = 0; i < sourceWords.length; i++) {
-					words.add(sourceWords[i]);
+					words.add(sourceWords[i].toLowerCase());
 				}
 			}
 		} catch (Exception e) {

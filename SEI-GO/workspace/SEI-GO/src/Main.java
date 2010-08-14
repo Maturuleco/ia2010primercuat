@@ -59,7 +59,7 @@ public class Main {
 	@SuppressWarnings("static-access")
 	private static void processComment(File dataSetResult, List<Comment> restoComments) throws IOException {
 		
-		File stemmerFile = new File( "..//SEI-GO result.csv");
+		File stemmerFile = new File( "..//SEI-GO result.txt");
 		FileWriter fstream = new FileWriter(stemmerFile);
 		BufferedWriter out = new BufferedWriter(fstream);
 		
@@ -129,6 +129,9 @@ public class Main {
 		System.out.print("-----------------------------------------------\n");
 		
 		out.close();
+		
+		MagicWordManager.getInstance().persistWords();
+		
 		System.out.print("	ya se generaron los resultados en " + stemmerFile.getName() + "\n");
 		System.out.print("	------------------------------------------------------\n");
 		

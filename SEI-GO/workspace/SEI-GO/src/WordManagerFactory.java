@@ -20,9 +20,11 @@ public class WordManagerFactory {
 			return ArticlesWordManager.getInstance();
 		}else if(name.startsWith(Constant.KEY_NAME_VE)){
 			return VerbWordManager.getInstance();
+		}else if(name.startsWith(Constant.KEY_NAME_MG)){
+			return MagicWordManager.getInstance();
 		}else{
 			StaticWordManager swm = StaticWordManager.getInstance();
-			swm.setName(name);
+			swm.setName(name.trim().split("\\)")[0]);
 			return swm;
 		}
 		
@@ -34,7 +36,10 @@ public class WordManagerFactory {
 		
 		if( name.contains("+") || name.contains("*")){
 			name = name.split("\\(")[1]; // elimino el parentesis
+		} else if (name.contains("\\|") ) {
+			name = name.split("\\(")[1]; // elimino el parentesis
 		}
+		
 		String[] names = name.split("\\|");
 			
 		for (int i = 0; i < names.length; i++) {
