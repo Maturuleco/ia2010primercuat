@@ -1,12 +1,44 @@
 \section{Descripcion}
 %Descripción y desarrollo de los experimentos.
 
+El dasarrollo del sistema se puede dividir en cuatro etapas: \emph{armado del diccionario}, \emph{definicion de reglas}, \emph{aplicacion de reglas} y \emph{recoleccion de resultados}. Las mismas serás descriptas en más profundidas a continuación.
+
+\subsection{Armado del diccionario}
+
+Antes de empezara a analizar los comentarios, fué nescesario definir las palabras que definen nuestro mundo y caracterizarlas, ya que por ejemplo, no cumplen la misma función gramátical \emph{pizza} o \emph{exelente}.
+
+Las entidades gramáticales que se terminaron usando son:
+\begin{itemize}
+\item Entidad: Define a los sustantivos del dominio relevantes, pueden ser comidas o mesas, ambiente, etc.
+\item Adjetivo: Son los adjetivos calificativos, estos a su vez se dividieron en:
+\subitem Positivo
+\subitem Neutro
+\subitem Negativo
+\item Verb: verbos
+\item Art: articulos
+\item Empty: Son todas aquellas palabras que no están definidas como ninguna otra entidad gramátical.
+\end{itemize}
+
+En este punto, hubiera sido ideal poder definir todas las palabras del idioma castellano, pero esto no es posible, por lo que se hizo fué definir las palabras más relevantes en nuestro dominio (los comentarios de la guia oleo).
+
+Con este fin fué nesesario primero determinar cuáles son estas palabras, lo que se optó por hacer fué simplemente ordenar las palabras por cantidad de apariciones en los comentarios. Con este procedimiento se logró conseguir una primera aproximación de las palabras más relevantes.
+
+Pero dado que el tiempo con que se contaba no era suficiente para caracterizar todas las palabras, se optó por caracterizar las palabras por su raíz, esto disminuyó notablemente la cantidad de palabras, ya que para caracterizar palabras como \emph{malo, mala, mal, malos, malas, males} sólo fué nescesario caracterizar \emph{mal}.
+
+Este método si bien ayuda a disminuir la cantidad de elementos del dominio, también trae sus consecuencias, ya que palabras como \emph{precios} y \emph{preciosamente} tienen la misma raíz \emph{preci}, siendo la primera una \emph{Entidad} y la otra un \emph{Adjetivo}. Pero esto fué algo con lo que se aceptó seguir adelante.
+
+Una vez obtenido un diccionario con todas las raices ordenadas por orden de aparición se comenzaron a caracterizar las más importantes manualmente.
+
+Luego de completar las subsiguientes etapas, una vez que se obteubo un sistema andando con este diccionario, se decidió enriquecer el diccionario de un modo más automático. Este proceso será explicado más adelante.
+
+
+\subsection{Definición de reglas}
 
 
 
+\subsection{Aplicación de reglas}
 
 
 
-
-
+\subsection{Recolección de resultados}
 
