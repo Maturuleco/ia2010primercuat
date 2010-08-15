@@ -1,0 +1,80 @@
+%%	SECCION documentclass																									 %%	
+%%---------------------------------------------------------------------------%%
+\documentclass[a4paper]{report}
+
+%\usepackage{amsmath}
+%\usepackage{amsfonts}
+%\usepackage{amssymb}
+
+%%---------------------------------------------------------------------------%%
+%%	SECCION usepackage																											 %%	
+%%---------------------------------------------------------------------------%%
+\usepackage{amsmath, amsthm}
+\usepackage{amsfonts}%
+\usepackage{amssymb}%
+\usepackage{caratula}
+\usepackage{hyperref} %para que haya hiperv�nculos
+\usepackage{graphicx} % Para el logo magico!
+\usepackage{alltt} % que es este paquete???
+\usepackage{tabularx}
+
+\usepackage[spanish]{babel} 
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[utf8]{inputenc}
+
+\pagenumbering{roman}
+\hyphenation{biggest-satelit bi-gestsatelit biggestsa-telit biggestsate-lit}
+\newenvironment{seccion}[1]{\section*{\underline{#1}}\linea \begin{flushleft}}{\end{flushleft}}
+
+\oddsidemargin 0cm
+\headsep -1.4cm
+\textwidth=16.5cm
+\textheight=23cm
+%\makeindex
+
+
+
+%%---------------------------------------------------------------------------%%
+%%	SECCION document	                                                       %%	
+%%---------------------------------------------------------------------------%%
+\begin{document}
+	\setcounter{page}{0} %para que numere a la caratula como p�gina 0 y a las demas a partir de 1
+
+%%---- Caratula -------------------------------------------------------------%%
+\title{Trabajo Práctico IA2}
+\author{Matías Pérez\\ Cecilia Sanchez}
+\date{Agosto, 2010}
+
+\materia{Inteligencia Artificial}
+\titulo{Extracción de la Informacion}
+\subtitulo{SEI-GO}
+\fecha{31 Mayo, 2010}
+
+\integrante{Cecilia Sanchez}{000/00}{chechus26@gmail.com}
+\integrante{Matías Pérez}{002/05}{elmaildematiaz@gmail.com}
+%\resumen{}
+
+\maketitle
+
+\tableofcontents
+
+\newpage
+
+\clearpage
+%Introducción. Objetivo y alcance.
+\include{partes/introduccion}
+%Descripción y desarrollo de los experimentos.
+\include{partes/descripcion}
+%Metodologías y métricas utilizadas.
+\include{partes/metodologias}
+%Presentación y análisis de resultados.
+\include{partes/resultados}
+%Conclusiones.
+\include{partes/conclusiones}
+%Trabajo Futuro y Referencias.
+\include{partes/futuro}
+%Anexos: dump de corridas, código y demás datos relevantes.
+\include{partes/anexos}
+
+\end{document}
