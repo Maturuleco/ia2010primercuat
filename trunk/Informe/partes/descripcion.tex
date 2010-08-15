@@ -27,18 +27,50 @@ Pero dado que el tiempo con que se contaba no era suficiente para caracterizar t
 
 Este método si bien ayuda a disminuir la cantidad de elementos del dominio, también trae sus consecuencias, ya que palabras como \emph{precios} y \emph{preciosamente} tienen la misma raíz \emph{preci}, siendo la primera una \emph{Entidad} y la otra un \emph{Adjetivo}. Pero esto fué algo con lo que se aceptó seguir adelante.
 
-Una vez obtenido un diccionario con todas las raices ordenadas por orden de aparición se comenzaron a caracterizar las más importantes manualmente.
+Una vez obtenido un diccionario con todas las raices ordenadas por orden de aparición se comenzaron a caracterizar las más importantes manualmente. Es necesario aclarar que la caracterización de las palabras fué considerando el contexto de la \emph{GuíaOleo}, ya que palabras como \emph{tierno} se tomó como un adjetivo positivo y palabras como \emph{abuelo} no se consideraron como entidades a pesar de ser sustantivos.
 
 Luego de completar las subsiguientes etapas, una vez que se obteubo un sistema andando con este diccionario, se decidió enriquecer el diccionario de un modo más automático. Este proceso será explicado más adelante.
 
 
 \subsection{Definición de reglas}
 
+Una vez obtenido el diccionario de palabras a usar, el siguiente paso fué representar el criterio por el cuál se definiría si una frase es relevante o no. Esto se realizó mediante el uso de expresiones regulares.
 
+De esta manera se definieron expresiones regulares de modo tal que sólo las frases que cumplan con estas expresiones cumplan con el criterio propuesto. Esto fué hecho manualmente y las expresiones regulares se fueron creando a base de sentido común y pruebas en el conjunto de datos de entrenamiento.
+
+Las reglas que se obtubieron finalmente fueron las siguientes:
+
+\begin{verbatim}
+(ART)* ENTITY (EMPTY)+ (ADJETIVE)+ ( y |ADJETIVE)*
+(ART)* ENTITY (VERB)+ (ADJETIVE)+ (EMPTY|ADJETIVE)*
+(ART)* ENTITY (VERB)+ (EMPTY)+ (ADJETIVE)+ (EMPTY|ADJETIVE|ART)* (ENTITY)*
+(ART)+ (ADJETIVE)+ ENTITY (EMPTY)+ (ADJETIVE)+
+(ART)+ ENTITY (ADJETIVE)+
+(no)* (VERB)* (ART)+ (ADJETIVE)+ ENTITY
+(ART)* ADJETIVE ART ENTITY
+(ART)* VERB ADJETIVE ART ENTITY
+VERB VERB ADJETIVE
+Muy ADJETIVE (ART)* ENTITY
+uno de los ADJETIVE ENTITY para comer
+no lo recomiendo
+no es para recomendar
+\end{verbatim}
+
+Se puede ver que la mayoría de las reglas depende sólo de las entidades definidas, pero hay casos en los que la expresion de la caracterización no es suficiente y se pierden casos de gran interés, como ser \comentario{no lo recomiendo}. Para no perder esto simplemente se agregó una regla que busca esta frase en particular.
+
+En este punto es justo hacer notar que los modificadores tales como \emph{muy}, \emph{no}, \emph{más}, etc. no fueron caracterizados, haciendo imposible la detección de estas palabras en frases más complejas  Al igual que no se detectan frases que contengan aposiciones u otras construcciones gramáticas con relativo grado de complejidad. Estos casos quedan para futuras iteraciones de este sistema.
 
 \subsection{Aplicación de reglas}
 
+Una vez que se cuenta con el diccionario de las palabras ya caracterizado y con las reglas definidas, es necesario aplicar estas reglas a los comentarios. Con este fín se desarrolló un sistema informático que simplemente busca la aparicion de las expresiones regulares en un comentario.
 
+El mismo toma los diferentes archivos con cada tipo de palabras, un archivo con las reglas definidas y por último los comentarios a evaluar.
+
+Este devuelve un archivo de texto con todos los comentarios seguidos de las frases obtenidas y un detalle de cuál fué la regla que se usó para detectar la frase.
 
 \subsection{Recolección de resultados}
+% Positivos, negativos, bla...
 
+
+\subsection{Consideraciones finales}
+% Be free ;)
