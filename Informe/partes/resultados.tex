@@ -52,3 +52,20 @@ R0: (ART)* ENTITY (EMPTY)+ (ADJETIVE)+ (y|ADJETIVE)*;
 \end{verbatim}
 
 Lo que sucedió aquí es que \emph{comer} se reconoció como una entidad, esto se debe a que la raíz de comer es \emph{com}, y esta es raíz también de: \comentario{comida}, y al ser está ultima una entidad tan importante en el contexto del trabajo se optó por identificarla como entidad bajo el riesgo de confundirla con el verbo \emph{comer}.
+
+\begin{quotation}
+
+\emph{
+\lq{}\lq{}{\bf El ambiente es agradable} y sencillo, {\bf la atencion fue muy buena}, de hecho ayudaron con sugerencias y recomendaciones ( quizas por ser dia de semana ) .  {\bf La comida fue deliciosa} y mi acompaniante, que estuvo en Mexico 2 meses, aseguro que {\bf fue el mejor Chile} Relleno que probo en Bs As. La pasta de frijoles y el guacamole exquisitos. {\bf La copa grande} de {\bf margarita es muy rica}. Creo que es el mas fiel a Mexico de todos los restaurantes, ya que tiene el estilo y sencillez de comida y el ambiente que realmente existe en ese pais.\rq{}\rq{}
+}
+
+Resultado:
+\begin{itemize}
+\item R1  el ambiente es agradable - la comida fue deliciosa
+\item R2  la atencion fue muy buena - margarita es muy rica
+\item R4  la copa grande
+\item R5  fue el mejor chile
+\end{itemize}
+
+\end{quotation}
+
