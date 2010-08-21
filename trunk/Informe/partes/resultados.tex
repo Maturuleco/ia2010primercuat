@@ -1,2 +1,54 @@
 \section{Resultados}
 %Presentación y análisis de resultados.
+
+Los resultados obtenidos lograron identificar en gran medida las partes relevantes de los comentarios, a continuación se analizaran distintos ejemplos:
+
+\begin{quotation}
+
+\emph{
+\lq{}\lq{}Fue una experiencia espantosa, la pizza parecia una galletita de agua con tomate rebajado en agua unas hojitas de radicheta y unos pedacitos infimos de queso brie.  de sabor horrenda,precio carisimo, tres pizzas grandes y en promedio dos coronas chicas por persona casi 500 pesos  ( eramos 6 personas ) .  les recomiendo abstenerce de ir, {\bf no es un buen lugar}, no se come bien, {\bf el servicio es malisimo}, te ponen la botella de corona en la mesa sin siquiera servirte medio vaso como corresponde.  un asco, deberia darles verguenza tener un restaurant asi, el peor al que he ido.\rq{}\rq{}
+}
+
+
+Resultado:
+\begin{itemize}
+\item R1  el servicio es malisimo
+\item R5  no es un buen lugar
+\end{itemize}
+
+\end{quotation}
+
+Lo primero que se puede apreciar es que las partes identificadas como importantes realmente lo son. Veamos que \comentario{el servicio es malisimo} y \comentario{no es un buen lugar}, ambos son dos apreciaciones sobre el restaurant en sí. En cambio partes como \comentario{les recomiendo abstenerse de ir}, no lo es, sino que es una comentario personal. Este último tipo de frases son las que se desan obviar.
+
+Por otro lado también se puede ver que se escapan frases que resultarían relevantes, como ser \comentario{no se come bien} o \comentario{precio carísimo}, esto se debe a la falta de presicion en las reglas. Se intentaron incluir este tipo de frases e incluir más reglas, pero muchas veces se generaba que se identifiquen como relevantes frases que no lo son, así que se optó por no identificar frases de más ante el peligro de obviar frases relevantes.
+
+
+\begin{quotation}
+
+\emph{
+\lq{}\lq{}Fuimos varios a almorzar y {\bf nos atendieron correctamente}, {\bf la comida es muy rica} y {\bf el ambiente es descontracturado} y casual.  En resumidas cuentas, {\bf un buen lugar} para {\bf comer una rica} pizza, si estan por la zona de Retiro.\rq{}\rq{}
+}
+
+
+Resultado:
+\begin{itemize}
+\item R0  comer una rica-
+\item R1  el ambiente es descontracturado-
+\item R2  la comida es muy rica-
+\item R5  un buen lugar-
+\item R8  nos atendieron correctamente-
+\end{itemize}
+
+\end{quotation}
+
+Veamos que en este comentario se reconoció casi en su totalidad como relevante. Lo único que se dejó afuera del mismo es que queda en la zona de retiro, esto se debe a que la localización del restaurant no cumple con el criterio propuesto para el sistema.
+
+Otra cosa relevante a ver es que se reconocío \comentario{un buen lugar} y \comentario{comer una rica} como frases relevantes por separado, esto se debe a que los conectores como \emph{para} no se incluyeron en el diccionario de palabras.
+
+Por otro lado se reconoció como una buena frase a \comentario{comer una rica}, la regla que se aplicó para identificarla es:
+
+\begin{verbatim}
+R0: (ART)* ENTITY (EMPTY)+ (ADJETIVE)+ (y|ADJETIVE)*;
+\end{verbatim}
+
+Lo que sucedió aquí es que \emph{comer} se reconoció como una entidad, esto se debe a que la raíz de comer es \emph{com}, y esta es raíz también de: \comentario{comida}, y al ser está ultima una entidad tan importante en el contexto del trabajo se optó por identificarla como entidad bajo el riesgo de confundirla con el verbo \emph{comer}.
