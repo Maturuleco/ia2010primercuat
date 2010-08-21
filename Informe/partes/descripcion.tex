@@ -64,13 +64,36 @@ En este punto es justo hacer notar que los modificadores tales como \emph{muy}, 
 
 Una vez que se cuenta con el diccionario de las palabras ya caracterizado y con las reglas definidas, es necesario aplicar estas reglas a los comentarios. Con este fín se desarrolló un sistema informático que simplemente busca la aparicion de las expresiones regulares en un comentario.
 
-El mismo toma los diferentes archivos con cada tipo de palabras, un archivo con las reglas definidas y por último los comentarios a evaluar.
+El mismo toma como entrada:
+\begin{itemize}
+\item los diferentes archivos con cada tipo de palabras,
+\item un archivo con las reglas definidas y
+\item los comentarios a evaluar.
+\end{itemize}
 
 Este devuelve un archivo de texto con todos los comentarios seguidos de las frases obtenidas y un detalle de cuál fué la regla que se usó para detectar la frase.
 
 \subsection{Recolección de resultados}
 % Positivos, negativos, bla...
 
+Los resultados obtenidos se plasmaron en un archivo de texto plano, en los mismos se encuentran el comentario original analizado y las reglas que aplicaron en el mismo, seguidas de el extracto que aplicó.
+De esta manera se puede observar con claridad el funcionamiento del sistema de extracción de información.
+
+Por otro lado, en base a los resultados obtenidos se realizó un análisis preliminar sobre cada uno, esto fué posible gracias a que los adjetivos fueron divididos en tres clases
+\begin{itemize}
+\item Positivos,
+\item Negativos,
+\item Neutros
+\end{itemize}
+De esta manera ante un comentario se hizo un balance entre los adjetivos positivos y negativos que el mismo contiene para dar una idea preliminar del matiz del mismo.
+
+Este resultado puede ser ampliamente mejorado, ya que no se vieron aspectos como la relación entre los diferentes adjetivos o el contexto en el que se encuentran los mismos ni el peso de estos. Ya que es muy distinto el peso de un adjetivo como \emph{exelente} y un adjetivo como \emph{bueno}, siendo los dos adjetivos positivos.
+
+Una vez realizado esta categorización se realiza también un resumen del restaurant teniendo en cuenta todos los comentarios del mismo y el aspecto general de cada uno de ellos.
+
+Se decidió este acercamiento, en vez de tener en cuenta el porcentaje de adjetivos positivos en el total de los comentarios, porque lo que se busca es encontrar el porcentaje de gente que estubo conforme con el restaurant, por esto es que primero se analiza cada comentario por separado y se lo clasifica aislado del resto y luego se clasifica el restaurant en base a los mismos.
+
+Vale aclarar que este análisis de los datos es sólo una análisis superficial, ya que el mismo excede el alcance del trabajo propuesto.
 
 \subsection{Consideraciones finales}
 % Be free ;)
