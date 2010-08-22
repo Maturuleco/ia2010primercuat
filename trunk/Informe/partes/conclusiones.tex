@@ -30,6 +30,40 @@ Luego, al ir iterando sobre el sistema y a medida que se detectaron las falencia
 \end{itemize}
 \end{quotation}
 
+Veamos otro ejemplo; en una de las primeras iteraciones, ante el siguiete comentario:
+
+\begin{quotation}
+\emph{
+\lq\lq{} {\bf La pizza nos encanta}, aunque esta vez vino medio fria y bastante quemada. El servicio de mesa es caro (para dos bruschettas de tomate). {\bf La bebida, carisima} y los postres, tambien {\bf son muy caros} dada la calidad. En fin, {\bf la pizza es excelente}, lo demas, deja bastante que desear. {\bf EL servicio es pesimo}, y bastante lento: le pedimos a la moza que nos limpiara, por favor, {\bf la mesa y lo hizo de muy mala gana}. El mantenimiento de los baños es poco.\rq\rq{}
+}
+
+\end{quotation}
+
+Se obtenían resultados como:
+
+\begin{quotation}
+\begin{itemize}
+\item R0  La bebida , carisima 
+\item R0 son muy caros
+\item R0 la mesa y lo hizo de muy mala
+\item R1 La pizza nos encanta
+\item R1 mesa es caro
+\item R1 la pizza es excelente
+\item R1 El servicio es pesimo
+\end{itemize}
+\end{quotation}
+
+Pero luego se consiguió oibtener el siguiente resultado:
+
+\begin{quotation}
+\emph{
+\lq\lq{} {\bf La pizza nos encanta}, aunque esta vez vino medio fria y bastante quemada. El servicio de {\bf mesa es caro} (para dos bruschettas de tomate). La bebida, carisima y los postres, tambien son muy caros dada la calidad. En fin, {\bf la pizza es excelente}, lo demas, deja bastante que desear. {\bf EL servicio es pesimo}, y bastante lento: le pedimos a la moza que nos limpiara, por favor, la mesa y lo hizo de muy mala gana. El mantenimiento de los baños es poco.\rq\rq{}
+}
+
+\end{quotation}
+
+Obteniendo resultados más precisos, que es el objetivo que se planteó. Ya que como se explicó en un comienzo se prioriza no identificar información irrelevante como relevante, a riesgo de obviar información que resulte relevante.
+
 Aunque se puede notar que el sistema no es perfecto, sí se puede decir que considerando la totalidad de los casos, el mismo identifica correctamente las partes relevantes en las mayorías de estos.
 
 Fuera de las iteraciones que se realizaron hasta el momento del sistema quedan casos que tiene que ver con la gramática, el contexto o frases verbales. De igual manera resulta interesante ver cómo sólo teniendo en cuenta las oraciones en sí y su configuración se pueden lograr resultados ampliamente satisfactorios, como ser:
