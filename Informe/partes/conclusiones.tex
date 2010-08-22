@@ -1,1 +1,54 @@
 \section{Conclusiones}
+
+Los resultados obtenidos por el sistema implmentados fueron más que satisfactorios. Se puedo apreciar cómo con simples reglas se puede identificar, a apartir de texto libre en lenguaje natural, contenidos relevantes de contenidos fútiles bajo cierto criterio.
+
+Cuando se comnzó con el trabajo de investigación no se tenían grandes expectativas para con el mismo. Pero a medida que el mismo fué creciendo y perfeccionandose se pudo ver cómo se puede crear un sistema funcional que cumpla con el propósito planteado. A medida que se fué iterando tanto sobre las reglas que definen el criterio de relevancia de una frase, como sobre el armado del diccionario de las palabras del dominio se pudo ver como estas refinaciones perfeccionaron el mismo. El progreso del sistema se vió plasmado claramente en los resultados que se fueron viendo.
+
+En las primeras iteraciones a partir de un comentario como:
+
+\begin{quotation}
+\emph{
+\lq\lq{}Para redondear, todo es de mal gusto, salvo la camarera que nos atendio bien, el resto desastre, precios altisimos, la comida no es mas de lo que se puede comer en un bodegon italiano, recomiendo que no vayan, van a salir de mal humor.\rq\rq{}
+}
+
+\end{quotation}
+
+Se obtenían resultados como:
+
+\begin{quotation}
+\begin{itemize}
+\item R0  bodegon italiano , recomiendo
+\item R3  el resto desastre
+\end{itemize}
+\end{quotation}
+
+Luego, al ir iterando sobre el sistema y a medida que se detectaron las falencias del mismo fué posible que a partir del mismo comentario el sistema detectara correctamente las oraciones relevantes. En el caso planteado anteriormente luego de refinar las reglas y el diccionario fué posible identificar como irrelevante \comentario{bodegon italiano , recomiendo}, con lo que el resultado obtenido finalmente fué sólo el siguiente:
+
+\begin{quotation}
+\begin{itemize}
+\item R4  el resto desastre
+\end{itemize}
+\end{quotation}
+
+Aunque se puede notar que el sistema no es perfecto, sí se puede decir que considerando la totalidad de los casos, el mismo identifica correctamente las partes relevantes en las mayorías de estos.
+
+Fuera de las iteraciones que se realizaron hasta el momento del sistema quedan casos que tiene que ver con la gramática, el contexto o frases verbales. De igual manera resulta interesante ver cómo sólo teniendo en cuenta las oraciones en sí y su configuración se pueden lograr resultados ampliamente satisfactorios, como ser:
+
+\begin{quotation}
+\emph{
+\lq\lq{}
+Filo continua sirviendo platos de {\bf la cocina italiana de muy buena calidad}: {\bf la pizza estaba deliciosa}; el rissoto hecho en el momento, con funghi de primera y arroz arborio, estaba  impecable; el semifredo final fue un poema.  {\bf La atencion muy buena}, especialmente en un lugar con tanto movimiento como es Filo, {\bf La decoracion descontracturada} y transgresora muy acorde con el sitio.  En resumen un restaurante de {\bf comida italiana de muy buen nivel} en el centro de BA.  Para mi gusto, {\bf un lugar muy recomendable}, que me da la seguridad de encontrar en el lo que busco cuando quiero comida italiana. 
+\rq\rq{}
+}
+Resultado:
+\begin{itemize}
+\item R0 la cocina italiana de muy buena calidad
+\item R0 la pizza estaba deliciosa
+\item R0 la atencion muy buena
+\item R0 comida italiana de muy buen nivel
+\item R0 un lugar muy recomendable
+\item R4  la decoracion descontracturada
+\end{itemize}
+\end{quotation}
+
+
