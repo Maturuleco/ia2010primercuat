@@ -94,7 +94,9 @@ El siguiente es un ejemplo del resultado completo de sistema aplicado a un comen
 \begin{verbatim}
 comment: POSITIVO
 <1-ops.yaml, user: 17248, service: bueno, food: buena, enviroment: muy bueno, date: 21-05-2010>
-Texto orig: La ambientacion es piola aunque es un lugar bastante ruidoso.  La pizza sigue siendo rica. La desilusion fue el tartufo, que la moza me aseguro que era igual que en Italia y era un simple helado de chocolate.  Que lo llamen de otra manera, entonces. 
+Texto orig: La ambientacion es piola aunque es un lugar bastante ruidoso.  La pizza sigue siendo
+rica. La desilusion fue el tartufo, que la moza me aseguro que era igual que en Italia y era un
+simple helado de chocolate.  Que lo llamen de otra manera, entonces. 
 	result:
                | R0  un lugar bastante ruidoso- la pizza sigue siendo rica-
                | R1  la ambientacion es piola aunque-
@@ -146,8 +148,8 @@ Esta falla es un caso típico que se dá cuando se introduce a la base de coment
 
 El proceso realizado para esto fue identificar a partir de resultados obtenidos frases relevantes. Luego se llevaron a reglas las estructuras de estas frases, y se procesan los comentarios, esto se verá mejor con un ejemplo:
 
-Se toma la frase \comentario{fue el mejor chile}, que tiene la siguiente estructura \begin{verbatim}VERBO ART ADJETIVO ENTIDAD\end{verbatim}, si lo que se quiere es reconocer todas las entidades que no se encuentran en el diccionario se remplaza ENTIDAD por la palabra clave \begin{verbatim}XXXX\end{verbatim}, de esta manera la regla sería: \begin{verbatim}VERBO ART ADJETIVO XXXX\end{verbatim}. 
+Se toma la frase \comentario{fue el mejor chile}, que tiene la siguiente estructura \emph{VERBO ART ADJETIVO ENTIDAD}, si lo que se quiere es reconocer todas las entidades que no se encuentran en el diccionario se remplaza \emph{ENTIDAD} por la palabra clave \emph{XXXX}, de esta manera la regla sería: \emph{VERBO ART ADJETIVO XXXX}. 
 
-Al analizar los comentarios del nuevo restaurant con esta regla, el sistema busca todas las oraciones que coincidan de manera tal que \begin{verbatim}{XXXX\end{verbatim} sea cualquier palabra no conocida, reportandola como posible ENTIDAD.
+Al analizar los comentarios del nuevo restaurant con esta regla, el sistema busca todas las oraciones que coincidan de manera tal que \emph{XXXX} sea cualquier palabra no conocida, reportandola como posible \emph{ENTIDAD}.
 
 Existen casos en las que no se desean identificar palabras especificas, por esta razón se incorporó un diccionario de excepciones, las cuales no serán reconocidas con el método anterior.
