@@ -2,22 +2,42 @@
 
 \subsection{Obejtivo}
 
-El trabajo consiste en la realización de un sistema de extracción de información para la \emph{GuiaOleo}\footnote{http://www.guiaoleo.com.ar}, para poder conseguir información relevante a partir de los comentarios que se encuentran en la misma.
+El trabajo consiste en la realización de un sistema de extracción de información (SEI) para la \emph{GuiaOleo}\footnote{http://www.guiaoleo.com.ar}, el cuál consiste en obtener información relevante a partir de los comentarios que se encuentran en la misma.
 
-El criterio usado para definir si cierta información es relevante o no es si la misma consiste en apreciaciones sobre la comida, el servicio y otros aspectos de los restaurants. De esta forma se considera información irrelevante aquella que trate sobre la persona en sí u otros aspectos  que se suelen encontrar en los comentarios personales.
+El criterio usado para definir si cierta información es relevante o no, es si la misma consiste en apreciaciones sobre la comida, el servicio y otros aspectos de los restaurants. De esta forma, se considera información irrelevante aquella que trate sobre la persona en sí o información que no esté relacionada con el lugar. Como ser \comentario{Voy siempre en navidad} o \comentario{Fuí con mi pareja}.
 
-Vale aclarar que dicho criterio es arbitrario, ya que se hubiera podido elegir cualquier otro criterio.
+%Vale aclarar que dicho criterio es arbitrario, ya que se hubiera podido elegir cualquier otro criterio.
+Dado el domino del sistema, se optó por este criterio, pero en otro contexto, el mismo puede no tener sentido.
 
-\subsection{Alcance}
+El objetivo práctico del SEI es conseguir de manera sencilla y rápida las carácterísticas relevantes de los restaurants sin leer la totalidad de los comentarios, esto es de gran utilidad si se cuenta con un gran volumen. Es imporatante destacar que si el sistema funciona correctamente la cantidad de información a analizar es mucho menor. 
+%Se trata de obtener de los comentarios los fragmentos de los mismos que cumplen con el criterio ante dicho.
 
-Lo que se intenta obtener con este sistema es una forma sencilla y rápida de conseguir las carácterísticas de los restaurants sin la necesidad de leer todos los comentarios. Se trata de obtener de los comentarios los fragmentos de los mismos que cumplen con el criterio ante dicho.
-
-Por ejemplo, del comentario:
-
+Para el siguiente comentario:
 \begin{quotation}
 \emph{\lq\lq{}Es uno de los pocos restaurantes que sirve cocina italiana de verdad y actualiza su menu; la atencion, si bien llevada mayormente por chicas jovenes es sobria, amable y eficiente. Voy muy seguido y he celebrado Navidad alli. Recomiendo tanto las pizzas como los platos de cocina. Dejen lugar para los postres...valen la pena acompañados por un ristretto lavazza autentico.\rq\rq{}}
 \end{quotation}
 
-Se desea obtener \comentario{Recomiendo tanto las pizzas como los platos de cocina} y \comentario{la atencion, [..] es sobria, amable y eficiente}, ya que comentarios como \comentario{Voy muy seguido y he celebrado Navidad alli} no resultan relevantes ante el criterio elegido.
+Los resultados esperados sería obtener las oraciones:
 
-En este trabajo nos conformaremos con que sólo reconozca la primera oración, ya que la segunda contiene información no relevante en el medio de la oración. Dejando el reconocimento de este tipo de oraciones para etapas posteriores y futuros refinamientos.
+\comentario{Recomiendo tanto las pizzas como los platos de cocina} y \comentario{la atencion, [..] es sobria, amable y eficiente}.
+
+y obviar las oraciones como \comentario{Voy muy seguido y he celebrado Navidad alli} ya que no expresa información relevante.
+
+
+\subsection{Alcance}
+
+En esta primera versión del sistema, el trabajo se enfocó en encontrar solamente oraciones que cumplan con ciertos patrones del lenguaje natural. Dado que los comentarios extraidos de la página corresponden a texto libre, muchas oraciones que contienen información importante se pueden perder ya que la manera en que se encuentran expresadas puede ser muy diversa.
+
+Por ejemplo, no recomendar un lugar se puede expresar de distintas maneras:
+\begin{itemize}
+\item \comentario{Les recomiendo no ir}
+\item \comentario{No le recomiendo ir a nadie}
+\item \comentario{Yo no lo recomendaria}
+\item \comentario{El lugar no es nada recomendable}
+\end{itemize}
+
+Teniendo un conjunto acotado de reglas quizás no todos los casos mensionados anteriormente puedan ser reconocidos. Estos instancias se verán incluidas en las siguientes refinaciones del sistema.
+
+
+
+
