@@ -1,3 +1,45 @@
 \section{Trabajo Futuro}
 
-Una posible mejora para obtener este matiz  ya que no se vieron aspectos como la relación entre los diferentes adjetivos o el contexto en el que se encuentran los mismos ni el peso de estos. Ya que es muy distinto el peso de un adjetivo como \emph{exelente} y un adjetivo como \emph{bueno}, siendo los dos adjetivos positivos.
+A continuación se detallaran algunas ideas que surgieron en el
+desarrollo del trabajo pero que no se llevaron finalmente a cabo, dejandolas para
+próximas versiones.
+
+
+\subsection{Expresiones Regulares:}
+
+Para la evaluación de las expresiones regulares se realiza el siguiente proceso:
+Se evalúa la oración con todas las reglas, por cada una de estas se
+recorre las palabras, si estas coinciden con la estructura que se
+espera se la guarda como resultado y se sigue evaluando la regla con el
+resto de la frase.
+
+Esto se lleva a cabo con un modulo que implementa
+la evaluación de expresiones regulares sobre texto, una idea
+interesante es etiquetar toda la oración con las palabras claves de
+los distintos grupos y aplicarle una expresión regular. Esto viene
+implementado en el lenguaje, el problema es que una vez que se
+obtiene qué parte de la oración de palabras claves cumple con la
+expresión regular, resulta dificultoso encontrar la parte de la oración
+original a la que hace referencia. Esta mejora puede hacer que se
+tengan reglas mas complejas.
+
+
+\subsection{Adjetivos:}
+
+Para clasificar a los comentarios se cuentan la cantidad de adjetivos
+positivos y negativos encontrados luego de evaluar las reglas; cada
+uno de estos tiene peso de un voto, pero esta claro que no es lo
+mismo decir excelente que horrible y lindo. Por esta razón se puede
+asignarle un peso diferente a los adjetivos y tener una aproximación
+mas correcta del matíz del comentario, para la asignación de pesos
+existe un indicador que se llama \emph{PMI} que indica la \lq\lq{}sinominia\rq\rq{} de las
+palabras definida sobre la probabilidad. Esto no fue implementado dado
+que en el dominio del problema la votación funciona con un alto
+porcentaje de aciertos.
+
+\subsection{Interfaz:}
+
+Otra idea que no se llegó a implementar se centra en la interfaz del sistema.
+Dado que la guia oleo consiste una página electrónica hubiera sido interezante acoplar el sistema desarrollado con un parser html que a partir de la página original genere una página igual, pero con las oraciones relevantes remarcadas de algún modo. Así también se podría proveer de un resumen del restaurant en particilar.
+
+Haciendo que la utilización del sistema sea mucho más intuitiva y integrandolo a la página original.
